@@ -12,3 +12,4 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 
 - https://status.box.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/box.com.xml
 - https://status.zapier.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/zapier.xml
+- https://status.snyk.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/snyk.xml

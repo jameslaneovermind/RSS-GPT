@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:16:51.966146
+Existing_entries: 0
+Fetching from https://status.snyk.io/history.rss
+Token length: 779
+Summarized using GPT-3.5-turbo-1106
+Append: [Snyk Code analysis times increased leading to timeouts](https://status.snyk.io/incidents/53gvxm08zzc5)
+Token length: 403
+Summarized using GPT-3.5-turbo-1106
+Append: [Snyk Projects Information Degradation](https://status.snyk.io/incidents/tqhl4dj1vz3c)
+Append: [Snyk Platform Degradation](https://status.snyk.io/incidents/nm6z47fhz60r)
+Append: [Data in Snyk Vulnerability Database is Stale](https://status.snyk.io/incidents/hl9kjgzn0w7y)
+Append: [Snyk Platform Upgrade](https://status.snyk.io/incidents/wt5jc7z8ppkn)
+Append: [Snyk Code - Gitlab Integration Degration](https://status.snyk.io/incidents/l0176v9b7nm2)
+Append: [Recurring Tests Delayed](https://status.snyk.io/incidents/5l66xgvfx23y)
+Append: [Snyk Reporting Data Delayed](https://status.snyk.io/incidents/h3fm00yt35mp)
+Append: [Snyk Security in Jira Cloud Integration Experiencing Delays](https://status.snyk.io/incidents/nmj9yr8ld9d9)
+Append: [IaC+ Issues Degradation](https://status.snyk.io/incidents/pz1lzvtr3tt3)
+Append: [Snyk Container monitoring degraded](https://status.snyk.io/incidents/gxy6xgjzb670)
+Append: [Data Delay for Legacy Reporting](https://status.snyk.io/incidents/m67nyvqk7wdg)
+Append: [MT-EU increased failure rate](https://status.snyk.io/incidents/nwppn6fzcxp6)
+Append: [Snyk Code Test Increased Times](https://status.snyk.io/incidents/fw1kwdqxhs4m)
+Append: [Bitbucket Integration Down in MT-EU](https://status.snyk.io/incidents/572cb4jd5cp7)
+Append: [Snyk Learn availability is degraded](https://status.snyk.io/incidents/cs1f1pjsbstw)
+Append: [[Upcoming Jan 16th 2024] DNS Change - possible breaking change if using IP allow list for traffic to Snyk](https://status.snyk.io/incidents/6t033gcy2dd3)
+Append: [platform-instability-MT-US](https://status.snyk.io/incidents/zdv62smyr1kf)
+Append: [Snyk Code - Reachability scan degradation in EU and AU environments](https://status.snyk.io/incidents/pr65chhpwvzg)
+Append: [Unmanaged (C/C++) scanning in some environments is degraded](https://status.snyk.io/incidents/5yct1m5fddb7)
+Append: [Automated Test Disruption - EU and AU Regions](https://status.snyk.io/incidents/sgm33nflrn16)
+Append: [Insights Data Update Delays](https://status.snyk.io/incidents/6p32dl0yxb2b)
+Append: [API Success Rate Degraded](https://status.snyk.io/incidents/2hmyd30f37fm)
+Append: [Javascript Project Testing Degraded](https://status.snyk.io/incidents/6g5ws731qjhx)
+Append: [Snyk container monitor degradation](https://status.snyk.io/incidents/lgnr1xrmy2ng)
+append_entries: 25
+Finish: 2024-02-20 19:16:55.894268

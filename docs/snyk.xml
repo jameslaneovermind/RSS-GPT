@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Snyk Status - Incident History</title>
+<link>https://status.snyk.io</link>
+
+<item>
+<title>Snyk Code analysis times increased leading to timeouts</title>
+<link>https://status.snyk.io/incidents/53gvxm08zzc5</link>
+<guid>https://status.snyk.io/incidents/53gvxm08zzc5</guid>
+<content:encoded><![CDATA[
+<div> There is an ongoing incident reported by the company. The status update is of medium importance. 
+
+Summary:
+
+- Investigating: Snyk Engineering is currently investigating the causes behind the increased analysis times and possible solutions. Users may still see longer than usual analysis times and timeouts for Snyk Code. Open source tests with Reachability enabled will also be affected. However, standard Open Source tests are not affected.
+- Update: A fix has been implemented and we are monitoring the results.
+- Identified: The issue has been identified and a fix is being implemented. 
+- Resolved: Snyk Engineers have confirmed that the fix has been successful. Snyk Code analysis times have normalized. The Snyk incident response has been stood down. <div>
+<p><small>Feb <var>19</var>, <var>16:53</var> UTC</small><br /><strong>Resolved</strong> - Snyk Engineers have confirmed that the fix has been successful. Snyk Code analysis times have normalised.<br /><br />The Snyk incident response has been stood down.</p><p><small>Feb <var>19</var>, <var>06:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>19</var>, <var>06:39</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>19</var>, <var>05:56</var> UTC</small><br /><strong>Update</strong> - Snyk Engineering is currently investigating the causes behind the increased analysis times and possible solutions. <br />Users may still see longer than usual analysis times and timeouts for Snyk Code. <br />Open source tests with Reachability enabled will also be affected. However, standard Open Source tests are not affected.</p><p><small>Feb <var>19</var>, <var>04:30</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Feb 2024 16:53:16 +0000</pubDate>
+<pubDate>Mon, 19 Feb 2024 16:53:16 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Projects Information Degradation</title>
+<link>https://status.snyk.io/incidents/tqhl4dj1vz3c</link>
+<guid>https://status.snyk.io/incidents/tqhl4dj1vz3c</guid>
+<content:encoded><![CDATA[
+<div> High importance
+
+Summary:
+- Identified incident of users having issues loading the Projects page or dashboard since 8:00 PM yesterday
+- Engineers implemented a fix and are monitoring the results
+- Incident has been resolved, no further impact is expected, and incident response has been stood down. <div>
+<p><small>Feb <var>19</var>, <var>10:12</var> UTC</small><br /><strong>Resolved</strong> - Snyk Engineers have confirmed that the fix has been successful and no further impact is expected.<br /><br />The Snyk incident response has been stood down.</p><p><small>Feb <var>18</var>, <var>12:31</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>18</var>, <var>12:15</var> UTC</small><br /><strong>Identified</strong> - Starting at 20:00 yesterday (2023-02-18), some users might have issues loading the Projects page or dashboard.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Feb 2024 10:12:59 +0000</pubDate>
+<pubDate>Mon, 19 Feb 2024 10:12:59 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Platform Degradation</title>
+<link>https://status.snyk.io/incidents/nm6z47fhz60r</link>
+<guid>https://status.snyk.io/incidents/nm6z47fhz60r</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>19</var>, <var>09:35</var> UTC</small><br /><strong>Resolved</strong> - During the investigation, we identified an issue with internal monitoring systems. There was no actual customer impact.<br /><br />The monitoring systems have been recovered and the Snyk incident response process has been stood down.</p><p><small>Feb <var>19</var>, <var>08:56</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Monitoring Systems identified that the Snyk platform was degraded between 08:12 and 08:23 UTC. Customers may have experienced downtime or delays during this timeframe. All services have fully recovered.<br /><br />Investigations are now underway to identify the cause of the degradation.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Feb 2024 09:35:29 +0000</pubDate>
+<pubDate>Mon, 19 Feb 2024 09:35:29 +0000</pubDate>
+</item>
+<item>
+<title>Data in Snyk Vulnerability Database is Stale</title>
+<link>https://status.snyk.io/incidents/hl9kjgzn0w7y</link>
+<guid>https://status.snyk.io/incidents/hl9kjgzn0w7y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>15:37</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Data in the database has returned to normal availability. No lasting impact is expected.</p><p><small>Feb <var>18</var>, <var>14:33</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>18</var>, <var>13:08</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>18</var>, <var>11:44</var> UTC</small><br /><strong>Investigating</strong> - The data in the Snyk vulnerability database is currently out of date. The most recent vulnerability information available was uploaded on 2024-02-14. <br />This means any new vulnerabilities added to our database since then will not be visible in Snyk products and will not be reported by scans.<br /><br />Engineering teams are currently investigating.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 15:37:49 +0000</pubDate>
+<pubDate>Sun, 18 Feb 2024 15:37:49 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Platform Upgrade</title>
+<link>https://status.snyk.io/incidents/wt5jc7z8ppkn</link>
+<guid>https://status.snyk.io/incidents/wt5jc7z8ppkn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>17</var>, <var>21:00</var> UTC</small><br /><strong>Completed</strong> - We have successfully completed the maintenance. Snyk is up and running, and normal operations can commence.</p><p><small>Feb <var>17</var>, <var>08:56</var> UTC</small><br /><strong>In progress</strong> - Planned work is now underway and will end at around 21.00 GMT today.</p><p><small>Feb <var> 5</var>, <var>20:04</var> UTC</small><br /><strong>Scheduled</strong> - Upcoming planned maintenance<br /><br />We have scheduled maintenance that will temporarily impact the availability of our SaaS services. These are significant enhancements to improve the long-term resilience of the Snyk platform.<br /><br />Maintenance is currently scheduled to take place:<br />February 17th at 9 AM GMT to 9 PM GMT<br />March 2nd at 1 PM GMT to March 3rd 1 AM GMT<br />March 16th at 1 PM GMT to March 17th 1 AM GMT<br /><br />We will provide prompt updates here if these dates are adjusted.<br /><br />During these periods, you may not be able to access Snyk’s services, including the CLI, API, UI and PR checks. For more information on this please check out our Maintenance Guide https://support.snyk.io/hc/en-us/articles/16431412798621.<br /><br />We understand that our services are important to your business operations and we have designed our maintenance process to minimize inconvenience to our customers. These maintenance windows enable us to upgrade the Snyk platform to our new, more robust and reliable service architecture, to better meet your business needs and to continue to scale in the future.<br /><br />Follow along at status.snyk.io. If you have any questions or need any assistance, please don't hesitate to contact our support team.</p>
+]]></content:encoded>
+<pubDate>Sat, 17 Feb 2024 21:00:57 +0000</pubDate>
+<pubDate>Sat, 17 Feb 2024 21:00:57 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Code - Gitlab Integration Degration</title>
+<link>https://status.snyk.io/incidents/l0176v9b7nm2</link>
+<guid>https://status.snyk.io/incidents/l0176v9b7nm2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>17:52</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>18</var>, <var>17:44</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue and are working on mitigation.</p><p><small>Feb <var>18</var>, <var>12:43</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>17</var>, <var>21:00</var> UTC</small><br /><strong>Investigating</strong> - Some users might experience errors when importing projects or running tests for Snyk Code projects using the Gitlab integration. <br />CLI and IDE operations remain unaffected.<br /><br />Snyk engineering teams are actively investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 17:52:04 +0000</pubDate>
+<pubDate>Sun, 18 Feb 2024 17:52:04 +0000</pubDate>
+</item>
+<item>
+<title>Recurring Tests Delayed</title>
+<link>https://status.snyk.io/incidents/5l66xgvfx23y</link>
+<guid>https://status.snyk.io/incidents/5l66xgvfx23y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>09:20</var> UTC</small><br /><strong>Resolved</strong> - The Snyk Incident Response process has been stood down. All Recurring Tests have been re-activated and will run as expected today.</p><p><small>Feb <var>13</var>, <var>15:03</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified.</p><p><small>Feb <var>13</var>, <var>15:03</var> UTC</small><br /><strong>Investigating</strong> - As part of mitigation efforts for the incident <a href="https://status.snyk.io/incidents/h3fm00yt35mp">Snyk Reporting Data Delayed</a>, the automated recurring tests for the 13th of February will be skipped. We expect tests to execute as usual from the 14th of February.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 09:20:16 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 09:20:16 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Reporting Data Delayed</title>
+<link>https://status.snyk.io/incidents/h3fm00yt35mp</link>
+<guid>https://status.snyk.io/incidents/h3fm00yt35mp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>08:24</var> UTC</small><br /><strong>Resolved</strong> - The Snyk Incident Response process has been stood down. There should be no further delays experienced with Reporting.</p><p><small>Feb <var>13</var>, <var>18:30</var> UTC</small><br /><strong>Monitoring</strong> - The underlying remains resolved by the Snyk technical teams. The data flow delay for reporting is now recovered for the majority of projects.  A small portion of projects may continue to observe some delay. Snyk technical teams are continuing to monitor the situation.</p><p><small>Feb <var>13</var>, <var>15:58</var> UTC</small><br /><strong>Update</strong> - The underlying issue has been resolved. However, there is still a significant delay in the data flow as we process the backlog. This continues to cause latency for Reporting data. Engineering teams continue to review ways to expedite this.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>14:55</var> UTC</small><br /><strong>Update</strong> - The underlying issue has been resolved. However, there is still a significant delay in the data flow as we process the backlog. This continues to affect latency for Reporting data. Engineering teams are investigating ways to expedite this.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>13:22</var> UTC</small><br /><strong>Update</strong> - Snyk Technical Engineers have successfully implemented a fix. However, it is expected that the reporting backlog will take approximately 13 hours to clear.<br /><br />Customers should be aware that Recurring Tests will also be significantly delayed.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>12:29</var> UTC</small><br /><strong>Identified</strong> - Snyk Technical Engineers have successfully implemented a fix. However, it is expected that the reporting backlog will take approximately 13 hours to clear. <br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>10:32</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Technical Engineers have implemented a fix, initial observations suggest the fix has been successful, however, monitoring remains ongoing.</p><p><small>Feb <var>13</var>, <var>09:43</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>13</var>, <var>08:54</var> UTC</small><br /><strong>Investigating</strong> - Snyk Monitoring systems have identified that reporting across the Snyk platform is currently delayed by approximately 8 hours.<br /><br />The Snyk incident response has been invoked and Engineers are troubleshooting the issue.<br /><br />Further updates to follow.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 08:24:25 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 08:24:25 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Security in Jira Cloud Integration Experiencing Delays</title>
+<link>https://status.snyk.io/incidents/nmj9yr8ld9d9</link>
+<guid>https://status.snyk.io/incidents/nmj9yr8ld9d9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>20:38</var> UTC</small><br /><strong>Resolved</strong> - The Snyk Incident Response process has been stood down. All services have been restored and no impact is currently being experienced.</p><p><small>Feb <var>13</var>, <var>15:44</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Engineers have deployed a fix. A monitoring period is now underway to ensure the incident has been successfully resolved.</p><p><small>Feb <var>13</var>, <var>14:27</var> UTC</small><br /><strong>Identified</strong> - Snyk Engineers have identified and deployed a potential fix. Monitoring is underway to validate the success of the fix.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>13:26</var> UTC</small><br /><strong>Update</strong> - Snyk Technical Engineers are continuing with troubleshooting activities to identify the cause of the below impact.<br /><br />The Snyk Security in Jira Cloud Integration is currently experiencing higher than usual latency. This means issues in new Snyk Projects might not yet be visible in Jira as expected.</p><p><small>Feb <var>13</var>, <var>09:50</var> UTC</small><br /><strong>Investigating</strong> - The Snyk Security in Jira Cloud Integration is currently experiencing higher than usual latency. This means issues in new Snyk Projects might not yet be visible in Jira as expected.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 20:38:32 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 20:38:32 +0000</pubDate>
+</item>
+<item>
+<title>IaC+ Issues Degradation</title>
+<link>https://status.snyk.io/incidents/pz1lzvtr3tt3</link>
+<guid>https://status.snyk.io/incidents/pz1lzvtr3tt3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>15:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>14:12</var> UTC</small><br /><strong>Identified</strong> - Snyk Engineers have identified and deployed a fix to resolve the IaC+ issue data degradation. Monitoring is underway to validate the success of the fix.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>13:00</var> UTC</small><br /><strong>Update</strong> - Snyk Engineers continue to investigate the issues causing the below impact.<br /><br />Issue data for projects in IaC+ is not being updated correctly. This means issue data in new projects or changes in existing projects will not be reflected in the platform.<br /><br />This does not affect the standard Snyk IaC offering.<br /><br />Further updates to follow.</p><p><small>Feb <var>13</var>, <var>11:19</var> UTC</small><br /><strong>Investigating</strong> - Issue data for projects in IaC+ is not being updated correctly. This means issue data in new projects or changes in existing projects will not be reflected in the platform.<br /><br />This does not affect the standard Snyk IaC offering.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 15:14:19 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 15:14:19 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Container monitoring degraded</title>
+<link>https://status.snyk.io/incidents/gxy6xgjzb670</link>
+<guid>https://status.snyk.io/incidents/gxy6xgjzb670</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>11:24</var> UTC</small><br /><strong>Resolved</strong> - Snyk Monitoring identified that Snyk Container monitoring of Operating System (OS) projects was significantly degraded between 10:31 and 11:07 UTC (9th February). This would have impacted customers' ability to monitor and import OS projects.<br /><br />Snyk Engineers have successfully resolved the issue and no further impact is expected.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 11:24:37 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 11:24:37 +0000</pubDate>
+</item>
+<item>
+<title>Data Delay for Legacy Reporting</title>
+<link>https://status.snyk.io/incidents/m67nyvqk7wdg</link>
+<guid>https://status.snyk.io/incidents/m67nyvqk7wdg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>15:19</var> UTC</small><br /><strong>Resolved</strong> - Snyk Engineers have implemented a fix, and data is now being successfully populated within the web UI and via the API. There is no further impact expected to customers services.</p><p><small>Feb <var> 7</var>, <var>15:05</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 7</var>, <var>13:33</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 7</var>, <var>11:54</var> UTC</small><br /><strong>Update</strong> - Snyk technical investigations remain ongoing.<br /><br />The most recent data available is from 2023-02-07 at 22:00 UTC.<br />It has been identified that the /reporting/issues/latest endpoint is currently showing no data, due to the delays being experienced. The web UI also shows no data for this time period.<br /><br />In order to retrieve data, a date prior to today’s date must be selected via the /reporting/issues/?from=[start_date]&amp;to=[end_date] endpoint.<br /><br />Further updates will follow.</p><p><small>Feb <var> 7</var>, <var>10:31</var> UTC</small><br /><strong>Update</strong> - Snyk Monitoring systems have identified significant delays affecting the data sourcing the Legacy Reporting UI and API. This only affects customers who have opted-in to the Legacy Reporting or who are using the V1 Reporting API. This does not affect the default Reporting offering.<br />This only affects the MT-US tenant (app.snyk.io). This does not affect the AU or EU tenants.<br /><br />The Snyk Incident response process has been invoked.<br />Technical investigations are underway to establish the cause of the incident. Further updates will follow.</p><p><small>Feb <var> 7</var>, <var>10:30</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 15:19:50 +0000</pubDate>
+<pubDate>Wed, 07 Feb 2024 15:19:50 +0000</pubDate>
+</item>
+<item>
+<title>MT-EU increased failure rate</title>
+<link>https://status.snyk.io/incidents/nwppn6fzcxp6</link>
+<guid>https://status.snyk.io/incidents/nwppn6fzcxp6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>03:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>20:05</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 1</var>, <var>18:40</var> UTC</small><br /><strong>Update</strong> - Snyk Technical Teams have identified a path to resolution. Mitigation steps have been taken, services have stabilized, and are now under close monitoring conditions.</p><p><small>Feb <var> 1</var>, <var>16:34</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems identified platform-wide degradation impacting customers within MT-EU. Customers may be experiencing a degradation of services whilst using Snyk. The Snyk incident response has been invoked.<br /><br />Technical investigations are underway to establish the cause of the incident. Further updates will follow.</p><p><small>Feb <var> 1</var>, <var>16:32</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Feb 2024 03:34:02 +0000</pubDate>
+<pubDate>Fri, 02 Feb 2024 03:34:02 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Code Test Increased Times</title>
+<link>https://status.snyk.io/incidents/fw1kwdqxhs4m</link>
+<guid>https://status.snyk.io/incidents/fw1kwdqxhs4m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>29</var>, <var>17:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>29</var>, <var>17:12</var> UTC</small><br /><strong>Update</strong> - The Snyk Incident Response process remains in flight. Snyk Technical Teams have completed their investigation.  Mitigation steps have been taken, services have stabilized, and are now under close monitoring.</p><p><small>Jan <var>29</var>, <var>17:10</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>29</var>, <var>16:28</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems have identified an increased backlog affecting Snyk Code Tests, resulting in a longer duration required to process Code tests.  Customers may experience extended testing times, which could lead to timeouts. The Snyk Incident Response process has been evoked. Technical Teams have been engaged. Initial triage is underway.</p><p><small>Jan <var>29</var>, <var>16:19</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 17:57:16 +0000</pubDate>
+<pubDate>Mon, 29 Jan 2024 17:57:16 +0000</pubDate>
+</item>
+<item>
+<title>Bitbucket Integration Down in MT-EU</title>
+<link>https://status.snyk.io/incidents/572cb4jd5cp7</link>
+<guid>https://status.snyk.io/incidents/572cb4jd5cp7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>26</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>11:46</var> UTC</small><br /><strong>Update</strong> - Snyk Technical Teams have deployed a patch to increase resiliency of the Bitbucket Integration. The team keeps monitoring the situation.</p><p><small>Jan <var>25</var>, <var>17:35</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems have identified an issue with the Bitbucket Integration within the MT-EU. The Snyk Incident Response has been invoked. Snyk Technical Teams have restarted the services to restore connectivity.  Services have stabilized and are now under monitoring conditions.</p><p><small>Jan <var>25</var>, <var>17:30</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>25</var>, <var>17:26</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 12:00:13 +0000</pubDate>
+<pubDate>Fri, 26 Jan 2024 12:00:13 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Learn availability is degraded</title>
+<link>https://status.snyk.io/incidents/cs1f1pjsbstw</link>
+<guid>https://status.snyk.io/incidents/cs1f1pjsbstw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>12:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>11:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>18</var>, <var>11:00</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 12:11:06 +0000</pubDate>
+<pubDate>Thu, 18 Jan 2024 12:11:06 +0000</pubDate>
+</item>
+<item>
+<title>[Upcoming Jan 16th 2024] DNS Change - possible breaking change if using IP allow list for traffic to Snyk</title>
+<link>https://status.snyk.io/incidents/6t033gcy2dd3</link>
+<guid>https://status.snyk.io/incidents/6t033gcy2dd3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>10:48</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>12</var>, <var>16:44</var> UTC</small><br /><strong>Update</strong> - [Date change for deeproxy.snyk.io]<br /><br />Snyk is planning to perform a DNS update on January 16th 2024, resulting in a change in IP addresses for 2 specific hostnames.<br />If your deployments, proxies, or any other configurations rely on IP whitelisting of the following IP address, action is required:<br /><br />35.190.124.19 (deeproxy.snyk.io)<br />The allow listing should instead be applied for the *.snyk.io domains.<br /><br />Impacted services, if using proxies or other network outbound control locking on IPs, includes:<br /><br />code agent deployments<br />code CLI + IDE<br />34.74.193.29 (broker.snyk.io) was updated on January 8th similarly. If issues, allow listing should instead be applied for the *.snyk.io domains.<br /><br />As a reminder, Snyk does not and will not support any static IP for any inbound to Snyk traffic. Please use domain allow list instead for *.snyk.io. Thank you.</p><p><small>Jan <var>10</var>, <var>12:42</var> UTC</small><br /><strong>Update</strong> - [Date change for deeproxy.snyk.io]<br /><br />Snyk is planning to perform a DNS update on January 15th 2024, resulting in a change in IP addresses for 2 specific hostnames.<br />If your deployments, proxies, or any other configurations rely on IP whitelisting of the following IP address, action is required:<br /><br />35.190.124.19 (deeproxy.snyk.io)<br />The allow listing should instead be applied for the *.snyk.io domains.<br /><br />Impacted services, if using proxies or other network outbound control locking on IPs, includes:<br /><br />code agent deployments<br />code CLI + IDE<br />34.74.193.29 (broker.snyk.io) was updated on January 8th similarly. If issues, allow listing should instead be applied for the *.snyk.io domains.<br /><br />As a reminder, Snyk does not and will not support any static IP for any inbound to Snyk traffic. Please use domain allow list instead for *.snyk.io. Thank you.</p><p><small>Dec <var>21</var>, <var>11:10</var> UTC</small><br /><strong>Update</strong> - Snyk is planning to perform a DNS update on January 8th 2024, resulting in a change in IP addresses for 2 specific hostnames.<br />If your deployments, proxies, or any other configurations rely on IP whitelisting of the following IP addresses, action is required:<br />- 34.74.193.29 (broker.snyk.io)<br />- 35.190.124.19 (deeproxy.snyk.io)<br /><br />The allow listing should instead be applied for the *.snyk.io domains.<br /><br />Impacted services, if using proxies or other network outbound control locking on IPs, includes:<br />- broker deployments<br />- code agent deployments<br />- code CLI + IDE<br /><br />As a reminder, Snyk does not and will not support any static IP for any inbound to Snyk traffic. Please use domain allow list instead for *.snyk.io. Thank you.</p><p><small>Dec <var>21</var>, <var>11:06</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>21</var>, <var>11:06</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 10:48:01 +0000</pubDate>
+<pubDate>Thu, 18 Jan 2024 10:48:01 +0000</pubDate>
+</item>
+<item>
+<title>platform-instability-MT-US</title>
+<link>https://status.snyk.io/incidents/zdv62smyr1kf</link>
+<guid>https://status.snyk.io/incidents/zdv62smyr1kf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>16</var>, <var>05:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>16</var>, <var>05:53</var> UTC</small><br /><strong>Update</strong> - Currently, the instability appears to be resolved with no ongoing customer impact, with services returning to normal. Engineering teams are continuing to monitor stability.</p><p><small>Jan <var>16</var>, <var>05:53</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>16</var>, <var>05:38</var> UTC</small><br /><strong>Update</strong> - We have noticed some service degradation for our MT-US customers. We are currently investigating.</p><p><small>Jan <var>16</var>, <var>05:37</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 16 Jan 2024 05:56:44 +0000</pubDate>
+<pubDate>Tue, 16 Jan 2024 05:56:44 +0000</pubDate>
+</item>
+<item>
+<title>Snyk Code - Reachability scan degradation in EU and AU environments</title>
+<link>https://status.snyk.io/incidents/pr65chhpwvzg</link>
+<guid>https://status.snyk.io/incidents/pr65chhpwvzg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>15</var>, <var>16:55</var> UTC</small><br /><strong>Resolved</strong> - Snyk monitoring systems alerted at approximately 13.30 UTC and advised Snyk Code reachability scans in our EU and AU environments were failing. The Snyk incident response process was invoked.<br /><br />Technical investigations commenced and the root cause was quickly established. Impact was in turn successfully mitigated at 14.40 UTC. Following a period of monitoring to confirm stability the incident was then confirmed resolved at 15.40 UTC.</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 16:55:15 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 16:55:15 +0000</pubDate>
+</item>
+<item>
+<title>Unmanaged (C/C++) scanning in some environments is degraded</title>
+<link>https://status.snyk.io/incidents/5yct1m5fddb7</link>
+<guid>https://status.snyk.io/incidents/5yct1m5fddb7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>15</var>, <var>12:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>15</var>, <var>12:20</var> UTC</small><br /><strong>Update</strong> - Unmanaged scanning is now restored.</p><p><small>Jan <var>15</var>, <var>12:02</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 12:20:21 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 12:20:21 +0000</pubDate>
+</item>
+<item>
+<title>Automated Test Disruption - EU and AU Regions</title>
+<link>https://status.snyk.io/incidents/sgm33nflrn16</link>
+<guid>https://status.snyk.io/incidents/sgm33nflrn16</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 9</var>, <var>10:23</var> UTC</small><br /><strong>Resolved</strong> - Snyk identified that some automated tests run between the 4th of January 2024 and the 7th of January 2024 were subject to disruption. During this time, some automated tests for European and Australian tenants were impacted; the scope of impact was confirmed limited to our Open Source and Container product suites only.     <br /><br />Tests from other sources (CLI test, Manual Retest, for example) would have continued working as expected. Our Technical Authority fully resolved the matter on the 8th of January, and automated tests are now functioning normally.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 10:23:28 +0000</pubDate>
+<pubDate>Tue, 09 Jan 2024 10:23:28 +0000</pubDate>
+</item>
+<item>
+<title>Insights Data Update Delays</title>
+<link>https://status.snyk.io/incidents/6p32dl0yxb2b</link>
+<guid>https://status.snyk.io/incidents/6p32dl0yxb2b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 6</var>, <var>02:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>23:57</var> UTC</small><br /><strong>Update</strong> - The Snyk Incident Response process remains in flight. Mitigation steps have been taken, Insight Reports data updates have been restored, and are now under close monitoring.</p><p><small>Jan <var> 5</var>, <var>23:53</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 5</var>, <var>22:16</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems have identified an issue with Insights data. Updates to Insights user's reports are affected. The Snyk Incident Response process has been evoked. Technical Teams have been engaged. Initial triage is underway.</p><p><small>Jan <var> 5</var>, <var>22:14</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 06 Jan 2024 02:22:07 +0000</pubDate>
+<pubDate>Sat, 06 Jan 2024 02:22:07 +0000</pubDate>
+</item>
+<item>
+<title>API Success Rate Degraded</title>
+<link>https://status.snyk.io/incidents/2hmyd30f37fm</link>
+<guid>https://status.snyk.io/incidents/2hmyd30f37fm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>20:15</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>15:56</var> UTC</small><br /><strong>Update</strong> - The Snyk Incident Response process remains in flight. Mitigation steps have been taken, services have stabilized and are now under close monitoring conditions. Snyk Technical Teams have restarted services for Package Issues API.  Additional Details to be provided after the monitoring period.</p><p><small>Dec <var>19</var>, <var>15:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>19</var>, <var>15:31</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems have identified degradation limited to Package Issues API.  Snyk Incident Response process has been evoked.  Technical Teams are investigating the issue; additional details will be provided in the next update.</p><p><small>Dec <var>19</var>, <var>15:03</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 20:15:48 +0000</pubDate>
+<pubDate>Tue, 19 Dec 2023 20:15:48 +0000</pubDate>
+</item>
+<item>
+<title>Javascript Project Testing Degraded</title>
+<link>https://status.snyk.io/incidents/6g5ws731qjhx</link>
+<guid>https://status.snyk.io/incidents/6g5ws731qjhx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>18</var>, <var>21:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>21:30</var> UTC</small><br /><strong>Update</strong> - Snyk Incident Response remains in flight.  Snyk Technical Teams have mitigated observed degradation by upgrading the service utilized by NPM.  Services are now being monitored to ensure stability.</p><p><small>Dec <var>18</var>, <var>21:20</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>20:10</var> UTC</small><br /><strong>Update</strong> - Snyk Incident Response remains in flight.  Snyk Technical Teams have identified the issue and are taking steps to mitigate the problem.  Additional details are to be provided.</p><p><small>Dec <var>18</var>, <var>18:51</var> UTC</small><br /><strong>Update</strong> - Snyk Incident Response remains in flight. Snyk Technical Teams are investigating next steps to mitigate the observed degraded capabilities with NPM and Yarn project tests.  Additional details to be provided.</p><p><small>Dec <var>18</var>, <var>17:24</var> UTC</small><br /><strong>Update</strong> - NPM and Yarn project test is degraded, this could mean import PR checks and Fix pull requests will be effected.</p><p><small>Dec <var>18</var>, <var>17:23</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 21:40:27 +0000</pubDate>
+<pubDate>Mon, 18 Dec 2023 21:40:27 +0000</pubDate>
+</item>
+<item>
+<title>Snyk container monitor degradation</title>
+<link>https://status.snyk.io/incidents/lgnr1xrmy2ng</link>
+<guid>https://status.snyk.io/incidents/lgnr1xrmy2ng</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>18</var>, <var>12:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>12:05</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>11:55</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>18</var>, <var>11:47</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 12:09:52 +0000</pubDate>
+<pubDate>Mon, 18 Dec 2023 12:09:52 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
