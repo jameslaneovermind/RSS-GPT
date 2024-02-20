@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Zapier Status - Incident History</title>
+<link>https://status.zapier.com</link>
+
+<item>
+<title>Task Usage section is currently inaccessible</title>
+<link>https://status.zapier.com/incidents/qbnv3mhs6q1z</link>
+<guid>https://status.zapier.com/incidents/qbnv3mhs6q1z</guid>
+<content:encoded><![CDATA[
+<div> Task Usage, Issue, Fix, Engineering Team, Support
+
+工程团队发现了一个导致任务使用部分无法访问的问题，并已经找到了问题的原因并正在解决。虽然任务使用页面仍然无法正常工作，但Zaps应该可以正常运行。工程团队已经发布了修复程序，并将继续监视，直到任务使用页面正常工作。如果您继续遇到任务使用方面的问题，请随时联系我们的支持团队。在2月18日晚上11:06 PM UTC左右，我们的团队发现了一个问题，导致任务使用部分无法访问。我们设法在UTC时间上午1:00之前恢复了全部功能。我们很高兴地确认，Zaps在整个事件过程中都能够如预期般运行，并且没有报告数据丢失。如果您继续遇到查看任务使用的错误，请在https://zapier.com/app/get-help与我们的支持团队联系。 <br><br>总结：工程团队发现并解决了任务使用部分无法访问的问题， Zaps依然正常运行，没有数据丢失。如果用户需要帮助，可以随时联系支持团队。 <div>
+<p><small>Feb <var>18</var>, <var>17:32</var> PST</small><br /><strong>Resolved</strong> - On February 18 at around 11:06 PM UTC, our team identified an issue causing the Task Usage section to be inaccessible. We have managed to restore full functionality around 1:00 AM UTC. We are pleased to confirm that Zaps continued to work as expected throughout the incident and that there were no data losses reported.<br /><br />If you continue to run into an error viewing your task usage, kindly reach out to our Support team at https://zapier.com/app/get-help.</p><p><small>Feb <var>18</var>, <var>16:58</var> PST</small><br /><strong>Monitoring</strong> - Our engineering team has deployed a fix for the issue and will continue to monitor it until the Task Usage page is working as expected. Please note there are no reported data losses and Zaps should continue to work as expected in the interim.<br /><br />If you continue to run into issues with viewing your Task Usage, don't hesitate to reach out to our Support team at https://zapier.com/app/get-help.</p><p><small>Feb <var>18</var>, <var>16:39</var> PST</small><br /><strong>Identified</strong> - We're currently experiencing an issue where some users are not able to view the stats in the Task Usage section. The engineering team has already identified the cause of the issue and is working on a resolution. Zaps should still work as expected.<br /><br />In the meantime, if you need additional help, please don't hesitate to reach out to our Support team at https://zapier.com/app/get-help.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 17:32:12 -0800</pubDate>
+<pubDate>Sun, 18 Feb 2024 17:32:12 -0800</pubDate>
+</item>
+<item>
+<title>Users may not be able to submit Support tickets</title>
+<link>https://status.zapier.com/incidents/3mg88q06h1xq</link>
+<guid>https://status.zapier.com/incidents/3mg88q06h1xq</guid>
+<content:encoded><![CDATA[
+<div> Resolved, Users, Support tickets, Contact form, 400 error<br>
+总结:<br>
+在2月16日，Zapier支持表单出现问题，导致一些用户无法成功提交支持票。经过调查和监控，问题已经完全解决，用户现在可以通过联系表单成功提交支持票。在此过程中，用户可以通过实时聊天支持联系我们。感谢大家的耐心等待！ <div>
+<p><small>Feb <var>16</var>, <var>12:24</var> PST</small><br /><strong>Resolved</strong> - This issue has been fully resolved. All users should be able to submit tickets to Zapier Support. We appreciate your patience!</p><p><small>Feb <var>16</var>, <var>11:26</var> PST</small><br /><strong>Monitoring</strong> - Users should be able to submit Support tickets successfully through the Zapier contact form: https://zapier.com/app/get-help<br /><br />Our team is currently monitoring this issue. If you continue seeing errors, please notify our Support team via live chat. <br /><br />Thank you for your patience as we worked to resolve this issue!</p><p><small>Feb <var>16</var>, <var>11:07</var> PST</small><br /><strong>Investigating</strong> - We're currently experiencing an issue where some users are receiving a 400 error when they attempt to submit a Support ticket through the Zapier contact form. https://zapier.com/app/get-help<br /><br />In the meantime, you can reach us via live chat support for urgent issues. We appreciate your patience while we resolve the issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 12:24:33 -0800</pubDate>
+<pubDate>Fri, 16 Feb 2024 12:24:33 -0800</pubDate>
+</item>
+<item>
+<title>Asana Integration Outage</title>
+<link>https://status.zapier.com/incidents/h36qytr7zkdz</link>
+<guid>https://status.zapier.com/incidents/h36qytr7zkdz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>11:19</var> PST</small><br /><strong>Resolved</strong> - Earlier today users experienced issues with their Asana app connection due to the auth encountering an issue. <br /><br />This was a result of Asana having an outage earlier today (https://status.asana.com/incidents/btfw7qd1cdhy). We’ve resolved this issue by reinstating your authentication and rerunning all your held tasks. No further actions is required.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 11:19:48 -0800</pubDate>
+<pubDate>Thu, 08 Feb 2024 11:19:48 -0800</pubDate>
+</item>
+<item>
+<title>Canvas currently unavailable</title>
+<link>https://status.zapier.com/incidents/cw5ys342kjdr</link>
+<guid>https://status.zapier.com/incidents/cw5ys342kjdr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>15:12</var> PST</small><br /><strong>Resolved</strong> - Starting at 10pm UTC, our team discovered an issue that caused difficulty in accessing Canvas on Zapier.com which has been successfully resolved as of 10:55pm UTC.<br /><br />As of now, you should have no issues accessing, creating, and sharing Canvases. Everything is functioning as expected.<br /><br />However, we did identify that some Canvases shared during the time of the incident might not have saved properly. We realize that this could be concerning and are sorry for the inconvenience it may have caused.<br /><br />Now that the incident has been resolved, we will keep investigating to make sure something similar does not occur in the future.<br /><br />If you are still experiencing any challenges or have any queries, please reach out to our Support Team at https://zapier.com/app/get-help. <br /><br />We truly appreciate your patience during this time and want to apologize for any inconvenience this incident might have caused.</p><p><small>Jan <var>30</var>, <var>14:36</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating a technical issue affecting the Zapier Canvas function. Users are currently unable to access Canvas - the page remains blank when attempting to load.<br /><br />Please note that this issue is specific to the Canvas function, and does not affect other areas of the platform. While we currently do not have a workaround for this issue, our technical team is doing their best to identify and resolve this issue promptly.<br /><br />For now, we're unable to provide an estimated time for resolution. Rest assured, we will keep you updated on any progress made.<br />Your patience is appreciated during this time. Should you need immediate assistance, please don't hesitate to reach out to our Support Team directly at https://zapier.com/app/get-help.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 15:12:17 -0800</pubDate>
+<pubDate>Tue, 30 Jan 2024 15:12:17 -0800</pubDate>
+</item>
+<item>
+<title>Delays in Zap history visibility</title>
+<link>https://status.zapier.com/incidents/7dvdjxsybjhc</link>
+<guid>https://status.zapier.com/incidents/7dvdjxsybjhc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>03:31</var> PST</small><br /><strong>Resolved</strong> - We appreciate your patience and understanding regarding recent issues experienced with Zapier. We encountered a problem starting at 0700 UTC which caused delays in displaying zap history. Thanks to the dedicated work of our technical team, the incident has been resolved as of 1100 UTC.<br />Please be assured that even though the zap history was delayed, all zaps ran on schedule and processed properly without any data loss. All runs during the incident period are now accurately reflected in your zap history.<br />We are closely monitoring this situation to ensure the fix holds firm and everything continues to work seamlessly. Your experience using Zapier matters to us, and we want to ensure you can rely on our service without disruptions.<br />If you have any concerns, queries, or if you encounter further issues, please feel free to reach out to our Support Team for assistance at https://zapier.com/app/get-help.</p><p><small>Jan <var>30</var>, <var>03:17</var> PST</small><br /><strong>Update</strong> - We are currently investigating an incident that began at 0700 UTC and is still ongoing. The issue is causing a delay in Zap run visibility in Zap history. At this time, we do not have any known workarounds.<br />We would like to reassure users that no data loss has been reported or expected due to this incident. Zaps are running as usual and the delay is reducing now.<br />We understand that the delay in visibility of Zap runs may impact your workflow, and we are working diligently to rectify this problem.<br />We will keep you updated as we gain more understanding of the issue. Your patience is greatly appreciated. Please feel free to reach out to our support team if you have any immediate concerns or questions.</p><p><small>Jan <var>30</var>, <var>03:10</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an incident that began at 0700 UTC and is still ongoing.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 03:31:54 -0800</pubDate>
+<pubDate>Tue, 30 Jan 2024 03:31:54 -0800</pubDate>
+</item>
+<item>
+<title>Slack Integration Outage</title>
+<link>https://status.zapier.com/incidents/dy80q6jbpkjc</link>
+<guid>https://status.zapier.com/incidents/dy80q6jbpkjc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>03:12</var> PST</small><br /><strong>Resolved</strong> - The Slack issue that was causing some users to experience latency with connecting to Slack and loading channels has been resolved by Jan 25, 2:27 AM GMT+1.<br />More details in https://status.slack.com/2024-01/0a000b0ad09623a0</p><p><small>Jan <var>24</var>, <var>12:44</var> PST</small><br /><strong>Identified</strong> - We've identified an incident affecting our Slack integration. This issue, currently under investigation, is causing some users to experience errors.<br /><br />Please note that this incident is related to an existing issue with Slack, as can be found on their status page here: <br /><br />https://status.slack.com/.<br /><br />Users continuing to experience problems are encouraged to reach out to our support team here: https://zapier.com/app/get-help. We're here to help you every step of the way.<br /><br />This page will be updated with the latest information as we continue to address this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 03:12:28 -0800</pubDate>
+<pubDate>Thu, 25 Jan 2024 03:12:28 -0800</pubDate>
+</item>
+<item>
+<title>Various errors surfaced in the Zap editor starting 11:35 GMT</title>
+<link>https://status.zapier.com/incidents/2hw8q57lvv35</link>
+<guid>https://status.zapier.com/incidents/2hw8q57lvv35</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>17</var>, <var>12:15</var> PST</small><br /><strong>Resolved</strong> - Around 11:35 UTC, Some of our users saw issues including "Failed to decrypt credentials error". Consequently, some Zaps were turned off due to this.<br /><br />We have managed to solve the errors causing this disruption, and all paused Zaps have been turned back on.<br /><br />This issue is now resolved and all instant trigger Zap runs have been replayed. For polling trigger Zaps, you may have received an email about your Zap being turned off due to this error during this timespan. If so, your Zap was unable to trigger on new data from the time that it was turned off until the time that it was turned back on. <br /><br />For these runs, you can either replay these in this fashion for apps that can use our transfer option: https://help.zapier.com/hc/en-us/articles/8496274335885-Transfer-existing-data-using-a-Zap <br /><br />For others that are not supported by Transfer, you can alternatively run these in this method using either our Tables app or Google Sheets: https://help.zapier.com/hc/en-us/articles/21695863326861<br /><br />We appreciate your understanding and patience as we worked to resolve the incident. If you encounter any further issues or need any assistance with Zap runs from this time, please don't hesitate to reach out to our support team at https://zapier.com/app/get-help for assistance.</p><p><small>Jan <var>17</var>, <var>05:19</var> PST</small><br /><strong>Monitoring</strong> - We are currently monitoring an incident that started at around 11:35 UTC.<br /><br />Some of our users have been facing issues including "Failed to decrypt credentials error". Consequently, some Zaps have been turned off due to this.<br /><br />Unfortunately, this is causing some failures and there is currently no known workaround.<br /><br />We have managed to solve the errors causing this disruption, but the impacted Zaps remain paused for the time being.<br /><br />We want to reassure you that we’re continuously keeping an eye on this issue in order to make sure that the fix has been successfully applied.<br /><br />Your patience and understanding are greatly appreciated. For any further queries, please don’t hesitate to reach out to our supportive team: https://zapier.com/app/get-help.</p>
+]]></content:encoded>
+<pubDate>Wed, 17 Jan 2024 12:15:19 -0800</pubDate>
+<pubDate>Wed, 17 Jan 2024 12:15:19 -0800</pubDate>
+</item>
+<item>
+<title>Delayed runs for polling triggers</title>
+<link>https://status.zapier.com/incidents/ltjhjcg1mb0s</link>
+<guid>https://status.zapier.com/incidents/ltjhjcg1mb0s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 3</var>, <var>10:01</var> PST</small><br /><strong>Resolved</strong> - We're glad to inform you that the earlier incident with delayed polling triggers on Zapier has been resolved as of 14:30 UTC. The issue began at 14:00 UTC and was promptly addressed by our team.<br /><br />During the incident, users may have experienced a delay in polling triggers. We want to assure you that there was no data loss as a result of this incident.<br /><br />No workarounds were necessary because the incident was swiftly handled. Now, polling triggers should function as expected.<br /><br />We appreciate your understanding and patience as we worked to resolve the incident. If you encounter any further issues, please don't hesitate to reach out to our support team for assistance. <br /><br />We're sorry for any inconvenience caused.</p><p><small>Jan <var> 3</var>, <var>08:58</var> PST</small><br /><strong>Monitoring</strong> - The issue has been identified and a fix has been implemented. We are currently monitoring the polling triggers.</p><p><small>Jan <var> 3</var>, <var>08:23</var> PST</small><br /><strong>Investigating</strong> - Investigating: December 30<br /><br />We're currently experiencing an issue that is causing a delay to Zap runs with polling triggers. If you are a user experiencing this, please know that we are actively investigating the situation.<br /><br />The issue came to our attention on December 30, and since then our technical team has been working diligently to identify the cause. Please understand that this incident does not reflect the usual performance of our services, and we are making every effort to restore normal functionality.<br /><br />At this time, we believe this is little risk of data loss associated with this incident and we're putting all our energies into resolving the issue as quickly as possible.<br /><br />We highly value your patience during this period and encourage you to reach our Support Team if you need further assistance: https://zapier.com/app/get-help. We promise to keep you updated as we continue to explore and address this situation. Thank you for your understanding.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jan 2024 10:01:02 -0800</pubDate>
+<pubDate>Wed, 03 Jan 2024 10:01:02 -0800</pubDate>
+</item>
+<item>
+<title>Zapier Editor right-hand sidebar unable to load when editing steps</title>
+<link>https://status.zapier.com/incidents/1zm22qnswmy6</link>
+<guid>https://status.zapier.com/incidents/1zm22qnswmy6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>21</var>, <var>09:33</var> PST</small><br /><strong>Resolved</strong> - The incident that began at 16:05 UTC, impacting the loading of the right-hand sidebar on Zapier, has now been resolved.<br />We have implemented a fix, and can confirm that the right-hand sidebar is now loading correctly.<br />If you are still experiencing issues with the right-hand sidebar, we recommend refreshing the page or performing a hard refresh. In the unlikely event that the problem persists, please do not hesitate to contact our Support Team for further assistance.</p><p><small>Dec <var>21</var>, <var>08:22</var> PST</small><br /><strong>Monitoring</strong> - We are currently monitoring an incident that started at 16:05 UTC, impacting the loading of the right-hand sidebar on Zapier . This appears to be due to intermittent failures from one of our third-party vendors.<br /><br />If you are currently unable to view the right-hand sidebar, we'd like to reassure you that a simple refresh of the page or a hard refresh can temporarily solve the issue.<br /><br />While we focus on resolving this issue, please rest assured that your Zaps are continuing to run and process as expected.<br /><br />We are actively monitoring the situation and will provide more updates as necessary. <br /><br />If you encounter any further issues or have concerns, please don't hesitate to get in touch with our Support Team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 09:33:05 -0800</pubDate>
+<pubDate>Thu, 21 Dec 2023 09:33:05 -0800</pubDate>
+</item>
+<item>
+<title>Some Zaps using Facebook Lead Ads aren't triggering</title>
+<link>https://status.zapier.com/incidents/z3rtcgl07409</link>
+<guid>https://status.zapier.com/incidents/z3rtcgl07409</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>18</var>, <var>04:10</var> PST</small><br /><strong>Resolved</strong> - At around 11 AM UTC on December 12, 2023, our team identified an issue that caused some Facebook Lead Ads triggers to stop working. Our team has since completed the account migrations and Zaps should now trigger as expected.<br /><br />If your Zaps are still not triggering, we kindly ask that you reconnect your Facebook Lead Ads connection, switch your Zap off, and switch it back on. For the leads that have not been triggered during the incident, they can still pushed to the other apps using Transfer.<br /><br />If you have any other questions or need further assistance, please don't hesitate to reach out to our Support Team at https://zapier.com/app/get-help.</p><p><small>Dec <var>15</var>, <var>17:32</var> PST</small><br /><strong>Monitoring</strong> - We have successfully processed all affected Zaps using Facebook Lead Ads and continue to monitor them. Users should now see their Zaps functioning normally.<br /><br />We will continue to monitor the situation closely.<br /><br />Important Notes:<br />• Users with expired Facebook credentials may need to manually reconnect their Facebook Lead Ads to their Zaps.<br />• If issues persist, please review your permissions on the related Facebook page, and reconnect your Facebook Lead Ads.<br /><br />For any further assistance, please contact Zapier Support Team at https://zapier.com/app/get-help<br /><br />We appreciate your patience and understanding.</p><p><small>Dec <var>14</var>, <var>23:10</var> PST</small><br /><strong>Identified</strong> - We've identified the issue affecting Zaps with Facebook Lead Ads and are implementing a fix. Users will start seeing their Zaps work automatically as we recover. If you need further assistance, please contact Zapier Support Team at https://zapier.com/app/get-help.</p><p><small>Dec <var>14</var>, <var>07:41</var> PST</small><br /><strong>Investigating</strong> - Our team is currently investigating an issue that began on Dec 12th, which is affecting some Zaps using the New Lead trigger in Facebook Lead Ads. These particular Zaps are not triggering as expected.<br /><br />To those impacted by this, a workaround which has proven useful for some is turning off the Zap and then switching it back on again. <br /><br />Some users may need to reconnect their app connection, if the app has been disconnected. Please try reconnecting the app and then republish the Zap.<br /><br />An update on this incident will be provided as soon as there is more information. We understand the inconvenience this may cause and appreciate your patience as we work diligently towards a resolution. If you need further assistance, please reach out to our Support Team at https://zapier.com/app/get-help.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 04:10:32 -0800</pubDate>
+<pubDate>Mon, 18 Dec 2023 04:10:32 -0800</pubDate>
+</item>
+<item>
+<title>Zap editor pages are inaccessible in new tabs</title>
+<link>https://status.zapier.com/incidents/549p15k265sf</link>
+<guid>https://status.zapier.com/incidents/549p15k265sf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>13</var>, <var>15:46</var> PST</small><br /><strong>Resolved</strong> - We're happy to announce that the incident, which hindered access to the Editor, has been resolved as of 11:41 PM UTC. Users previously experiencing the "Too many redirects" error message should now be able to use the Editor without any hitches.<br />This brief disruption, which started around 11 PM UTC, led to the inability of users to access the Editor in new browser windows. However, during the incident duration, our team was able to find a workaround - accessing the editor from the Zap overview page.<br />We want to reassure you that no data was lost during this incident, and you can now access the Editor as usual. Our team has worked diligently to get things back on track promptly.<br />In our commitment to providing seamless service, we are implementing measures to prevent such incidents from recurring in the future. If you still encounter any issues, we kindly request you to get in touch with our Support Team through https://zapier.com/app/get-help.<br />Once again, we appreciate your understanding and patience during this period. We sincerely apologize for any inconvenience caused.</p><p><small>Dec <var>13</var>, <var>15:30</var> PST</small><br /><strong>Identified</strong> - When opening Zap editor pages in a new browser tab or via a direct link, browsers will present an error message. The editor pages can be accessed from the Zaps overview page. <br /><br />Our team have identified the source of the issue and are working on a fix.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Dec 2023 15:46:48 -0800</pubDate>
+<pubDate>Wed, 13 Dec 2023 15:46:48 -0800</pubDate>
+</item>
+<item>
+<title>Intermittent 504 and 403 Errors</title>
+<link>https://status.zapier.com/incidents/m74z1qn3ngdz</link>
+<guid>https://status.zapier.com/incidents/m74z1qn3ngdz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>12</var>, <var>12:36</var> PST</small><br /><strong>Resolved</strong> - The incident which began at 5:25pm (UTC) causing various access issues to Zapier has now been resolved as of 8:02pm (UTC). Specifically, users were experiencing 5xx and 403 errors due to an issue related to Zap Sharing.<br /><br />We have identified the root cause of the problem and applied the necessary fixes. Users should no longer be encountering these errors.<br /><br />We are undertaking a comprehensive review of the incident and implementing measures to prevent similar occurrences in the future.<br /><br />We want to ensure your experience with Zapier is as smooth as possible. If you continue to face any issues or have any questions, please don’t hesitate to reach out to our Support Team: <br /><br />https://zapier.com/app/get-help</p><p><small>Dec <var>12</var>, <var>12:21</var> PST</small><br /><strong>Monitoring</strong> - An issue causing 504 and 403 Cloudfront errors was recently encountered by users in the Zap Sharing feature. This problem has since been addressed and users should no longer be experiencing these issues.<br /><br />Your Zaps have continued to run and process as expected throughout this incident, no impacts or data loss have been experienced.<br />We are presently in the monitoring stage to ensure the fix is completely effective. <br /><br />We appreciate your patience during this time and encourage anyone experiencing further issues to contact our Support Team at https://zapier.com/app/get-help</p><p><small>Dec <var>12</var>, <var>11:58</var> PST</small><br /><strong>Identified</strong> - The issues has been identified and our team is currently working on implementing a solution. <br /><br />We'll provide an update as soon as we have any new information.<br /><br />If you have any questions in the meantime, please reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Dec <var>12</var>, <var>10:28</var> PST</small><br /><strong>Investigating</strong> - We're currently investigating an issue affecting some of our users. We've noticed that some users are encountering cloudfront errors when trying to visit Zapier.com among other pages.<br /><br />The errors displayed may appear as either a '504' or a '403' error message. We are diligently working to figure out what may be causing this problem.<br /><br />Please be assured that we are committed to resolving this matter as quickly as possible. You may continue using our services as we investigate this incident.<br /><br />We appreciate your patience during this time. If you need assistance or have any queries, please do not hesitate to contact our support team.<br /><br />https://help.zapier.com/hc/en-us</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Dec 2023 12:36:41 -0800</pubDate>
+<pubDate>Tue, 12 Dec 2023 12:36:41 -0800</pubDate>
+</item>
+<item>
+<title>Zapier Logins and Signups using Google SSO may be slow to process or return a 502 error</title>
+<link>https://status.zapier.com/incidents/0xytwzvs91gs</link>
+<guid>https://status.zapier.com/incidents/0xytwzvs91gs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 7</var>, <var>14:21</var> PST</small><br /><strong>Resolved</strong> - Due to a larger overarching issue with Google failures, users began to see login failures while attempting to login to Zapier via Google SSO. The issue began at 7:07 PM UTC and was fully resolved by 9:22 PM UTC. <br /><br />This issue has been resolved. Users should now be able to log in as usual, without the need for any workarounds.<br /><br />We apologize for any inconvenience and disruption this may have caused. Should you encounter any further issues, please get in touch with our support team. <br /><br />https://zapier.com/app/get-help</p><p><small>Dec <var> 7</var>, <var>13:34</var> PST</small><br /><strong>Monitoring</strong> - Our team has identified the issue and implemented a fix. We're now monitoring the results.<br /><br />Users can still login via username/password if they have previously set a password. Users who have not already set a password can use 'Forgot password' to set one up and login via username/password.<br /><br />We appreciate your patience while we resolve the issue. Please reach out to our Support Team if you need anything: https://zapier.com/app/get-help</p><p><small>Dec <var> 7</var>, <var>12:16</var> PST</small><br /><strong>Investigating</strong> - We're currently experiencing an issue where logins and signups using Google SSO are slow to process or return a 502 error for a subset of users.<br /><br />We're currently investigating this issue and working to restore access to Google SSO.<br /><br />Users can still login via username/password if they have previously set a password. Users who have not already set a password can use 'forgot password' to set one up and login via username/password.<br /><br />We appreciate your patience while we resolve the issue. Please reach out to our Support Team if you need anything: https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Dec 2023 14:21:38 -0800</pubDate>
+<pubDate>Thu, 07 Dec 2023 14:21:38 -0800</pubDate>
+</item>
+<item>
+<title>Editor and other services not accessible</title>
+<link>https://status.zapier.com/incidents/bbd5dkrzh28f</link>
+<guid>https://status.zapier.com/incidents/bbd5dkrzh28f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>10:50</var> PST</small><br /><strong>Resolved</strong> - From 4:55pm UTC until 6:05pm UTC, some users experienced difficulties accessing certain features on Zapier.com including the Zapier Editor, Chatbot, Tables, and Sidebar Settings. This was due to a server error labelled "Function Invocation Failed".<br /><br />We can now confirm that the incident has been resolved and all features on Zapier.com are functioning normally. During this incident, no Zaps failed nor was any data lost.<br /><br />If you find the system still being unresponsive, try a hard refresh on Zapier, which should fix the issue at your end.<br /><br />Our apologies if this caused any inconvenience. We are working behind the scenes to make sure an incident like this won't reoccur. If you still experience any issues, please get in touch with our Support Team at https://zapier.com/app/get-help. We appreciate your understanding and patience.</p><p><small>Dec <var> 5</var>, <var>10:09</var> PST</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we're now monitoring for any ongoing issues.<br /><br />For the time being, please refresh your browser or try a hard refresh if you're continuing to see this issue.<br /><br />If you have any questions, please don't hesitate to reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Dec <var> 5</var>, <var>09:52</var> PST</small><br /><strong>Identified</strong> - Our team has identified the cause of the issue and we're working on a resolution.<br /><br />If you need immediate assistance, please don't hesitate to reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Dec <var> 5</var>, <var>09:34</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 5</var>, <var>09:06</var> PST</small><br /><strong>Investigating</strong> - We're currently investigating an incident where the Zap editor is returning an error, A server error has occurred FUNCTION INVOCATION FAILED. <br /><br />We're also seeing this incident impact the following pages: Chatbot, Tables by Zapier, and Settings sidebar on Zapier.com. <br /><br />Our team is working on identifying the issue and is actively working on mitigating the disruption. <br /><br />We'll continue to update this StatusPage as we work on resolving the issue. We appreciate your patience while we investigate and resolve this incident.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 10:50:04 -0800</pubDate>
+<pubDate>Tue, 05 Dec 2023 10:50:04 -0800</pubDate>
+</item>
+<item>
+<title>Login to Zapier using Facebook Single Sign On (SSO) degraded</title>
+<link>https://status.zapier.com/incidents/s6t66fqkbqk5</link>
+<guid>https://status.zapier.com/incidents/s6t66fqkbqk5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 3</var>, <var>17:07</var> PST</small><br /><strong>Resolved</strong> - Our engineers have deployed a fix which will has restored access to the Facebook login page.</p><p><small>Dec <var> 3</var>, <var>15:50</var> PST</small><br /><strong>Identified</strong> - The source of the issue has been identified and the scope of the issue is narrower than initially thought. The issue affects login Facebook SSO from specific pages. The team are currently working on a fix for this issue.</p><p><small>Dec <var> 3</var>, <var>14:15</var> PST</small><br /><strong>Investigating</strong> - Some users may experience issues when trying to login to Zapier using Single Sign On from Facebook.</p>
+]]></content:encoded>
+<pubDate>Sun, 03 Dec 2023 17:07:35 -0800</pubDate>
+<pubDate>Sun, 03 Dec 2023 17:07:35 -0800</pubDate>
+</item>
+<item>
+<title>Some users are not able to access the Zapier login or signup page</title>
+<link>https://status.zapier.com/incidents/jy149fttg67t</link>
+<guid>https://status.zapier.com/incidents/jy149fttg67t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>21</var>, <var>14:13</var> PST</small><br /><strong>Resolved</strong> - We've implemented a fix to address an issue where a subset of users  were unable to access the Zapier login or signup page, starting at 6:50 pm UTC.<br /><br />We are confident the fix has fully resolved the issue and all users should be able to login without issue.<br /><br />If you have further questions, please reach out to our Support Team here: https://zapier.com/app/get-help</p><p><small>Nov <var>21</var>, <var>13:34</var> PST</small><br /><strong>Monitoring</strong> - We've implemented a fix to address an issue where a subset of users  were unable to access the Zapier login or signup page, starting at 6:50 pm UTC. <br /><br />The incident is now in a monitoring state and all users should be able to login without issue.<br /><br />We'll continue monitoring and update this StatusPage within the next 24 hours once we're confident the fix has fully resolved the issue. If you have further questions, please reach out to our Support Team here: https://zapier.com/app/get-help</p><p><small>Nov <var>21</var>, <var>12:20</var> PST</small><br /><strong>Investigating</strong> - We're currently experiencing an issue where a subset of users can’t access the Zapier login or signup page, starting at 6:50 pm UTC.<br /><br />We’re investigating this issue and will update the StatusPage has soon as the issue has been resolved for all users. <br /><br />We appreciate your patience. Please reach out to our Support Team if you have any questions: https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Nov 2023 14:13:02 -0800</pubDate>
+<pubDate>Tue, 21 Nov 2023 14:13:02 -0800</pubDate>
+</item>
+<item>
+<title>Zap Editor Freezing and Page Unresponsive Message</title>
+<link>https://status.zapier.com/incidents/4dxl71m2xmbd</link>
+<guid>https://status.zapier.com/incidents/4dxl71m2xmbd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>15</var>, <var>14:30</var> PST</small><br /><strong>Resolved</strong> - Our team was made aware of an issue which caused the Zap Editor to freeze and become responsive. This behavior was fixed as of Nov 15, 2023 10:24 PM UTC. <br /><br />Should you continue to encounter any similar behaviors while editing Zaps, please try a hard refresh (CMD/CTRL +Shift + R) on your Zapier pages.<br /><br />We apologize for any inconvenience this may have caused. If you continue to run into this issue, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Nov <var>15</var>, <var>09:25</var> PST</small><br /><strong>Monitoring</strong> - A fix has been deployed, and we are currently monitoring the fix.</p><p><small>Nov <var>15</var>, <var>06:28</var> PST</small><br /><strong>Investigating</strong> - We're currently investigating an incident where the Zap editor is freezing, leading to a page unresponsive message. Our team has identified the issue and is actively working on mitigating the disruption. Zap Runs and tasks are processing as expected, and no data loss is anticipated.<br /><br />We'll continue to update this StatusPage as we work on resolving the issue. We appreciate your patience while we investigate and resolve this incident.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Nov 2023 14:30:42 -0800</pubDate>
+<pubDate>Wed, 15 Nov 2023 14:30:42 -0800</pubDate>
+</item>
+<item>
+<title>Delayed triggers for non-instant (polling) Triggers</title>
+<link>https://status.zapier.com/incidents/cgwrx7k39yy6</link>
+<guid>https://status.zapier.com/incidents/cgwrx7k39yy6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>28</var>, <var>18:47</var> PDT</small><br /><strong>Resolved</strong> - On October 28, 10:00 PM UTC, our team has identified an issue causing a delay in polling triggers. The incident has only affected polling triggers however there are no data losses reported and the issue has now been fully resolved by October 29, 1:40 AM UTC. You should expect your polling-triggered Zaps to run as expected.<br /><br />If you need assistance regarding this issue, please don't hesitate to reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>28</var>, <var>18:13</var> PDT</small><br /><strong>Monitoring</strong> - Our team has deployed a resolution and is monitoring to ensure polling triggers are back to working as expected.<br /><br />If you need immediate assistance, please don't hesitate to reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>28</var>, <var>17:50</var> PDT</small><br /><strong>Identified</strong> - Our team has identified the cause of the issue and we're working on a resolution for polling trigger delays. Instant triggers are working as expected.<br /><br />If you need immediate assistance, please don't hesitate to reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>28</var>, <var>17:17</var> PDT</small><br /><strong>Investigating</strong> - Users may see a delay in polling-based triggers. Instant triggers are still working as expected.<br /><br />Our team is currently investigating and we'll provide an update as soon as we can. <br /><br />If you need immediate assistance, please reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Sat, 28 Oct 2023 18:47:21 -0700</pubDate>
+<pubDate>Sat, 28 Oct 2023 18:47:21 -0700</pubDate>
+</item>
+<item>
+<title>Small Subset of Airtable Authentications Disconnected</title>
+<link>https://status.zapier.com/incidents/q8fdbmw0jq7l</link>
+<guid>https://status.zapier.com/incidents/q8fdbmw0jq7l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>26</var>, <var>15:48</var> PDT</small><br /><strong>Resolved</strong> - Earlier today, Oct. 26th, around 11:16am PDT, our team was made aware of an issue with the Airtable integration encountering an authentication problem and connections being revoked. <br /><br />We have re-enabled all affected connections and rerun any held tasks that had come through during this issue, so no further action is required. No data was lost in this process.<br /><br />If you run into any trouble with your Airtable Zaps moving forward, please reach out to our Support Team: https://zapier.com/app/get-help<br /><br />We appreciate your patience during this incident and apologies for any inconvenience this might have caused.</p><p><small>Oct <var>26</var>, <var>14:30</var> PDT</small><br /><strong>Monitoring</strong> - Our team has now resolved this issue with the Airtable integrations, and we have now re-authenticated all connections that have been affected by this issue. <br /><br />We are now working on rerunning any held tasks, so no further action is needed on your side. <br /><br />We will update here as soon as these have been run, but If immediate support is needed, please get in touch with our Support Team directly:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>26</var>, <var>13:22</var> PDT</small><br /><strong>Identified</strong> - Our team has identified a problem with the Airtable integration authentications to be revoked.<br /><br />In the meantime, you can reconnect your account by following the guide at this link:<br /><br />https://help.zapier.com/hc/en-us/articles/8496290788109-Manage-your-app-connections<br /><br />If immediate support is needed, please get in touch with our Support Team directly:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>26</var>, <var>11:16</var> PDT</small><br /><strong>Investigating</strong> - Our team has been made aware of an issue affecting the Airtable integration causing authentications to be broken.<br /><br />For the time being, please go ahead and reconnect your account by following the steps in your guide here:<br /><br />https://help.zapier.com/hc/en-us/articles/8496290788109-Manage-your-app-connections<br /><br />If you need immediate assistance, please reach out to our Support Team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 15:48:07 -0700</pubDate>
+<pubDate>Thu, 26 Oct 2023 15:48:07 -0700</pubDate>
+</item>
+<item>
+<title>Thinkific scheduled maintenance</title>
+<link>https://status.zapier.com/incidents/ydz6qv84csfx</link>
+<guid>https://status.zapier.com/incidents/ydz6qv84csfx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>25</var>, <var>01:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>24</var>, <var>19:30</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>18</var>, <var>21:42</var> PDT</small><br /><strong>Scheduled</strong> - Thinkific will be undergoing maintenance from 02:30 to 08:00 UTC on October 25, 2023. During that time the Thinkific API will be unavailable and so Zaps will not be able to run. Once the maintenance is complete, affected Zaps should trigger on any missed data and process any Zap Runs held with “Playing” status. You can also manually replay any Zap Runs once the maintenance has been completed: https://zpr.io/ePpfbw6Upehe<br />If you experience any issues, please contact our support team: https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Oct 2023 01:00:19 -0700</pubDate>
+<pubDate>Wed, 25 Oct 2023 01:00:19 -0700</pubDate>
+</item>
+<item>
+<title>Zap runs stuck in "Scheduled" in the Zap History.</title>
+<link>https://status.zapier.com/incidents/tng9314r3pd3</link>
+<guid>https://status.zapier.com/incidents/tng9314r3pd3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>19</var>, <var>07:18</var> PDT</small><br /><strong>Resolved</strong> - On Oct 17, 2023 at 2:58 PM UTC, an issue began affecting various Zap Runs where Zaps became stuck in a 'Scheduled' state. Our team has implemented a fix and we stopped seeing this behavior on Oct 18, 2023 at 8:07 PM UTC.<br /><br />Any remaining <a href="https://help.zapier.com/hc/en-us/articles/8496241726989-Replay-failed-Zap-runs">scheduled runs</a> you may see can be replayed.<br /><br />Moving forward, Zap Runs will not be stuck in 'Scheduled' unless they are replaying as a result of <a href="https://help.zapier.com/hc/en-us/articles/8496241726989-Replay-failed-Zap-runs#h_01H9KDDTA16928Y0HE3JVNZF3F">auto-replay</a> or <a href="https://help.zapier.com/hc/en-us/articles/8496288754829-Add-delays-to-Zaps#h_01H919TAHMM9MFFP2TSK03W1TB">intentionally delayed Zaps</a>.<br /><br />If you're still running into issues, please reach out to our Support team.<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>17</var>, <var>14:25</var> PDT</small><br /><strong>Identified</strong> - Starting at starting at 14:50 UTC, some Zap runs became stuck in a 'scheduled' state causing the Zap to fail to continue. Our team has identified the problem and we're currently working on a fix.<br /><br />In the meantime, these scheduled runs can be replayed. You can find out more about replaying your Zaps here:<br /><br />https://help.zapier.com/hc/en-us/articles/8496241726989-Replay-failed-Zap-runs<br /><br />If you need immediate assistance, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 19 Oct 2023 07:18:59 -0700</pubDate>
+<pubDate>Thu, 19 Oct 2023 07:18:59 -0700</pubDate>
+</item>
+<item>
+<title>Zapier.com is returning a 502 when trying to log in</title>
+<link>https://status.zapier.com/incidents/fm86snvkgv5m</link>
+<guid>https://status.zapier.com/incidents/fm86snvkgv5m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>14</var>, <var>06:06</var> PDT</small><br /><strong>Resolved</strong> - Around 3:15 AM PDT today, October 14, 2023, our team became aware of an issue causing Zapier.com to return a 502 when logging into the platform. The issue was caused by an unusual spike in requests, resulting in the temporary outage. The incident lasted until 5:43 AM PDT.<br /><br />Our team has deployed a solution to address the issue so users should now be able to log in as normal. If you’re still unable to access after a refresh, please don’t hesitate to reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>14</var>, <var>04:01</var> PDT</small><br /><strong>Monitoring</strong> - Our team will continue to monitor the issue but users should now log in as expected.<br /><br />If you're unable to log in or sign up, please don't hesitate to reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var>14</var>, <var>03:30</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 14 Oct 2023 06:06:58 -0700</pubDate>
+<pubDate>Sat, 14 Oct 2023 06:06:58 -0700</pubDate>
+</item>
+<item>
+<title>Delay showing new Zap Runs in the Zap History</title>
+<link>https://status.zapier.com/incidents/fj3kxl2g3f6f</link>
+<guid>https://status.zapier.com/incidents/fj3kxl2g3f6f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 5</var>, <var>08:20</var> PDT</small><br /><strong>Resolved</strong> - The issue has been resolved - Zap Runs are appearing as normal.</p><p><small>Oct <var> 4</var>, <var>07:37</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we're now monitoring the results. We'll update this page within 24 hours with more information.<br /><br />If you need immediate assistance, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Oct <var> 4</var>, <var>07:33</var> PDT</small><br /><strong>Investigating</strong> - Our team has recently discovered an issue causing Zap Runs to appear up to 10 minutes after running. We're actively investingating this issue and will provide an update as soon as we can.<br /><br />If you need immediate assistance, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 08:20:37 -0700</pubDate>
+<pubDate>Thu, 05 Oct 2023 08:20:37 -0700</pubDate>
+</item>
+<item>
+<title>Intermittent 502 errors on Zapier.com</title>
+<link>https://status.zapier.com/incidents/r8b9mqc3gf79</link>
+<guid>https://status.zapier.com/incidents/r8b9mqc3gf79</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>29</var>, <var>14:24</var> PDT</small><br /><strong>Resolved</strong> - On Friday, 9/29/2023 at 2:30 PM UTC, our team became aware of an issue causing visitors to Zapier.com to receive a 502 error when visiting the site. During our investigations, we discovered that one of our page building services was experiencing a DDOS attack which in turn caused pages to show server errors. As of 8:30 PM UTC, this issue has been resolved.<br /><br />If you're still seeing this error in an incognito window or after a hard refresh, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Sep <var>29</var>, <var>12:45</var> PDT</small><br /><strong>Identified</strong> - Our team has identified the issue and are currently working on a fix. Please note that refreshing the page can help you to reach the site. Zaps are not affected by this issue.<br /><br />We'll provide an update as soon as we can. We apologize for the incovenience. <br /><br />If you need immediate assistance, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p><p><small>Sep <var>29</var>, <var>08:20</var> PDT</small><br /><strong>Update</strong> - We have reports of users being able to access Zapier.com by either using an incognito window OR doing a hard refresh in your web browser. You may need to refresh the page two times to access the page.</p><p><small>Sep <var>29</var>, <var>07:48</var> PDT</small><br /><strong>Investigating</strong> - Our team has recently been made aware of an issue where visiting pages on Zapier.com intermittently returns a 502 error.<br /><br />We're actively investigating this problem and will provide an update as soon as we have more information.<br /><br />If you need immediate assistance, please reach out to our Support team:<br /><br />https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 14:24:04 -0700</pubDate>
+<pubDate>Fri, 29 Sep 2023 14:24:04 -0700</pubDate>
+</item>
+<item>
+<title>Error 4xx on Google Ads triggers and actions</title>
+<link>https://status.zapier.com/incidents/wxw6y513bbf8</link>
+<guid>https://status.zapier.com/incidents/wxw6y513bbf8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>28</var>, <var>00:48</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. No data was lost during the incident, and Zaps using the Google Ads App should continue to trigger as expected. <br /><br />If would like any additional assistance, please reach out to our Support Team at this link: https://zapier.com/app/get-help</p><p><small>Sep <var>27</var>, <var>19:26</var> PDT</small><br /><strong>Monitoring</strong> - The users have been migrated from V12 of the Google Ads app to V13, which seems to have resolved the issue.<br /><br />We are currently monitoring the situation closely.</p><p><small>Sep <var>27</var>, <var>18:27</var> PDT</small><br /><strong>Update</strong> - We're currently investigating an issue where the Google Ads App is pointing to an older version of the app which has been sunset. This is causing 4xx errors on the related triggers and actions. The specific error message displayed is 'Error code 4xx.' <br /><br />This incident started on 27th September 2023. We're actively working on identifying the cause and finding a solution. We'll update the StatusPage as soon as we have more information.<br /><br />We appreciate your patience while we resolve the issue. If you need any assistance, please reach out to our Support Team: https://zapier.com/app/get-help</p><p><small>Sep <var>27</var>, <var>18:27</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>27</var>, <var>18:27</var> PDT</small><br /><strong>Identified</strong> - We're currently investigating an issue where the Google Ads App is pointing to an older version of the app which has been sunset. This is causing 4xx errors on the related triggers and actions. The specific error message displayed is 'Error code 4xx.' <br /><br />This incident started on 27th September 2023. We're actively working on identifying the cause and finding a solution. We'll update the StatusPage as soon as we have more information.<br /><br />We appreciate your patience while we resolve the issue. If you need any assistance, please reach out to our Support Team: https://zapier.com/app/get-help</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Sep 2023 00:48:20 -0700</pubDate>
+<pubDate>Thu, 28 Sep 2023 00:48:20 -0700</pubDate>
+</item>
+
+</channel>
+</rss>

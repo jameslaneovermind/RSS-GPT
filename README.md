@@ -10,7 +10,5 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 
 ### Features
 
-- Use ChatGPT to summarize RSS feeds, and attach summaries to the original articles, support custom summary length and target language.
-- Aggregate multiple RSS feeds into one, remove duplicate articles, subscribe with a single address.
-- Add filters to your own personalized RSS feeds.
-- Host your own RSS feeds on GitHub repo and GitHub Pages.
+- https://status.box.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/box.com.xml
+- https://status.zapier.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/zapier.xml

@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 14:33:12.106327
+Existing_entries: 0
+Fetching from https://status.zapier.com/history.rss
+Token length: 1314
+Summarized using GPT-3.5-turbo-1106
+Append: [Task Usage section is currently inaccessible](https://status.zapier.com/incidents/qbnv3mhs6q1z)
+Token length: 846
+Summarized using GPT-3.5-turbo-1106
+Append: [Users may not be able to submit Support tickets](https://status.zapier.com/incidents/3mg88q06h1xq)
+Append: [Asana Integration Outage](https://status.zapier.com/incidents/h36qytr7zkdz)
+Append: [Canvas currently unavailable](https://status.zapier.com/incidents/cw5ys342kjdr)
+Append: [Delays in Zap history visibility](https://status.zapier.com/incidents/7dvdjxsybjhc)
+Append: [Slack Integration Outage](https://status.zapier.com/incidents/dy80q6jbpkjc)
+Append: [Various errors surfaced in the Zap editor starting 11:35 GMT](https://status.zapier.com/incidents/2hw8q57lvv35)
+Append: [Delayed runs for polling triggers](https://status.zapier.com/incidents/ltjhjcg1mb0s)
+Append: [Zapier Editor right-hand sidebar unable to load when editing steps](https://status.zapier.com/incidents/1zm22qnswmy6)
+Append: [Some Zaps using Facebook Lead Ads aren't triggering](https://status.zapier.com/incidents/z3rtcgl07409)
+Append: [Zap editor pages are inaccessible in new tabs](https://status.zapier.com/incidents/549p15k265sf)
+Append: [Intermittent 504 and 403 Errors](https://status.zapier.com/incidents/m74z1qn3ngdz)
+Append: [Zapier Logins and Signups using Google SSO may be slow to process or return a 502 error](https://status.zapier.com/incidents/0xytwzvs91gs)
+Append: [Editor and other services not accessible](https://status.zapier.com/incidents/bbd5dkrzh28f)
+Append: [Login to Zapier using Facebook Single Sign On (SSO) degraded](https://status.zapier.com/incidents/s6t66fqkbqk5)
+Append: [Some users are not able to access the Zapier login or signup page](https://status.zapier.com/incidents/jy149fttg67t)
+Append: [Zap Editor Freezing and Page Unresponsive Message](https://status.zapier.com/incidents/4dxl71m2xmbd)
+Append: [Delayed triggers for non-instant (polling) Triggers](https://status.zapier.com/incidents/cgwrx7k39yy6)
+Append: [Small Subset of Airtable Authentications Disconnected](https://status.zapier.com/incidents/q8fdbmw0jq7l)
+Append: [Thinkific scheduled maintenance](https://status.zapier.com/incidents/ydz6qv84csfx)
+Append: [Zap runs stuck in "Scheduled" in the Zap History.](https://status.zapier.com/incidents/tng9314r3pd3)
+Append: [Zapier.com is returning a 502 when trying to log in](https://status.zapier.com/incidents/fm86snvkgv5m)
+Append: [Delay showing new Zap Runs in the Zap History](https://status.zapier.com/incidents/fj3kxl2g3f6f)
+Append: [Intermittent 502 errors on Zapier.com](https://status.zapier.com/incidents/r8b9mqc3gf79)
+Append: [Error 4xx on Google Ads triggers and actions](https://status.zapier.com/incidents/wxw6y513bbf8)
+append_entries: 25
+Finish: 2024-02-20 14:33:19.536732
