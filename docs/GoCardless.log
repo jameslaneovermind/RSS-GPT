@@ -33,3 +33,9 @@ Append: [Internal status update posted publicly](https://www.gocardless-status.c
 Append: [Delayed webhooks](https://www.gocardless-status.com/incidents/y6qzhv6mrwb8)
 append_entries: 25
 Finish: 2024-02-20 15:41:02.484114
+------------------------------------------------------
+Started: 2024-02-20 16:20:14.311959
+Existing_entries: 25
+Fetching from https://www.gocardless-status.com/history.rss
+append_entries: 0
+Finish: 2024-02-20 16:20:14.594068
