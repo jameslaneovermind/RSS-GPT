@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:51:00.150187
+Existing_entries: 0
+Fetching from https://status.mulesoft.com/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Anypoint Platform Release and Maintenance Window](https://status.mulesoft.com/incidents/c98nwc3x1nn0)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Anypoint Platform Release and Maintenance Window](https://status.mulesoft.com/incidents/vymxzpj5jttq)
+Append: [Anypoint MQ Broker intermittently returning 5xx errors](https://status.mulesoft.com/incidents/2cgv5s01lxc6)
+Append: [Issue with usage reports in CloudHub 2.0](https://status.mulesoft.com/incidents/3cfyzbdp39n9)
+Append: [A small number of customers may experience errors while accessing ObjectStore v2 in the US East Region for runtimes.](https://status.mulesoft.com/incidents/31x7dd2663s5)
+Append: [Customers may experience problems with API Analytics showing incomplete data](https://status.mulesoft.com/incidents/28f1d2cgvczf)
+Append: [CloudHub 1 Business Group Runtime Options not visible](https://status.mulesoft.com/incidents/4kg0f5xsdzfv)
+Append: [Anypoint Platform Release and Maintenance Window](https://status.mulesoft.com/incidents/jm78gtx5zdzx)
+Append: [RTF is in a Degraded State](https://status.mulesoft.com/incidents/1bkhrbvf91k0)
+Append: [CloudHub | January 2024 Runtime and DLB Monthly Patches were not Applied in US Control Plane Automatically](https://status.mulesoft.com/incidents/893dsr724339)
+Append: [Environments are Erroring Upon Delete](https://status.mulesoft.com/incidents/dmvwhjg0r1k6)
+Append: [New Templates Unable to be Deployed to Partner Manager](https://status.mulesoft.com/incidents/3qh6jbz1s818)
+Append: [Customers may experience problems with Composer creating new or opening and modifying existing flows.](https://status.mulesoft.com/incidents/ymyb25n8df9q)
+Append: [API Analytics Data Delayed](https://status.mulesoft.com/incidents/m0zfmd4nz3hq)
+Append: [Customers may experience problems with MS Anypoint Monitoring](https://status.mulesoft.com/incidents/5ltxqwjm3873)
+Append: [Anypoint Platform Release and Maintenance Window](https://status.mulesoft.com/incidents/l47jdjvyspwp)
+Append: [OpenShift RTF Cert Renewal Issues.](https://status.mulesoft.com/incidents/ywnvrhbcfk14)
+Append: [Errors in CloudHub](https://status.mulesoft.com/incidents/wntnf3mcfzhl)
+Append: [Customers may experience problems with MuleSoft Composer](https://status.mulesoft.com/incidents/fg400cbrmkk0)
+Append: [Customers may experience missing usage metrics from API Designer products in Anypoint Exchange](https://status.mulesoft.com/incidents/wfw8cxf5rcrn)
+Append: [Issues with the Secrets Manager UI](https://status.mulesoft.com/incidents/fzgh64k5s5fm)
+Append: [API Analytic alerts may not work for newly created alerts.](https://status.mulesoft.com/incidents/44wqq9f58jhj)
+Append: [Issues with API Commmunity Manager](https://status.mulesoft.com/incidents/s403nwkmjkv1)
+Append: [Anypoint Platform Release and Maintenance Window](https://status.mulesoft.com/incidents/q06xwxqnpn3h)
+Append: [Exchange experiencing 500 errors and random slowness.](https://status.mulesoft.com/incidents/8g6qy5jhkmf7)
+append_entries: 25
+Finish: 2024-02-20 19:51:00.343843

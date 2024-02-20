@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:50:59.930560
+Existing_entries: 0
+Fetching from https://status.sendgrid.com/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [SendGrid Mail Sending Delays](https://status.sendgrid.com/incidents/1n3yjyh3w89d)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Customers unable to sign-up for Two-Factor Authentication](https://status.sendgrid.com/incidents/sdlbw185nvvb)
+Append: [Delays in Processing and Delivery of Email Messages](https://status.sendgrid.com/incidents/h6h58gg69tw7)
+Append: [Errors when accessing IP Access Management, Sender Authentication and Webhook settings](https://status.sendgrid.com/incidents/trwnkbsqbsx3)
+Append: [Intermittent Issue with Sendgrid Account Sign-up](https://status.sendgrid.com/incidents/7cwwh3cs73n5)
+Append: [Expired certificate for "mx.sendgrid.net"](https://status.sendgrid.com/incidents/x1jz8z3g7wrv)
+Append: [Sign Up page not loading on Firefox browsers](https://status.sendgrid.com/incidents/3w9hy950cdks)
+Append: [Billing Package Changes delayed](https://status.sendgrid.com/incidents/smyg7vsq92ql)
+Append: [Mail Send requests delays](https://status.sendgrid.com/incidents/swxtzy0l9v3v)
+Append: [SendGrid Accounts Erroneously Suspended](https://status.sendgrid.com/incidents/w64x1mtcyvnt)
+Append: [Issues displaying changes to Subuser credits](https://status.sendgrid.com/incidents/6l0h2hkx87yy)
+Append: [Azure customers can present delays when processing certain account changes](https://status.sendgrid.com/incidents/sqb587mqgdpv)
+Append: [Customers unable to receive 2FA SMS codes](https://status.sendgrid.com/incidents/byd34cy1l02m)
+Append: [Customers unable to receive 2FA SMS codes](https://status.sendgrid.com/incidents/34vv1v5bdhtn)
+Append: [Sender Authentication Verification Failures](https://status.sendgrid.com/incidents/n7p3mgdkj61s)
+Append: [Delays in Activity Feed and Event Webhook posts for Click, Open, and Unsubscribe Events](https://status.sendgrid.com/incidents/lgt1zsfk1qkt)
+Append: [Intermittent Error When Clicking Unsubscribe Links](https://status.sendgrid.com/incidents/6dwrhtz6bz3j)
+Append: [Unable to Provision Subusers Created with V2 Subuser Management Endpoint](https://status.sendgrid.com/incidents/q8s69gxym3tl)
+Append: [Email Billing functionality degraded](https://status.sendgrid.com/incidents/7z8bml7cr1ny)
+Append: [Database Maintenance: Saturday, October 21, from 12 to 2 PM PT](https://status.sendgrid.com/incidents/tnzw6y1dsv5f)
+Append: [Email Validations API Inaccessible Due to Unauthorized Errors](https://status.sendgrid.com/incidents/2t2305gst4lm)
+Append: [Login issues reported from Azure users starting on 10/10/23](https://status.sendgrid.com/incidents/wpm5jsqj24px)
+Append: [Customers Creating Subusers that Require Provisioning](https://status.sendgrid.com/incidents/x3v3xp2qfvx8)
+Append: [Email Click Redirects Maintenance - October 4th, 10AM-4PM PT](https://status.sendgrid.com/incidents/mc31zygcjcrz)
+Append: [Errors When Attempting to Manage Payment Method](https://status.sendgrid.com/incidents/p35cnw0c5j4y)
+append_entries: 25
+Finish: 2024-02-20 19:51:00.150037
