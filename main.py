@@ -308,7 +308,6 @@ def append_readme(readme, links):
         f.writelines(readme_lines)
 
 append_readme("README.md", links)
-append_readme("README-zh.md", links)
 
 # Rendering index.html used in my GitHub page, delete this if you don't need it.
 # Modify template.html to change the style
