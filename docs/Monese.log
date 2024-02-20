@@ -33,3 +33,9 @@ Append: [Routine maintenance affecting app access](https://status.monese.com/inc
 Append: [Monese app degraded](https://status.monese.com/incidents/ckp98fplczp8)
 append_entries: 25
 Finish: 2024-02-20 20:28:03.079111
+------------------------------------------------------
+Started: 2024-02-20 22:14:37.807833
+Existing_entries: 25
+Fetching from https://status.monese.com/history.rss
+append_entries: 0
+Finish: 2024-02-20 22:14:38.154059
