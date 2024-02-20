@@ -4,15 +4,14 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+
 <item>
 <title>New Email/Password users unable to sign up</title>
 <link>https://status.hashicorp.com/incidents/69r2tl8wz18g</link>
 <guid>https://status.hashicorp.com/incidents/69r2tl8wz18g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>17:21</var> UTC</small><br /><strong>Resolved</strong> - We think the impact from the issue is over.</p><p><small>Feb <var>14</var>, <var>17:12</var> UTC</small><br /><strong>Monitoring</strong> - Issue has been identified and a fix deployed. We are monitoring</p><p><small>Feb <var>14</var>, <var>17:08</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />New email/password users to HCP will be unable to sign in<br /><br />We are actively working on a fix. Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 17:21:00 +0000</pubDate>
 <pubDate>Wed, 14 Feb 2024 17:21:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://status.hashicorp.com/incidents/hhb7fwd6chfq</link>
 <guid>https://status.hashicorp.com/incidents/hhb7fwd6chfq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>18:56</var> UTC</small><br /><strong>Resolved</strong> - HCP Boundary maintenance window is now complete and service is fully restored</p><p><small>Feb <var>10</var>, <var>18:15</var> UTC</small><br /><strong>Monitoring</strong> - HCP Boundary maintenance is complete and service should be fully restored.</p><p><small>Feb <var>10</var>, <var>15:01</var> UTC</small><br /><strong>Identified</strong> - HCP Boundary is currently undergoing maintenance. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p><p><small>Feb <var> 2</var>, <var>22:08</var> UTC</small><br /><strong>Update</strong> - HCP Boundary will undergo planned maintenance the weekend of February 10-11. The exact time and day will be added on Monday February 5th. We expect this maintenance to be complete within three hours. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p><p><small>Jan <var>26</var>, <var>20:38</var> UTC</small><br /><strong>Update</strong> - HCP Boundary will undergo planned maintenance on Saturday, February 3rd beginning at 15:00 UTC . We expect this maintenance to be complete within two hours. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p><p><small>Jan <var>24</var>, <var>18:31</var> UTC</small><br /><strong>Investigating</strong> - HCP Boundary will undergo planned maintenance on Saturday, January 27th beginning at 19:00 UTC . We expect this maintenance to be complete within three hours. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 18:56:07 +0000</pubDate>
 <pubDate>Sat, 10 Feb 2024 18:56:07 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://status.hashicorp.com/incidents/d9spdqhyw6tc</link>
 <guid>https://status.hashicorp.com/incidents/d9spdqhyw6tc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>19:09</var> UTC</small><br /><strong>Investigating</strong> - The HCP Platform will undergo planned maintenance in three phases. Maintenance will take place at 15:00 UTC on February 24, March 9, and March 16. We expect maintenance to complete within 3 hours during each window. During maintenance, operations that create, modify, or delete HCP clusters may be unavailable. We will post updates throughout each phase.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 19:09:33 +0000</pubDate>
 <pubDate>Fri, 09 Feb 2024 19:09:33 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@
 <link>https://status.hashicorp.com/incidents/rp1jfb56m5z4</link>
 <guid>https://status.hashicorp.com/incidents/rp1jfb56m5z4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>21:24</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the bug. Simultaneous cluster and HVN creation via the UI should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Jan <var>31</var>, <var>20:22</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />There is a bug in production causing some newly-created clusters to be deployed to the wrong HVN when also creating a new network in the same cluster create flow. This is not 100% deterministic as it only happens based on the number of fields changed when configuring the newly created network.<br /><br />A small percentage of newly-created clusters from the UI may not be configured with the intended network. Please double check if your cluster is in the intended network if you created a cluster and HVN simultaneously on the cluster creation form via the UI between December 18, 2023 and now.<br /><br />We are actively working on a fix. Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 21:24:56 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 21:24:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +46,8 @@
 <link>https://status.hashicorp.com/incidents/1wlrz7p36n0x</link>
 <guid>https://status.hashicorp.com/incidents/1wlrz7p36n0x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>18:59</var> UTC</small><br /><strong>Resolved</strong> - Mitigations were successful, and Terraform Cloud systems have returned to normal operations.</p><p><small>Jan <var>30</var>, <var>18:18</var> UTC</small><br /><strong>Monitoring</strong> - The engineering team has performed mitigations, and we're now seeing recovery of Terraform Cloud systems. Our support and engineering teams will continue to monitor.<br /><br />If you have any stuck runs, please cancel them and retry.</p><p><small>Jan <var>30</var>, <var>18:08</var> UTC</small><br /><strong>Update</strong> - We've spotted that something has gone wrong. We're currently investigating the issue, and will provide an update soon.</p><p><small>Jan <var>30</var>, <var>17:56</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issues causing slow page response times and enqueued runs in Terraform Cloud.</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 18:59:16 +0000</pubDate>
 <pubDate>Tue, 30 Jan 2024 18:59:16 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +55,8 @@
 <link>https://status.hashicorp.com/incidents/ljkkbd0x14sh</link>
 <guid>https://status.hashicorp.com/incidents/ljkkbd0x14sh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>19:18</var> UTC</small><br /><strong>Resolved</strong> - We have seen a full recovery of the Terraform Cloud system</p><p><small>Jan <var>24</var>, <var>18:10</var> UTC</small><br /><strong>Monitoring</strong> - We are now seeing the recovery of the Terraform Cloud systems and calls are succeeding. Our Support and Engineering teams will continue to monitor<br /><br />If you have any runs that are stuck, please cancel them and retry</p><p><small>Jan <var>24</var>, <var>17:50</var> UTC</small><br /><strong>Update</strong> - Terraform Cloud requests to include login, updates and runs currently are impacted<br />Impact is seen through call timeouts or degraded performance</p><p><small>Jan <var>24</var>, <var>17:22</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is causing slow page response times and enqueued runs in Terraform Cloud.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 19:18:45 +0000</pubDate>
 <pubDate>Wed, 24 Jan 2024 19:18:45 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +64,8 @@
 <link>https://status.hashicorp.com/incidents/h0kbmpc855nl</link>
 <guid>https://status.hashicorp.com/incidents/h0kbmpc855nl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>22:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. If any runs are failing to proceed in your workspaces, they may have to be cancelled and retried.</p><p><small>Jan <var>22</var>, <var>21:45</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>22</var>, <var>19:53</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>22</var>, <var>18:27</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 22:34:09 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 22:34:09 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +73,8 @@
 <link>https://status.hashicorp.com/incidents/8wlrkm98pk0t</link>
 <guid>https://status.hashicorp.com/incidents/8wlrkm98pk0t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>17:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. If any runs are failing to proceed in your workspaces, they may have to be cancelled and retried.</p><p><small>Jan <var>22</var>, <var>16:52</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>22</var>, <var>16:07</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>22</var>, <var>15:18</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an outage for Terraform Cloud. We will update this incident as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 17:12:52 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 17:12:52 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +82,8 @@
 <link>https://status.hashicorp.com/incidents/3m2n1kw1km9g</link>
 <guid>https://status.hashicorp.com/incidents/3m2n1kw1km9g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>22:33</var> UTC</small><br /><strong>Resolved</strong> - We've identified the root cause and will fix this in a future release. There is a workaround logging out and back in with your CLI if you run into unexpected errors. <br /><br />If you're using `vlt`, then run `vlt logout` and `vlt login`.<br /><br />If you're using the Terraform HCP provider, then delete your `$HOME/.config/hcp/` which will prompt you to log back in on your next run.</p><p><small>Jan <var>11</var>, <var>18:57</var> UTC</small><br /><strong>Investigating</strong> - We've found a known bug in which HCP CLIs after one hour of inactivity fail to reauthenticate and refresh. <br /><br />To circumvent this bug, try logging out and logging back in again if you receive unexpected error.</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 22:33:59 +0000</pubDate>
 <pubDate>Thu, 11 Jan 2024 22:33:59 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +91,8 @@
 <link>https://status.hashicorp.com/incidents/0tc4tpngwjkm</link>
 <guid>https://status.hashicorp.com/incidents/0tc4tpngwjkm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>01:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>10</var>, <var>21:34</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>17:27</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>13</var>, <var>20:33</var> UTC</small><br /><strong>Scheduled</strong> - Back in October, HashiCorp announced that we will be removing End-Of-Life distro versions and minor versions of RHEL from apt|rpm.hashicorp.com on Wednesday, January 10th, 2023 in this blogpost (https://www.hashicorp.com/blog/announcing-the-linux-package-archive-site). As a user of ours, it’s imperative that we ensure that we reduce disruption to your existing systems. If you are impacted by this effort, please take some time to migrate your systems to a current OS version of your distribution/software.<br /><br />We have created https://archive.releases.hashicorp.com/ if your system cannot be updated to a current version within the next two months, please redirect your downloads to the archive site which hosts the EOL/minor RHEL versions. If you have any questions, please raise an issue on https://discuss.hashicorp.com/ <br /><br /><br />Thank you, <br /><br />HashiCorp</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 01:01:50 +0000</pubDate>
 <pubDate>Thu, 11 Jan 2024 01:01:50 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +100,8 @@
 <link>https://status.hashicorp.com/incidents/65gmwc056j88</link>
 <guid>https://status.hashicorp.com/incidents/65gmwc056j88</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>22:35</var> UTC</small><br /><strong>Resolved</strong> - These systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Jan <var> 9</var>, <var>22:34</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has resolved an issue where a small percentage of new accounts created on the HCP Portal would be unable to get passed the email verification page.<br /><br />Users who were impacted should now be able retry and should be able to properly log onto HCP. If you continue to experience any problems, please open a ticket with our support team.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 22:35:55 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 22:35:55 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +109,8 @@
 <link>https://status.hashicorp.com/incidents/c16cntnqg25y</link>
 <guid>https://status.hashicorp.com/incidents/c16cntnqg25y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>22:43</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 3</var>, <var>20:29</var> UTC</small><br /><strong>Update</strong> - We believe service has been restored, and we are continuing to monitor.</p><p><small>Jan <var> 3</var>, <var>20:25</var> UTC</small><br /><strong>Monitoring</strong> - Users may be seeing intermittent errors fetching secrets in HCP Vault Secrets. A workaround has been implemented and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 22:43:00 +0000</pubDate>
 <pubDate>Wed, 03 Jan 2024 22:43:00 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +118,8 @@
 <link>https://status.hashicorp.com/incidents/tlyy23jg3lcv</link>
 <guid>https://status.hashicorp.com/incidents/tlyy23jg3lcv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>28</var>, <var>20:49</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the following issue: <br /><br />Updating the network configuration of HCP Vault clusters<br /><br />These systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Dec <var>28</var>, <var>20:30</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has implemented a fix to resolve the issue with:<br /><br />Updating the network configuration of HCP Vault clusters<br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Dec <var>28</var>, <var>18:11</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />HCP Vault customers are unable to update their clusters' network configurations.<br /><br />We are actively working on a fix. Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Dec 2023 20:49:40 +0000</pubDate>
 <pubDate>Thu, 28 Dec 2023 20:49:40 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +127,8 @@
 <link>https://status.hashicorp.com/incidents/ycb3swscqd2q</link>
 <guid>https://status.hashicorp.com/incidents/ycb3swscqd2q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>22</var>, <var>01:31</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the following issue: <br /><br />Error rates have gone to zero and functionality has been restored successfully across all operations.<br /><br />These systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Dec <var>22</var>, <var>00:58</var> UTC</small><br /><strong>Monitoring</strong> - A solution has been identified, error rates have gone down, and we have accordingly seen system recovery across the impacted HCP Vault Clusters and operations. <br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Dec <var>21</var>, <var>23:57</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with the following:<br /><br />HCP Vault Clusters on AWS appear to not be able to update, create, or delete nor are they able to have snapshots taken. <br /><br />During this time, users may experience the following:<br /><br />When attempting to take any of the above actions with a HCP Vault Cluster users will either be presented with an error message or the async operation will fail to complete. <br /><br />We will share another update as soon as we have more information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Dec 2023 01:31:47 +0000</pubDate>
 <pubDate>Fri, 22 Dec 2023 01:31:47 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +136,8 @@
 <link>https://status.hashicorp.com/incidents/nk8z4y0zwx4d</link>
 <guid>https://status.hashicorp.com/incidents/nk8z4y0zwx4d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>22</var>, <var>00:53</var> UTC</small><br /><strong>Resolved</strong> - Billing is now available and functional</p><p><small>Dec <var>22</var>, <var>00:22</var> UTC</small><br /><strong>Monitoring</strong> - Our engineers have implemented a fix and health has returned to they system. <br /><br />We will continue to monitor to ensure the returned health of our billing services</p><p><small>Dec <var>22</var>, <var>00:13</var> UTC</small><br /><strong>Identified</strong> - Currently billing information is unavailable and this may prevent users from starting new clusters.<br /><br />Our engineers have determined a fix and are in the process of implementing changes.<br />Updates will be provided when additional information is available</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Dec 2023 00:53:09 +0000</pubDate>
 <pubDate>Fri, 22 Dec 2023 00:53:09 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +145,8 @@
 <link>https://status.hashicorp.com/incidents/15mvpr0q703g</link>
 <guid>https://status.hashicorp.com/incidents/15mvpr0q703g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>22:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>20</var>, <var>20:42</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>20</var>, <var>20:31</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>20</var>, <var>20:15</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing extraneous runs for customers with monorepo configurations. We are investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 22:22:42 +0000</pubDate>
 <pubDate>Wed, 20 Dec 2023 22:22:42 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +154,8 @@
 <link>https://status.hashicorp.com/incidents/jh9rggm271m7</link>
 <guid>https://status.hashicorp.com/incidents/jh9rggm271m7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>00:04</var> UTC</small><br /><strong>Resolved</strong> - Engineering team has resolved the TLS certificate issue. Customer action is required if you are still experiencing any issues related to this incident:<br /><br />Refetch the client configuration depending on how you set up your client agents:<br /><br />- HCP Portal UI: manually download new configuration files: https://developer.hashicorp.com/hcp/docs/consul/hcp-managed/clients#download-configuration-files<br />- Terraform: re-run Terraform apply, which will automatically download the new configuration files<br />- SDK: download with hcp-sdk-go</p><p><small>Dec <var>19</var>, <var>23:19</var> UTC</small><br /><strong>Update</strong> - Our engineers are continuing to work to implement a fix. <br />We will provide additional information when available</p><p><small>Dec <var>19</var>, <var>22:09</var> UTC</small><br /><strong>Identified</strong> - Consul clusters created between Dec 13th and 19th may experience TLS issues on their Consul clients.<br />We have identified the cause and working to implement a fix</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 00:04:24 +0000</pubDate>
 <pubDate>Wed, 20 Dec 2023 00:04:24 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +163,8 @@
 <link>https://status.hashicorp.com/incidents/cyv0d5ngm66t</link>
 <guid>https://status.hashicorp.com/incidents/cyv0d5ngm66t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>19</var>, <var>21:59</var> UTC</small><br /><strong>Resolved</strong> - We've resolved an issue preventing IAM Groups from being managed via the HCP Portal UI.</p><p><small>Dec <var>19</var>, <var>20:34</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause. We are actively working on a fix. Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Dec 2023 21:59:13 +0000</pubDate>
 <pubDate>Tue, 19 Dec 2023 21:59:13 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +172,8 @@
 <link>https://status.hashicorp.com/incidents/qp6wvbwhgldh</link>
 <guid>https://status.hashicorp.com/incidents/qp6wvbwhgldh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>14:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>21:21</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has implemented a fix to resolve the issue.<br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Dec <var>13</var>, <var>20:22</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with the following:<br /><br />HVN deletion<br /><br />During this time, users may experience the following:<br /><br />HVN deletion failure</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Dec 2023 14:05:57 +0000</pubDate>
 <pubDate>Thu, 14 Dec 2023 14:05:57 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +181,8 @@
 <link>https://status.hashicorp.com/incidents/33gywtj9h4sw</link>
 <guid>https://status.hashicorp.com/incidents/33gywtj9h4sw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>23:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>12</var>, <var>23:05</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been identified and a fix has been implemented.</p><p><small>Dec <var>12</var>, <var>22:58</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of incorrect APT repo metadata</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 23:13:17 +0000</pubDate>
 <pubDate>Tue, 12 Dec 2023 23:13:17 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +190,8 @@
 <link>https://status.hashicorp.com/incidents/pk3cgb2hxclx</link>
 <guid>https://status.hashicorp.com/incidents/pk3cgb2hxclx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>17:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>16:43</var> UTC</small><br /><strong>Monitoring</strong> - A mitigation has been implemented and we are monitoring the results.</p><p><small>Dec <var> 8</var>, <var>15:36</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue causing slow response times and run failures in Terraform Cloud.<br /><br />We will share another update as soon as we have more information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 17:11:07 +0000</pubDate>
 <pubDate>Fri, 08 Dec 2023 17:11:07 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +199,8 @@
 <link>https://status.hashicorp.com/incidents/7s9cqc2rxh9y</link>
 <guid>https://status.hashicorp.com/incidents/7s9cqc2rxh9y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>17:31</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the following issue: <br /><br />The fix has been rolled out to all clusters, error rates have gone to 0, and functionality has been restored fleet wide. <br /><br />These systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Dec <var> 6</var>, <var>02:39</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has implemented a fix to resolve the issue with:<br /><br />The tested fix has been rolling out to clusters and we've seen recovery of those the same back to regular health. We will continue to roll out updates out and expect recovery across all impacted clusters. <br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Dec <var> 6</var>, <var>01:33</var> UTC</small><br /><strong>Update</strong> - We have identified and tested a fix for this issue. We are proceeding to roll the fix out to production workloads now.</p><p><small>Dec <var> 5</var>, <var>22:22</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 5</var>, <var>22:14</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />Audit logs accessible through the Consul UI appear to be impacted and are not available site-wide. We are investigating and have identified a possible solution.<br /><br />We are actively working on a fix. Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 17:31:13 +0000</pubDate>
 <pubDate>Wed, 06 Dec 2023 17:31:13 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +208,8 @@
 <link>https://status.hashicorp.com/incidents/3krvlyh4w712</link>
 <guid>https://status.hashicorp.com/incidents/3krvlyh4w712</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>30</var>, <var>16:57</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the HCP API permission errors.<br /><br />Systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Nov <var>30</var>, <var>16:17</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has implemented a fix to resolve the issue with HCP API permission errors.<br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Nov <var>30</var>, <var>16:12</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with permissions errors in the HCP API.<br /><br />We will share another update as soon as we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Nov 2023 16:57:50 +0000</pubDate>
 <pubDate>Thu, 30 Nov 2023 16:57:50 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +217,8 @@
 <link>https://status.hashicorp.com/incidents/c72dpcc09wm6</link>
 <guid>https://status.hashicorp.com/incidents/c72dpcc09wm6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>02:07</var> UTC</small><br /><strong>Resolved</strong> - We've deployed a fix and verified that things are now working as expected.</p><p><small>Nov <var>22</var>, <var>01:13</var> UTC</small><br /><strong>Monitoring</strong> - Our engineers have applied the fix and are seeing new VCS-backed workspace runs succeeding. We will continue to monitor the system to ensure full recovery.</p><p><small>Nov <var>22</var>, <var>00:24</var> UTC</small><br /><strong>Update</strong> - Our engineering team is in the process of validating the fix for the issue that caused ingress failures for newly created VCS-backed workspaces.<br /><br />Existing VCS-backed workspaces are unaffected. As a temporary workaround, customers can push an empty commit to their VCS repository. We will share another update as soon as we have more information.</p><p><small>Nov <var>21</var>, <var>22:53</var> UTC</small><br /><strong>Identified</strong> - Our engineering team has determined the cause of the ingress failures for new VCS-backed workspaces and is working to implement a fix.<br />Existing VCS-backed workspaces are unaffected. As a temporary workaround, customers can push an empty commit to their VCS repository. We will share another update as soon as we have more information</p><p><small>Nov <var>21</var>, <var>21:24</var> UTC</small><br /><strong>Update</strong> - Our engineering team is continuing to investigating the issue. <br /><br />Existing VCS-backed workspaces remain unaffected. As a temporary workaround, customers can push an empty commit to their VCS repository. We will share another update as soon as we have more information</p><p><small>Nov <var>21</var>, <var>20:09</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue causing ingress failures for new VCS-backed workspaces. Existing VCS-backed workspaces are unaffected. As a temporary workaround, customers can push an empty commit to their VCS repository.<br />We will share another update as soon as we have more information</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Nov 2023 02:07:17 +0000</pubDate>
 <pubDate>Wed, 22 Nov 2023 02:07:17 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +226,9 @@
 <link>https://status.hashicorp.com/incidents/4nd4xh7jtlz2</link>
 <guid>https://status.hashicorp.com/incidents/4nd4xh7jtlz2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>10</var>, <var>01:44</var> UTC</small><br /><strong>Resolved</strong> - The HCP Portal should now be available. <br /><br />If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Nov <var>10</var>, <var>01:41</var> UTC</small><br /><strong>Identified</strong> - Our engineering team has identified the cause and is working on a fix.</p><p><small>Nov <var>10</var>, <var>01:15</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue impacting the availability of the HCP Portal.<br /><br />We will share another update as soon as we have more information.</p>
 ]]></content:encoded>
 <pubDate>Fri, 10 Nov 2023 01:44:10 +0000</pubDate>
-<pubDate>Fri, 10 Nov 2023 01:44:10 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

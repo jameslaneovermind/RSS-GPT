@@ -33,3 +33,9 @@ Append: [Factoring issue with USD/UGX (Ugandan Shilling) rate on 11 September 20
 Append: [Root CA certificate expiry](https://status.openexchangerates.org/incidents/my4vwrll12mm)
 append_entries: 25
 Finish: 2024-02-20 19:58:09.095134
+------------------------------------------------------
+Started: 2024-02-20 20:09:12.343578
+Existing_entries: 25
+Fetching from https://status.openexchangerates.org/history.rss
+append_entries: 0
+Finish: 2024-02-20 20:09:12.723759

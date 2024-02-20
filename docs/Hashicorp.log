@@ -33,3 +33,9 @@ Append: [Terraform Cloud - VCS Ingress Issues Affecting New Workspaces](https://
 Append: [HCP Portal Unavailable](https://status.hashicorp.com/incidents/4nd4xh7jtlz2)
 append_entries: 25
 Finish: 2024-02-20 19:58:08.776334
+------------------------------------------------------
+Started: 2024-02-20 20:09:12.000250
+Existing_entries: 25
+Fetching from https://status.hashicorp.com/history.rss
+append_entries: 0
+Finish: 2024-02-20 20:09:12.316222

@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 20:09:14.159278
+Existing_entries: 0
+Fetching from https://status.asana.com/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Partial Outage (OAuth Apps unavailable for 1 hour from 19:18-20:16 UTC)](https://status.asana.com/incidents/btfw7qd1cdhy)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Partial Outage](https://status.asana.com/incidents/2kjvdgs6fv33)
+Append: [Partial Outage](https://status.asana.com/incidents/36cb7m8ksgfy)
+Append: [Delayed writes and API performance issues](https://status.asana.com/incidents/f1676vh2xq73)
+Append: [Application and API downtime](https://status.asana.com/incidents/7xzg8bjwfhh3)
+Append: [Outage](https://status.asana.com/incidents/h04k31kz5rts)
+Append: [Webhooks and Event Streams maintenance](https://status.asana.com/incidents/vstcb1jvm67n)
+Append: [Some Asana features have been affected by an Amazon Web Services outage](https://status.asana.com/incidents/y8pctjghltmd)
+Append: [Major Outage](https://status.asana.com/incidents/k4356gqyvgcl)
+Append: [asana.com is down.](https://status.asana.com/incidents/5lnpf5x9wbdy)
+Append: [Major Outage](https://status.asana.com/incidents/j5zyv396l5zc)
+Append: [Major outage](https://status.asana.com/incidents/qkqjvnh8nrv9)
+Append: [Partial Outage](https://status.asana.com/incidents/fmjg2qn92j2r)
+Append: [App down](https://status.asana.com/incidents/jzt3gsjbbgyc)
+Append: [Automations and Background Actions Delayed](https://status.asana.com/incidents/78bcd7npk8nv)
+Append: [Automations and Background Actions Delayed](https://status.asana.com/incidents/63nhssdmxp8n)
+Append: [Webhooks and Event streams maintenance](https://status.asana.com/incidents/lcnvc7f1mvf3)
+Append: [Web page load failures](https://status.asana.com/incidents/51s5njcxd5v3)
+Append: [Downtime](https://status.asana.com/incidents/jl53pq68gg5p)
+Append: [Webhooks and Event streams maintenance](https://status.asana.com/incidents/8gyxysnpn7p6)
+Append: [Partial outage](https://status.asana.com/incidents/6d649qd49jqh)
+Append: [Major Production Outage](https://status.asana.com/incidents/3206b1df026k)
+Append: [Partial Outage - EUDC](https://status.asana.com/incidents/ckd9820c8284)
+Append: [Webhooks Degraded Performance](https://status.asana.com/incidents/vfpzjfbw7rjc)
+Append: [Asana Downtime](https://status.asana.com/incidents/rbrdsv6lrfp1)
+append_entries: 25
+Finish: 2024-02-20 20:09:14.517358
