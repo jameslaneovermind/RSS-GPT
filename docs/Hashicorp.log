@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:58:08.454094
+Existing_entries: 0
+Fetching from https://status.hashicorp.com/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [New Email/Password users unable to sign up](https://status.hashicorp.com/incidents/69r2tl8wz18g)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [HCP Boundary Scheduled Maintenance](https://status.hashicorp.com/incidents/hhb7fwd6chfq)
+Append: [HCP Platform Scheduled Maintenance](https://status.hashicorp.com/incidents/d9spdqhyw6tc)
+Append: [Bug when creating HVD cluster and HVN simultaneously in Portal UI](https://status.hashicorp.com/incidents/rp1jfb56m5z4)
+Append: [Terraform Cloud Degredation](https://status.hashicorp.com/incidents/1wlrz7p36n0x)
+Append: [Terraform Cloud degradation](https://status.hashicorp.com/incidents/ljkkbd0x14sh)
+Append: [Terraform Cloud outage](https://status.hashicorp.com/incidents/h0kbmpc855nl)
+Append: [Terraform Cloud outage](https://status.hashicorp.com/incidents/8wlrkm98pk0t)
+Append: [HCP CLIs Fail to Refresh Token](https://status.hashicorp.com/incidents/3m2n1kw1km9g)
+Append: [Removing End-of-Life Linux Distributions](https://status.hashicorp.com/incidents/0tc4tpngwjkm)
+Append: [Some users unable to verify their email addresses](https://status.hashicorp.com/incidents/65gmwc056j88)
+Append: [Intermittent HCP Vault Secrets errors when fetching](https://status.hashicorp.com/incidents/c16cntnqg25y)
+Append: [Identified an incident with updating HCP Vault clusters' network configuration](https://status.hashicorp.com/incidents/tlyy23jg3lcv)
+Append: [Investigating an incident with HCP Vault Clusters on AWS](https://status.hashicorp.com/incidents/ycb3swscqd2q)
+Append: [Billing Information is Currently Unavailabe](https://status.hashicorp.com/incidents/nk8z4y0zwx4d)
+Append: [Terraform Cloud VCS Issues](https://status.hashicorp.com/incidents/15mvpr0q703g)
+Append: [HCP Consul Dev-Tier Experiencing TLS Errors](https://status.hashicorp.com/incidents/jh9rggm271m7)
+Append: [IAM Groups cannot be managed via the HCP Portal UI](https://status.hashicorp.com/incidents/cyv0d5ngm66t)
+Append: [Investigating an incident](https://status.hashicorp.com/incidents/qp6wvbwhgldh)
+Append: [Linux APT Incorrect Metadata](https://status.hashicorp.com/incidents/33gywtj9h4sw)
+Append: [Terraform Cloud Slow Responses/Run Failures](https://status.hashicorp.com/incidents/pk3cgb2hxclx)
+Append: [Identified Consul Audit Logs Access Issue](https://status.hashicorp.com/incidents/7s9cqc2rxh9y)
+Append: [Resolved an issue](https://status.hashicorp.com/incidents/3krvlyh4w712)
+Append: [Terraform Cloud - VCS Ingress Issues Affecting New Workspaces](https://status.hashicorp.com/incidents/c72dpcc09wm6)
+Append: [HCP Portal Unavailable](https://status.hashicorp.com/incidents/4nd4xh7jtlz2)
+append_entries: 25
+Finish: 2024-02-20 19:58:08.776334

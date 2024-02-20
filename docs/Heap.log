@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:58:09.095288
+Existing_entries: 0
+Fetching from https://status.heap.io/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Infrastructure Maintenance](https://status.heap.io/incidents/ywhy9cp76rdv)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Infrastructure Maintenance](https://status.heap.io/incidents/jfxsf6q6jh8h)
+Append: [Data latency in the app](https://status.heap.io/incidents/104pgrvy04hg)
+Append: [BigQuery syncs are failing](https://status.heap.io/incidents/q5s86jjr36j9)
+Append: [Heap Connect Data Latency](https://status.heap.io/incidents/fbk46yp0ltqd)
+Append: [Session list queries are currently not working.](https://status.heap.io/incidents/pqp0wv5m1qvn)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/b72s6dr485gz)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/n5n7qyllxp8p)
+Append: [Tables are currently not available on dashboards](https://status.heap.io/incidents/z9n6gd4bsvvh)
+Append: [App Unavailability](https://status.heap.io/incidents/c0qy7vdjtc6b)
+Append: [Temporary Data Latency](https://status.heap.io/incidents/8t78z7cyk9fp)
+Append: [Session Replay Scheduled Maintenance](https://status.heap.io/incidents/fkz05sjc81wg)
+Append: [Temporary Data Latency](https://status.heap.io/incidents/9hrj24f1w76r)
+Append: [Temporary Data Latency](https://status.heap.io/incidents/5yfk611nk34k)
+Append: [App Unavailability](https://status.heap.io/incidents/xdxhfm9m4f8m)
+Append: [Temporary Data Latency](https://status.heap.io/incidents/qyvs31vlpgd0)
+Append: [Temporary Data Latency](https://status.heap.io/incidents/b0ycw81rgsz8)
+Append: [Help Center unavailable](https://status.heap.io/incidents/jjqsz8bjy4cj)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/720mh99nl598)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/fv7m368ysntm)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/3zfdld8hkq0f)
+Append: [Heap Connect Sync Delays](https://status.heap.io/incidents/qn2kpbf9d2tt)
+Append: [Heap Help Center is unavailable](https://status.heap.io/incidents/dc20mpqjpjll)
+Append: [Heap app is not loading](https://status.heap.io/incidents/bjlhmj6tqn60)
+Append: [Temporary Degraded Query Performance](https://status.heap.io/incidents/d0y5w8k3t9vs)
+append_entries: 25
+Finish: 2024-02-20 19:58:09.451923

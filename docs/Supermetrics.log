@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:58:09.452057
+Existing_entries: 0
+Fetching from https://status.supermetrics.com/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Service Disruption: Criteo, February 14, 2024](https://status.supermetrics.com/incidents/79vzm8yntlgl)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Supermetrics services, January 30, 2024](https://status.supermetrics.com/incidents/4l6wtwvs4sty)
+Append: [Service disruption: Google Trends, January 9, 2024](https://status.supermetrics.com/incidents/wctzryt4v4xm)
+Append: [Service disruption: Yahoo DSP, January 8, 2024](https://status.supermetrics.com/incidents/4mphxvjvgxz9)
+Append: [Service disruption: Instagram Insights, December 4, 2023](https://status.supermetrics.com/incidents/l0b759smr0md)
+Append: [Service disruption: Data Warehouse, December 4, 2023](https://status.supermetrics.com/incidents/qt8lzkcnx35q)
+Append: [Service disruption: Facebook Insights, November 7, 2023](https://status.supermetrics.com/incidents/4zygrvtxxyws)
+Append: [Service disruption: Pinterest Ads, November 7, 2023](https://status.supermetrics.com/incidents/tcdqj6lhmtyr)
+Append: [Service disruption: Instagram Insights, Instagram Public Data and Facebook Billing Data, October 5th, 2023](https://status.supermetrics.com/incidents/qbfm380rtk0d)
+Append: [Supermetrics for Facebook Ads, September 20, 2023](https://status.supermetrics.com/incidents/jcff3sn2tb34)
+Append: [Service disruption: Facebook Insights, Instagram Insights and Instagram Public Data, September 13, 2023](https://status.supermetrics.com/incidents/qs5m4rxpsxpp)
+Append: [Service disruption: Supermetrics for Criteo, September 11, 2023](https://status.supermetrics.com/incidents/lbh6wbgy9w1n)
+Append: [Service disruption: Supermetrics for Facebook Ads, August 23, 2023](https://status.supermetrics.com/incidents/fbfh600jw6ds)
+Append: [Service disruption: Supermetrics for BigQuery (marketplace), July 26, 2023](https://status.supermetrics.com/incidents/rcf1sxj7403f)
+Append: [Service disruption: BigQuery, July 20, 2023](https://status.supermetrics.com/incidents/p439rgtzrw98)
+Append: [Service disruption: Facebook Ads, July 11, 2023](https://status.supermetrics.com/incidents/19zbd4vgp575)
+Append: [Service disruption: Data warehouse and data lake destinations, June 29, 2023](https://status.supermetrics.com/incidents/k0fwp9khj53r)
+Append: [Service disruption: Data warehouse and data lake destinations, June 28, 2023](https://status.supermetrics.com/incidents/sryy8zgxyf69)
+Append: [Service disruption: TikTok Ads and TikTok Organic, June 7, 2023](https://status.supermetrics.com/incidents/5grsthj2mb1z)
+Append: [Service disruption: Twitter Premium and Twitter Organic, May 17, 2023](https://status.supermetrics.com/incidents/r6s5xxtx3qwp)
+Append: [Service disruption: Google data sources, June 6, 2023](https://status.supermetrics.com/incidents/2g4r13rn52bk)
+Append: [Service disruption: Twitter Organic, June 5, 2023](https://status.supermetrics.com/incidents/82cgbw2yntw5)
+Append: [Service disruption: Twitter connectors, June 5, 2023](https://status.supermetrics.com/incidents/rppfwn1fyz83)
+Append: [Service disruption: Looker studio, May 25, 2023](https://status.supermetrics.com/incidents/nmknf0tb26j5)
+Append: [Service disruption: All Supermetrics services, May 22, 2023](https://status.supermetrics.com/incidents/7fpw8n53jzvr)
+append_entries: 25
+Finish: 2024-02-20 19:58:09.883069
