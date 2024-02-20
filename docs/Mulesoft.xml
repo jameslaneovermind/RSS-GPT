@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>US1 - Anypoint Platform Status - Incident History</title>
+<link>https://status.mulesoft.com</link>
+
+<item>
+<title>Anypoint Platform Release and Maintenance Window</title>
+<link>https://status.mulesoft.com/incidents/c98nwc3x1nn0</link>
+<guid>https://status.mulesoft.com/incidents/c98nwc3x1nn0</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>09:00</var> - <var>14:00</var> PST</strong></p><p><small>Feb <var>19</var>, <var>16:26</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>19</var>, <var>16:26</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>19</var>, <var>16:25</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Mar <var> 2</var>, <var>09:00</var> PST</small><br /><strong>Scheduled</strong> - US:  On Saturday, Mar 2, 2024 between 9AM and 2PM PDT (12PM - 5PM EDT, 5PM - 10PM UTC)<br /><br /><h6>New/Enhanced Feature Releases</h6><br /><br /><h6>Bug fixes & back-end performance enhancement releases</h6><br /><br /><br /><h6><b>*** ATTENTION: a 15 to 30 min service interruption is expected during this maintenance window … ***</b></h6><br />We will be performing a scheduled upgrade on part of the platform’s underlying infrastructure.<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />- Runtime Manager<br />This interruption affects only Runtime Fabric and Cloud Hub 2.0. Flex Gateway and Standalone Servers are not impacted. During the service interruption, there will be no impact to the applications.<br /><b>During maintenance downtime:</b><br /><b>* Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> On the Runtime Fabric and Private Space Status pages, RTF Agents might show as “Degraded” status. Customers might not be able to deploy applications to their existing RTF Agents and Private Spaces. Registration of new RTF Agents and Private Spaces will take longer than usual to achieve "Active” status. This will be temporary and fixed after the maintenance window has been completed.<br /><b>* API calls:</b> API calls will not be impacted<br /><b>* Logs and Data: </b> log and metric display data will be updated during the service interruption.<br /><br /><br /><br /><br /><h6>Customer Impacting / Downtime Announcement(s)</h6><br /><h6>***ATTENTION: up to 1 hour of service interruption is expected during this maintenance window.***</h6><br />We will be performing a scheduled upgrade of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />Mocking Service<br /><b>During Maintenance Downtime:</b><br /><b>* Existing Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> Mocking Service calls from API Designer, Exchange and API Community Manager (ACM) will fail due to Mocking Service being unavailable<br /><b>* API Calls:</b> REST APIs calls for Mocking Service will not be accessible as the service will be unavailable<br /><br /><br /><h6><b>*** ATTENTION: up to 60 minutes of service interruption is expected during this maintenance window for the following ***</h6></b><br /><br />We will be doing a scheduled upgrade on part of the platform underlying infrastructure.<br /><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />-  Anypoint Runtime Manager<br /><b>During maintenance downtime:</b><br />-  <b>Runtimes:</b>  CloudHhub CPU / Memory alerts will be delayed during the maintenance window. In addition, CloudHub Applications utilizing the Auto-scaling feature, will not be able to scale up or scale down, during the maintenance window.<br />-  <b>User Interface (UI):</b> will not be impacted. <br />-  <b>API calls:</b> will not be impacted.<br />-  <b>Logs and Data:</b> will not be impacted<br />-  <b>Following maintenance downtime:</b><br />-  <b>Runtimes and all services:</b> will resume normal operation.<br /><br /><br /><br /><h6>ATTENTION: up to 1 hour of service interruption is expected.</h6><br />We will be performing a scheduled upgrade of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />- Anypoint Exchange<br />- Anypoint DataGraph<br />- Anypoint API Manager<br />- Anypoint API Governance<br />- Cloudhub<br />- API Catalog<br /><b>* User Experience(UX):</b> User Interface (UI) will display errors when:<br />- DataGraph: users deploy Datagraph instances, which will remain on status "on hold"<br />- API Manager: users submit new policies or publish new assets like API specs. Also, when users try to create a Policy Template.<br />- API Governance: users try to update rulesets in Exchange.<br />- Cloudhub: users try to create new CloudHub 2.0 schedulers.<br />- API Catalog: users publish their API Specifications using the command line.<br /><b>* API Calls: </b> REST API calls for asset publication won't work.<br /><b>* Existing Runtimes: </b> are not impacted.<br /><br /><h6><b>*** ATTENTION: 60 minutes of service interruption is expected during this maintenance window for the following ***</h6></b><br />We will be doing a scheduled upgrade on part of an internal database.<br /><br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />     - Anypoint Partner Manager V2 (APMv2)<br /><b>* User Experience(UX): </b> Users will not be able to access Partner Manager v2 during this upgrade<br /><b>* API Calls: </b> Platform APIs for Partner Manager will not be accessible<br /><b>* Existing Runtimes: </b> Processing of B2B transactions in the runtime applications deployed by Partner Manager will NOT be impacted<br /><br /><br /><br /><h6>***ATTENTION: up to 4 hours of service interruption is expected during this maintenance window.***</h6><br /><br />We will be performing database maintenance. <br /><br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />Anypoint Monitoring <br />Visualizer<br /><b>During Maintenance Downtime:</b><br />- Anypoint platform users may not be able to use Anypoint monitoring<br />- Anypoint Platform users may not be able to deploy new apps or restart existing apps<br />- Visualizer users may not be able to use Visualizer.<br /><br /><br /><br /><br /><br />59291521<h6><b>*** ATTENTION: up to 30 minutes of service interruption is expected during this maintenance window. ***</h6></b><br /><br />As part of our efforts to enhance our resiliency, performance and availability we are upgradting the databases infrastracture. Consequently, there may be an impact on the create/update functionality for applications, notifications for a duration of up to 30 minutes.<br /><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Runtime Manager<br />- API Manager<br />- Design Center<br />- Scheduler <br />- Notifications<br /><b>During maintenance downtime:</b><br />-  <b>Runtimes:</b>  will not be impacted<br />-  <b>User Interface (UI):</b> Deploying and updating CloudHub applications will not be achievable up to 30 minutes.<br />-  <b>API calls:</b> Deploying and updating CloudHub applications will not be achievable up to 30 minutes.<br />-  <b>Design Center</b> Design Center test experience will be degraded for up to 30 minutes.<br />-  <b>Scheduler</b> Application schedules can be delayed by up to 30 minutes. <br /> <b>Notifications</b>CloudHub notifications and custom notification in runtime will be will not be created/triggered up to 30 minutes<br />-  <b>Logs and Data:</b> will not be impacted<br /><br /><b>Following maintenance downtime:</b><br />-  <b>User Interface (UI):</b> Deploying and updating CloudHub applications will work as usual.<br />-  <b>API calls:</b> Deploying and updating CloudHub applications will will work as usual.<br />-  <b>Design Center</b> Design Center test experience will be as usual.<br />-  <b>Scheduler</b>Application schedules will resume again.<br /> <b>Notifications</b>CloudHub notifications and custom notification in runtime will work as usual.<br />-  <b>Logs and Data:</b> will work as usual.</p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 09:00:00 -0800</pubDate>
+<pubDate>Sat, 02 Mar 2024 09:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Anypoint Platform Release and Maintenance Window</title>
+<link>https://status.mulesoft.com/incidents/vymxzpj5jttq</link>
+<guid>https://status.mulesoft.com/incidents/vymxzpj5jttq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>17</var>, <var>14:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>09:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 7</var>, <var>10:31</var> PST</small><br /><strong>Scheduled</strong> - On Saturday, Feb 17, 2024 between 9AM and 2PM PST (12PM - 5PM EST, 5PM - 10PM UTC)<br /><br /><h6>Bug fixes & back-end performance enhancement releases</h6><br /><br /><b>Anypoint Webserver</b><br /> - OAuth Client System (OCS) implementing rate limiting policy - an internal service to create OAuth connections in MS Composer.<br /><br /><b>Dataloader.io</b><br /> - Implementing rate and size request limits to prevent abusing application endpoints. No impact for normal usage through the web.<br /><br /><br /><h6>Customer Impacting / Downtime Announcement(s)</h6><br /><br /><h6>*** ATTENTION: up to 2 hours of service interruption is expected during this maintenance window for the following ***</h6><br /><b>We will be doing a scheduled upgrade on Access Management database.</b><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Access Management<br /><b>During maintenance downtime</b><br />- Anypoint users will be able to login to their account and view information in Access Management, but may not be able modify information until the scheduled downtime is complete.<br />- Anypoint clients will be able to get new tokens, and call read APIs in Access Management, but may not be able to call write APIs until the scheduled downtime is complete.<br />- Any tokens obtained 1 hour prior to the downtime window will not expire until the end of the downtime window.<br />- Any tokens obtained during the downtime window will work, but may suddenly expire. When that happens, please login or request a new token.<br />- <b> API calls </b> to Access Management may error out.<br /><b>Following maintenance downtime</b><br />- <b> Access Management </b> will function as usual<br />- <b> Help Center </b> will function as usual<br />Additionally, the following services will be impacted and in degraded states during this change. It is recommended that customers treat the following services as degraded during this window:<br />- API Designer<br />- API Analytics<br />- API Monitoring Center<br />- API Functional Monitoring<br />- Audit Log<br />- Composer (MuleSoft and Salesforce)<br />- Design Center Projects<br />- API Mocking Service<br />- OAuth Client System<br />- Anypoint MQ<br />- Anypoint Metering<br />- Runtime Fabric<br />- Runtime Manager<br />- RPA<br />- Anypoint Partner Manager v2<br />- Object Store V2<br />- Trusted Domains<br />- Universal Management Platform<br />- Existing running applications won't see any impact. If an existing (MQ or OSv2 app) got restarted during the maintenance, it won't be impacted either.<br />- Customers won't be able to deploy new MQ and OSv2 apps when Auth Service database is in RO mode as authentication tokens can't be generated.<br /><br /><h6>*** ATTENTION: up to 4 hours of service interruption is expected during this maintenance window ***</h6><br />We will be performing database maintenance. <br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />Anypoint Monitoring <br />Visualizer<br /><b>During Maintenance Downtime:</b><br />- Anypoint platform users may not be able to use Anypoint monitoring<br />- Anypoint Platform users may not be able to deploy new apps or restart existing apps<br />- Visualizer users may not be able to use Visualizer.<br /><br /><h6>*** ATTENTION: up to 60 minutes of service interruption is expected during this maintenance window ***</h6><br />We will be performing a scheduled update Vulnerability Remediation of an internal database for email notifications<br /><b>*** Service impact details:</b><br /><b>** Applications:</b><br />Runtime Manager<br />API Manager<br />Composer<br /><b>During maintenance downtime:</b><br /><b>* User Experience(UX):</b> Email notification system will be unavailable.<br /><br /><h6>*** ATTENTION: up to 60 minutes of service interruption is possible during this maintenance window ***</h6><br />We will be performing a scheduled upgrade on part of the platform's underlying infrastructure.<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />-  Monitoring Center<br /><b>During maintenance downtime:</b><br />This potential interruption will only affect Alerts. New and existing alerts status changes (including alert triggering) may be delayed until downtime is concluded.<br /><b>* User Experience(UX):</b> Monitoring Center alerts may not be triggered.<br /><br /><h6>*** ATTENTION: up to 60 minutes of service interruption is expected ***</h6><br />Exchange will be performing an increase of the size of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Exchange<br /><b>During maintenance downtime:</b><br />-  <b>Runtimes:</b> are not affected.<br />-  <b>User Interface (UI):</b> will show “Unable to complete this request while services are undergoing maintenance. Please retry after maintenance has been completed.” when doing certain operations.<br />-  <b>API calls:</b> to these services will return Service Unavailable Error (503). GET RequestsRequest will not be affected.<br />-  <b>Logs and Data:</b> will continue to be collected.<br /><b>Following maintenance downtime:</b><br />-  <b>Logs and Data:</b> will appear as usual.<br />-  <b>Runtimes and all services:</b> will resume normal operation.</p>
+]]></content:encoded>
+<pubDate>Sat, 17 Feb 2024 14:00:57 -0800</pubDate>
+<pubDate>Sat, 17 Feb 2024 14:00:57 -0800</pubDate>
+</item>
+<item>
+<title>Anypoint MQ Broker intermittently returning 5xx errors</title>
+<link>https://status.mulesoft.com/incidents/2cgv5s01lxc6</link>
+<guid>https://status.mulesoft.com/incidents/2cgv5s01lxc6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>17:31</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>17:11</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>14</var>, <var>17:05</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>14</var>, <var>15:56</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>14</var>, <var>15:42</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>14</var>, <var>14:34</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 17:31:50 -0800</pubDate>
+<pubDate>Wed, 14 Feb 2024 17:31:50 -0800</pubDate>
+</item>
+<item>
+<title>Issue with usage reports in CloudHub 2.0</title>
+<link>https://status.mulesoft.com/incidents/3cfyzbdp39n9</link>
+<guid>https://status.mulesoft.com/incidents/3cfyzbdp39n9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>12:06</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>13:58</var> PST</small><br /><strong>Identified</strong> - Customers running Mule apps on CloudHub 2.0 who are monitoring usage in the usage reports may observe missing Network Bytes data from September 2023 onward</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 12:06:13 -0800</pubDate>
+<pubDate>Tue, 13 Feb 2024 12:06:13 -0800</pubDate>
+</item>
+<item>
+<title>A small number of customers may experience errors while accessing ObjectStore v2 in the US East Region for runtimes.</title>
+<link>https://status.mulesoft.com/incidents/31x7dd2663s5</link>
+<guid>https://status.mulesoft.com/incidents/31x7dd2663s5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>12</var>, <var>00:52</var> PST</small><br /><strong>Resolved</strong> - As of 12:37 AM Pacific time the incident was mitigated and has been resolved.</p><p><small>Feb <var>12</var>, <var>00:37</var> PST</small><br /><strong>Monitoring</strong> - Engineering teams have implemented a fix and we are monitoring the services.</p><p><small>Feb <var>12</var>, <var>00:27</var> PST</small><br /><strong>Investigating</strong> - Our engineering team is continuing to work to address the issue and restore service to its expected state.</p><p><small>Feb <var>11</var>, <var>23:41</var> PST</small><br /><strong>Identified</strong> - Customers may experience 503 errors while using ObjectStore V2. Engineering teams are investigating and putting measures in place to reduce the impact/resolve the issue. No customer action is required at this point.</p><p><small>Feb <var>11</var>, <var>22:57</var> PST</small><br /><strong>Investigating</strong> - A small number of customers may experience errors while accessing ObjectStore V2 in the US East region for runtimes.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 00:52:04 -0800</pubDate>
+<pubDate>Mon, 12 Feb 2024 00:52:04 -0800</pubDate>
+</item>
+<item>
+<title>Customers may experience problems with API Analytics showing incomplete data</title>
+<link>https://status.mulesoft.com/incidents/28f1d2cgvczf</link>
+<guid>https://status.mulesoft.com/incidents/28f1d2cgvczf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>18:12</var> PST</small><br /><strong>Resolved</strong> - As of 5:58 PM Pacific time API Analytics ingestion returned to normal operation.  The cause of the performance situation was identified and has been resolved.  Operations for API Analytics are back within expected performance.</p><p><small>Feb <var> 8</var>, <var>17:58</var> PST</small><br /><strong>Monitoring</strong> - Engineering teams have implemented a fix and we are monitoring the services.</p><p><small>Feb <var> 8</var>, <var>17:41</var> PST</small><br /><strong>Investigating</strong> - Customers may experience problems with API Analytics showing incomplete data. Our teams are investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 18:12:52 -0800</pubDate>
+<pubDate>Thu, 08 Feb 2024 18:12:52 -0800</pubDate>
+</item>
+<item>
+<title>CloudHub 1 Business Group Runtime Options not visible</title>
+<link>https://status.mulesoft.com/incidents/4kg0f5xsdzfv</link>
+<guid>https://status.mulesoft.com/incidents/4kg0f5xsdzfv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>17:27</var> PST</small><br /><strong>Resolved</strong> - The issue was resolved at 17:26 PT.  We will be providing an RCA via our support portal in the next 5 business days.</p><p><small>Feb <var> 7</var>, <var>13:47</var> PST</small><br /><strong>Identified</strong> - This issue has been identified and a fix is being implemented. A work around has been found for some customers.<br />If you have Global Deployments for your org, please enable "Global Deployments" for your corresponding suborg (https://help.mulesoft.com/s/article/Set-Global-Deployments-on-Business-Groups). <br /><br />Note: API and Maven deployments are not affected.</p><p><small>Feb <var> 7</var>, <var>13:12</var> PST</small><br /><strong>Investigating</strong> - Some customers may be experiencing issues seeing Runtime options when deploying CloudHub 1 applications in Runtime Manager.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 17:27:29 -0800</pubDate>
+<pubDate>Wed, 07 Feb 2024 17:27:29 -0800</pubDate>
+</item>
+<item>
+<title>Anypoint Platform Release and Maintenance Window</title>
+<link>https://status.mulesoft.com/incidents/jm78gtx5zdzx</link>
+<guid>https://status.mulesoft.com/incidents/jm78gtx5zdzx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 3</var>, <var>11:29</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>09:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>23</var>, <var>09:57</var> PST</small><br /><strong>Scheduled</strong> - On Saturday, Feb 3, 2024 between 9AM and 2PM PDT (12PM - 5PM EDT, 4PM - 9PM UTC)<br /><br /><h6><b>*** ATTENTION:  a 30 min to 1 hour service interruption is expected during this maintenance window … ***</b></h6><br />We will be performing a scheduled upgrade on part of the platform's underlying infrastructure. We are introducing a new set of static IP addresses in Runtime Manager that will augment the existing ones. For more information, visit the KB: New IP addresses in Runtime Manager 2024 February page (https://help.mulesoft.com/s/article/New-IP-addresses-in-Runtime-Manager-2024-February)<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />-  Runtime Manager<br />This interruption affects only Standalone Servers. Runtime Fabric, Cloud Hub 2.0, Flex Gateway are not impacted.<br />During the service interruption, there will be no impact to the applications.<br /><b>During maintenance downtime:</b><br /><b>* Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> Application management capabilities of Runtime Manager may be disrupted as some servers may be disconnected and become unavailable for management. This will be temporary and the correct state of the Mule applications will be reflected after the maintenance window has been completed.<br />With the addition of a new set of static IP addresses in Runtime Manager, to avoid service disruption allow the IP addresses or domains (depending on your network policy) through your organization's firewall as listed in the Allow Lists page (https://docs.mulesoft.com/runtime-manager/rtm-agent-allowlists#static-ip-addresses)<br /><b>* API calls:</b> API calls will not be impacted<br /><b>* Logs and Data: </b> log and metric display data will be updated during the service interruption.<br /><br /><h6><b>*** ATTENTION: up to 30 minutes of service interruption is expected during this maintenance window for the following ***</h6></b><br /><br />We will be doing a scheduled upgrade on part of the platform underlying infrastructure.<br /><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Anypoint Runtime Manager<br /><b>During maintenance downtime:</b><br />- <b>Runtimes:</b> will not be impacted<br />- <b>User Interface (UI):</b> CloudHub networking tabs (VPC, VPN, DLB, TGW) will throw errors when trying to create/update/delete<br />- <b>API calls:</b> CloudHub networking components (VPC, VPN, DLB, TGW) will not be manageable<br />- <b>Logs and Data:</b> will not be impacted<br /><b>Following maintenance downtime:</b><br />- <b>User Interface (UI):</b> CloudHub networking tabs (VPC, VPN, DLB, TGW) will work as usual<br />- <b>API calls:</b> CloudHub networking components (VPC, VPN, DLB, TGW) will work as usual<br /><br /><br /><h6><b>*** ATTENTION:  up to 45 minutes service interruption is expected during this maintenance window ***</b></h6><br />We will be performing a scheduled upgrade on part of the platform's underlying public key infrastructure. <br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />- Runtime Fabric and CH2 spaces<br />- Anypoint Monitoring<br />- Flex Gateway<br />- RPA<br /><br /><b>During maintenance downtime:</b><br /><br /><b>* Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> <br />   1. Existing Runtime Fabric agents cannot rotate the PKI certificate. New Runtime Fabric installation cannot be created.<br />2. Anypoint monitoring agent will not be able to renew its mTLS certificate.There is no impact to the usage of existing mTLS certificate to ship the metrics to the Anypoint platform, unless the certificate expires during the maintenance window. <br />3. mTLS certificate for existing Flex Gateway instances cannot be renewed. Existing Flex Gateway instances cannot be deleted. New Flex Gateway instance cannot be created.<br />4. RPA manager will only be affected if its multi-tenant infrastructure needs to be expanded to fulfill a new provisioning request during the maintenance window.<br /><br /><b>* API calls:</b> API calls will not be impacted<br /><br /><br /><h6><b>*** ATTENTION: a 15 to 30 min service interruption is expected during this maintenance window … ***</b></h6><br />We will be performing a scheduled upgrade on part of the platform’s underlying infrastructure.<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />- Runtime Manager<br />This interruption affects only Runtime Fabric and Cloud Hub 2.0. Flex Gateway and Standalone Servers are not impacted. During the service interruption, there will be no impact to the applications.<br /><b>During maintenance downtime:</b><br /><b>* Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> On the Runtime Fabric and Private Space Status pages, Agents might show as “Degraded” status; Customers might not be able to create Runtime Fabric Agents and Private Spaces  correctly. This will be temporary and fixed after the maintenance window has been completed.<br /><b>* API calls:</b> API calls will not be impacted<br /><b>* Logs and Data: </b> log and metric display data will be updated during the service interruption.</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 11:29:40 -0800</pubDate>
+<pubDate>Sat, 03 Feb 2024 11:29:40 -0800</pubDate>
+</item>
+<item>
+<title>RTF is in a Degraded State</title>
+<link>https://status.mulesoft.com/incidents/1bkhrbvf91k0</link>
+<guid>https://status.mulesoft.com/incidents/1bkhrbvf91k0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>12:58</var> PST</small><br /><strong>Resolved</strong> - As of 12:30 PM PT the issue was resolved, at which point customers are no longer seeing RTF in a degraded state.</p><p><small>Feb <var> 2</var>, <var>12:35</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 2</var>, <var>12:04</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue on where RTF is a Degraded State, we will provide more information as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Feb 2024 12:58:41 -0800</pubDate>
+<pubDate>Fri, 02 Feb 2024 12:58:41 -0800</pubDate>
+</item>
+<item>
+<title>CloudHub | January 2024 Runtime and DLB Monthly Patches were not Applied in US Control Plane Automatically</title>
+<link>https://status.mulesoft.com/incidents/893dsr724339</link>
+<guid>https://status.mulesoft.com/incidents/893dsr724339</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>13:53</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>29</var>, <var>11:31</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix/resolution is in the works.</p><p><small>Jan <var>29</var>, <var>00:37</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue affecting CloudHub Monthly Auto-upgrade, we will provide more information as soon as we can.   <br /><br />Affected Customers are directed to follow the below link - Article Link https://help.mulesoft.com/s/article/CloudHub-January-2024-Runtime-and-DLB-Monthly-Patches-were-not-Applied-in-US-Control-Plane-Automatically</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 13:53:36 -0800</pubDate>
+<pubDate>Tue, 30 Jan 2024 13:53:36 -0800</pubDate>
+</item>
+<item>
+<title>Environments are Erroring Upon Delete</title>
+<link>https://status.mulesoft.com/incidents/dmvwhjg0r1k6</link>
+<guid>https://status.mulesoft.com/incidents/dmvwhjg0r1k6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>14:53</var> PST</small><br /><strong>Resolved</strong> - As of 14:20 PT (22:20 UTC) the issue has been resolved.</p><p><small>Jan <var>25</var>, <var>14:22</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>25</var>, <var>14:01</var> PST</small><br /><strong>Investigating</strong> - Customers will experience an error when attempting to delete an environment. Teams are investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 14:53:07 -0800</pubDate>
+<pubDate>Thu, 25 Jan 2024 14:53:07 -0800</pubDate>
+</item>
+<item>
+<title>New Templates Unable to be Deployed to Partner Manager</title>
+<link>https://status.mulesoft.com/incidents/3qh6jbz1s818</link>
+<guid>https://status.mulesoft.com/incidents/3qh6jbz1s818</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>12:12</var> PST</small><br /><strong>Resolved</strong> - The recent issues affecting Partner Manager customers on CloudHub have been successfully resolved. Our teams have addressed the problems that were causing failures in the deployment of new message flows and running template upgrades. We also resolved the difficulties impacting transaction replays.<br /><br />Please note that runtime applications and data processing of already deployed message flows were not impacted during this issue.<br /><br />We appreciate your patience and understanding while we worked to fix these issues.</p><p><small>Jan <var>25</var>, <var>11:34</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>25</var>, <var>10:59</var> PST</small><br /><strong>Update</strong> - Deployment of new message flows and running template upgrades are failing for Partner Manager customers using CloudHub. Teams have identified the issue are are working on a fix. This issue also impacts the ability to replay transactions. Runtime applications and data processing of already deployed message flows are not impacted due to this issue.</p><p><small>Jan <var>25</var>, <var>09:57</var> PST</small><br /><strong>Identified</strong> - Deploying new message flows and running template upgrades are failing for Partner Manager customers using Cloudhub. Teams have identified the issue are are working on a fix.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 12:12:16 -0800</pubDate>
+<pubDate>Thu, 25 Jan 2024 12:12:16 -0800</pubDate>
+</item>
+<item>
+<title>Customers may experience problems with Composer creating new or opening and modifying existing flows.</title>
+<link>https://status.mulesoft.com/incidents/ymyb25n8df9q</link>
+<guid>https://status.mulesoft.com/incidents/ymyb25n8df9q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>24</var>, <var>15:12</var> PST</small><br /><strong>Resolved</strong> - As of 10:56 PM UTC the incident was mitigated the issue has been resolved.</p><p><small>Jan <var>24</var>, <var>14:59</var> PST</small><br /><strong>Monitoring</strong> - Engineering teams have implemented a fix and we are monitoring the services.</p><p><small>Jan <var>24</var>, <var>14:45</var> PST</small><br /><strong>Investigating</strong> - Customers may experience problems when they attempt to create a new flow or open/edit an existing flow in the Composer user interface.  There is no impact to running flows.</p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 15:12:52 -0800</pubDate>
+<pubDate>Wed, 24 Jan 2024 15:12:52 -0800</pubDate>
+</item>
+<item>
+<title>API Analytics Data Delayed</title>
+<link>https://status.mulesoft.com/incidents/m0zfmd4nz3hq</link>
+<guid>https://status.mulesoft.com/incidents/m0zfmd4nz3hq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>17:57</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>23</var>, <var>16:16</var> PST</small><br /><strong>Update</strong> - We are still working on implementing a fix, we will provide more information soon</p><p><small>Jan <var>23</var>, <var>14:51</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>23</var>, <var>13:53</var> PST</small><br /><strong>Investigating</strong> - The API Analytics data may not be showing real-time information for some customers; there is a delay in the data display. Teams are currently investigating.</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 17:57:53 -0800</pubDate>
+<pubDate>Tue, 23 Jan 2024 17:57:53 -0800</pubDate>
+</item>
+<item>
+<title>Customers may experience problems with MS Anypoint Monitoring</title>
+<link>https://status.mulesoft.com/incidents/5ltxqwjm3873</link>
+<guid>https://status.mulesoft.com/incidents/5ltxqwjm3873</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>22</var>, <var>12:54</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>10:24</var> PST</small><br /><strong>Identified</strong> - Engineers have identified the cause of the issue and are working towards implementing a fix.</p><p><small>Jan <var>22</var>, <var>09:14</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>22</var>, <var>07:34</var> PST</small><br /><strong>Investigating</strong> - Customers may experience problems with MS Anypoint Monitoring. Our teams are investigating.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 12:54:58 -0800</pubDate>
+<pubDate>Mon, 22 Jan 2024 12:54:58 -0800</pubDate>
+</item>
+<item>
+<title>Anypoint Platform Release and Maintenance Window</title>
+<link>https://status.mulesoft.com/incidents/l47jdjvyspwp</link>
+<guid>https://status.mulesoft.com/incidents/l47jdjvyspwp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>20</var>, <var>12:24</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>09:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>11</var>, <var>11:22</var> PST</small><br /><strong>Scheduled</strong> - US:  On Saturday, Jan 20, 2024 between 9AM and 2PM PDT (12PM - 5PM EDT, 4PM - 9PM UTC)<br /><br /><br /><h6>New Enhanced feature release</h6><br /><b> New metering api endpoints for metering api </b><br /><b>Anypoint Webserver</b><br /> - Added a path for metering future functionality. No impact to existing features<br /><br /><h6><b> “bug fixes, no downtime anticipated” </h6></b><br /><br /><h6>***ATTENTION: up to 1 hour of service interruption is expected during this maintenance window. ***</h6><br />We will be performing a scheduled upgrade of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />Trusted Domains<br /><b>During Maintenance Downtime:</b><br /><b>* Existing Runtimes: </b> are not impacted.<br /><b>* User Experience (UX):</b> Requests done from Anypoint Platform to external domains through the API Console won't work during the maintenance. Anypoint administrators won't be able to review, add, or delete trusted domains from Access Management.<br /><br /><h6>Customer Impacting / Downtime Announcement(s)</h6><br /><h6>***ATTENTION: up to 60 minutes of service interruption is expected. ***</h6><br />Exchange will be performing an increase of the size of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Exchange<br /><b>During maintenance downtime:</b><br />-  <b>Runtimes:</b> are not affected.<br />-  <b>User Interface (UI):</b> will show “Unable to complete this request while services are undergoing maintenance. Please retry after maintenance has been completed.” when doing certain operations.<br />-  <b>API calls:</b> to these services will return Service Unavailable Error (503). GET Requests will not be affected.<br />-  <b>Logs and Data:</b> will continue to be collected.<br /><b>Following maintenance downtime:</b><br />-  <b>Logs and Data:</b> will appear as usual.<br />-  <b>Runtimes and all services:</b> will resume normal operation.<br /><br /><h6>Customer Impacting / Downtime Announcement(s)</h6><br /><h6>***ATTENTION: up to 60 minutes of service interruption is expected. ***</h6><br />We will be performing a scheduled upgrade of an internal database.<br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Runtime Manager<br />- API Manager<br /><br /><b>During maintenance downtime:</b><br /><b>* Existing Runtimes: </b> are not impacted.<br /><b>* User Experience (UX):</b> Platform alerts usage will be interrupted. Servers and applications discrete alerts could be interrupted, and no new alerts will be created. API Manager alerts will not be triggered.<br /><br /><br /><h6><b>*** ATTENTION: up to 60 minutes of service interruption is expected during this maintenance window for the following ***</h6></b><br /><br />We will be doing a scheduled upgrade on part of the platform underlying infrastructure.<br /><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />-  Anypoint Runtime Manager<br /><b>During maintenance downtime:</b><br />-  <b>Runtimes:</b> will not be impacted<br />-  <b>User Interface (UI):</b> Cloudhub mule messages dashboard will not get updated data until finish.<br />-  <b>API calls:</b> CloudHub Dashboard stats REST API will not get updated information<br />-  <b>Logs and Data:</b> will not be impacted<br /><b>Following maintenance downtime:</b><br />-  <b>User Interface (UI):</b> Cloudhub mule messages will be show as usual without data loss<br />-  <b>API calls:</b> CloudHub Dashboard stats REST API will get updated data.</p>
+]]></content:encoded>
+<pubDate>Sat, 20 Jan 2024 12:24:16 -0800</pubDate>
+<pubDate>Sat, 20 Jan 2024 12:24:16 -0800</pubDate>
+</item>
+<item>
+<title>OpenShift RTF Cert Renewal Issues.</title>
+<link>https://status.mulesoft.com/incidents/ywnvrhbcfk14</link>
+<guid>https://status.mulesoft.com/incidents/ywnvrhbcfk14</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>20:05</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>15:58</var> PST</small><br /><strong>Monitoring</strong> - The issue has been mitigated and can be fixed by following the below KB:<br /><br />https://help.mulesoft.com/s/article/Runtime-Fabric-Cluster-is-Disconnected-or-Degraded-and-Showing-remote-error-tls-unknown-certificate</p><p><small>Jan <var>18</var>, <var>13:26</var> PST</small><br /><strong>Investigating</strong> - Customers may experience OpenShift RTF Cert renewal issues; teams are investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 20:05:01 -0800</pubDate>
+<pubDate>Thu, 18 Jan 2024 20:05:01 -0800</pubDate>
+</item>
+<item>
+<title>Errors in CloudHub</title>
+<link>https://status.mulesoft.com/incidents/wntnf3mcfzhl</link>
+<guid>https://status.mulesoft.com/incidents/wntnf3mcfzhl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>15:56</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>15:33</var> PST</small><br /><strong>Monitoring</strong> - Some customers may experience issues with CloudHub applications when:<br />- managing application schedules<br />- deploying/redeploying applications<br /><br />A fix has been implemented, and we are monitoring the results</p><p><small>Jan <var>18</var>, <var>15:07</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 15:56:49 -0800</pubDate>
+<pubDate>Thu, 18 Jan 2024 15:56:49 -0800</pubDate>
+</item>
+<item>
+<title>Customers may experience problems with MuleSoft Composer</title>
+<link>https://status.mulesoft.com/incidents/fg400cbrmkk0</link>
+<guid>https://status.mulesoft.com/incidents/fg400cbrmkk0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>08:35</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>08:24</var> PST</small><br /><strong>Monitoring</strong> - Engineering teams have implemented a fix and we are monitoring the services.</p><p><small>Jan <var>18</var>, <var>07:22</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>18</var>, <var>06:21</var> PST</small><br /><strong>Investigating</strong> - Customers may experience problems when trying to create/edit/run flows while using MuleSoft Composer. Our teams are investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 08:35:47 -0800</pubDate>
+<pubDate>Thu, 18 Jan 2024 08:35:47 -0800</pubDate>
+</item>
+<item>
+<title>Customers may experience missing usage metrics from API Designer products in Anypoint Exchange</title>
+<link>https://status.mulesoft.com/incidents/wfw8cxf5rcrn</link>
+<guid>https://status.mulesoft.com/incidents/wfw8cxf5rcrn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>17</var>, <var>15:19</var> PST</small><br /><strong>Resolved</strong> - This issue was resolved at 14:46 PT, after a fix was successfully deployed and validated.</p><p><small>Jan <var>17</var>, <var>10:23</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>17</var>, <var>08:55</var> PST</small><br /><strong>Investigating</strong> - We detected an issue on Anypoint Exchange and API Designer products concerning usage metrics which we're investigating. No impact is expected for customers as of now. A delayed impact may be experienced for some customers, specifically some API Designer usage metrics may not show up in your Exchange dashboards.</p>
+]]></content:encoded>
+<pubDate>Wed, 17 Jan 2024 15:19:52 -0800</pubDate>
+<pubDate>Wed, 17 Jan 2024 15:19:52 -0800</pubDate>
+</item>
+<item>
+<title>Issues with the Secrets Manager UI</title>
+<link>https://status.mulesoft.com/incidents/fzgh64k5s5fm</link>
+<guid>https://status.mulesoft.com/incidents/fzgh64k5s5fm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>16</var>, <var>16:28</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>16</var>, <var>16:15</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>16</var>, <var>15:50</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 16 Jan 2024 16:28:19 -0800</pubDate>
+<pubDate>Tue, 16 Jan 2024 16:28:19 -0800</pubDate>
+</item>
+<item>
+<title>API Analytic alerts may not work for newly created alerts.</title>
+<link>https://status.mulesoft.com/incidents/44wqq9f58jhj</link>
+<guid>https://status.mulesoft.com/incidents/44wqq9f58jhj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>16:56</var> PST</small><br /><strong>Resolved</strong> - As of 4:55 pm PT when incident was mitigated, the issue has been resolved.  We will be providing an RCA via our support portal in the next 5 business days.</p><p><small>Jan <var>11</var>, <var>15:17</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue in which some customers may experience delay in receiving new API alerts.</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 16:56:38 -0800</pubDate>
+<pubDate>Thu, 11 Jan 2024 16:56:38 -0800</pubDate>
+</item>
+<item>
+<title>Issues with API Commmunity Manager</title>
+<link>https://status.mulesoft.com/incidents/s403nwkmjkv1</link>
+<guid>https://status.mulesoft.com/incidents/s403nwkmjkv1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 9</var>, <var>17:59</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>17:48</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 9</var>, <var>17:32</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 9</var>, <var>16:30</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 17:59:30 -0800</pubDate>
+<pubDate>Tue, 09 Jan 2024 17:59:30 -0800</pubDate>
+</item>
+<item>
+<title>Anypoint Platform Release and Maintenance Window</title>
+<link>https://status.mulesoft.com/incidents/q06xwxqnpn3h</link>
+<guid>https://status.mulesoft.com/incidents/q06xwxqnpn3h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 6</var>, <var>13:34</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 6</var>, <var>09:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>27</var>, <var>11:18</var> PST</small><br /><strong>Scheduled</strong> - US:  On Saturday, Jan 6, 2024 between 9AM and 2PM PST (12PM - 5PM EDT, 4PM - 9PM UTC)<br /><br /><h6>New/Enhanced Feature Releases</h6><br /><br /><h6>Bug fixes & back-end performance enhancement releases</h6><br /><br /><br /><h6>Customer Impacting / Downtime Announcement(s)</h6><br /><br /><h6><b>*** ATTENTION:  a 15 min to 1 hour service interruption is expected during this maintenance window … ***</b></h6><br />We will be performing a scheduled upgrade on part of the platform's underlying infrastructure.<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />-  Runtime Manager<br />This interruption affects only Standalone Servers. Runtime Fabric, Cloud Hub 2.0, Flex Gateway are not impacted.<br />During the service interruption, there will be no impact to the applications. <br /><b>During maintenance downtime:</b><br /><b>* Runtimes: </b> are not impacted.<br /><b>* User Experience(UX):</b> Application management capabilities of Runtime Manager may be disrupted as some servers may be disconnected and become unavailable for management. This will be temporary and the correct state of the Mmule application will be reflected after the maintenance window has been completed.<br /><b>* API calls:</b> API calls will not be impacted<br /><b>* Logs and Data: </b> log and metric display data will be updated during the service interruption.<br /><br /><h6><b>*** ATTENTION: up to 2 hours of service interruption is expected during this maintenance window for the following ***</h6></b><br /><b>We will be doing a scheduled upgrade on Access Management database.</b><br /><b>*** Service Impact Details:</b><br /><b>* Applications:</b><br />- Access Management<br />- Help Center<br /><b>During maintenance downtime</b><br />- Anypoint users will be able to login to their account and view information in Access Management, but may not be able modify information until the scheduled downtime is complete.<br />- Anypoint clients will be able to get new tokens, and call read APIs in Access Management, but may not be able to call write APIs until the scheduled downtime is complete.<br />- Any tokens obtained 1 hour prior to the downtime window will not expire until the end of the downtime window.<br />- Any tokens obtained during the downtime window will work, but may suddenly expire. When that happens, please login or request a new token.<br />- API calls to Access Management may error out.<br />- <b> API calls </b> to Access Management may error out.<br /><b>Following maintenance downtime</b><br />- <b> Access Management </b> will function as usual<br />- <b> Help Center </b> will function as usual<br />Additionally, the following services will be impacted and in degraded states during this change. It is recommended that customers treat the following services as degraded during this window:<br />- API Designer<br />- API Analytics<br />- API Monitoring Center<br />- API Functional Monitoring<br />- Audit Log<br />- Composer (MuleSoft and Salesforce)<br />- Design Center Projects<br />- API Mocking Service<br />- OAuth Client System<br />- Anypoint MQ<br />- Anypoint Metering<br />- Runtime Fabric<br />- Runtime Manager<br />- RPA<br />- Anypoint Partner Manager v2<br />- Object Store V2<br />- Trusted Domains<br />- Universal Management Platform<br /><br />- Existing running applications won’t see any impact. If an existing (MQ or OSv2 app) got restarted during the maintenance, it won’t be impacted either.<br />- Customers won’t be able to deploy new MQ and OSv2 apps when Auth Service database is in RO mode as authentication tokens can’t be generated.<br /><br /><h6>*** ATTENTION:  up to 60 minutes of service interruption is expected during this maintenance window ***</h6><br />We will be performing a scheduled upgrade of an internal database for Anypoint Secrets Manager<br /><b>*** Service impact details:</b><br /><b>* Applications: </b><br />- Runtime Manager<br />- API Manager<br />- Partner Manager (both v1 and v2)<br />- Anypoint Security (All components)<br />- Design Center  (Flow Designer, API Designer and Design Center Projects)<br />- Anypoint Monitoring<br />- MuleSoft Composer<br />- MuleSoft Composer for Salesforce<br /><b>During maintenance downtime:</b><br /><b>* User Experience(UX): </b>Anypoint Secrets Manager will be unavailable. User will experience an error for the following applications:<br />Anypoint Secrets Manager:  Customers will not be able to manage secret groups and secrets.<br />Runtime Manager:  Customers will not be able to deploy a new mule application, create a new Runtime Fabric instance, Private Space instance and Tokenization Service.<br />API Manager: Customers will not be able to add or update APIs using Mule Gateway or Flex Gateway.<br />Partner Manager: Customers will not be able to create or update endpoints, nor they will be able to deploy new message flows. Also they won’t be able to run template upgrades.<br />Anypoint Security: Customers will not be able to create or update their security-edge instance and tokenization service.<br />Design Center: Customers will not be able to perform activities involving Anypoint Secrets Manager.<br />Anypoint Monitoring: Customers monitors that are using Anypoint Secrets Manager integration in their monitor will fail.<br />MuleSoft Composer: Customers will not be able to create a new workflow. Existing workflows may also be impacted if it stores or retrieves secrets from Secrets Manager.<br />MuleSoft Composer for Salesforce: Customers will not be able to activate the workflow<br /><b>* API calls:</b><br />Invoking Anypoint APIs that use Anypoint Secrets Manager will fail.<br /><b>* Existing Runtimes: </b> are not impacted.<br /><b>* Following maintenance downtime:</b><br /><b> Anypoint Secrets Manager</b> will function as usual<br /><br /><h6>***ATTENTION: up to 2 hours of service interruption is expected during this maintenance window.***</h6><br />We will be performing database maintenance. <br /><b>*** Service Impact Details:</b><br /><b>** Applications:</b><br />Anypoint Monitoring <br />Visualizer<br /><b>During Maintenance Downtime:</b><br /><br />- Anypoint platform users may not be able to use Anypoint monitoring.<br />- Visualizer users may not be able to use Visualizer.<br /><br /><br /><br /><br /><h6><b>*** ATTENTION:  a 5 - 10 min service interruption is expected during this maintenance window … ***</b></h6><br />We will be doing scheduled maintenance for monitoring Cloud Service.<br /><b>*** Service impact details:</b><br /><b>* Applications:</b><br />-  Nexus (https://repository.mulesoft.org/nexus/)<br /><br /><b>During maintenance downtime:</b><br /><b>* Runtimes: </b>are not affected<br /><b>* User Experience (UI):</b> no impact to UI functioning<br /><b>* API calls:</b> API calls will not be impacted<br /><b>* Logs and Data: </b> log and metric display data will be updated during the service interruption. <br /><br /><b>Following maintenance downtime:</b><br /><b>* Logs and Data: </b> will appear normal at the end of the update<br /><b>* Runtimes and all services:</b> will resume normal operation<br /><br /></p>
+]]></content:encoded>
+<pubDate>Sat, 06 Jan 2024 13:34:50 -0800</pubDate>
+<pubDate>Sat, 06 Jan 2024 13:34:50 -0800</pubDate>
+</item>
+<item>
+<title>Exchange experiencing 500 errors and random slowness.</title>
+<link>https://status.mulesoft.com/incidents/8g6qy5jhkmf7</link>
+<guid>https://status.mulesoft.com/incidents/8g6qy5jhkmf7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 3</var>, <var>16:05</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 3</var>, <var>15:39</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 3</var>, <var>14:46</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 3</var>, <var>14:29</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 3</var>, <var>13:04</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 3</var>, <var>11:52</var> PST</small><br /><strong>Update</strong> - Engineers are still working on the issue as it is intermittent.</p><p><small>Jan <var> 3</var>, <var>10:41</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 3</var>, <var>10:00</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue on which some Exchange customers are experiencing 504, 500 errors and random slowness when fetching assets from Exchange, we will provide more information as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jan 2024 16:05:25 -0800</pubDate>
+<pubDate>Wed, 03 Jan 2024 16:05:25 -0800</pubDate>
+</item>
+
+</channel>
+</rss>

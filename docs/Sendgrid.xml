@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>ClickHouse Cloud Status - Incident History</title>
-<link>https://status.clickhouse.com</link>
-
+<title>SendGrid Status - Incident History</title>
+<link>https://status.sendgrid.com</link>
 
 <item>
 <title>SendGrid Mail Sending Delays</title>
 <link>https://status.sendgrid.com/incidents/1n3yjyh3w89d</link>
 <guid>https://status.sendgrid.com/incidents/1n3yjyh3w89d</guid>
 <content:encoded><![CDATA[
-<div> [High] - Hardware Issue Causing Mail Delays
-The company's engineers have identified a hardware issue related to mail send for the SendGrid platform. This issue started at 3:00 PM PT on February 6, 2024, and has caused delays in sending mail requests to the system. A subset of customers sending mail has been affected by this issue. The engineering team has deployed a change at 3:42 PM PT to mitigate the affected delayed traffic. The system is being monitored, and updates will be provided regularly. Customers may have experienced delays in mail send requests, but the engineers have confirmed that delayed emails due to this hardware problem have been successfully dequeued from the system. Changes were deployed to correct the identified hardware problem, ensuring that new mail traffic requested to the SendGrid system will not be delayed. The incident has been resolved, and users can expect normal mail traffic operations to resume. <div>
+
 <p><small>Feb <var> 6</var>, <var>18:08</var> PST</small><br /><strong>Resolved</strong> - After monitoring, our engineers confirmed that changes deployed to correct the identified hardware problem solved the issue and new mail traffic requested to the SendGrid system will not be delayed. This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>17:34</var> PST</small><br /><strong>Update</strong> - The system is continuing to be monitored at this time as it relates to this incident.  Another update will be provided in one hour or as soon as more information becomes available.</p><p><small>Feb <var> 6</var>, <var>16:33</var> PST</small><br /><strong>Monitoring</strong> - Our engineers confirmed that delayed emails due to this hardware problem have been successfully dequeued from the system. New mail traffic requested to the SendGrid system will not be delayed due to this problem as changes were deployed to correct the identified hardware problem. The system will continue to be monitored and another update will be provided in the next hour or as soon as possible.</p><p><small>Feb <var> 6</var>, <var>16:08</var> PST</small><br /><strong>Identified</strong> - Starting at 3:00 PM PT on February 6, 2024, our engineers confirmed an issue with the hardware related to mail send for the SendGrid platform. Due to this hardware issue, users of the platform may have experienced delays in mail send requests to the system. Our engineering team deployed a change to help mitigate affected delayed traffic at 3:42 PM PT. While this does affect mail send, only a subset of customers sending mail were affected.  We will provide another update in one hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 18:08:08 -0800</pubDate>
 <pubDate>Tue, 06 Feb 2024 18:08:08 -0800</pubDate>
 </item>
 <item>
@@ -21,10 +20,10 @@ The company's engineers have identified a hardware issue related to mail send fo
 <link>https://status.sendgrid.com/incidents/sdlbw185nvvb</link>
 <guid>https://status.sendgrid.com/incidents/sdlbw185nvvb</guid>
 <content:encoded><![CDATA[
-<div> [High] - Two-Factor Authentication Issue
-The Two-Factor Authentication (2FA) system was experiencing issues affecting the sign-up process for some customers. Engineers initially identified the problem and started working on a fix at 7:16 AM PST on January 23, 2024. The issue was later confirmed to be caused by a subset of 2FA emails being rejected by Yahoo as suspected phishing, leading to a disruption in the 2FA sign-up and update processes. SendGrid Engineers continued to investigate the issue and provided regular updates about their progress. At 10:56 AM PST, it was determined that the problem was isolated and specifically impacting 2FA emails for a few customers. By 11:56 AM PST, engineers had monitored and confirmed the fix, with all services operating normally at that time. This incident was resolved as of 2:12 PM PST on the same day. Throughout the process, continuous monitoring and updates were provided as the engineering team worked towards resolving the issue. <div>
+
 <p><small>Jan <var>23</var>, <var>14:12</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with two-factor authentication sign-ups has been resolved. All services are now operating normally at this time.</p><p><small>Jan <var>23</var>, <var>11:56</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have confirmed that this is an isolated incident impacting 2FA emails just for a few customers.  We will continue to monitor throughout the day.</p><p><small>Jan <var>23</var>, <var>10:56</var> PST</small><br /><strong>Identified</strong> - Our engineers have identified the issue and are working toward a fix. We’ve identified a small subset of our 2FA emails that are being rejected by Yahoo as suspected phishing.  We will provide another update in one hour or as soon as more information becomes available.</p><p><small>Jan <var>23</var>, <var>09:29</var> PST</small><br /><strong>Investigating</strong> - SendGrid Engineers are continuing to investigate this issue, and will update when we have an update or in 1 hour, whichever occurs first.</p><p><small>Jan <var>23</var>, <var>08:27</var> PST</small><br /><strong>Identified</strong> - Starting at 7:16 AM PST on January 23, 2024, our engineers have identified the issue regarding new two-factor authentication sign-ups and are working toward a fix. At this time customers are unable to sign-up for new two-factor authentication or update current ones. We will provide another update in hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 14:12:55 -0800</pubDate>
 <pubDate>Tue, 23 Jan 2024 14:12:55 -0800</pubDate>
 </item>
 <item>
@@ -32,8 +31,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/h6h58gg69tw7</link>
 <guid>https://status.sendgrid.com/incidents/h6h58gg69tw7</guid>
 <content:encoded><![CDATA[
+
 <p><small>Jan <var>22</var>, <var>17:16</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with email message processing and delivery has been resolved. All services are now operating normally at this time.</p><p><small>Jan <var>22</var>, <var>16:30</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have implemented a fix and are monitoring system performance. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Jan <var>22</var>, <var>16:15</var> PST</small><br /><strong>Identified</strong> - Our engineers have identified the issue and are working toward a fix. We will provide another update in one hour or as soon as more information becomes available.</p><p><small>Jan <var>22</var>, <var>16:09</var> PST</small><br /><strong>Investigating</strong> - Starting at 3:08 PM PST on January 22, 2024, our engineers began investigating an issue with our systems that is delaying processing and delivery of mail. Users may experience delays with processing and delivery of email messages sent through Twilio SendGrid. This does impact mail send. We will provide another update in one hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 17:16:37 -0800</pubDate>
 <pubDate>Mon, 22 Jan 2024 17:16:37 -0800</pubDate>
 </item>
 <item>
@@ -41,8 +42,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/trwnkbsqbsx3</link>
 <guid>https://status.sendgrid.com/incidents/trwnkbsqbsx3</guid>
 <content:encoded><![CDATA[
+
 <p><small>Jan <var>18</var>, <var>20:55</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with accessing IP Access Management, Sender Authentication and Event Webhook settings at the Sendgrid's User Interface has been resolved. All services are now operating normally at this time.</p><p><small>Jan <var>18</var>, <var>20:21</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have implemented a fix and are monitoring system performance. We will provide another update in the next 30 minutes, or as soon as more information becomes available.</p><p><small>Jan <var>18</var>, <var>19:12</var> PST</small><br /><strong>Investigating</strong> - Starting around 6:00 PM PST on Thursday, January 18th, 2024, our engineers began investigating an issue with accessing IP Access Management, Sender Authentication and Webhook settings at the Sendgrid's User Interface. When accessing those features, customers are returned the error message "We encountered an error. We're sorry, we were unable to load the page." There's no impact to Mail Send functionality. <br /><br />We are actively working to resolve the issue. We expect to provide another update in 30 minutes or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 20:55:24 -0800</pubDate>
 <pubDate>Thu, 18 Jan 2024 20:55:24 -0800</pubDate>
 </item>
 <item>
@@ -50,8 +53,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/7cwwh3cs73n5</link>
 <guid>https://status.sendgrid.com/incidents/7cwwh3cs73n5</guid>
 <content:encoded><![CDATA[
+
 <p><small>Jan <var>17</var>, <var>05:17</var> PST</small><br /><strong>Resolved</strong> - Starting around 11:20 PM PST on January 16th 2024 to 5.00 AM PST January 17th 2024 , our engineers began investigating an intermittent issue with the Account Sign Ups. <br />A small subset of requests from users would have experienced failures with account signups. <br />This issue has been mitigated and resolved. All services are now operating normally at this time.</p>
 ]]></content:encoded>
+<pubDate>Wed, 17 Jan 2024 05:17:42 -0800</pubDate>
 <pubDate>Wed, 17 Jan 2024 05:17:42 -0800</pubDate>
 </item>
 <item>
@@ -59,8 +64,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/x1jz8z3g7wrv</link>
 <guid>https://status.sendgrid.com/incidents/x1jz8z3g7wrv</guid>
 <content:encoded><![CDATA[
+
 <p><small>Jan <var>16</var>, <var>15:41</var> PST</small><br /><strong>Resolved</strong> - Starting around 10:00 AM PT on 01/15/2024 and lasting until 3:30 PM PT on 01/16/2024, our engineers began investigating an issue with an expired certificate for "mx.sendgrid.net". Users may experience issues with processing bounces, spam reports, list unsubscribes, and inbound parse messages. This did not impact mail send. The certificate has now been updated and no expired certificates remain.</p>
 ]]></content:encoded>
+<pubDate>Tue, 16 Jan 2024 15:41:52 -0800</pubDate>
 <pubDate>Tue, 16 Jan 2024 15:41:52 -0800</pubDate>
 </item>
 <item>
@@ -68,8 +75,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/3w9hy950cdks</link>
 <guid>https://status.sendgrid.com/incidents/3w9hy950cdks</guid>
 <content:encoded><![CDATA[
+
 <p><small>Jan <var>11</var>, <var>19:03</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with the Sign Up page not loading on Firefox browsers has been resolved. All services are now operating normally at this time.</p><p><small>Jan <var>11</var>, <var>18:27</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have implemented a fix and are monitoring system performance. We will provide another update as soon as more information becomes available.</p><p><small>Jan <var>11</var>, <var>16:19</var> PST</small><br /><strong>Identified</strong> - Our engineers have identified the issue and are working toward a fix. Users may still note issues loading the Sign Up page when using Firefox. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Jan <var>11</var>, <var>15:28</var> PST</small><br /><strong>Investigating</strong> - Starting around 3:15PM PST on January 11th 2024, our engineers began investigating an issue with the Sign Up page on the Firefox web browser. Users may experience issues loading the Sign Up page when on the Firefox web browser. Users may want to use an alternative browser in the meantime. This does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 19:03:26 -0800</pubDate>
 <pubDate>Thu, 11 Jan 2024 19:03:26 -0800</pubDate>
 </item>
 <item>
@@ -77,8 +86,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/smyg7vsq92ql</link>
 <guid>https://status.sendgrid.com/incidents/smyg7vsq92ql</guid>
 <content:encoded><![CDATA[
+
 <p><small>Dec <var>12</var>, <var>13:03</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed that the issue with the Billing Package Changes (upgrades/downgrades) is operating as expected at this time.</p><p><small>Dec <var>12</var>, <var>12:15</var> PST</small><br /><strong>Monitoring</strong> - Mitigation measures have been applied. Our engineering team has implemented a fix and the billing packages changes (upgrades/downgrades) is working as expected, without any delays. Our Engineering team is monitoring system performance now. Further update on this will be in the next 30 minutes.</p><p><small>Dec <var>12</var>, <var>11:32</var> PST</small><br /><strong>Identified</strong> - Our engineering team is working toward a fix. Users may continue to see issues with the ability to immediately see the package (upgrades/downgrades) changes when performed within the SendGrid application, the users may experience delays seeing the updated information. Our Engineering team is monitoring system performance and working towards the billing package services. Further updates will be added in the next 1 hour or as soon as we have more information.</p><p><small>Dec <var>12</var>, <var>11:08</var> PST</small><br /><strong>Investigating</strong> - Starting around 11:00AM PDT on December 12th, 2023, our engineers began investigating an issue with billing package changes being delayed. This issue is affecting the ability to immediately see the package (upgrades/downgrades) changes when performed within the Sendgrid application, the users may experience delays seeing the updated information. This does not impact mail send, neither credit card updates. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Tue, 12 Dec 2023 13:03:22 -0800</pubDate>
 <pubDate>Tue, 12 Dec 2023 13:03:22 -0800</pubDate>
 </item>
 <item>
@@ -86,8 +97,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/swxtzy0l9v3v</link>
 <guid>https://status.sendgrid.com/incidents/swxtzy0l9v3v</guid>
 <content:encoded><![CDATA[
+
 <p><small>Dec <var>12</var>, <var>00:05</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with Email Send request delays has been resolved. All services are now operating normally at this time.</p><p><small>Dec <var>11</var>, <var>23:51</var> PST</small><br /><strong>Investigating</strong> - Starting around 11:15 PM on 11 December 2023, our engineers have began investigating an issue with mail send requests delays for SMTP and API. Users may experience delay responses for mail send requests. This does impact mail send. We will provide another update in 30 minutes or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Tue, 12 Dec 2023 00:05:10 -0800</pubDate>
 <pubDate>Tue, 12 Dec 2023 00:05:10 -0800</pubDate>
 </item>
 <item>
@@ -95,8 +108,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/w64x1mtcyvnt</link>
 <guid>https://status.sendgrid.com/incidents/w64x1mtcyvnt</guid>
 <content:encoded><![CDATA[
+
 <p><small>Dec <var>11</var>, <var>09:27</var> PST</small><br /><strong>Resolved</strong> - Beginning at 6:20 AM PST on December 11th, 2023, several customer accounts were incorrectly suspended, impacting mail send. At 9:00 AM PST, these accounts were unsuspended, reactivating mail send. If your account was affected, the admin email address on file for your account will have been sent a notice of suspension and reactivation. Suspensions on these accounts did queue outbound email requests, but no mail was lost during the period. At this time, all systems are confirmed to be operational.</p>
 ]]></content:encoded>
+<pubDate>Mon, 11 Dec 2023 09:27:48 -0800</pubDate>
 <pubDate>Mon, 11 Dec 2023 09:27:48 -0800</pubDate>
 </item>
 <item>
@@ -104,8 +119,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/6l0h2hkx87yy</link>
 <guid>https://status.sendgrid.com/incidents/6l0h2hkx87yy</guid>
 <content:encoded><![CDATA[
+
 <p><small>Dec <var> 7</var>, <var>12:05</var> PST</small><br /><strong>Resolved</strong> - As of 12:03 PST Dec 7th the incident has been resolved and we are not seeing any new instances of this specific error. Changes made via API and UI should take effect immediately without any further delay or error. Performance has been restored.</p><p><small>Dec <var> 7</var>, <var>11:25</var> PST</small><br /><strong>Monitoring</strong> - SendGrid engineering has found the cause of the issue and deployed a fix. Users should not experience 500 errors or internal server errors in the UI. Please let us know if you continue to see any issues regarding updating subuser credits.</p><p><small>Dec <var> 7</var>, <var>11:12</var> PST</small><br /><strong>Identified</strong> - SendGrid engineers have identified the cause and are working restore complete functionality. We will update with more information, or again in one hour, whichever occurs first.</p><p><small>Dec <var> 7</var>, <var>10:40</var> PST</small><br /><strong>Update</strong> - SendGrid Engineers are continuing to investigate this issue, and will update when we have an update or in 1 hour, whichever occurs first.</p><p><small>Dec <var> 7</var>, <var>09:37</var> PST</small><br /><strong>Investigating</strong> - SendGrid support and engineering began to notice that subuser credit changes were not showing immediately in the UI, Despite these changes taking effect in the backend. Users may see internal service errors in the UI, or experience server 500 errors when posting via API, but the changes are being performed, and updates will show in the account after a delay. We will update with more information in roughly one hour.</p>
 ]]></content:encoded>
+<pubDate>Thu, 07 Dec 2023 12:05:05 -0800</pubDate>
 <pubDate>Thu, 07 Dec 2023 12:05:05 -0800</pubDate>
 </item>
 <item>
@@ -113,8 +130,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/sqb587mqgdpv</link>
 <guid>https://status.sendgrid.com/incidents/sqb587mqgdpv</guid>
 <content:encoded><![CDATA[
+
 <p><small>Dec <var> 5</var>, <var>11:00</var> PST</small><br /><strong>Resolved</strong> - Starting around 11:15 AM and until 1:23 PM PST, Azure customers may have experienced a delay in processing account changes (such as upgrades, downgrades, and unsubscribe (cancellation) requests) for their SendGrid accounts. Engineering has applied a fix for this and no delays should be expected from now on. This does not impact mail send</p>
 ]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 11:00:00 -0800</pubDate>
 <pubDate>Tue, 05 Dec 2023 11:00:00 -0800</pubDate>
 </item>
 <item>
@@ -122,8 +141,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/byd34cy1l02m</link>
 <guid>https://status.sendgrid.com/incidents/byd34cy1l02m</guid>
 <content:encoded><![CDATA[
+
 <p><small>Nov <var>20</var>, <var>06:31</var> PST</small><br /><strong>Resolved</strong> - Our Operations team was able to locate and resolve the issue. Users should now be able to login and access app.sendgrid.com without latency or errors. We apologize for any inconvenience this may have caused, and thank you for your patience. If you have questions, please contact our Support team at https://support.sendgrid.com/.</p><p><small>Nov <var>20</var>, <var>04:52</var> PST</small><br /><strong>Update</strong> - Our Engineering team is currently monitoring the system performance and trying to resolve the issue. We will provide another update in one hour or as soon as more information becomes available.</p><p><small>Nov <var>20</var>, <var>02:13</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have identified the issue and implemented a fix with SMS Two Factor Authentication codes being delivered to phone numbers. We will provide another update in one hour or as soon as more information becomes available.</p><p><small>Nov <var>20</var>, <var>01:46</var> PST</small><br /><strong>Investigating</strong> - Starting around 10PM PT on 11/19/2023, our engineers began investigating an issue with logging into the SendGrid interface. Users may experience an issue after logging in with the username and password, and receive an error that states “Sorry, we were unable to send SMS at this time”. Furthermore the user is not able to login to the SendGrid Interface. This does not impact mail send. We will provide another update in 1 hour, or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 06:31:13 -0800</pubDate>
 <pubDate>Mon, 20 Nov 2023 06:31:13 -0800</pubDate>
 </item>
 <item>
@@ -131,8 +152,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/34vv1v5bdhtn</link>
 <guid>https://status.sendgrid.com/incidents/34vv1v5bdhtn</guid>
 <content:encoded><![CDATA[
+
 <p><small>Nov <var>17</var>, <var>13:14</var> PST</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with 2FA has been resolved. All services are now operating normally at this time.</p><p><small>Nov <var>17</var>, <var>11:09</var> PST</small><br /><strong>Monitoring</strong> - Our engineers have identified the issue and implemented a fix with SMS Two Factor Authentication codes being delivered to phone numbers in Brazil. We will provide another update in 2 hours or as soon as more information becomes available.</p><p><small>Nov <var>17</var>, <var>10:23</var> PST</small><br /><strong>Investigating</strong> - Starting around 8:30 am PT on 11/17/2023, our engineers began investigating an issue with logging into the SendGrid interface. Users may experience an issue after logging in with the Username and receive an error that states "Sorry, we were unable to send SMS at this time. Furthermore the user is not able to login to the SendGrid Interface. This does/does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Fri, 17 Nov 2023 13:14:16 -0800</pubDate>
 <pubDate>Fri, 17 Nov 2023 13:14:16 -0800</pubDate>
 </item>
 <item>
@@ -140,8 +163,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/n7p3mgdkj61s</link>
 <guid>https://status.sendgrid.com/incidents/n7p3mgdkj61s</guid>
 <content:encoded><![CDATA[
+
 <p><small>Nov <var> 4</var>, <var>20:48</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed that the issue with the ability to verify new instances of Sender Authentication is operating as expected at this time.</p><p><small>Nov <var> 4</var>, <var>19:47</var> PDT</small><br /><strong>Monitoring</strong> - Mitigation measures have been applied. Our third party vendor has implemented a fix and Sender Authentication Verification is working as expected. Our Engineering team is monitoring system performance now. Further update on this will be in the next 30 minutes.</p><p><small>Nov <var> 4</var>, <var>08:25</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is still working on a solution for this. Twilio-SendGrid users may still continue to experience difficulties verifying recent instances of Sender Authentication. Our Engineering team is currently monitoring the system performance and working on the domain authentication creation backlog. We will provide an update within the next 12 hours, or as soon as we have any development on this.</p><p><small>Nov <var> 4</var>, <var>00:58</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is still working on a solution on this. Twilio-SendGrid users may still continue to experience difficulties verifying recent instances of Sender Authentication. Our Engineering team is currently monitoring the system performance and working on the domain authentication creation backlog. We will provide an update within the next 12 hours, or as soon as we have any development on this.</p><p><small>Nov <var> 3</var>, <var>10:41</var> PDT</small><br /><strong>Identified</strong> - The third-party service provider is continuing to work toward a fix. Users may continue to see issues with the ability to verify new instances of Sender Authentication. Our Engineering team is monitoring system performance and working towards the queue of domain creation. Further updates will be in the next 12 hours or as soon as we have more information.</p><p><small>Nov <var> 3</var>, <var>08:24</var> PDT</small><br /><strong>Update</strong> - Our engineering team is still monitoring system performance for all pending queues of domain creation. Furthermore, the fix applied by our third party vendor for Sender Authentication Verification is working as expected. Further updates will be in the next 12 hours or as soon as we have more information.</p><p><small>Nov <var> 2</var>, <var>19:44</var> PDT</small><br /><strong>Update</strong> - Mitigation measures have been applied. Our third party vendor has implemented a fix and Sender Authentication Verification is working as expected. Our Engineering team is monitoring system performance and working towards the queue of domain creation. Further updates will be in the next 12 hours.</p><p><small>Nov <var> 2</var>, <var>18:26</var> PDT</small><br /><strong>Monitoring</strong> - Our third party vendor has implemented a fix and Sender Authentication Verification is working as expected. Our Engineering team is monitoring system performance and working towards the queue of domain creation. We will provide another update as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>14:59</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is continuing to work toward a fix. We will provide another update in 4 hours or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>12:59</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is continuing to work toward a fix. We will provide another update in 2 hours or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>11:59</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is continuing to work toward a fix. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>10:59</var> PDT</small><br /><strong>Update</strong> - The third-party service provider is continuing to work toward a fix. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>09:59</var> PDT</small><br /><strong>Update</strong> - The third-party service is continuing to work toward a fix. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>08:59</var> PDT</small><br /><strong>Identified</strong> - Our engineers have identified the issue and the third-party service is working toward a fix. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Nov <var> 2</var>, <var>08:19</var> PDT</small><br /><strong>Investigating</strong> - Starting around 8:06 AM PT, our engineers began investigating an issue with the ability to verify new instances of Sender Authentication. This is due to an issue with a third-party service and we are in contact with them to resolve the issue. This does not impact mail send or the ability to create Sender Authentication records. We will provide another update within 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Sat, 04 Nov 2023 20:48:59 -0700</pubDate>
 <pubDate>Sat, 04 Nov 2023 20:48:59 -0700</pubDate>
 </item>
 <item>
@@ -149,8 +174,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/lgt1zsfk1qkt</link>
 <guid>https://status.sendgrid.com/incidents/lgt1zsfk1qkt</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>27</var>, <var>16:21</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have investigated and resolved the issues with Stats delays for Click, Open, and Unsubscribe Events. From 2:43 PM PST to 4:00 PM PST on Friday, 10/27/2023 customers may have experienced delays in reporting of Click, Open, and Unsubscribe events to the Activity Feed or to Event Webhooks. This did not impact mail send. The issue has been resolved and all impacted services are operating normally.</p>
 ]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 16:21:21 -0700</pubDate>
 <pubDate>Fri, 27 Oct 2023 16:21:21 -0700</pubDate>
 </item>
 <item>
@@ -158,8 +185,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/6dwrhtz6bz3j</link>
 <guid>https://status.sendgrid.com/incidents/6dwrhtz6bz3j</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>27</var>, <var>14:08</var> PDT</small><br /><strong>Resolved</strong> - Our engineering team determined that unsubscribes began to intermittently fail when clicking on unsubscribe links beginning at approximately 5:10 AM PDT on October 24th, 2023. After investigating this issue further, the resulting error when links failed would include "invalid unsubscribe request" on an otherwise properly formatted unsubscribe link. Due to the nature of the issue, not all unsubscribe links during the affected period failed but instead the occurring issue intermittently affected links. On October 26th at approximately 9:30 AM PDT, the engineering team deployed code to resolve the intermittently failing unsubscribe links. Valid unsubscribe links previously failing have since been reported as resolving properly. This issue did not affect mail send. Systems are now operating normally at this time. Thank you for your patience while this issue was being resolved.</p><p><small>Oct <var>27</var>, <var>03:48</var> PDT</small><br /><strong>Update</strong> - Engineers are still monitoring the issue with the Unsubscribe Links, no new reports have been received and some of these have been reported as fixed. Our team will continue to monitor this issue. We will follow up within 12 hours, or as more information is available.</p><p><small>Oct <var>26</var>, <var>12:34</var> PDT</small><br /><strong>Update</strong> - Engineers are still monitoring the issue with the Unsubscribe Links, no new reports have been received and some of these have been reported as fixed. Our team will continue to monitor this issue. We will follow up within 24 hours, or as more information is available.</p><p><small>Oct <var>26</var>, <var>11:32</var> PDT</small><br /><strong>Monitoring</strong> - Engineers are still investigating the issue with the Unsubscribe Links, no new reports have been received and some of these have been reported as fixed. Our team will continue to monitor this issue. We will follow up in 1 more hour, or as more information is available.</p><p><small>Oct <var>26</var>, <var>11:14</var> PDT</small><br /><strong>Update</strong> - Our engineers are continuing to investigate this issue. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Oct <var>26</var>, <var>10:12</var> PDT</small><br /><strong>Investigating</strong> - Starting around 9:36AM PDT on October 26th, 2023, our engineers began investigating an issue with intermittent errors returned when clicking unsubscribe links in emails. This issue is affecting unsubscribe links in emails. This does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 14:08:23 -0700</pubDate>
 <pubDate>Fri, 27 Oct 2023 14:08:23 -0700</pubDate>
 </item>
 <item>
@@ -167,8 +196,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/q8s69gxym3tl</link>
 <guid>https://status.sendgrid.com/incidents/q8s69gxym3tl</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>24</var>, <var>15:20</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have finsihed monitoring the deployed fix and confirmed the provisioning problem with the v2 sub user API has been resolved. All services are now operating normally at this time.</p><p><small>Oct <var>24</var>, <var>13:26</var> PDT</small><br /><strong>Monitoring</strong> - A fix to the v2 API sub user creation and provisioning problem has been deployed at 1:18 PM PT. At this time, new sub user accounts created specifically with the v2 API are showing to be properly provisioned after creation. As a reminder, this issue did not affect v3 sub user creation and provisioning nor did it affect mail send in any way. We will monitor the deployed fix and provide another update shortly to confirm resolution of this issue.</p><p><small>Oct <var>24</var>, <var>12:23</var> PDT</small><br /><strong>Identified</strong> - Our engineers have identified the issue and are working toward a fix. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Oct <var>24</var>, <var>11:57</var> PDT</small><br /><strong>Update</strong> - Our engineers are continuing to investigate this issue. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Oct <var>24</var>, <var>10:58</var> PDT</small><br /><strong>Investigating</strong> - Starting around 10:36AM PT on October 24th, our engineers began investigating an issue where subusers are unable to complete provisioning when created with V2 API  Subuser Management Endpoint. This does not impact the v3 endpoint. This does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 15:20:50 -0700</pubDate>
 <pubDate>Tue, 24 Oct 2023 15:20:50 -0700</pubDate>
 </item>
 <item>
@@ -176,8 +207,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/7z8bml7cr1ny</link>
 <guid>https://status.sendgrid.com/incidents/7z8bml7cr1ny</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>23</var>, <var>08:45</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with Billing functionality has been resolved. All services are now operating normally at this time.</p><p><small>Oct <var>23</var>, <var>07:49</var> PDT</small><br /><strong>Monitoring</strong> - Mitigation measures have been applied. Performance functionality is back to normal at this time</p><p><small>Oct <var>23</var>, <var>07:36</var> PDT</small><br /><strong>Investigating</strong> - Starting at 06:01 PDT on October 23, 2023, our engineers were alerted about an issue with SendGrid Billing updates, This issue is affecting account upgrades, request of invoices and payment functionality. This incident does not impact mail send. We will provide another update in an hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Mon, 23 Oct 2023 08:45:47 -0700</pubDate>
 <pubDate>Mon, 23 Oct 2023 08:45:47 -0700</pubDate>
 </item>
 <item>
@@ -185,8 +218,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/tnzw6y1dsv5f</link>
 <guid>https://status.sendgrid.com/incidents/tnzw6y1dsv5f</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>21</var>, <var>12:51</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed. Thank you for your patience.</p><p><small>Oct <var>21</var>, <var>12:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>13</var>, <var>10:37</var> PDT</small><br /><strong>Scheduled</strong> - As part of our preparation for the upcoming Black Friday and Cyber Monday, our team is looking to expand the storage of our database and we will be performing a database maintenance on October 21st, from 12-2pm PT.  During this time, customers will be unable to access the public DELETE /v3/suppression/blocks API and v2 equivalent APIs and all Suppression write operations to the database will be delayed. This maintenance does not impact mail send.  Thank you for your patience through this maintenance.</p>
 ]]></content:encoded>
+<pubDate>Sat, 21 Oct 2023 12:51:00 -0700</pubDate>
 <pubDate>Sat, 21 Oct 2023 12:51:00 -0700</pubDate>
 </item>
 <item>
@@ -194,8 +229,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/2t2305gst4lm</link>
 <guid>https://status.sendgrid.com/incidents/2t2305gst4lm</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>17</var>, <var>11:55</var> PDT</small><br /><strong>Resolved</strong> - Starting at 9:55 AM PT on October 17, 2023, our engineers confirmed that API calls made to the Email Validations API endpoint began to fail with unauthorized errors. However, at 11:19 AM PT, functionality was restored to the API and services began to operate normally again. Any SendGrid users attempting to access the Email Validations API during the affected period will have experienced "403" error code responses or failure messages relating to an invalid security token. This incident did not affect mail send directly. The issue has been resolved and all impacted services are now operating normally.</p>
 ]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 11:55:56 -0700</pubDate>
 <pubDate>Tue, 17 Oct 2023 11:55:56 -0700</pubDate>
 </item>
 <item>
@@ -203,8 +240,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/wpm5jsqj24px</link>
 <guid>https://status.sendgrid.com/incidents/wpm5jsqj24px</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>11</var>, <var>14:21</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have monitored the fix and confirmed the issue with Azure customers unable to access their Twilio SendGrid accounts has been resolved. All services are now operating normally at this time.</p><p><small>Oct <var>11</var>, <var>12:56</var> PDT</small><br /><strong>Monitoring</strong> - Engineers are still investigating the issue with our partners. However we are not seeing any new reports of issues for Azure customers with accessing their Twilio SendGrid account. Our team will continue to monitor this issue. We will follow up in 2 more hours, or as more information is available.</p><p><small>Oct <var>11</var>, <var>11:51</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate reports of login issues starting yesterday evening. Some impacted accounts are showing the issue as resolved, please try logging in again if you were experiencing problems earlier.<br /><br />Our engineering team is continuing to work with our partners to resolve this. We will provide another update in 1 hour, or as more information becomes available.</p><p><small>Oct <var>11</var>, <var>09:54</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate reports of login issues starting yesterday evening, however we are seeing reduced numbers of new reports today. Our engineering team is continuing to work with our partners to resolve this. We will provide another update in 1 hour or as more information becomes available.</p><p><small>Oct <var>11</var>, <var>08:30</var> PDT</small><br /><strong>Investigating</strong> - From around 9:47pm PST 10/10/2023, we started receiving reports about issues when users try to log into Twilio SendGrid accounts from the Azure Portal.<br />Affected customers when they try to click on "Open SaaS Account on publisher's site", they may see the link gray out. This is only affecting access when using SSO from Azure. Our engineering team is working with our partner to resolve this at this moment. This incident does not impact mail send. We will provide another update in an hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
+<pubDate>Wed, 11 Oct 2023 14:21:28 -0700</pubDate>
 <pubDate>Wed, 11 Oct 2023 14:21:28 -0700</pubDate>
 </item>
 <item>
@@ -212,8 +251,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/x3v3xp2qfvx8</link>
 <guid>https://status.sendgrid.com/incidents/x3v3xp2qfvx8</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var>10</var>, <var>05:00</var> PDT</small><br /><strong>Resolved</strong> - From around 6:52am PT 10/10/2023 to about 9:56am PT 10/10/2023, we experienced an isolated issue with the creation of subusers for a certain subset of customers. <br /><br />Affected customers who tried to create a subuser account during the affected period would have seen those new accounts created in a "provision needed" status and those subuser accounts would not be functional upon creation. Affected new subusers that need provisioning will be fixed by our engineers, and should be functional shortly. <br /><br />The issue has been mitigated and resolved, and all services are now operating normally.</p>
 ]]></content:encoded>
+<pubDate>Tue, 10 Oct 2023 05:00:00 -0700</pubDate>
 <pubDate>Tue, 10 Oct 2023 05:00:00 -0700</pubDate>
 </item>
 <item>
@@ -221,8 +262,10 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/mc31zygcjcrz</link>
 <guid>https://status.sendgrid.com/incidents/mc31zygcjcrz</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var> 5</var>, <var>09:03</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 4</var>, <var>10:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>27</var>, <var>11:29</var> PDT</small><br /><strong>Scheduled</strong> - In order to address an observed latency issue with Email Click Redirects, we will perform a load test against the SendGrid Click Redirects on Wednesday, October 4th from 10AM-4PM PT.  Although our engineering team has observability and test procedures in place to avoid a customer impact, customers may experience increased latency in email click redirects.  Thank you for your patience through this maintenance.<br /><br />If you notice an issue that requires the attention of SendGrid engineering, please reach out to SendGrid Support.</p>
 ]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 09:03:09 -0700</pubDate>
 <pubDate>Thu, 05 Oct 2023 09:03:09 -0700</pubDate>
 </item>
 <item>
@@ -230,233 +273,12 @@ The Two-Factor Authentication (2FA) system was experiencing issues affecting the
 <link>https://status.sendgrid.com/incidents/p35cnw0c5j4y</link>
 <guid>https://status.sendgrid.com/incidents/p35cnw0c5j4y</guid>
 <content:encoded><![CDATA[
+
 <p><small>Oct <var> 3</var>, <var>16:31</var> PDT</small><br /><strong>Resolved</strong> - Our engineers have investigated and resolved the issues with managing payment methods in the SendGrid interface. From 1:00 PM PST Oct 2nd to 1:00PM PST Oct 3rd, a very small portion of customers may have experienced errors when attempting to add or update their payment method. The issue has been resolved, and all impacted services are operating normally.</p>
 ]]></content:encoded>
 <pubDate>Tue, 03 Oct 2023 16:31:42 -0700</pubDate>
+<pubDate>Tue, 03 Oct 2023 16:31:42 -0700</pubDate>
 </item>
-<item>
-<title>Temporary proxy coordinator outage on GCP europe-west4</title>
-<link>https://status.clickhouse.com/incidents/pvr6mnzqbrhd</link>
-<guid>https://status.clickhouse.com/incidents/pvr6mnzqbrhd</guid>
-<content:encoded><![CDATA[
-<div> Keywords: proxy coordinator, local outage, ClickHouse Cloud, GCP europe-west4, failed connections.
 
-Summary:
-The status report indicates that a proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4. This resulted in failed new connections between a specific time frame. The outage affected the company's services and impacted the ability to establish new connections during the outage period. The incident was resolved, and normal operations were restored after the issue was addressed. The outage highlights the importance of monitoring and addressing local outages promptly to minimize the impact on users and business operations. The company will likely review its processes to prevent similar outages in the future. The incident serves as a reminder of the significance of maintaining reliable and stable platforms for uninterrupted service delivery.
-Summary:<br /><br />The status report indicates that a proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4. This resulted in failed new connections between a specific time frame. The outage affected the company's services and impacted the ability to establish new connections during the outage period. The incident was resolved, and normal operations were restored after the issue was addressed. The outage highlights the importance of monitoring and addressing local outages promptly to minimize the impact on users and business operations. The company will likely review its processes to prevent similar outages in the future. The incident serves as a reminder of the significance of maintaining reliable and stable platforms for uninterrupted service delivery. <div>
-<p><small>Jan <var>29</var>, <var>14:52</var> UTC</small><br /><strong>Resolved</strong> - A proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4 resulting in failed new connections between 2024-01-29T14:15 and 2024-01-29T14:25</p>
-]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 14:52:16 +0000</pubDate>
-</item>
-<item>
-<title>Dev instances incorrectly resized</title>
-<link>https://status.clickhouse.com/incidents/0vlbl3267zg5</link>
-<guid>https://status.clickhouse.com/incidents/0vlbl3267zg5</guid>
-<content:encoded><![CDATA[
-<div> Identified, Resolved, Update, GCP, dev services<br />
-Summary:<br />
-The company has identified an issue with a subset of their development services being resized and plans to resolve it by 12p PST. They have also updated that GCP was impacted and have applied a patch to most regions. The patch has been verified and they are considering this issue resolved. <div>
-<p><small>Jan <var>18</var>, <var>20:07</var> UTC</small><br /><strong>Resolved</strong> - The patch has been applied to all regions and verified. We are considering this resolved.</p><p><small>Jan <var>18</var>, <var>20:04</var> UTC</small><br /><strong>Update</strong> - The patch has been applied to most regions which are marked as operational below.</p><p><small>Jan <var>18</var>, <var>17:50</var> UTC</small><br /><strong>Update</strong> - We've identified that GCP was also impacted.</p><p><small>Jan <var>18</var>, <var>17:48</var> UTC</small><br /><strong>Identified</strong> - A subset of dev services were resized from 8GB to 6GB. The fix has been identified and is expected to be resolved by 12p PST.</p>
-]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 20:07:24 +0000</pubDate>
-</item>
-<item>
-<title>Delay in metering metrics for services on AWS</title>
-<link>https://status.clickhouse.com/incidents/57h25l3nr54b</link>
-<guid>https://status.clickhouse.com/incidents/57h25l3nr54b</guid>
-<content:encoded><![CDATA[
-<p><small>Dec <var>23</var>, <var>22:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Usage and billing data from the outage period have been backfilled and are current. Some monitoring metrics from during the outage period may show as reduced or incomplete unfortunately, although these do not impact the usage and billing data. Thanks for your patience during this work, and happy holidays and new years.</p><p><small>Dec <var>22</var>, <var>01:33</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results. Metrics are flowing in properly now, although ClickHouse will still need to backfill some gaps in the usage and billing data.</p><p><small>Dec <var>21</var>, <var>22:49</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified, and a fix is being implemented. The delayed data is in the process of being backfilled.</p><p><small>Dec <var>21</var>, <var>22:35</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse Cloud is experiencing delays in the metering data on our metrics cluster for services on AWS. The metering data for today's (Dec 21 2023) compute usage is delayed and not current in the ClickHouse Cloud Console usage and data. ClickHouse is aware of the issue and investigating.</p>
-]]></content:encoded>
-<pubDate>Sat, 23 Dec 2023 22:49:37 +0000</pubDate>
-</item>
-<item>
-<title>Instances may stay in provisioning state longer than expected</title>
-<link>https://status.clickhouse.com/incidents/35265b79d727</link>
-<guid>https://status.clickhouse.com/incidents/35265b79d727</guid>
-<content:encoded><![CDATA[
-<p><small>Dec <var>18</var>, <var>10:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>09:36</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>18</var>, <var>09:35</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>09:34</var> UTC</small><br /><strong>Update</strong> - The issue has been resolved. New instances in the AWS AP-SOUTH-1 region are provisioned as usual without delays. Services which were provisioned within two past hours will be provisioned soon.</p><p><small>Dec <var>18</var>, <var>09:09</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the reason of the issue.</p>
-]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 10:39:55 +0000</pubDate>
-</item>
-<item>
-<title>STS token failure in AWS leads to ClickHouse Cloud Outage</title>
-<link>https://status.clickhouse.com/incidents/ss87587lwf15</link>
-<guid>https://status.clickhouse.com/incidents/ss87587lwf15</guid>
-<content:encoded><![CDATA[
-<p><small>Dec <var>18</var>, <var>04:02</var> UTC</small><br /><strong>Resolved</strong> - We received confirmation from AWS support that the issue has been resolved, and our monitoring no longer detects any errors. This incident is now considered resolved. For additional details regarding the AWS IAM issue, you can refer to https://health.aws.amazon.com/health/status?eventID=arn:aws:health:global::event/IAM/AWS_IAM_OPERATIONAL_ISSUE/AWS_IAM_OPERATIONAL_ISSUE_62881_637B393821C</p><p><small>Dec <var>18</var>, <var>03:50</var> UTC</small><br /><strong>Monitoring</strong> - Our team has validated that the creation of new ClickHouse services is operational across all AWS regions. While awaiting the definitive confirmation from the AWS support team, we will continue to monitor all regions for any potential issues.</p><p><small>Dec <var>18</var>, <var>03:36</var> UTC</small><br /><strong>Identified</strong> - Update: The AWS support team has verified that this issue specifically impacts the creation and modification of IAM roles, users, and policies, with no impact on existing IAM configurations. Our team conducted a thorough check with our internal services, existing customer instances, and observed no disruptions. Consequently, we can deduce that this incident solely affects newly created ClickHouse instances.</p><p><small>Dec <var>18</var>, <var>03:19</var> UTC</small><br /><strong>Investigating</strong> - We have just been informed about a persistent problem affecting the AWS IAM STS token endpoint. This issue has led to disruptions in ClickHouse services for all customers in all AWS regions. Currently, it is not possible to provision new services, and a small number of existing services may experience some disruption. Our team is collaborating with AWS to resolve this issue at the earliest opportunity.</p>
-]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 04:02:15 +0000</pubDate>
-</item>
-<item>
-<title>A subset of keepers nodes hosted on GCP US-east1 has lost connectivity.</title>
-<link>https://status.clickhouse.com/incidents/z4rzs2z18d92</link>
-<guid>https://status.clickhouse.com/incidents/z4rzs2z18d92</guid>
-<content:encoded><![CDATA[
-<p><small>Dec <var>13</var>, <var>20:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>17:27</var> UTC</small><br /><strong>Update</strong> - All the keepers affected have been recovered. We are continuing to identify the root cause of the issue.</p><p><small>Dec <var>13</var>, <var>15:58</var> UTC</small><br /><strong>Monitoring</strong> - We replaced the nodes and are monitoring the situation. We are still working on identifying the root cause.</p><p><small>Dec <var>13</var>, <var>15:57</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>13</var>, <var>15:54</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue happening in US-east1 in GCP. It appears that a subset of the nodes hosting keepers has temporarily lost connectivity, and we are investigating the root cause.</p>
-]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 20:03:12 +0000</pubDate>
-</item>
-<item>
-<title>Metrics charts may be unavailable in Control Plane</title>
-<link>https://status.clickhouse.com/incidents/zvj46ngjydq9</link>
-<guid>https://status.clickhouse.com/incidents/zvj46ngjydq9</guid>
-<content:encoded><![CDATA[
-<p><small>Dec <var> 8</var>, <var>08:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>18:10</var> UTC</small><br /><strong>Monitoring</strong> - Issues resolved. Metrics should be available for all services in all regions.</p><p><small>Dec <var> 7</var>, <var>12:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 7</var>, <var>11:47</var> UTC</small><br /><strong>Investigating</strong> - Metrics charts in UI may be unavailable.<br />ClickHouse services are completely operational in all affected regions.</p>
-]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 08:29:36 +0000</pubDate>
-</item>
-<item>
-<title>ClickHouse Cloud permissions errors</title>
-<link>https://status.clickhouse.com/incidents/mmxx3sxj9rd1</link>
-<guid>https://status.clickhouse.com/incidents/mmxx3sxj9rd1</guid>
-<content:encoded><![CDATA[
-<p><small>Nov <var>17</var>, <var>20:06</var> UTC</small><br /><strong>Resolved</strong> - After investigation and identification, this incident has been resolved. As noted previously, this new permissions checking in ClickHouse 23.9 is a better and more proper method of ensuring grants on these uses of asynchronous inserts and dictionaries. In order to properly apply these grants, please refer to the following ClickHouse Knowledge Base (KB) article:<br />https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release<br /><br />We apologize for any interruption from this change in behavior, as it should have been better communicated prior to the release. If you require any additional assistance with updating your user grants in ClickHouse Cloud, please reach out to ClickHouse Support via a new case or chat:<br />https://clickhouse.cloud/support</p><p><small>Nov <var>17</var>, <var>19:57</var> UTC</small><br /><strong>Monitoring</strong> - As noted, the workaround for this new behavior in ClickHouse 23.9 is described in more detail in the following KB article:<br />https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release<br /><br />If you require any additional assistance in updating your user grants in ClickHouse Cloud, please reach out to ClickHouse Support via a new case or chat:<br />https://clickhouse.cloud/support</p><p><small>Nov <var>17</var>, <var>19:53</var> UTC</small><br /><strong>Identified</strong> - The root cause of these permissions errors has been identified and is due to more strict checking of grants for asynchronous inserts and dictionaries in the 23.9 release. If you are using a non-default user with limited permissions to perform asynchronous inserts or dictionary creation, you must apply additional grants to this user.<br /><br />The workaround for this issue is described in more detail in the following KB article: https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release</p><p><small>Nov <var>17</var>, <var>18:18</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse has been alerted to user-level database 4xx permissions errors in ClickHouse Cloud and is actively investigating the issue</p>
-]]></content:encoded>
-<pubDate>Fri, 17 Nov 2023 20:06:19 +0000</pubDate>
-</item>
-<item>
-<title>ClickHouse Cloud SQL Console is not loading</title>
-<link>https://status.clickhouse.com/incidents/dfz9rmd7crgd</link>
-<guid>https://status.clickhouse.com/incidents/dfz9rmd7crgd</guid>
-<content:encoded><![CDATA[
-<p><small>Nov <var> 8</var>, <var>22:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. There was a problem with a load balancer service - this is now fixed, and the Cloud team is investigating how to prevent such incidents in the future. This incident affected only the SQL Console, and other methods of connecting to ClickHouse Cloud services via the ClickHouse Native SSL/TLS protocol (port 9440) or HTTPS protocol (8443) were unaffected. We apologize for any disruption.</p><p><small>Nov <var> 8</var>, <var>21:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 8</var>, <var>21:14</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 8</var>, <var>21:07</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse has been alerted to an issue with the SQL Console. Cloud users receive an error of "503 Service Temporarily Unavailable" when attempting to access or use the SQL Console. We are actively investigating the scope and cause of this issue, and we will update here once we have more information.</p>
-]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 22:42:07 +0000</pubDate>
-</item>
-<item>
-<title>SQLConsole is not opening</title>
-<link>https://status.clickhouse.com/incidents/m11sy5b0q4jn</link>
-<guid>https://status.clickhouse.com/incidents/m11sy5b0q4jn</guid>
-<content:encoded><![CDATA[
-<p><small>Nov <var> 6</var>, <var>15:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 6</var>, <var>15:07</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 6</var>, <var>14:24</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
-]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 15:29:53 +0000</pubDate>
-</item>
-<item>
-<title>ClickHouse SQL Console not Loading</title>
-<link>https://status.clickhouse.com/incidents/08fyvzm69pvw</link>
-<guid>https://status.clickhouse.com/incidents/08fyvzm69pvw</guid>
-<content:encoded><![CDATA[
-<p><small>Oct <var>19</var>, <var>10:41</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>19</var>, <var>10:30</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with the ClickHouse SQL console not loading. All other clients should be able to connect to your Clickhouse cloud service.</p>
-]]></content:encoded>
-<pubDate>Thu, 19 Oct 2023 10:41:14 +0000</pubDate>
-</item>
-<item>
-<title>GCP regions offline</title>
-<link>https://status.clickhouse.com/incidents/68vzrzts31b5</link>
-<guid>https://status.clickhouse.com/incidents/68vzrzts31b5</guid>
-<content:encoded><![CDATA[
-<p><small>Sep <var>22</var>, <var>23:00</var> UTC</small><br /><strong>Resolved</strong> - Our alert system detected a disruption in GCP hosted instances at 10:45 pm UTC. Our engineering team promptly initiated an investigation and identified that the problem stemmed from the ongoing incident on the GCP platform. Subsequently, we escalated the matter to GCP support by opening a Priority 1 support case. This issue is now resolved and all systems are operational</p>
-]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Authentification Issue When Using the Developer Role</title>
-<link>https://status.clickhouse.com/incidents/72rlnjmcgvhv</link>
-<guid>https://status.clickhouse.com/incidents/72rlnjmcgvhv</guid>
-<content:encoded><![CDATA[
-<p><small>Sep <var>11</var>, <var>13:47</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>11</var>, <var>11:29</var> UTC</small><br /><strong>Identified</strong> - SQL Cloud Console is currently affected by an authentication issue preventing access to databases when using a developer role. The root cause has been identified, and a fix is being worked on and released as soon as possible.</p>
-]]></content:encoded>
-<pubDate>Mon, 11 Sep 2023 13:47:58 +0000</pubDate>
-</item>
-<item>
-<title>ClickHouse Cloud Usage Summary Page is inaccessible</title>
-<link>https://status.clickhouse.com/incidents/2fps50h2q73p</link>
-<guid>https://status.clickhouse.com/incidents/2fps50h2q73p</guid>
-<content:encoded><![CDATA[
-<p><small>Aug <var>25</var>, <var>10:21</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>25</var>, <var>03:35</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue where customers cannot access ClickHouse Cloud Usage Summary Page.</p>
-]]></content:encoded>
-<pubDate>Fri, 25 Aug 2023 10:21:32 +0000</pubDate>
-</item>
-<item>
-<title>ClickHouse Cloud UI is not accessible</title>
-<link>https://status.clickhouse.com/incidents/2vt44trgqgym</link>
-<guid>https://status.clickhouse.com/incidents/2vt44trgqgym</guid>
-<content:encoded><![CDATA[
-<p><small>Jun <var>18</var>, <var>06:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>18</var>, <var>06:27</var> UTC</small><br /><strong>Monitoring</strong> - We have rectified the issue and seeing our ControlPlane recovering.</p><p><small>Jun <var>18</var>, <var>06:00</var> UTC</small><br /><strong>Identified</strong> - Please note that all customers ClickHouse instances are operational - Only the ClickHouse Cloud UI is suffering a temporary outage. We have identified the issue and escalating to the relevant team.</p><p><small>Jun <var>18</var>, <var>05:59</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue where customers cannot access ClickHouse Cloud UI</p>
-]]></content:encoded>
-<pubDate>Sun, 18 Jun 2023 06:35:42 +0000</pubDate>
-</item>
-<item>
-<title>Upstream AWS incident in US-East-1 in impacting ClickHouse Cloud services</title>
-<link>https://status.clickhouse.com/incidents/b4b0x08gt608</link>
-<guid>https://status.clickhouse.com/incidents/b4b0x08gt608</guid>
-<content:encoded><![CDATA[
-<p><small>Jun <var>13</var>, <var>21:36</var> UTC</small><br /><strong>Resolved</strong> - ClickHouse has completed its testing and the issue looks resolved - no further issues or errors are observed for the US-East-1 region</p><p><small>Jun <var>13</var>, <var>20:53</var> UTC</small><br /><strong>Monitoring</strong> - AWS is reporting the fix has been implemented and they are seeing reduced errors. AWS is monitoring recovery. ClickHouse is testing and monitoring recovery.</p><p><small>Jun <var>13</var>, <var>20:10</var> UTC</small><br /><strong>Identified</strong> - The issues in US-East-1 have been identified as related to the AWS upstream degradation at AWS. AWS is reporting that they have identified the root cause as an issue with AWS Lambda and are working on resolution https://health.aws.amazon.com/health/status</p><p><small>Jun <var>13</var>, <var>19:42</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse is currently investigating an issue with service management in AWS region US-East-1. We believe this is due to an issue with upstream provider AWS as reported here:<br />https://health.aws.amazon.com/health/status<br />https://status.aws.amazon.com/rss/multipleservices-us-east-1.rss<br /><br />Operational issue - Multiple services (N. Virginia)<br />Affected AWS services<br />The following AWS services have been affected by this issue. Degradation (3 services)<br />* AWS CloudFormation<br />* AWS Lambda<br />* Amazon Connect<br /><br />ClickHouse Services impacted in US-East-1 include Control Plane functions such as the Cloud console, service creation or deletion, user management, API, usage metrics and billing.</p>
-]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 21:36:18 +0000</pubDate>
-</item>
-<item>
-<title>SQL console unavailable</title>
-<link>https://status.clickhouse.com/incidents/x0ds5mv6v036</link>
-<guid>https://status.clickhouse.com/incidents/x0ds5mv6v036</guid>
-<content:encoded><![CDATA[
-<p><small>May <var>13</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p>
-]]></content:encoded>
-<pubDate>Sat, 13 May 2023 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Authentication issue with the SQL Console</title>
-<link>https://status.clickhouse.com/incidents/tl5zdz5mwb92</link>
-<guid>https://status.clickhouse.com/incidents/tl5zdz5mwb92</guid>
-<content:encoded><![CDATA[
-<p><small>Apr <var>21</var>, <var>02:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>21</var>, <var>01:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and deployed and we are monitoring the results.</p><p><small>Apr <var>21</var>, <var>01:31</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being rolled out. It is estimated that it will take about 30 minutes for all errors to be cleared.</p><p><small>Apr <var>21</var>, <var>01:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>21</var>, <var>01:13</var> UTC</small><br /><strong>Investigating</strong> - We have identified a problem with the SQL Console in ClickHouse Cloud. The SQL Console is requiring a user to enter their user credentials (username + password), when normally the SQL Console is automatically authenticated to a user's database. The workaround is to manually enter your credentials. We are investigating the problem and will roll out a fix as soon as possible.</p>
-]]></content:encoded>
-<pubDate>Fri, 21 Apr 2023 02:06:22 +0000</pubDate>
-</item>
-<item>
-<title>Previously-created UDF inaccessible</title>
-<link>https://status.clickhouse.com/incidents/pptk38lrml8m</link>
-<guid>https://status.clickhouse.com/incidents/pptk38lrml8m</guid>
-<content:encoded><![CDATA[
-<p><small>Apr <var>13</var>, <var>00:55</var> UTC</small><br /><strong>Resolved</strong> - The rollout is over and all previously created UDF should be accessible.</p><p><small>Apr <var>13</var>, <var>00:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are rolling out the patch.</p><p><small>Apr <var>12</var>, <var>21:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Apr <var>12</var>, <var>21:50</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating an issue where previously-created UDFs cannot be accessed after the latest ClickHouse Cloud release (v23.3).  Any UDFs created after the update are unaffected.</p>
-]]></content:encoded>
-<pubDate>Thu, 13 Apr 2023 00:55:39 +0000</pubDate>
-</item>
-<item>
-<title>Error in the SQL console</title>
-<link>https://status.clickhouse.com/incidents/t1v3frqtz9qr</link>
-<guid>https://status.clickhouse.com/incidents/t1v3frqtz9qr</guid>
-<content:encoded><![CDATA[
-<p><small>Apr <var>11</var>, <var>14:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>11</var>, <var>14:26</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue and are working towards resolving it.</p><p><small>Apr <var>11</var>, <var>14:23</var> UTC</small><br /><strong>Update</strong> - We are currently troubleshooting an issue with the SQL console being unavailable for users based out of Europe. The error returned is the following: {"error":"Unexpected token < in JSON at position 0"}</p><p><small>Apr <var>11</var>, <var>14:08</var> UTC</small><br /><strong>Investigating</strong> - We are currently troubleshooting an issue with the SQL console being unavailable for a subset of users. The error returned is the following: {"error":"Unexpected token < in JSON at position 0"}</p>
-]]></content:encoded>
-<pubDate>Tue, 11 Apr 2023 14:29:17 +0000</pubDate>
-</item>
-<item>
-<title>Auto-scaling slider issue</title>
-<link>https://status.clickhouse.com/incidents/ypsgb4x0gj60</link>
-<guid>https://status.clickhouse.com/incidents/ypsgb4x0gj60</guid>
-<content:encoded><![CDATA[
-<p><small>Mar <var> 7</var>, <var>23:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. After further investigation, we found the impact was limited to only a few services, and all services are now set back to their previous scaler setting. If you have any questions, please contact ClickHouse Support at https://clickhouse.cloud/support</p><p><small>Mar <var> 7</var>, <var>23:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented in all regions, and we are monitoring the results.</p><p><small>Mar <var> 7</var>, <var>22:30</var> UTC</small><br /><strong>Identified</strong> - ClickHouse Cloud has identified an issue with our auto-scaling process in all regions. For services which had not manually adjusted their auto-scaler slider and were using the default (and which were not currently idled), those services could have had their scaler sizing reduced by this issue. We are actively pushing out a fix to all regions now.</p>
-]]></content:encoded>
-<pubDate>Tue, 07 Mar 2023 23:45:52 +0000</pubDate>
-</item>
-<item>
-<title>HTTP query failures</title>
-<link>https://status.clickhouse.com/incidents/hb2jr8s4bd41</link>
-<guid>https://status.clickhouse.com/incidents/hb2jr8s4bd41</guid>
-<content:encoded><![CDATA[
-<p><small>Feb <var>28</var>, <var>02:00</var> UTC</small><br /><strong>Resolved</strong> - A configuration error caused query failures on the HTTP interface. This issue was investigated and resolved</p>
-]]></content:encoded>
-<pubDate>Tue, 28 Feb 2023 02:00:00 +0000</pubDate>
-</item>
-<item>
-<title>us-west-2 region offline</title>
-<link>https://status.clickhouse.com/incidents/xvmgt71sm72m</link>
-<guid>https://status.clickhouse.com/incidents/xvmgt71sm72m</guid>
-<content:encoded><![CDATA[
-<p><small>Feb <var> 4</var>, <var>01:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 4</var>, <var>01:22</var> UTC</small><br /><strong>Investigating</strong> - At 4:04PM PST we detected US-West-2 Region was down. After investigating and applying a fix service restoration was confirmed at 5:05PM PST. Customers in the us-west-2 region may have experienced connectivity issues and service restarts.</p>
-]]></content:encoded>
-<pubDate>Sat, 04 Feb 2023 01:26:53 +0000</pubDate>
-</item>
-<item>
-<title>Incorrect Backup Status</title>
-<link>https://status.clickhouse.com/incidents/rdcxpjqr8b16</link>
-<guid>https://status.clickhouse.com/incidents/rdcxpjqr8b16</guid>
-<content:encoded><![CDATA[
-<p><small>Feb <var> 3</var>, <var>13:15</var> UTC</small><br /><strong>Resolved</strong> - The fix has been rolled out to all regions successfully. Status for all affected backups is updated and available in Control Plane. This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>11:48</var> UTC</small><br /><strong>Update</strong> - A fix has been implemented and we are in the process of rolling it out to all regions. We are monitoring the results and will provide regular updates.</p><p><small>Feb <var> 3</var>, <var>08:21</var> UTC</small><br /><strong>Identified</strong> - The problem with UI displaying incorrect backup status has been identified and a fix is being implemented.</p><p><small>Feb <var> 3</var>, <var>08:14</var> UTC</small><br /><strong>Investigating</strong> - All services are displaying incorrect backup status of "In Progress" for backups triggered February 1st or later. The actual backups have been taken and only the status in the UI is impacted. We have identified the problem and are working on a fix.</p>
-]]></content:encoded>
-<pubDate>Fri, 03 Feb 2023 13:15:18 +0000</pubDate>
-</item>
 </channel>
 </rss>
