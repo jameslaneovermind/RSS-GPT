@@ -4,15 +4,14 @@
 <title>Open Exchange Rates Status - Incident History</title>
 <link>https://status.openexchangerates.org</link>
 
+
 <item>
 <title>Delay in exchange rate updates from API</title>
 <link>https://status.openexchangerates.org/incidents/8zj49y4227yc</link>
 <guid>https://status.openexchangerates.org/incidents/8zj49y4227yc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>23:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>16:34</var> UTC</small><br /><strong>Monitoring</strong> - The data contributor issue has been resolved and rate updates have resumed as normal. We are monitoring the ongoing performance of the API and will provide a further update shortly. We apologise for any inconvenience caused.</p><p><small>Feb <var> 1</var>, <var>13:01</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and relates to an upstream issue with one of our data contributors. We are continuing to work on resolution on our side, and working with our data contributor to establish a timeline for resolution.</p><p><small>Feb <var> 1</var>, <var>11:49</var> UTC</small><br /><strong>Investigating</strong> - Dear clients, we are currently experiencing a technical issue that is causing a delay in updating exchange rates in our API. We apologise for the inconvenience caused. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 23:45:00 +0000</pubDate>
 <pubDate>Thu, 01 Feb 2024 23:45:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://status.openexchangerates.org/incidents/bwwbkl8vwgvm</link>
 <guid>https://status.openexchangerates.org/incidents/bwwbkl8vwgvm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>13:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>21</var>, <var>12:03</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix and connectivity to the API is now restored. We are continuing with remediation steps and monitoring all systems closely to ensure continued operation. Please note that historical data availability may be affected between approximately 07:30 and 12:00 UTC.</p><p><small>Jan <var>21</var>, <var>09:34</var> UTC</small><br /><strong>Update</strong> - We are currently experiencing unplanned API downtime, caused by an application error that occurred during automatic maintenance to our AWS caching infrastructure.<br /><br />We are actively working to get the service back up and running as soon as possible. However, we are not able to provide an ETA at present.<br /><br />We sincerely apologise for the inconvenience caused.</p><p><small>Jan <var>21</var>, <var>07:48</var> UTC</small><br /><strong>Identified</strong> - We are currently undergoing unscheduled maintenance on our caching infrastructure. API connectivity will be impacted for up to 1 hour. During this time, clients may experience timeouts when connecting to the service. We apologise for any inconvenience this may cause.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 13:09:56 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 13:09:56 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://status.openexchangerates.org/incidents/fjm9jml0wshk</link>
 <guid>https://status.openexchangerates.org/incidents/fjm9jml0wshk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>09:21</var> UTC</small><br /><strong>Resolved</strong> - Between 07:00 and 09:00 UTC on Sunday, clients experienced intermittent connection failures and internal server errors when connecting to our API. This was related to a network issue with our caching infrastructure. We apologise for any inconvenience caused by this partial outage.<br /><br />The incident was fully resolved by 10:00 UTC and there have been no further reported issues.</p><p><small>Jan <var>14</var>, <var>10:09</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>14</var>, <var>09:32</var> UTC</small><br /><strong>Identified</strong> - The issue affecting our caching infrastructure has been identified and we are currently working to restore full operation.</p><p><small>Jan <var>14</var>, <var>07:21</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating a technical issue affecting our API and causing service interruption for clients. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 09:21:35 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 09:21:35 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@
 <link>https://status.openexchangerates.org/incidents/84g7341zq8dl</link>
 <guid>https://status.openexchangerates.org/incidents/84g7341zq8dl</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>21</var>, <var>09:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. The service degradation began at approximately 07:10 UTC, and was resolved by 08:10 UTC. During this time, some clients received 500 error messages in response to their API requests. This was the result of a misconfiguration during regular scheduled platform updates that was caused by a cache recovery event that occurred at the same time. We do not anticipate a recurrence.</p><p><small>May <var>21</var>, <var>08:16</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>21</var>, <var>08:00</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>21</var>, <var>07:38</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating a platform issue that is resulting in API timeouts. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Sun, 21 May 2023 09:20:31 +0000</pubDate>
 <pubDate>Sun, 21 May 2023 09:20:31 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +46,8 @@
 <link>https://status.openexchangerates.org/incidents/fpmw6jfckxpq</link>
 <guid>https://status.openexchangerates.org/incidents/fpmw6jfckxpq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>21</var>, <var>13:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We are continuing to make ongoing improvements to our platform to prevent any recurrence.</p><p><small>Mar <var>14</var>, <var>12:42</var> UTC</small><br /><strong>Update</strong> - The repeat occurrence this morning began at 07:35 UTC, after which a small number of currencies appeared as unavailable in our service, and it was resolved again by 07:55 UTC. The API has been operational since this time. However, clients are advised that our incident response is still in progress, and we are continuing to work on full remediation. Although we are working hard to avoid any further disruption in service, it is possible that the API may experience further performance issues over the next 48 hours, while we implement our solution. Please stand by for further updates.</p><p><small>Mar <var>14</var>, <var>08:00</var> UTC</small><br /><strong>Identified</strong> - Please be advised that we experienced further issues relating to yesterday's incident this morning, beginning at 07:35 and causing degraded performance on our API. We are working on a solution and will continue to update this post with any additional information.</p><p><small>Mar <var>13</var>, <var>17:10</var> UTC</small><br /><strong>Monitoring</strong> - Missing currency symbols have now been restored to the live API results and we are continuing to monitor the service performance and investigating the root cause.<br /><br />Note: Although latest.json and historical/.json endpoints are restored, affected symbols may be unavailable for certain historical ohlc.json and spot.json requests coinciding with the incident period.<br /><br />Please contact us at support@openexchangerates.org if you need any further support.</p><p><small>Mar <var>13</var>, <var>14:45</var> UTC</small><br /><strong>Update</strong> - We are continuing to work to restore the missing values to the API after this morning's service interruption. <br /><br />The following symbols remain temporarily unavailable in our latest API results:<br /><br />> SRD, TMT, XCD<br /><br />Our earlier scheduled maintenance was successfully completed after approximately 12 minutes, with no reported API downtime during this period.</p><p><small>Mar <var>13</var>, <var>12:42</var> UTC</small><br /><strong>Update</strong> - We are continuing to work to restore the missing values to the API after this morning's service interruption. <br /><br />The following symbols are currently still affected by this incident and remain temporarily unavailable in our latest API results:<br /><br />> AOA, AWG, GEL, GMD, IRR, KMF, LRD, MVR, MZN, NAD, SBD, SDG, SRD, TMT, TND, VES, XCD, YER<br /><br />In addition, we will be undergoing scheduled maintenance at 12:55 UTC.<br /><br />We aim to keep this maintenance window as short as possible, however the API may be unavailable for up to 30 minutes while this is underway.</p><p><small>Mar <var>13</var>, <var>11:25</var> UTC</small><br /><strong>Update</strong> - We will shortly undergo a maintenance window during which our API and some areas of our website will be temporarily unavailable.<br /><br />Please refer to the separate Scheduled Maintenance update (to be posted shortly) for more details including the maintenance window time.<br /><br />We aim to keep this maintenance period to a minimum, however please be advised that the service may be unavailable for up to 30 minutes after the beginning of the scheduled maintenance.</p><p><small>Mar <var>13</var>, <var>07:43</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue, and are continuing to work on a solution.</p><p><small>Mar <var>13</var>, <var>04:36</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>13</var>, <var>04:28</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>13</var>, <var>03:06</var> UTC</small><br /><strong>Update</strong> - Please be advised Open Exchange Rates API is currently running with partial outage.<br /><br />Latest and historical rates for today's date, and other API queries, may be unavailable.<br /><br />We are continuing to investigate this issue.</p><p><small>Mar <var>13</var>, <var>03:00</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating connection failures on our API. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Mar 2023 13:00:00 +0000</pubDate>
 <pubDate>Tue, 21 Mar 2023 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +55,8 @@
 <link>https://status.openexchangerates.org/incidents/vs7qbydgfjw5</link>
 <guid>https://status.openexchangerates.org/incidents/vs7qbydgfjw5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>13</var>, <var>12:58</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed. Please note that several currency symbols remain unavailable in our live API results, and we are working to restore these ASAP.</p><p><small>Mar <var>13</var>, <var>12:45</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>11:41</var> UTC</small><br /><strong>Scheduled</strong> - Dear clients,<br /><br />Please be advised that our API will be temporarily unavailable for maintenance, lasting up to 30 minutes, starting from 12:45 UTC today.<br /><br />During this period, the API may be completely unavailable for approximately 15 minutes. There is also a small chance that the maintenance may be extended beyond this time. We are aiming to keep this window to a minimum to avoid additional disruption.<br /><br />Parts of our website, including your account dashboard, will also be unavailable during this time.<br /><br />We apologise for any inconvenience caused.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Mar 2023 12:58:33 +0000</pubDate>
 <pubDate>Mon, 13 Mar 2023 12:58:33 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +64,8 @@
 <link>https://status.openexchangerates.org/incidents/h3shvmkzqlkb</link>
 <guid>https://status.openexchangerates.org/incidents/h3shvmkzqlkb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>28</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 5</var>, <var>09:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. All rates that were unavailable for queries to the "/historical/2023-02-04.json" endpoint (4th February 2023) are now available again in the API response for that date.<br /><br />The following currency symbols were affected: AED, ANG, AOA, AWG, AZN, BIF, BOB, BYN, BZD, CDF, CLP, CNH, ETB, FJD, GEL, GMD, GTQ, GYD, HTG, ILS, IRR, ISK, JMD, JOD, KES, KGS, KMF, KYD, LRD, MMK, MOP, MRU, MVR, MYR, MZN, NAD, NGN, NIO, PGK, PHP, PKR, RWF, SBD, SDG, SRD, SVC, TJS, TMT, TND, TOP, TZS, UAH, UYU, UZS, VES, VND, XAG, XAU, XCD, YER, ZMW<br /><br />We are continuing to investigate the root cause of this incident.<br /><br />Please note that as a result of this issue, /ohlc.json and /spot.json queries will remain temporarily unavailable for the above currency symbols for the period between approximately 04:00 UTC on 4th February and 09:00 UTC on 5th February. We sincerely apologise for any inconvenience this may cause.<br /><br />We will update this post with further details in due course.</p><p><small>Feb <var> 5</var>, <var>07:17</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of this incident and are working on a solution.<br /><br />Please be advised that both historical and OHLC queries are currently impacted, with approx. 61 currency rates showing as unavailable.</p><p><small>Feb <var> 5</var>, <var>06:43</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating missing currencies in historical API queries for 4th February 2023.</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
 <pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +73,8 @@
 <link>https://status.openexchangerates.org/incidents/dpvb7v321k7z</link>
 <guid>https://status.openexchangerates.org/incidents/dpvb7v321k7z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>06:42</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 1</var>, <var>13:41</var> UTC</small><br /><strong>Scheduled</strong> - Dear clients,<br /><br />Please be advised that Croatia has joined the European Schengen area and Euro (EUR) single currency as of 1 January 2023.<br /><br />This means that the Croatian Kuna (HRK) will stop being used as the currency of Croatia.<br /><br />The two currencies will be used alongside each other for a period of two weeks, and will remain exchangeable into EUR until 31 December 2023, at a fixed exchange rate of 7.53450 HRK to 1 EUR.<br /><br />We expect to continue receiving data from our contributors at the fixed exchange rate throughout this period, and we will continue to publish a rate for HRK via our API.<br /><br />No changes are required for your API integration to keep working. <br /><br />However, we would advise updating your client integrations as needed based on this change. For example, if your integration references the kuna (HRK) being the currency of Croatia, this would need to be updated to the Euro with effect from 1st January 2023.<br /><br />You can read more about this change below:<br /><br />- https://ec.europa.eu/commission/presscorner/detail/en/IP_22_7907<br />- https://www.ecb.europa.eu/euro/changeover/croatia/html/index.en.html<br />- https://en.wikipedia.org/wiki/Croatian_kuna<br /><br />If you have any questions or need any assistance regarding this change, please reach out to us at support@openexchangerates.org.</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 Feb 2023 06:42:03 +0000</pubDate>
 <pubDate>Sun, 05 Feb 2023 06:42:03 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +82,8 @@
 <link>https://status.openexchangerates.org/incidents/7qbc3fjn115x</link>
 <guid>https://status.openexchangerates.org/incidents/7qbc3fjn115x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>11</var>, <var>09:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>10</var>, <var>23:46</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>10</var>, <var>19:13</var> UTC</small><br /><strong>Identified</strong> - Please be aware that Bitcoin (BTC) and Ethereum (ETH) are currently operating with a delay in our API, with rate updates being published at a reduced frequency. We are working to rectify this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 11 Nov 2022 09:00:57 +0000</pubDate>
 <pubDate>Fri, 11 Nov 2022 09:00:57 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +91,8 @@
 <link>https://status.openexchangerates.org/incidents/b7vy3c5slh4z</link>
 <guid>https://status.openexchangerates.org/incidents/b7vy3c5slh4z</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>10</var>, <var>19:15</var> UTC</small><br /><strong>Resolved</strong> - This incident was resolved at 19:05 UTC on 2022-05-08.</p><p><small>May <var> 8</var>, <var>07:15</var> UTC</small><br /><strong>Investigating</strong> - We experienced an unexpected spike in SGD (Singapore Dollar) rates in the Open Exchange Rates API on Sunday 8th May, between approx. 07:15 UTC and 19:05 UTC. A fix has been implemented and we are continuing to investigate the root cause with our data contributors. Please contact support@openexchangerates.org if you experience any further issues.</p>
 ]]></content:encoded>
-<pubDate>Tue, 10 May 2022 19:15:00 +0000</pubDate>
 <pubDate>Tue, 10 May 2022 19:15:00 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +100,8 @@
 <link>https://status.openexchangerates.org/incidents/422kvt5czl94</link>
 <guid>https://status.openexchangerates.org/incidents/422kvt5czl94</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>21:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>15:44</var> UTC</small><br /><strong>Monitoring</strong> - We have completed restoring all missing currency values in our OHLC endpoint (ohlc.json) as of 15:30 GMT, and will continue to monitor the service closely for any further issues.<br /><br />As a result of this incident, historical spot and OHLCA information may be unavailable for certain currency and time period combinations between 07:30 and 15:30 on 20th February 2022. If you are affected by this, please contact us for advice.<br /><br />Please reach out to us at support@openexchangerates.org if you need any additional support.</p><p><small>Feb <var>20</var>, <var>13:44</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>20</var>, <var>13:25</var> UTC</small><br /><strong>Investigating</strong> - We experienced a minor API outage this morning during a routine system maintenance. The API was intermittently unavailable for a period of up to 20 minutes, starting from 07:40 GMT, before being corrected. We are currently investigating the root cause of this outage.<br /><br />Following this outage, a number of exchange rates are unavailable in our OHLC endpoint (ohlc.json). We are continuing to investigate this issue, and will provide further updates as soon as we have more information available.</p>
 ]]></content:encoded>
-<pubDate>Sun, 20 Feb 2022 21:26:50 +0000</pubDate>
 <pubDate>Sun, 20 Feb 2022 21:26:50 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +109,8 @@
 <link>https://status.openexchangerates.org/incidents/9t9f7k3n9phj</link>
 <guid>https://status.openexchangerates.org/incidents/9t9f7k3n9phj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>15:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>14</var>, <var>19:20</var> UTC</small><br /><strong>Update</strong> - Update: The removal of the historical MRO currency symbol has been rescheduled to Tuesday at 15:00 GMT.<br /><br />Please see our Status Page for additional information about this change.<br /><br />If you have any questions or need any assistance regarding this change, please contact us at support@openexchangerates.org.</p><p><small>Jan <var>14</var>, <var>14:26</var> UTC</small><br /><strong>Scheduled</strong> - Please be advised that the historical "MRO" currency symbol will be removed from our list of live currencies (as provided by our 'currencies.json' endpoint) on Monday 17 January 2022, as it is no longer available in our live API.<br /><br />For up-to-date Mauritanian Ouguiya currency rates, please use the symbol "MRU", which has been in effect since the start of 2018.<br /><br />You can find more information about this currency at the URL below:<br /><br />https://en.wikipedia.org/wiki/Mauritanian_ouguiya#Second_ouguiya_(MRU)<br /><br />If you have any questions or need any assistance regarding this change, please contact us at support@openexchangerates.org.</p>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jan 2022 15:00:00 +0000</pubDate>
 <pubDate>Tue, 18 Jan 2022 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +118,8 @@
 <link>https://status.openexchangerates.org/incidents/d1ly3xyfczh6</link>
 <guid>https://status.openexchangerates.org/incidents/d1ly3xyfczh6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>29</var>, <var>15:10</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>29</var>, <var>14:28</var> UTC</small><br /><strong>Investigating</strong> - Following technical issues this morning, there are currently delays in rate updates in our latest.json and other live API endpoints. We are working on a resolution to this issue. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Dec 2021 15:10:44 +0000</pubDate>
 <pubDate>Wed, 29 Dec 2021 15:10:44 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +127,8 @@
 <link>https://status.openexchangerates.org/incidents/9q1f7c8sff02</link>
 <guid>https://status.openexchangerates.org/incidents/9q1f7c8sff02</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>29</var>, <var>14:15</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>29</var>, <var>13:51</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>29</var>, <var>13:43</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing platform maintenance between 13:50 and 14:15 UTC today. We will attempt to reduce any service interruption during this time, however clients may experience intermittent connection failures for up to 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Dec 2021 14:15:37 +0000</pubDate>
 <pubDate>Wed, 29 Dec 2021 14:15:37 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +136,8 @@
 <link>https://status.openexchangerates.org/incidents/6zv1m36rlngj</link>
 <guid>https://status.openexchangerates.org/incidents/6zv1m36rlngj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>29</var>, <var>10:43</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved as of 10:00 UTC. We are continuing to monitor API performance throughout the day. Please contact us if you encounter any further issues connecting to our services.</p><p><small>Dec <var>29</var>, <var>09:38</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>29</var>, <var>09:17</var> UTC</small><br /><strong>Investigating</strong> - We are continuing to investigate further 5XX errors. Please stand by for updates.</p><p><small>Dec <var>29</var>, <var>08:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>29</var>, <var>08:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is causing intermittent downtime and 500 errors on our website and API, occurring since 06:50 UTC.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Dec 2021 10:43:27 +0000</pubDate>
 <pubDate>Wed, 29 Dec 2021 10:43:27 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +145,8 @@
 <link>https://status.openexchangerates.org/incidents/54zp64fwmv5z</link>
 <guid>https://status.openexchangerates.org/incidents/54zp64fwmv5z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>24</var>, <var>09:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved and no further downtime has been experienced. We intend to publish a brief post-mortem in due course. Please contact us at support@openexchangerates.org if you encounter any further issues.</p><p><small>Dec <var>23</var>, <var>14:15</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. We will continue to update our status page with additional details as and when they become available.</p><p><small>Dec <var>22</var>, <var>23:41</var> UTC</small><br /><strong>Update</strong> - We are continuing to work to restore missing data to the API, however the majority of currency rates have now returned to the API. We will continue to update our status page with additional details as they become available.</p><p><small>Dec <var>22</var>, <var>16:41</var> UTC</small><br /><strong>Identified</strong> - As a result of the earlier outage at Amazon Web Services, a large number of currency symbols are temporarily showing as unavailable in our API. We believe this is related to a cache failover event that occurred as a result of the AWS incident. We are working to restore full service and will post further updates to our status page as soon as we have any updates.</p><p><small>Dec <var>22</var>, <var>14:09</var> UTC</small><br /><strong>Monitoring</strong> - A fix was implemented at 13:55 GMT to temporarily redirect traffic away from the affected AWS resources. We are monitoring the results and carrying out further tests.<br /><br />Please note that clients may continue to experience degraded performance until the issue is fully resolved. We will provide further updates in due course, or in the event of any further incident.</p><p><small>Dec <var>22</var>, <var>13:53</var> UTC</small><br /><strong>Identified</strong> - We are working hard to resolve this connectivity issue, which we believe was caused by a power failure reported by Amazon Web Services in their us-east region. We will continue to update our status page as often as possible to keep you informed on our progress.</p><p><small>Dec <var>22</var>, <var>13:19</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this outage, which we believe may be connected to a wider service interruption at AWS (Amazon Web Services). Thank you for your patience.</p><p><small>Dec <var>22</var>, <var>12:37</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a confirmed incident that is affecting our API and causing 400 errors. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Fri, 24 Dec 2021 09:39:17 +0000</pubDate>
 <pubDate>Fri, 24 Dec 2021 09:39:17 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +154,8 @@
 <link>https://status.openexchangerates.org/incidents/kbnw6fm331ds</link>
 <guid>https://status.openexchangerates.org/incidents/kbnw6fm331ds</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>31</var>, <var>11:54</var> UTC</small><br /><strong>Resolved</strong> - This incident was resolved about 25 minutes after it started, and has not re-occured. Please contact us at support@openexchangerates.org if you have any questions or concerns relating to this incident.</p><p><small>Oct <var>31</var>, <var>07:47</var> UTC</small><br /><strong>Monitoring</strong> - We identified an issue with our cache infrastructure at 07:05 UTC on Sunday 31st October. Upon inspection this appeared to be the result of a cache failover event, which temporarily caused a spike in database connections, and caused "500 Internal Server Error" messages to be received by many clients. <br /><br />A fix was deployed at 07:31 UTC resolving the issue, and we are continuing to monitor the results. <br /><br />Please contact us at support@openexchangerates.org if you have any questions or concerns relating to this incident.</p>
 ]]></content:encoded>
-<pubDate>Sun, 31 Oct 2021 11:54:07 +0000</pubDate>
 <pubDate>Sun, 31 Oct 2021 11:54:07 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +163,8 @@
 <link>https://status.openexchangerates.org/incidents/x3sz6b0n28bc</link>
 <guid>https://status.openexchangerates.org/incidents/x3sz6b0n28bc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>24</var>, <var>09:47</var> UTC</small><br /><strong>Resolved</strong> - This incident was resolved at 11:40 UTC on Sunday 22nd August, approximately 3 hours and 45 minutes after it began.  The issue related to a cache failover event, leading to certain parts of our API infrastructure becoming overburdened.  While our service remained available during this time, up to approximately 50% of API requests may have received 500 errors.<br /><br />(NB: An earlier update to this incident report may have continued to show the API status as "partially degraded," however the service has been fully operational since the fix was implemented.)<br /><br />Please accept our apologies for any inconvenience caused by this incident. If you have any further comments or questions, please don't hesitate to contact us at support@openexchangerates.org.</p><p><small>Aug <var>22</var>, <var>11:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>22</var>, <var>11:12</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of the incident occurring today, and we are working on a solution. Thank you for your patience.</p><p><small>Aug <var>22</var>, <var>09:30</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a technical issue with our infrastructure that is causing API 500 errors. Please stand by for updates.</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Aug 2021 09:47:30 +0000</pubDate>
 <pubDate>Tue, 24 Aug 2021 09:47:30 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +172,8 @@
 <link>https://status.openexchangerates.org/incidents/50l48sk6xbsr</link>
 <guid>https://status.openexchangerates.org/incidents/50l48sk6xbsr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 6</var>, <var>11:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 4</var>, <var>11:39</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a brief period of connection timeouts and partial unavailability on the API taking place on Friday at approximately 07:45 UTC. We will update our status page as soon as we have any further information.</p>
 ]]></content:encoded>
-<pubDate>Sun, 06 Jun 2021 11:00:15 +0000</pubDate>
 <pubDate>Sun, 06 Jun 2021 11:00:15 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +181,8 @@
 <link>https://status.openexchangerates.org/incidents/4ztv8qh3ztmt</link>
 <guid>https://status.openexchangerates.org/incidents/4ztv8qh3ztmt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>30</var>, <var>00:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 6</var>, <var>00:13</var> UTC</small><br /><strong>Update</strong> - While the technical incident that occurred yesterday has been resolved and our systems are stable, we are continuing to look into issues today regarding several currency symbols that are no longer available in our API, following the earlier incident.<br /><br />The following cryptocurrency symbols, which were previously only available when specifying the "show_alternative" rates endpoint parameter, are affected: EAC, EMC, FCT, FTC, NMC, NVC, PPC, VTC, and XPM.<br /><br />In addition, the deprecated Venezuelan Bolívar Fuerte (VEF) symbol is no longer available. The VEF currency symbol was deprecated and replaced by the newer Bolívar Soberano (VES) rate in August 2018, and this rate should be used instead. Please refer to the relevant historical Status Page update for more information about this change: https://status.openexchangerates.org/incidents/wrmzgmh6zwhy<br /><br />Please contact us at support@openexchangerates.org if you experience any further issues connecting to our services.</p><p><small>Jan <var> 5</var>, <var>09:48</var> UTC</small><br /><strong>Identified</strong> - The issue was identified and a fix was made last night. We are continuing to monitor the results and working to prevent any re-occurence and identify downstream issues that were caused. <br /><br />Please note that as a result of this incident, the Cuban Convertible Peso (CUC) symbol has been temporarily removed from our latest API results. All other rates should now be available as usual.<br /><br />Clients that found their integrations made a much larger volume of requests than normal (due to failed connections) should contact us at support@openexchangerates.org, regarding having their usage allowance reset.<br /><br />Please contact us if you experience any further issues connecting to our service.</p><p><small>Jan <var> 4</var>, <var>20:42</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue in our API that has caused certain rates to be unavailable in our service this evening. We will update this notification as soon as we have any further information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
 <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +190,8 @@
 <link>https://status.openexchangerates.org/incidents/w1vfxfz8q0s8</link>
 <guid>https://status.openexchangerates.org/incidents/w1vfxfz8q0s8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 6</var>, <var>13:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>23:41</var> UTC</small><br /><strong>Monitoring</strong> - Rates for BTC, ETH and LTC are updating as usual as of approximately 22:24 UTC this evening. This incident was caused by a service outage at a third-party provider, and was not related to other technical issues over the past 48 hours. We are continuing to monitor these rates, as well as identifying changes that will prevent this issue from re-occurring, and we will provide a further update to our Status Page should any more information become available about this.<br /><br />Please note that while this particular incident is resolved, a number of cryptocurrency rates that were previously available in our application (under the 'alternative' rates endpoint parameter) are currently unavailable. Please refer to the following Status Page notification, where we will post updates regarding these: https://status.openexchangerates.org/incidents/4ztv8qh3ztmt<br /><br />Please contact us at support@openexchangerates.org if you experience any further issues relating to BTC, ETH or LTC rates.</p><p><small>Jan <var> 5</var>, <var>17:10</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing delays updating BTC, ETH, LTC, and other cryptocurrency rates (available via our 'alternative' endpoint parameter), which is unrelated to the service issues taking place yesterday and earlier today. We will provide updates via this notification as soon as we have more information. In the meantime, customers requiring updates for these symbols may wish to temporarily switch to an alternative service (such as the Coinbase API) to receive data for these symbols.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Jan 2021 13:40:47 +0000</pubDate>
 <pubDate>Wed, 06 Jan 2021 13:40:47 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +199,8 @@
 <link>https://status.openexchangerates.org/incidents/d1hgcfcfgw2f</link>
 <guid>https://status.openexchangerates.org/incidents/d1hgcfcfgw2f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 5</var>, <var>00:52</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 4</var>, <var>19:21</var> UTC</small><br /><strong>Investigating</strong> - We are again experiencing slow responses from our API. We will update this notification as soon as we have further information.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Jan 2021 00:52:39 +0000</pubDate>
 <pubDate>Tue, 05 Jan 2021 00:52:39 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +208,8 @@
 <link>https://status.openexchangerates.org/incidents/8hc15ncdz1yc</link>
 <guid>https://status.openexchangerates.org/incidents/8hc15ncdz1yc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 4</var>, <var>17:36</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 4</var>, <var>16:49</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating slow response times affecting some API clients. Please bear with us for more updates.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Jan 2021 17:36:40 +0000</pubDate>
 <pubDate>Mon, 04 Jan 2021 17:36:40 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +217,8 @@
 <link>https://status.openexchangerates.org/incidents/6mf9px4jlpdh</link>
 <guid>https://status.openexchangerates.org/incidents/6mf9px4jlpdh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>14</var>, <var>09:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>11</var>, <var>09:00</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with USD/UGX (Ugandan Shilling) currency rates, which is also affecting other currency pairs with UGX. The USD/UGX rate is currently reporting at approximately 37.06, instead of the correct value of approximately 3,706. We are working with our data contributors to identify and resolve this issue as soon as possible. Other currency rates that do not involve the UGX symbol are not affected.</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Sep 2020 09:35:21 +0000</pubDate>
 <pubDate>Mon, 14 Sep 2020 09:35:21 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +226,9 @@
 <link>https://status.openexchangerates.org/incidents/my4vwrll12mm</link>
 <guid>https://status.openexchangerates.org/incidents/my4vwrll12mm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 2</var>, <var>08:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Please contact us at support@openexchangerates.org if you require any further assistance.</p><p><small>May <var>31</var>, <var>10:50</var> UTC</small><br /><strong>Monitoring</strong> - This issue has now been resolved, however some clients may need to make modifications to their integration in order to continue to connect to our API, as our SSL certificate has been updated (for the majority of clients affected by this incident however no change should be required). We are continuing to monitor the situation and will update this notice if anything changes.<br /><br />Please contact us at support@openexchangerates.org if you experience any further issues connecting to our API, or if you need any additional support.</p><p><small>May <var>30</var>, <var>21:28</var> UTC</small><br /><strong>Identified</strong> - We are continuing to investigate the issue concerning the Root CA expiry.<br /><br />Please contact us at support@openexchangerates.org if you are affected by this issue, or if you need any advice concerning the temporary workaround.</p><p><small>May <var>30</var>, <var>19:03</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting a number of clients, which appears to be the result of the expiry of the AddTrust External CA Root (root certificate) on 30 May 2020. <br /><br />While our SSL certificate is valid until 5 January 2021, and our API instances and website are fully operational at present, clients that are affected by this issue may receive "Certificate expired" errors on attempting to connect to our API.<br /><br />We are currently working to identify which clients may be affected by this issue, and the steps that are required to remedy it. We will update this notice as soon as we have any further information.<br /><br />Please contact support@openexchangerates.org if you experience any issues connecting to our service.</p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Jun 2020 08:53:06 +0000</pubDate>
-<pubDate>Tue, 02 Jun 2020 08:53:06 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
