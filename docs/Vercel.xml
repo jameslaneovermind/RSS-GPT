@@ -4,6 +4,7 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>Elevated Build Queue Times</title>
 <link>https://www.vercel-status.com/incidents/s8d0zc1j7c7x</link>
@@ -19,7 +20,6 @@ Summary:
 <p><small>Feb <var>19</var>, <var>19:56</var> UTC</small><br /><strong>Resolved</strong> - Deployments appearing as “QUEUED” have recovered, and all new deployments are now working as expected. The incident has been resolved.</p><p><small>Feb <var>19</var>, <var>19:13</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is in the works. To note: this issue is only present on builds using Node 20. Builds using Node 18 and below are functioning normally.</p><p><small>Feb <var>19</var>, <var>19:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of queued builds. We will share updates as they become available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 19 Feb 2024 19:56:53 +0000</pubDate>
-<pubDate>Mon, 19 Feb 2024 19:56:53 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Webhook intermittent outage</title>
@@ -32,17 +32,14 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <p><small>Feb <var> 9</var>, <var>11:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>11:29</var> UTC</small><br /><strong>Monitoring</strong> - GitHub have implemented a fix, we're continuing to monitor this</p><p><small>Feb <var> 9</var>, <var>11:15</var> UTC</small><br /><strong>Identified</strong> - GitHub are investigating the issue. We will continue to monitor their status and post updates as they are available</p><p><small>Feb <var> 9</var>, <var>11:14</var> UTC</small><br /><strong>Investigating</strong> - New deployments triggered from GitHub commits are delayed until the GitHub incident¹ is resolved. <br />You can still create deployments using the Vercel dashboard² or the Vercel CLI.<br />¹: https://www.githubstatus.com/incidents/my7r3l9lsqnk<br />²: https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference</p>
 ]]></content:encoded>
 <pubDate>Fri, 09 Feb 2024 11:30:34 +0000</pubDate>
-<pubDate>Fri, 09 Feb 2024 11:30:34 +0000</pubDate>
 </item>
 <item>
 <title>Delayed Log Drains, Build, and Runtime Logs in cle1</title>
 <link>https://www.vercel-status.com/incidents/qlxvvlc0h1tr</link>
 <guid>https://www.vercel-status.com/incidents/qlxvvlc0h1tr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>26</var>, <var>18:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>17:30</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>26</var>, <var>17:00</var> UTC</small><br /><strong>Identified</strong> - The issue, which began at 15:54 UTC, has been determined to affect customers in the cle1 region. Efforts to resolve the issue are currently underway.</p><p><small>Jan <var>26</var>, <var>16:50</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 26 Jan 2024 18:30:19 +0000</pubDate>
 <pubDate>Fri, 26 Jan 2024 18:30:19 +0000</pubDate>
 </item>
 <item>
@@ -50,10 +47,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/3t3vv19vyb65</link>
 <guid>https://www.vercel-status.com/incidents/3t3vv19vyb65</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>16:02</var> UTC</small><br /><strong>Resolved</strong> - Between <tt>8:40 UTC</tt> - <tt>13:55 UTC</tt>: users that had the Datadog integration or New Relic integration installed along with the Axiom integration or Sematext integration were affected by log drain delivery failures on Axiom or Sematext.<br /><br />Log drain deliveries to Datadog and New Relic did not fail during this timeframe.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 16:02:25 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 16:02:25 +0000</pubDate>
 </item>
 <item>
@@ -61,10 +56,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/3v9gv2ps16qr</link>
 <guid>https://www.vercel-status.com/incidents/3v9gv2ps16qr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>21</var>, <var>09:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has now been resolved.</p><p><small>Jan <var>21</var>, <var>09:27</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause and have deployed a temporary workaround. This has restored functionality, allowing all pending Enterprise builds to resume. We are continuing to monitor and investigate this issue.</p><p><small>Jan <var>21</var>, <var>08:43</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated build queue processing times for Enterprise customers. Existing deployments and live traffic are not affected by this issue, and data from currently queued builds will not be lost. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Sun, 21 Jan 2024 09:39:58 +0000</pubDate>
 <pubDate>Sun, 21 Jan 2024 09:39:58 +0000</pubDate>
 </item>
 <item>
@@ -72,10 +65,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/cnywbl7zfyq5</link>
 <guid>https://www.vercel-status.com/incidents/cnywbl7zfyq5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>15:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>19</var>, <var>14:46</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>19</var>, <var>14:22</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>19</var>, <var>13:17</var> UTC</small><br /><strong>Investigating</strong> - We're investigating reports of customers not able to access newly created KV stores. Existing KV stores are working fine.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 15:00:13 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 15:00:13 +0000</pubDate>
 </item>
 <item>
@@ -83,10 +74,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/lc3y7qs7gtzj</link>
 <guid>https://www.vercel-status.com/incidents/lc3y7qs7gtzj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>11:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>19</var>, <var>11:02</var> UTC</small><br /><strong>Update</strong> - Our upstream provider has implemented a fix and are currently monitoring the results. We’ll continue to provide updates on this when they become available.</p><p><small>Jan <var>19</var>, <var>10:12</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been identified by one of our upstream providers and they are actively investigating this. We will share more updates when they become available.</p><p><small>Jan <var>19</var>, <var>09:48</var> UTC</small><br /><strong>Update</strong> - Edge Config updates are also delayed. We are continuing to Investigate this issue.</p><p><small>Jan <var>19</var>, <var>09:31</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating failing builds for customers that use Edge Functions. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 11:55:32 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 11:55:32 +0000</pubDate>
 </item>
 <item>
@@ -94,10 +83,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/3ly94g3wbqtl</link>
 <guid>https://www.vercel-status.com/incidents/3ly94g3wbqtl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>23:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>17</var>, <var>22:50</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>17</var>, <var>22:10</var> UTC</small><br /><strong>Monitoring</strong> - Error rates have returned to a stable state and we are continuing to monitor.</p><p><small>Jan <var>17</var>, <var>22:08</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate. The impact is isolated to select regions.</p><p><small>Jan <var>17</var>, <var>21:39</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an elevated number of 500 errors on edge requests.</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Jan 2024 23:03:11 +0000</pubDate>
 <pubDate>Wed, 17 Jan 2024 23:03:11 +0000</pubDate>
 </item>
 <item>
@@ -105,10 +92,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/nc3rztxqkvl3</link>
 <guid>https://www.vercel-status.com/incidents/nc3rztxqkvl3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>16</var>, <var>14:00</var> UTC</small><br /><strong>Resolved</strong> - Intermittent errors and high latency were identified at 13:58 UTC and resolved by 14:17 UTC. We are conducting an investigation to determine the root cause and prevent future occurrences.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jan 2024 14:00:00 +0000</pubDate>
 <pubDate>Tue, 16 Jan 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -116,10 +101,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/3n4zb4kt88k3</link>
 <guid>https://www.vercel-status.com/incidents/3n4zb4kt88k3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>10:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved and all Queued build have recovered.</p><p><small>Jan <var>12</var>, <var>10:03</var> UTC</small><br /><strong>Monitoring</strong> - All new deployments are now working as expected. Deployments appearing as “QUEUED” are starting to recover and should start building soon. We are continuing to monitor this issue.</p><p><small>Jan <var>12</var>, <var>09:50</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix has been implemented.</p><p><small>Jan <var>12</var>, <var>09:44</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated build queue processing times for all customers. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Jan 2024 10:20:27 +0000</pubDate>
 <pubDate>Fri, 12 Jan 2024 10:20:27 +0000</pubDate>
 </item>
 <item>
@@ -127,10 +110,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/l7yx03dwk2dh</link>
 <guid>https://www.vercel-status.com/incidents/l7yx03dwk2dh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>14:46</var> UTC</small><br /><strong>Resolved</strong> - All services have recovered and are working as expected.</p><p><small>Jan <var> 9</var>, <var>14:33</var> UTC</small><br /><strong>Monitoring</strong> - GitHub have confirmed affected services have been restored and we're monitoring service recovering.</p><p><small>Jan <var> 9</var>, <var>13:31</var> UTC</small><br /><strong>Identified</strong> - GitHub is degraded. New deployments triggered from GitHub commits are delayed until the GitHub incident¹ is resolved.<br />You can still create deployments using the Vercel dashboard² or the Vercel CLI.<br />¹: https://www.githubstatus.com/incidents/pxg3dz4yg7lp<br />²: https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 14:46:21 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 14:46:21 +0000</pubDate>
 </item>
 <item>
@@ -138,10 +119,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/p1zsvb8vgnjz</link>
 <guid>https://www.vercel-status.com/incidents/p1zsvb8vgnjz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 8</var>, <var>14:07</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>13:39</var> UTC</small><br /><strong>Monitoring</strong> - Deployments are recovering, we are continuing to monitor their status</p><p><small>Jan <var> 8</var>, <var>12:08</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated error reports of deployment creation. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 14:07:32 +0000</pubDate>
 <pubDate>Mon, 08 Jan 2024 14:07:32 +0000</pubDate>
 </item>
 <item>
@@ -149,10 +128,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/kpgg9p03x8x0</link>
 <guid>https://www.vercel-status.com/incidents/kpgg9p03x8x0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 4</var>, <var>20:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 4</var>, <var>19:57</var> UTC</small><br /><strong>Monitoring</strong> - We have mitigated the core issue and are now monitoring for results.</p><p><small>Jan <var> 4</var>, <var>19:05</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue that started at 16:56 UTC.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Jan 2024 20:28:40 +0000</pubDate>
 <pubDate>Thu, 04 Jan 2024 20:28:40 +0000</pubDate>
 </item>
 <item>
@@ -160,10 +137,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/snybsxv4v0vc</link>
 <guid>https://www.vercel-status.com/incidents/snybsxv4v0vc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>13:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Affected deployments created between <tt>Jan 03, 2024, 10:17 UTC</tt> and <tt>Jan 03, 2024, 12:56 UTC</tt> will need to be redeployed for the fix to apply.</p><p><small>Jan <var> 3</var>, <var>12:55</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 3</var>, <var>12:42</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 3</var>, <var>12:16</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of elevated error rates when accessing Environment Variables. Affected projects can use our Instant Rollback feature to the last known working deployment. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 13:11:43 +0000</pubDate>
 <pubDate>Wed, 03 Jan 2024 13:11:43 +0000</pubDate>
 </item>
 <item>
@@ -171,10 +146,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/xs8s8y55vldx</link>
 <guid>https://www.vercel-status.com/incidents/xs8s8y55vldx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>12:56</var> UTC</small><br /><strong>Resolved</strong> - A fix has been put in place and Speed Insights is now correctly recording data points.</p><p><small>Jan <var> 3</var>, <var>11:37</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 3</var>, <var>09:57</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 3</var>, <var>06:02</var> UTC</small><br /><strong>Update</strong> - We have found several potential causes and are still determining the true root cause. Please note that this does not appear to affect new projects/deployments. Continuing to investigate</p><p><small>Jan <var> 3</var>, <var>02:20</var> UTC</small><br /><strong>Investigating</strong> - We have identified an issue with Speed Insights preventing some customers from seeing data in the dashboard. Currently investigating</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 12:56:10 +0000</pubDate>
 <pubDate>Wed, 03 Jan 2024 12:56:10 +0000</pubDate>
 </item>
 <item>
@@ -182,10 +155,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/7r0g3nnr23nb</link>
 <guid>https://www.vercel-status.com/incidents/7r0g3nnr23nb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>28</var>, <var>22:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>28</var>, <var>21:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>28</var>, <var>20:53</var> UTC</small><br /><strong>Identified</strong> - We have identified the source of the intermittent dashboard errors. A fix will be pushed out as soon as possible.</p><p><small>Dec <var>28</var>, <var>20:17</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of intermittent errors on the Vercel Dashboard. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Dec 2023 22:01:01 +0000</pubDate>
 <pubDate>Thu, 28 Dec 2023 22:01:01 +0000</pubDate>
 </item>
 <item>
@@ -193,10 +164,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/36p6wnj7yrsy</link>
 <guid>https://www.vercel-status.com/incidents/36p6wnj7yrsy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>24</var>, <var>07:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to see 405 responses on PATCH requests please redeploy.</p><p><small>Dec <var>24</var>, <var>06:27</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>24</var>, <var>05:59</var> UTC</small><br /><strong>Identified</strong> - We have identified the root cause. Continuing to work on this.</p><p><small>Dec <var>24</var>, <var>05:08</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports of elevated 405 responses for PATCH requests to Middleware.</p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Dec 2023 07:01:17 +0000</pubDate>
 <pubDate>Sun, 24 Dec 2023 07:01:17 +0000</pubDate>
 </item>
 <item>
@@ -204,10 +173,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/chv6qxv3szlm</link>
 <guid>https://www.vercel-status.com/incidents/chv6qxv3szlm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>18:38</var> UTC</small><br /><strong>Resolved</strong> - A solution has been implemented. For affected users, please redeploy your project(s) to ensure the fix has been properly applied.</p><p><small>Dec <var>21</var>, <var>18:04</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>21</var>, <var>16:51</var> UTC</small><br /><strong>Investigating</strong> - We have noticed an uptick in OG image-related errors for some users and are currently investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 18:38:55 +0000</pubDate>
 <pubDate>Thu, 21 Dec 2023 18:38:55 +0000</pubDate>
 </item>
 <item>
@@ -215,10 +182,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/8s89twjp1r3y</link>
 <guid>https://www.vercel-status.com/incidents/8s89twjp1r3y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>04:34</var> UTC</small><br /><strong>Resolved</strong> - Intermittent errors of INTERNAL_SERVER_ERROR in our Sydney data centre (syd1) were identified at 22:46 UTC on December 20, 2023 (09:46 AEDT on December 21, 2023), and resolved by 23:13 UTC on December 20, 2023 (10:13 AEDT on December 21, 2023).<br /><br />We are conducting an investigation to determine the root cause and prevent future occurrences.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 04:34:45 +0000</pubDate>
 <pubDate>Thu, 21 Dec 2023 04:34:45 +0000</pubDate>
 </item>
 <item>
@@ -226,10 +191,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/d5pdfgsphds7</link>
 <guid>https://www.vercel-status.com/incidents/d5pdfgsphds7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>23:15</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>15</var>, <var>22:04</var> UTC</small><br /><strong>Update</strong> - We are currently investigating; this appears to have started around 21:34 UTC.</p><p><small>Dec <var>15</var>, <var>22:04</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 23:15:54 +0000</pubDate>
 <pubDate>Fri, 15 Dec 2023 23:15:54 +0000</pubDate>
 </item>
 <item>
@@ -237,10 +200,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/cyx0w77r6cx2</link>
 <guid>https://www.vercel-status.com/incidents/cyx0w77r6cx2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>05:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>04:56</var> UTC</small><br /><strong>Monitoring</strong> - At 2023-12-13 01:31 UTC one of the UI components which displays Edge Config Store data within the Vercel UI failed to load. A fix was rolled out at 2023-12-13 04:56 UTC and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 05:35:14 +0000</pubDate>
 <pubDate>Wed, 13 Dec 2023 05:35:14 +0000</pubDate>
 </item>
 <item>
@@ -248,10 +209,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/3dfzv0qgks3y</link>
 <guid>https://www.vercel-status.com/incidents/3dfzv0qgks3y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>21:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>12</var>, <var>17:48</var> UTC</small><br /><strong>Monitoring</strong> - All systems are normal; our upstream provider, Neon, has resolved the issue and their service has now recovered. We are continuing to monitor.</p><p><small>Dec <var>12</var>, <var>17:07</var> UTC</small><br /><strong>Investigating</strong> - Our upstream provider Neon is investigating reports of degraded performance. This affects Postgres database operations in all regions.<br /><br />The link to the incident via Neon: https://neonstatus.com/incidents/01HHFA8Z7KB52MNQMSDDDFBWM8</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 21:30:51 +0000</pubDate>
 <pubDate>Tue, 12 Dec 2023 21:30:51 +0000</pubDate>
 </item>
 <item>
@@ -259,10 +218,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/rwljfx6qrhw0</link>
 <guid>https://www.vercel-status.com/incidents/rwljfx6qrhw0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>05:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>12</var>, <var>04:34</var> UTC</small><br /><strong>Monitoring</strong> - Our upstream provider rolled out a fix. EDGE_FUNCTION_INVOCATION_TIMEOUT rates are down. We are continuing to monitor the results.</p><p><small>Dec <var>12</var>, <var>03:40</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified. We are working with our upstream provider to resolve this. We will provide updates as soon as they become available.</p><p><small>Dec <var>12</var>, <var>03:36</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated EDGE_FUNCTION_INVOCATION_TIMEOUT errors. We are working with our upstream provider to resolve this. We will provide updates as soon as they become available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 05:02:37 +0000</pubDate>
 <pubDate>Tue, 12 Dec 2023 05:02:37 +0000</pubDate>
 </item>
 <item>
@@ -270,10 +227,8 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/r5g9zq84v4rl</link>
 <guid>https://www.vercel-status.com/incidents/r5g9zq84v4rl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>04:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>16:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 8</var>, <var>16:01</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 8</var>, <var>13:53</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 8</var>, <var>12:46</var> UTC</small><br /><strong>Investigating</strong> - We're investigating reports of customers not able to access newly created KV stores. Existing KV stores are working fine.</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 04:34:19 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 04:34:19 +0000</pubDate>
 </item>
 <item>
@@ -281,12 +236,9 @@ GitHub is experiencing an incident that is causing delays in new deployments tri
 <link>https://www.vercel-status.com/incidents/sfrbn1scg6wn</link>
 <guid>https://www.vercel-status.com/incidents/sfrbn1scg6wn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>17:47</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>17:16</var> UTC</small><br /><strong>Monitoring</strong> - We are observing increased latencies in performing TLS handshakes in various edge network regions. The team has identified the root cause and is monitoring the resolution.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Dec 2023 17:47:44 +0000</pubDate>
-<pubDate>Thu, 07 Dec 2023 17:47:44 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
