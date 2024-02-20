@@ -4,17 +4,17 @@
 <title>Box Status - Incident History</title>
 <link>https://status.box.com</link>
 
+
 <item>
 <title>[Minor] Item Counts Not Updating</title>
 <link>https://status.box.com/incidents/bwwdlfwmp513</link>
 <guid>https://status.box.com/incidents/bwwdlfwmp513</guid>
 <content:encoded><![CDATA[
-<div> 监控，解决，文件和文件夹计数，Box服务，更新<br>
-<br>
+<div> 监控，解决，文件和文件夹计数，Box服务，更新<br />
+<br />
 Box服务在2月19日出现了文件和文件夹计数不更新的问题，经过调查后发现这只影响了外观计数字段，不影响使用和访问任何Box功能或服务。他们的团队已经采取措施来解决这个问题，并且正在看到文件和文件夹计数的改善。尽管客户应该会逐渐看到改善，但需要一些时间才能使所有计数都是最新的。在进一步监测后，他们认为这个问题现在已经解决了，并恢复了Box服务的全部功能。如果您继续遇到任何问题，请联系Box支持团队。 <div>
 <p><small>Feb <var>19</var>, <var>18:24</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Feb <var>19</var>, <var>11:09</var> PST</small><br /><strong>Update</strong> - Our team is continuing to monitor the progress of File and Folder counts. While customers should continue to see gradual improvement, it will take some time for all counts to be up to date. We will provide another update once the issue is considered fully resolved or if the status of the issue changes.</p><p><small>Feb <var>19</var>, <var>10:44</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and is seeing improvement in file and folder counts. Customers should begin to see gradual improvement with counts updating across Box. We are continuing to monitor for any additional impact and to ensure the issue will be fully resolved by the steps we have taken.</p><p><small>Feb <var>19</var>, <var>09:59</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with File and Folder counts not updating. This issue only affects the aesthetic count fields. It does not affect the ability to use or access any Box features or services. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 18:24:08 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 18:24:08 -0800</pubDate>
 </item>
 <item>
@@ -22,13 +22,12 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/ckl55ldh27t1</link>
 <guid>https://status.box.com/incidents/ckl55ldh27t1</guid>
 <content:encoded><![CDATA[
-<div> 登录问题，解决，监控，识别，调查<br>
-<br>
+<div> 登录问题，解决，监控，识别，调查<br />
+<br />
 总结: 
 2月14日，Box登录出现问题，经过团队调查和监控后，确定了问题的根源并采取了解决措施。他们已经恢复了登录功能，并表示如有其他问题可以联系支持部门。 <div>
 <p><small>Feb <var>14</var>, <var>12:36</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. All logins have has been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Feb <var>14</var>, <var>12:23</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and the login service should be returning to full functionality. We are continuing to monitor for any additional impact.</p><p><small>Feb <var>14</var>, <var>11:53</var> PST</small><br /><strong>Identified</strong> - Our team has identified the underlying cause of this issue and is working to take remediating steps. We will provide additional updates as they become available.</p><p><small>Feb <var>14</var>, <var>11:22</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Logins within Box. Users attempting to log in to Box  may see errors or timeouts. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 12:36:51 -0800</pubDate>
 <pubDate>Wed, 14 Feb 2024 12:36:51 -0800</pubDate>
 </item>
 <item>
@@ -36,10 +35,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/t338nyx801f7</link>
 <guid>https://status.box.com/incidents/t338nyx801f7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>16:16</var> PST</small><br /><strong>Resolved</strong> - From approximately 3:37 PM to 3:47 PM US Pacific time, we had an issue impacting uploads, downloads and Public API. Our systems automatically detected and corrected the underlying issue. There is no current impact and no further updates will be provided here. If you are currently seeing any issues, please let us know at https://support.box.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 16:16:21 -0800</pubDate>
 <pubDate>Mon, 22 Jan 2024 16:16:21 -0800</pubDate>
 </item>
 <item>
@@ -47,10 +44,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/84m9ty9g8wqt</link>
 <guid>https://status.box.com/incidents/84m9ty9g8wqt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>05:08</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Service has been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Jan <var>18</var>, <var>04:11</var> PST</small><br /><strong>Monitoring</strong> - We are seeing improvement across all Microsoft Office Integration services. We are continuing to monitor for any additional impact.</p><p><small>Jan <var>18</var>, <var>03:43</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Microsoft Office integration. Users may see errors using Microsoft Office integrations. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 05:08:53 -0800</pubDate>
 <pubDate>Thu, 18 Jan 2024 05:08:53 -0800</pubDate>
 </item>
 <item>
@@ -58,10 +53,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/hj7155sn4xj4</link>
 <guid>https://status.box.com/incidents/hj7155sn4xj4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>12:57</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. All services have been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Jan <var> 9</var>, <var>12:19</var> PST</small><br /><strong>Update</strong> - Our team has taken steps to remediate this issue and all services should be returned to full functionality. We are continuing to monitor for any additional impact.</p><p><small>Jan <var> 9</var>, <var>12:11</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and we are seeing improvement across all Box Services. We are continuing to monitor for any additional impact as services return back to full functionality.</p><p><small>Jan <var> 9</var>, <var>11:50</var> PST</small><br /><strong>Update</strong> - Our team continues remediation efforts to restore full functionality to affected services. We will provide additional updates as they become available.</p><p><small>Jan <var> 9</var>, <var>11:30</var> PST</small><br /><strong>Identified</strong> - Our team has identified the underlying cause of this issue and is working to take remediating steps. You may begin seeing improvement at this time. We will provide additional updates as they become available.</p><p><small>Jan <var> 9</var>, <var>11:20</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Logins, Uploads, Downloads, All Files page, API calls. Users attempting to use these services may see errors or timeouts. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 12:57:41 -0800</pubDate>
 <pubDate>Tue, 09 Jan 2024 12:57:41 -0800</pubDate>
 </item>
 <item>
@@ -69,10 +62,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/mf6f5tswdqb8</link>
 <guid>https://status.box.com/incidents/mf6f5tswdqb8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>17:08</var> PST</small><br /><strong>Resolved</strong> - Box's FTP Server has been restored to full functionality. All Box Services are now operating as expected, therefore, this incident is considered resolved. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Dec <var>15</var>, <var>15:08</var> PST</small><br /><strong>Update</strong> - We are continuing to see errors subside for users connecting to Box's FTP Server. We are still actively monitoring for additional impact as services return back to full functionality.</p><p><small>Dec <var>15</var>, <var>14:00</var> PST</small><br /><strong>Update</strong> - After further monitoring, our teams identified some impact for users attempting to connect to Box's FTP Server which were resulting in errors or failed logins.  Our teams have taken steps to swiftly remediate these errors and we are already seeing improvement. We are continuing to monitor for additional impact as services return back to full functionality.</p><p><small>Dec <var>15</var>, <var>13:12</var> PST</small><br /><strong>Update</strong> - All Box Services should now be restored. We are still continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>12:06</var> PST</small><br /><strong>Update</strong> - All Box Services should now be restored. We are continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>11:02</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>10:25</var> PST</small><br /><strong>Update</strong> - Box Services continue to show rapid improvement, but users may experience some latency as services continue to restore back to full functionality. We are continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>09:48</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and seeing improvement across all Box Services. We are continuing to monitor for any additional impact as services return back to full functionality.</p><p><small>Dec <var>15</var>, <var>09:27</var> PST</small><br /><strong>Identified</strong> - We have identified the underlying cause of this issue and our teams continue to work towards a full restoration of services as soon as possible. We will provide additional updates as they become available.</p><p><small>Dec <var>15</var>, <var>09:07</var> PST</small><br /><strong>Update</strong> - Service restoration efforts are still ongoing. We will provide additional information as it becomes available.</p><p><small>Dec <var>15</var>, <var>08:36</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue. Box services remain completely inaccessible, but our teams are actively working to get services restored as soon as possible. We will provide additional information as it becomes available.</p><p><small>Dec <var>15</var>, <var>07:31</var> PST</small><br /><strong>Update</strong> - Our team is continuing to investigate and have confirmed this issue is impacting all Box Services. Users attempting to use Box may see errors, timeouts, but for the most part services will be completely inaccessible. We will provide additional information as it becomes available.</p><p><small>Dec <var>15</var>, <var>07:14</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>15</var>, <var>06:38</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Logins, Uploads, Downloads, All Files page, API calls. Users attempting to use these services may see errors or timeouts. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 17:08:29 -0800</pubDate>
 <pubDate>Fri, 15 Dec 2023 17:08:29 -0800</pubDate>
 </item>
 <item>
@@ -80,10 +71,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/mpxhzbg316mn</link>
 <guid>https://status.box.com/incidents/mpxhzbg316mn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>06:35</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Service has been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Dec <var>15</var>, <var>05:34</var> PST</small><br /><strong>Update</strong> - Our team has taken steps to remediate this issue and our services should be returned to full functionality. We are continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>05:22</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and is seeing improvement for the services that have been affected. We are continuing to monitor for any additional impact.</p><p><small>Dec <var>15</var>, <var>05:12</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue that could affect All Files page, Downloads, API calls. Users may see errors when attempting to preview files or share files. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 06:35:05 -0800</pubDate>
 <pubDate>Fri, 15 Dec 2023 06:35:05 -0800</pubDate>
 </item>
 <item>
@@ -91,10 +80,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/t0wg93z652hv</link>
 <guid>https://status.box.com/incidents/t0wg93z652hv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>10:45</var> PST</small><br /><strong>Resolved</strong> - From approximately 10:45 AM to 10:50 AM US Pacific time, we had an issue impacting Logins to Box. Our systems automatically detected and corrected the underlying issue. There is no current impact and no further updates will be provided here. If you are currently seeing any issues, please let us know at https://support.box.com</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 10:45:00 -0800</pubDate>
 <pubDate>Wed, 13 Dec 2023 10:45:00 -0800</pubDate>
 </item>
 <item>
@@ -102,10 +89,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/4lbs6ry9jk01</link>
 <guid>https://status.box.com/incidents/4lbs6ry9jk01</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 6</var>, <var>10:56</var> PST</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box logins has been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Nov <var> 6</var>, <var>10:07</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and are seeing improvement for Box logins. We are continuing to monitor for any additional impact.</p><p><small>Nov <var> 6</var>, <var>09:50</var> PST</small><br /><strong>Update</strong> - Our team continues remediation efforts to restore full functionality to Box logins. We will provide additional updates as they become available.</p><p><small>Nov <var> 6</var>, <var>08:19</var> PST</small><br /><strong>Identified</strong> - Our team has identified the underlying cause of this issue and is working to take remediating steps. We will provide additional updates as they become available.</p><p><small>Nov <var> 6</var>, <var>07:38</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 6</var>, <var>07:29</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue in which user's are encountering difficulties when logging into Box. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 10:56:01 -0800</pubDate>
 <pubDate>Mon, 06 Nov 2023 10:56:01 -0800</pubDate>
 </item>
 <item>
@@ -113,10 +98,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/4wmkn9s7xj4p</link>
 <guid>https://status.box.com/incidents/4wmkn9s7xj4p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>19:41</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box for Salesforce has been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Nov <var> 3</var>, <var>19:31</var> PDT</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and is currently monitoring the results.</p><p><small>Nov <var> 3</var>, <var>18:26</var> PDT</small><br /><strong>Update</strong> - Our team is in the process of deploying a change to help remediate this issue. We will continue to provide updates as they become available.</p><p><small>Nov <var> 3</var>, <var>16:45</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Nov <var> 3</var>, <var>15:35</var> PDT</small><br /><strong>Identified</strong> - Our team continues remediation efforts to restore full functionality to Box for Salesforce. We will provide additional updates as they become available.</p><p><small>Nov <var> 3</var>, <var>15:06</var> PDT</small><br /><strong>Update</strong> - Our team has identified the underlying cause of this issue affecting Box for Salesforce and is working to take remediating steps. We will provide additional updates as they become available.</p><p><small>Nov <var> 3</var>, <var>14:57</var> PDT</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Box for Salesforce. Users may see errors using or logging into Box for Salesforce. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 19:41:19 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 19:41:19 -0700</pubDate>
 </item>
 <item>
@@ -124,10 +107,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/4103d5cqw77d</link>
 <guid>https://status.box.com/incidents/4103d5cqw77d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>17:26</var> PDT</small><br /><strong>Resolved</strong> - Teams have completed remediating efforts and confirmed email notifications are now being sent out correctly. After further monitoring, this incident is now considered resolved. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Nov <var> 3</var>, <var>17:15</var> PDT</small><br /><strong>Monitoring</strong> - Our metrics are indicating some improvement and email notifications have begun to be processed.</p><p><small>Nov <var> 3</var>, <var>17:11</var> PDT</small><br /><strong>Investigating</strong> - Our team is currently investigating an issue with email notifications. Users may experience issues receiving email notifications regarding collaborations. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 17:26:17 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 17:26:17 -0700</pubDate>
 </item>
 <item>
@@ -135,10 +116,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/08cft3jhvnnr</link>
 <guid>https://status.box.com/incidents/08cft3jhvnnr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>12</var>, <var>14:45</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>12</var>, <var>14:31</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>12</var>, <var>14:24</var> PDT</small><br /><strong>Scheduled</strong> - To enhance our email deliverability, we are changing the FROM address on status.box.com email notifications to noreply@box.com instead of noreply@statuspage.io. Customers may want to review and adjust any email filters or policies in place for these email notifications.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 Oct 2023 14:45:01 -0700</pubDate>
 <pubDate>Thu, 12 Oct 2023 14:45:01 -0700</pubDate>
 </item>
 <item>
@@ -146,10 +125,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/j0g48mrwx4py</link>
 <guid>https://status.box.com/incidents/j0g48mrwx4py</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>10</var>, <var>19:07</var> PDT</small><br /><strong>Resolved</strong> - Teams have isolated the cause of the search issues and have completed steps to remediate further impact. A reindexing job was kicked off and will complete in the next 24 hours in which any remaining missing files will be processed. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Oct <var>10</var>, <var>17:54</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue. As of now, impact is not seen to be widespread. Teams are working to further identify the level of impact and have implemented jobs to assist with discoverability. Further updates will be posted when more information becomes available.</p><p><small>Oct <var>10</var>, <var>16:40</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var>10</var>, <var>15:46</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var>10</var>, <var>14:47</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var>10</var>, <var>14:47</var> PDT</small><br /><strong>Investigating</strong> - We are investigating an ongoing issue affecting Search functionality inclusive of Metadata template search functionality. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 10 Oct 2023 19:07:36 -0700</pubDate>
 <pubDate>Tue, 10 Oct 2023 19:07:36 -0700</pubDate>
 </item>
 <item>
@@ -157,10 +134,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/lgwplqbbfycb</link>
 <guid>https://status.box.com/incidents/lgwplqbbfycb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 6</var>, <var>10:55</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. All Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Oct <var> 6</var>, <var>10:49</var> PDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Oct <var> 6</var>, <var>10:49</var> PDT</small><br /><strong>Monitoring</strong> - Users may experience issues when attempting to access or use Box. Our team has taken remediating action and is currently monitoring for any additional impact. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 06 Oct 2023 10:55:04 -0700</pubDate>
 <pubDate>Fri, 06 Oct 2023 10:55:04 -0700</pubDate>
 </item>
 <item>
@@ -168,10 +143,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/2myythq0ft4l</link>
 <guid>https://status.box.com/incidents/2myythq0ft4l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 2</var>, <var>11:56</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Oct <var> 2</var>, <var>10:43</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are beginning to see recovery in performance for the affected services. We are continuing to monitor impact to services at this time.</p><p><small>Oct <var> 2</var>, <var>10:21</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var> 2</var>, <var>10:15</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an ongoing issue affecting uploads, downloads, Previews, Box Sign, Box Notes and SSO Logins for the Web Application. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 02 Oct 2023 11:56:27 -0700</pubDate>
 <pubDate>Mon, 02 Oct 2023 11:56:27 -0700</pubDate>
 </item>
 <item>
@@ -179,10 +152,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/k66wbrwbss20</link>
 <guid>https://status.box.com/incidents/k66wbrwbss20</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>28</var>, <var>04:55</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Sep <var>28</var>, <var>04:33</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are currently monitoring the results. Customers may experience slowness while interacting with Box, as the backlog is getting cleared.</p><p><small>Sep <var>28</var>, <var>03:29</var> PDT</small><br /><strong>Identified</strong> - A fix has been implemented and we are currently monitoring the results. Customers may experience slowness while interacting with Box.</p><p><small>Sep <var>28</var>, <var>02:24</var> PDT</small><br /><strong>Update</strong> - We are still continuing to investigate this issue, as it is affecting Login (Web/SSO), All Files Page, Uploads, Downloads, Content API, Box Notes, Box Sign and Box Mobile. Users may see errors or slowness with the affected services.  We will provide more information as soon as it is available.</p><p><small>Sep <var>28</var>, <var>01:33</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue, as it is affecting Login (Web/SSO), All Files Page, Uploads, Downloads, Content API, Box Notes, Box Sign and Box Mobile. Users may see errors or slowness with the affected services.  We will provide more information as soon as it is available.</p><p><small>Sep <var>28</var>, <var>01:16</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue in regards to login issues on Box. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Sep 2023 04:55:39 -0700</pubDate>
 <pubDate>Thu, 28 Sep 2023 04:55:39 -0700</pubDate>
 </item>
 <item>
@@ -190,10 +161,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/93cs3md2y96f</link>
 <guid>https://status.box.com/incidents/93cs3md2y96f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>22</var>, <var>10:40</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. box.com has been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Sep <var>22</var>, <var>10:34</var> PDT</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and is seeing improvement when accessing box.com. We are continuing to monitor for any additional impact.</p><p><small>Sep <var>22</var>, <var>10:33</var> PDT</small><br /><strong>Identified</strong> - Our team has identified the underlying cause of this issue and is working to take remediating steps. We will provide additional updates as they become available.</p><p><small>Sep <var>22</var>, <var>10:30</var> PDT</small><br /><strong>Investigating</strong> - Our team is investigating an issue with accessing box.com. Users may see errors when attempting to access the box.com URL. Users can avoid this by accessing app.box.com. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 10:40:00 -0700</pubDate>
 <pubDate>Fri, 22 Sep 2023 10:40:00 -0700</pubDate>
 </item>
 <item>
@@ -201,10 +170,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/78nr2d2gbm1s</link>
 <guid>https://status.box.com/incidents/78nr2d2gbm1s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>20</var>, <var>17:02</var> PDT</small><br /><strong>Completed</strong> - This maintenance is now complete. Please contact Box Support via https://support.box.com if you experience any issues.</p><p><small>Sep <var>18</var>, <var>10:03</var> PDT</small><br /><strong>In progress</strong> - Our planned maintenance to upgrade our Single Sign On (SSO) cluster is now In Progress. This is expected to complete by September 20th, 2023 at 5:00 PM Pacific Daylight Time. We do not anticipate adverse user impact to SSO logins from this activity. We will also closely monitor the status of the SSO service throughout the maintenance and immediately thereafter.<br /><br />Any additional updates will continue to be shared through our status site until this maintenance is complete. If you do experience any issues, please contact Box Support via https://support.box.com.</p><p><small>Sep <var> 8</var>, <var>15:38</var> PDT</small><br /><strong>Scheduled</strong> - Starting on Monday, September 18th, 2023 Box will perform a third planned maintenance to upgrade our Single Sign On (SSO) cluster. The maintenance will begin at 10:00 AM Pacific Daylight Time and is expected to complete by September 20th, 2023 at 5:00 PM Pacific Daylight Time.<br /><br />During this maintenance window, the Self-Service SSO Setup, Signing Certificate Manager, and SSO Test Mode/Required toggles in the Box Admin Console will not be available. If you need to implement a change to your SSO connection or certificate during this time, please reach out to our support team via https://support.box.com.<br /><br />We do not anticipate adverse user impact to SSO logins from this activity, and, to mitigate potential risk, we have built a detailed test and execution plan. We will also closely monitor the status of the SSO service throughout the maintenance and immediately thereafter. Updates on the maintenance as well as any changes in status will be shared through our status site, https://status.box.com.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Sep 2023 17:02:06 -0700</pubDate>
 <pubDate>Wed, 20 Sep 2023 17:02:06 -0700</pubDate>
 </item>
 <item>
@@ -212,10 +179,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/yzg77dddd08n</link>
 <guid>https://status.box.com/incidents/yzg77dddd08n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>18</var>, <var>07:53</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved at 7:38am US Pacific Time. Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Sep <var>18</var>, <var>07:15</var> PDT</small><br /><strong>Monitoring</strong> - We are Monitoring an issue affecting the loading of Box Notes. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Sep 2023 07:53:23 -0700</pubDate>
 <pubDate>Mon, 18 Sep 2023 07:53:23 -0700</pubDate>
 </item>
 <item>
@@ -223,10 +188,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/n3bzjknxk58l</link>
 <guid>https://status.box.com/incidents/n3bzjknxk58l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>13</var>, <var>22:40</var> PDT</small><br /><strong>Resolved</strong> - After further monitoring, this incident is now considered resolved. Box Relay Services have been restored to full functionality. If you continue to experience any issues, please contact Box Support at https://support.box.com.</p><p><small>Sep <var>13</var>, <var>18:54</var> PDT</small><br /><strong>Update</strong> - Our team has taken further steps to remediate this issue. Existing Relay workflows will continue to be processed, however users will be unable to create any new scheduled workflows until further notice. We will continue to provide updates as they become available.</p><p><small>Sep <var>13</var>, <var>16:39</var> PDT</small><br /><strong>Update</strong> - Our team is continuing to monitor for any additional impact. We will continue to provide updates as they become available.</p><p><small>Sep <var>13</var>, <var>13:50</var> PDT</small><br /><strong>Update</strong> - Our team is continuing to monitor for any additional impact. We will continue to provide updates as they become available.</p><p><small>Sep <var>13</var>, <var>10:03</var> PDT</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and we are starting to see improvements to Relay. We are continuing to monitor for any additional impact.</p><p><small>Sep <var>13</var>, <var>09:28</var> PDT</small><br /><strong>Identified</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>13</var>, <var>05:42</var> PDT</small><br /><strong>Update</strong> - Our team are still investigating an issue regarding Box Relay. Users may observe delays in their Box Relay workflows. We will provide additional information as it becomes available.</p><p><small>Sep <var>13</var>, <var>04:52</var> PDT</small><br /><strong>Investigating</strong> - Our team is investigating an issue regarding Box Relay. Users may observe delays in their Box Relay workflows. We will provide additional information as it becomes available.</p><p><small>Sep <var>13</var>, <var>03:53</var> PDT</small><br /><strong>Identified</strong> - Users may observe delays in their Box Relay workflows. We're expecting this to be resolved within the next three hours.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Sep 2023 22:40:33 -0700</pubDate>
 <pubDate>Wed, 13 Sep 2023 22:40:33 -0700</pubDate>
 </item>
 <item>
@@ -234,10 +197,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/hlb90jx53dzp</link>
 <guid>https://status.box.com/incidents/hlb90jx53dzp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>12</var>, <var>18:30</var> PDT</small><br /><strong>Resolved</strong> - From approximately 6:48 PM to 9:40 PM US Pacific Time we had in impact affecting customer email notifications. During this time customers may have experienced delays in receiving email notifications from Box. Our systems automatically detected and corrected the underlying issue. There is no current impact and no further updates will be provided here. If you are currently seeing any issues, please let us know at https://support.box.com.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Sep 2023 18:30:00 -0700</pubDate>
 <pubDate>Tue, 12 Sep 2023 18:30:00 -0700</pubDate>
 </item>
 <item>
@@ -245,10 +206,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/xvk4hv00f99t</link>
 <guid>https://status.box.com/incidents/xvk4hv00f99t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>12</var>, <var>03:29</var> PDT</small><br /><strong>Resolved</strong> - No further impact has been observed and we are considering this issue to be resolved. If you are still experiencing any issues, please let us know at https://support.box.com.</p><p><small>Sep <var>12</var>, <var>02:39</var> PDT</small><br /><strong>Monitoring</strong> - Between 02:00 AM and 02:20 AM PDT on September 12th 2023, some customers may have experienced failures when using the Public API. No further impact has been observed and we are currently monitoring the issue. If you are still experiencing any issues, please let us know at https://support.box.com.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Sep 2023 03:29:29 -0700</pubDate>
 <pubDate>Tue, 12 Sep 2023 03:29:29 -0700</pubDate>
 </item>
 <item>
@@ -256,10 +215,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/1qp655jcvz7n</link>
 <guid>https://status.box.com/incidents/1qp655jcvz7n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 8</var>, <var>15:34</var> PDT</small><br /><strong>Completed</strong> - This maintenance is now complete. Please contact Box Support via https://support.box.com if you experience any issues.</p><p><small>Sep <var> 6</var>, <var>10:24</var> PDT</small><br /><strong>In progress</strong> - Our planned maintenance to upgrade our Single Sign On (SSO) cluster is now In Progress. This is expected to complete by September 8th, 2023 at 5:00 PM Pacific Daylight Time. We do not anticipate adverse user impact to SSO logins from this activity. We will also closely monitor the status of the SSO service throughout the maintenance and immediately thereafter.<br /><br />Any additional updates will continue to be shared through our status site until this maintenance is complete. If you do experience any issues, please contact Box Support via https://support.box.com.</p><p><small>Aug <var>22</var>, <var>13:58</var> PDT</small><br /><strong>Scheduled</strong> - Starting on Wednesday, September 6th, 2023 Box will perform a second planned maintenance to upgrade our Single Sign On (SSO) cluster. The maintenance will begin at 10:00 AM Pacific Daylight Time and is expected to complete by September 8th, 2023 at 5:00 PM Pacific Daylight Time.<br /><br />During this maintenance window, the Self-Service SSO Setup, Signing Certificate Manager, and SSO Test Mode/Required toggles in the Box Admin Console will not be available. If you need to implement a change to your SSO connection or certificate during this time, please reach out to our support team via https://support.box.com.<br /><br />We do not anticipate adverse user impact to SSO logins from this activity, and, to mitigate potential risk, we have built a detailed test and execution plan. We will also closely monitor the status of the SSO service throughout the maintenance and immediately thereafter. Updates on the maintenance as well as any changes in status will be shared through our status site, https://status.box.com.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Sep 2023 15:34:44 -0700</pubDate>
 <pubDate>Fri, 08 Sep 2023 15:34:44 -0700</pubDate>
 </item>
 <item>
@@ -267,10 +224,8 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/k12n1rq56dlr</link>
 <guid>https://status.box.com/incidents/k12n1rq56dlr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 8</var>, <var>12:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var> 6</var>, <var>08:01</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var> 1</var>, <var>12:30</var> PDT</small><br /><strong>Scheduled</strong> - Starting on September 6th, Box will perform a planned maintenance to upgrade the Box FTP Server. The maintenance will occur over a three day period from September 6th through September 8th, for three hours each day, beginning at 8:00AM Pacific Daylight Time to 11:00AM Pacific Daylight Time each day. <br />During this maintenance window, we do not anticipate a degradation of performance or adverse user impact. To mitigate potential risk, we have built a detailed test and execution plan. We will also closely monitor the status of the Box FTP Server throughout the maintenance and immediately thereafter. Updates on the maintenance as well as any changes in status will be shared through our status site, https://status.box.com.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Sep 2023 12:00:17 -0700</pubDate>
 <pubDate>Fri, 08 Sep 2023 12:00:17 -0700</pubDate>
 </item>
 <item>
@@ -278,12 +233,9 @@ Box服务在2月19日出现了文件和文件夹计数不更新的问题，经�
 <link>https://status.box.com/incidents/sp676hwlhj9s</link>
 <guid>https://status.box.com/incidents/sp676hwlhj9s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 6</var>, <var>21:24</var> PDT</small><br /><strong>Resolved</strong> - A fix has been implemented and after monitoring the results, this incident is now considered resolved. Box services have been restored to full functionality. Please contact Box Support at https://support.box.com/ if you continue to experience any issues.</p><p><small>Sep <var> 6</var>, <var>21:18</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Sep <var> 6</var>, <var>21:05</var> PDT</small><br /><strong>Investigating</strong> - We are investigating an ongoing issue affecting SSO logins. Users may experience login failures. We will provide more information as soon as it is available.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Sep 2023 21:24:48 -0700</pubDate>
-<pubDate>Wed, 06 Sep 2023 21:24:48 -0700</pubDate>
 </item>
-
 </channel>
 </rss>
