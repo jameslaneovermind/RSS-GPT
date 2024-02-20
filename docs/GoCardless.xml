@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>GoCardless Status - Incident History</title>
+<link>https://www.gocardless-status.com</link>
+
+<item>
+<title>Scheduled downtime of Instant Bank Pay and Verified Mandates</title>
+<link>https://www.gocardless-status.com/incidents/mg5v942t84lb</link>
+<guid>https://www.gocardless-status.com/incidents/mg5v942t84lb</guid>
+<content:encoded><![CDATA[
+<div> Completed, scheduled maintenance, migration, Amazon Web Services, Google Cloud Platform <br>
+<br>
+The scheduled maintenance to migrate functionality from Amazon Web Services to Google Cloud Platform has been completed. During the 30-minute migration, open banking capabilities for Account Information Services and Payment Initiation Services were unavailable. This affected the Instant Bank Pay and Verified Mandates products. The purpose of the migration was to strengthen the infrastructure for increased efficiency, scalability, and reliability. No action was required from merchants using the products, and it was noted that very few payments were facilitated during the maintenance window. The company appreciates the understanding of its clients during this time.<br>
+Summary: <div>
+<p><small>Feb <var>20</var>, <var>05:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>03:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>14:58</var> GMT</small><br /><strong>Scheduled</strong> - For 30 minutes between 03:00-05:00 UTC, we will be migrating part of our functionality from Amazon Web Services to Google Cloud Platform. During these 30 minutes our open banking capabilities for Account Information Services and Payment Initiation Services will be unavailable. These power our Instant Bank Pay and Verified Mandates products.<br /><br />This migration will strengthen our infrastructure to increase efficiency, scalability and reliability. No action is required by any merchants using these products and our analysis suggests that we facilitate very few payments during this window. We appreciate your understanding during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 05:00:57 +0000</pubDate>
+<pubDate>Tue, 20 Feb 2024 05:00:57 +0000</pubDate>
+</item>
+<item>
+<title>API, Payment Pages and Dashboard Outage</title>
+<link>https://www.gocardless-status.com/incidents/pt0kvpq33x74</link>
+<guid>https://www.gocardless-status.com/incidents/pt0kvpq33x74</guid>
+<content:encoded><![CDATA[
+<div> Investigating, Instant Bank Payments, delays, engineers, updates
+Summary:
+- Instant Bank Payments were delayed on February 18th between 2:30 pm and 3:40 pm.
+- The engineers are currently investigating the issue.
+- A resolution for the performance degradation has been identified and rectified.
+- The company is evaluating the impact and will proactively communicate with affected customers as necessary.
+- No additional disruption is expected. <br><br>Summary: <div>
+<p><small>Feb <var>19</var>, <var>19:33</var> GMT</small><br /><strong>Resolved</strong> - We have identified and rectified the root cause of the performance degradation. We are currently evaluating the impact and will proactively communicate with any affected customers as necessary.</p><p><small>Feb <var>19</var>, <var>15:45</var> GMT</small><br /><strong>Investigating</strong> - We are currently experiencing delays on our Instant Bank Payments<br /><br />Our engineers are investigating and we'll provide updates here.</p><p><small>Feb <var>19</var>, <var>10:56</var> GMT</small><br /><strong>Monitoring</strong> - Instant Bank Payments were delayed on the 18th of February between 2:30 pm and 3:40 pm.<br /><br />We do not expect any additional disruption.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Feb 2024 19:33:42 +0000</pubDate>
+<pubDate>Mon, 19 Feb 2024 19:33:42 +0000</pubDate>
+</item>
+<item>
+<title>Issues with IBP processing</title>
+<link>https://www.gocardless-status.com/incidents/rd583rcvk6m7</link>
+<guid>https://www.gocardless-status.com/incidents/rd583rcvk6m7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 6</var>, <var>19:53</var> GMT</small><br /><strong>Resolved</strong> - We have confirmed IBP payments are operating as expected.</p><p><small>Feb <var> 6</var>, <var>18:41</var> GMT</small><br /><strong>Monitoring</strong> - We have successfully implemented a fix and reprocessed payments stuck in the submitted state. <br /><br />We will continue to monitor to ensure all is working as expected.</p><p><small>Feb <var> 6</var>, <var>17:40</var> GMT</small><br /><strong>Identified</strong> - We've identified the cause of the issue and are working on implementing the solution.</p><p><small>Feb <var> 6</var>, <var>14:27</var> GMT</small><br /><strong>Investigating</strong> - We have identified an issue with Instant Bank Payments across some UK banks.<br /><br />Our engineering teams are identifying impacted payments and working on a solution.</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 19:53:54 +0000</pubDate>
+<pubDate>Tue, 06 Feb 2024 19:53:54 +0000</pubDate>
+</item>
+<item>
+<title>Users with SMS MFA enabled unable to log in</title>
+<link>https://www.gocardless-status.com/incidents/xl9zc05xfwt9</link>
+<guid>https://www.gocardless-status.com/incidents/xl9zc05xfwt9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>31</var>, <var>08:49</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>08:17</var> GMT</small><br /><strong>Monitoring</strong> - Our engineers have implemented the fix and confirmed SMS messages are being sent again. Those with MFA enabled should now receive their messages again and be able to login.<br /><br />We will continue to monitor to ensure there are no further issues.</p><p><small>Jan <var>31</var>, <var>07:30</var> GMT</small><br /><strong>Investigating</strong> - There is an issue with a third party service which is preventing SMS messages for MFA being sent. This is causing merchants who have MFA enabled and who have selected SMS as the MFA method to receive a 503 error when trying to log in.<br />We are investigating the cause of this issue and have identified the problem. Engineers are working to resolve this as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 08:49:19 +0000</pubDate>
+<pubDate>Wed, 31 Jan 2024 08:49:19 +0000</pubDate>
+</item>
+<item>
+<title>Degraded dashboard performance</title>
+<link>https://www.gocardless-status.com/incidents/y65jhymz0cpp</link>
+<guid>https://www.gocardless-status.com/incidents/y65jhymz0cpp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>17:42</var> GMT</small><br /><strong>Resolved</strong> - We have confirmed the dashboard is operating as normal and the issue is resolved.</p><p><small>Jan <var>25</var>, <var>16:52</var> GMT</small><br /><strong>Monitoring</strong> - We have implemented a fix and validated it is working but we will continue to monitor to ensure everything is working as expected.</p><p><small>Jan <var>25</var>, <var>16:37</var> GMT</small><br /><strong>Identified</strong> - We have received reports of issues accessing our dashboard. We have identified the issue and we will be deploying a fix shortly.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 17:42:16 +0000</pubDate>
+<pubDate>Thu, 25 Jan 2024 17:42:16 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled downtime of identity verification partner</title>
+<link>https://www.gocardless-status.com/incidents/9bkgpgdv0gyb</link>
+<guid>https://www.gocardless-status.com/incidents/9bkgpgdv0gyb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>17</var>, <var>05:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>03:30</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>13</var>, <var>15:25</var> GMT</small><br /><strong>Scheduled</strong> - Between 3.30am and 5.00am UTC on 17th December, customers will be unable to upload identify documents for verification due to scheduled downtime for system upgrades from our identify verification partner.<br />We apologies for any inconvenience this may cause but please note that all other steps of the onboarding process will still be available.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Dec 2023 05:00:20 +0000</pubDate>
+<pubDate>Sun, 17 Dec 2023 05:00:20 +0000</pubDate>
+</item>
+<item>
+<title>Degraded performance</title>
+<link>https://www.gocardless-status.com/incidents/d4s2qvbggs5h</link>
+<guid>https://www.gocardless-status.com/incidents/d4s2qvbggs5h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>14</var>, <var>13:31</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>14</var>, <var>12:38</var> GMT</small><br /><strong>Monitoring</strong> - The issue has now been fixed. Performance is back to normal levels.</p><p><small>Nov <var>14</var>, <var>11:53</var> GMT</small><br /><strong>Identified</strong> - Our engineers have identified the cause of the slow performance on the API and dashboard. A fix is in progress.</p><p><small>Nov <var>14</var>, <var>11:29</var> GMT</small><br /><strong>Investigating</strong> - We are experiencing degraded performance on our API and dashboard. Our engineers are investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 14 Nov 2023 13:31:28 +0000</pubDate>
+<pubDate>Tue, 14 Nov 2023 13:31:28 +0000</pubDate>
+</item>
+<item>
+<title>Degraded API &amp; Dashboard Performance</title>
+<link>https://www.gocardless-status.com/incidents/q2yl0sv1fnqx</link>
+<guid>https://www.gocardless-status.com/incidents/q2yl0sv1fnqx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 3</var>, <var>13:44</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 3</var>, <var>12:18</var> GMT</small><br /><strong>Monitoring</strong> - We've resolved the root cause of the degraded performance. We'll continue to monitor API and Dashboard performance.</p><p><small>Nov <var> 3</var>, <var>11:46</var> GMT</small><br /><strong>Identified</strong> - We've identified the cause of the degraded performance. We're currently rolling out a fix.</p><p><small>Nov <var> 3</var>, <var>11:41</var> GMT</small><br /><strong>Investigating</strong> - We've spotted that something has gone wrong. We're currently investigating the issue, and will provide an update soon.</p>
+]]></content:encoded>
+<pubDate>Fri, 03 Nov 2023 13:44:56 +0000</pubDate>
+<pubDate>Fri, 03 Nov 2023 13:44:56 +0000</pubDate>
+</item>
+<item>
+<title>Notification of payouts not sent</title>
+<link>https://www.gocardless-status.com/incidents/dmzvjxkm0t9v</link>
+<guid>https://www.gocardless-status.com/incidents/dmzvjxkm0t9v</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>31</var>, <var>18:58</var> GMT</small><br /><strong>Resolved</strong> - All events have now been processed and we have validated that all payments have now been marked as confirmed.</p><p><small>Oct <var>31</var>, <var>17:58</var> GMT</small><br /><strong>Monitoring</strong> - Following the fix, webhooks are starting to come through, although it may take longer for larger payouts. Payouts in the dashboard are also starting to be marked as paid.<br /><br />We continue to monitor until all are marked as paid.</p><p><small>Oct <var>31</var>, <var>17:36</var> GMT</small><br /><strong>Identified</strong> - We believe we have identified the issue and we are implementing a fix to mark the payments as confirmed.</p><p><small>Oct <var>31</var>, <var>17:08</var> GMT</small><br /><strong>Investigating</strong> - We are investigating an issue that merchants have not been notified of payouts being paid. We have validated that payments have been sent and it is just the confirmation of the payment that is impacted.<br /><br />We will provide another update shortly.</p>
+]]></content:encoded>
+<pubDate>Tue, 31 Oct 2023 18:58:34 +0000</pubDate>
+<pubDate>Tue, 31 Oct 2023 18:58:34 +0000</pubDate>
+</item>
+<item>
+<title>Delayed webhooks in sandbox</title>
+<link>https://www.gocardless-status.com/incidents/1pknfwmpsmxj</link>
+<guid>https://www.gocardless-status.com/incidents/1pknfwmpsmxj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>19</var>, <var>17:47</var> BST</small><br /><strong>Resolved</strong> - Webhooks in sandbox are now being delivered promptly again.<br />We've also put in place mitigations to prevent the root cause of this incident from reoccurring.</p><p><small>Oct <var>19</var>, <var>12:35</var> BST</small><br /><strong>Identified</strong> - We're seeing delays in delivering webhooks in sandbox. We've identified the cause and working on a fix.<br /><br />Production is not affected.</p>
+]]></content:encoded>
+<pubDate>Thu, 19 Oct 2023 17:47:48 +0100</pubDate>
+<pubDate>Thu, 19 Oct 2023 17:47:48 +0100</pubDate>
+</item>
+<item>
+<title>Breakdown of payments not visible in dashboard</title>
+<link>https://www.gocardless-status.com/incidents/7rrn12qz174y</link>
+<guid>https://www.gocardless-status.com/incidents/7rrn12qz174y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>18</var>, <var>21:23</var> BST</small><br /><strong>Resolved</strong> - The issue has been resolved and breakdowns are now visible in the dashboard for all merchants.</p><p><small>Oct <var>18</var>, <var>19:31</var> BST</small><br /><strong>Identified</strong> - We have identified an issue that is affecting some merchants being able to see their payout breakdown in their dashboard. Please be reassured that payouts have been sent, it is just seeing the breakdown in the dashboard that is impacted.<br /><br />Our engineers our working on a fix and hope to have this resolved soon. In the meantime, exporting transactions will still shown the breakdown.</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Oct 2023 21:23:11 +0100</pubDate>
+<pubDate>Wed, 18 Oct 2023 21:23:11 +0100</pubDate>
+</item>
+<item>
+<title>Some webhooks being dispatched with invalid metadata</title>
+<link>https://www.gocardless-status.com/incidents/d8ns4d6tb213</link>
+<guid>https://www.gocardless-status.com/incidents/d8ns4d6tb213</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 4</var>, <var>18:12</var> BST</small><br /><strong>Resolved</strong> - Between 13:53UTC and 15:33UTC we sent a small number of malformed webhooks to "app" integrators.<br /><br />These webhooks contained events missing "organisation" in the "links" field.<br /><br />These events had previously been delivered to integrators in webhooks with "organisation" correctly set.</p><p><small>Oct <var> 4</var>, <var>17:22</var> BST</small><br /><strong>Identified</strong> - We've spotted that something has gone wrong.<br /><br />We're currently investigating the issue, and will provide an update to affected integrators soon.</p><p><small>Oct <var> 4</var>, <var>16:55</var> BST</small><br /><strong>Investigating</strong> - We've had reports of issues with GoCardless webhooks.<br /><br />Our engineers are investigating and we'll provide updates here.</p>
+]]></content:encoded>
+<pubDate>Wed, 04 Oct 2023 18:12:45 +0100</pubDate>
+<pubDate>Wed, 04 Oct 2023 18:12:45 +0100</pubDate>
+</item>
+<item>
+<title>API degraded performance (sandbox &amp; live)</title>
+<link>https://www.gocardless-status.com/incidents/0yn98n5w8fn6</link>
+<guid>https://www.gocardless-status.com/incidents/0yn98n5w8fn6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>21</var>, <var>17:30</var> BST</small><br /><strong>Resolved</strong> - Between 5:30 PM and 7:00 PM this evening, we experienced degraded performance on our API in both live and sandbox environments. Some requests will have returned 5xx HTTP response codes. Please retry your requests if you faced any such errors.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Sep 2023 17:30:00 +0100</pubDate>
+<pubDate>Thu, 21 Sep 2023 17:30:00 +0100</pubDate>
+</item>
+<item>
+<title>Webhooks are not being delivered</title>
+<link>https://www.gocardless-status.com/incidents/wj4chrpbrmgp</link>
+<guid>https://www.gocardless-status.com/incidents/wj4chrpbrmgp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>15</var>, <var>16:11</var> BST</small><br /><strong>Resolved</strong> - The issue has been resolved. Our monitoring shows that our Webhooks and Customer Notifications services have stayed stable following the fix we applied.<br /><br />We have now successfully processed and dispatch all events</p><p><small>Sep <var>15</var>, <var>12:31</var> BST</small><br /><strong>Update</strong> - Our engineers have applied a fix and we are once again processing Webhooks and Customer Notifications.<br /><br />We are continuing to monitor the situation.</p><p><small>Sep <var>15</var>, <var>12:23</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have applied a fix and we are once again processing Webhooks and Customer Notifications.<br /><br />We are continuing to monitor the situation.</p><p><small>Sep <var>15</var>, <var>11:20</var> BST</small><br /><strong>Identified</strong> - Webhooks, and Customer Notifications, are currently not being delivered.<br /><br />We've identified the root cause and are working on rolling out a fix.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Sep 2023 16:11:02 +0100</pubDate>
+<pubDate>Fri, 15 Sep 2023 16:11:02 +0100</pubDate>
+</item>
+<item>
+<title>Dashboard and payment pages not loading on Google Chrome v117</title>
+<link>https://www.gocardless-status.com/incidents/xr5cgymy9xk8</link>
+<guid>https://www.gocardless-status.com/incidents/xr5cgymy9xk8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>14</var>, <var>10:10</var> BST</small><br /><strong>Resolved</strong> - We haven't observed any loading issues since the fix was applied.<br /><br />We do not expect any additional disruption.</p><p><small>Sep <var>13</var>, <var>15:57</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have applied a fix and all pages are now loading successfully.<br /><br />We are continuing to monitor the situation.</p><p><small>Sep <var>13</var>, <var>14:16</var> BST</small><br /><strong>Investigating</strong> - We are currently experiencing an outage of our Dashboard and Payment Pages while using the newest version of Google Chrome. <br /><br />Our engineers have found the root cause and are working towards a solution, if you encounter a page-loading problem, please use another browser as a workaround.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Sep 2023 10:10:39 +0100</pubDate>
+<pubDate>Thu, 14 Sep 2023 10:10:39 +0100</pubDate>
+</item>
+<item>
+<title>Partial Dashboard Outage</title>
+<link>https://www.gocardless-status.com/incidents/k6bv2zs9hg75</link>
+<guid>https://www.gocardless-status.com/incidents/k6bv2zs9hg75</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>18</var>, <var>18:23</var> BST</small><br /><strong>Resolved</strong> - Our monitoring shows that our dashboard pages have stayed stable following the fix we applied. <br /><br />We are confident that this issue has been resolved.</p><p><small>Aug <var>18</var>, <var>16:33</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have applied a fix and access to all dashboard pages should available again.<br /><br />We are continuing to monitor the situation.</p><p><small>Aug <var>18</var>, <var>15:10</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating a partial outage in our dashboard and we will be providing a further update shortly</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Aug 2023 18:23:25 +0100</pubDate>
+<pubDate>Fri, 18 Aug 2023 18:23:25 +0100</pubDate>
+</item>
+<item>
+<title>API, Payment Pages and Dashboard Outage</title>
+<link>https://www.gocardless-status.com/incidents/tkdwj11zln80</link>
+<guid>https://www.gocardless-status.com/incidents/tkdwj11zln80</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>14</var>, <var>17:23</var> BST</small><br /><strong>Resolved</strong> - Our monitoring shows that our services have stayed stable following the fix we applied.<br /><br />We do not expect any additional disruption.</p><p><small>Aug <var>14</var>, <var>16:50</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have applied a fix and we are once again serving API, dashboard, and payment page traffic.<br /><br />We are continuing to monitor the situation.</p><p><small>Aug <var>14</var>, <var>16:40</var> BST</small><br /><strong>Identified</strong> - Our engineers have identified the issue causing a partial outage and are working to apply a fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 14 Aug 2023 17:23:01 +0100</pubDate>
+<pubDate>Mon, 14 Aug 2023 17:23:01 +0100</pubDate>
+</item>
+<item>
+<title>Slow logins on dashboard</title>
+<link>https://www.gocardless-status.com/incidents/h6zg3rdxybqt</link>
+<guid>https://www.gocardless-status.com/incidents/h6zg3rdxybqt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>29</var>, <var>16:07</var> BST</small><br /><strong>Resolved</strong> - Incident has been resolved.</p><p><small>Jul <var>29</var>, <var>12:34</var> BST</small><br /><strong>Monitoring</strong> - The dashboard logins are back to normal. Our engineers will continue to investigate to identify the root cause.</p><p><small>Jul <var>29</var>, <var>11:53</var> BST</small><br /><strong>Investigating</strong> - We are currently experiencing slow logins on our dashboard. Our engineers are investigating and we'll provide updates here.</p>
+]]></content:encoded>
+<pubDate>Sat, 29 Jul 2023 16:07:35 +0100</pubDate>
+<pubDate>Sat, 29 Jul 2023 16:07:35 +0100</pubDate>
+</item>
+<item>
+<title>API Degraded Performance</title>
+<link>https://www.gocardless-status.com/incidents/7r9nmyz13pfp</link>
+<guid>https://www.gocardless-status.com/incidents/7r9nmyz13pfp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>28</var>, <var>12:04</var> BST</small><br /><strong>Resolved</strong> - We identified and addressed the cause of the degraded API performance.<br /><br />We do not expect any additional disruption.</p><p><small>Jul <var>28</var>, <var>11:55</var> BST</small><br /><strong>Investigating</strong> - We've observed an increase in latency across many API endpoints. <br /><br />API and Dashboard users may be experiencing degraded performance. We're investigating the cause and will post another update shortly.</p>
+]]></content:encoded>
+<pubDate>Fri, 28 Jul 2023 12:04:41 +0100</pubDate>
+<pubDate>Fri, 28 Jul 2023 12:04:41 +0100</pubDate>
+</item>
+<item>
+<title>Error while setting up mandates from mobile devices</title>
+<link>https://www.gocardless-status.com/incidents/hyc9ydmfdrnv</link>
+<guid>https://www.gocardless-status.com/incidents/hyc9ydmfdrnv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>25</var>, <var>10:07</var> BST</small><br /><strong>Resolved</strong> - The issue has been is resolved. If you still encounter the error, please refresh the page to ensure the fix is applied.</p><p><small>Jul <var>24</var>, <var>15:05</var> BST</small><br /><strong>Monitoring</strong> - We've identified an issue where adding bank details to confirm the mandate creation on mobile devices returned an error. <br />Our engineers found the root cause and reverted the change causing the issue, we're monitoring the situation.</p>
+]]></content:encoded>
+<pubDate>Tue, 25 Jul 2023 10:07:15 +0100</pubDate>
+<pubDate>Tue, 25 Jul 2023 10:07:15 +0100</pubDate>
+</item>
+<item>
+<title>Partial outage of integration webhooks</title>
+<link>https://www.gocardless-status.com/incidents/btv5p5xtn048</link>
+<guid>https://www.gocardless-status.com/incidents/btv5p5xtn048</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>24</var>, <var>16:54</var> BST</small><br /><strong>Resolved</strong> - The issue has been resolved. Our monitoring shows that webhooks have been stable since yesterday. We have successfully resubmitted all missed events.</p><p><small>Jul <var>23</var>, <var>19:48</var> BST</small><br /><strong>Update</strong> - The replay of missed events is now complete. We will conduct some checks to verify that it ran correctly.</p><p><small>Jul <var>23</var>, <var>19:04</var> BST</small><br /><strong>Monitoring</strong> - We kicked off a replay of missed events. This started around 17:00 UTC (18:00 BST). Integrator webhooks are now getting invoked with events starting from Friday when the incident began.</p><p><small>Jul <var>23</var>, <var>11:43</var> BST</small><br /><strong>Update</strong> - The issue has been fixed. Webhooks are now operational. New event notifications are getting delivered via webhooks. We are working on replaying/resubmitting all missed events since the incident began on Friday.</p><p><small>Jul <var>23</var>, <var>09:36</var> BST</small><br /><strong>Identified</strong> - We experienced an issue where roughly 3/4 of webhook notifications were not delivered since Friday afternoon. The cause of the issue has been identified. A fix in progress.</p><p><small>Jul <var>23</var>, <var>02:30</var> BST</small><br /><strong>Update</strong> - Our engineers are still investigating the issue. A large number of webhook notifications are still not getting sent.<br /><br />All other components are operational. Payments and mandates are unaffected by this incident. Events can still be queried via the API.</p><p><small>Jul <var>23</var>, <var>01:04</var> BST</small><br /><strong>Update</strong> - We are continuing to investigate. The issue started on Friday 21 July around 13:30 UTC.</p><p><small>Jul <var>23</var>, <var>00:25</var> BST</small><br /><strong>Investigating</strong> - We are experiencing issues with our integration webhooks. Our engineers are investigating the problem.</p>
+]]></content:encoded>
+<pubDate>Mon, 24 Jul 2023 16:54:53 +0100</pubDate>
+<pubDate>Mon, 24 Jul 2023 16:54:53 +0100</pubDate>
+</item>
+<item>
+<title>API TLS certificate authority change (No action required)</title>
+<link>https://www.gocardless-status.com/incidents/gdqfkfnyctsz</link>
+<guid>https://www.gocardless-status.com/incidents/gdqfkfnyctsz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>18</var>, <var>11:42</var> BST</small><br /><strong>Completed</strong> - The change has been rolled out successfully. The API endpoint (api.gocardless.com) is now using the new TLS certificate.</p><p><small>Jul <var>18</var>, <var>11:00</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var> 4</var>, <var>10:32</var> BST</small><br /><strong>Scheduled</strong> - From Tuesday 18th July 2023, GoCardless will begin transitioning the api.gocardless.com endpoint to a new TLS certificate.<br /><br />This change will be transparent and therefore not result in any interruption of service, as long as your GoCardless integration does not perform any certificate "pinning". Pinning is not a supported configuration, as per: https://developer.gocardless.com/api-reference#appendix-public-certificate-policy<br /><br />The new chain of trust will begin with the following root certificate authority: 'GlobalSign nv-sa': https://valid.r1.roots.globalsign.com/ https://crt.sh/?id=88. This root CA has been distributed for 20+ years, but if you have concerns about your systems' ability to verify this chain then you must ensure that your configuration is updated.<br /><br />Email communications have also been sent out to all integrators who could be affected by this change.</p>
+]]></content:encoded>
+<pubDate>Tue, 18 Jul 2023 11:42:17 +0100</pubDate>
+<pubDate>Tue, 18 Jul 2023 11:42:17 +0100</pubDate>
+</item>
+<item>
+<title>Some payout details are currently not visible</title>
+<link>https://www.gocardless-status.com/incidents/7zrqgk0xgs7t</link>
+<guid>https://www.gocardless-status.com/incidents/7zrqgk0xgs7t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>29</var>, <var>09:02</var> BST</small><br /><strong>Resolved</strong> - Incident has been resolved.</p><p><small>Jun <var>28</var>, <var>16:55</var> BST</small><br /><strong>Investigating</strong> - We are currently experiencing an issue where items included in a payout may not be visible on the dashboard or via the API. <br />Our engineering team is currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Jun 2023 09:02:40 +0100</pubDate>
+<pubDate>Thu, 29 Jun 2023 09:02:40 +0100</pubDate>
+</item>
+<item>
+<title>Internal status update posted publicly</title>
+<link>https://www.gocardless-status.com/incidents/3tyr6w15jnbf</link>
+<guid>https://www.gocardless-status.com/incidents/3tyr6w15jnbf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>15</var>, <var>20:25</var> BST</small><br /><strong>Resolved</strong> - We apologise for publishing an internal status update to the public status page. This is an issue that has been resolved and we do not expect any disruption to any services.<br /><br />No customer or merchant information was included in the update, all information was internal reference IDs only. For more information, please contact our support team via help@gocardless.com.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Jun 2023 20:25:29 +0100</pubDate>
+<pubDate>Thu, 15 Jun 2023 20:25:29 +0100</pubDate>
+</item>
+<item>
+<title>Delayed webhooks</title>
+<link>https://www.gocardless-status.com/incidents/y6qzhv6mrwb8</link>
+<guid>https://www.gocardless-status.com/incidents/y6qzhv6mrwb8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>13</var>, <var>14:55</var> BST</small><br /><strong>Resolved</strong> - On the 30th of May, as part of our efforts to scale our web hook delivery infrastructure we rolled out a changed that caused delays to webhooks.<br /><br />We rolled back the change, and over the subsequent days, have made additional changes to improve the throughput of the system.<br /><br />We have also introduced more alerting as part of our ongoing scalability efforts.</p><p><small>Jun <var> 2</var>, <var>12:34</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have put a mitigation in place. We are once again processing webhooks in a timely manner.<br /><br />We will continue to monitor the health and performance of the affected components.</p><p><small>Jun <var> 2</var>, <var>11:43</var> BST</small><br /><strong>Investigating</strong> - We are experiencing delays in webhook delivery again in both live and sandbox environments. Our engineers are working on the issue.</p><p><small>Jun <var> 1</var>, <var>16:26</var> BST</small><br /><strong>Monitoring</strong> - Our engineers have identified the issue and applied a fix. We are once again processing webhooks in a timely manner.<br /><br />We are continuing to monitor the situation.</p><p><small>Jun <var> 1</var>, <var>13:37</var> BST</small><br /><strong>Update</strong> - We are currently experiencing a significant delay in webhook delivery across both live and sandbox environments. Our engineers are investigating the issue.</p><p><small>Jun <var> 1</var>, <var>13:36</var> BST</small><br /><strong>Investigating</strong> - We are currently experiencing a significant delay in webhook delivery across both live and sandbox environments. Our engineers are investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Jun 2023 14:55:35 +0100</pubDate>
+<pubDate>Tue, 13 Jun 2023 14:55:35 +0100</pubDate>
+</item>
+
+</channel>
+</rss>

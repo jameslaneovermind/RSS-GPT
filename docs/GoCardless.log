@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 15:40:57.613728
+Existing_entries: 0
+Fetching from https://www.gocardless-status.com/history.rss
+Token length: 857
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled downtime of Instant Bank Pay and Verified Mandates](https://www.gocardless-status.com/incidents/mg5v942t84lb)
+Token length: 542
+Summarized using GPT-3.5-turbo-1106
+Append: [API, Payment Pages and Dashboard Outage](https://www.gocardless-status.com/incidents/pt0kvpq33x74)
+Append: [Issues with IBP processing](https://www.gocardless-status.com/incidents/rd583rcvk6m7)
+Append: [Users with SMS MFA enabled unable to log in](https://www.gocardless-status.com/incidents/xl9zc05xfwt9)
+Append: [Degraded dashboard performance](https://www.gocardless-status.com/incidents/y65jhymz0cpp)
+Append: [Scheduled downtime of identity verification partner](https://www.gocardless-status.com/incidents/9bkgpgdv0gyb)
+Append: [Degraded performance](https://www.gocardless-status.com/incidents/d4s2qvbggs5h)
+Append: [Degraded API & Dashboard Performance](https://www.gocardless-status.com/incidents/q2yl0sv1fnqx)
+Append: [Notification of payouts not sent](https://www.gocardless-status.com/incidents/dmzvjxkm0t9v)
+Append: [Delayed webhooks in sandbox](https://www.gocardless-status.com/incidents/1pknfwmpsmxj)
+Append: [Breakdown of payments not visible in dashboard](https://www.gocardless-status.com/incidents/7rrn12qz174y)
+Append: [Some webhooks being dispatched with invalid metadata](https://www.gocardless-status.com/incidents/d8ns4d6tb213)
+Append: [API degraded performance (sandbox & live)](https://www.gocardless-status.com/incidents/0yn98n5w8fn6)
+Append: [Webhooks are not being delivered](https://www.gocardless-status.com/incidents/wj4chrpbrmgp)
+Append: [Dashboard and payment pages not loading on Google Chrome v117](https://www.gocardless-status.com/incidents/xr5cgymy9xk8)
+Append: [Partial Dashboard Outage](https://www.gocardless-status.com/incidents/k6bv2zs9hg75)
+Append: [API, Payment Pages and Dashboard Outage](https://www.gocardless-status.com/incidents/tkdwj11zln80)
+Append: [Slow logins on dashboard](https://www.gocardless-status.com/incidents/h6zg3rdxybqt)
+Append: [API Degraded Performance](https://www.gocardless-status.com/incidents/7r9nmyz13pfp)
+Append: [Error while setting up mandates from mobile devices](https://www.gocardless-status.com/incidents/hyc9ydmfdrnv)
+Append: [Partial outage of integration webhooks](https://www.gocardless-status.com/incidents/btv5p5xtn048)
+Append: [API TLS certificate authority change (No action required)](https://www.gocardless-status.com/incidents/gdqfkfnyctsz)
+Append: [Some payout details are currently not visible](https://www.gocardless-status.com/incidents/7zrqgk0xgs7t)
+Append: [Internal status update posted publicly](https://www.gocardless-status.com/incidents/3tyr6w15jnbf)
+Append: [Delayed webhooks](https://www.gocardless-status.com/incidents/y6qzhv6mrwb8)
+append_entries: 25
+Finish: 2024-02-20 15:41:02.484114
