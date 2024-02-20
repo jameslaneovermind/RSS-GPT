@@ -4,15 +4,14 @@
 <title>Asana Status - Incident History</title>
 <link>https://status.asana.com</link>
 
+
 <item>
 <title>Partial Outage (OAuth Apps unavailable for 1 hour from 19:18-20:16 UTC)</title>
 <link>https://status.asana.com/incidents/btfw7qd1cdhy</link>
 <guid>https://status.asana.com/incidents/btfw7qd1cdhy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>19:30</var> UTC</small><br /><strong>Resolved</strong> - Our engineers have fixed the issue and Asana is now running normally. Again sincere apologies for any inconvenience this caused!<br /><br />This issue only impacted the API component.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 19:30:00 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 19:30:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@
 <link>https://status.asana.com/incidents/2kjvdgs6fv33</link>
 <guid>https://status.asana.com/incidents/2kjvdgs6fv33</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 2</var>, <var>20:18</var> UTC</small><br /><strong>Resolved</strong> - Our engineers have fixed the issue and Asana is now running normally. Again sincere apologies for any inconvenience this caused!</p><p><small>Feb <var> 2</var>, <var>20:09</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing some difficulties; as a result, Asana might not be available for some of our customers. Our Development Team is currently investigating this issue and we're hoping to get it fixed as soon as possible. Sincere apologies for the inconvenience; if you're impacted by this issue, please keep an eye on this page for the latest updates.</p>
 ]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 20:18:25 +0000</pubDate>
 <pubDate>Fri, 02 Feb 2024 20:18:25 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@
 <link>https://status.asana.com/incidents/36cb7m8ksgfy</link>
 <guid>https://status.asana.com/incidents/36cb7m8ksgfy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>19:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Jan 2024 19:00:00 +0000</pubDate>
 <pubDate>Wed, 17 Jan 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@
 <link>https://status.asana.com/incidents/f1676vh2xq73</link>
 <guid>https://status.asana.com/incidents/f1676vh2xq73</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>22:13</var> UTC</small><br /><strong>Resolved</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 22:13:00 +0000</pubDate>
 <pubDate>Wed, 20 Dec 2023 22:13:00 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +46,8 @@
 <link>https://status.asana.com/incidents/7xzg8bjwfhh3</link>
 <guid>https://status.asana.com/incidents/7xzg8bjwfhh3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>00:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Dec <var>14</var>, <var>23:55</var> UTC</small><br /><strong>Investigating</strong> - We're currently experiencing some difficulties; as a result, a majority of our users are unable to access Asana. Our Development Team is currently working to resolve this issue as soon as possible. Sincere apologies for the inconvenience caused, please keep an eye on this page for the latest updates.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 00:33:15 +0000</pubDate>
 <pubDate>Fri, 15 Dec 2023 00:33:15 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +55,8 @@
 <link>https://status.asana.com/incidents/h04k31kz5rts</link>
 <guid>https://status.asana.com/incidents/h04k31kz5rts</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>02:00</var> UTC</small><br /><strong>Resolved</strong> - Incident: Databases containing authentication information experienced increased load and reduced throughput due to a database migration.<br /><br />Impact: On 2023-11-28 from 18:00-18:25 PST, the Asana API was operating in a degraded state and/or unavailable. Asana Mobile and API users experienced increased response times and errors during this incident.<br /><br />Moving forward: To prevent similar incidents, Asana has increased database compute provisioning and has developed monitoring around the root cause.<br /><br />Our metric considers a weighted average of uptime experienced by users at each data center. The number of minutes of downtime shown reflects this weighted average.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 02:00:00 +0000</pubDate>
 <pubDate>Wed, 29 Nov 2023 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +64,8 @@
 <link>https://status.asana.com/incidents/vstcb1jvm67n</link>
 <guid>https://status.asana.com/incidents/vstcb1jvm67n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>27</var>, <var>17:43</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>27</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>23</var>, <var>20:11</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.<br /><br />https://forum.asana.com/t/webhooks-and-events-possible-downtime-on-august-27th/516642</p>
 ]]></content:encoded>
-<pubDate>Sun, 27 Aug 2023 17:43:40 +0000</pubDate>
 <pubDate>Sun, 27 Aug 2023 17:43:40 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +73,8 @@
 <link>https://status.asana.com/incidents/y8pctjghltmd</link>
 <guid>https://status.asana.com/incidents/y8pctjghltmd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>14</var>, <var>00:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>14</var>, <var>00:20</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>13</var>, <var>23:52</var> UTC</small><br /><strong>Update</strong> - We currently are experiencing an issue with webhooks and remote jobs being in a degraded state (Ex: attachments functionality is affected) jobs and are working on this issue</p><p><small>Jun <var>13</var>, <var>20:42</var> UTC</small><br /><strong>Update</strong> - Some Asana features have been affected by an Amazon Web Services outage. We're are currently working on this issue and we apologise for the inconvenience. For the latest updates, please check https://status.aws.amazon.com/<br /><br />The Asana app is functional, except for the following: <br />- Webhooks are down<br />- Remote jobs are in a degraded state. Ex: attachments functionality is affected<br />- OneDrive attachments<br />- Incoming emails not working</p><p><small>Jun <var>13</var>, <var>20:31</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing some difficulties; Our Development Team is currently investigating this issue and we're hoping to get it fixed as soon as possible. Sincere apologies for the inconvenience; if you're impacted by this issue, please keep an eye on this page for the latest updates.<br /><br />The Asana app is functional, except for the following: <br />- Webhooks are down<br />- Remote jobs are in a degraded state. Ex: attachments functionality is affected<br />- OneDrive attachments<br />- Incoming emails not working</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Jun 2023 00:27:00 +0000</pubDate>
 <pubDate>Wed, 14 Jun 2023 00:27:00 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +82,8 @@
 <link>https://status.asana.com/incidents/k4356gqyvgcl</link>
 <guid>https://status.asana.com/incidents/k4356gqyvgcl</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>10</var>, <var>01:52</var> UTC</small><br /><strong>Resolved</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 10 May 2023 01:52:00 +0000</pubDate>
 <pubDate>Wed, 10 May 2023 01:52:00 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +91,8 @@
 <link>https://status.asana.com/incidents/5lnpf5x9wbdy</link>
 <guid>https://status.asana.com/incidents/5lnpf5x9wbdy</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 9</var>, <var>20:34</var> UTC</small><br /><strong>Resolved</strong> - Our engineers fixed the issue affecting webpage links, and they’re now working. Sorry for the trouble!</p><p><small>May <var> 9</var>, <var>19:00</var> UTC</small><br /><strong>Investigating</strong> - We’re experiencing a system issue that’s impacting some webpage links. We hope to have it fixed very soon. Sorry for the trouble!</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 May 2023 20:34:40 +0000</pubDate>
 <pubDate>Tue, 09 May 2023 20:34:40 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +100,8 @@
 <link>https://status.asana.com/incidents/j5zyv396l5zc</link>
 <guid>https://status.asana.com/incidents/j5zyv396l5zc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>23</var>, <var>15:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>23</var>, <var>15:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Mar <var>23</var>, <var>15:17</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>23</var>, <var>14:35</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>23</var>, <var>14:33</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>23</var>, <var>14:25</var> UTC</small><br /><strong>Investigating</strong> - We're currently experiencing some difficulties; as a result, a majority of our users are unable to access Asana. Our Development Team is currently working to resolve this issue as soon as possible. Sincere apologies for the inconvenience caused, please keep an eye on this page for the latest updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 23 Mar 2023 15:51:54 +0000</pubDate>
 <pubDate>Thu, 23 Mar 2023 15:51:54 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +109,8 @@
 <link>https://status.asana.com/incidents/qkqjvnh8nrv9</link>
 <guid>https://status.asana.com/incidents/qkqjvnh8nrv9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>15</var>, <var>15:00</var> UTC</small><br /><strong>Resolved</strong> - Incident: From 2023-03-15 14:38 UTC to 2023-03-15 15:18 UTC there was a webhook outage for about 40 minutes in the US region. A bad deployment caused reduced capacity and delays in scheduling some asynchronous work, including webhook delivery.<br /><br />Impact: Webhook users experienced a considerable amount of delay, max  ~one hour difference between events generated and events delivered. There was no data loss due to this delay and backlog was recovered in ~20 minutes<br /><br />Moving forward: We have added better tooling that would help us investigate this issue faster and have increased the priority of the job responsible for streaming webhook events.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Mar 2023 15:00:00 +0000</pubDate>
 <pubDate>Wed, 15 Mar 2023 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +118,8 @@
 <link>https://status.asana.com/incidents/fmjg2qn92j2r</link>
 <guid>https://status.asana.com/incidents/fmjg2qn92j2r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 1</var>, <var>00:07</var> UTC</small><br /><strong>Resolved</strong> - This has been resolved but we'll continue to monitor any further issues.</p><p><small>Feb <var>28</var>, <var>22:07</var> UTC</small><br /><strong>Monitoring</strong> - The majority of users should be able to see their changes again, but some data will not yet show up. We expect to see a full recovery in ~ 1 hour, at which point all users will see all of their changes again</p><p><small>Feb <var>28</var>, <var>22:02</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>28</var>, <var>21:32</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing some difficulties. Some percentage of API requests are failing, and changes you make will be slow to show up. Our Development Team is currently investigating this issue and we're hoping to get it fixed as soon as possible. Sincere apologies for the inconvenience; if you're impacted by this issue, please keep an eye on this page for the latest updates.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Mar 2023 00:07:56 +0000</pubDate>
 <pubDate>Wed, 01 Mar 2023 00:07:56 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +127,8 @@
 <link>https://status.asana.com/incidents/jzt3gsjbbgyc</link>
 <guid>https://status.asana.com/incidents/jzt3gsjbbgyc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>16:00</var> UTC</small><br /><strong>Resolved</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Feb 2023 16:00:00 +0000</pubDate>
 <pubDate>Mon, 06 Feb 2023 16:00:00 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +136,8 @@
 <link>https://status.asana.com/incidents/78bcd7npk8nv</link>
 <guid>https://status.asana.com/incidents/78bcd7npk8nv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>23:30</var> UTC</small><br /><strong>Resolved</strong> - On January 23, 2023, we experienced a 50 minute Automations and Background Actions outage. Impact was delayed execution of automations and background actions for two data centers. Our metric considers a weighted average of uptime experienced by users at each data center. The number of minutes of downtime shown reflects this weighted average.</p>
 ]]></content:encoded>
-<pubDate>Mon, 23 Jan 2023 23:30:00 +0000</pubDate>
 <pubDate>Mon, 23 Jan 2023 23:30:00 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +145,8 @@
 <link>https://status.asana.com/incidents/63nhssdmxp8n</link>
 <guid>https://status.asana.com/incidents/63nhssdmxp8n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>00:00</var> UTC</small><br /><strong>Resolved</strong> - On January 16, 2023, we experienced a 15 minute Automations and Background Actions outage. Impact was delayed execution of automations and background actions in one data center. Our metric considers a weighted average of uptime experienced by users at each data center. The number of minutes of downtime shown reflects this weighted average.</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
 <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +154,8 @@
 <link>https://status.asana.com/incidents/lcnvc7f1mvf3</link>
 <guid>https://status.asana.com/incidents/lcnvc7f1mvf3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>14</var>, <var>17:10</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>14</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>11</var>, <var>20:32</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Sat, 14 Jan 2023 17:10:44 +0000</pubDate>
 <pubDate>Sat, 14 Jan 2023 17:10:44 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +163,8 @@
 <link>https://status.asana.com/incidents/51s5njcxd5v3</link>
 <guid>https://status.asana.com/incidents/51s5njcxd5v3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 1</var>, <var>13:30</var> UTC</small><br /><strong>Resolved</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sun, 01 Jan 2023 13:30:00 +0000</pubDate>
 <pubDate>Sun, 01 Jan 2023 13:30:00 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +172,8 @@
 <link>https://status.asana.com/incidents/jl53pq68gg5p</link>
 <guid>https://status.asana.com/incidents/jl53pq68gg5p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>03:52</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>21</var>, <var>03:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>21</var>, <var>02:43</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>21</var>, <var>02:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Dec 2022 03:52:02 +0000</pubDate>
 <pubDate>Wed, 21 Dec 2022 03:52:02 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +181,8 @@
 <link>https://status.asana.com/incidents/8gyxysnpn7p6</link>
 <guid>https://status.asana.com/incidents/8gyxysnpn7p6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>17</var>, <var>18:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>14</var>, <var>23:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Dec 2022 18:00:29 +0000</pubDate>
 <pubDate>Sat, 17 Dec 2022 18:00:29 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +190,8 @@
 <link>https://status.asana.com/incidents/6d649qd49jqh</link>
 <guid>https://status.asana.com/incidents/6d649qd49jqh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>17</var>, <var>01:13</var> UTC</small><br /><strong>Resolved</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Dec 2022 01:13:00 +0000</pubDate>
 <pubDate>Sat, 17 Dec 2022 01:13:00 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +199,8 @@
 <link>https://status.asana.com/incidents/3206b1df026k</link>
 <guid>https://status.asana.com/incidents/3206b1df026k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>19</var>, <var>00:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>19</var>, <var>00:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Aug <var>19</var>, <var>00:23</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>18</var>, <var>23:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>18</var>, <var>23:28</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>18</var>, <var>23:19</var> UTC</small><br /><strong>Update</strong> - Changes made in the past few hours on Asana might not be visible, but any new changes made should be visible. We are working on redeploying our servers, which should make all previous writes to Asana visible.</p><p><small>Aug <var>18</var>, <var>22:50</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue. Changes made in the app will be persisted but may not be reflected immediately.</p><p><small>Aug <var>18</var>, <var>22:07</var> UTC</small><br /><strong>Identified</strong> - We've identified some potential issues and are restarting affected servers.</p><p><small>Aug <var>18</var>, <var>21:00</var> UTC</small><br /><strong>Investigating</strong> - Our team has identified the problem and is currently working on a fix. We appreciate your patience!</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Aug 2022 00:24:49 +0000</pubDate>
 <pubDate>Fri, 19 Aug 2022 00:24:49 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +208,8 @@
 <link>https://status.asana.com/incidents/ckd9820c8284</link>
 <guid>https://status.asana.com/incidents/ckd9820c8284</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>28</var>, <var>08:29</var> UTC</small><br /><strong>Resolved</strong> - Our engineers have fixed the issue and Asana is now running normally. Again sincere apologies for any inconvenience this caused!</p><p><small>Jul <var>28</var>, <var>08:23</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>28</var>, <var>07:36</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing some difficulties; as a result, some customers who are hosted in our EU Data Center may be experiencing issues accessing Asana. We are currently investigating this issue and hope to have it fixed as soon as possible. Our sincere apologies for the inconvenience; if you’re impacted by this, please keep an eye on this page for the latest updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Jul 2022 08:29:19 +0000</pubDate>
 <pubDate>Thu, 28 Jul 2022 08:29:19 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +217,8 @@
 <link>https://status.asana.com/incidents/vfpzjfbw7rjc</link>
 <guid>https://status.asana.com/incidents/vfpzjfbw7rjc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>21</var>, <var>07:44</var> UTC</small><br /><strong>Resolved</strong> - We recovered around 7:37 UTC. The impact was delayed webhooks for about 45 minutes.</p><p><small>Jun <var>21</var>, <var>07:18</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with webhook delivery.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Jun 2022 07:44:32 +0000</pubDate>
 <pubDate>Tue, 21 Jun 2022 07:44:32 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +226,9 @@
 <link>https://status.asana.com/incidents/rbrdsv6lrfp1</link>
 <guid>https://status.asana.com/incidents/rbrdsv6lrfp1</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>23</var>, <var>00:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>23</var>, <var>00:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>May <var>23</var>, <var>00:04</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
 <pubDate>Mon, 23 May 2022 00:24:00 +0000</pubDate>
-<pubDate>Mon, 23 May 2022 00:24:00 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
