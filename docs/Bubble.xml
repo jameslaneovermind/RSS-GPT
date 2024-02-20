@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Bubble Status - Incident History</title>
+<link>https://status.bubble.io</link>
+
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/wbynk7gh40mk</link>
+<guid>https://status.bubble.io/incidents/wbynk7gh40mk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>15</var>, <var>09:04</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Feb <var>15</var>, <var>09:03</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 09:04:09 -0500</pubDate>
+<pubDate>Thu, 15 Feb 2024 09:04:09 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/jstlddpcdk75</link>
+<guid>https://status.bubble.io/incidents/jstlddpcdk75</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>06:41</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Feb <var> 7</var>, <var>06:30</var> EST</small><br /><strong>Identified</strong> - We have identified the root cause as being specific to one shard of our database. User applications belonging on that shard may be inaccessible. We are currently beginning remediation.</p><p><small>Feb <var> 7</var>, <var>05:17</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 06:41:45 -0500</pubDate>
+<pubDate>Wed, 07 Feb 2024 06:41:45 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/rzz4sdp84pmx</link>
+<guid>https://status.bubble.io/incidents/rzz4sdp84pmx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>05:03</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Feb <var> 7</var>, <var>05:03</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 05:03:54 -0500</pubDate>
+<pubDate>Wed, 07 Feb 2024 05:03:54 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/0vk9wywy8wtr</link>
+<guid>https://status.bubble.io/incidents/0vk9wywy8wtr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 3</var>, <var>00:46</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Feb <var> 3</var>, <var>00:46</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 00:46:06 -0500</pubDate>
+<pubDate>Sat, 03 Feb 2024 00:46:06 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/6nrtjb6l5cgt</link>
+<guid>https://status.bubble.io/incidents/6nrtjb6l5cgt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 1</var>, <var>14:30</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Feb <var> 1</var>, <var>13:17</var> EST</small><br /><strong>Monitoring</strong> - A temporary fix has been implemented and we are monitoring the results, while we work on a longer-term approach</p><p><small>Feb <var> 1</var>, <var>12:19</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 14:30:46 -0500</pubDate>
+<pubDate>Thu, 01 Feb 2024 14:30:46 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/668y7xcn9fth</link>
+<guid>https://status.bubble.io/incidents/668y7xcn9fth</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>09:23</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>30</var>, <var>09:18</var> EST</small><br /><strong>Monitoring</strong> - The system has been returned to operational and we are monitoring to confirm</p><p><small>Jan <var>30</var>, <var>09:06</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 09:23:38 -0500</pubDate>
+<pubDate>Tue, 30 Jan 2024 09:23:38 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/rj26w263hwdj</link>
+<guid>https://status.bubble.io/incidents/rj26w263hwdj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>19:29</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>25</var>, <var>15:40</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 19:29:37 -0500</pubDate>
+<pubDate>Thu, 25 Jan 2024 19:29:37 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/m9mqq4b9rgzw</link>
+<guid>https://status.bubble.io/incidents/m9mqq4b9rgzw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>15:40</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>25</var>, <var>15:38</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 15:40:06 -0500</pubDate>
+<pubDate>Thu, 25 Jan 2024 15:40:06 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/r3d9r25ych66</link>
+<guid>https://status.bubble.io/incidents/r3d9r25ych66</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>20:20</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>23</var>, <var>20:10</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 20:20:54 -0500</pubDate>
+<pubDate>Tue, 23 Jan 2024 20:20:54 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/y6k9454x14z0</link>
+<guid>https://status.bubble.io/incidents/y6k9454x14z0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>12:30</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>23</var>, <var>12:27</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 12:30:11 -0500</pubDate>
+<pubDate>Tue, 23 Jan 2024 12:30:11 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/28j2762qh9wk</link>
+<guid>https://status.bubble.io/incidents/28j2762qh9wk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>07:58</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>21:21</var> EST</small><br /><strong>Update</strong> - We are continuing to catch up on the backlog of data triggers and other scheduled activity. We are currently estimating that we will be fully caught up around 4:30 am ET</p><p><small>Jan <var>22</var>, <var>18:47</var> EST</small><br /><strong>Monitoring</strong> - We've fixed the problem and delayed data triggers and editor actions are beginning to run. Some of bubble.io's scheduled workflows were also delayed, so automated emails related to your account and other related things may be delayed. We're continuing to monitor the situation</p><p><small>Jan <var>22</var>, <var>16:59</var> EST</small><br /><strong>Identified</strong> - Some data triggers (especially in situations where many data triggers are kicked off by the same modifications) are currently delayed; they will run eventually.  There are also some editor operations that are currently delayed, such as capacity warning emails, database copy and restore on larger databases, and cancelling large number of scheduled tasks. We have identified a fix and will be unblocking all of these shortly.</p><p><small>Jan <var>22</var>, <var>16:41</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 07:58:35 -0500</pubDate>
+<pubDate>Tue, 23 Jan 2024 07:58:35 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/jqw87t1fkj7j</link>
+<guid>https://status.bubble.io/incidents/jqw87t1fkj7j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>19</var>, <var>01:40</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>19</var>, <var>01:38</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 01:40:28 -0500</pubDate>
+<pubDate>Fri, 19 Jan 2024 01:40:28 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/gx78kckjzx0j</link>
+<guid>https://status.bubble.io/incidents/gx78kckjzx0j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>10:25</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>18</var>, <var>10:24</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 10:25:27 -0500</pubDate>
+<pubDate>Thu, 18 Jan 2024 10:25:27 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/295zf42g121h</link>
+<guid>https://status.bubble.io/incidents/295zf42g121h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>10:23</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>18</var>, <var>10:22</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 10:23:52 -0500</pubDate>
+<pubDate>Thu, 18 Jan 2024 10:23:52 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/g7h4kjqhwn5h</link>
+<guid>https://status.bubble.io/incidents/g7h4kjqhwn5h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>10:18</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>18</var>, <var>10:17</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 10:18:14 -0500</pubDate>
+<pubDate>Thu, 18 Jan 2024 10:18:14 -0500</pubDate>
+</item>
+<item>
+<title>Users are unable to create new apps in the main cluster</title>
+<link>https://status.bubble.io/incidents/lz7l48l1b3h9</link>
+<guid>https://status.bubble.io/incidents/lz7l48l1b3h9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>16</var>, <var>14:35</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. A bad code change prevented app creations and has been fixed.</p><p><small>Jan <var>16</var>, <var>13:47</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 16 Jan 2024 14:35:36 -0500</pubDate>
+<pubDate>Tue, 16 Jan 2024 14:35:36 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/1nkq4rpy82yf</link>
+<guid>https://status.bubble.io/incidents/1nkq4rpy82yf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>12</var>, <var>21:01</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>12</var>, <var>20:57</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 21:01:07 -0500</pubDate>
+<pubDate>Fri, 12 Jan 2024 21:01:07 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/lx5xh1yjsfjc</link>
+<guid>https://status.bubble.io/incidents/lx5xh1yjsfjc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>12</var>, <var>20:51</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>12</var>, <var>20:50</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 20:51:47 -0500</pubDate>
+<pubDate>Fri, 12 Jan 2024 20:51:47 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/2z0z3dzyfwmm</link>
+<guid>https://status.bubble.io/incidents/2z0z3dzyfwmm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>12</var>, <var>20:45</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>12</var>, <var>20:35</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 20:45:44 -0500</pubDate>
+<pubDate>Fri, 12 Jan 2024 20:45:44 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/wfjmb0l5mbh0</link>
+<guid>https://status.bubble.io/incidents/wfjmb0l5mbh0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>15:09</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>11</var>, <var>14:55</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 15:09:31 -0500</pubDate>
+<pubDate>Thu, 11 Jan 2024 15:09:31 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/zn4m6kmf60t0</link>
+<guid>https://status.bubble.io/incidents/zn4m6kmf60t0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>10:19</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>11</var>, <var>10:14</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 10:19:59 -0500</pubDate>
+<pubDate>Thu, 11 Jan 2024 10:19:59 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/yw4gb0xxvgrl</link>
+<guid>https://status.bubble.io/incidents/yw4gb0xxvgrl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>10:13</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>11</var>, <var>10:11</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 10:13:33 -0500</pubDate>
+<pubDate>Thu, 11 Jan 2024 10:13:33 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/c36sy3z5xh4q</link>
+<guid>https://status.bubble.io/incidents/c36sy3z5xh4q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>10:10</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var>11</var>, <var>10:07</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 10:10:51 -0500</pubDate>
+<pubDate>Thu, 11 Jan 2024 10:10:51 -0500</pubDate>
+</item>
+<item>
+<title>Slow performance across main cluster and dedicated</title>
+<link>https://status.bubble.io/incidents/m5frpbsqz3qd</link>
+<guid>https://status.bubble.io/incidents/m5frpbsqz3qd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>14:07</var> EST</small><br /><strong>Resolved</strong> - We believe the incident was caused by this CloudFlare issue: https://www.cloudflarestatus.com/incidents/0lr96pfk333t<br /><br />We are working with the CloudFlare team to confirm. At this time, we believe our customers are no longer affected</p><p><small>Jan <var> 8</var>, <var>13:20</var> EST</small><br /><strong>Monitoring</strong> - Systems are recovered; we are still investigating what happened, but believe this was a transient networking or CDN issue</p><p><small>Jan <var> 8</var>, <var>13:06</var> EST</small><br /><strong>Investigating</strong> - We are seeing very slow page load times on both main cluster and dedicated, and are investigating</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 14:07:49 -0500</pubDate>
+<pubDate>Mon, 08 Jan 2024 14:07:49 -0500</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/srvpb02jyqr6</link>
+<guid>https://status.bubble.io/incidents/srvpb02jyqr6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>12:55</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Jan <var> 8</var>, <var>12:45</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 12:55:36 -0500</pubDate>
+<pubDate>Mon, 08 Jan 2024 12:55:36 -0500</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -18,3 +18,8 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - https://status.clickhouse.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
 - https://status.sendgrid.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Sendgrid.xml
 - https://status.mulesoft.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Mulesoft.xml
+- https://status.hashicorp.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Hashicorp.xml
+- https://status.openexchangerates.org/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Openexchangerates.xml
+- https://status.heap.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Heap.xml
+- https://status.supermetrics.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Supermetrics.xml
+- https://status.bubble.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Bubble.xml

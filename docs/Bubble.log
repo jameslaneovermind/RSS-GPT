@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-20 19:58:09.883227
+Existing_entries: 0
+Fetching from https://status.bubble.io/history.rss
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/wbynk7gh40mk)
+Summarization failed, append the original article
+error: gpt_summary() got an unexpected keyword argument 'language'
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/jstlddpcdk75)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/rzz4sdp84pmx)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/0vk9wywy8wtr)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/6nrtjb6l5cgt)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/668y7xcn9fth)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/rj26w263hwdj)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/m9mqq4b9rgzw)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/r3d9r25ych66)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/y6k9454x14z0)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/28j2762qh9wk)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/jqw87t1fkj7j)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/gx78kckjzx0j)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/295zf42g121h)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/g7h4kjqhwn5h)
+Append: [Users are unable to create new apps in the main cluster](https://status.bubble.io/incidents/lz7l48l1b3h9)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/1nkq4rpy82yf)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/lx5xh1yjsfjc)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/2z0z3dzyfwmm)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/wfjmb0l5mbh0)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/zn4m6kmf60t0)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/yw4gb0xxvgrl)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/c36sy3z5xh4q)
+Append: [Slow performance across main cluster and dedicated](https://status.bubble.io/incidents/m5frpbsqz3qd)
+Append: [Issues with Main Bubble Cluster](https://status.bubble.io/incidents/srvpb02jyqr6)
+append_entries: 25
+Finish: 2024-02-20 19:58:10.212405

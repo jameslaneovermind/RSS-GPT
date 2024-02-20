@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Heap Status - Incident History</title>
+<link>https://status.heap.io</link>
+
+<item>
+<title>Infrastructure Maintenance</title>
+<link>https://status.heap.io/incidents/ywhy9cp76rdv</link>
+<guid>https://status.heap.io/incidents/ywhy9cp76rdv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>21:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>18:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>18</var>, <var>09:03</var> PST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 21:00:59 -0800</pubDate>
+<pubDate>Sun, 18 Feb 2024 21:00:59 -0800</pubDate>
+</item>
+<item>
+<title>Infrastructure Maintenance</title>
+<link>https://status.heap.io/incidents/jfxsf6q6jh8h</link>
+<guid>https://status.heap.io/incidents/jfxsf6q6jh8h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>09:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>06:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>10:43</var> PST</small><br /><strong>Scheduled</strong> - We will be performing a routine upgrade to our infrastructure. There may be brief interruptions to the App availability and delays in data being available. Collection of data will not be impacted.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 09:00:56 -0800</pubDate>
+<pubDate>Sun, 18 Feb 2024 09:00:56 -0800</pubDate>
+</item>
+<item>
+<title>Data latency in the app</title>
+<link>https://status.heap.io/incidents/104pgrvy04hg</link>
+<guid>https://status.heap.io/incidents/104pgrvy04hg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>12:31</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Feb <var>13</var>, <var>11:26</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented. Some customers may still experience some latency. We continue to monitor.</p><p><small>Feb <var>13</var>, <var>10:12</var> PST</small><br /><strong>Update</strong> - We continue to work on fixing this latency. Will update again in an hour.</p><p><small>Feb <var>13</var>, <var>09:14</var> PST</small><br /><strong>Identified</strong> - The cause of the latency has been identified and we are working on fixing it. We will post another update within the hour.</p><p><small>Feb <var>13</var>, <var>08:26</var> PST</small><br /><strong>Investigating</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue. We'll be posting another update in 60 mins.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 12:31:26 -0800</pubDate>
+<pubDate>Tue, 13 Feb 2024 12:31:26 -0800</pubDate>
+</item>
+<item>
+<title>BigQuery syncs are failing</title>
+<link>https://status.heap.io/incidents/q5s86jjr36j9</link>
+<guid>https://status.heap.io/incidents/q5s86jjr36j9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 6</var>, <var>00:39</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved; all environments have recovered from the delays.</p><p><small>Feb <var> 5</var>, <var>22:19</var> PST</small><br /><strong>Investigating</strong> - You should not expect to see any new events or users showing up in your BigQuery tables. Data collection is unaffected. No data has been lost.</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 00:39:38 -0800</pubDate>
+<pubDate>Tue, 06 Feb 2024 00:39:38 -0800</pubDate>
+</item>
+<item>
+<title>Heap Connect Data Latency</title>
+<link>https://status.heap.io/incidents/fbk46yp0ltqd</link>
+<guid>https://status.heap.io/incidents/fbk46yp0ltqd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>22:02</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved; all environments have recovered from the delays.</p><p><small>Feb <var> 2</var>, <var>22:01</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var> 2</var>, <var>22:00</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var> 2</var>, <var>09:28</var> PST</small><br /><strong>Monitoring</strong> - Heap Connect is currently experiencing data latency for all warehouse destinations. Connect syncs are otherwise operational and will continue to sync any newly available data. Our engineering team is currently monitoring the situation and will post another update once the latency recovers.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Feb 2024 22:02:47 -0800</pubDate>
+<pubDate>Fri, 02 Feb 2024 22:02:47 -0800</pubDate>
+</item>
+<item>
+<title>Session list queries are currently not working.</title>
+<link>https://status.heap.io/incidents/pqp0wv5m1qvn</link>
+<guid>https://status.heap.io/incidents/pqp0wv5m1qvn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>26</var>, <var>10:57</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>09:55</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we're continue to monitor.</p><p><small>Jan <var>26</var>, <var>08:49</var> PST</small><br /><strong>Identified</strong> - We have diagnosed the issue and are working on a resolution. Data collection is not impacted, and no other query functionality is affected.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 10:57:20 -0800</pubDate>
+<pubDate>Fri, 26 Jan 2024 10:57:20 -0800</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/b72s6dr485gz</link>
+<guid>https://status.heap.io/incidents/b72s6dr485gz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>10</var>, <var>21:14</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>10</var>, <var>19:36</var> PST</small><br /><strong>Update</strong> - We continue to investigate the delay.</p><p><small>Jan <var>10</var>, <var>16:19</var> PST</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect syncs. All environments appear to be affected.<br /><br />Our engineers are currently investigating the issue. We'll be posting another update in 60 mins.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 21:14:04 -0800</pubDate>
+<pubDate>Wed, 10 Jan 2024 21:14:04 -0800</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/n5n7qyllxp8p</link>
+<guid>https://status.heap.io/incidents/n5n7qyllxp8p</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 9</var>, <var>21:53</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>20:01</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 9</var>, <var>17:11</var> PST</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect Syncs. All environments appear to be affected.<br /><br />Our engineering team is currently working to identify a root cause and implement a solution.<br /><br />We will post an update in 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 21:53:06 -0800</pubDate>
+<pubDate>Tue, 09 Jan 2024 21:53:06 -0800</pubDate>
+</item>
+<item>
+<title>Tables are currently not available on dashboards</title>
+<link>https://status.heap.io/incidents/z9n6gd4bsvvh</link>
+<guid>https://status.heap.io/incidents/z9n6gd4bsvvh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 4</var>, <var>10:09</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved. Please reach out to support if you continue to have issues with tables loading in dashboards.</p><p><small>Dec <var> 4</var>, <var>09:51</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented. We will continue to monitor to ensure customers are no longer impacted.</p><p><small>Dec <var> 4</var>, <var>09:41</var> PST</small><br /><strong>Identified</strong> - We have identified the issue and are working on a fix.</p><p><small>Dec <var> 4</var>, <var>09:34</var> PST</small><br /><strong>Investigating</strong> - We are investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Dec 2023 10:09:59 -0800</pubDate>
+<pubDate>Mon, 04 Dec 2023 10:09:59 -0800</pubDate>
+</item>
+<item>
+<title>App Unavailability</title>
+<link>https://status.heap.io/incidents/c0qy7vdjtc6b</link>
+<guid>https://status.heap.io/incidents/c0qy7vdjtc6b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>15</var>, <var>14:22</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>13:39</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we're monitoring the results. Data latency is still elevated but recovering.</p><p><small>Nov <var>15</var>, <var>12:33</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix and data latency is still elevated. No data has been lost. We'll post another update in the next hour.</p><p><small>Nov <var>15</var>, <var>11:10</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix and data latency is still elevated. No data has been lost.</p><p><small>Nov <var>15</var>, <var>09:32</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and we're working on a fix. During this time you may observe elevated data latency into the Heap app. Collection is unaffected and no data has been lost.</p><p><small>Nov <var>15</var>, <var>08:51</var> PST</small><br /><strong>Investigating</strong> - We're experiencing intermittent unavailability of Heap app queries. Data collection is unaffected. Our engineering team is investigating the issue and we'll post an update in the next 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Nov 2023 14:22:44 -0800</pubDate>
+<pubDate>Wed, 15 Nov 2023 14:22:44 -0800</pubDate>
+</item>
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/8t78z7cyk9fp</link>
+<guid>https://status.heap.io/incidents/8t78z7cyk9fp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 6</var>, <var>21:57</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 6</var>, <var>08:48</var> PST</small><br /><strong>Monitoring</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 Nov 2023 21:57:58 -0800</pubDate>
+<pubDate>Mon, 06 Nov 2023 21:57:58 -0800</pubDate>
+</item>
+<item>
+<title>Session Replay Scheduled Maintenance</title>
+<link>https://status.heap.io/incidents/fkz05sjc81wg</link>
+<guid>https://status.heap.io/incidents/fkz05sjc81wg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 5</var>, <var>03:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 4</var>, <var>18:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 3</var>, <var>15:19</var> PDT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance in our session replay pipeline at this time. You will notice delays when accessing the latest sessions. No data will be lost. The previous replays are still accessible. Thanks for your patience.</p>
+]]></content:encoded>
+<pubDate>Sun, 05 Nov 2023 03:00:02 -0800</pubDate>
+<pubDate>Sun, 05 Nov 2023 03:00:02 -0800</pubDate>
+</item>
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/9hrj24f1w76r</link>
+<guid>https://status.heap.io/incidents/9hrj24f1w76r</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 3</var>, <var>18:35</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 3</var>, <var>09:42</var> PDT</small><br /><strong>Identified</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 03 Nov 2023 18:35:58 -0700</pubDate>
+<pubDate>Fri, 03 Nov 2023 18:35:58 -0700</pubDate>
+</item>
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/5yfk611nk34k</link>
+<guid>https://status.heap.io/incidents/5yfk611nk34k</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 2</var>, <var>22:56</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 2</var>, <var>09:04</var> PDT</small><br /><strong>Identified</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Nov 2023 22:56:33 -0700</pubDate>
+<pubDate>Thu, 02 Nov 2023 22:56:33 -0700</pubDate>
+</item>
+<item>
+<title>App Unavailability</title>
+<link>https://status.heap.io/incidents/xdxhfm9m4f8m</link>
+<guid>https://status.heap.io/incidents/xdxhfm9m4f8m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>31</var>, <var>14:24</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>31</var>, <var>08:49</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we're monitoring the results.</p><p><small>Oct <var>31</var>, <var>08:20</var> PDT</small><br /><strong>Investigating</strong> - We're experiencing intermittent unavailability of the Heap app. Data collection is unaffected. Our engineering team is investigating the issue and we'll post an update in the next 15 minutes.</p>
+]]></content:encoded>
+<pubDate>Tue, 31 Oct 2023 14:24:48 -0700</pubDate>
+<pubDate>Tue, 31 Oct 2023 14:24:48 -0700</pubDate>
+</item>
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/qyvs31vlpgd0</link>
+<guid>https://status.heap.io/incidents/qyvs31vlpgd0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>27</var>, <var>08:02</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>26</var>, <var>11:34</var> PDT</small><br /><strong>Monitoring</strong> - Our engineers have deployed a fix and the latency is trending down. We'll post another update once it fully recovers.</p><p><small>Oct <var>26</var>, <var>09:59</var> PDT</small><br /><strong>Identified</strong> - Our engineers have identified the issue and are working on a fix. At this point, we don't have an ETA on recovery. We'll be posting another update in 60 mins.</p><p><small>Oct <var>26</var>, <var>08:43</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 08:02:40 -0700</pubDate>
+<pubDate>Fri, 27 Oct 2023 08:02:40 -0700</pubDate>
+</item>
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/b0ycw81rgsz8</link>
+<guid>https://status.heap.io/incidents/b0ycw81rgsz8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>26</var>, <var>04:26</var> PDT</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Oct <var>26</var>, <var>02:35</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Oct <var>26</var>, <var>01:01</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers have are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 04:26:14 -0700</pubDate>
+<pubDate>Thu, 26 Oct 2023 04:26:14 -0700</pubDate>
+</item>
+<item>
+<title>Help Center unavailable</title>
+<link>https://status.heap.io/incidents/jjqsz8bjy4cj</link>
+<guid>https://status.heap.io/incidents/jjqsz8bjy4cj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>25</var>, <var>15:35</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>25</var>, <var>13:36</var> PDT</small><br /><strong>Identified</strong> - Our Help Center is currently unavailable; we are working on the issue and look to have it back up shortly.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Oct 2023 15:35:57 -0700</pubDate>
+<pubDate>Wed, 25 Oct 2023 15:35:57 -0700</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/720mh99nl598</link>
+<guid>https://status.heap.io/incidents/720mh99nl598</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 5</var>, <var>07:34</var> PDT</small><br /><strong>Resolved</strong> - Latency is now back to normal levels.</p><p><small>Oct <var> 4</var>, <var>16:20</var> PDT</small><br /><strong>Update</strong> - We continue to investigate the latency issue.</p><p><small>Oct <var> 4</var>, <var>15:18</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect syncs. All environments appear to be affected. Our engineers are currently investigating the issue. We'll be posting another update in 60 mins.</p>
+]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 07:34:09 -0700</pubDate>
+<pubDate>Thu, 05 Oct 2023 07:34:09 -0700</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/fv7m368ysntm</link>
+<guid>https://status.heap.io/incidents/fv7m368ysntm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 3</var>, <var>02:10</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 2</var>, <var>21:12</var> PDT</small><br /><strong>Update</strong> - Engineering is still working to bring sync delays back to normal.</p><p><small>Oct <var> 2</var>, <var>18:29</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect syncs. All environments appear to be affected.<br /><br />Our engineers are currently investigating the issue. We'll be posting another update in 60 mins</p>
+]]></content:encoded>
+<pubDate>Tue, 03 Oct 2023 02:10:33 -0700</pubDate>
+<pubDate>Tue, 03 Oct 2023 02:10:33 -0700</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/3zfdld8hkq0f</link>
+<guid>https://status.heap.io/incidents/3zfdld8hkq0f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>30</var>, <var>00:43</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>29</var>, <var>22:21</var> PDT</small><br /><strong>Monitoring</strong> - Latency is back to normal, we will continue monitoring it</p><p><small>Sep <var>29</var>, <var>19:32</var> PDT</small><br /><strong>Update</strong> - Engineering is still working to bring sync delays back to normal.</p><p><small>Sep <var>29</var>, <var>18:25</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect syncs. All environments appear to be affected.<br /><br />Our engineers are currently investigating the issue. We'll be posting another update in 60 mins</p>
+]]></content:encoded>
+<pubDate>Sat, 30 Sep 2023 00:43:32 -0700</pubDate>
+<pubDate>Sat, 30 Sep 2023 00:43:32 -0700</pubDate>
+</item>
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/qn2kpbf9d2tt</link>
+<guid>https://status.heap.io/incidents/qn2kpbf9d2tt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>29</var>, <var>14:26</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>29</var>, <var>13:31</var> PDT</small><br /><strong>Update</strong> - Latency continues to improve. We expect syncs to be caught up in one hour.</p><p><small>Sep <var>29</var>, <var>12:47</var> PDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and are catching up delayed environments. <br /><br />We will post an update in two hours, or resolve the incident if all environments have recovered.</p><p><small>Sep <var>29</var>, <var>12:35</var> PDT</small><br /><strong>Identified</strong> - We have identified another issue and are working on a solution.<br /><br />We will post an update in two hours.</p><p><small>Sep <var>29</var>, <var>08:53</var> PDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and are beginning to catchup delayed environments. <br /><br />We will post an update in two hours, or resolve the incident if all environments have recovered.</p><p><small>Sep <var>29</var>, <var>07:03</var> PDT</small><br /><strong>Identified</strong> - Our engineering team has identified the root cause of the delayed syncs and is working on a solution. <br /><br />We will post an update in one hour.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 14:26:36 -0700</pubDate>
+<pubDate>Fri, 29 Sep 2023 14:26:36 -0700</pubDate>
+</item>
+<item>
+<title>Heap Help Center is unavailable</title>
+<link>https://status.heap.io/incidents/dc20mpqjpjll</link>
+<guid>https://status.heap.io/incidents/dc20mpqjpjll</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>14</var>, <var>12:33</var> PDT</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Sep <var>14</var>, <var>11:27</var> PDT</small><br /><strong>Identified</strong> - The Heap Help Center is currently unavailable due to an outage of our host. We do not currently have an ETA for a fix and will post an update as soon as we have more information. Please follow https://status.pantheon.io/incidents/kxzrlt08z6ky for additional updates.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Sep 2023 12:33:20 -0700</pubDate>
+<pubDate>Thu, 14 Sep 2023 12:33:20 -0700</pubDate>
+</item>
+<item>
+<title>Heap app is not loading</title>
+<link>https://status.heap.io/incidents/bjlhmj6tqn60</link>
+<guid>https://status.heap.io/incidents/bjlhmj6tqn60</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>11</var>, <var>10:42</var> PDT</small><br /><strong>Resolved</strong> - This issue is no longer happening. No data collection was affected.</p><p><small>Sep <var>11</var>, <var>10:31</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Sep 2023 10:42:49 -0700</pubDate>
+<pubDate>Mon, 11 Sep 2023 10:42:49 -0700</pubDate>
+</item>
+<item>
+<title>Temporary Degraded Query Performance</title>
+<link>https://status.heap.io/incidents/d0y5w8k3t9vs</link>
+<guid>https://status.heap.io/incidents/d0y5w8k3t9vs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 6</var>, <var>07:14</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 5</var>, <var>15:37</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var> 5</var>, <var>15:11</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Sep <var> 5</var>, <var>14:50</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing degraded query performance in the app. You may notice data loading slowly in some reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue. We'll be posting another update in 60 mins.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Sep 2023 07:14:54 -0700</pubDate>
+<pubDate>Wed, 06 Sep 2023 07:14:54 -0700</pubDate>
+</item>
+
+</channel>
+</rss>
