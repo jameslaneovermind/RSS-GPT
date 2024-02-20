@@ -16,3 +16,4 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - https://www.vercel-status.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Vercel.xml
 - https://www.gocardless-status.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/GoCardless.xml
 - https://status.clickhouse.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
+- https://status.sendgrid.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
