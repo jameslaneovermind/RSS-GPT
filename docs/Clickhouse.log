@@ -1,0 +1,34 @@
+------------------------------------------------------
+Started: 2024-02-20 15:11:19.792492
+Existing_entries: 0
+Fetching from https://status.clickhouse.com/history.rss
+Token length: 193
+Summarized using GPT-3.5-turbo-1106
+Append: [Temporary proxy coordinator outage on GCP europe-west4](https://status.clickhouse.com/incidents/pvr6mnzqbrhd)
+Token length: 449
+Summarized using GPT-3.5-turbo-1106
+Append: [Dev instances incorrectly resized](https://status.clickhouse.com/incidents/0vlbl3267zg5)
+Append: [Delay in metering metrics for services on AWS](https://status.clickhouse.com/incidents/57h25l3nr54b)
+Append: [Instances may stay in provisioning state longer than expected](https://status.clickhouse.com/incidents/35265b79d727)
+Append: [STS token failure in AWS leads to ClickHouse Cloud Outage](https://status.clickhouse.com/incidents/ss87587lwf15)
+Append: [A subset of keepers nodes hosted on GCP US-east1 has lost connectivity.](https://status.clickhouse.com/incidents/z4rzs2z18d92)
+Append: [Metrics charts may be unavailable in Control Plane](https://status.clickhouse.com/incidents/zvj46ngjydq9)
+Append: [ClickHouse Cloud permissions errors](https://status.clickhouse.com/incidents/mmxx3sxj9rd1)
+Append: [ClickHouse Cloud SQL Console is not loading](https://status.clickhouse.com/incidents/dfz9rmd7crgd)
+Append: [SQLConsole is not opening](https://status.clickhouse.com/incidents/m11sy5b0q4jn)
+Append: [ClickHouse SQL Console not Loading](https://status.clickhouse.com/incidents/08fyvzm69pvw)
+Append: [GCP regions offline](https://status.clickhouse.com/incidents/68vzrzts31b5)
+Append: [Authentification Issue When Using the Developer Role](https://status.clickhouse.com/incidents/72rlnjmcgvhv)
+Append: [ClickHouse Cloud Usage Summary Page is inaccessible](https://status.clickhouse.com/incidents/2fps50h2q73p)
+Append: [ClickHouse Cloud UI is not accessible](https://status.clickhouse.com/incidents/2vt44trgqgym)
+Append: [Upstream AWS incident in US-East-1 in impacting ClickHouse Cloud services](https://status.clickhouse.com/incidents/b4b0x08gt608)
+Append: [SQL console unavailable](https://status.clickhouse.com/incidents/x0ds5mv6v036)
+Append: [Authentication issue with the SQL Console](https://status.clickhouse.com/incidents/tl5zdz5mwb92)
+Append: [Previously-created UDF inaccessible](https://status.clickhouse.com/incidents/pptk38lrml8m)
+Append: [Error in the SQL console](https://status.clickhouse.com/incidents/t1v3frqtz9qr)
+Append: [Auto-scaling slider issue](https://status.clickhouse.com/incidents/ypsgb4x0gj60)
+Append: [HTTP query failures](https://status.clickhouse.com/incidents/hb2jr8s4bd41)
+Append: [us-west-2 region offline](https://status.clickhouse.com/incidents/xvmgt71sm72m)
+Append: [Incorrect Backup Status](https://status.clickhouse.com/incidents/rdcxpjqr8b16)
+append_entries: 24
+Finish: 2024-02-20 15:11:26.689863
