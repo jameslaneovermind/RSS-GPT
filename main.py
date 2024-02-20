@@ -116,7 +116,7 @@ def truncate_entries(entries, max_entries):
 def gpt_summary(query, model):
     messages = [
         {"role": "user", "content": query},
-        {"role": "assistant", "content": f"Given the following raw HTML snippet of a company's status report. Use the provided HTML to determine the significance of the status update. Search for keywords in the text such as 'critical', 'major', 'outage', 'incident', which may indicate a high impact on users. In contrast, keywords like 'minor', 'scheduled maintenance', or 'resolved' might suggest a lower impact. Based on your findings, assign a tag to the update (High, Medium, or Low). Then, write a concise summary that encapsulates the key points of the status update. Your summary should be approximately 250 characters in length. Finally, format your output to include both the assigned tag and the summary in the following structure: [Tag(High/Medium/Low)] - Status Title <br></br> Status Summary. , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"} 
+        {"role": "assistant", "content": f"Given a raw HTML snippet of a company's status report determine the significance of the status update. Search for keywords in the text such as 'critical', 'major', 'outage', 'incident', which may indicate a high impact on users. In contrast, keywords like 'minor', 'scheduled maintenance', or 'resolved' might suggest a lower impact. Based on your findings, assign a tag to the update (High, Medium, or Low). Then, write a concise summary that encapsulates the key points of the status update. Your summary should be approximately 250 characters in length. Your output absolutely must be formated in the following structure: [Tag(High/Medium/Low)] - Status Title <br></br> Status Summary: Summary."} 
         ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
@@ -233,13 +233,13 @@ def output(sec, language):
             elif OPENAI_API_KEY:
                 token_length = len(cleaned_article)
                 try:
-                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo-1106", language=language)
+                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo-1106")
                     with open(log_file, 'a') as f:
                         f.write(f"Token length: {token_length}\n")
                         f.write(f"Summarized using GPT-3.5-turbo-1106\n")
                 except:
                     try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-1106-preview", language=language)
+                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-1106-preview")
                         with open(log_file, 'a') as f:
                             f.write(f"Token length: {token_length}\n")
                             f.write(f"Summarized using GPT-4-1106-preview\n")
