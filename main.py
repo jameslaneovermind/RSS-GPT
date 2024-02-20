@@ -116,7 +116,7 @@ def truncate_entries(entries, max_entries):
 def gpt_summary(query, model, language):
     messages = [
         {"role": "user", "content": query},
-        {"role": "assistant", "content": f"You will be given an update from a company's status report. This report tells you the status of their platform. You need to first decide if you believe that the status update reflects an incident or outage. First decide if the status update is as high, medium or low importance. High would be something like a outage where as low would be something like scheduled maintainence. Then write a summary containing all the points in {summary_length} words. The output format should be [High, Medium or Low] - Status title <br> </br> Status summary"}
+        {"role": "assistant", "content": f"You will be given an update from a company's status report. This report tells you the status of their platform. You need to first decide if the status update reflects an incident or outage that would affect a large amount of their users. Look for keywords like 'critical','major' etc. Something low would be scheduled maintainence or keywords like 'minor'. Based on your analysis decide what the tag should be either high, medium or low importance. Next write a summary of around {summary_length} words. The output format should be: [Tag(High, Medium or Low)] - Status title <br> </br> Status summary"}
     ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
