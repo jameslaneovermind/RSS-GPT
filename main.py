@@ -116,7 +116,7 @@ def truncate_entries(entries, max_entries):
 def gpt_summary(query, model, language):
     messages = [
         {"role": "user", "content": query},
-        {"role": "assistant", "content": f"You will be given an update from a company's status report. This report tells you the status of their platform. You need to first decide if you believe that the status update reflects an incident or outage. First decide if the status update is as high, medium or low importance. High would be something like a outage where as low would be somehting like scheduled maintaience. Then line break. Then write a summary containing all the points in {summary_length} words, output them in order by points, and output in the following format '<br><br>Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
+        {"role": "assistant", "content": f"You will be given an update from a company's status report. This report tells you the status of their platform. You need to first decide if you believe that the status update reflects an incident or outage. First decide if the status update is as high, medium or low importance. High would be something like a outage where as low would be something like scheduled maintainence. Then write a summary containing all the points in {summary_length} words. The output format should be [High, Medium or Low] - Status title <br> </br> Status summary"}
     ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
