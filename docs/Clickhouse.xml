@@ -4,6 +4,7 @@
 <title>ClickHouse Cloud Status - Incident History</title>
 <link>https://status.clickhouse.com</link>
 
+
 <item>
 <title>Temporary proxy coordinator outage on GCP europe-west4</title>
 <link>https://status.clickhouse.com/incidents/pvr6mnzqbrhd</link>
@@ -13,10 +14,9 @@
 
 Summary:
 The status report indicates that a proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4. This resulted in failed new connections between a specific time frame. The outage affected the company's services and impacted the ability to establish new connections during the outage period. The incident was resolved, and normal operations were restored after the issue was addressed. The outage highlights the importance of monitoring and addressing local outages promptly to minimize the impact on users and business operations. The company will likely review its processes to prevent similar outages in the future. The incident serves as a reminder of the significance of maintaining reliable and stable platforms for uninterrupted service delivery.
-Summary:<br><br>The status report indicates that a proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4. This resulted in failed new connections between a specific time frame. The outage affected the company's services and impacted the ability to establish new connections during the outage period. The incident was resolved, and normal operations were restored after the issue was addressed. The outage highlights the importance of monitoring and addressing local outages promptly to minimize the impact on users and business operations. The company will likely review its processes to prevent similar outages in the future. The incident serves as a reminder of the significance of maintaining reliable and stable platforms for uninterrupted service delivery. <div>
+Summary:<br /><br />The status report indicates that a proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4. This resulted in failed new connections between a specific time frame. The outage affected the company's services and impacted the ability to establish new connections during the outage period. The incident was resolved, and normal operations were restored after the issue was addressed. The outage highlights the importance of monitoring and addressing local outages promptly to minimize the impact on users and business operations. The company will likely review its processes to prevent similar outages in the future. The incident serves as a reminder of the significance of maintaining reliable and stable platforms for uninterrupted service delivery. <div>
 <p><small>Jan <var>29</var>, <var>14:52</var> UTC</small><br /><strong>Resolved</strong> - A proxy coordinator experienced a local outage on ClickHouse Cloud GCP europe-west4 resulting in failed new connections between 2024-01-29T14:15 and 2024-01-29T14:25</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 14:52:16 +0000</pubDate>
 <pubDate>Mon, 29 Jan 2024 14:52:16 +0000</pubDate>
 </item>
 <item>
@@ -24,12 +24,11 @@ Summary:<br><br>The status report indicates that a proxy coordinator experienced
 <link>https://status.clickhouse.com/incidents/0vlbl3267zg5</link>
 <guid>https://status.clickhouse.com/incidents/0vlbl3267zg5</guid>
 <content:encoded><![CDATA[
-<div> Identified, Resolved, Update, GCP, dev services<br>
-Summary:<br>
+<div> Identified, Resolved, Update, GCP, dev services<br />
+Summary:<br />
 The company has identified an issue with a subset of their development services being resized and plans to resolve it by 12p PST. They have also updated that GCP was impacted and have applied a patch to most regions. The patch has been verified and they are considering this issue resolved. <div>
 <p><small>Jan <var>18</var>, <var>20:07</var> UTC</small><br /><strong>Resolved</strong> - The patch has been applied to all regions and verified. We are considering this resolved.</p><p><small>Jan <var>18</var>, <var>20:04</var> UTC</small><br /><strong>Update</strong> - The patch has been applied to most regions which are marked as operational below.</p><p><small>Jan <var>18</var>, <var>17:50</var> UTC</small><br /><strong>Update</strong> - We've identified that GCP was also impacted.</p><p><small>Jan <var>18</var>, <var>17:48</var> UTC</small><br /><strong>Identified</strong> - A subset of dev services were resized from 8GB to 6GB. The fix has been identified and is expected to be resolved by 12p PST.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 20:07:24 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 20:07:24 +0000</pubDate>
 </item>
 <item>
@@ -37,10 +36,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/57h25l3nr54b</link>
 <guid>https://status.clickhouse.com/incidents/57h25l3nr54b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>23</var>, <var>22:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Usage and billing data from the outage period have been backfilled and are current. Some monitoring metrics from during the outage period may show as reduced or incomplete unfortunately, although these do not impact the usage and billing data. Thanks for your patience during this work, and happy holidays and new years.</p><p><small>Dec <var>22</var>, <var>01:33</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results. Metrics are flowing in properly now, although ClickHouse will still need to backfill some gaps in the usage and billing data.</p><p><small>Dec <var>21</var>, <var>22:49</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified, and a fix is being implemented. The delayed data is in the process of being backfilled.</p><p><small>Dec <var>21</var>, <var>22:35</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse Cloud is experiencing delays in the metering data on our metrics cluster for services on AWS. The metering data for today's (Dec 21 2023) compute usage is delayed and not current in the ClickHouse Cloud Console usage and data. ClickHouse is aware of the issue and investigating.</p>
 ]]></content:encoded>
-<pubDate>Sat, 23 Dec 2023 22:49:37 +0000</pubDate>
 <pubDate>Sat, 23 Dec 2023 22:49:37 +0000</pubDate>
 </item>
 <item>
@@ -48,10 +45,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/35265b79d727</link>
 <guid>https://status.clickhouse.com/incidents/35265b79d727</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>10:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>09:36</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>18</var>, <var>09:35</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>09:34</var> UTC</small><br /><strong>Update</strong> - The issue has been resolved. New instances in the AWS AP-SOUTH-1 region are provisioned as usual without delays. Services which were provisioned within two past hours will be provisioned soon.</p><p><small>Dec <var>18</var>, <var>09:09</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the reason of the issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 10:39:55 +0000</pubDate>
 <pubDate>Mon, 18 Dec 2023 10:39:55 +0000</pubDate>
 </item>
 <item>
@@ -59,10 +54,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/ss87587lwf15</link>
 <guid>https://status.clickhouse.com/incidents/ss87587lwf15</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>04:02</var> UTC</small><br /><strong>Resolved</strong> - We received confirmation from AWS support that the issue has been resolved, and our monitoring no longer detects any errors. This incident is now considered resolved. For additional details regarding the AWS IAM issue, you can refer to https://health.aws.amazon.com/health/status?eventID=arn:aws:health:global::event/IAM/AWS_IAM_OPERATIONAL_ISSUE/AWS_IAM_OPERATIONAL_ISSUE_62881_637B393821C</p><p><small>Dec <var>18</var>, <var>03:50</var> UTC</small><br /><strong>Monitoring</strong> - Our team has validated that the creation of new ClickHouse services is operational across all AWS regions. While awaiting the definitive confirmation from the AWS support team, we will continue to monitor all regions for any potential issues.</p><p><small>Dec <var>18</var>, <var>03:36</var> UTC</small><br /><strong>Identified</strong> - Update: The AWS support team has verified that this issue specifically impacts the creation and modification of IAM roles, users, and policies, with no impact on existing IAM configurations. Our team conducted a thorough check with our internal services, existing customer instances, and observed no disruptions. Consequently, we can deduce that this incident solely affects newly created ClickHouse instances.</p><p><small>Dec <var>18</var>, <var>03:19</var> UTC</small><br /><strong>Investigating</strong> - We have just been informed about a persistent problem affecting the AWS IAM STS token endpoint. This issue has led to disruptions in ClickHouse services for all customers in all AWS regions. Currently, it is not possible to provision new services, and a small number of existing services may experience some disruption. Our team is collaborating with AWS to resolve this issue at the earliest opportunity.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 04:02:15 +0000</pubDate>
 <pubDate>Mon, 18 Dec 2023 04:02:15 +0000</pubDate>
 </item>
 <item>
@@ -70,10 +63,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/z4rzs2z18d92</link>
 <guid>https://status.clickhouse.com/incidents/z4rzs2z18d92</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>20:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>17:27</var> UTC</small><br /><strong>Update</strong> - All the keepers affected have been recovered. We are continuing to identify the root cause of the issue.</p><p><small>Dec <var>13</var>, <var>15:58</var> UTC</small><br /><strong>Monitoring</strong> - We replaced the nodes and are monitoring the situation. We are still working on identifying the root cause.</p><p><small>Dec <var>13</var>, <var>15:57</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>13</var>, <var>15:54</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue happening in US-east1 in GCP. It appears that a subset of the nodes hosting keepers has temporarily lost connectivity, and we are investigating the root cause.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 20:03:12 +0000</pubDate>
 <pubDate>Wed, 13 Dec 2023 20:03:12 +0000</pubDate>
 </item>
 <item>
@@ -81,10 +72,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/zvj46ngjydq9</link>
 <guid>https://status.clickhouse.com/incidents/zvj46ngjydq9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>08:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>18:10</var> UTC</small><br /><strong>Monitoring</strong> - Issues resolved. Metrics should be available for all services in all regions.</p><p><small>Dec <var> 7</var>, <var>12:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 7</var>, <var>11:47</var> UTC</small><br /><strong>Investigating</strong> - Metrics charts in UI may be unavailable.<br />ClickHouse services are completely operational in all affected regions.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 08:29:36 +0000</pubDate>
 <pubDate>Fri, 08 Dec 2023 08:29:36 +0000</pubDate>
 </item>
 <item>
@@ -92,10 +81,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/mmxx3sxj9rd1</link>
 <guid>https://status.clickhouse.com/incidents/mmxx3sxj9rd1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>17</var>, <var>20:06</var> UTC</small><br /><strong>Resolved</strong> - After investigation and identification, this incident has been resolved. As noted previously, this new permissions checking in ClickHouse 23.9 is a better and more proper method of ensuring grants on these uses of asynchronous inserts and dictionaries. In order to properly apply these grants, please refer to the following ClickHouse Knowledge Base (KB) article:<br />https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release<br /><br />We apologize for any interruption from this change in behavior, as it should have been better communicated prior to the release. If you require any additional assistance with updating your user grants in ClickHouse Cloud, please reach out to ClickHouse Support via a new case or chat:<br />https://clickhouse.cloud/support</p><p><small>Nov <var>17</var>, <var>19:57</var> UTC</small><br /><strong>Monitoring</strong> - As noted, the workaround for this new behavior in ClickHouse 23.9 is described in more detail in the following KB article:<br />https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release<br /><br />If you require any additional assistance in updating your user grants in ClickHouse Cloud, please reach out to ClickHouse Support via a new case or chat:<br />https://clickhouse.cloud/support</p><p><small>Nov <var>17</var>, <var>19:53</var> UTC</small><br /><strong>Identified</strong> - The root cause of these permissions errors has been identified and is due to more strict checking of grants for asynchronous inserts and dictionaries in the 23.9 release. If you are using a non-default user with limited permissions to perform asynchronous inserts or dictionary creation, you must apply additional grants to this user.<br /><br />The workaround for this issue is described in more detail in the following KB article: https://clickhouse.com/docs/knowledgebase/ingest-failures-23-9-release</p><p><small>Nov <var>17</var>, <var>18:18</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse has been alerted to user-level database 4xx permissions errors in ClickHouse Cloud and is actively investigating the issue</p>
 ]]></content:encoded>
-<pubDate>Fri, 17 Nov 2023 20:06:19 +0000</pubDate>
 <pubDate>Fri, 17 Nov 2023 20:06:19 +0000</pubDate>
 </item>
 <item>
@@ -103,10 +90,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/dfz9rmd7crgd</link>
 <guid>https://status.clickhouse.com/incidents/dfz9rmd7crgd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>22:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. There was a problem with a load balancer service - this is now fixed, and the Cloud team is investigating how to prevent such incidents in the future. This incident affected only the SQL Console, and other methods of connecting to ClickHouse Cloud services via the ClickHouse Native SSL/TLS protocol (port 9440) or HTTPS protocol (8443) were unaffected. We apologize for any disruption.</p><p><small>Nov <var> 8</var>, <var>21:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 8</var>, <var>21:14</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 8</var>, <var>21:07</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse has been alerted to an issue with the SQL Console. Cloud users receive an error of "503 Service Temporarily Unavailable" when attempting to access or use the SQL Console. We are actively investigating the scope and cause of this issue, and we will update here once we have more information.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 22:42:07 +0000</pubDate>
 <pubDate>Wed, 08 Nov 2023 22:42:07 +0000</pubDate>
 </item>
 <item>
@@ -114,10 +99,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/m11sy5b0q4jn</link>
 <guid>https://status.clickhouse.com/incidents/m11sy5b0q4jn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 6</var>, <var>15:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 6</var>, <var>15:07</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 6</var>, <var>14:24</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 15:29:53 +0000</pubDate>
 <pubDate>Mon, 06 Nov 2023 15:29:53 +0000</pubDate>
 </item>
 <item>
@@ -125,10 +108,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/08fyvzm69pvw</link>
 <guid>https://status.clickhouse.com/incidents/08fyvzm69pvw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>19</var>, <var>10:41</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>19</var>, <var>10:30</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with the ClickHouse SQL console not loading. All other clients should be able to connect to your Clickhouse cloud service.</p>
 ]]></content:encoded>
-<pubDate>Thu, 19 Oct 2023 10:41:14 +0000</pubDate>
 <pubDate>Thu, 19 Oct 2023 10:41:14 +0000</pubDate>
 </item>
 <item>
@@ -136,10 +117,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/68vzrzts31b5</link>
 <guid>https://status.clickhouse.com/incidents/68vzrzts31b5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>22</var>, <var>23:00</var> UTC</small><br /><strong>Resolved</strong> - Our alert system detected a disruption in GCP hosted instances at 10:45 pm UTC. Our engineering team promptly initiated an investigation and identified that the problem stemmed from the ongoing incident on the GCP platform. Subsequently, we escalated the matter to GCP support by opening a Priority 1 support case. This issue is now resolved and all systems are operational</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 23:00:00 +0000</pubDate>
 <pubDate>Fri, 22 Sep 2023 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -147,10 +126,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/72rlnjmcgvhv</link>
 <guid>https://status.clickhouse.com/incidents/72rlnjmcgvhv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>11</var>, <var>13:47</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>11</var>, <var>11:29</var> UTC</small><br /><strong>Identified</strong> - SQL Cloud Console is currently affected by an authentication issue preventing access to databases when using a developer role. The root cause has been identified, and a fix is being worked on and released as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Sep 2023 13:47:58 +0000</pubDate>
 <pubDate>Mon, 11 Sep 2023 13:47:58 +0000</pubDate>
 </item>
 <item>
@@ -158,10 +135,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/2fps50h2q73p</link>
 <guid>https://status.clickhouse.com/incidents/2fps50h2q73p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>25</var>, <var>10:21</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>25</var>, <var>03:35</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue where customers cannot access ClickHouse Cloud Usage Summary Page.</p>
 ]]></content:encoded>
-<pubDate>Fri, 25 Aug 2023 10:21:32 +0000</pubDate>
 <pubDate>Fri, 25 Aug 2023 10:21:32 +0000</pubDate>
 </item>
 <item>
@@ -169,10 +144,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/2vt44trgqgym</link>
 <guid>https://status.clickhouse.com/incidents/2vt44trgqgym</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>18</var>, <var>06:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>18</var>, <var>06:27</var> UTC</small><br /><strong>Monitoring</strong> - We have rectified the issue and seeing our ControlPlane recovering.</p><p><small>Jun <var>18</var>, <var>06:00</var> UTC</small><br /><strong>Identified</strong> - Please note that all customers ClickHouse instances are operational - Only the ClickHouse Cloud UI is suffering a temporary outage. We have identified the issue and escalating to the relevant team.</p><p><small>Jun <var>18</var>, <var>05:59</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue where customers cannot access ClickHouse Cloud UI</p>
 ]]></content:encoded>
-<pubDate>Sun, 18 Jun 2023 06:35:42 +0000</pubDate>
 <pubDate>Sun, 18 Jun 2023 06:35:42 +0000</pubDate>
 </item>
 <item>
@@ -180,10 +153,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/b4b0x08gt608</link>
 <guid>https://status.clickhouse.com/incidents/b4b0x08gt608</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>13</var>, <var>21:36</var> UTC</small><br /><strong>Resolved</strong> - ClickHouse has completed its testing and the issue looks resolved - no further issues or errors are observed for the US-East-1 region</p><p><small>Jun <var>13</var>, <var>20:53</var> UTC</small><br /><strong>Monitoring</strong> - AWS is reporting the fix has been implemented and they are seeing reduced errors. AWS is monitoring recovery. ClickHouse is testing and monitoring recovery.</p><p><small>Jun <var>13</var>, <var>20:10</var> UTC</small><br /><strong>Identified</strong> - The issues in US-East-1 have been identified as related to the AWS upstream degradation at AWS. AWS is reporting that they have identified the root cause as an issue with AWS Lambda and are working on resolution https://health.aws.amazon.com/health/status</p><p><small>Jun <var>13</var>, <var>19:42</var> UTC</small><br /><strong>Investigating</strong> - ClickHouse is currently investigating an issue with service management in AWS region US-East-1. We believe this is due to an issue with upstream provider AWS as reported here:<br />https://health.aws.amazon.com/health/status<br />https://status.aws.amazon.com/rss/multipleservices-us-east-1.rss<br /><br />Operational issue - Multiple services (N. Virginia)<br />Affected AWS services<br />The following AWS services have been affected by this issue. Degradation (3 services)<br />* AWS CloudFormation<br />* AWS Lambda<br />* Amazon Connect<br /><br />ClickHouse Services impacted in US-East-1 include Control Plane functions such as the Cloud console, service creation or deletion, user management, API, usage metrics and billing.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 21:36:18 +0000</pubDate>
 <pubDate>Tue, 13 Jun 2023 21:36:18 +0000</pubDate>
 </item>
 <item>
@@ -191,10 +162,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/x0ds5mv6v036</link>
 <guid>https://status.clickhouse.com/incidents/x0ds5mv6v036</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>13</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Sat, 13 May 2023 12:00:00 +0000</pubDate>
 <pubDate>Sat, 13 May 2023 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -202,10 +171,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/tl5zdz5mwb92</link>
 <guid>https://status.clickhouse.com/incidents/tl5zdz5mwb92</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>21</var>, <var>02:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>21</var>, <var>01:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and deployed and we are monitoring the results.</p><p><small>Apr <var>21</var>, <var>01:31</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being rolled out. It is estimated that it will take about 30 minutes for all errors to be cleared.</p><p><small>Apr <var>21</var>, <var>01:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>21</var>, <var>01:13</var> UTC</small><br /><strong>Investigating</strong> - We have identified a problem with the SQL Console in ClickHouse Cloud. The SQL Console is requiring a user to enter their user credentials (username + password), when normally the SQL Console is automatically authenticated to a user's database. The workaround is to manually enter your credentials. We are investigating the problem and will roll out a fix as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 21 Apr 2023 02:06:22 +0000</pubDate>
 <pubDate>Fri, 21 Apr 2023 02:06:22 +0000</pubDate>
 </item>
 <item>
@@ -213,10 +180,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/pptk38lrml8m</link>
 <guid>https://status.clickhouse.com/incidents/pptk38lrml8m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>13</var>, <var>00:55</var> UTC</small><br /><strong>Resolved</strong> - The rollout is over and all previously created UDF should be accessible.</p><p><small>Apr <var>13</var>, <var>00:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are rolling out the patch.</p><p><small>Apr <var>12</var>, <var>21:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Apr <var>12</var>, <var>21:50</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating an issue where previously-created UDFs cannot be accessed after the latest ClickHouse Cloud release (v23.3).  Any UDFs created after the update are unaffected.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Apr 2023 00:55:39 +0000</pubDate>
 <pubDate>Thu, 13 Apr 2023 00:55:39 +0000</pubDate>
 </item>
 <item>
@@ -224,10 +189,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/t1v3frqtz9qr</link>
 <guid>https://status.clickhouse.com/incidents/t1v3frqtz9qr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>11</var>, <var>14:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>11</var>, <var>14:26</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue and are working towards resolving it.</p><p><small>Apr <var>11</var>, <var>14:23</var> UTC</small><br /><strong>Update</strong> - We are currently troubleshooting an issue with the SQL console being unavailable for users based out of Europe. The error returned is the following: {"error":"Unexpected token < in JSON at position 0"}</p><p><small>Apr <var>11</var>, <var>14:08</var> UTC</small><br /><strong>Investigating</strong> - We are currently troubleshooting an issue with the SQL console being unavailable for a subset of users. The error returned is the following: {"error":"Unexpected token < in JSON at position 0"}</p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Apr 2023 14:29:17 +0000</pubDate>
 <pubDate>Tue, 11 Apr 2023 14:29:17 +0000</pubDate>
 </item>
 <item>
@@ -235,10 +198,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/ypsgb4x0gj60</link>
 <guid>https://status.clickhouse.com/incidents/ypsgb4x0gj60</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 7</var>, <var>23:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. After further investigation, we found the impact was limited to only a few services, and all services are now set back to their previous scaler setting. If you have any questions, please contact ClickHouse Support at https://clickhouse.cloud/support</p><p><small>Mar <var> 7</var>, <var>23:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented in all regions, and we are monitoring the results.</p><p><small>Mar <var> 7</var>, <var>22:30</var> UTC</small><br /><strong>Identified</strong> - ClickHouse Cloud has identified an issue with our auto-scaling process in all regions. For services which had not manually adjusted their auto-scaler slider and were using the default (and which were not currently idled), those services could have had their scaler sizing reduced by this issue. We are actively pushing out a fix to all regions now.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Mar 2023 23:45:52 +0000</pubDate>
 <pubDate>Tue, 07 Mar 2023 23:45:52 +0000</pubDate>
 </item>
 <item>
@@ -246,10 +207,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/hb2jr8s4bd41</link>
 <guid>https://status.clickhouse.com/incidents/hb2jr8s4bd41</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>28</var>, <var>02:00</var> UTC</small><br /><strong>Resolved</strong> - A configuration error caused query failures on the HTTP interface. This issue was investigated and resolved</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 Feb 2023 02:00:00 +0000</pubDate>
 <pubDate>Tue, 28 Feb 2023 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -257,10 +216,8 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/xvmgt71sm72m</link>
 <guid>https://status.clickhouse.com/incidents/xvmgt71sm72m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 4</var>, <var>01:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 4</var>, <var>01:22</var> UTC</small><br /><strong>Investigating</strong> - At 4:04PM PST we detected US-West-2 Region was down. After investigating and applying a fix service restoration was confirmed at 5:05PM PST. Customers in the us-west-2 region may have experienced connectivity issues and service restarts.</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 Feb 2023 01:26:53 +0000</pubDate>
 <pubDate>Sat, 04 Feb 2023 01:26:53 +0000</pubDate>
 </item>
 <item>
@@ -268,12 +225,9 @@ The company has identified an issue with a subset of their development services 
 <link>https://status.clickhouse.com/incidents/rdcxpjqr8b16</link>
 <guid>https://status.clickhouse.com/incidents/rdcxpjqr8b16</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>13:15</var> UTC</small><br /><strong>Resolved</strong> - The fix has been rolled out to all regions successfully. Status for all affected backups is updated and available in Control Plane. This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>11:48</var> UTC</small><br /><strong>Update</strong> - A fix has been implemented and we are in the process of rolling it out to all regions. We are monitoring the results and will provide regular updates.</p><p><small>Feb <var> 3</var>, <var>08:21</var> UTC</small><br /><strong>Identified</strong> - The problem with UI displaying incorrect backup status has been identified and a fix is being implemented.</p><p><small>Feb <var> 3</var>, <var>08:14</var> UTC</small><br /><strong>Investigating</strong> - All services are displaying incorrect backup status of "In Progress" for backups triggered February 1st or later. The actual backups have been taken and only the status in the UI is impacted. We have identified the problem and are working on a fix.</p>
 ]]></content:encoded>
 <pubDate>Fri, 03 Feb 2023 13:15:18 +0000</pubDate>
-<pubDate>Fri, 03 Feb 2023 13:15:18 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
