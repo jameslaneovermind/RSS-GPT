@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Monese Status Status - Incident History</title>
+<link>https://status.monese.com</link>
+
+<item>
+<title>Issue with PayPoint top-ups</title>
+<link>https://status.monese.com/incidents/0yyhj4xdtcm2</link>
+<guid>https://status.monese.com/incidents/0yyhj4xdtcm2</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Cash top-up technical issue at PayPoint locations in the UK <br><br> We're experiencing a technical issue with one of our partners, affecting cash top-ups at PayPoint locations in the UK. We're investigating, and we'll update as soon as we know more. <div>
+<p><small>Feb <var>20</var>, <var>14:24</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>10:14</var> GMT</small><br /><strong>Investigating</strong> - We're experiencing a technical issue with one of our partners, which is affecting cash top-ups at PayPoint locations in the UK. We're working with them to investigate this, and we'll update this page as soon as we know more.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 14:24:41 +0000</pubDate>
+<pubDate>Tue, 20 Feb 2024 14:24:41 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance affecting International Payments</title>
+<link>https://status.monese.com/incidents/4qk36n0nbgss</link>
+<guid>https://status.monese.com/incidents/4qk36n0nbgss</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance in Progress
+Summary: Scheduled maintenance is currently underway, affecting outgoing international payments and transfers. Users may experience disruptions during the maintenance window. <div>
+<p><small>Feb <var>11</var>, <var>03:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>01:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 1</var>, <var>13:07</var> GMT</small><br /><strong>Scheduled</strong> - One of our payments processing partners will be undergoing scheduled maintenance on Sunday February 11th  from  1:00 GMT  to 3:00 AM GMT. During this time window, Outgoing International Payments and transfers will fail. <br /><br />We are sorry for any inconvenience this may cause you and we aim to keep any disruption to a minimum.</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 03:00:56 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 03:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Delay in SEPA Eur payments.</title>
+<link>https://status.monese.com/incidents/wykbn77brjcw</link>
+<guid>https://status.monese.com/incidents/wykbn77brjcw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>10:10</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>14:49</var> GMT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 8</var>, <var>11:14</var> GMT</small><br /><strong>Investigating</strong> - We’re experiencing a delay in processing SEPA EUR Payments.  Viewing Account balance might also be affected.<br />We thank you for your patience while we resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 10:10:24 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 10:10:24 +0000</pubDate>
+</item>
+<item>
+<title>EUR account creation maintenance.</title>
+<link>https://status.monese.com/incidents/mxt03hgkqnqf</link>
+<guid>https://status.monese.com/incidents/mxt03hgkqnqf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>07:15</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>06:15</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>12:37</var> GMT</small><br /><strong>Scheduled</strong> - We'll be conducting system maintenance on our Account Service. Customers might encounter service disruption when creating an EUR account. <br /><br />We are sorry for any inconvenience this may cause you.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 07:15:56 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 07:15:56 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance causing 5 minute delay for payments</title>
+<link>https://status.monese.com/incidents/prp8dv1rpqvl</link>
+<guid>https://status.monese.com/incidents/prp8dv1rpqvl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>06:07</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 7</var>, <var>06:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 6</var>, <var>16:58</var> GMT</small><br /><strong>Scheduled</strong> - On 7th February 6:00 AM GMT, we will be performing a scheduled maintenance. Any payments made during this maintenance time will be held and completed after the maintenance is finished. Maintenance is expected to last for about 5 minutes. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 06:07:56 +0000</pubDate>
+<pubDate>Wed, 07 Feb 2024 06:07:56 +0000</pubDate>
+</item>
+<item>
+<title>EUR account creation maintenance.</title>
+<link>https://status.monese.com/incidents/7sc231rxssqv</link>
+<guid>https://status.monese.com/incidents/7sc231rxssqv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 6</var>, <var>08:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 6</var>, <var>06:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>12:28</var> GMT</small><br /><strong>Scheduled</strong> - We'll be conducting system maintenance on our Account Service. Customers might encounter service disruption when creating an EUR account. <br /><br />We are sorry for any inconvenience this may cause you.</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 08:00:04 +0000</pubDate>
+<pubDate>Tue, 06 Feb 2024 08:00:04 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance affecting payments</title>
+<link>https://status.monese.com/incidents/sjhnq02ptpv0</link>
+<guid>https://status.monese.com/incidents/sjhnq02ptpv0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>04:46</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>23</var>, <var>04:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>13:18</var> GMT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Jan <var>18</var>, <var>13:16</var> GMT</small><br /><strong>Scheduled</strong> - On 23 January 4:00-4:45 AM GMT we'll be performing a scheduled maintenance. Most of the payments made during the maintenance window will be queued and processed once the maintenance has been completed. Small amount of transactions might be cancelled. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 04:46:16 +0000</pubDate>
+<pubDate>Tue, 23 Jan 2024 04:46:16 +0000</pubDate>
+</item>
+<item>
+<title>All outbound payments delayed</title>
+<link>https://status.monese.com/incidents/7v53jyfjx9kr</link>
+<guid>https://status.monese.com/incidents/7v53jyfjx9kr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 4</var>, <var>18:35</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved and all affected payments have been processed.</p><p><small>Jan <var> 4</var>, <var>17:48</var> GMT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var> 4</var>, <var>17:47</var> GMT</small><br /><strong>Update</strong> - A fix has been implemented, and affected payments are being processed. We are currently monitoring.</p><p><small>Jan <var> 4</var>, <var>17:46</var> GMT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 4</var>, <var>16:50</var> GMT</small><br /><strong>Identified</strong> - We’re experiencing a delay in processing outbound payments at the moment. Monese card payments will still work. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jan 2024 18:35:26 +0000</pubDate>
+<pubDate>Thu, 04 Jan 2024 18:35:26 +0000</pubDate>
+</item>
+<item>
+<title>International payments - delays are expected</title>
+<link>https://status.monese.com/incidents/w55bpslmsbws</link>
+<guid>https://status.monese.com/incidents/w55bpslmsbws</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 1</var>, <var>08:56</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>22</var>, <var>08:56</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 5</var>, <var>09:48</var> GMT</small><br /><strong>Scheduled</strong> - Due to the holiday season, you may experience delays in processing some international payments and SEPA payments between the 24th of December and the 1st of January. You can still send payments during these times but you may experience a delay of 1-2 days of the funds arriving at the beneficiary. This is due to banks worldwide operating different opening hours over the holiday period.<br /><br />UK Faster Payments, Monese to Monese Payments, and Monese card payments will still work as expected.<br /><br />We thank you for your patience, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Mon, 01 Jan 2024 08:56:06 +0000</pubDate>
+<pubDate>Mon, 01 Jan 2024 08:56:06 +0000</pubDate>
+</item>
+<item>
+<title>Monese to Monese &amp; Faster payments delayed</title>
+<link>https://status.monese.com/incidents/wz7713qd8sct</link>
+<guid>https://status.monese.com/incidents/wz7713qd8sct</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>29</var>, <var>16:33</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>29</var>, <var>15:06</var> GMT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>29</var>, <var>14:29</var> GMT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>29</var>, <var>14:29</var> GMT</small><br /><strong>Investigating</strong> - We’re experiencing a delay on sending Monese to Monese & Faster payments at the moment. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Dec 2023 16:33:44 +0000</pubDate>
+<pubDate>Fri, 29 Dec 2023 16:33:44 +0000</pubDate>
+</item>
+<item>
+<title>Monese app unavailable on iOS &amp; Android</title>
+<link>https://status.monese.com/incidents/c02zgrvj7rgk</link>
+<guid>https://status.monese.com/incidents/c02zgrvj7rgk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 6</var>, <var>11:30</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>11:11</var> GMT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 6</var>, <var>11:05</var> GMT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 5</var>, <var>22:42</var> GMT</small><br /><strong>Investigating</strong> - It’s not possible to access the Monese app on some iOS and Android devices at the moment. <br />Card payments, cash withdrawals, and receiving inbound payments will still work. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Dec 2023 11:30:51 +0000</pubDate>
+<pubDate>Wed, 06 Dec 2023 11:30:51 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance affecting inbound and outbound RON Payments</title>
+<link>https://status.monese.com/incidents/5nvbn4t5j2w4</link>
+<guid>https://status.monese.com/incidents/5nvbn4t5j2w4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>11</var>, <var>01:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>10</var>, <var>19:31</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>10</var>, <var>15:46</var> GMT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var>10</var>, <var>15:45</var> GMT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var>10</var>, <var>12:19</var> GMT</small><br /><strong>Scheduled</strong> - From 10 November 8:30 PM GMT until 11 November 2:00 AM GMT we'll be performing scheduled maintenance. Any outbound RON payment made during this maintenance time will fail. Any inbound payment to your RON account will be queued and processed once the maintenance has been completed. Monese to Monese payments and card transactions will still work. We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Sat, 11 Nov 2023 01:00:15 +0000</pubDate>
+<pubDate>Sat, 11 Nov 2023 01:00:15 +0000</pubDate>
+</item>
+<item>
+<title>UK faster payments are delayed</title>
+<link>https://status.monese.com/incidents/s1tn6ljrj45q</link>
+<guid>https://status.monese.com/incidents/s1tn6ljrj45q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 6</var>, <var>09:27</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 4</var>, <var>17:58</var> GMT</small><br /><strong>Identified</strong> - The issues has been identified and a fix has been implemented. The pending payments will be processed on Monday (6.10). Thank you for your patience.</p><p><small>Nov <var> 4</var>, <var>15:55</var> GMT</small><br /><strong>Investigating</strong> - We’re experiencing a problem with UK Faster Payments at the moment. Your payments might be delayed. <br /><br />We thank you for your patience while they resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 Nov 2023 09:27:04 +0000</pubDate>
+<pubDate>Mon, 06 Nov 2023 09:27:04 +0000</pubDate>
+</item>
+<item>
+<title>Local EUR payments are delayed</title>
+<link>https://status.monese.com/incidents/2p4qn29zcqdt</link>
+<guid>https://status.monese.com/incidents/2p4qn29zcqdt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>31</var>, <var>10:16</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>31</var>, <var>04:23</var> GMT</small><br /><strong>Investigating</strong> - Our partner has informed us that they are having some issues processing local EURO payments. <br />They are investigating;  please notice that meantime Local EUR payments are delayed. The rest of services are working correctly.</p>
+]]></content:encoded>
+<pubDate>Tue, 31 Oct 2023 10:16:01 +0000</pubDate>
+<pubDate>Tue, 31 Oct 2023 10:16:01 +0000</pubDate>
+</item>
+<item>
+<title>Routine maintenance that affects contacting us</title>
+<link>https://status.monese.com/incidents/sh0djk2dmjqb</link>
+<guid>https://status.monese.com/incidents/sh0djk2dmjqb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>26</var>, <var>04:00</var> BST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>26</var>, <var>03:01</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>23</var>, <var>12:44</var> BST</small><br /><strong>Scheduled</strong> - While one of our technical partner makes some improvements, you might experience difficulties contacting Monese (26 Oct 2-3:00 AM GMT)<br /><br />You will still be able to email us, but might have issues contacting via other channels. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 04:00:18 +0100</pubDate>
+<pubDate>Thu, 26 Oct 2023 04:00:18 +0100</pubDate>
+</item>
+<item>
+<title>Top-ups and outgoing payments affected</title>
+<link>https://status.monese.com/incidents/9zg4xjkz0s4j</link>
+<guid>https://status.monese.com/incidents/9zg4xjkz0s4j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>16</var>, <var>18:56</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>16</var>, <var>15:15</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>16</var>, <var>14:24</var> BST</small><br /><strong>Investigating</strong> - Because of an outage with our banking partner, we’re experiencing a problem with debit card top-ups and outgoing payments at the moment.<br /><br />We thank you for your patience while they resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Mon, 16 Oct 2023 18:56:48 +0100</pubDate>
+<pubDate>Mon, 16 Oct 2023 18:56:48 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance affecting inbound and outbound UK Faster Payments</title>
+<link>https://status.monese.com/incidents/m47pczqwq7b1</link>
+<guid>https://status.monese.com/incidents/m47pczqwq7b1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>14</var>, <var>09:16</var> BST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>14</var>, <var>00:46</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>13</var>, <var>17:53</var> BST</small><br /><strong>Scheduled</strong> - On this evening at 00:45 BST, our UK banking partner is performing scheduled maintenance. Any inbound and outbound UK Faster Payments made during this maintenance time will be held and completed after the maintenance is finished. Monese to Monese payments and card transactions will still work. <br /><br />We thank you for your patience while we resolve this issue, and deeply apologise for the short notice. We’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Sat, 14 Oct 2023 09:16:16 +0100</pubDate>
+<pubDate>Sat, 14 Oct 2023 09:16:16 +0100</pubDate>
+</item>
+<item>
+<title>Routine maintenance affecting Monese cards</title>
+<link>https://status.monese.com/incidents/p6x66vcz4sfq</link>
+<guid>https://status.monese.com/incidents/p6x66vcz4sfq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>12</var>, <var>05:00</var> BST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>12</var>, <var>04:01</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>10</var>, <var>12:12</var> BST</small><br /><strong>Scheduled</strong> - While we are making some technical improvements, using some of your Monese card features are affected (12 October 3:00 - 4:00AM GMT). <br /><br />You will still be able to use your cards, but won’t be able to:<br />order new cards<br />review your card details in app<br />do a payment where 3-D Secure is required <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Thu, 12 Oct 2023 05:00:20 +0100</pubDate>
+<pubDate>Thu, 12 Oct 2023 05:00:20 +0100</pubDate>
+</item>
+<item>
+<title>Outbound payments unavailable</title>
+<link>https://status.monese.com/incidents/s1gv981jjgfl</link>
+<guid>https://status.monese.com/incidents/s1gv981jjgfl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>11</var>, <var>07:43</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>10</var>, <var>20:38</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>10</var>, <var>18:50</var> BST</small><br /><strong>Investigating</strong> - We’re experiencing an issue in making outbound payments at the moment, affecting UK Faster Payments, Monese to Monese Payments, SEPA payments and International Payments. Inbound payments and Monese card payments will still work. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Oct 2023 07:43:20 +0100</pubDate>
+<pubDate>Wed, 11 Oct 2023 07:43:20 +0100</pubDate>
+</item>
+<item>
+<title>Monese app unavailable on iOS</title>
+<link>https://status.monese.com/incidents/gjfkcs5r80mp</link>
+<guid>https://status.monese.com/incidents/gjfkcs5r80mp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 9</var>, <var>13:25</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 9</var>, <var>13:19</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var> 9</var>, <var>13:05</var> BST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Oct <var> 9</var>, <var>12:03</var> BST</small><br /><strong>Investigating</strong> - It’s not possible to access the Monese app on iOS devices at the moment. Card payments, cash withdrawals and receiving inbound payments will still work. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Mon, 09 Oct 2023 13:25:09 +0100</pubDate>
+<pubDate>Mon, 09 Oct 2023 13:25:09 +0100</pubDate>
+</item>
+<item>
+<title>Adding new payees for SEPA payments temporarily unavailable</title>
+<link>https://status.monese.com/incidents/8jxbswqlfqf9</link>
+<guid>https://status.monese.com/incidents/8jxbswqlfqf9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 1</var>, <var>19:07</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 1</var>, <var>18:40</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var> 1</var>, <var>18:36</var> BST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Oct <var> 1</var>, <var>17:40</var> BST</small><br /><strong>Investigating</strong> - We’re experiencing minor technical issues with our IBAN validation partner, which means it’s not possible to add new payees for SEPA payments at the moment. Payments to existing payees will still work.<br /><br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Sun, 01 Oct 2023 19:07:25 +0100</pubDate>
+<pubDate>Sun, 01 Oct 2023 19:07:25 +0100</pubDate>
+</item>
+<item>
+<title>Monese app temporarily unavailable</title>
+<link>https://status.monese.com/incidents/h9359rk6ml8k</link>
+<guid>https://status.monese.com/incidents/h9359rk6ml8k</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>29</var>, <var>15:57</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>29</var>, <var>15:38</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>29</var>, <var>15:15</var> BST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>29</var>, <var>15:13</var> BST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>29</var>, <var>14:57</var> BST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Sep <var>29</var>, <var>13:53</var> BST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>29</var>, <var>13:49</var> BST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>29</var>, <var>13:09</var> BST</small><br /><strong>Investigating</strong> - We’re experiencing an issue with accessing the Monese app, creating a new account and making outbound payments. Card payments, cash top ups, cash withdrawals and incoming payments will still work.<br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 15:57:32 +0100</pubDate>
+<pubDate>Fri, 29 Sep 2023 15:57:32 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance affecting outbound International Payments</title>
+<link>https://status.monese.com/incidents/j93mc2bmj568</link>
+<guid>https://status.monese.com/incidents/j93mc2bmj568</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>23</var>, <var>11:00</var> BST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>23</var>, <var>10:01</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>17</var>, <var>15:36</var> BST</small><br /><strong>Scheduled</strong> - On 23 September 09:00 - 10:00 GMT, one of our partners is performing scheduled maintenance. Any outbound international payments made during this time will fail.<br /><br />Local payments, Monese to Monese payments and card transactions will still work.<br /><br />We thank you for your patience while the maintenance is performed and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Sat, 23 Sep 2023 11:00:59 +0100</pubDate>
+<pubDate>Sat, 23 Sep 2023 11:00:59 +0100</pubDate>
+</item>
+<item>
+<title>Routine maintenance affecting app access</title>
+<link>https://status.monese.com/incidents/ggv3lpmxr3cy</link>
+<guid>https://status.monese.com/incidents/ggv3lpmxr3cy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>21</var>, <var>05:00</var> BST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>21</var>, <var>04:00</var> BST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>14</var>, <var>13:02</var> BST</small><br /><strong>Scheduled</strong> - While our technical team is making some improvements, you won’t be able to use your Monese app on 21 September 03:00 GMT until 04:00. <br /><br />You might be able to use your cards, but won’t be able to send or receive payments between these times. Any payments sent to your Monese account will be processed straight after but some may be declined.<br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Sep 2023 05:00:18 +0100</pubDate>
+<pubDate>Thu, 21 Sep 2023 05:00:18 +0100</pubDate>
+</item>
+<item>
+<title>Monese app degraded</title>
+<link>https://status.monese.com/incidents/ckp98fplczp8</link>
+<guid>https://status.monese.com/incidents/ckp98fplczp8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 1</var>, <var>12:30</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 1</var>, <var>11:57</var> BST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var> 1</var>, <var>11:15</var> BST</small><br /><strong>Identified</strong> - It may not be possible to access the Monese app on some devices at the moment. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Sep 2023 12:30:40 +0100</pubDate>
+<pubDate>Fri, 01 Sep 2023 12:30:40 +0100</pubDate>
+</item>
+
+</channel>
+</rss>
