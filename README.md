@@ -10,18 +10,18 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 
 ### Features
 
-- https://status.box.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/box.com.xml
-- https://status.zapier.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/zapier.xml
-- https://status.snyk.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/snyk.xml
-- https://www.vercel-status.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Vercel.xml
-- https://www.gocardless-status.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/GoCardless.xml
-- https://status.clickhouse.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
-- https://status.sendgrid.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Sendgrid.xml
-- https://status.mulesoft.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Mulesoft.xml
-- https://status.hashicorp.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Hashicorp.xml
-- https://status.openexchangerates.org/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Openexchangerates.xml
-- https://status.heap.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Heap.xml
-- https://status.supermetrics.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Supermetrics.xml
-- https://status.bubble.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Bubble.xml
-- https://status.asana.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Asana.xml
-- https://status.monese.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Monese.xml
+https://jameslaneovermind.github.io/RSS-GPT/box.com.xml
+https://jameslaneovermind.github.io/RSS-GPT/zapier.xml
+https://jameslaneovermind.github.io/RSS-GPT/snyk.xml
+https://jameslaneovermind.github.io/RSS-GPT/Vercel.xml
+https://jameslaneovermind.github.io/RSS-GPT/GoCardless.xml
+https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
+https://jameslaneovermind.github.io/RSS-GPT/Sendgrid.xml
+https://jameslaneovermind.github.io/RSS-GPT/Mulesoft.xml
+https://jameslaneovermind.github.io/RSS-GPT/Hashicorp.xml
+https://jameslaneovermind.github.io/RSS-GPT/Openexchangerates.xml
+https://jameslaneovermind.github.io/RSS-GPT/Heap.xml
+https://jameslaneovermind.github.io/RSS-GPT/Supermetrics.xml
+https://jameslaneovermind.github.io/RSS-GPT/Bubble.xml
+https://jameslaneovermind.github.io/RSS-GPT/Asana.xml
+https://jameslaneovermind.github.io/RSS-GPT/Monese.xml
