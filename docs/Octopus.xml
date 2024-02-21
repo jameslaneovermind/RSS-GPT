@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Octopus Deploy Status - Incident History</title>
+<link>https://status.octopus.com</link>
+
+<item>
+<title>New signups to Octopus Cloud are unavailable</title>
+<link>https://status.octopus.com/incidents/4wbfwtxp37wf</link>
+<guid>https://status.octopus.com/incidents/4wbfwtxp37wf</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Sign Up Issue <br><br> Engineers investigated an issue preventing new signups and have resolved it. Sorry for the inconvenience. <div>
+<p><small>Feb <var>15</var>, <var>05:43</var> UTC</small><br /><strong>Resolved</strong> - Signups are available again. We are sorry for any inconvenience.</p><p><small>Feb <var>15</var>, <var>05:26</var> UTC</small><br /><strong>Investigating</strong> - We have identified an issue preventing new signups from completing. Engineers are currently investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 05:43:18 +0000</pubDate>
+<pubDate>Thu, 15 Feb 2024 05:43:18 +0000</pubDate>
+</item>
+<item>
+<title>AWS deployments failing when using service role for EC2 instance</title>
+<link>https://status.octopus.com/incidents/gwjrss8w08b5</link>
+<guid>https://status.octopus.com/incidents/gwjrss8w08b5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>05:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>04:03</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix in v2024.1.6809 which will be rolling out to cloud customers over the next two days. If you need the fix in your cloud instance sooner, please contact https://octopus.com/support. We will continue to monitor for any further issues.</p><p><small>Jan <var> 8</var>, <var>22:44</var> UTC</small><br /><strong>Identified</strong> - We have found a likely cause of this issue and are working on a fix. In the meantime, please refer to the Github issue for more updates - https://github.com/OctopusDeploy/Issues/issues/8551</p><p><small>Jan <var> 8</var>, <var>21:22</var> UTC</small><br /><strong>Investigating</strong> - We're investigating AWS deployment failures for customers upgraded to 2024.1.6245 and are using the "AWS service role for an EC2 instance" option, which throw the error "An account identifier was not found".<br /><br />For more details of the issue and a possible workaround see the Github issue https://github.com/OctopusDeploy/Issues/issues/8551</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 05:03:32 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 05:03:32 +0000</pubDate>
+</item>
+<item>
+<title>ECS deployment targets - Assumed role values reset on versions of Octopus Server after 2024.1.5250</title>
+<link>https://status.octopus.com/incidents/gs56jr69ghxp</link>
+<guid>https://status.octopus.com/incidents/gs56jr69ghxp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>03:23</var> UTC</small><br /><strong>Monitoring</strong> - A new release of the ECS target includes a migration that resets the 'Assume IAM Role' to 'Don't assume role'. Targets set to 'Assume role' that depend on this for their deployment process will fail.<br />This impacts customers running Octopus Server 2024.1.5250 and later, using ECS targets and assumed roles.<br />To fix this, these targets can be manually updated to 'Assume role'.<br /><br />We're very sorry for the inconvenience. If you have any issues, please reach out to support@octopus.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 05:11:51 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 05:11:51 +0000</pubDate>
+</item>
+<item>
+<title>API requests for projects associated with a lifecycle not responding</title>
+<link>https://status.octopus.com/incidents/9z29jf8n6b70</link>
+<guid>https://status.octopus.com/incidents/9z29jf8n6b70</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>24</var>, <var>03:48</var> UTC</small><br /><strong>Resolved</strong> - This issue was resolved in 2023.4.8185 and 2024.1.5399.</p><p><small>Dec <var>19</var>, <var>23:53</var> UTC</small><br /><strong>Monitoring</strong> - A fix for this issue has been released in version 2023.4.8185 which is now available for download, and 2024.1.5399 which will be rolling out to cloud customers early in the new year. If you need the fix in your cloud instance sooner, please contact https://octopus.com/support. We will continue to monitor for any further issues.</p><p><small>Dec <var>19</var>, <var>02:49</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating an issue where API requests for the projects associated with a lifecycle may hang indefinitely, never responding. We believe we have identified the cause and are working on rolling out a version containing a fix. For more details see this GitHub issue: https://github.com/OctopusDeploy/Issues/issues/8533</p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 03:48:56 +0000</pubDate>
+<pubDate>Wed, 24 Jan 2024 03:48:56 +0000</pubDate>
+</item>
+<item>
+<title>Self-hosted customers experiencing high CPU usage after upgrading to 2023.4.8xxx</title>
+<link>https://status.octopus.com/incidents/4b81zvgn7dnr</link>
+<guid>https://status.octopus.com/incidents/4b81zvgn7dnr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>24</var>, <var>03:46</var> UTC</small><br /><strong>Resolved</strong> - This issue was resolved in 2023.4.8166.</p><p><small>Dec <var>20</var>, <var>00:25</var> UTC</small><br /><strong>Monitoring</strong> - With the release of 2023.4.8166, we believe we have addressed the memory and CPU usage spikes associated with the variables endpoints. We continue to monitor to ensure these endpoints operate smoothly. For more details see this GitHub issue: https://github.com/OctopusDeploy/Issues/issues/8529</p><p><small>Dec <var>15</var>, <var>07:48</var> UTC</small><br /><strong>Update</strong> - We have implemented a fix in v2023.4.8166. Should you encounter any issues after upgrading, please do not hesitate to reach out to our support team.</p><p><small>Dec <var>13</var>, <var>07:12</var> UTC</small><br /><strong>Update</strong> - We are actively continuing our investigation into the reported issue. Thank you for your ongoing patience as we work towards a resolution.</p><p><small>Dec <var>12</var>, <var>23:57</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue that has been reported, as a high priority.</p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 03:46:38 +0000</pubDate>
+<pubDate>Wed, 24 Jan 2024 03:46:38 +0000</pubDate>
+</item>
+<item>
+<title>Dynamic Worker Leases failing in WestEU</title>
+<link>https://status.octopus.com/incidents/v69z3nbjwfd6</link>
+<guid>https://status.octopus.com/incidents/v69z3nbjwfd6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>21</var>, <var>23:09</var> UTC</small><br /><strong>Resolved</strong> - Azure has advised that this issue has been resolved. A preliminary root cause has been published here: https://azure.status.microsoft/en-us/status/history/</p><p><small>Jan <var>21</var>, <var>09:17</var> UTC</small><br /><strong>Monitoring</strong> - Dynamic Workers are now provisioning successfully. We are continuing to monitor for any degradation of service.</p><p><small>Jan <var>21</var>, <var>07:31</var> UTC</small><br /><strong>Update</strong> - We continue to see issues with our upstream. We are investigating a workaround. Another update will be provided within the next hour.</p><p><small>Jan <var>21</var>, <var>06:31</var> UTC</small><br /><strong>Identified</strong> - Our upstream provider, Microsoft Azure, is currently experiencing an issue which is affecting our ability to provision worker virtual machines for a subset of customers in WestEU. <br />See https://azure.status.microsoft/en-gb/status for more details.<br /><br />If you experience this problem, deployments utilising dynamic workers will fail with an error specifying that Octopus Deploy could not obtain a dynamic worker lease.<br /><br />We will provide an update in an hour, at approximately 0730 UTC.<br /><br />We will resolve this incident once we have received confirmation the issue has been resolved from our upstream provider.</p>
+]]></content:encoded>
+<pubDate>Sun, 21 Jan 2024 23:09:11 +0000</pubDate>
+<pubDate>Sun, 21 Jan 2024 23:09:11 +0000</pubDate>
+</item>
+<item>
+<title>Cloud instances may be missing task log lines or show incorrect status for deployment steps</title>
+<link>https://status.octopus.com/incidents/h9y2wr6lf9z2</link>
+<guid>https://status.octopus.com/incidents/h9y2wr6lf9z2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>20</var>, <var>03:54</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved and we have not seen any further errors.</p><p><small>Dec <var>15</var>, <var>03:42</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented on all Octopus Cloud instances and we are monitoring for any further errors.</p><p><small>Dec <var>12</var>, <var>06:41</var> UTC</small><br /><strong>Update</strong> - We are currently rolling out a fix for this issue.<br /><br />We will provide an update once all Octopus Cloud instances have the fix applied.</p><p><small>Dec <var>11</var>, <var>00:26</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of the issue and are testing mitigations.<br /><br />We are working on this issue as a priority.</p><p><small>Dec <var> 7</var>, <var>01:17</var> UTC</small><br /><strong>Update</strong> - We have identified a workaround. The issue occurs when a deployment's task log is viewed while the deployment is running. If users navigate away from viewing a running deployment, all task log lines should be successfully saved. This will also avoid the issue where deployment steps may show the wrong status.<br /><br />We are working with our upstream provider to resolve this issue.</p><p><small>Dec <var> 6</var>, <var>06:20</var> UTC</small><br /><strong>Investigating</strong> - We have identified an issue where some Octopus Cloud instances since 20 November 2023 are missing some log lines from their task logs.<br /><br />Deployment steps that encounter this problem could also show the wrong status (e.g. showing as still running) even though the step has completed successfully. The deployment task will have the correct status.<br /><br />We are investigating this issue as a priority.</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Dec 2023 03:54:03 +0000</pubDate>
+<pubDate>Wed, 20 Dec 2023 03:54:03 +0000</pubDate>
+</item>
+<item>
+<title>Cloud instances unable to communicate with listening and polling tentacles</title>
+<link>https://status.octopus.com/incidents/jvdfscr80rxk</link>
+<guid>https://status.octopus.com/incidents/jvdfscr80rxk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>13</var>, <var>02:45</var> UTC</small><br /><strong>Resolved</strong> - All Octopus Cloud customers have been upgraded to fixed software versions, resolving this incident.<br /><br />Self-hosted customers were not affected.</p><p><small>Dec <var>11</var>, <var>01:31</var> UTC</small><br /><strong>Update</strong> - We have identified customers that were most likely affected. and prioritized applying the fix to these customers on the 9th and 10th of December. Rollout continues to all remaining customers, and we anticipate this to be complete by the 12th of December.</p><p><small>Dec <var> 8</var>, <var>10:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been created and is being rolled out to affected customers.<br /><br />This issue affects instances of Tentacle that use SHA1 (an old, unsupported, encryption algorithm), and prevents them from connecting to Octopus Cloud. This was a side effect of the Octopus Server .NET 8 upgrade, and the resulting change to the underlying OS from Debian 11/OpenSSL 1.x to Debian 12/OpenSSL 3.x. <br /><br />If you continue to be affected by this issue, please try the workaround detailed at https://github.com/OctopusDeploy/Issues/issues/8523, or contact support at https://octopus.com/support.</p><p><small>Dec <var> 8</var>, <var>06:06</var> UTC</small><br /><strong>Identified</strong> - The underlying cause has been identified. The issue is currently isolated to cloud customers. A fix is actively being work on.</p><p><small>Dec <var> 8</var>, <var>03:41</var> UTC</small><br /><strong>Update</strong> - We have identified a suspected root cause and workaround. <br /><br />We suspect this is limited to certificates using a SHA1 algorithm but are investigating further.<br /><br />If affected please try the workaround detailed in this issue: https://github.com/OctopusDeploy/Issues/issues/8523</p><p><small>Dec <var> 8</var>, <var>01:23</var> UTC</small><br /><strong>Investigating</strong> - Since the morning of Friday 8th December, cloud customers are reporting issues with communicating to listening and polling tentacles. We are investigating this as a priority incident and will work on a resolution as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Dec 2023 02:45:30 +0000</pubDate>
+<pubDate>Wed, 13 Dec 2023 02:45:30 +0000</pubDate>
+</item>
+<item>
+<title>Manual intervention steps on Configuration-as-code projects may throw errors</title>
+<link>https://status.octopus.com/incidents/df98tzwd6j1b</link>
+<guid>https://status.octopus.com/incidents/df98tzwd6j1b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>17</var>, <var>03:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. A public incident report will be made available to affected customers. If you would like a copy, please get in touch with us at support@octopus.com.</p><p><small>Nov <var>14</var>, <var>03:52</var> UTC</small><br /><strong>Monitoring</strong> - We are now in the process of rolling out a version containing a fix to resolve the issue. This will be available to affected customers and we will be monitoring for any further issues.</p><p><small>Nov <var>13</var>, <var>20:29</var> UTC</small><br /><strong>Identified</strong> - We have identified the root cause of this issue and are working on a hotfix build.</p><p><small>Nov <var>13</var>, <var>19:32</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports of Octopus Cloud users on 2024.1.746 having issues in the follow scenario:<br />* Configuration-as-code projects with a Manual Intervention step, with the "Responsible team" set to a System-level team.<br /><br />More details including a possible workaround can be found in the following GitHub issue: https://github.com/OctopusDeploy/Issues/issues/8473</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Nov 2023 03:22:27 +0000</pubDate>
+<pubDate>Fri, 17 Nov 2023 03:22:27 +0000</pubDate>
+</item>
+<item>
+<title>library.octopus.com is inaccessible</title>
+<link>https://status.octopus.com/incidents/f13s3jdp0znr</link>
+<guid>https://status.octopus.com/incidents/f13s3jdp0znr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>12</var>, <var>04:18</var> UTC</small><br /><strong>Resolved</strong> - library.octopus.com has been restored and Community Step Template Update sync is working correctly again.</p><p><small>Oct <var>12</var>, <var>03:25</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue. Due to the nature of how Community Library Templates work, this outage will not block deployments. Customers will still be able to deploy and utilise steps already cached on their instance via the regular Community Library Template Sync process, if they have this feature enabled.<br /><br />Customers who have the feature enabled may see the Sync task failing, but their cached templates will not be affected.</p>
+]]></content:encoded>
+<pubDate>Thu, 12 Oct 2023 04:18:51 +0000</pubDate>
+<pubDate>Thu, 12 Oct 2023 04:18:51 +0000</pubDate>
+</item>
+<item>
+<title>Investigating bug reports related to step execution logic</title>
+<link>https://status.octopus.com/incidents/kb75yypz00zg</link>
+<guid>https://status.octopus.com/incidents/kb75yypz00zg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>22</var>, <var>05:16</var> UTC</small><br /><strong>Resolved</strong> - We have published a fix https://octopus.com/downloads/2023.3.13026<br /><br />A public incident report will be shared with affected customers. If you would like a copy, please get in touch with us at support@octopus.com.</p><p><small>Sep <var>22</var>, <var>00:49</var> UTC</small><br /><strong>Identified</strong> - We've identified a very likely root cause. We made some changes to our task queues that should have been behind a feature flag, but a change to remove a write lock on the task queue table was accidentally left un-flagged. This means that multiple nodes could pick up the same task accidentally. <br />This confirms that the incident will only affect self-hosted customers using High-Availability mode. <br />We're working on a fix now and should have it available later on today. <br />There are two potential workarounds, although we know that they are not good ones.  Moving to a single node instead of HA will be safe as it removes task queue contention. <br />You could also drain all of the nodes, then turn one of them on at a time. Allow each node to pick up some tasks, then drain it, and turn on the next. This approach would be extremely manual and we don't recommend it.</p><p><small>Sep <var>21</var>, <var>21:39</var> UTC</small><br /><strong>Update</strong> - We continue to investigate isolated reports from a limited number of self-hosted customers on Octopus Server 2023.3 of this bug: https://github.com/OctopusDeploy/Issues/issues/8356. Out of an abundance of caution, we have temporarily removed the 2023.3 release from our downloads page while we continue to investigate.</p><p><small>Sep <var>21</var>, <var>04:28</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports from a limited number of self-hosted customers on Octopus Server 2023.3 of this bug: https://github.com/OctopusDeploy/Issues/issues/8356. We will update that bug as our investigation progresses.</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Sep 2023 05:16:15 +0000</pubDate>
+<pubDate>Fri, 22 Sep 2023 05:16:15 +0000</pubDate>
+</item>
+<item>
+<title>Octopus cloud AU region outage</title>
+<link>https://status.octopus.com/incidents/1vpxjf8y120r</link>
+<guid>https://status.octopus.com/incidents/1vpxjf8y120r</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>30</var>, <var>21:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>30</var>, <var>19:00</var> UTC</small><br /><strong>Monitoring</strong> - Our upstream provider has mitigated this incident. All cloud instances are back online. Our team will continue monitoring the situation for any issues from the upstream outage.</p><p><small>Aug <var>30</var>, <var>15:06</var> UTC</small><br /><strong>Update</strong> - Our upstream provider has not yet provided an ETA for resolution for the AU region outage affecting a number of Octopus Cloud customers. We are still monitoring the situation and will continue to provide periodic updates.</p><p><small>Aug <var>30</var>, <var>11:55</var> UTC</small><br /><strong>Identified</strong> - We are aware of an outage affecting our Australian hosted Octopus Cloud customers. Unfortunately, this outage is with our provider in this region. We will continue to monitor the situation and update the status page as more information comes available.</p>
+]]></content:encoded>
+<pubDate>Wed, 30 Aug 2023 21:01:50 +0000</pubDate>
+<pubDate>Wed, 30 Aug 2023 21:01:50 +0000</pubDate>
+</item>
+<item>
+<title>Unable to view pages after upgrade</title>
+<link>https://status.octopus.com/incidents/5yys22l1829z</link>
+<guid>https://status.octopus.com/incidents/5yys22l1829z</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 8</var>, <var>03:41</var> UTC</small><br /><strong>Resolved</strong> - Upgrading to 2023.3.10333 resolves the issue. Cloud instances will be upgraded over the coming days. If you wish to be upgraded sooner, please contact our support team.</p><p><small>Aug <var> 8</var>, <var>01:46</var> UTC</small><br /><strong>Update</strong> - We are currently investigating. If you are affected, clearing the browser cache and reloading the page should resolve the issue. More details can be found here: https://github.com/OctopusDeploy/Issues/issues/8277</p><p><small>Aug <var> 8</var>, <var>01:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating. If you are affected, clearing the browser cache should resolve the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Aug 2023 03:41:37 +0000</pubDate>
+<pubDate>Tue, 08 Aug 2023 03:41:37 +0000</pubDate>
+</item>
+<item>
+<title>Octopus Cloud Connectivity Issue</title>
+<link>https://status.octopus.com/incidents/qbkcdbn7ntch</link>
+<guid>https://status.octopus.com/incidents/qbkcdbn7ntch</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>27</var>, <var>04:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>27</var>, <var>02:28</var> UTC</small><br /><strong>Investigating</strong> - We're investigating a network connectivity issue with Octopus Cloud. This may cause issues:<br />- when accessing Octopus Cloud instances, including API requests<br />- for polling tentacles over standard ports (443)</p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jul 2023 04:55:29 +0000</pubDate>
+<pubDate>Thu, 27 Jul 2023 04:55:29 +0000</pubDate>
+</item>
+<item>
+<title>Error viewing Projects after upgrading to 2023.2.X</title>
+<link>https://status.octopus.com/incidents/8xpn0kxc7kfq</link>
+<guid>https://status.octopus.com/incidents/8xpn0kxc7kfq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>18</var>, <var>22:57</var> UTC</small><br /><strong>Resolved</strong> - Incident resolved, fix is available on GA on 2023.2.12331</p><p><small>Jun <var>16</var>, <var>05:26</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and is being rolled out to customers.</p><p><small>Jun <var>15</var>, <var>04:35</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with viewing projects, with an error "Object reference not set to an instance of an object".<br /><br />An issue has been raised and workaround is available. More details can be found here: https://github.com/OctopusDeploy/Issues/issues/8200<br /><br />Please use the workaround until a patch is released.<br /><br />Contact support@octopus.com with any questions and we'll be happy to help.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Jun 2023 22:57:07 +0000</pubDate>
+<pubDate>Sun, 18 Jun 2023 22:57:07 +0000</pubDate>
+</item>
+<item>
+<title>SQL Timeouts and Errors Impacting Cloud Customers in the West US Region</title>
+<link>https://status.octopus.com/incidents/fr5wh9rgfh8l</link>
+<guid>https://status.octopus.com/incidents/fr5wh9rgfh8l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 2</var>, <var>21:08</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 2</var>, <var>19:57</var> UTC</small><br /><strong>Monitoring</strong> - This issue looks to have stemmed from an upstream issue with Azure. All impacted instances have recovered, and we will continue to monitor this situation.</p><p><small>Jun <var> 2</var>, <var>19:26</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating some instances experiencing SQL timeouts. This looks constrained to the US West region.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Jun 2023 21:08:54 +0000</pubDate>
+<pubDate>Fri, 02 Jun 2023 21:08:54 +0000</pubDate>
+</item>
+<item>
+<title>AWS authentication issue for customers using the "Run an AWS CLI Script" step</title>
+<link>https://status.octopus.com/incidents/r08mzp3xnlh8</link>
+<guid>https://status.octopus.com/incidents/r08mzp3xnlh8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 2</var>, <var>04:27</var> UTC</small><br /><strong>Resolved</strong> - We are marking this issue as resolved. A fix has rolled out to customers.</p><p><small>Jun <var> 1</var>, <var>12:28</var> UTC</small><br /><strong>Monitoring</strong> - A fix is being deployed to our Cloud instances during their maintenance windows.<br /><br />If you require the fix immediately, please contact support@octopus.com to arrange this.</p><p><small>May <var>31</var>, <var>12:29</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with AWS credentials not being passed while using the AWS CLI Script step.<br /><br />An issue has been raised and workaround is available, more details can be found here - https://github.com/OctopusDeploy/Issues/issues/8177<br /><br />Please use the workaround until a patch is released.<br /><br />Contact support@octopus.com with any questions and we'll be happy to help.</p><p><small>May <var>31</var>, <var>11:49</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an AWS authentication issue affecting Cloud customers using the "Run an AWS CLI Script" step</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Jun 2023 04:27:37 +0000</pubDate>
+<pubDate>Fri, 02 Jun 2023 04:27:37 +0000</pubDate>
+</item>
+<item>
+<title>Incorrect Resource Usage values displayed in Control Center for Octopus Cloud instances</title>
+<link>https://status.octopus.com/incidents/8rk5d62lvsr0</link>
+<guid>https://status.octopus.com/incidents/8rk5d62lvsr0</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>18</var>, <var>05:31</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>18</var>, <var>02:02</var> UTC</small><br /><strong>Identified</strong> - We have identified and are in the process of fixing an issue where the Resource Usage values displayed for Octopus Cloud instances in Control Center are incorrect.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 May 2023 05:31:02 +0000</pubDate>
+<pubDate>Thu, 18 May 2023 05:31:02 +0000</pubDate>
+</item>
+<item>
+<title>Issue preventing login with Microsoft/AzureAD on Octopus.com and Octopus Cloud</title>
+<link>https://status.octopus.com/incidents/jhwvn5v82hxk</link>
+<guid>https://status.octopus.com/incidents/jhwvn5v82hxk</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 5</var>, <var>12:16</var> UTC</small><br /><strong>Resolved</strong> - The fix previously applied caused a mismatch to occur with AzureAD credentials for some users.<br /><br />Steps to resolve:<br />* Login with username/password via the "forgot password" function<br />* Go to the Profile page: https://octopus.com/profile<br />* "Remove" the "Organization account", then re-add it.<br /><br />Please reach out to support@octopus.com for further assistance if needed.</p><p><small>May <var> 5</var>, <var>10:25</var> UTC</small><br /><strong>Investigating</strong> - Following the resolution of the previous AzureAD sign-in issue we have had reports of some users receiving the following error when attempting to sign-in:<br /><br />"Server Error - We're sorry, an unexpected error occurred whilst processing this request. Please try again later or contact support"<br /><br />Our engineers are investigating, and we will provide updates.<br /><br />Workaround: If you use this mechanism to log in, you can fall back to a username (your email) and a new password. You can follow the "forgot password" mechanism to set up a new password.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 May 2023 12:16:29 +0000</pubDate>
+<pubDate>Fri, 05 May 2023 12:16:29 +0000</pubDate>
+</item>
+<item>
+<title>Issue identified with Octopus.com and Octopus Cloud Microsoft/AzureAD sign in.</title>
+<link>https://status.octopus.com/incidents/v9yht12wgqrz</link>
+<guid>https://status.octopus.com/incidents/v9yht12wgqrz</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 5</var>, <var>05:27</var> UTC</small><br /><strong>Resolved</strong> - We have re-enabled Azure AD login and verified the system is operating as expected. If you used Azure AD to sign into Octopus ID, you may have been logged out as part of this resolution. You should be able to sign in again smoothly, but if you are having issues or have questions, please reach out to our support team.</p><p><small>May <var> 5</var>, <var>03:41</var> UTC</small><br /><strong>Monitoring</strong> - As promised, we have re-enabled the AzureAD login and are close to marking this as resolved. Do not hesitate to contact us via support if you need help / have questions/hit issues.<br /><br />We'll monitor for a touch longer to ensure there aren't issues as we're all heading into the weekend. Thank you all for your patience!</p><p><small>May <var> 4</var>, <var>07:36</var> UTC</small><br /><strong>Identified</strong> - We're ready to move this into "identified" as we had some extended investigation to complete. If all goes well, we can hopefully mark this resolved approx 24 hours from now. If not, we'll keep our wonderful customers updated.<br /><br />Once again, we thank you for your patience and for using the username and password workaround if impacted by our work on the AzureAD/Microsoft auth flow.</p><p><small>May <var> 2</var>, <var>13:49</var> UTC</small><br /><strong>Update</strong> - Thanks for your patience.<br />We're moving forward with changes, but they are taking time as it involves 2+ internal teams coordinating changes.<br /><br />Please continue using the workaround, and rest assured we will restore the Microsoft/Azure login mechanism as soon as possible.</p><p><small>Apr <var>29</var>, <var>10:20</var> UTC</small><br /><strong>Investigating</strong> - Octopus Deploy is aware of an issue with logging into Octopus.com and Octopus Cloud instances for customers who use Microsoft accounts and AzureAD sign-in.<br /><br />Our engineers are investigating and we will provide updates.<br /><br />Workaround: If you use this mechanism to log in, you can fall back to a username (your email) and a new password. You can follow the "forgot password" mechanism to set up a new password.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 May 2023 05:27:50 +0000</pubDate>
+<pubDate>Fri, 05 May 2023 05:27:50 +0000</pubDate>
+</item>
+<item>
+<title>Intermittent errors in West Europe</title>
+<link>https://status.octopus.com/incidents/yq8cwm2s1gy2</link>
+<guid>https://status.octopus.com/incidents/yq8cwm2s1gy2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>23</var>, <var>23:17</var> UTC</small><br /><strong>Resolved</strong> - Azure has advised that this issue has been resolved. A preliminary root cause has been published here: https://azure.status.microsoft/en-us/status/history/<br /><br />03/23/2023<br />Azure Resource Manager - Azure Resource Manager Operations Failures - Mitigated<br />Tracking ID: RNQ2-NC8</p><p><small>Mar <var>23</var>, <var>06:59</var> UTC</small><br /><strong>Monitoring</strong> - Dynamic workers are now provisioning successfully. We are continuing to monitor for any degradation of service.</p><p><small>Mar <var>23</var>, <var>06:24</var> UTC</small><br /><strong>Identified</strong> - Azure are aware of this issue and are actively investigating. See the Azure status page for ongoing updates: https://azure.status.microsoft/en-us/status</p><p><small>Mar <var>23</var>, <var>05:58</var> UTC</small><br /><strong>Update</strong> - We are experiencing issues provisioning dynamic workers in West Europe. This may affect deployments or runbooks relying on dynamic workers. We are working with Azure to have this operational as soon as possible. If you have urgent tasks relying on dynamic workers please contact support@octopus.com.</p><p><small>Mar <var>23</var>, <var>04:31</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with our cloud vendor that may affect customers in the the West Europe region</p>
+]]></content:encoded>
+<pubDate>Thu, 23 Mar 2023 23:17:53 +0000</pubDate>
+<pubDate>Thu, 23 Mar 2023 23:17:53 +0000</pubDate>
+</item>
+<item>
+<title>Certificate maintenance on billing systems</title>
+<link>https://status.octopus.com/incidents/8h98rfn9l4sw</link>
+<guid>https://status.octopus.com/incidents/8h98rfn9l4sw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>20</var>, <var>04:29</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Mar <var>20</var>, <var>03:58</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Mar <var>20</var>, <var>03:39</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>20</var>, <var>03:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>20</var>, <var>00:03</var> UTC</small><br /><strong>Scheduled</strong> - Users may experience intermittent TLS errors while maintenance is in progress.</p>
+]]></content:encoded>
+<pubDate>Mon, 20 Mar 2023 04:29:38 +0000</pubDate>
+<pubDate>Mon, 20 Mar 2023 04:29:38 +0000</pubDate>
+</item>
+<item>
+<title>Octopus.com DNS maintenance</title>
+<link>https://status.octopus.com/incidents/5dk03scfkf2l</link>
+<guid>https://status.octopus.com/incidents/5dk03scfkf2l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>01:29</var> UTC</small><br /><strong>Verifying</strong> - The changes have been made and we are monitoring for any issues</p><p><small>Feb <var>13</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>00:10</var> UTC</small><br /><strong>Scheduled</strong> - We are performing DNS maintenance for octopus.com and octopusdeploy.com<br /><br />You may notice temporary service disruption lasting several minutes.</p>
+]]></content:encoded>
+<pubDate>Mon, 13 Feb 2023 02:00:56 +0000</pubDate>
+<pubDate>Mon, 13 Feb 2023 02:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Octopus.com sign-in, docs, blogs and downloads unavailable</title>
+<link>https://status.octopus.com/incidents/b4jsf06qg435</link>
+<guid>https://status.octopus.com/incidents/b4jsf06qg435</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>12:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>10:48</var> UTC</small><br /><strong>Monitoring</strong> - We have applied a mitigation that will improve the availability of the affected URL's and are monitoring it's effects.</p><p><small>Feb <var> 9</var>, <var>08:56</var> UTC</small><br /><strong>Investigating</strong> - We are aware of issues affecting parts of Octopus.com including /signin, /docs, /blog, and /downloads. Engineers are investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 09 Feb 2023 12:24:24 +0000</pubDate>
+<pubDate>Thu, 09 Feb 2023 12:24:24 +0000</pubDate>
+</item>
+<item>
+<title>Authentication errors when attempting to sign into https://billing.octopus.com</title>
+<link>https://status.octopus.com/incidents/1jlyqnqfcfm3</link>
+<guid>https://status.octopus.com/incidents/1jlyqnqfcfm3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>01:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>01:29</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 9</var>, <var>01:13</var> UTC</small><br /><strong>Investigating</strong> - We are investigation issues signing into https://billing.octopus.com and requests returning HTTP 500's</p>
+]]></content:encoded>
+<pubDate>Thu, 09 Feb 2023 01:55:54 +0000</pubDate>
+<pubDate>Thu, 09 Feb 2023 01:55:54 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

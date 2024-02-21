@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>SumUp POS Status - Incident History</title>
+<link>https://status.thegoodtill.com</link>
+
+<item>
+<title>Database upgrades and maintenance</title>
+<link>https://status.thegoodtill.com/incidents/yfwnjxbr3rqs</link>
+<guid>https://status.thegoodtill.com/incidents/yfwnjxbr3rqs</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance <br><br> Summary: Scheduled maintenance is in progress to upgrade core databases, resulting in temporary disablement of Backoffice and API access. POS will continue to work offline, with the expectation of minimal impact on operations. <div>
+<p><small>Feb <var>28</var>, <var>03:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>28</var>, <var>02:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>26</var>, <var>10:59</var> UTC</small><br /><strong>Scheduled</strong> - On 28th Feb at 2:00am UTC time, we will be upgrading our core databases. This is really important to get  this done to allow quicker updates in the future. The Backoffice and API access will be disabled during this time to allow a smoother transition. The POS will continue to work offline and any sales etc will be synced when the connection is restored.<br /><br />We expect the total maintenance to be under 1 hour but will advise accordingly in case of any issues.<br /><br />We appreciate your patience and apologise for any inconvenience this might cause.</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Feb 2023 03:00:18 +0000</pubDate>
+<pubDate>Tue, 28 Feb 2023 03:00:18 +0000</pubDate>
+</item>
+<item>
+<title>Platform Update</title>
+<link>https://status.thegoodtill.com/incidents/7gbfrg4jwjn8</link>
+<guid>https://status.thegoodtill.com/incidents/7gbfrg4jwjn8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>24</var>, <var>02:55</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>24</var>, <var>02:35</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>23</var>, <var>18:54</var> UTC</small><br /><strong>Scheduled</strong> - On 24th Feb at 2:35am UTC time, we will begin a platform update. <br />The downtime should be around 20 minutes or less.<br />We apologise for any inconvenience.</p>
+]]></content:encoded>
+<pubDate>Fri, 24 Feb 2023 02:55:21 +0000</pubDate>
+<pubDate>Fri, 24 Feb 2023 02:55:21 +0000</pubDate>
+</item>
+<item>
+<title>Intermittent service unavailability</title>
+<link>https://status.thegoodtill.com/incidents/6ztm8l37544l</link>
+<guid>https://status.thegoodtill.com/incidents/6ztm8l37544l</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>21</var>, <var>14:09</var> UTC</small><br /><strong>Resolved</strong> - We have seen no further incidents since our earlier platform change at 14:15.</p><p><small>May <var>21</var>, <var>12:59</var> UTC</small><br /><strong>Monitoring</strong> - We have made a configuration change to the load balancer in our infrastructure. We have seen no further issues over the past 15 minutes since introducing this change. We continue to monitor.</p><p><small>May <var>21</var>, <var>12:22</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>21</var>, <var>12:22</var> UTC</small><br /><strong>Update</strong> - We are investigating reports of intermittent errors for a small number of Goodeats customers. Our early analysis shows this is impacting less than 0.1% of requests. We will provide more details once we identify the root cause.</p><p><small>May <var>21</var>, <var>11:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 21 May 2021 14:09:13 +0000</pubDate>
+<pubDate>Fri, 21 May 2021 14:09:13 +0000</pubDate>
+</item>
+<item>
+<title>Card payment unavailable</title>
+<link>https://status.thegoodtill.com/incidents/vy8hlwhw3zbd</link>
+<guid>https://status.thegoodtill.com/incidents/vy8hlwhw3zbd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>19</var>, <var>13:49</var> UTC</small><br /><strong>Resolved</strong> - Card payments utilizing manual or saved card entry for Stripe payments were failing. Apple/Google pay payments were unaffected.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Mar 2021 13:49:39 +0000</pubDate>
+<pubDate>Fri, 19 Mar 2021 13:49:39 +0000</pubDate>
+</item>
+<item>
+<title>Facebook login unavailable</title>
+<link>https://status.thegoodtill.com/incidents/xw6c85xvrlv8</link>
+<guid>https://status.thegoodtill.com/incidents/xw6c85xvrlv8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>15:32</var> UTC</small><br /><strong>Resolved</strong> - Facebook login is now functional again.</p><p><small>Feb <var> 2</var>, <var>11:02</var> UTC</small><br /><strong>Identified</strong> - Facebook login is currently unavailable. Google and username/password login is still operational.</p>
+]]></content:encoded>
+<pubDate>Tue, 02 Feb 2021 15:32:09 +0000</pubDate>
+<pubDate>Tue, 02 Feb 2021 15:32:09 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

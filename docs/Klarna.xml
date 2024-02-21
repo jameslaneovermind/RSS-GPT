@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Klarna Status - Incident History</title>
+<link>https://status.klarna.com</link>
+
+<item>
+<title>TLS v1 deprecation</title>
+<link>https://status.klarna.com/incidents/lj8fdmsw92l6</link>
+<guid>https://status.klarna.com/incidents/lj8fdmsw92l6</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - TLS Protocol Update
+Summary: Klarna will disable support for older versions of TLS, below 1.2, starting April 2, 2024. Clients using TLS 1.2 will not be impacted. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>2</var>, <var>10:00</var> - <var>12:00</var> CEST</strong></p><p><small>Feb <var> 5</var>, <var>11:29</var> CET</small><br /><strong>Scheduled</strong> - Transport Layer Security (TLS) is a critical security protocol used to protect web traffic. It provides confidentiality and integrity of data in transit between clients and servers exchanging information. Klarna is disabling support for older versions of TLS, below 1.2 across public facing endpoints, beginning April 2st, 2024. If you connect to Klarna after this the older protocols are disabled and you will receive connection error messages.<br />No impact is expected to clients using Transport Layer Security 1.2 for their connections.</p>
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 10:00:00 +0200</pubDate>
+<pubDate>Tue, 02 Apr 2024 10:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Merchants are currently unable to change their bank account details through Klarna Merchant Portal</title>
+<link>https://status.klarna.com/incidents/j85bzdy41btr</link>
+<guid>https://status.klarna.com/incidents/j85bzdy41btr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>15</var>, <var>10:33</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>16:50</var> CET</small><br /><strong>Investigating</strong> - Merchants are currently unable to change their bank account details through Klarna Merchant Portal. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 10:33:30 +0100</pubDate>
+<pubDate>Thu, 15 Feb 2024 10:33:30 +0100</pubDate>
+</item>
+<item>
+<title>TLS v1 deprecation in playground</title>
+<link>https://status.klarna.com/incidents/726t5n7g3jlr</link>
+<guid>https://status.klarna.com/incidents/726t5n7g3jlr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>12:00</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>10:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 7</var>, <var>15:45</var> CET</small><br /><strong>Scheduled</strong> - Transport Layer Security (TLS) is a critical security protocol used to protect web traffic. It provides confidentiality and integrity of data in transit between clients and servers exchanging information.<br />For playground endpoints Klarna is disabling support for older versions of TLS below 1.2. This change will take place on the 14th of February.  If you connect to Klarna playground endpoints after this the older protocols are disabled and you will receive connection error messages.<br />As previously announced disabling older TLS versions will be done in production on April 2nd 2024.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 12:00:56 +0100</pubDate>
+<pubDate>Wed, 14 Feb 2024 12:00:56 +0100</pubDate>
+</item>
+<item>
+<title>Customer support service/system degradation</title>
+<link>https://status.klarna.com/incidents/qgyq93xmxbjw</link>
+<guid>https://status.klarna.com/incidents/qgyq93xmxbjw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>11:52</var> CET</small><br /><strong>Resolved</strong> - The issues have been resolved. Thank you for your patience.</p><p><small>Feb <var>14</var>, <var>10:05</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with reaching support via phone in the DE region. Please use chat as an alternative to reach us for support. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 11:52:08 +0100</pubDate>
+<pubDate>Wed, 14 Feb 2024 11:52:08 +0100</pubDate>
+</item>
+<item>
+<title>Klarna App degradation</title>
+<link>https://status.klarna.com/incidents/vh1l8y8x133k</link>
+<guid>https://status.klarna.com/incidents/vh1l8y8x133k</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>01:10</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>00:21</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Shopping Cards in Klarna App in the UK. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 01:10:51 +0100</pubDate>
+<pubDate>Wed, 14 Feb 2024 01:10:51 +0100</pubDate>
+</item>
+<item>
+<title>Merchant Operations degradation</title>
+<link>https://status.klarna.com/incidents/tvvcfpq96nzb</link>
+<guid>https://status.klarna.com/incidents/tvvcfpq96nzb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>14:01</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>10:20</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Settlement Reports in Merchant Portal in the EU region. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 14:01:50 +0100</pubDate>
+<pubDate>Fri, 09 Feb 2024 14:01:50 +0100</pubDate>
+</item>
+<item>
+<title>Merchant Portal degradation</title>
+<link>https://status.klarna.com/incidents/8n49hzshvhyj</link>
+<guid>https://status.klarna.com/incidents/8n49hzshvhyj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>15:21</var> CET</small><br /><strong>Resolved</strong> - The issues have been resolved, thank you for your patience.</p><p><small>Feb <var> 7</var>, <var>14:19</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the Merchant Portal.  We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 15:21:03 +0100</pubDate>
+<pubDate>Wed, 07 Feb 2024 15:21:03 +0100</pubDate>
+</item>
+<item>
+<title>Merchant Portal degradation</title>
+<link>https://status.klarna.com/incidents/mlcq5qcvtdfq</link>
+<guid>https://status.klarna.com/incidents/mlcq5qcvtdfq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 7</var>, <var>13:37</var> CET</small><br /><strong>Resolved</strong> - Issues have been resolved, thank you for your patience.</p><p><small>Feb <var> 7</var>, <var>11:18</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the Merchant Portal.  We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 13:37:14 +0100</pubDate>
+<pubDate>Wed, 07 Feb 2024 13:37:14 +0100</pubDate>
+</item>
+<item>
+<title>Klarna merchant initiated transactions in EU degradation</title>
+<link>https://status.klarna.com/incidents/wwclhmrpjrth</link>
+<guid>https://status.klarna.com/incidents/wwclhmrpjrth</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 5</var>, <var>14:42</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 5</var>, <var>13:42</var> CET</small><br /><strong>Identified</strong> - Root cause identified and we are working on a fix. This is also impacting US merchants. Thank you for your patience.</p><p><small>Feb <var> 5</var>, <var>13:25</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with merchant initiated transactions in EU region. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 14:42:20 +0100</pubDate>
+<pubDate>Mon, 05 Feb 2024 14:42:20 +0100</pubDate>
+</item>
+<item>
+<title>Merchant Operations degradation</title>
+<link>https://status.klarna.com/incidents/mv22m05t0mpb</link>
+<guid>https://status.klarna.com/incidents/mv22m05t0mpb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 5</var>, <var>14:20</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 2</var>, <var>11:09</var> CET</small><br /><strong>Update</strong> - We are continuing to investigate the issue in order to restore the service as soon as possible. Thank you for your patience !</p><p><small>Jan <var>25</var>, <var>15:07</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of weekly summary of order emails in Merchant operations in EU region since 15th of January. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 14:20:04 +0100</pubDate>
+<pubDate>Mon, 05 Feb 2024 14:20:04 +0100</pubDate>
+</item>
+<item>
+<title>Merchant Portal degradation</title>
+<link>https://status.klarna.com/incidents/k849xkznt244</link>
+<guid>https://status.klarna.com/incidents/k849xkznt244</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 5</var>, <var>07:52</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 5</var>, <var>07:32</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Settlement Reports in Merchant Portal in the EU region. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 07:52:24 +0100</pubDate>
+<pubDate>Mon, 05 Feb 2024 07:52:24 +0100</pubDate>
+</item>
+<item>
+<title>Klarna Doc website availability degradation</title>
+<link>https://status.klarna.com/incidents/q74fc75845rv</link>
+<guid>https://status.klarna.com/incidents/q74fc75845rv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>17:20</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>25</var>, <var>14:41</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Klarna Doc website (docs.klarna.com) availability <br />We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 17:20:44 +0100</pubDate>
+<pubDate>Thu, 25 Jan 2024 17:20:44 +0100</pubDate>
+</item>
+<item>
+<title>Klarna purchase API degradation for Sweden (KCO)</title>
+<link>https://status.klarna.com/incidents/2br38bbjn0yl</link>
+<guid>https://status.klarna.com/incidents/2br38bbjn0yl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>24</var>, <var>17:06</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>24</var>, <var>13:47</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of global card in KCO since 10:56 CET in Sweden. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 17:06:55 +0100</pubDate>
+<pubDate>Wed, 24 Jan 2024 17:06:55 +0100</pubDate>
+</item>
+<item>
+<title>Merchant payouts delayed for JPM USD</title>
+<link>https://status.klarna.com/incidents/b8x1bf5mbp27</link>
+<guid>https://status.klarna.com/incidents/b8x1bf5mbp27</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>19</var>, <var>16:33</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>11:01</var> CET</small><br /><strong>Identified</strong> - Merchants being settled in USD may experience delays in payouts. We are working to restore the payments as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 16:33:57 +0100</pubDate>
+<pubDate>Fri, 19 Jan 2024 16:33:57 +0100</pubDate>
+</item>
+<item>
+<title>Klarna Shopping Extension degradation in ALL markets</title>
+<link>https://status.klarna.com/incidents/4wd7p6955cgf</link>
+<guid>https://status.klarna.com/incidents/4wd7p6955cgf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>19:43</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>11:25</var> CET</small><br /><strong>Update</strong> - While continuing to investigate this issue we have discovered that this affecting all markets. We are working to restoring the service as soon as possible and will keep providing updates.</p><p><small>Jan <var>18</var>, <var>09:39</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of the Shopping Extension in EU since 2024-01-13 09:00 CET . We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 19:43:47 +0100</pubDate>
+<pubDate>Thu, 18 Jan 2024 19:43:47 +0100</pubDate>
+</item>
+<item>
+<title>SSL Certification Rotation for api.klarna.com</title>
+<link>https://status.klarna.com/incidents/8zd6yzjxsh9q</link>
+<guid>https://status.klarna.com/incidents/8zd6yzjxsh9q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>10</var>, <var>15:01</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>10</var>, <var>13:01</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>18</var>, <var>14:26</var> CET</small><br /><strong>Scheduled</strong> - Between 13:00 - 15:00 (CET) on 10 of January, 2024, we will perform a routine SSL certificate rotation for api.klarna.com. We do not anticipate any disruption to Klarna services during this time, however, our Merchant Support team is available through the contact channels listed on https://klarna.com should merchants have any questions or concerns.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 15:01:07 +0100</pubDate>
+<pubDate>Wed, 10 Jan 2024 15:01:07 +0100</pubDate>
+</item>
+<item>
+<title>SSL Certification Rotation for api-na.klarna.com</title>
+<link>https://status.klarna.com/incidents/bz1nry9t0p7p</link>
+<guid>https://status.klarna.com/incidents/bz1nry9t0p7p</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>10</var>, <var>12:01</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>10</var>, <var>10:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>18</var>, <var>14:12</var> CET</small><br /><strong>Scheduled</strong> - Between 10:00 - 12:00 (CET) on 10 of January, 2024, we will perform a routine SSL certificate rotation for api-na.klarna.com. We do not anticipate any disruption to Klarna services during this time, however, our Merchant Support team is available through the contact channels listed on https://klarna.com should merchants have any questions or concerns.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 12:01:18 +0100</pubDate>
+<pubDate>Wed, 10 Jan 2024 12:01:18 +0100</pubDate>
+</item>
+<item>
+<title>Card payment Degradation in U.S.</title>
+<link>https://status.klarna.com/incidents/nh3rdtpl4n6b</link>
+<guid>https://status.klarna.com/incidents/nh3rdtpl4n6b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>29</var>, <var>10:11</var> CET</small><br /><strong>Resolved</strong> - Thank you for your patience. The incident has been resolved.</p><p><small>Dec <var>29</var>, <var>00:43</var> CET</small><br /><strong>Investigating</strong> - One of our third parties is experiencing a technical issue and are unable to process transactions. As a result, Visa cardholders may not be able to complete their transactions. This is being investigated.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Dec 2023 10:11:00 +0100</pubDate>
+<pubDate>Fri, 29 Dec 2023 10:11:00 +0100</pubDate>
+</item>
+<item>
+<title>Klarna App degradation</title>
+<link>https://status.klarna.com/incidents/z571q93gz8sp</link>
+<guid>https://status.klarna.com/incidents/z571q93gz8sp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>28</var>, <var>14:43</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>28</var>, <var>13:39</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the Klarna App in Europe and US regions. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Dec 2023 14:43:36 +0100</pubDate>
+<pubDate>Thu, 28 Dec 2023 14:43:36 +0100</pubDate>
+</item>
+<item>
+<title>Settlements degradation for Finland</title>
+<link>https://status.klarna.com/incidents/zcqsk6wvg7bd</link>
+<guid>https://status.klarna.com/incidents/zcqsk6wvg7bd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>21</var>, <var>09:16</var> CET</small><br /><strong>Resolved</strong> - Thank you for your patience, the issue has been resolved.</p><p><small>Dec <var>19</var>, <var>16:51</var> CET</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue. Apologies for any inconvenience.</p><p><small>Dec <var>19</var>, <var>16:50</var> CET</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue. Apologies for any inconvenience.</p><p><small>Dec <var>12</var>, <var>11:01</var> CET</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>12</var>, <var>11:00</var> CET</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 8</var>, <var>15:36</var> CET</small><br /><strong>Investigating</strong> - The pay in part option for invoice in Finland is not showing for all customers. Issue has been identified and a fix is being implemented. Apologies for any inconvenience.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 09:16:27 +0100</pubDate>
+<pubDate>Thu, 21 Dec 2023 09:16:27 +0100</pubDate>
+</item>
+<item>
+<title>Klarna purchase via ID Scan planned maintenance in EU</title>
+<link>https://status.klarna.com/incidents/t6rz5rg5hg4z</link>
+<guid>https://status.klarna.com/incidents/t6rz5rg5hg4z</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>17</var>, <var>06:00</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>04:30</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>16</var>, <var>19:05</var> CET</small><br /><strong>Scheduled</strong> - A planned maintenance is scheduled for Sunday between 4.30 AM - 6 AM CET for the ID Scan. During this period onboarding that will require ID Scan will not be available. Thank you for your understanding.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Dec 2023 06:00:05 +0100</pubDate>
+<pubDate>Sun, 17 Dec 2023 06:00:05 +0100</pubDate>
+</item>
+<item>
+<title>Klarna purchase API for Direct Bank Tranfers in Germany degradation</title>
+<link>https://status.klarna.com/incidents/s9kt9ss5bptl</link>
+<guid>https://status.klarna.com/incidents/s9kt9ss5bptl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>16</var>, <var>12:56</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>16</var>, <var>11:51</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of Direct Bank Transfer (Pay Now) since 2023-12-15 17:35 in Germany. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Dec 2023 12:56:30 +0100</pubDate>
+<pubDate>Sat, 16 Dec 2023 12:56:30 +0100</pubDate>
+</item>
+<item>
+<title>BankID in Sweden  reports low success rate</title>
+<link>https://status.klarna.com/incidents/k0q3klj2k2s5</link>
+<guid>https://status.klarna.com/incidents/k0q3klj2k2s5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>16</var>, <var>07:33</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>16</var>, <var>00:16</var> CET</small><br /><strong>Investigating</strong> - Klarna App login and purchase authentication in Sweden  is degraded due to BankID outage. We apologise for any inconvenience and we are working on finding a solution.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Dec 2023 07:33:09 +0100</pubDate>
+<pubDate>Sat, 16 Dec 2023 07:33:09 +0100</pubDate>
+</item>
+<item>
+<title>Klarna Card degradation in Germany</title>
+<link>https://status.klarna.com/incidents/mlcjd3htbwrl</link>
+<guid>https://status.klarna.com/incidents/mlcjd3htbwrl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 8</var>, <var>07:46</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>06:39</var> CET</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 8</var>, <var>05:30</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of Klarna Card in Germany since 04:00. Consumers might be unable to use their Klarna card.  We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Dec 2023 07:46:21 +0100</pubDate>
+<pubDate>Fri, 08 Dec 2023 07:46:21 +0100</pubDate>
+</item>
+<item>
+<title>Klarna purchase API degradation for UK</title>
+<link>https://status.klarna.com/incidents/fs33z690f47n</link>
+<guid>https://status.klarna.com/incidents/fs33z690f47n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 6</var>, <var>13:51</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>12:10</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of payments using VISA in UK. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Dec 2023 13:51:14 +0100</pubDate>
+<pubDate>Wed, 06 Dec 2023 13:51:14 +0100</pubDate>
+</item>
+
+</channel>
+</rss>

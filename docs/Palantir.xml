@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Palantir Foundry UK Status - Incident History</title>
+<link>https://status.palantirfoundry.co.uk</link>
+
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/6fnhq399ht7r</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/6fnhq399ht7r</guid>
+<content:encoded><![CDATA[
+<div> High - Investigating Issue with Ontology-Based Workflows <br><br> Summary: The company is currently investigating an issue that may cause delays, interruptions, or failures in ontology-based workflows, impacting notepad documents, queries, and data syncs. <div>
+<p><small>Feb <var> 1</var>, <var>12:14</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Feb <var> 1</var>, <var>11:12</var> GMT</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Feb <var> 1</var>, <var>11:07</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Notepad documents and reports may load slower or fail to load.<br />Queries to Object Set Service may be slower or fail.<br />Any ontology-based workflows could be impacted. Queries could be slow or fail to return and syncs of data into the ontology could be delayed or interrupted.<br />All ontology based workflows may be impacted. User queries may be slower or fail.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 12:14:43 +0000</pubDate>
+<pubDate>Thu, 01 Feb 2024 12:14:43 +0000</pubDate>
+</item>
+<item>
+<title>Workshop is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/m1xb7419s3c8</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/m1xb7419s3c8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>31</var>, <var>23:35</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Jan <var>31</var>, <var>23:15</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some workshop widgets may fail to load.</p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 23:35:13 +0000</pubDate>
+<pubDate>Wed, 31 Jan 2024 23:35:13 +0000</pubDate>
+</item>
+<item>
+<title>Builds are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/3fhcc4180p4n</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/3fhcc4180p4n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>26</var>, <var>17:32</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Jan <var>26</var>, <var>16:32</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some builds may be delayed or fail.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 17:32:31 +0000</pubDate>
+<pubDate>Fri, 26 Jan 2024 17:32:31 +0000</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/t9mlmtctz9bb</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/t9mlmtctz9bb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>12</var>, <var>16:52</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Jan <var>12</var>, <var>16:13</var> GMT</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Jan <var>12</var>, <var>15:58</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some object views and object search may load slower or fail to load.<br />Queries to Object Set Service may be slower or fail.<br />The ontology management application may load slower or fail to load.<br />Some workshop modules may load slower or fail to load.</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 16:52:03 +0000</pubDate>
+<pubDate>Fri, 12 Jan 2024 16:52:03 +0000</pubDate>
+</item>
+<item>
+<title>Foundry Services Currently Unavailable</title>
+<link>https://status.palantirfoundry.co.uk/incidents/jbgy5zk8kf8s</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/jbgy5zk8kf8s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 7</var>, <var>16:45</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Jan <var> 7</var>, <var>16:31</var> GMT</small><br /><strong>Investigating</strong> - Certain UI components may fail to load within the Foundry Workspace</p>
+]]></content:encoded>
+<pubDate>Sun, 07 Jan 2024 16:45:27 +0000</pubDate>
+<pubDate>Sun, 07 Jan 2024 16:45:27 +0000</pubDate>
+</item>
+<item>
+<title>Object Storage V2 is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/lhvp4194ktws</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/lhvp4194ktws</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 9</var>, <var>23:10</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Dec <var> 9</var>, <var>15:15</var> GMT</small><br /><strong>Identified</strong> - We have identified a possible solution to this issue and are taking remediative action. While we are remediating issues may still manifest in the following ways:<br /><br />Any ontology-based workflows could be impacted. Syncs of data into the ontology could be delayed or interrupted.</p><p><small>Dec <var> 9</var>, <var>13:57</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Any ontology-based workflows could be impacted. Syncs of data into the ontology could be delayed or interrupted.</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Dec 2023 23:10:30 +0000</pubDate>
+<pubDate>Sat, 09 Dec 2023 23:10:30 +0000</pubDate>
+</item>
+<item>
+<title>Workshop is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/x20jrxbkn755</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/x20jrxbkn755</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 1</var>, <var>17:44</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Dec <var> 1</var>, <var>11:29</var> GMT</small><br /><strong>Update</strong> - We have identified a possible solution to this issue and are taking remediative action. The issue is only impacting a small subset of workflows. While we are remediating issues may still manifest in the following ways:<br /><br />Some workshop modules data may be misaligned within workshop views.</p><p><small>Dec <var> 1</var>, <var>10:16</var> GMT</small><br /><strong>Identified</strong> - We have identified a possible solution to this issue and are taking remediative action. While we are remediating issues may still manifest in the following ways:<br /><br />Some workshop modules data may be misaligned within workshop views.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Dec 2023 17:44:53 +0000</pubDate>
+<pubDate>Fri, 01 Dec 2023 17:44:53 +0000</pubDate>
+</item>
+<item>
+<title>Object Storage V2 is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/76fbm1ct3xlr</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/76fbm1ct3xlr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>30</var>, <var>19:54</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>30</var>, <var>18:39</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Any ontology-based workflows could be impacted. Queries could be slow or fail to return and syncs of data into the ontology could be delayed or interrupted.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 19:54:38 +0000</pubDate>
+<pubDate>Thu, 30 Nov 2023 19:54:38 +0000</pubDate>
+</item>
+<item>
+<title>Workshop is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/7vhvhdhbt0k5</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/7vhvhdhbt0k5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>30</var>, <var>17:00</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>30</var>, <var>12:54</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some workshop modules data may be misaligned within workshop views.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 17:00:08 +0000</pubDate>
+<pubDate>Thu, 30 Nov 2023 17:00:08 +0000</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/8289tkqq577s</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/8289tkqq577s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>28</var>, <var>13:47</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>28</var>, <var>13:39</var> GMT</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Nov <var>28</var>, <var>13:25</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Workflows that use indexed storage, such as Workshop applications or the Ontology, may fail to load</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Nov 2023 13:47:26 +0000</pubDate>
+<pubDate>Tue, 28 Nov 2023 13:47:26 +0000</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/ncyzwptw0r7d</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/ncyzwptw0r7d</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>20</var>, <var>15:48</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>20</var>, <var>14:18</var> GMT</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Nov <var>20</var>, <var>13:36</var> GMT</small><br /><strong>Update</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Workflows that use indexed storage, such as Workshop applications or the Ontology, may fail to load</p><p><small>Nov <var>20</var>, <var>13:32</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Packaging, installing, or upgrading workflows in marketplace may be slower or fail.<br />Some object views and object search may load slower or fail to load.<br />The ontology management application may load slower or fail to load.</p>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 15:48:34 +0000</pubDate>
+<pubDate>Mon, 20 Nov 2023 15:48:34 +0000</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/kyys8n3wbc1t</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/kyys8n3wbc1t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>15</var>, <var>21:24</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>15</var>, <var>20:02</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />multiple workflows may fail to load</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Nov 2023 21:24:41 +0000</pubDate>
+<pubDate>Wed, 15 Nov 2023 21:24:41 +0000</pubDate>
+</item>
+<item>
+<title>Delays in Response on Tickets sent to Palantir Centralized Support</title>
+<link>https://status.palantirfoundry.co.uk/incidents/s80rm3jv3y1g</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/s80rm3jv3y1g</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>14</var>, <var>17:47</var> GMT</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Nov <var>14</var>, <var>16:34</var> GMT</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.<br /><br />Note: This only affects tickets that are being assigned to or handled by Palantir's central support team. If you have submitted tickets to other Palantir teams, or teams within your own organization, you are unaffected by this notice.</p><p><small>Nov <var>14</var>, <var>16:20</var> GMT</small><br /><strong>Investigating</strong> - Users may experience a delay in response for tickets assigned to Palantir's central support team as there is a technical issue with our internal ticketing infrastructure.<br /><br />Note: This only affects tickets that are being assigned to or handled by Palantir's central support team. If you have submitted tickets to other Palantir teams, or teams within your own organization, you are unaffected by this notice.</p>
+]]></content:encoded>
+<pubDate>Tue, 14 Nov 2023 17:47:55 +0000</pubDate>
+<pubDate>Tue, 14 Nov 2023 17:47:55 +0000</pubDate>
+</item>
+<item>
+<title>Builds are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/prrj5k600vvy</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/prrj5k600vvy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>27</var>, <var>16:41</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Oct <var>27</var>, <var>16:23</var> BST</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Oct <var>27</var>, <var>16:16</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some builds may be delayed or fail.</p>
+]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 16:41:10 +0100</pubDate>
+<pubDate>Fri, 27 Oct 2023 16:41:10 +0100</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/tphdp9t2dc94</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/tphdp9t2dc94</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>10</var>, <var>15:34</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Oct <var>10</var>, <var>15:00</var> BST</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Oct <var>10</var>, <var>15:00</var> BST</small><br /><strong>Identified</strong> - We have identified a possible solution to this issue and are taking remediative action. While we are remediating issues may still manifest in the following ways:<br /><br />Some actions may be slower or fail.<br />Some object views and object search may load slower or fail to load.<br />Some workshop modules may load slower or fail to load.</p>
+]]></content:encoded>
+<pubDate>Tue, 10 Oct 2023 15:34:34 +0100</pubDate>
+<pubDate>Tue, 10 Oct 2023 15:34:34 +0100</pubDate>
+</item>
+<item>
+<title>Parts of Foundry's user interface may experience degraded performance or not load.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/77psk5l8nmwy</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/77psk5l8nmwy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 6</var>, <var>17:33</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Oct <var> 6</var>, <var>16:41</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Parts of Foundry's user interface may experience degraded performance or not load.</p>
+]]></content:encoded>
+<pubDate>Fri, 06 Oct 2023 17:33:16 +0100</pubDate>
+<pubDate>Fri, 06 Oct 2023 17:33:16 +0100</pubDate>
+</item>
+<item>
+<title>Multipass is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/blg0zt661y4s</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/blg0zt661y4s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>27</var>, <var>11:37</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Sep <var>27</var>, <var>11:02</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Authentication may fail.</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Sep 2023 11:37:37 +0100</pubDate>
+<pubDate>Wed, 27 Sep 2023 11:37:37 +0100</pubDate>
+</item>
+<item>
+<title>Actions and Builds are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/s8vzrkp4ykmg</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/s8vzrkp4ykmg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>21</var>, <var>15:35</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Sep <var>21</var>, <var>14:58</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some actions may be slower.<br />Some builds may be delayed.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Sep 2023 15:35:52 +0100</pubDate>
+<pubDate>Thu, 21 Sep 2023 15:35:52 +0100</pubDate>
+</item>
+<item>
+<title>Builds and Workshop are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/j3kkncwsctgm</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/j3kkncwsctgm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 8</var>, <var>15:05</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Aug <var> 8</var>, <var>14:58</var> BST</small><br /><strong>Monitoring</strong> - We are currently monitoring the issue after taking remediative actions.</p><p><small>Aug <var> 8</var>, <var>12:11</var> BST</small><br /><strong>Update</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some builds may be delayed or fail.<br />Some workshop modules may load slower or fail to load.</p><p><small>Aug <var> 8</var>, <var>10:48</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some builds may be delayed or fail.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Aug 2023 15:05:26 +0100</pubDate>
+<pubDate>Tue, 08 Aug 2023 15:05:26 +0100</pubDate>
+</item>
+<item>
+<title>[Resolved] 2FA Reset Codes May Fail to Send</title>
+<link>https://status.palantirfoundry.co.uk/incidents/nl1s7j3svbjm</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/nl1s7j3svbjm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>20</var>, <var>16:16</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Jul <var>20</var>, <var>15:49</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />2FA reset codes may not be sent to users, Login errors may note that "second factor of authentication failed"</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Jul 2023 16:16:56 +0100</pubDate>
+<pubDate>Thu, 20 Jul 2023 16:16:56 +0100</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/1pb8yhqztwdz</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/1pb8yhqztwdz</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>10</var>, <var>11:30</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>May <var>10</var>, <var>11:27</var> BST</small><br /><strong>Identified</strong> - We have identified a possible solution to this issue and are taking remediative action. While we are remediating issues may still manifest in the following ways:<br /><br />Some functions may be slower or fail.<br />Some object views and object search may load slower or fail to load.<br />Queries to Object Set Service may be slower or fail.<br />All ontology based workflows may be impacted. User queries may be slower or fail.<br />Some workshop modules may load slower or fail to load.</p><p><small>May <var>10</var>, <var>10:02</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating ontology performance degradation which may manifest in the following ways:<br /><br />Some functions may be slower or fail.<br />Some object views and object search may load slower or fail to load.<br />Queries to Object Set Service may be slower or fail.<br />All ontology based workflows may be impacted. User queries may be slower or fail.<br />Some workshop modules may load slower or fail to load.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 May 2023 11:30:13 +0100</pubDate>
+<pubDate>Wed, 10 May 2023 11:30:13 +0100</pubDate>
+</item>
+<item>
+<title>Object Explorer is experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/tzkvp3d0z5kt</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/tzkvp3d0z5kt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>21</var>, <var>14:46</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Apr <var>21</var>, <var>14:28</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some object views and object search may load slower or fail to load.</p>
+]]></content:encoded>
+<pubDate>Fri, 21 Apr 2023 14:46:18 +0100</pubDate>
+<pubDate>Fri, 21 Apr 2023 14:46:18 +0100</pubDate>
+</item>
+<item>
+<title>Multiple components are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/kny3t4k0ybxr</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/kny3t4k0ybxr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>14</var>, <var>14:26</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Apr <var>14</var>, <var>13:01</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some contour analyses may load slower.<br />The dataset preparation application may load slower.<br />Some reports may load slower.</p>
+]]></content:encoded>
+<pubDate>Fri, 14 Apr 2023 14:26:08 +0100</pubDate>
+<pubDate>Fri, 14 Apr 2023 14:26:08 +0100</pubDate>
+</item>
+<item>
+<title>Resource Management App - Currency View Not Showing</title>
+<link>https://status.palantirfoundry.co.uk/incidents/4b591gkjxy70</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/4b591gkjxy70</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>12</var>, <var>16:51</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Apr <var>12</var>, <var>13:48</var> BST</small><br /><strong>Identified</strong> - We have identified a possible solution to this issue and are taking remediative action. While we are remediating issues may still manifest in the following ways: The Resource Management App will not correctly show the currency view if you were early adopters of currency but not using roles in Control Panel to permission access to the Resource Management App.</p><p><small>Apr <var>12</var>, <var>12:35</var> BST</small><br /><strong>Update</strong> - We are currently investigating an issue which may manifest in the following ways: The Resource Management App will not correctly show the currency view if you were early adopters of currency but not using roles in Control Panel to permission access to the Resource Management App.</p><p><small>Apr <var>12</var>, <var>12:29</var> BST</small><br /><strong>Update</strong> - We are currently investigating an issue which may manifest in the following ways: The Resource Management App will not show the currency view in some situations.</p><p><small>Apr <var>12</var>, <var>12:07</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways: The Resource Management App will not show the currency view if you were canarying "currency" and still using group aum permissioning.</p>
+]]></content:encoded>
+<pubDate>Wed, 12 Apr 2023 16:51:24 +0100</pubDate>
+<pubDate>Wed, 12 Apr 2023 16:51:24 +0100</pubDate>
+</item>
+<item>
+<title>Functions are experiencing degraded performance.</title>
+<link>https://status.palantirfoundry.co.uk/incidents/dv8w41mvtwpw</link>
+<guid>https://status.palantirfoundry.co.uk/incidents/dv8w41mvtwpw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var> 6</var>, <var>04:19</var> BST</small><br /><strong>Resolved</strong> - The situation is back to normal, and services are operating normally.</p><p><small>Apr <var> 5</var>, <var>22:24</var> BST</small><br /><strong>Update</strong> - We are still investigating this issue, and will provide an update shortly.</p><p><small>Apr <var> 5</var>, <var>19:22</var> BST</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Some functions may be slower or fail.</p>
+]]></content:encoded>
+<pubDate>Thu, 06 Apr 2023 04:19:40 +0100</pubDate>
+<pubDate>Thu, 06 Apr 2023 04:19:40 +0100</pubDate>
+</item>
+
+</channel>
+</rss>

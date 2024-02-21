@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 13:27:37.579024
+Existing_entries: 0
+Fetching from https://status.octopus.com/history.rss
+Token length: 231
+Summarized using GPT-3.5-turbo-1106
+Append: [New signups to Octopus Cloud are unavailable](https://status.octopus.com/incidents/4wbfwtxp37wf)
+Append: [AWS deployments failing when using service role for EC2 instance](https://status.octopus.com/incidents/gwjrss8w08b5)
+Append: [ECS deployment targets - Assumed role values reset on versions of Octopus Server after 2024.1.5250](https://status.octopus.com/incidents/gs56jr69ghxp)
+Append: [API requests for projects associated with a lifecycle not responding](https://status.octopus.com/incidents/9z29jf8n6b70)
+Append: [Self-hosted customers experiencing high CPU usage after upgrading to 2023.4.8xxx](https://status.octopus.com/incidents/4b81zvgn7dnr)
+Append: [Dynamic Worker Leases failing in WestEU](https://status.octopus.com/incidents/v69z3nbjwfd6)
+Append: [Cloud instances may be missing task log lines or show incorrect status for deployment steps](https://status.octopus.com/incidents/h9y2wr6lf9z2)
+Append: [Cloud instances unable to communicate with listening and polling tentacles](https://status.octopus.com/incidents/jvdfscr80rxk)
+Append: [Manual intervention steps on Configuration-as-code projects may throw errors](https://status.octopus.com/incidents/df98tzwd6j1b)
+Append: [library.octopus.com is inaccessible](https://status.octopus.com/incidents/f13s3jdp0znr)
+Append: [Investigating bug reports related to step execution logic](https://status.octopus.com/incidents/kb75yypz00zg)
+Append: [Octopus cloud AU region outage](https://status.octopus.com/incidents/1vpxjf8y120r)
+Append: [Unable to view pages after upgrade](https://status.octopus.com/incidents/5yys22l1829z)
+Append: [Octopus Cloud Connectivity Issue](https://status.octopus.com/incidents/qbkcdbn7ntch)
+Append: [Error viewing Projects after upgrading to 2023.2.X](https://status.octopus.com/incidents/8xpn0kxc7kfq)
+Append: [SQL Timeouts and Errors Impacting Cloud Customers in the West US Region](https://status.octopus.com/incidents/fr5wh9rgfh8l)
+Append: [AWS authentication issue for customers using the "Run an AWS CLI Script" step](https://status.octopus.com/incidents/r08mzp3xnlh8)
+Append: [Incorrect Resource Usage values displayed in Control Center for Octopus Cloud instances](https://status.octopus.com/incidents/8rk5d62lvsr0)
+Append: [Issue preventing login with Microsoft/AzureAD on Octopus.com and Octopus Cloud](https://status.octopus.com/incidents/jhwvn5v82hxk)
+Append: [Issue identified with Octopus.com and Octopus Cloud Microsoft/AzureAD sign in.](https://status.octopus.com/incidents/v9yht12wgqrz)
+Append: [Intermittent errors in West Europe](https://status.octopus.com/incidents/yq8cwm2s1gy2)
+Append: [Certificate maintenance on billing systems](https://status.octopus.com/incidents/8h98rfn9l4sw)
+Append: [Octopus.com DNS maintenance](https://status.octopus.com/incidents/5dk03scfkf2l)
+Append: [Octopus.com sign-in, docs, blogs and downloads unavailable](https://status.octopus.com/incidents/b4jsf06qg435)
+Append: [Authentication errors when attempting to sign into https://billing.octopus.com](https://status.octopus.com/incidents/1jlyqnqfcfm3)
+append_entries: 25
+Finish: 2024-02-21 13:27:39.183083
