@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:26.836321
+Existing_entries: 0
+Fetching from https://status.cloudsmith.io/history.rss
+Token length: 677
+Summarized using GPT-3.5-turbo-1106
+Append: [Broken Upload Functionality with Latest Cloudsmith API Release](https://status.cloudsmith.io/incidents/sj1mxqxmthxx)
+Append: [Monitoring on-going performance in EU-West](https://status.cloudsmith.io/incidents/74fph4ccc4z9)
+Append: [Issue with Synchronising Packages (Malware Scanning Failure)](https://status.cloudsmith.io/incidents/v0xx68tz3jdp)
+Append: [5xx errors](https://status.cloudsmith.io/incidents/chx98hy56bcv)
+Append: [Repository List UI Inaccessible for Anonymous Users](https://status.cloudsmith.io/incidents/qd3hnw686wgw)
+Append: [Issue Pulling Packages](https://status.cloudsmith.io/incidents/s6xv9l1gn3t4)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/qrltxkx2zszv)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/q08rrdm1bwzl)
+Append: [Email Delivery Issues (Re: Proofpoint)](https://status.cloudsmith.io/incidents/t2t1fcmlyp62)
+Append: [Access Log Export Gaps + Reduced Billing Charges](https://status.cloudsmith.io/incidents/416n5jtnsdm1)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/1812q5f0bprn)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/52qy7fkqvzs6)
+Append: [Intermittent Errors](https://status.cloudsmith.io/incidents/rhlfjpzxfhwx)
+Append: [Elevated Processing Errors - Malware Scans](https://status.cloudsmith.io/incidents/hp0vslzs1g3l)
+Append: [Elevated Processing Errors - Malware Scans](https://status.cloudsmith.io/incidents/p6xlnfwhhrsc)
+Append: [Data Processing Delays - Packages queued for sync](https://status.cloudsmith.io/incidents/8vl920sp0449)
+Append: [RedHat Package Checksums Failures](https://status.cloudsmith.io/incidents/m207bk12671z)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/m6sb9w9k06cm)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/yhq6qjfmrw26)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/hk5br3kcmwrh)
+Append: [Backfilling Access Log Exports](https://status.cloudsmith.io/incidents/36lbq9hr78v2)
+Append: [Elevated API Errors](https://status.cloudsmith.io/incidents/7ns8g0ffw4mx)
+Append: [Package API Errors](https://status.cloudsmith.io/incidents/4drxn2lt5hsj)
+Append: [Webhook Processing Delays](https://status.cloudsmith.io/incidents/0r4yflwbwsjn)
+Append: [Data Processing Delays - Package content indexing and display](https://status.cloudsmith.io/incidents/8dnlwlmhfjp4)
+append_entries: 25
+Finish: 2024-02-21 16:24:28.784548

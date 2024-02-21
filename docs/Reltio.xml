@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Reltio Status - Incident History</title>
+<link>https://status.reltio.com</link>
+
+<item>
+<title>Reltio workflow service degradation</title>
+<link>https://status.reltio.com/incidents/0s7tljsscct7</link>
+<guid>https://status.reltio.com/incidents/0s7tljsscct7</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Reltio Workflow Service Degradation <br><br> Summary: The Reltio Workflow Service experienced a partial degradation in the 361.reltio.com environment, but the issue has been resolved. The root cause is being investigated. <div>
+<p><small>Jan <var> 5</var>, <var>04:33</var> PST</small><br /><strong>Resolved</strong> - Greetings All,<br /><br />At approximately 4th January at 10:30 p.m. PST, the Reltio Workflow Service experienced a partial degradation limited to the 361.reltio.com environment. Our teams worked on resolving the issue. <br /><br />The issue is now resolved as of 5th January at 3:30 a.m. PST. We are currently working on the retrospective and investigating the root cause of the degradation.<br /><br />We apologize for any inconvenience this may have caused you.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jan 2024 04:33:42 -0800</pubDate>
+<pubDate>Fri, 05 Jan 2024 04:33:42 -0800</pubDate>
+</item>
+<item>
+<title>The Reltio Workflow Service Experienced A Partial Degradation</title>
+<link>https://status.reltio.com/incidents/ck2l0884k8h5</link>
+<guid>https://status.reltio.com/incidents/ck2l0884k8h5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 4</var>, <var>10:00</var> PST</small><br /><strong>Resolved</strong> - Greetings All, <br /><br />At approximately 1:00 pm EST, the Reltio Workflow Service experienced a partial degradation limited to the 361.reltio.com environment. Shortly after that, our teams assembled and worked on resolving the issue. <br /><br />The issue is now resolved as of 3:10 pm EST. We are currently working on the retrospective and investigating the root cause of the degradation.<br /><br />We apologize for any inconvenience this may have caused you or your team. Please log in a support ticket if you have any questions.<br /><br />Best Regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jan 2024 10:00:00 -0800</pubDate>
+<pubDate>Thu, 04 Jan 2024 10:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Temporary intermittent search latencies on selective 361.reltio.com tenants</title>
+<link>https://status.reltio.com/incidents/xldm8hmmslw5</link>
+<guid>https://status.reltio.com/incidents/xldm8hmmslw5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>21</var>, <var>14:57</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>21</var>, <var>13:56</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>21</var>, <var>10:01</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Nov 2023 14:57:54 -0800</pubDate>
+<pubDate>Tue, 21 Nov 2023 14:57:54 -0800</pubDate>
+</item>
+<item>
+<title>Temporary intermittent search latencies on selective 361.reltio.com tenants</title>
+<link>https://status.reltio.com/incidents/44w3wb7x53g6</link>
+<guid>https://status.reltio.com/incidents/44w3wb7x53g6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>20</var>, <var>12:55</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>20</var>, <var>11:15</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Nov <var>20</var>, <var>11:15</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>20</var>, <var>10:52</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 12:55:39 -0800</pubDate>
+<pubDate>Mon, 20 Nov 2023 12:55:39 -0800</pubDate>
+</item>
+<item>
+<title>Reltio AWS US HIPAA Cloud Maintenance Notification-10/21, 1 AM PDT (30 Minutes)</title>
+<link>https://status.reltio.com/incidents/l9m42pty5y0s</link>
+<guid>https://status.reltio.com/incidents/l9m42pty5y0s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>21</var>, <var>01:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>21</var>, <var>01:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>16</var>, <var>14:09</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Oct <var> 9</var>, <var>16:36</var> PDT</small><br /><strong>Scheduled</strong> - As part of our planned maintenance, the Reltio Technical Operations Team will be performing an upgrade of the Reltio Cloud Kubernetes Cluster routing service. This upgrade will require a 30 minutes of full tenant downtime only for the tenants located in Reltio US AWS HIPAA Cloud.<br /><br />This upgrade will take place on Saturday  October 21 2023, and will start at 1 AM PDT (4 AM ET).<br />There is no action you need to take before or after these upgrades.<br /><br />Please see the full details below.<br />What: Upgrade of Reltio Cloud Kubernetes Cluster routing service<br />When: Saturday  October 21 2023, and will start at 1 AM PDT (4 AM ET)<br /><br />Where: This maintenance will only impact tenants on the next environments in Reltio US AWS HIPAA Cloud:<br />prod-h360.reltio.com<br />test-h360.reltio.com<br />dev-h360.reltio.com<br />Estimated Duration: 30 minutes on the date mentioned.<br /><br />Impact: Reltio Connected Data Platform will be unavailable for any operations during the entire period of maintenance window<br /><br />Why: This upgrade will improve the stability of the Reltio API and UI connectivity and prevent any possible increase in the latency on that layer.<br /><br />Who is affected: All users and 3rd-party services using Reltio API and UI in any of the 3 environments mentioned above.<br /><br />Action: There is no action you need to take before or after these upgrades.<br /><br />Upon completion of the upgrade, a notification will be sent via the Reltio Status page. Please register on the Reltio Status page to subscribe for this and future notifications of system status.<br />Please reach out to Reltio Support with any questions.</p>
+]]></content:encoded>
+<pubDate>Sat, 21 Oct 2023 01:30:03 -0700</pubDate>
+<pubDate>Sat, 21 Oct 2023 01:30:03 -0700</pubDate>
+</item>
+<item>
+<title>Console Data loader application is experiencing partial performance degradation</title>
+<link>https://status.reltio.com/incidents/2fkhvn9zzf97</link>
+<guid>https://status.reltio.com/incidents/2fkhvn9zzf97</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>16</var>, <var>14:15</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>16</var>, <var>12:35</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>16</var>, <var>11:25</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 16 Oct 2023 14:15:46 -0700</pubDate>
+<pubDate>Mon, 16 Oct 2023 14:15:46 -0700</pubDate>
+</item>
+<item>
+<title>Performance Degradation: API error encountered "no healthy upstream" in prod-h360 workflow service</title>
+<link>https://status.reltio.com/incidents/yhcdzrmjwms9</link>
+<guid>https://status.reltio.com/incidents/yhcdzrmjwms9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>16</var>, <var>12:35</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>16</var>, <var>08:28</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>16</var>, <var>07:08</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Mon, 16 Oct 2023 12:35:23 -0700</pubDate>
+<pubDate>Mon, 16 Oct 2023 12:35:23 -0700</pubDate>
+</item>
+<item>
+<title>DataLoader service down</title>
+<link>https://status.reltio.com/incidents/nyj0175knmfn</link>
+<guid>https://status.reltio.com/incidents/nyj0175knmfn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 9</var>, <var>07:01</var> PDT</small><br /><strong>Resolved</strong> - Hello All,<br /><br />As of 10:00 a.m. EDT, we have resolved the incident with the data loader.<br /><br />Best regards,<br />Reltio</p><p><small>Oct <var> 9</var>, <var>04:22</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Oct <var> 9</var>, <var>02:20</var> PDT</small><br /><strong>Identified</strong> - The Dataload was failing due to the inaccessibility of the tenants. Reltio has identified the issue and working on it.</p>
+]]></content:encoded>
+<pubDate>Mon, 09 Oct 2023 07:01:48 -0700</pubDate>
+<pubDate>Mon, 09 Oct 2023 07:01:48 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance Notification for Customers in the EU Region</title>
+<link>https://status.reltio.com/incidents/0vspt0cgktfj</link>
+<guid>https://status.reltio.com/incidents/0vspt0cgktfj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 6</var>, <var>23:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 6</var>, <var>23:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 3</var>, <var>15:24</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>26</var>, <var>15:41</var> PDT</small><br /><strong>Scheduled</strong> - Hello All,<br /><br />Reltio AWS EU Cloud maintenance on Saturday, October 7th at 6 AM GMT (that is Friday October 6th 2023, 11 PM PDT)<br /><br />As part of our planned maintenance, the Reltio Technical Operations Team will be performing an upgrade of the Reltio Cloud Kubernetes Cluster routing service. This upgrade will require a 30 minutes of full tenant downtime.<br />This upgrade will take place on Saturday, October 7th at 6 AM GMT (that is Friday October 6th 2023, 11 PM PDT)<br /><br />There is no action you need to take before or after these upgrades.<br /><br />Please see the full details below.<br /><br />What: Upgrade of Reltio Cloud Kubernetes Cluster routing service<br /><br />When: Saturday, October 7th at 6 AM GMT (that is Friday October 6th 2023, 11 PM PDT)<br /><br />Where: This maintenance will only impact tenants on the next environments in Reltio AWS Cloud in Europe:<br />eu-360.reltio.com<br />eu-test.reltio.com<br />mpe-01.reltio.com<br /><br /><br />Estimated Duration: 30 minutes on the date mentioned.<br /><br />Impact: Reltio Connected Data Platform will be unavailable for any operations during the entire period of maintenance window<br /><br />Why: This upgrade will improve the stability of the Reltio API and UI connectivity and prevent any possible increase in the latency on that layer.<br /><br />Who is affected: All users and 3rd-party services using Reltio API and UI in any of the 3 Reltio AWS environments in Europe mentioned above.<br /><br />Action: There is no action you need to take before or after these upgrades.<br /><br />Upon completion of the upgrade, a notification will be sent via the Reltio Status page. Please register on the Reltio Status page to subscribe for this and future notifications of system status.<br /><br />Best regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Fri, 06 Oct 2023 23:30:04 -0700</pubDate>
+<pubDate>Fri, 06 Oct 2023 23:30:04 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance Notification for Customers in the APAC Region</title>
+<link>https://status.reltio.com/incidents/p22bxkf52tdf</link>
+<guid>https://status.reltio.com/incidents/p22bxkf52tdf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 6</var>, <var>09:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 6</var>, <var>09:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 3</var>, <var>15:23</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>26</var>, <var>13:23</var> PDT</small><br /><strong>Scheduled</strong> - Hello All, <br /><br />Maintenance starts Saturday, October 7th at 12 AM Singapore Standard Time (that is Friday October 6th 2023, 9 AM PDT)<br /><br />As part of our planned maintenance, the Reltio Technical Operations Team will be performing an upgrade of the Reltio Cloud Kubernetes Cluster routing service. This upgrade will require a 30 minutes of full tenant downtime.<br />This upgrade will take place on Saturday, October 7th at 12 AM Singapore Standard Time (that is Friday October 6th 2023, 9 AM PDT).<br />There is no action you need to take before or after these upgrades.<br /><br />Please see the full details below.<br /><br />What: Upgrade of Reltio Cloud Kubernetes Cluster routing service<br /><br />When: Saturday, October 7th at 12 AM Singapore Standard Time (that is Friday October 6th 2023, 9 AM PDT)<br /><br />Where: This maintenance will only impact tenants on the next environments in Reltio APAC AWS Cloud in Singapore:<br />ap-360.reltio.com<br />ap-test.reltio.com<br /><br /><br />Estimated Duration: 30 minutes on the date mentioned.<br /><br />Impact: Reltio Connected Data Platform will be unavailable for any operations during the entire period of maintenance window<br /><br />Why: This upgrade will improve the stability of the Reltio API and UI connectivity and prevent any possible increase in the latency on that layer.<br /><br />Who is affected: All users and 3rd-party services using Reltio API and UI in any of the 2 Reltio AWS environments in Singapore mentioned above.<br /><br />Action: There is no action you need to take before or after these upgrades.<br /><br />Upon completion of the upgrade, a notification will be sent via the Reltio Status page. Please register on the Reltio Status page to subscribe for this and future notifications of system status.<br /><br />Best Regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Fri, 06 Oct 2023 09:30:04 -0700</pubDate>
+<pubDate>Fri, 06 Oct 2023 09:30:04 -0700</pubDate>
+</item>
+<item>
+<title>EU 360 tenant slowness.</title>
+<link>https://status.reltio.com/incidents/q611y2kvr3p5</link>
+<guid>https://status.reltio.com/incidents/q611y2kvr3p5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>25</var>, <var>06:20</var> PDT</small><br /><strong>Resolved</strong> - The incident has been resolved.</p><p><small>Sep <var>25</var>, <var>06:15</var> PDT</small><br /><strong>Monitoring</strong> - We have implemented a fix to resolve this issue. Currently, we are monitoring the environment.</p><p><small>Sep <var>25</var>, <var>05:50</var> PDT</small><br /><strong>Update</strong> - We have identified the issue and currently working on a fix.</p><p><small>Sep <var>25</var>, <var>03:00</var> PDT</small><br /><strong>Identified</strong> - We are currently investigating reports that some users will be unable to log in to their tenant via the UI.<br />Our engineers are working to resolve the issue and will provide another update shortly.</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Sep 2023 06:20:09 -0700</pubDate>
+<pubDate>Mon, 25 Sep 2023 06:20:09 -0700</pubDate>
+</item>
+<item>
+<title>Reltio AWS Cloud  Maintenance Notification-9/17 1 AM PDT (30 Minutes)</title>
+<link>https://status.reltio.com/incidents/0ggfrhcpfzkx</link>
+<guid>https://status.reltio.com/incidents/0ggfrhcpfzkx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>17</var>, <var>01:31</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>17</var>, <var>01:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var> 8</var>, <var>09:36</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var> 7</var>, <var>13:20</var> PDT</small><br /><strong>Scheduled</strong> - Note: Please be aware the maintenance window has been updated. Maintenance starts Sunday September 17th 2023, at 1 AM PDT (4 AM ET)<br /><br />As part of our planned maintenance, the Reltio Technical Operations Team will be performing an upgrade of the Reltio Cloud Kubernetes Cluster routing service. This upgrade will require a 30 minutes of full tenant downtime.<br />This upgrade will take place on Sunday night September 17th 2023, and will start at 1AM PT (4 AM ET).<br />There is no action you need to take before or after these upgrades.<br /><br />Please see the full details below.<br /><br />What: Upgrade of Reltio Cloud Kubernetes Cluster routing service<br /><br />When: Sunday September 17th 2023, and will start at 1AM PT (4 AM ET).<br /><br />Where: This maintenance will only impact tenants on the next environments in Reltio US AWS Cloud:<br />mpe-03.reltio.com<br />361.reltio.com<br />test.reltio.com<br />dev.reltio.com<br /><br />Estimated Duration: 30 minutes on the date mentioned.<br /><br />Impact: Reltio Connected Data Platform will be unavailable for any operations during the entire period of maintenance window<br /><br />Why: This upgrade will improve the stability of the Reltio API and UI connectivity and prevent any possible increase in the latency on that layer.<br /><br />Who is affected: All users and 3rd-party services using Reltio API and UI in any of the 4 environments mentioned above.<br /><br />Action: There is no action you need to take before or after these upgrades.<br /><br />Upon completion of the upgrade, a notification will be sent via the Reltio Status page. Please register on the Reltio Status page to subscribe for this and future notifications of system status.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Sep 2023 01:31:05 -0700</pubDate>
+<pubDate>Sun, 17 Sep 2023 01:31:05 -0700</pubDate>
+</item>
+<item>
+<title>RDM Service Unavailable</title>
+<link>https://status.reltio.com/incidents/cgtx8481vns6</link>
+<guid>https://status.reltio.com/incidents/cgtx8481vns6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>15</var>, <var>23:56</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>15</var>, <var>23:54</var> PDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Sep <var>15</var>, <var>23:53</var> PDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Sep <var>15</var>, <var>23:47</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>15</var>, <var>23:27</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and we are working on the fix.</p><p><small>Sep <var>15</var>, <var>17:58</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Sep 2023 23:56:57 -0700</pubDate>
+<pubDate>Fri, 15 Sep 2023 23:56:57 -0700</pubDate>
+</item>
+<item>
+<title>Data Loader Degraded Performance Notification</title>
+<link>https://status.reltio.com/incidents/9wvgvwqtmlk8</link>
+<guid>https://status.reltio.com/incidents/9wvgvwqtmlk8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>28</var>, <var>07:44</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>28</var>, <var>07:27</var> PDT</small><br /><strong>Investigating</strong> - Hello All,<br /><br />As of about 8:53 a.m. EDT, we noticed an issue with our Data Loader service. We are currently working on restoring services. We will continue to keep you updated with new information.<br /><br />Best Regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Mon, 28 Aug 2023 07:44:01 -0700</pubDate>
+<pubDate>Mon, 28 Aug 2023 07:44:01 -0700</pubDate>
+</item>
+<item>
+<title>Salesforce Connector Maintenance on 27 August 2023 (Sunday)  10.00 pm PST</title>
+<link>https://status.reltio.com/incidents/mvbzftmdx7cq</link>
+<guid>https://status.reltio.com/incidents/mvbzftmdx7cq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>27</var>, <var>10:31</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>27</var>, <var>10:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>25</var>, <var>11:11</var> PDT</small><br /><strong>Scheduled</strong> - Reltio Technical Operations Team will be performing maintenance of the Salesforce Connector on 27 August 2023 10.00 pm PST (Sunday)/ 5:00 am, 28 August 2023 GMT.<br /><br />Below are the details and impact of this maintenance:<br /><br />What:<br />Salesforce Connector database will be upgraded<br /><br />When: <br />27 August 2023 10.00 pm PST (Sunday)/ 5:00 am, 28 August 2023 GMT<br /><br />Where:<br />Salesforce connector in GCP environment<br /><br />Estimated Duration: <br />Up to 30 minutes<br /><br />Impact: <br />Here's what you can expect during the period we're upgrading the Salesforce Connector:<br /><br />●	Data synchronization from Salesforce to Reltio will continue without interruption.<br />●	Data synchronization from Reltio to Salesforce will remain in the Reltio queue. When the upgrade is complete, the connector will resume synchronizing the paused data. No data will be lost during this process.<br />●	Salesforce Connector configurations will not be available for you to modify any connector mappings, credentials, or other settings. APIs/services such as monitoring and status will remain available.<br />●	We recommend that you not use the Tasks APIs to perform any bulk data loads between Salesforce and Reltio until we notify you that the upgrade is complete.<br /><br />If you have any questions regarding this update, please contact Reltio Support.</p>
+]]></content:encoded>
+<pubDate>Sun, 27 Aug 2023 10:31:11 -0700</pubDate>
+<pubDate>Sun, 27 Aug 2023 10:31:11 -0700</pubDate>
+</item>
+<item>
+<title>"na03" Environment Search Partial Outage Notification</title>
+<link>https://status.reltio.com/incidents/t8x1nxdd00vy</link>
+<guid>https://status.reltio.com/incidents/t8x1nxdd00vy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>22</var>, <var>08:33</var> PDT</small><br /><strong>Resolved</strong> - Hello All, <br /><br />We have monitored the situation for the last hour and see no further issues with the search service in the na03 environment. We have marked this issue as resolved. <br /><br />Best,<br />Reltio</p><p><small>Aug <var>22</var>, <var>07:22</var> PDT</small><br /><strong>Monitoring</strong> - Hello All,<br /><br />We have restored the search services in the na03 environment. We are now monitoring the service.<br /><br />Best,</p><p><small>Aug <var>22</var>, <var>06:51</var> PDT</small><br /><strong>Investigating</strong> - Hello All,<br /><br />As of 9:00 am EDT, we noticed a partial outage for search services in our na03 Azure environment. We are currently working on restoring services. We will continue to keep you updated with new information.<br /><br />Best Regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Tue, 22 Aug 2023 08:33:40 -0700</pubDate>
+<pubDate>Tue, 22 Aug 2023 08:33:40 -0700</pubDate>
+</item>
+<item>
+<title>Auth Performance Degradation Notification</title>
+<link>https://status.reltio.com/incidents/9n8sfjgqnpdg</link>
+<guid>https://status.reltio.com/incidents/9n8sfjgqnpdg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 8</var>, <var>12:20</var> PDT</small><br /><strong>Resolved</strong> - Hello All,<br /><br />We have monitored the performance of the Auth service for the last 4 hours and see no further issues. This incident has been marked as resolved. <br /><br />Regards,<br />Reltio</p><p><small>Aug <var> 8</var>, <var>08:30</var> PDT</small><br /><strong>Monitoring</strong> - Greetings All, <br /><br />We have identified a potential cause and have taken steps to restore the service back to normal. We are continuing the monitor the service.<br /><br />Kind regards,<br />Reltio</p><p><small>Aug <var> 8</var>, <var>07:50</var> PDT</small><br /><strong>Investigating</strong> - Hello All,<br /><br />As of 10:29 AM EDT, we noticed a degradation in the performance of our Auth service. We are currently investigating and working on restoring services back to normal. We will continue to keep you updated with new information.<br /><br />Best Regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Aug 2023 12:20:36 -0700</pubDate>
+<pubDate>Tue, 08 Aug 2023 12:20:36 -0700</pubDate>
+</item>
+<item>
+<title>Authentication Service Outage</title>
+<link>https://status.reltio.com/incidents/dx34010pn82d</link>
+<guid>https://status.reltio.com/incidents/dx34010pn82d</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>20</var>, <var>12:40</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>20</var>, <var>10:30</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>20</var>, <var>10:10</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>20</var>, <var>09:48</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Jul 2023 12:40:04 -0700</pubDate>
+<pubDate>Thu, 20 Jul 2023 12:40:04 -0700</pubDate>
+</item>
+<item>
+<title>Export Service Outage</title>
+<link>https://status.reltio.com/incidents/qm1ln905hwmw</link>
+<guid>https://status.reltio.com/incidents/qm1ln905hwmw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>20</var>, <var>02:39</var> PDT</small><br /><strong>Resolved</strong> - The issue is resolved. Export jobs started processing successfully.</p><p><small>Jul <var>20</var>, <var>02:28</var> PDT</small><br /><strong>Identified</strong> - We have identified the issue and working on the fix.</p><p><small>Jul <var>20</var>, <var>23:17</var> PDT</small><br /><strong>Investigating</strong> - We have identified an issue with the Export Jobs getting into the Scheduled state. Started Investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Jul 2023 02:39:31 -0700</pubDate>
+<pubDate>Thu, 20 Jul 2023 02:39:31 -0700</pubDate>
+</item>
+<item>
+<title>Reltio is experiencing 503 error while accessing the environment.</title>
+<link>https://status.reltio.com/incidents/x336sxy9q886</link>
+<guid>https://status.reltio.com/incidents/x336sxy9q886</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>10</var>, <var>04:55</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved and the environment access restored.</p><p><small>Jul <var>10</var>, <var>03:04</var> PDT</small><br /><strong>Investigating</strong> - The backend team is actively working to fix and restore the access.</p>
+]]></content:encoded>
+<pubDate>Mon, 10 Jul 2023 04:55:04 -0700</pubDate>
+<pubDate>Mon, 10 Jul 2023 04:55:04 -0700</pubDate>
+</item>
+<item>
+<title>Data Loader console Access issue</title>
+<link>https://status.reltio.com/incidents/zsv8zx2bvdcm</link>
+<guid>https://status.reltio.com/incidents/zsv8zx2bvdcm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var> 3</var>, <var>07:43</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var> 3</var>, <var>02:06</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var> 2</var>, <var>23:30</var> PDT</small><br /><strong>Investigating</strong> - Reltio acknowledges the unexpected access issue with Console - Data loader and we are working towards investigating and fixing the same.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Jul 2023 07:43:54 -0700</pubDate>
+<pubDate>Mon, 03 Jul 2023 07:43:54 -0700</pubDate>
+</item>
+<item>
+<title>Tenant Management Console Access Issue</title>
+<link>https://status.reltio.com/incidents/dkqrn37f43pw</link>
+<guid>https://status.reltio.com/incidents/dkqrn37f43pw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>19</var>, <var>03:32</var> PDT</small><br /><strong>Resolved</strong> - The issue has been fixed. The Tenant Management Console is now operational.</p><p><small>Jun <var>19</var>, <var>02:14</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jun <var>19</var>, <var>01:00</var> PDT</small><br /><strong>Identified</strong> - The Platform Management Console Access Issue is reported by multiple customers. Reltio has identified the problem and working towards the fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Jun 2023 03:32:16 -0700</pubDate>
+<pubDate>Mon, 19 Jun 2023 03:32:16 -0700</pubDate>
+</item>
+<item>
+<title>Planned, Disruption-free Maintenance of the Reltio data storage subsystem on 2023/06/17</title>
+<link>https://status.reltio.com/incidents/39k54lb6qpnw</link>
+<guid>https://status.reltio.com/incidents/39k54lb6qpnw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>19</var>, <var>00:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>17</var>, <var>00:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>16</var>, <var>14:34</var> PDT</small><br /><strong>Scheduled</strong> - What?<br />Reltio Technical Operations Team will be performing disruption-free maintenance of the data storage subsystem underlying several production and test environments, starting today, Saturday, June 17th, 2023 @ 12 am PST<br /><br />When?<br /> Saturday, June 17th, 2023 @ 12 am PST to Monday, June 19th 2023 @ 12am PST<br /><br />Where?<br /><br />Reltio Google Cloud environment prod-usg.reltio.com<br /><br />Estimated Duration:<br />Full maintenance of all planned clusters will take up to 48 hours<br /><br />Any disruption or other impact expected ?<br />This maintenance will not cause any impact on any of the existing platform tenants or functions.<br />Maintenance will be done in a fully disruption-free mode. No impact is expected on the performance of any tenants or operations on these environments<br /><br />Any actions expected from Reltio users ? <br />No actions expected or required. Just keep working with Reltio Platform as usual.<br /><br />If you have any questions regarding this update, please contact Reltio Support.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Jun 2023 00:00:38 -0700</pubDate>
+<pubDate>Mon, 19 Jun 2023 00:00:38 -0700</pubDate>
+</item>
+<item>
+<title>Tenant Management Console Access Issue</title>
+<link>https://status.reltio.com/incidents/w65zrz6nq3tf</link>
+<guid>https://status.reltio.com/incidents/w65zrz6nq3tf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>12</var>, <var>05:45</var> PDT</small><br /><strong>Resolved</strong> - The Platform Management Console access issue has been resolved</p><p><small>Jun <var>12</var>, <var>01:15</var> PDT</small><br /><strong>Identified</strong> - The Platform Management Console Access Issue is reported by multiple customers. Reltio has identified the problem and working towards the fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Jun 2023 05:45:50 -0700</pubDate>
+<pubDate>Mon, 12 Jun 2023 05:45:50 -0700</pubDate>
+</item>
+<item>
+<title>Auth Service Outage</title>
+<link>https://status.reltio.com/incidents/qxxnffvkw20v</link>
+<guid>https://status.reltio.com/incidents/qxxnffvkw20v</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>30</var>, <var>17:03</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>30</var>, <var>16:00</var> PDT</small><br /><strong>Monitoring</strong> - Hello All, <br /><br />We have restored the Auth Service, and we are monitoring the service. <br /><br />Best,</p><p><small>May <var>30</var>, <var>15:27</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>30</var>, <var>15:26</var> PDT</small><br /><strong>Investigating</strong> - Hello All, <br /><br />We have identified an issue with our Auth Service. We have identified a potential cause and are working on restoring the service.<br /><br />We will continue to keep the status page https://status.reltio.com/ up-to-date with any new information.<br /><br />Best,</p>
+]]></content:encoded>
+<pubDate>Tue, 30 May 2023 17:03:54 -0700</pubDate>
+<pubDate>Tue, 30 May 2023 17:03:54 -0700</pubDate>
+</item>
+
+</channel>
+</rss>

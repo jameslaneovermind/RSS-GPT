@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Onfido Status - Incident History</title>
+<link>https://status.onfido.com</link>
+
+<item>
+<title>Delays in check processing</title>
+<link>https://status.onfido.com/incidents/0rnr5t768tpb</link>
+<guid>https://status.onfido.com/incidents/0rnr5t768tpb</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Delayed Check Issue <br><br> Summary: The issue has been resolved with an applied fix, and the remaining delayed checks are expected to be completed in the next 45 minutes. Apologies for any inconvenience. <div>
+<p><small>Feb <var>12</var>, <var>05:02</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved and we've applied a fix. We expect to complete the remaining delayed checks in the next 45 minutes or so. We apologize for any inconvenience this has caused.</p><p><small>Feb <var>12</var>, <var>04:43</var> UTC</small><br /><strong>Monitoring</strong> - We are monitoring.</p><p><small>Feb <var>12</var>, <var>04:39</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 05:02:14 +0000</pubDate>
+<pubDate>Mon, 12 Feb 2024 05:02:14 +0000</pubDate>
+</item>
+<item>
+<title>Smart Capture Link service degradation</title>
+<link>https://status.onfido.com/incidents/crk6805lws3j</link>
+<guid>https://status.onfido.com/incidents/crk6805lws3j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>17:30</var> UTC</small><br /><strong>Resolved</strong> - A service release caused Smart Capture Link media upload to fail. This issue is now resolved.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 17:30:00 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 17:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Known Faces service degradation</title>
+<link>https://status.onfido.com/incidents/9jnbbydtnd11</link>
+<guid>https://status.onfido.com/incidents/9jnbbydtnd11</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>29</var>, <var>17:31</var> UTC</small><br /><strong>Resolved</strong> - This issue is now resolved.</p><p><small>Jan <var>29</var>, <var>16:26</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix for this issue.<br /><br />We are monitoring closely to make sure the issue has been resolved and everything is working as expected.</p><p><small>Jan <var>29</var>, <var>15:27</var> UTC</small><br /><strong>Identified</strong> - We are experiencing service degradation impacting the Known Faces product. The root cause has since been identified and a fix is being applied.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 17:31:58 +0000</pubDate>
+<pubDate>Mon, 29 Jan 2024 17:31:58 +0000</pubDate>
+</item>
+<item>
+<title>Increased latency on check processing</title>
+<link>https://status.onfido.com/incidents/bh51j1nbj13n</link>
+<guid>https://status.onfido.com/incidents/bh51j1nbj13n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 2</var>, <var>19:26</var> UTC</small><br /><strong>Resolved</strong> - This incident is resolved. Most of the reports that were queued as a result of this issue have been cleared and turnaround times are returning to normal. Any remaining queued reports are expected to complete within the next five hours. We apologize for the degraded service.</p><p><small>Jan <var> 2</var>, <var>16:26</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var> 2</var>, <var>16:23</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix for this issue in the EU region.<br /><br />We are monitoring closely to make sure issue has been resolved and everything is working as expected.  Please bear with us while we get back on our feet and we appreciate your patience during this incident.</p><p><small>Jan <var> 2</var>, <var>16:05</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 2</var>, <var>15:00</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 02 Jan 2024 19:26:47 +0000</pubDate>
+<pubDate>Tue, 02 Jan 2024 19:26:47 +0000</pubDate>
+</item>
+<item>
+<title>Increased latency on check processing</title>
+<link>https://status.onfido.com/incidents/15ny3jj9871w</link>
+<guid>https://status.onfido.com/incidents/15ny3jj9871w</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>21</var>, <var>13:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>21</var>, <var>10:40</var> UTC</small><br /><strong>Monitoring</strong> - We implemented a fix and processing latency is back to normal.<br />We are monitoring closely until all the backlog is processed.</p><p><small>Dec <var>21</var>, <var>10:21</var> UTC</small><br /><strong>Identified</strong> - We have identified the source of the disruption and are working on a solution</p><p><small>Dec <var>21</var>, <var>09:57</var> UTC</small><br /><strong>Investigating</strong> - We've currently experiencing issues that are negatively impacting latency on check processing.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 13:04:29 +0000</pubDate>
+<pubDate>Thu, 21 Dec 2023 13:04:29 +0000</pubDate>
+</item>
+<item>
+<title>Increased latency on check creation</title>
+<link>https://status.onfido.com/incidents/zjxz8194kc0v</link>
+<guid>https://status.onfido.com/incidents/zjxz8194kc0v</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>16:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>14:05</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix for this issue.<br /><br />We are monitoring closely to make sure issue has been resolved and everything is working as expected.  Please bear with us while we get back on our feet and we appreciate your patience during this incident.</p><p><small>Dec <var>19</var>, <var>13:46</var> UTC</small><br /><strong>Investigating</strong> - We've currently experiencing issues that are negatively impacting latency on check creation.<br /><br />Our next update will be in 15 minutes. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 16:51:36 +0000</pubDate>
+<pubDate>Tue, 19 Dec 2023 16:51:36 +0000</pubDate>
+</item>
+<item>
+<title>EU Infrastructure Maintenance</title>
+<link>https://status.onfido.com/incidents/q2qj94pl3yrs</link>
+<guid>https://status.onfido.com/incidents/q2qj94pl3yrs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>17</var>, <var>06:06</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>04:59</var> UTC</small><br /><strong>Verifying</strong> - The maintenance operation is done and traffic has been reopened.<br />We are monitoring our systems.</p><p><small>Dec <var>17</var>, <var>03:32</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>14</var>, <var>15:08</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a series of system upgrades, during which Onfido services in the EU instance will be unavailable. <br /><br />We have selected this timeframe to limit the impact to our customers, since check volume is typically low. As no checks in the EU instance can be processed during this maintenance window, please plan accordingly and notify your end users, if applicable.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Dec 2023 06:06:32 +0000</pubDate>
+<pubDate>Sun, 17 Dec 2023 06:06:32 +0000</pubDate>
+</item>
+<item>
+<title>New checks missing in Dashboard</title>
+<link>https://status.onfido.com/incidents/d0y6sfj5vbv6</link>
+<guid>https://status.onfido.com/incidents/d0y6sfj5vbv6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>17</var>, <var>06:05</var> UTC</small><br /><strong>Resolved</strong> - We have cleared the backlog, all checks will show in the Onfido Dashboard</p><p><small>Dec <var>17</var>, <var>05:39</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue and we are processing the backlog of checks.</p><p><small>Dec <var>17</var>, <var>05:07</var> UTC</small><br /><strong>Investigating</strong> - Checks/reports issued in the past 2 hours are missing from the Onfido Dashboard, we are working on restoring the data.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Dec 2023 06:05:57 +0000</pubDate>
+<pubDate>Sun, 17 Dec 2023 06:05:57 +0000</pubDate>
+</item>
+<item>
+<title>Limited delays in check processing</title>
+<link>https://status.onfido.com/incidents/1gp539sth66f</link>
+<guid>https://status.onfido.com/incidents/1gp539sth66f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 6</var>, <var>19:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>17:02</var> UTC</small><br /><strong>Update</strong> - The issue is mitigated and there is no impact. We will continue monitoring.</p><p><small>Dec <var> 6</var>, <var>16:00</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 6</var>, <var>15:15</var> UTC</small><br /><strong>Update</strong> - The issue is limited to EU.<br />We are still experiencing limited degraded performance in EU.</p><p><small>Dec <var> 6</var>, <var>15:05</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 6</var>, <var>14:50</var> UTC</small><br /><strong>Investigating</strong> - We've currently experiencing issues that are negatively impacting latency on check completion.<br /><br />Our next update will be in 15 minutes. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Dec 2023 19:05:53 +0000</pubDate>
+<pubDate>Wed, 06 Dec 2023 19:05:53 +0000</pubDate>
+</item>
+<item>
+<title>US Infrastructure Maintenance</title>
+<link>https://status.onfido.com/incidents/q2jqd2bgtzb8</link>
+<guid>https://status.onfido.com/incidents/q2jqd2bgtzb8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>29</var>, <var>10:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>29</var>, <var>09:55</var> UTC</small><br /><strong>Verifying</strong> - The maintenance operations are done. We are now monitoring the system.</p><p><small>Nov <var>29</var>, <var>08:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>14</var>, <var>15:07</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a series of system upgrades, during which Onfido services in the US instance will be unavailable. <br /><br />We have selected this timeframe to limit the impact to our customers, since check volume is typically low. As no checks in the US instance can be processed during this maintenance window, please plan accordingly and notify your end users, if applicable.</p>
+]]></content:encoded>
+<pubDate>Wed, 29 Nov 2023 10:01:04 +0000</pubDate>
+<pubDate>Wed, 29 Nov 2023 10:01:04 +0000</pubDate>
+</item>
+<item>
+<title>Watchlist Full partial outage</title>
+<link>https://status.onfido.com/incidents/76fhf8rkgwd1</link>
+<guid>https://status.onfido.com/incidents/76fhf8rkgwd1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>25</var>, <var>16:29</var> UTC</small><br /><strong>Resolved</strong> - All affected Watchlist Full and Watchlist KYC reports have been completed. The newly created reports are completing normally.</p><p><small>Nov <var>25</var>, <var>16:10</var> UTC</small><br /><strong>Monitoring</strong> - We're now able to contact our partner again. We're monitoring the issue to make sure all systems are back to normal operation and reports are completed.</p><p><small>Nov <var>25</var>, <var>16:08</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var>25</var>, <var>16:07</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing issues contacting one of Onfido's data partner for Watchlist Full, starting from the 25 November 2023, 15:33 UTC.<br /><br />As a result, Watchlist Full reports will not complete and remain in the 'pending' status. Those reports will be completed as soon as we're able to contact our partner again.</p>
+]]></content:encoded>
+<pubDate>Sat, 25 Nov 2023 16:29:51 +0000</pubDate>
+<pubDate>Sat, 25 Nov 2023 16:29:51 +0000</pubDate>
+</item>
+<item>
+<title>CA Infrastructure Maintenance</title>
+<link>https://status.onfido.com/incidents/6601zcblwrfd</link>
+<guid>https://status.onfido.com/incidents/6601zcblwrfd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>20</var>, <var>09:35</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>20</var>, <var>09:25</var> UTC</small><br /><strong>Verifying</strong> - All maintenance operations have completed. We have reopened the API and are monitoring the system closely.</p><p><small>Nov <var>20</var>, <var>08:32</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>20</var>, <var>08:31</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var>14</var>, <var>15:06</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a series of system upgrades, during which Onfido services in the CA instance will be unavailable. <br /><br />We have selected this timeframe to limit the impact to our customers, since check volume is typically low. As no checks in the CA instance can be processed during this maintenance window, please plan accordingly and notify your end users, if applicable.</p>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 09:35:05 +0000</pubDate>
+<pubDate>Mon, 20 Nov 2023 09:35:05 +0000</pubDate>
+</item>
+<item>
+<title>Degraded upload video experience</title>
+<link>https://status.onfido.com/incidents/443117l1tzwj</link>
+<guid>https://status.onfido.com/incidents/443117l1tzwj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 8</var>, <var>18:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 8</var>, <var>17:23</var> UTC</small><br /><strong>Monitoring</strong> - We've taken measures to try and stabilise the system. Our metrics indicate problem has now been mitigated. We are continuing to investigate the root cause of this incident.</p><p><small>Nov <var> 8</var>, <var>17:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 18:26:10 +0000</pubDate>
+<pubDate>Wed, 08 Nov 2023 18:26:10 +0000</pubDate>
+</item>
+<item>
+<title>Error creating checks</title>
+<link>https://status.onfido.com/incidents/k5rwl6q54x09</link>
+<guid>https://status.onfido.com/incidents/k5rwl6q54x09</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 8</var>, <var>13:00</var> UTC</small><br /><strong>Resolved</strong> - A new version of one of our internal services released at 13:00 resulted in a spike in the number of errors in the create check operation.<br /><br />The incident was resolved at 13:22.</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 13:00:00 +0000</pubDate>
+<pubDate>Wed, 08 Nov 2023 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Increased latency on document check processing</title>
+<link>https://status.onfido.com/incidents/dgmbn6p5pwpl</link>
+<guid>https://status.onfido.com/incidents/dgmbn6p5pwpl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 2</var>, <var>18:50</var> UTC</small><br /><strong>Resolved</strong> - This issue is now resolved:<br /><br />Increased latency on document check processing<br /><br />We take a lot of pride in running a robust, reliable service and we're working hard to make sure this does not happen again. A detailed postmortem will follow once we've concluded our investigation.</p><p><small>Nov <var> 2</var>, <var>18:31</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix for this issue.<br /><br />We are monitoring closely to make sure issue has been resolved and everything is working as expected.  Please bear with us while we get back on our feet and we appreciate your patience during this incident.</p><p><small>Nov <var> 2</var>, <var>18:21</var> UTC</small><br /><strong>Investigating</strong> - We're currently experiencing issues that are negatively impacting latency on document check processing.<br /><br />Our next update will be in 15 minutes. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Nov 2023 18:50:53 +0000</pubDate>
+<pubDate>Thu, 02 Nov 2023 18:50:53 +0000</pubDate>
+</item>
+<item>
+<title>Dashboard in EU is partially unavailable</title>
+<link>https://status.onfido.com/incidents/wx7wpnxyl736</link>
+<guid>https://status.onfido.com/incidents/wx7wpnxyl736</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>26</var>, <var>16:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><br />The capacity of part of our search infrastructure was insufficient to service request volumes, and has been scaled up accordingly.</p><p><small>Oct <var>26</var>, <var>14:23</var> UTC</small><br /><strong>Monitoring</strong> - There was an increase of load in our database backends. It is now back to normal. We are monitoring and searching for the source of the load increase</p><p><small>Oct <var>26</var>, <var>13:00</var> UTC</small><br /><strong>Investigating</strong> - The Dashboard in EU is unavailable and will report errors when running searches.<br />We are investigating</p>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 16:42:35 +0000</pubDate>
+<pubDate>Thu, 26 Oct 2023 16:42:35 +0000</pubDate>
+</item>
+<item>
+<title>Anomalous number of 5xx errors on the Studio API</title>
+<link>https://status.onfido.com/incidents/pvdx6j014l3g</link>
+<guid>https://status.onfido.com/incidents/pvdx6j014l3g</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>26</var>, <var>04:12</var> UTC</small><br /><strong>Resolved</strong> - On 2023-10-26, a failure in the rate limiting middleware for the Studio API denied access to rate-limited endpoints for a period of 8 minutes, during 04:12am and 04:20am.</p>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 04:12:11 +0000</pubDate>
+<pubDate>Thu, 26 Oct 2023 04:12:11 +0000</pubDate>
+</item>
+<item>
+<title>Webhooks delivery delayed</title>
+<link>https://status.onfido.com/incidents/yjxbh4617myv</link>
+<guid>https://status.onfido.com/incidents/yjxbh4617myv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>24</var>, <var>09:44</var> UTC</small><br /><strong>Resolved</strong> - The system is completely operational now.</p><p><small>Oct <var>24</var>, <var>09:34</var> UTC</small><br /><strong>Monitoring</strong> - The issue was found and fixed. Keep monitoring the state of the system.</p><p><small>Oct <var>24</var>, <var>08:44</var> UTC</small><br /><strong>Investigating</strong> - We observe that the delivery of the webhook is late.</p>
+]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 09:44:44 +0000</pubDate>
+<pubDate>Tue, 24 Oct 2023 09:44:44 +0000</pubDate>
+</item>
+<item>
+<title>UK ID card clear rate dropped</title>
+<link>https://status.onfido.com/incidents/hc5cx13rwr80</link>
+<guid>https://status.onfido.com/incidents/hc5cx13rwr80</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>18</var>, <var>08:22</var> UTC</small><br /><strong>Resolved</strong> - The issue was resolved</p><p><small>Oct <var>18</var>, <var>08:03</var> UTC</small><br /><strong>Identified</strong> - Issue is identified, waiting 3rd party partner to resolve it on their side.</p><p><small>Oct <var>18</var>, <var>07:22</var> UTC</small><br /><strong>Update</strong> - The root cause of the failure is the 3rd party provider degradation. We contacted the support to raise the issue.</p><p><small>Oct <var>18</var>, <var>07:21</var> UTC</small><br /><strong>Investigating</strong> - We observe degradation in UK address verification which leads to UK ID cards clear rate drop.</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Oct 2023 08:22:52 +0000</pubDate>
+<pubDate>Wed, 18 Oct 2023 08:22:52 +0000</pubDate>
+</item>
+<item>
+<title>ID Records product is experiencing about 10% decrease in clear rates for applicants in the UK</title>
+<link>https://status.onfido.com/incidents/77lk2jjj4qsv</link>
+<guid>https://status.onfido.com/incidents/77lk2jjj4qsv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 5</var>, <var>08:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We apologize for any inconvenience this has caused.</p><p><small>Oct <var> 5</var>, <var>07:52</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been resolved. We'll keep on monitoring to ensure that incident is solved.</p><p><small>Oct <var> 5</var>, <var>06:54</var> UTC</small><br /><strong>Investigating</strong> - ID Record is experiencing about 10% decrease in clear rates for KYC reports in the UK. We are currently investigating and we'll be back with an update shortly.</p>
+]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 08:49:02 +0000</pubDate>
+<pubDate>Thu, 05 Oct 2023 08:49:02 +0000</pubDate>
+</item>
+<item>
+<title>The ID Record product is experiencing errors in the UK</title>
+<link>https://status.onfido.com/incidents/qdrgy86hd2vc</link>
+<guid>https://status.onfido.com/incidents/qdrgy86hd2vc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 1</var>, <var>01:42</var> UTC</small><br /><strong>Resolved</strong> - The incident has been resolved since 00:50 UTC.</p><p><small>Oct <var> 1</var>, <var>00:53</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Oct <var> 1</var>, <var>00:05</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue with an underlying provider affecting UK checks clear rate. We apologize for any inconvenience and we'll be back with an update shortly.</p>
+]]></content:encoded>
+<pubDate>Sun, 01 Oct 2023 01:42:08 +0000</pubDate>
+<pubDate>Sun, 01 Oct 2023 01:42:08 +0000</pubDate>
+</item>
+<item>
+<title>Applicant form is down</title>
+<link>https://status.onfido.com/incidents/m3s5w27lcwkq</link>
+<guid>https://status.onfido.com/incidents/m3s5w27lcwkq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>15</var>, <var>10:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>15</var>, <var>10:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we will keep monitoring.</p><p><small>Sep <var>15</var>, <var>09:39</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>15</var>, <var>09:39</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with applicantform failing to load in the EU region.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Sep 2023 10:27:52 +0000</pubDate>
+<pubDate>Fri, 15 Sep 2023 10:27:52 +0000</pubDate>
+</item>
+<item>
+<title>Identity Enhanced is experiencing a major decrease in clear rates for applicants all other the world except UK</title>
+<link>https://status.onfido.com/incidents/m8zsj2yr80z0</link>
+<guid>https://status.onfido.com/incidents/m8zsj2yr80z0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>11</var>, <var>15:21</var> UTC</small><br /><strong>Resolved</strong> - The issue has been resolved by our external provider and Identity Record service is now back to normal.</p><p><small>Sep <var>11</var>, <var>15:13</var> UTC</small><br /><strong>Monitoring</strong> - The degradation has stopped since 14:49 UTC. We will monitor if the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>15:07</var> UTC</small><br /><strong>Identified</strong> - The underlying provider has found the issue and is working on a fix.</p><p><small>Sep <var>11</var>, <var>14:16</var> UTC</small><br /><strong>Update</strong> - We are still investigating issues with one of the providers for identity enhanced.</p><p><small>Sep <var>11</var>, <var>13:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue in one of the providers</p><p><small>Sep <var>11</var>, <var>13:55</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Sep 2023 15:21:13 +0000</pubDate>
+<pubDate>Mon, 11 Sep 2023 15:21:13 +0000</pubDate>
+</item>
+<item>
+<title>Delays in document check processing in the EU region</title>
+<link>https://status.onfido.com/incidents/mgy4wc01c267</link>
+<guid>https://status.onfido.com/incidents/mgy4wc01c267</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>29</var>, <var>14:29</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved & the backlog has been processed. We apologize for any inconvenience this has caused.</p><p><small>Aug <var>29</var>, <var>07:37</var> UTC</small><br /><strong>Monitoring</strong> - The fix for the Document Checks delays has worked and overall delays are decreasing. The expected backlog for those tasks using manual processing is estimated to be 18 hours. We will update you once delays have completely subsided.</p><p><small>Aug <var>29</var>, <var>07:30</var> UTC</small><br /><strong>Identified</strong> - Our team has identified the source of the issue with the Document Checks delays and is working to address the problem.</p><p><small>Aug <var>29</var>, <var>07:16</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>29</var>, <var>07:12</var> UTC</small><br /><strong>Investigating</strong> - We're investigating reports of delays in completing Document Checks. We are working hard to make sure that completion times return to normal.</p>
+]]></content:encoded>
+<pubDate>Tue, 29 Aug 2023 14:29:16 +0000</pubDate>
+<pubDate>Tue, 29 Aug 2023 14:29:16 +0000</pubDate>
+</item>
+<item>
+<title>Watchlist product is experiencing errors</title>
+<link>https://status.onfido.com/incidents/tg07wjxmbl5s</link>
+<guid>https://status.onfido.com/incidents/tg07wjxmbl5s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 8</var>, <var>08:57</var> UTC</small><br /><strong>Resolved</strong> - Everything is working and getting no errors from our partner</p><p><small>Aug <var> 8</var>, <var>08:34</var> UTC</small><br /><strong>Update</strong> - Not getting errors from requests to our partner anymore.<br />Still waiting on confirmation from their side that everything is working as expected.</p><p><small>Aug <var> 8</var>, <var>08:25</var> UTC</small><br /><strong>Identified</strong> - Our partner is having an issue on their side and working on a fix.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Aug 2023 08:57:58 +0000</pubDate>
+<pubDate>Tue, 08 Aug 2023 08:57:58 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

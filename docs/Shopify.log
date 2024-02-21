@@ -1,0 +1,7 @@
+------------------------------------------------------
+Started: 2024-02-21 16:25:07.835868
+Existing_entries: 0
+Fetching from https://status.shopify.com/history.rss
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/Shopify

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Virtuagym Status - Incident History</title>
+<link>https://status.virtuagym.com</link>
+
+<item>
+<title>Database upgrades</title>
+<link>https://status.virtuagym.com/incidents/b9rh2nb0b15x</link>
+<guid>https://status.virtuagym.com/incidents/b9rh2nb0b15x</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br><br>Summary: The company is undergoing scheduled maintenance with verification and progress updates. No major impact is indicated. <div>
+<p><small>Jan <var>30</var>, <var>02:17</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>30</var>, <var>01:57</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jan <var>30</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>26</var>, <var>10:19</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 02:17:55 +0000</pubDate>
+<pubDate>Tue, 30 Jan 2024 02:17:55 +0000</pubDate>
+</item>
+<item>
+<title>Habits, Leads and GDPR maintenance</title>
+<link>https://status.virtuagym.com/incidents/8v34mtnc7191</link>
+<guid>https://status.virtuagym.com/incidents/8v34mtnc7191</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>22:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>18</var>, <var>21:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>10:14</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance for the underlying infrastructure of the Habits, Leads and GDPR during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 22:00:10 +0000</pubDate>
+<pubDate>Thu, 18 Jan 2024 22:00:10 +0000</pubDate>
+</item>
+<item>
+<title>Database Load Issues</title>
+<link>https://status.virtuagym.com/incidents/yff5bm6rv85c</link>
+<guid>https://status.virtuagym.com/incidents/yff5bm6rv85c</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>15</var>, <var>21:02</var> UTC</small><br /><strong>Resolved</strong> - We've implemented a solution and all the affected operations are now fully functional. We appreciate your patience and apologize for the inconvenience.</p><p><small>Dec <var>15</var>, <var>10:34</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing general Database Load issues that will impact operations such as:<br />- SEPA exports<br />- Credit usage of recently handed out credits (starting on the 14th of December)<br />- Bookings actions (schedule or cancelling - starting on the 15th of December)<br /><br />We're looking into stabilizing these operations with the utmost urgency and will provide an update as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Dec 2023 21:02:49 +0000</pubDate>
+<pubDate>Fri, 15 Dec 2023 21:02:49 +0000</pubDate>
+</item>
+<item>
+<title>Appointment schedule issues</title>
+<link>https://status.virtuagym.com/incidents/fc8641mlqzh5</link>
+<guid>https://status.virtuagym.com/incidents/fc8641mlqzh5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>29</var>, <var>16:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>12:55</var> UTC</small><br /><strong>Monitoring</strong> - A fix for both issues has been implemented and we are monitoring the results.</p><p><small>Nov <var>29</var>, <var>11:26</var> UTC</small><br /><strong>Update</strong> - We identified the issues and are working on a fix.</p><p><small>Nov <var>29</var>, <var>10:09</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating issues that prevent activities from being saved (in the appointment schedule settings) and "other" events from being created.</p>
+]]></content:encoded>
+<pubDate>Wed, 29 Nov 2023 16:56:18 +0000</pubDate>
+<pubDate>Wed, 29 Nov 2023 16:56:18 +0000</pubDate>
+</item>
+<item>
+<title>Database Minor Version Upgrades</title>
+<link>https://status.virtuagym.com/incidents/yk4z16btspk3</link>
+<guid>https://status.virtuagym.com/incidents/yk4z16btspk3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>13</var>, <var>04:02</var> UTC</small><br /><strong>Update</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>13</var>, <var>04:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>13</var>, <var>03:56</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Sep <var>13</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>12</var>, <var>09:21</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Sep 2023 04:00:22 +0000</pubDate>
+<pubDate>Wed, 13 Sep 2023 04:00:22 +0000</pubDate>
+</item>
+<item>
+<title>Connectivity Issues</title>
+<link>https://status.virtuagym.com/incidents/wv7wcr5mm36g</link>
+<guid>https://status.virtuagym.com/incidents/wv7wcr5mm36g</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 6</var>, <var>11:36</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 6</var>, <var>11:04</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var> 6</var>, <var>10:44</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating connectivity issues identified by our monitoring systems.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Sep 2023 11:36:29 +0000</pubDate>
+<pubDate>Wed, 06 Sep 2023 11:36:29 +0000</pubDate>
+</item>
+<item>
+<title>Database Upgrades</title>
+<link>https://status.virtuagym.com/incidents/85hp7l7j852c</link>
+<guid>https://status.virtuagym.com/incidents/85hp7l7j852c</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>23</var>, <var>01:53</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>21</var>, <var>09:45</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 23 Aug 2023 01:53:35 +0000</pubDate>
+<pubDate>Wed, 23 Aug 2023 01:53:35 +0000</pubDate>
+</item>
+<item>
+<title>Connectivity issues</title>
+<link>https://status.virtuagym.com/incidents/d9q832n3t43h</link>
+<guid>https://status.virtuagym.com/incidents/d9q832n3t43h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>25</var>, <var>09:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>25</var>, <var>07:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>25</var>, <var>07:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 25 Jul 2023 09:04:30 +0000</pubDate>
+<pubDate>Tue, 25 Jul 2023 09:04:30 +0000</pubDate>
+</item>
+<item>
+<title>Degraded Performance - SEPA Exports</title>
+<link>https://status.virtuagym.com/incidents/lhwjh0z7rwxz</link>
+<guid>https://status.virtuagym.com/incidents/lhwjh0z7rwxz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>14</var>, <var>07:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>13</var>, <var>11:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>13</var>, <var>09:10</var> UTC</small><br /><strong>Identified</strong> - We have identified the root cause of the issue, corrected it and are now provisioning new database resources to enable SEPA exports. We'll inform when this operation is completed.</p><p><small>Jul <var>13</var>, <var>07:01</var> UTC</small><br /><strong>Investigating</strong> - We're currently experiencing reduced performance on our SEPA export functionality which is causing our clients to not be able to download the SEPA Export files. We expect this situation to subside until end of day. We apologize for the inconvenience.</p>
+]]></content:encoded>
+<pubDate>Fri, 14 Jul 2023 07:01:35 +0000</pubDate>
+<pubDate>Fri, 14 Jul 2023 07:01:35 +0000</pubDate>
+</item>
+<item>
+<title>Auth maintenance</title>
+<link>https://status.virtuagym.com/incidents/ds86lkl2scvc</link>
+<guid>https://status.virtuagym.com/incidents/ds86lkl2scvc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>21</var>, <var>06:01</var> UTC</small><br /><strong>Update</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>21</var>, <var>06:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>21</var>, <var>05:57</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jun <var>21</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>19</var>, <var>10:06</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance for the underlying infrastructure for some of the Authentication and Authorization features during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Jun 2023 06:00:24 +0000</pubDate>
+<pubDate>Wed, 21 Jun 2023 06:00:24 +0000</pubDate>
+</item>
+<item>
+<title>Database Instance Upgrade</title>
+<link>https://status.virtuagym.com/incidents/pnw3gwq51nj3</link>
+<guid>https://status.virtuagym.com/incidents/pnw3gwq51nj3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>14</var>, <var>02:24</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>14</var>, <var>02:01</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jun <var>14</var>, <var>01:31</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>13</var>, <var>12:44</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing Database instance type upgrades during this time. We expect minimal effects on our end users but will still formulate a rollback plan as usual.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Jun 2023 02:24:57 +0000</pubDate>
+<pubDate>Wed, 14 Jun 2023 02:24:57 +0000</pubDate>
+</item>
+<item>
+<title>Habits, Leads, Checkin Auth Maintenance</title>
+<link>https://status.virtuagym.com/incidents/2l6mtl6p165p</link>
+<guid>https://status.virtuagym.com/incidents/2l6mtl6p165p</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>13</var>, <var>03:26</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>13</var>, <var>03:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to verify the maintenance items.</p><p><small>Jun <var>13</var>, <var>03:17</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jun <var>13</var>, <var>02:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>12</var>, <var>10:01</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance for the underlying infrastructure of the Habits, Leads, Checkin and some Authentication features during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Jun 2023 03:26:32 +0000</pubDate>
+<pubDate>Tue, 13 Jun 2023 03:26:32 +0000</pubDate>
+</item>
+<item>
+<title>DB Instance Upgrade</title>
+<link>https://status.virtuagym.com/incidents/2d362xh9drr6</link>
+<guid>https://status.virtuagym.com/incidents/2d362xh9drr6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 8</var>, <var>02:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 8</var>, <var>02:23</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jun <var> 8</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var> 7</var>, <var>13:27</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing DB instance type upgrades during this time. We expect minimal effects on our end users but will still formulate a rollback plan as usual.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Jun 2023 02:30:04 +0000</pubDate>
+<pubDate>Thu, 08 Jun 2023 02:30:04 +0000</pubDate>
+</item>
+<item>
+<title>'Clients' page not loading properly</title>
+<link>https://status.virtuagym.com/incidents/qq065z7t1wrl</link>
+<guid>https://status.virtuagym.com/incidents/qq065z7t1wrl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 2</var>, <var>19:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Jun <var> 2</var>, <var>18:54</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Jun 2023 19:28:42 +0000</pubDate>
+<pubDate>Fri, 02 Jun 2023 19:28:42 +0000</pubDate>
+</item>
+<item>
+<title>Degraded performance - Mobile Synchronization, Platform Performance</title>
+<link>https://status.virtuagym.com/incidents/lwsywrky40nr</link>
+<guid>https://status.virtuagym.com/incidents/lwsywrky40nr</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>17</var>, <var>16:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>17</var>, <var>14:21</var> UTC</small><br /><strong>Update</strong> - We have made some additional changes in our database to ensure performance will improve. Spikes are decreasing and we are allowing for increased synchronisation.</p><p><small>May <var>17</var>, <var>10:21</var> UTC</small><br /><strong>Update</strong> - We will temporarily disable all automated mobile syncs to be able to implement a fix. Logging/syncing manually is still possible. This change will be in effect for at least one hour - we will continue to update the status page.</p><p><small>May <var>17</var>, <var>08:44</var> UTC</small><br /><strong>Update</strong> - We are currently conducting a diagnostic analysis to identify the issue at hand. Once we have successfully pinpointed the problem, we will engage the relevant teams responsible for implementing the necessary fixes.  We we will continue to provide additional updates.</p><p><small>May <var>17</var>, <var>07:20</var> UTC</small><br /><strong>Identified</strong> - Due to increased database load, we are currently experience some slowness in the training schedules and class schedules of the app and web platform. We are currently working on a fix and will keep updating the status page as we move through the process.</p>
+]]></content:encoded>
+<pubDate>Wed, 17 May 2023 16:05:08 +0000</pubDate>
+<pubDate>Wed, 17 May 2023 16:05:08 +0000</pubDate>
+</item>
+<item>
+<title>Database Upgrades</title>
+<link>https://status.virtuagym.com/incidents/tjsfrx4194rz</link>
+<guid>https://status.virtuagym.com/incidents/tjsfrx4194rz</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>16</var>, <var>03:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>16</var>, <var>02:26</var> UTC</small><br /><strong>Update</strong> - We are continuing to verify the maintenance items.</p><p><small>May <var>16</var>, <var>02:26</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>May <var>16</var>, <var>01:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>12</var>, <var>09:46</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 16 May 2023 03:01:04 +0000</pubDate>
+<pubDate>Tue, 16 May 2023 03:01:04 +0000</pubDate>
+</item>
+<item>
+<title>Habits and Auth Maintenance</title>
+<link>https://status.virtuagym.com/incidents/g1jy1v1vf6pl</link>
+<guid>https://status.virtuagym.com/incidents/g1jy1v1vf6pl</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 4</var>, <var>03:24</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var> 4</var>, <var>03:03</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>May <var> 4</var>, <var>02:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var> 3</var>, <var>08:51</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance for the underlying infrastructure of the Habits and some Authentication features during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 May 2023 03:24:29 +0000</pubDate>
+<pubDate>Thu, 04 May 2023 03:24:29 +0000</pubDate>
+</item>
+<item>
+<title>Database upgrades</title>
+<link>https://status.virtuagym.com/incidents/mpzx678fv5y8</link>
+<guid>https://status.virtuagym.com/incidents/mpzx678fv5y8</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 3</var>, <var>08:29</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>18</var>, <var>08:20</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time. Synchronization of data may be delayed during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 May 2023 08:29:14 +0000</pubDate>
+<pubDate>Wed, 03 May 2023 08:29:14 +0000</pubDate>
+</item>
+<item>
+<title>Degraded Performance - SEPA Exports</title>
+<link>https://status.virtuagym.com/incidents/w7pmbjrtc8k7</link>
+<guid>https://status.virtuagym.com/incidents/w7pmbjrtc8k7</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 2</var>, <var>14:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved as we've implemented the necessary corrections which fixed the degraded performance of our SEPA export functionality. Since the deployment of those fixes we see no additional issues with it and consider the incident closed. Once again we apologize for the inconvenience that this situation brought to our clients.</p><p><small>May <var> 2</var>, <var>08:30</var> UTC</small><br /><strong>Update</strong> - Although the situation persists, yesterday we did some tests with specific clubs that had a significant positive effect on their capacity to run the SEPA exports efficiently. We're currently working in applying the same solution for the entire system and will issue a new update as soon as possible during the day.</p><p><small>May <var> 1</var>, <var>14:39</var> UTC</small><br /><strong>Identified</strong> - We're currently experiencing reduced performance on our SEPA export functionality which is causing our clients to not be able to download the SEPA Export files. We expect this situation to subside until end of day. We apologize for the inconvenience.</p>
+]]></content:encoded>
+<pubDate>Tue, 02 May 2023 14:51:36 +0000</pubDate>
+<pubDate>Tue, 02 May 2023 14:51:36 +0000</pubDate>
+</item>
+<item>
+<title>Decreased Platform Performance</title>
+<link>https://status.virtuagym.com/incidents/sq71hpqdnzys</link>
+<guid>https://status.virtuagym.com/incidents/sq71hpqdnzys</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>28</var>, <var>18:10</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>28</var>, <var>14:06</var> UTC</small><br /><strong>Monitoring</strong> - The relevant changes have been reverted. We will continue to monitor the status for the next hour. We appreciate your patience and understanding as we work to close the issue.</p><p><small>Mar <var>28</var>, <var>13:02</var> UTC</small><br /><strong>Update</strong> - We are reverting the relevant changes which caused the database spike, and a fix will be in place shortly.</p><p><small>Mar <var>28</var>, <var>12:54</var> UTC</small><br /><strong>Identified</strong> - We would like to inform you that we have identified the issue with our system and are currently working to resolve it as quickly as possible. Our team is working hard to ensure that our system returns to full functionality as soon as possible.<br />We appreciate your patience and understanding as we work through this issue. Our status page will be updated regularly with any developments, and we encourage you to check back for the latest updates.</p><p><small>Mar <var>28</var>, <var>12:33</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue related to the platform being slow and leading to timeouts. We apologize for any inconvenience this may cause and appreciate your patience. We will provide an update within 30 minutes to keep you informed on the progress of the resolution.</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Mar 2023 18:10:24 +0000</pubDate>
+<pubDate>Tue, 28 Mar 2023 18:10:24 +0000</pubDate>
+</item>
+<item>
+<title>Platform slowness</title>
+<link>https://status.virtuagym.com/incidents/z8l58jsn1bj8</link>
+<guid>https://status.virtuagym.com/incidents/z8l58jsn1bj8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>28</var>, <var>10:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>28</var>, <var>09:03</var> UTC</small><br /><strong>Monitoring</strong> - We have deployed a fix to the aforementioned issue and are seeing improvements across the platform. Slowness is decreasing and previously unavailable actions are becoming available again. We will continue to monitor the status for the next hour. We appreciate your patience and understanding as we work to close the issue.</p><p><small>Mar <var>28</var>, <var>08:40</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue related to the platform being slow and some actions not being available, such as assigning a membership, invoice management and saving new client accounts. We apologize for any inconvenience this may cause and appreciate your patience. We will provide an update within 30 minutes to keep you informed on the progress of the resolution.</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Mar 2023 10:05:34 +0000</pubDate>
+<pubDate>Tue, 28 Mar 2023 10:05:34 +0000</pubDate>
+</item>
+<item>
+<title>Paypal payment failures</title>
+<link>https://status.virtuagym.com/incidents/326qqlkdpwnk</link>
+<guid>https://status.virtuagym.com/incidents/326qqlkdpwnk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>20</var>, <var>15:32</var> UTC</small><br /><strong>Resolved</strong> - This incident can be considered resolved as we're not seeing any other ongoing issues with Paypal payments.</p><p><small>Mar <var>16</var>, <var>20:29</var> UTC</small><br /><strong>Monitoring</strong> - After successful contacts with Paypal, they have corrected the issue and we're seeing Paypal transactions within our portals working correctly once again. We'll continue monitoring the situation in the meantime.</p><p><small>Mar <var>15</var>, <var>17:37</var> UTC</small><br /><strong>Investigating</strong> - We're aware that since the 7th of March between 2.48AM and 4.42AM GMT, Paypal payments have been failing for our customers. This stems from the fact that since that moment, Paypal started responding to every payment request made by Virtuagym on behalf of its customers with the following error: "errorId:520009 - Account is restricted". This indicates that the cause of failure isn't of technical nature on Virtuagym's side and we're currently in contact with Paypal to unblock the situation for our clients as soon as possible.<br />We want to offer our sincerest apologies for any inconvenience this is causing.</p>
+]]></content:encoded>
+<pubDate>Mon, 20 Mar 2023 15:32:46 +0000</pubDate>
+<pubDate>Mon, 20 Mar 2023 15:32:46 +0000</pubDate>
+</item>
+<item>
+<title>Some services are showing decreased performance.</title>
+<link>https://status.virtuagym.com/incidents/gs9qyt93gqnr</link>
+<guid>https://status.virtuagym.com/incidents/gs9qyt93gqnr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>24</var>, <var>10:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>24</var>, <var>09:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. We appreciate your patience and understanding!</p><p><small>Feb <var>24</var>, <var>09:55</var> UTC</small><br /><strong>Identified</strong> - The system is particularly vulnerable when multiple cronjobs are running at the same time. We use cronjobs to have the system schedule certain tasks, and try to avoid too many of these happening at the same time. Whilst we prevent that from happening, today the situation was aggravated by the execution of Semrushbot: a bot which is automatically clicking on every possible link on the old schedule, causing a denial of service on our platform - leading to the system being unavailable across web and apps. We are currently blocking this bots range of IP addresses as a first containment measure, and returning to normal service levels.</p><p><small>Feb <var>24</var>, <var>09:30</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue and working to resolve it as soon as possible. We apologize for any inconvenience this may cause and appreciate your patience. We will provide an update within 30 minutes to keep you informed on the progress of the resolution.</p>
+]]></content:encoded>
+<pubDate>Fri, 24 Feb 2023 10:32:20 +0000</pubDate>
+<pubDate>Fri, 24 Feb 2023 10:32:20 +0000</pubDate>
+</item>
+<item>
+<title>Platform outage</title>
+<link>https://status.virtuagym.com/incidents/6kfswlr5yxjw</link>
+<guid>https://status.virtuagym.com/incidents/6kfswlr5yxjw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>24</var>, <var>00:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>23</var>, <var>22:02</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>23</var>, <var>21:32</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 24 Feb 2023 00:03:45 +0000</pubDate>
+<pubDate>Fri, 24 Feb 2023 00:03:45 +0000</pubDate>
+</item>
+<item>
+<title>Android Apps: Server errors and synchronisation issues</title>
+<link>https://status.virtuagym.com/incidents/mg6zg77fz80y</link>
+<guid>https://status.virtuagym.com/incidents/mg6zg77fz80y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>15</var>, <var>19:37</var> UTC</small><br /><strong>Resolved</strong> - All Android apps are now working normally - the issue has been resolved and we will close this incident.</p><p><small>Feb <var>15</var>, <var>17:03</var> UTC</small><br /><strong>Monitoring</strong> - The issue affecting our Android apps was identified to be caused by an API-related update from Google. Google has since rolled back their changes, meaning all apps are now functioning as normally - both updated and non-updated. We will continue to monitor traffic and future app updates will support the update, should Google decide to implement these again.</p><p><small>Feb <var>15</var>, <var>14:12</var> UTC</small><br /><strong>Update</strong> - We are currently working on a fix for a recent issue that has affected our Android Apps. Fitness 10.4.9, Coaching 4.4.5, Food 3.8.6 will be available to download on the app store within the next two hours, and we are now focusing on releasing the same resolution for our custom mobile apps. <br /><br />Our team is working diligently to resolve the matter as soon as possible and we apologize for any inconvenience this may have caused.<br />We want to assure you that we are taking all necessary steps to ensure a seamless and efficient resolution. We will keep you updated via our status page with any further developments</p><p><small>Feb <var>15</var>, <var>12:28</var> UTC</small><br /><strong>Identified</strong> - We would like to inform you that we have identified the issue with our system and are currently working to resolve it as quickly as possible. Our team is working hard to ensure that our system returns to full functionality as soon as possible.<br />We appreciate your patience and understanding as we work through this issue. Our status page will be updated regularly with any developments, and we encourage you to check back for the latest updates.</p><p><small>Feb <var>15</var>, <var>11:49</var> UTC</small><br /><strong>Update</strong> - We are continuing the investigation of an issue on our platform. We apologize for any inconvenience this may cause and want to assure you that our team is working diligently to resolve the issue as soon as possible. We will provide frequent updates on our status page. Thank you for your patience and understanding.</p><p><small>Feb <var>15</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with our Android apps (Food, Fitness and Coach) and working to resolve it as soon as possible. We apologize for any inconvenience this may cause and appreciate your patience. We will provide an update within 30 minutes to keep you informed on the progress of the resolution.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Feb 2023 19:37:00 +0000</pubDate>
+<pubDate>Wed, 15 Feb 2023 19:37:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

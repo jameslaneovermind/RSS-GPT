@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>retraced Status - Incident History</title>
+<link>https://status.retraced.com</link>
+
+<item>
+<title>Unexpected User Logout Issue</title>
+<link>https://status.retraced.com/incidents/h70pbhsbm4fp</link>
+<guid>https://status.retraced.com/incidents/h70pbhsbm4fp</guid>
+<content:encoded><![CDATA[
+<div> ```
+[High] - Unexpected Logouts <br><br> Summary: Users are experiencing unexpected logouts on the platform. The issue has been identified, and the team is actively working on a fix to minimize disruption.
+``` <div>
+<p><small>Feb <var>13</var>, <var>13:06</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>12:42</var> CET</small><br /><strong>Monitoring</strong> - A fix has been released. We are monitoring the status.</p><p><small>Feb <var>13</var>, <var>11:46</var> CET</small><br /><strong>Identified</strong> - The issue has been identified and we are working on the fix.</p><p><small>Feb <var>13</var>, <var>11:17</var> CET</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>13</var>, <var>11:17</var> CET</small><br /><strong>Investigating</strong> - We are currently investigating reports of users being unexpectedly logged out of our platform. Our team is actively working to identify and resolve the issue as quickly as possible to minimize disruption to your experience.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 13:06:03 +0100</pubDate>
+<pubDate>Tue, 13 Feb 2024 13:06:03 +0100</pubDate>
+</item>
+<item>
+<title>Security update</title>
+<link>https://status.retraced.com/incidents/2jjr1l5kb6yt</link>
+<guid>https://status.retraced.com/incidents/2jjr1l5kb6yt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>16:45</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>16:31</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>16:31</var> CET</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 9</var>, <var>16:30</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>16:23</var> CET</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 9</var>, <var>16:21</var> CET</small><br /><strong>Scheduled</strong> - We are performing maintenance as part of regular security update and we will be right back.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 16:45:56 +0100</pubDate>
+<pubDate>Fri, 09 Feb 2024 16:45:56 +0100</pubDate>
+</item>
+<item>
+<title>Degraded performance due to spike of requests</title>
+<link>https://status.retraced.com/incidents/2svjtwdcz3yp</link>
+<guid>https://status.retraced.com/incidents/2svjtwdcz3yp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>14:19</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>14:19</var> CET</small><br /><strong>Update</strong> - We have mitigated the root cause and worked on preventions in our publicly available API. All systems have been instantiated into fully operational state.</p><p><small>Feb <var> 8</var>, <var>14:17</var> CET</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var> 8</var>, <var>12:11</var> CET</small><br /><strong>Update</strong> - As mitigation measure, we disabled our public api which was the main trigger of the query. This ensures us that all other services are running as expected.</p><p><small>Feb <var> 8</var>, <var>11:30</var> CET</small><br /><strong>Monitoring</strong> - We have identified and through identification immediately applied a fix. We are observing the system now in its performance. It was a single query which has supposedly led to a sudden unexpected occupation of the database related to product variation updates. The engineering team is working on a prevention plan now.</p><p><small>Feb <var> 8</var>, <var>11:26</var> CET</small><br /><strong>Investigating</strong> - We have a spike in requests and that may make the platform appear being down. This is related to just very slow responses and we are investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 14:19:11 +0100</pubDate>
+<pubDate>Thu, 08 Feb 2024 14:19:11 +0100</pubDate>
+</item>
+<item>
+<title>Platform inaccessible</title>
+<link>https://status.retraced.com/incidents/r69pz08j0dwq</link>
+<guid>https://status.retraced.com/incidents/r69pz08j0dwq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>08:50</var> CET</small><br /><strong>Resolved</strong> - The rollback has been fully released. We have observed no further errors.</p><p><small>Dec <var> 5</var>, <var>08:01</var> CET</small><br /><strong>Monitoring</strong> - We have released the fix to production. Some of our microservices are still affected, but they are not affecting the platform immediately and will be release the next 1 hour.</p><p><small>Dec <var> 5</var>, <var>07:56</var> CET</small><br /><strong>Identified</strong> - We've identified the root cause: an update to our internal ISO27001 daily patching procedure conflicted with our current database connection setup. We've thoroughly tested this in our pre-production environment and are now rolling back the driver patch on our production system. Thanks for your patience.</p><p><small>Dec <var> 5</var>, <var>07:18</var> CET</small><br /><strong>Investigating</strong> - We are currently investigating the issue. We have logs that no query against our database can be executed, because of a timezone problem.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 08:50:46 +0100</pubDate>
+<pubDate>Tue, 05 Dec 2023 08:50:46 +0100</pubDate>
+</item>
+<item>
+<title>Degraded performance of the platform</title>
+<link>https://status.retraced.com/incidents/f8hy6hsy1l9x</link>
+<guid>https://status.retraced.com/incidents/f8hy6hsy1l9x</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>17</var>, <var>13:38</var> CET</small><br /><strong>Resolved</strong> - We have implemented a fix and are monitoring closely. The issue was a temporary spike in backend communication with external services and slow responses. This led to slow responses in our system.</p><p><small>Nov <var>17</var>, <var>13:13</var> CET</small><br /><strong>Identified</strong> - The issue has been identified and we work to document the root cause.</p><p><small>Nov <var>17</var>, <var>12:21</var> CET</small><br /><strong>Investigating</strong> - We are currently investigating the downgraded platform performance of our dashboard.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Nov 2023 13:38:26 +0100</pubDate>
+<pubDate>Fri, 17 Nov 2023 13:38:26 +0100</pubDate>
+</item>
+<item>
+<title>Email service</title>
+<link>https://status.retraced.com/incidents/5c4lsfxg0vsr</link>
+<guid>https://status.retraced.com/incidents/5c4lsfxg0vsr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var> 8</var>, <var>22:13</var> CEST</small><br /><strong>Resolved</strong> - Everything is completely resolved and back to normal behaviour</p><p><small>Jul <var> 8</var>, <var>19:33</var> CEST</small><br /><strong>Monitoring</strong> - Yesterday 14:52 CET the patch went live and we are monitoring the situation.</p><p><small>Jul <var> 7</var>, <var>12:21</var> CEST</small><br /><strong>Identified</strong> - Issue has been identified. <br />We are working to fix the issue. ETA 90mins to re-instantiate the service itself.<br /><br />Login is still possible using phone number</p><p><small>Jul <var> 7</var>, <var>11:22</var> CEST</small><br /><strong>Investigating</strong> - We are investigating the cause of a unexpected behaviour in the email service.<br /><br />as a Precaution, we shut down the service immediately.</p>
+]]></content:encoded>
+<pubDate>Sat, 08 Jul 2023 22:13:42 +0200</pubDate>
+<pubDate>Sat, 08 Jul 2023 22:13:42 +0200</pubDate>
+</item>
+<item>
+<title>Wrong email being shipped out to customers</title>
+<link>https://status.retraced.com/incidents/0vc5l8z0wsx2</link>
+<guid>https://status.retraced.com/incidents/0vc5l8z0wsx2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 1</var>, <var>14:37</var> CEST</small><br /><strong>Resolved</strong> - The incident has been fully risolved.</p><p><small>Jun <var> 1</var>, <var>11:04</var> CEST</small><br /><strong>Monitoring</strong> - The issue has been identified, a quick patch has been already deployed.<br /><br />All services are back online as expected. We're now minitoring the status of the platform.</p><p><small>Jun <var> 1</var>, <var>08:01</var> CEST</small><br /><strong>Investigating</strong> - .<br />At 5:50AM UTC the system shipped internally-designed emails to customers. <br />> The content of the email did not contain any sensitive or confidential information.<br /><br />At 5:58AM UTC, as a precaution, we shut down the email-service to avoid further email being shipped out.<br />As a consequence, logging in with the email is now disabled.<br /><br />We are now investigating the root cause</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Jun 2023 14:37:16 +0200</pubDate>
+<pubDate>Thu, 01 Jun 2023 14:37:16 +0200</pubDate>
+</item>
+<item>
+<title>Degraded system performance</title>
+<link>https://status.retraced.com/incidents/tr0rjyt8zml3</link>
+<guid>https://status.retraced.com/incidents/tr0rjyt8zml3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 8</var>, <var>10:16</var> CET</small><br /><strong>Resolved</strong> - The dashboard services are back up and the retraced platform is running correctly again.</p><p><small>Mar <var> 8</var>, <var>09:50</var> CET</small><br /><strong>Identified</strong> - We have identified the problem. We are working on a fix with highest priority.<br /> <br />Estimated time to fix: 30 minutes.</p><p><small>Mar <var> 8</var>, <var>09:49</var> CET</small><br /><strong>Investigating</strong> - Dashboard services are experiencing degraded system performance. We are currently investigating the root cause.</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Mar 2023 10:16:56 +0100</pubDate>
+<pubDate>Wed, 08 Mar 2023 10:16:56 +0100</pubDate>
+</item>
+<item>
+<title>QR Codes infinite loading</title>
+<link>https://status.retraced.com/incidents/bkvtmk4fq5bh</link>
+<guid>https://status.retraced.com/incidents/bkvtmk4fq5bh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>16</var>, <var>12:00</var> CET</small><br /><strong>Resolved</strong> - Fix for QR Code issue has been released to production.</p><p><small>Nov <var>16</var>, <var>08:58</var> CET</small><br /><strong>Identified</strong> - The team identified the cause and is on the fix now.</p><p><small>Nov <var>16</var>, <var>08:57</var> CET</small><br /><strong>Investigating</strong> - Company Profiles not connected to a webshop experience infinite loading times when scanning QR codes. This is due a change in our technical infrastructure.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Nov 2022 12:00:47 +0100</pubDate>
+<pubDate>Wed, 16 Nov 2022 12:00:47 +0100</pubDate>
+</item>
+<item>
+<title>This is an example incident</title>
+<link>https://status.retraced.com/incidents/7v5hxjdtq323</link>
+<guid>https://status.retraced.com/incidents/7v5hxjdtq323</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>30</var>, <var>20:02</var> CET</small><br /><strong>Resolved</strong> - Empathize with those affected and let them know everything is operating as normal.</p><p><small>Nov <var>30</var>, <var>19:52</var> CET</small><br /><strong>Monitoring</strong> - Let your users know once a fix is in place, and keep communication clear and precise.</p><p><small>Nov <var>30</var>, <var>19:58</var> CET</small><br /><strong>Identified</strong> - As you continue to work through the incident, update your customers frequently.</p><p><small>Nov <var>30</var>, <var>20:28</var> CET</small><br /><strong>Investigating</strong> - When your product or service isn’t functioning as expected, let your customers know by creating an incident. Communicate early, even if you don’t know exactly what’s going on.</p>
+]]></content:encoded>
+<pubDate>Mon, 30 Nov 2020 20:02:00 +0100</pubDate>
+<pubDate>Mon, 30 Nov 2020 20:02:00 +0100</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:46.650443
+Existing_entries: 0
+Fetching from https://status.dialogue.co/history.rss
+Token length: 227
+Summarized using GPT-3.5-turbo-1106
+Append: [Core Database Incident (CA)](https://status.dialogue.co/incidents/1ldr1c2h82fh)
+Append: [Entretien des bases de données principales (CA, É-U) // Core Database Maintenance (CA, US)](https://status.dialogue.co/incidents/1y824yg67pjr)
+Append: [Entretien des bases de données de bien-être (CA, É-U) // Wellness Database Maintenance (CA, US)](https://status.dialogue.co/incidents/rkc62zdwc697)
+Append: [Core Database Maintenance in EU region](https://status.dialogue.co/incidents/zb0n6g396mn1)
+Append: [Wellness Database Maintenance in EU region](https://status.dialogue.co/incidents/0jg8m36r4jjr)
+Append: [Database maintenance](https://status.dialogue.co/incidents/wchmzxbk2grj)
+Append: [Mise à jour de certificats // Certificate renewal](https://status.dialogue.co/incidents/1s8ssnpk14xf)
+Append: [Interruption du système d'authentification // Authentication system outage](https://status.dialogue.co/incidents/5n6j9sr134wn)
+Append: [Sisense (CA) Version Upgrade](https://status.dialogue.co/incidents/y6331lvvwqd8)
+Append: [Sisense PDF Export in French](https://status.dialogue.co/incidents/tsbjv7rvxh65)
+Append: [Presto Reports Broken](https://status.dialogue.co/incidents/3sn9v0stypz5)
+Append: [L'AFM ne permet pas aux utilisateurs de s'identifier dans les organisations où l'AFM est en vigueur. // MFA fails to sign users in for MFA enforced organizations](https://status.dialogue.co/incidents/71ksc5zrxlk0)
+Append: [Sisense Scheduled Maintenance](https://status.dialogue.co/incidents/htmc86dr0m3l)
+Append: [Défaut d'inscription des patients / Patient Sign up failing](https://status.dialogue.co/incidents/2f4q70mk8s4d)
+Append: [Application web pour les membres affiche une page blanche / Member Web App Showing Blank Page](https://status.dialogue.co/incidents/dkw7v6wvdj6k)
+Append: [TCCi indisponible / iCBT unavailable](https://status.dialogue.co/incidents/2ndrxh7j8gjr)
+Append: [Entretien de base de données / Database Maintenance](https://status.dialogue.co/incidents/nywtsmh8rjl9)
+Append: [Entretien de base de données / Database Maintenance](https://status.dialogue.co/incidents/blrx0272g92h)
+Append: [Entretien de base de données / Database Maintenance](https://status.dialogue.co/incidents/yv56jyp7wn0g)
+Append: [Entretien de base de données / Database Maintenance](https://status.dialogue.co/incidents/w7g06ds8dlfz)
+Append: [Entretien de base de données / Database Maintenance](https://status.dialogue.co/incidents/c748dgwp4zj8)
+Append: [Entretien du programme de bien-être // Wellbeing program maintenance](https://status.dialogue.co/incidents/478lptrjf9v5)
+Append: [Panne partielle du système de vidéo / Partial outage of the video system](https://status.dialogue.co/incidents/6395yxx7pxd8)
+Append: [Messaging system unavailable / Système de messagerie indisponible](https://status.dialogue.co/incidents/kxy048m0gnkh)
+Append: [dégradation des performances de l'application mobile pour les membres  / degraded performance on the mobile member app](https://status.dialogue.co/incidents/vm1kcsw8wmfh)
+append_entries: 25
+Finish: 2024-02-21 16:24:47.763221

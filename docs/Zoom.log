@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:53.321086
+Existing_entries: 0
+Fetching from https://status.zoom.us/history.rss
+Token length: 1173
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled Zoom Software Quarterly Lifecycle Update (5/4/2024)](https://status.zoom.us/incidents/db9zbncnn5p3)
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for Zoom Phone and Zoom Contact Center](https://status.zoom.us/incidents/vj7dd5zr6ndt)
+Append: [Issue with SMS delivery](https://status.zoom.us/incidents/qh64jpfjvkh0)
+Append: [Issue in processing Zoom Phone recordings in Canada - West region.](https://status.zoom.us/incidents/gcgsy3tj72zb)
+Append: [Issues with Zoom Phone Registration, Outbound / Inbound calls in Singapore](https://status.zoom.us/incidents/47ggrfrqbzn3)
+Append: [Intermittent errors detected with team chat summary](https://status.zoom.us/incidents/5mgk9m5dqwbb)
+Append: [Intermittent Chat Compose Failure](https://status.zoom.us/incidents/20wd04r1bbwf)
+Append: [Issues while loading live and past meeting pages from the dashboard](https://status.zoom.us/incidents/pr58173dw029)
+Append: [Users unable to join team meetings via direct connect button on Zoom Rooms.](https://status.zoom.us/incidents/dhctz6c4tw7p)
+Append: [Announcing additional data center (No Operational Impact)](https://status.zoom.us/incidents/l9112tszff14)
+Append: [Issue accessing Zoom from Saudi Arabia](https://status.zoom.us/incidents/rhkqp7lb40fm)
+Append: [Issue with AIC team chat compose](https://status.zoom.us/incidents/bbvsv4vn7lzl)
+Append: [Issue with CRC in Australia](https://status.zoom.us/incidents/pxd9mn74vlk7)
+Append: [Scheduled Zoom Software Quarterly Lifecycle Update (2/3/2024)](https://status.zoom.us/incidents/34gblwxh0grl)
+Append: [Issue with Zoom Mail](https://status.zoom.us/incidents/v35b8dskjc9j)
+Append: [Issue with live transcription in India](https://status.zoom.us/incidents/4g2hrb23yz01)
+Append: [Updated Malaysia Toll Numbers](https://status.zoom.us/incidents/tmzy0zfl1pk4)
+Append: [Announcing Additional IP Address Ranges (No Operational Impact)](https://status.zoom.us/incidents/7r016xtcb8wn)
+Append: [Intermittent error with AIC chat compose](https://status.zoom.us/incidents/j5dht0nkbrg1)
+Append: [Web Backend Update: 1/20/2024(No Operational Impact)](https://status.zoom.us/incidents/8wjj4vtyxzvr)
+Append: [Switzerland Data Center Maintenance: 1/20/2024](https://status.zoom.us/incidents/82bxh6wvdf4k)
+Append: [Issues with Catch Me Up feature of AI Companion](https://status.zoom.us/incidents/gc9r69wtw74j)
+Append: [Zoom Chat Maintenance](https://status.zoom.us/incidents/t5lb4zv98f22)
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for BYOC Customers (EMEA, US)](https://status.zoom.us/incidents/cb37b08rvmnn)
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for BYOC Customers (APAC)](https://status.zoom.us/incidents/j1wjy31drc91)
+append_entries: 25
+Finish: 2024-02-21 16:23:54.899425

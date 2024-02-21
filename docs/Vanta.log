@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:48.909672
+Existing_entries: 0
+Fetching from https://status.vanta.com/history.rss
+Token length: 605
+Summarized using GPT-3.5-turbo-1106
+Append: [New Okta Connection Fails During Setup](https://status.vanta.com/incidents/0g2nlqwvj3qb)
+Append: [Magic Login Links and other emails may be delayed or not arrive to the inbox.](https://status.vanta.com/incidents/tmvnp417jrfk)
+Append: [Expired magic links due to preemptive email scanning](https://status.vanta.com/incidents/8zx3jd1kjq5w)
+Append: [Subset of Vendor page related tests incorrectly showing "Needs attention"](https://status.vanta.com/incidents/qj792g6qfp5f)
+Append: [Issues Fetching Updates from KnowBe4](https://status.vanta.com/incidents/h3q3f81xkfcl)
+Append: [Delays in Vanta Agent Updates](https://status.vanta.com/incidents/0bv8wkx8jmm4)
+Append: [Issues with 1Password Data Fetch](https://status.vanta.com/incidents/k7j9h19fq4ph)
+Append: [Questionnaire Automation is unavailable for all customers and Trust Centers are unavailable for some customers.](https://status.vanta.com/incidents/x2kn64nm19db)
+Append: [Questionnaire Automation is unavailable for all customers and Trust Centers are unavailable for some customers.](https://status.vanta.com/incidents/xvh7002hhtzm)
+Append: ["Items requiring your attention" emails have incorrect numbers for tests that need attention](https://status.vanta.com/incidents/ffvm1pr4ntd9)
+Append: [The Vanta Agent is currently experiencing issues registering to domains.](https://status.vanta.com/incidents/8254fpnbvsps)
+Append: [Links to the Trust Center from Vendor Profile leads to incorrect page for EU accounts](https://status.vanta.com/incidents/rk23m80x5xdb)
+Append: [Vanta Agent Download Link is Down](https://status.vanta.com/incidents/9sbvz754h856)
+Append: [Temporary Outage](https://status.vanta.com/incidents/97rnsm13mwmj)
+Append: [Temporary Outage](https://status.vanta.com/incidents/gp78430qzbcm)
+Append: [Delay in Agent Data syncing](https://status.vanta.com/incidents/vg7ffdclvjp9)
+Append: [Issues loading the People and Groups pages](https://status.vanta.com/incidents/bnxnfvgf78gc)
+Append: [Questionnaire Automation and Trustpage Trust Centers failing to load for logged-in users](https://status.vanta.com/incidents/7rb125q8mf5w)
+Append: [Some users received duplicate email notifications](https://status.vanta.com/incidents/yttd8wh5sqzw)
+Append: [Questionnaire Automation and Trustpage Trust Centers failing to load for logged-in users](https://status.vanta.com/incidents/c3kyj51b8n15)
+Append: [Jumpcloud Screenlock Tests Failing](https://status.vanta.com/incidents/l7zzhkzjt8g2)
+Append: [Trust Centers failing to load intermittently](https://status.vanta.com/incidents/y4b0pn4c8ypw)
+Append: [Trustpage Trust Center and Questionnaire Automation resources page not loading](https://status.vanta.com/incidents/dbh5289c5nfb)
+Append: [Duplicate Checklists and Groups appearing for some customers](https://status.vanta.com/incidents/xy56jg4g8s09)
+Append: [GCP integration showing no resources](https://status.vanta.com/incidents/g6nljm52b1bh)
+append_entries: 25
+Finish: 2024-02-21 16:23:50.140079

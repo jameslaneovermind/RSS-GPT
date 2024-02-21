@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:59.846429
+Existing_entries: 0
+Fetching from https://status.informatica.com/history.rss
+Token length: 751
+Summarized using GPT-3.5-turbo-1106
+Append: [Azure DB Maintenance affecting all services on EM Central 1 Azure](https://status.informatica.com/incidents/dkz8cgh384zh)
+Append: [Azure DB Maintenance affecting all services on AP NorthEast 1 Azure](https://status.informatica.com/incidents/8fgs30kz23mx)
+Append: [Minor Maintenance on IICS NA East 2 Services POD for API Manager](https://status.informatica.com/incidents/99994w1tfk02)
+Append: [February 2024 standard release for US West 5, US East 6, US West 3 Azure and Canada Central 1](https://status.informatica.com/incidents/64th636p5zq4)
+Append: [Serverless agents were in failed state on IICS Canada Central 1 POD.](https://status.informatica.com/incidents/g7c6yjprk016)
+Append: [February 2024 standard release for IICS AP SouthEast 1 Services, IICS AP NorthEast 2 Services, IICS AP NorthEast 1 Azure Services, IICS AP East 2 Azure Services, IICS Australia Azure Services - OpInsights only](https://status.informatica.com/incidents/cy238h9swqkk)
+Append: [February 2024 standard release for IICS AP SouthEast 1 Services, IICS AP NorthEast 2 Services, IICS AP NorthEast 1 Azure Services, IICS AP East 2 Azure Services, IICS Australia Azure Services](https://status.informatica.com/incidents/lg2b0cmn7jp6)
+Append: [Platform external SSL certificate renewal for IICS AP NorthEast 2 Services](https://status.informatica.com/incidents/6fvk6y3qn816)
+Append: [Upcoming Maintenance for Cloud Application Integration and Taskflow](https://status.informatica.com/incidents/dqzq0nkg9ppn)
+Append: [Issue with Mass Ingestion on US West 1 GCP Services](https://status.informatica.com/incidents/n133wnhg171j)
+Append: [Intermittent issues for IICS US East 4 for the scheduled Jobs](https://status.informatica.com/incidents/b16w46gw2xq1)
+Append: [Upcoming Maintenance on NA East 2 POD for Cloud Data Integration Taskflow](https://status.informatica.com/incidents/l66ddnhmpty3)
+Append: [Upcoming Maintenance on February Upgraded PODs for a Google Analytics task error](https://status.informatica.com/incidents/cbq5zxlk8v6x)
+Append: [Intermittent Performance degradation on IICS NA West 1 POD for Cloud Application Integration](https://status.informatica.com/incidents/0d8m2bzfkp9l)
+Append: [Intermittent Performance degradation on IICS NA West 1 POD for Cloud Application Integration](https://status.informatica.com/incidents/ghb9zr02cj04)
+Append: [Notification for applying a patch on all PODs for Snowflake Data Cloud Connector](https://status.informatica.com/incidents/gvj9rcgzxj5l)
+Append: [Upcoming Maintenance on February Upgraded PODs for an Asset import issue](https://status.informatica.com/incidents/qxrfxjq2p1tc)
+Append: [Change in Package Dependency Manager IP Addresses and Domain for IDMC- AP SouthEast 1, EM West 1, Canada Central 1, AP NorthEast 2, UK, EM SouthEast 1 Azure, AP NorthEast 1 Azure, US West 1 Azure, US West 3 Azure, and EM Central 1 Azure Services](https://status.informatica.com/incidents/l6pxv2c3m02c)
+Append: [Intermittent issue accessing Data Integration Taskflow in designer on US East 4 POD](https://status.informatica.com/incidents/v8f5y08fv3ft)
+Append: [We noticed an intermittent issue on the IICS EM West 1 in CAI](https://status.informatica.com/incidents/chqm12jzlcs5)
+Append: [Issue downloading the Session logs for Cloud CDI-e services in EM West 1 POD.](https://status.informatica.com/incidents/mzdc7nt8pbfy)
+Append: [Upcoming Maintenance on February Upgraded PODs for Cloud Integration Hub Notification URL](https://status.informatica.com/incidents/xd1sfbmdx1k6)
+Append: [February 2024 standard release for IICS EM West 1 Services , IICS UK Services, IICS EM SouthEast 1 Azure Services, IICS EM West 2 GCP Services, IICS EM Central 1 Azure Services](https://status.informatica.com/incidents/vggkrljq3qnc)
+Append: [Upcoming Maintenance on February Upgraded PODs for Cloud Integration Hub Notification URL](https://status.informatica.com/incidents/0lyw58q6l66n)
+Append: [Cloud Application Integration Public Certificate renewal on EM SouthEast 1 Azure Services](https://status.informatica.com/incidents/nmw6z74npv8w)
+append_entries: 25
+Finish: 2024-02-21 16:24:01.460694

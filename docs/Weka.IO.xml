@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>WEKA Status - Incident History</title>
+<link>https://status.weka.io</link>
+
+<item>
+<title>test incedent vcenter</title>
+<link>https://status.weka.io/incidents/nzznzs7tlyz1</link>
+<guid>https://status.weka.io/incidents/nzznzs7tlyz1</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[Low] - Investigating <br><br> Summary: The company is currently investigating the issue.
+``` <div>
+<p><small>Mar <var> 1</var>, <var>09:58</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 1</var>, <var>09:58</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Mar 2022 09:58:53 +0000</pubDate>
+<pubDate>Tue, 01 Mar 2022 09:58:53 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/wnjj5k01y5j2</link>
+<guid>https://status.weka.io/incidents/wnjj5k01y5j2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>16</var>, <var>00:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>19:35</var> UTC</small><br /><strong>Update</strong> - We are affected by an outage of the database provider<br />Incident can be tracked on DB provider status page, https://status.compose.com/incidents/w71dl7wq79dh</p><p><small>Jul <var>15</var>, <var>14:46</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>Jul <var>15</var>, <var>13:45</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>Jul <var>15</var>, <var>11:22</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 16 Jul 2020 00:12:46 +0000</pubDate>
+<pubDate>Thu, 16 Jul 2020 00:12:46 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/gb2r7c3xhzhr</link>
+<guid>https://status.weka.io/incidents/gb2r7c3xhzhr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>22:18</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>22:17</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 22:18:36 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 22:18:36 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/ns1c8prxqnyq</link>
+<guid>https://status.weka.io/incidents/ns1c8prxqnyq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>21:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>21:52</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 21:53:33 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 21:53:33 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/wvx0zhw4ffrc</link>
+<guid>https://status.weka.io/incidents/wvx0zhw4ffrc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>21:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>21:20</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 21:22:35 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 21:22:35 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/z5mmp164dmp4</link>
+<guid>https://status.weka.io/incidents/z5mmp164dmp4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>19:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>19:32</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 19:33:36 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 19:33:36 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/2h53kq1ntb6j</link>
+<guid>https://status.weka.io/incidents/2h53kq1ntb6j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>18:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>17:59</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 18:00:34 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 18:00:34 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/wsgq1r0440fy</link>
+<guid>https://status.weka.io/incidents/wsgq1r0440fy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>14:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>14:33</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 14:34:32 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 14:34:32 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/g9jzxp4372kw</link>
+<guid>https://status.weka.io/incidents/g9jzxp4372kw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>14:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>14:03</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 14:05:31 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 14:05:31 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/t2b2nl5jsbcw</link>
+<guid>https://status.weka.io/incidents/t2b2nl5jsbcw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>13:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>11:37</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 13:45:37 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 13:45:37 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/w8nhq5yj0l13</link>
+<guid>https://status.weka.io/incidents/w8nhq5yj0l13</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>15</var>, <var>13:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>13:44</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jul 2020 13:45:32 +0000</pubDate>
+<pubDate>Wed, 15 Jul 2020 13:45:32 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/7pzw3w0swvf9</link>
+<guid>https://status.weka.io/incidents/7pzw3w0swvf9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>14</var>, <var>10:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>14</var>, <var>10:52</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 14 Jul 2020 10:53:13 +0000</pubDate>
+<pubDate>Tue, 14 Jul 2020 10:53:13 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/mmd56g6fh412</link>
+<guid>https://status.weka.io/incidents/mmd56g6fh412</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>14:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>14:55</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 14:55:43 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 14:55:43 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/1zfkkjscvw50</link>
+<guid>https://status.weka.io/incidents/1zfkkjscvw50</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>14:23</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>14:02</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 14:23:02 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 14:23:02 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/ksg1fzs66cxd</link>
+<guid>https://status.weka.io/incidents/ksg1fzs66cxd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>13:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>12:58</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 13:50:56 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 13:50:56 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/jc74n6prqrpt</link>
+<guid>https://status.weka.io/incidents/jc74n6prqrpt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>12:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>11:56</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 12:50:58 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 12:50:58 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/hyqjd231q2wt</link>
+<guid>https://status.weka.io/incidents/hyqjd231q2wt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>11:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>10:52</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 11:50:57 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 11:50:57 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/hnc1qlwrtsjj</link>
+<guid>https://status.weka.io/incidents/hnc1qlwrtsjj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 3</var>, <var>10:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>10:19</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jun 2020 10:50:58 +0000</pubDate>
+<pubDate>Wed, 03 Jun 2020 10:50:58 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/y9ryr9qk2gxw</link>
+<guid>https://status.weka.io/incidents/y9ryr9qk2gxw</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>25</var>, <var>13:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>25</var>, <var>09:55</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 25 May 2020 13:53:46 +0000</pubDate>
+<pubDate>Mon, 25 May 2020 13:53:46 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/r4yz4m693wn6</link>
+<guid>https://status.weka.io/incidents/r4yz4m693wn6</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>21</var>, <var>11:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>21</var>, <var>11:14</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>May <var>21</var>, <var>11:03</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>May <var>21</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 May 2020 11:17:34 +0000</pubDate>
+<pubDate>Thu, 21 May 2020 11:17:34 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/n3br38mtyrxh</link>
+<guid>https://status.weka.io/incidents/n3br38mtyrxh</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>21</var>, <var>11:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>21</var>, <var>11:14</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>May <var>21</var>, <var>11:03</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p><p><small>May <var>21</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 May 2020 11:17:28 +0000</pubDate>
+<pubDate>Thu, 21 May 2020 11:17:28 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/pynmq0nqypp3</link>
+<guid>https://status.weka.io/incidents/pynmq0nqypp3</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>21</var>, <var>11:16</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>21</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 May 2020 11:16:49 +0000</pubDate>
+<pubDate>Thu, 21 May 2020 11:16:49 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/jnc4s50btrn1</link>
+<guid>https://status.weka.io/incidents/jnc4s50btrn1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>25</var>, <var>20:36</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>25</var>, <var>20:23</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 25 Apr 2020 20:36:22 +0000</pubDate>
+<pubDate>Sat, 25 Apr 2020 20:36:22 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/92kwl8gl81my</link>
+<guid>https://status.weka.io/incidents/92kwl8gl81my</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>25</var>, <var>20:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>25</var>, <var>20:22</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 25 Apr 2020 20:35:48 +0000</pubDate>
+<pubDate>Sat, 25 Apr 2020 20:35:48 +0000</pubDate>
+</item>
+<item>
+<title>Elevated errors in get.weka.io API</title>
+<link>https://status.weka.io/incidents/21n8k6mf1cqx</link>
+<guid>https://status.weka.io/incidents/21n8k6mf1cqx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>25</var>, <var>20:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>25</var>, <var>20:23</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors in get.weka.io and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 25 Apr 2020 20:35:24 +0000</pubDate>
+<pubDate>Sat, 25 Apr 2020 20:35:24 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

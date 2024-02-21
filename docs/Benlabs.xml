@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>BENlabs Status - Incident history</title>
+<link>https://status.benlabs.com</link>
+
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clskpiglh945644hgof9bpy5ydr</link>
+<guid>https://status.benlabs.com/incident/clskpiglh945644hgof9bpy5ydr</guid>
+<content:encoded><![CDATA[
+<div> [High] - Investigating Outage <br><br> BNLabs application platform API is experiencing degraded performance due to a 3rd party service outage. The issue is being investigated with the service provider.
+[Low] - Resolved Outage <br><br> The Web API and Data API are now operational after the issue with the 3rd party service provider has been resolved. <div>
+<p><small>Feb <var> 13</var>, <var>18:38:46</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Feb <var> 13</var>, <var>18:38:47</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 18:38:46 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 18:38:46 +0000</pubDate>
+</item>
+<item>
+<title>Mapping Application API partial outage</title>
+<link>https://status.benlabs.com/incident/clsdb89mh1080399iglg2e7cmpuc</link>
+<guid>https://status.benlabs.com/incident/clsdb89mh1080399iglg2e7cmpuc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>14:24:33</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by the Mapping Application is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Feb <var> 8</var>, <var>14:29:14</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Mapping Application API is now fully operational!
+
+This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Thu, 8 Feb 2024 14:24:33 +0000</pubDate>
+<pubDate>Thu, 8 Feb 2024 14:24:33 +0000</pubDate>
+</item>
+<item>
+<title>Mapping Application API partial outage</title>
+<link>https://status.benlabs.com/incident/cls9qn50v1506465hfomp0hiol8n</link>
+<guid>https://status.benlabs.com/incident/cls9qn50v1506465hfomp0hiol8n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 6</var>, <var>02:29:38</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Mapping Application API is now fully operational!
+
+This update was created by an automated monitoring service..</p>
+<p><small>Feb <var> 6</var>, <var>02:24:56</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by the Mapping Application is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Tue, 6 Feb 2024 02:24:56 +0000</pubDate>
+<pubDate>Tue, 6 Feb 2024 02:24:56 +0000</pubDate>
+</item>
+<item>
+<title>Mapping Application Web outage</title>
+<link>https://status.benlabs.com/incident/clrpb1soi633836a0ol40byb924</link>
+<guid>https://status.benlabs.com/incident/clrpb1soi633836a0ol40byb924</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 22</var>, <var>19:13:03</var> GMT+0</small><br /><strong>Investigating</strong> -
+  Mapping Application Web cannot be accessed at the moment. This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 22</var>, <var>19:53:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Mapping Application Web is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 19:13:03 +0000</pubDate>
+<pubDate>Mon, 22 Jan 2024 19:13:03 +0000</pubDate>
+</item>
+<item>
+<title>Launcher Application Web outage</title>
+<link>https://status.benlabs.com/incident/clrjudapx846619hioltpaigg5r</link>
+<guid>https://status.benlabs.com/incident/clrjudapx846619hioltpaigg5r</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 18</var>, <var>23:27:15</var> GMT+0</small><br /><strong>Investigating</strong> -
+  Launcher Application Web cannot be accessed at the moment. This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 19</var>, <var>07:22:18</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Launcher Application Web is now operational!.</p>
+<p><small>Jan <var> 19</var>, <var>07:15:00</var> GMT+0</small><br /><strong>Monitoring</strong> -
+  We published a new application version and are currently monitoring the result..</p>
+<p><small>Jan <var> 19</var>, <var>07:03:00</var> GMT+0</small><br /><strong>Identified</strong> -
+  We identified the problem and working on rebuilding and redeploying the application.
+
+The issue was caused by a combination of image cache push error to our container registry due to tag immutability and human build intervention. This manifested itself into application build errors and subsequent deployment failure..</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Jan 2024 23:27:15 +0000</pubDate>
+<pubDate>Thu, 18 Jan 2024 23:27:15 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrf4yqo81401988h5okcjnt4eck</link>
+<guid>https://status.benlabs.com/incident/clrf4yqo81401988h5okcjnt4eck</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>16:25:01</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>16:55:00</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 16:25:01 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 16:25:01 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrf1xx1r1102171hjokhs1cktoq</link>
+<guid>https://status.benlabs.com/incident/clrf1xx1r1102171hjokhs1cktoq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>15:00:23</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>16:23:14</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 15:00:23 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 15:00:23 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrf00hwa1256427fboetq1d8che</link>
+<guid>https://status.benlabs.com/incident/clrf00hwa1256427fboetq1d8che</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>14:06:24</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>14:59:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 14:06:24 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 14:06:24 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clresl0p0152774ifokngmtcrwm</link>
+<guid>https://status.benlabs.com/incident/clresl0p0152774ifokngmtcrwm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>10:38:25</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>14:05:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 10:38:25 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 10:38:25 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrer7oc518954ifokjwqacx59</link>
+<guid>https://status.benlabs.com/incident/clrer7oc518954ifokjwqacx59</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>10:00:03</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>10:37:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 10:00:03 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 10:00:03 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrek368h100782hsofwpgdp962</link>
+<guid>https://status.benlabs.com/incident/clrek368h100782hsofwpgdp962</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>06:40:35</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>09:58:02</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 06:40:35 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 06:40:35 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrehcig41558765hco7ybubyw46</link>
+<guid>https://status.benlabs.com/incident/clrehcig41558765hco7ybubyw46</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>05:23:52</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>06:39:03</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 05:23:52 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 05:23:52 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clreh1s501524730hcoft229co21</link>
+<guid>https://status.benlabs.com/incident/clreh1s501524730hcoft229co21</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>05:15:32</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>05:22:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 05:15:32 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 05:15:32 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clreghztz1484300huo7puoallbl</link>
+<guid>https://status.benlabs.com/incident/clreghztz1484300huo7puoallbl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>05:00:09</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>05:14:12</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 05:00:08 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 05:00:08 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clref5dtg1376189huo772jxh6i5</link>
+<guid>https://status.benlabs.com/incident/clref5dtg1376189huo772jxh6i5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>04:22:20</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>04:59:04</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 04:22:20 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 04:22:20 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clreevrpi1354087huo7wfz4efq9</link>
+<guid>https://status.benlabs.com/incident/clreevrpi1354087huo7wfz4efq9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>04:14:52</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>04:20:58</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 04:14:52 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 04:14:52 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clrecyspf1209836idofl7urqi1l</link>
+<guid>https://status.benlabs.com/incident/clrecyspf1209836idofl7urqi1l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>03:21:14</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>04:13:12</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 03:21:14 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 03:21:14 +0000</pubDate>
+</item>
+<item>
+<title>Web and Data API partial outage</title>
+<link>https://status.benlabs.com/incident/clreclbsl1173135hsofdxkh30ip</link>
+<guid>https://status.benlabs.com/incident/clreclbsl1173135hsofdxkh30ip</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 15</var>, <var>03:10:46</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+<p><small>Jan <var> 15</var>, <var>03:19:49</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 03:10:46 +0000</pubDate>
+<pubDate>Mon, 15 Jan 2024 03:10:46 +0000</pubDate>
+</item>
+<item>
+<title>Launcher Application Web outage</title>
+<link>https://status.benlabs.com/incident/clq6toodu621231cvoec2osw9s1</link>
+<guid>https://status.benlabs.com/incident/clq6toodu621231cvoec2osw9s1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 15</var>, <var>16:12:13</var> GMT+0</small><br /><strong>Resolved</strong> -
+  Launcher Application Web is now operational! This update was created by an automated monitoring service..</p>
+<p><small>Dec <var> 15</var>, <var>16:07:24</var> GMT+0</small><br /><strong>Investigating</strong> -
+  Launcher Application Web cannot be accessed at the moment. This incident was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Dec 2023 16:07:24 +0000</pubDate>
+<pubDate>Fri, 15 Dec 2023 16:07:24 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

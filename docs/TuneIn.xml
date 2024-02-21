@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>TuneIn Status - Incident History</title>
+<link>https://status.tunein.com</link>
+
+<item>
+<title>Degraded performance on TuneIn website and mobile apps</title>
+<link>https://status.tunein.com/incidents/37jlq2kqcm9y</link>
+<guid>https://status.tunein.com/incidents/37jlq2kqcm9y</guid>
+<content:encoded><![CDATA[
+<div> [High] - Degraded Performance on TuneIn Website and Mobile Apps <br><br> Summary: TuneIn is experiencing degraded performance on their website and mobile apps due to an issue with their Core API. They have identified the root cause and are working on a fix.
+
+[Medium] - Slowness and Errors on TuneIn Website and Mobile Apps <br><br> Summary: TuneIn website and mobile apps are experiencing slowness and errors, which have been identified as being caused by an ongoing issue with their Core API.
+
+[Low] - Issue Resolved <br><br> Summary: The incident causing degraded performance on TuneIn's website and mobile apps has been resolved. <div>
+<p><small>Oct <var>19</var>, <var>11:05</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>19</var>, <var>09:54</var> PDT</small><br /><strong>Identified</strong> - We have identified the root cause of this issue and are working to implement a fix. TuneIn website and mobile apps may still experience slowness and errors.</p><p><small>Oct <var>19</var>, <var>09:44</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting our Core API. This issue is causing degraded performance on the TuneIn website and mobile apps.</p>
+]]></content:encoded>
+<pubDate>Thu, 19 Oct 2023 11:05:32 -0700</pubDate>
+<pubDate>Thu, 19 Oct 2023 11:05:32 -0700</pubDate>
+</item>
+<item>
+<title>TuneIn Service Degradation</title>
+<link>https://status.tunein.com/incidents/nspcvvjfwddx</link>
+<guid>https://status.tunein.com/incidents/nspcvvjfwddx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>29</var>, <var>10:55</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>29</var>, <var>10:53</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>29</var>, <var>08:43</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>29</var>, <var>08:41</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>29</var>, <var>08:35</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing service degradation to our services, we are actively investigating the issue. We will send updates as soon as they become available.<br />Thank you for your patience!</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Jun 2023 10:55:36 -0700</pubDate>
+<pubDate>Thu, 29 Jun 2023 10:55:36 -0700</pubDate>
+</item>
+<item>
+<title>Issue with some news stations</title>
+<link>https://status.tunein.com/incidents/8vpxw8y71x5f</link>
+<guid>https://status.tunein.com/incidents/8vpxw8y71x5f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>04:00</var> PST</small><br /><strong>Resolved</strong> - We have identified an issue with a number of our free and premium news stations. We are working to restore content as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Mon, 30 Jan 2023 04:00:00 -0800</pubDate>
+<pubDate>Mon, 30 Jan 2023 04:00:00 -0800</pubDate>
+</item>
+<item>
+<title>TuneIn Unavailable due to Widespread Cloudflare outage</title>
+<link>https://status.tunein.com/incidents/5h0l60vsgtyw</link>
+<guid>https://status.tunein.com/incidents/5h0l60vsgtyw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>21</var>, <var>00:22</var> PDT</small><br /><strong>Resolved</strong> - Cloudflare has implemented a fix and the issue is now resolved. We will continue monitoring this to ensure our services do not experience any further impact.</p><p><small>Jun <var>21</var>, <var>00:08</var> PDT</small><br /><strong>Monitoring</strong> - Cloudflare has indicated that they have identified the root cause and have implemented a fix. We will continue to monitor this situation.</p><p><small>Jun <var>20</var>, <var>23:34</var> PDT</small><br /><strong>Identified</strong> - Due to an ongoing issue with our CDN provider Cloudflare (a core dependency of TuneIn) A majority of our services are impacted and unavailable. We are working with Cloudflare to restore services as quickly as possible.</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Jun 2022 00:22:05 -0700</pubDate>
+<pubDate>Tue, 21 Jun 2022 00:22:05 -0700</pubDate>
+</item>
+<item>
+<title>TuneIn Service Degradation</title>
+<link>https://status.tunein.com/incidents/v3mc2kcqdygv</link>
+<guid>https://status.tunein.com/incidents/v3mc2kcqdygv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 1</var>, <var>10:37</var> PDT</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Oct <var> 1</var>, <var>10:24</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are actively monitoring the situation.</p><p><small>Oct <var> 1</var>, <var>10:18</var> PDT</small><br /><strong>Identified</strong> - We have identified the root cause of this issue and are working to implement a fix.</p><p><small>Oct <var> 1</var>, <var>10:14</var> PDT</small><br /><strong>Investigating</strong> - We are investigating an issue affecting our APIs responsible for displaying and playing content on tunein.com and TuneIn mobile apps.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Oct 2021 10:37:56 -0700</pubDate>
+<pubDate>Fri, 01 Oct 2021 10:37:56 -0700</pubDate>
+</item>
+<item>
+<title>TuneIn Unavailable on Google Assistant Powered Devices</title>
+<link>https://status.tunein.com/incidents/m9s3gkhm02fv</link>
+<guid>https://status.tunein.com/incidents/m9s3gkhm02fv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>16</var>, <var>19:58</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>16</var>, <var>19:38</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented for this and we are currently monitoring the results.</p><p><small>Sep <var>16</var>, <var>19:11</var> PDT</small><br /><strong>Investigating</strong> - We have identified an issue affecting Google Assistant enabled devices. TuneIn is currently not available via voice commands on Google Assistant. We are actively investigating this issue and will provide updates as they become available.</p>
+]]></content:encoded>
+<pubDate>Thu, 16 Sep 2021 19:58:03 -0700</pubDate>
+<pubDate>Thu, 16 Sep 2021 19:58:03 -0700</pubDate>
+</item>
+<item>
+<title>News and Music Degraded Performance</title>
+<link>https://status.tunein.com/incidents/g2ww5xndtf1d</link>
+<guid>https://status.tunein.com/incidents/g2ww5xndtf1d</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>11:32</var> PST</small><br /><strong>Resolved</strong> - This issue has been resolved. Stations should play normally now. Please reach out to support@tunein.com if you have any further issues.</p><p><small>Feb <var>22</var>, <var>10:39</var> PST</small><br /><strong>Identified</strong> - TuneIn-hosted stations are back online; however, the HLS variant of these streams are still unavailable.</p><p><small>Feb <var>22</var>, <var>09:44</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting TuneIn music stations and premium news stations.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Feb 2021 11:32:25 -0800</pubDate>
+<pubDate>Mon, 22 Feb 2021 11:32:25 -0800</pubDate>
+</item>
+<item>
+<title>Playback issues with TuneIn Content</title>
+<link>https://status.tunein.com/incidents/r90j329zrq6r</link>
+<guid>https://status.tunein.com/incidents/r90j329zrq6r</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 5</var>, <var>13:07</var> PST</small><br /><strong>Resolved</strong> - This issue has been resolved. If you have any further Issues, please contact support@tunein.com</p><p><small>Jan <var> 5</var>, <var>12:51</var> PST</small><br /><strong>Monitoring</strong> - We have identified the cause and have implemented a fix. We will be monitoring this situation to verify streams resume playing properly.</p><p><small>Jan <var> 5</var>, <var>12:41</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting TunIn music streams, as well as premium news.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Jan 2021 13:07:13 -0800</pubDate>
+<pubDate>Tue, 05 Jan 2021 13:07:13 -0800</pubDate>
+</item>
+<item>
+<title>Search functionality is in a degraded state</title>
+<link>https://status.tunein.com/incidents/s5f87t1lj3r4</link>
+<guid>https://status.tunein.com/incidents/s5f87t1lj3r4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 1</var>, <var>18:08</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 1</var>, <var>18:00</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 1</var>, <var>17:37</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 01 Dec 2020 18:08:55 -0800</pubDate>
+<pubDate>Tue, 01 Dec 2020 18:08:55 -0800</pubDate>
+</item>
+<item>
+<title>Intermittent playback issues on free and premium news streams</title>
+<link>https://status.tunein.com/incidents/xtxjc2276lsv</link>
+<guid>https://status.tunein.com/incidents/xtxjc2276lsv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>30</var>, <var>05:00</var> PDT</small><br /><strong>Resolved</strong> - TuneIn's upstream provider is experiencing intermittent internet issues, this is resulting in intermittent playback issues on free and premium news streams.</p>
+]]></content:encoded>
+<pubDate>Sun, 30 Aug 2020 05:00:00 -0700</pubDate>
+<pubDate>Sun, 30 Aug 2020 05:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Tunein.com playback issues on free version of news streams</title>
+<link>https://status.tunein.com/incidents/5b67bjm504xv</link>
+<guid>https://status.tunein.com/incidents/5b67bjm504xv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>13</var>, <var>12:00</var> PDT</small><br /><strong>Resolved</strong> - This is impacted the ad-supported, free versions of CNN, Fox News Talk and MSNBC on Tunein.com. TuneIn mobile apps and consumer electronics integrations were not impacted.</p>
+]]></content:encoded>
+<pubDate>Thu, 13 Aug 2020 12:00:00 -0700</pubDate>
+<pubDate>Thu, 13 Aug 2020 12:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Service degradation - Core API</title>
+<link>https://status.tunein.com/incidents/wf4nbh4kmn6c</link>
+<guid>https://status.tunein.com/incidents/wf4nbh4kmn6c</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>12</var>, <var>07:00</var> PDT</small><br /><strong>Resolved</strong> - TuneIn's mobile app, web app, and consumer electronics integrations were effectively unavailable from 6:56 AM - 7:53 AM PT.</p>
+]]></content:encoded>
+<pubDate>Wed, 12 Aug 2020 07:00:00 -0700</pubDate>
+<pubDate>Wed, 12 Aug 2020 07:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Service degradation - Backend Streaming Platform</title>
+<link>https://status.tunein.com/incidents/j2mtb83l3n0d</link>
+<guid>https://status.tunein.com/incidents/j2mtb83l3n0d</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>21</var>, <var>17:38</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>21</var>, <var>15:32</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>21</var>, <var>15:32</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jul <var>21</var>, <var>15:30</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>21</var>, <var>15:29</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Jul 2020 17:38:52 -0700</pubDate>
+<pubDate>Tue, 21 Jul 2020 17:38:52 -0700</pubDate>
+</item>
+<item>
+<title>Intermittent issues on Tunein.com</title>
+<link>https://status.tunein.com/incidents/2q796l4f7tyz</link>
+<guid>https://status.tunein.com/incidents/2q796l4f7tyz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>30</var>, <var>22:34</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>30</var>, <var>22:05</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jun 2020 22:34:01 -0700</pubDate>
+<pubDate>Tue, 30 Jun 2020 22:34:01 -0700</pubDate>
+</item>
+<item>
+<title>Degraded functionality on login API calls</title>
+<link>https://status.tunein.com/incidents/9zvgj3k1hr7f</link>
+<guid>https://status.tunein.com/incidents/9zvgj3k1hr7f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var> 4</var>, <var>18:23</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 4</var>, <var>17:20</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var> 4</var>, <var>17:15</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var> 4</var>, <var>17:05</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jun 2020 18:23:36 -0700</pubDate>
+<pubDate>Thu, 04 Jun 2020 18:23:36 -0700</pubDate>
+</item>
+<item>
+<title>CNN outage</title>
+<link>https://status.tunein.com/incidents/xvdsm3l0zhcf</link>
+<guid>https://status.tunein.com/incidents/xvdsm3l0zhcf</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>28</var>, <var>15:00</var> PDT</small><br /><strong>Resolved</strong> - CNN was offline from 2:50 PM - 2:55 PM due to an issue with the source provider.</p>
+]]></content:encoded>
+<pubDate>Thu, 28 May 2020 15:00:00 -0700</pubDate>
+<pubDate>Thu, 28 May 2020 15:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Service degradation - TuneIn.com and APIs</title>
+<link>https://status.tunein.com/incidents/8y98626xtwt9</link>
+<guid>https://status.tunein.com/incidents/8y98626xtwt9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var> 1</var>, <var>12:30</var> PDT</small><br /><strong>Resolved</strong> - TuneIn services were unavailable from approximately 12:33 PM - 12:38 PM PDT. This was due to an upstream outage at our CDN provider.</p>
+]]></content:encoded>
+<pubDate>Wed, 01 Apr 2020 12:30:00 -0700</pubDate>
+<pubDate>Wed, 01 Apr 2020 12:30:00 -0700</pubDate>
+</item>
+<item>
+<title>Service Degradation</title>
+<link>https://status.tunein.com/incidents/8l8vh4lhdtsj</link>
+<guid>https://status.tunein.com/incidents/8l8vh4lhdtsj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>25</var>, <var>10:04</var> PDT</small><br /><strong>Resolved</strong> - This issue has been resolved</p><p><small>Mar <var>25</var>, <var>09:47</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been deployed and  we are seeing our services return to a normal state. We will be carefully watching to ensure stability.</p><p><small>Mar <var>25</var>, <var>08:57</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Mar <var>25</var>, <var>08:56</var> PDT</small><br /><strong>Identified</strong> - We are investigating an issue impacting our web, mobile, and integrated devices.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Mar 2020 10:04:12 -0700</pubDate>
+<pubDate>Wed, 25 Mar 2020 10:04:12 -0700</pubDate>
+</item>
+<item>
+<title>TuneIn Outage</title>
+<link>https://status.tunein.com/incidents/jy1w5yyxsgwh</link>
+<guid>https://status.tunein.com/incidents/jy1w5yyxsgwh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>21</var>, <var>22:11</var> PDT</small><br /><strong>Resolved</strong> - This issue is now resolved</p><p><small>Mar <var>21</var>, <var>21:04</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are currently monitoring the status.</p><p><small>Mar <var>21</var>, <var>20:18</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an outage impacting tunein.com as well as our mobile applications.</p>
+]]></content:encoded>
+<pubDate>Sat, 21 Mar 2020 22:11:20 -0700</pubDate>
+<pubDate>Sat, 21 Mar 2020 22:11:20 -0700</pubDate>
+</item>
+<item>
+<title>Two minute outage on Tunein.com</title>
+<link>https://status.tunein.com/incidents/73qgyk5z7l4z</link>
+<guid>https://status.tunein.com/incidents/73qgyk5z7l4z</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 9</var>, <var>13:30</var> PDT</small><br /><strong>Resolved</strong> - From 1:53 - 1:55 PM PT, Tunein.com was unavailable. We've identified the root cause and are working to deploy a permanent fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 09 Mar 2020 13:30:00 -0700</pubDate>
+<pubDate>Mon, 09 Mar 2020 13:30:00 -0700</pubDate>
+</item>
+<item>
+<title>CNBC Premium Outage</title>
+<link>https://status.tunein.com/incidents/f3rp5fx3pnww</link>
+<guid>https://status.tunein.com/incidents/f3rp5fx3pnww</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>24</var>, <var>13:00</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>24</var>, <var>12:13</var> PST</small><br /><strong>Investigating</strong> - There is a nationwide outage at the provider of this stream. We'll update as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Mon, 24 Feb 2020 13:00:04 -0800</pubDate>
+<pubDate>Mon, 24 Feb 2020 13:00:04 -0800</pubDate>
+</item>
+<item>
+<title>Service degradation</title>
+<link>https://status.tunein.com/incidents/kxsfc0y4dyjl</link>
+<guid>https://status.tunein.com/incidents/kxsfc0y4dyjl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 4</var>, <var>18:35</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 4</var>, <var>18:18</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 4</var>, <var>18:13</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 04 Feb 2020 18:35:33 -0800</pubDate>
+<pubDate>Tue, 04 Feb 2020 18:35:33 -0800</pubDate>
+</item>
+<item>
+<title>Service degradation - Sonos</title>
+<link>https://status.tunein.com/incidents/dlvc1tk0tpz6</link>
+<guid>https://status.tunein.com/incidents/dlvc1tk0tpz6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 4</var>, <var>17:56</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 4</var>, <var>17:46</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 4</var>, <var>17:46</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 4</var>, <var>17:46</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Nov 2019 17:56:42 -0800</pubDate>
+<pubDate>Mon, 04 Nov 2019 17:56:42 -0800</pubDate>
+</item>
+<item>
+<title>Increased Latency on Tunein Services</title>
+<link>https://status.tunein.com/incidents/k5dsdlpygv9j</link>
+<guid>https://status.tunein.com/incidents/k5dsdlpygv9j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>15</var>, <var>11:57</var> PDT</small><br /><strong>Resolved</strong> - TuneIn services have returned to a stable condition. we will continue to monitor this to verify full functionality.</p><p><small>Aug <var>15</var>, <var>11:29</var> PDT</small><br /><strong>Monitoring</strong> - We have implemented a fix for this issue and are currently monitoring the situation.</p><p><small>Aug <var>15</var>, <var>11:06</var> PDT</small><br /><strong>Investigating</strong> - We are investigating some issues causing degraded performance of TuneIn.com and our Core API's. We are working to maintain stability across our platform and will update when we have more information. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2019 11:57:21 -0700</pubDate>
+<pubDate>Thu, 15 Aug 2019 11:57:21 -0700</pubDate>
+</item>
+<item>
+<title>Service Degradation</title>
+<link>https://status.tunein.com/incidents/n68czsdt635h</link>
+<guid>https://status.tunein.com/incidents/n68czsdt635h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>15</var>, <var>09:50</var> PDT</small><br /><strong>Resolved</strong> - A fix was implemented as of 4:50 AM PT and this issue is resolved.</p><p><small>Aug <var>15</var>, <var>01:51</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>15</var>, <var>00:27</var> PDT</small><br /><strong>Investigating</strong> - Streams are currently unavailable. We're working on a fix.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Aug 2019 09:50:43 -0700</pubDate>
+<pubDate>Thu, 15 Aug 2019 09:50:43 -0700</pubDate>
+</item>
+
+</channel>
+</rss>

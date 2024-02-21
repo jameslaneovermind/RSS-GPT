@@ -1,0 +1,56 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:43.474591
+Existing_entries: 0
+Fetching from https://status.slack.com/feed/rss
+Token length: 798
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident: Profile photos aren't displaying properly](https://status.slack.com//2024-02/16aecfd53af7219b)
+Append: [Incident: Some users may be experiencing trouble with canvas.](https://status.slack.com//2024-02/804d3a52e234f2fa)
+Append: [Incident: Some users may be having trouble connecting to Slack.](https://status.slack.com//2024-02/558e3bb8ce654659)
+Append: [Incident: Users in Germany having trouble receiving 2FA SMS codes](https://status.slack.com//2024-02/30dfe547672802a4)
+Append: [Incident: Users may be experiencing issues loading threads and sending mesages.](https://status.slack.com//2024-01/8e9a7cb95549d34c)
+Append: [Incident: Some latency with Slack](https://status.slack.com//2024-01/0a000b0ad09623a0)
+Append: [Incident: Pasting via Cmd/Ctrl + V not working](https://status.slack.com//2024-01/8ad463b92a084387)
+Append: [Incident: Some users are unable to upload, download, and view files in Slack.](https://status.slack.com//2024-01/f39851209d6c471a)
+Append: [Incident: Service wide connection issues](https://status.slack.com//2024-01/8b623c0b5640c28f)
+Append: [Incident: Some Enterprise Grid users may be seeing unexpected Slackbot responses](https://status.slack.com//2024-01/166eb312bd134031)
+Append: [Incident: Some users may not be able to configure 2FA](https://status.slack.com//2024-01/9301a4fb7cc577ea)
+Append: [Incident: Users seeing blurred file unfurls](https://status.slack.com//2023-12/7f05f584fa98cf7c)
+Append: [Incident: Trouble loading some parts of Slack](https://status.slack.com//2023-12/b0072b040087e20b)
+Append: [Incident: Slack not loading for some users](https://status.slack.com//2023-11/edc9f768095e939b)
+Append: [Incident: Some users may be experiencing issues with huddles](https://status.slack.com//2023-11/2b97ec921a81988a)
+Append: [Outage: Slack not loading for some users](https://status.slack.com//2023-11/0e7bc0e7a7e7cd87)
+Append: [Incident: User presence is unexpectedly changing](https://status.slack.com//2023-11/16fed44d7948cf49)
+Append: [Incident: Issues with user status, read state, and file previews](https://status.slack.com//2023-11/ea3a2a3e32e79902)
+Append: [Outage: Users unable to connect to Slack or send messages](https://status.slack.com//2023-11/ef3e4b0ebcf16d8d)
+Append: [Outage: Issues for customers enrolled in the French data region](https://status.slack.com//2023-10/8c886b57284762b6)
+Append: [Incident: A small number of users are having problems loading Slack.](https://status.slack.com//2023-10/2ef86432e31615ea)
+Append: [Outage: Users are having trouble connecting to Slack](https://status.slack.com//2023-10/ad8f0e62516e8812)
+Append: [Incident: Trouble connecting to Slack](https://status.slack.com//2023-10/6d592537eb7bd98e)
+Append: [Incident: Issues with loading some items on Slack](https://status.slack.com//2023-10/ee32d13012fb29d5)
+Append: [Incident: Threads were not loading for some users](https://status.slack.com//2023-10/101eb09455dcaa9a)
+Append: [Incident: Issues with receiving 2FA code](https://status.slack.com//2023-09/7e84b360042dd07b)
+Append: [Incident: A small number of users experience latency with Slack](https://status.slack.com//2023-09/94046787b0ca9008)
+Append: [Incident: Create app on api.slack.com/apps not working](https://status.slack.com//2023-09/054c6ac24cb629dd)
+Append: [Incident: Can't dismiss Now you've got Later](https://status.slack.com//2023-09/badc5543a21e1fa7)
+Append: [Incident: Trouble with custom emoji](https://status.slack.com//2023-09/8315491ac04ad325)
+Append: [Incident: Slack Connect invitations page not loading](https://status.slack.com//2023-09/798ffab066d9a5d6)
+Append: [Incident: Some Admins are missing DMs in Single User Exports](https://status.slack.com//2023-09/5b5bbd0b1b68e294)
+Append: [Incident: Some users are receiving an error while attempting to load app configurations](https://status.slack.com//2023-09/d0d43b69112068ec)
+Append: [Incident: A small number of users are experiencing issues loading Slack.](https://status.slack.com//2023-09/a6b0cdff3fbe130e)
+Append: [Incident: Some customers are unable to switch channels in the web browser.](https://status.slack.com//2023-09/6bb97b903beac5b6)
+Append: [Incident: Some users in India are having trouble sending DMs.](https://status.slack.com//2023-09/64d234fca6bc1e06)
+Append: [Incident: Users are unable to post to the #general channel](https://status.slack.com//2023-08/414e590c93cb5636)
+Append: [Incident: Issues with workflows and app modals](https://status.slack.com//2023-08/52eff24d7806f1cf)
+Append: [Incident: Less than 1% of users may be experiencing slowness when loading Slack](https://status.slack.com//2023-08/094f489e39b57d9f)
+Append: [Incident: Some users may be missing sidebar sections in Slack](https://status.slack.com//2023-08/dd4ce480d5ff7e49)
+Append: [Incident: Some users may be experiencing issues uploading files.](https://status.slack.com//2023-08/8fd09ebe40c64df0)
+append_entries: 41
+Finish: 2024-02-21 16:23:44.641841
+------------------------------------------------------
+Started: 2024-02-21 16:25:08.478344
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack

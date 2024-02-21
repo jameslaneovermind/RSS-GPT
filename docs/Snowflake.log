@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:25:03.689202
+Existing_entries: 0
+Fetching from https://status.snowflake.com/history.rss
+Token length: 1660
+Summarized using GPT-3.5-turbo-1106
+Append: [AWS - US West (Oregon): INC0102987](https://status.snowflake.com/incidents/593l4zl800hq)
+Append: [Azure - Central US (Iowa): INC0102516](https://status.snowflake.com/incidents/rl9lbf3n6hsb)
+Append: [3 Deployments Affected: INC0101302](https://status.snowflake.com/incidents/tspfv3y0j1v1)
+Append: [Azure - East US 2 (Virginia): INC0100718](https://status.snowflake.com/incidents/zvd971z06grg)
+Append: [Azure - East US 2 (Virginia): INC0100501](https://status.snowflake.com/incidents/6260c7cljgkx)
+Append: [Azure - US Gov (Virginia): MI-20240109](https://status.snowflake.com/incidents/zgb86hntdyr0)
+Append: [AWS - US West (Oregon): INC0099549](https://status.snowflake.com/incidents/z770knm7jd2v)
+Append: [GCP - Europe West 4 (Eemshaven): INC0099532](https://status.snowflake.com/incidents/drg6cjwn9q4k)
+Append: [Azure - West Europe (Netherlands): INC0098309](https://status.snowflake.com/incidents/136syzsnyr5p)
+Append: [AWS - US East (N. Virginia): INC0098257](https://status.snowflake.com/incidents/nwrdkmzymvgq)
+Append: [Azure - UAE North (Dubai): INC0097162](https://status.snowflake.com/incidents/4zmdjtrfwspy)
+Append: [AWS - US West (Oregon): INC0096454](https://status.snowflake.com/incidents/kdf323hn4d1x)
+Append: [AWS - Asia Pacific (Singapore): INC0095146](https://status.snowflake.com/incidents/gqb3mhjd2x52)
+Append: [AWS - US East (N. Virginia): INC0094921](https://status.snowflake.com/incidents/tjpwcyj2x94l)
+Append: [Azure - UAE North (Dubai): INC0094716](https://status.snowflake.com/incidents/k69hslj7y6nm)
+Append: [AWS - US East (N. Virginia): INC0092990](https://status.snowflake.com/incidents/bxndnkkbdpvv)
+Append: [Azure - East US 2 (Virginia): INC0092668](https://status.snowflake.com/incidents/cmbk32fhx9tg)
+Append: [5 Deployments Affected: INC0092585](https://status.snowflake.com/incidents/30n7xwtfyw0v)
+Append: [Azure - UK South (London): INC0091787](https://status.snowflake.com/incidents/xr4pz9w6lqtp)
+Append: [AWS - US West (Oregon): INC0091594](https://status.snowflake.com/incidents/6d594mbq4v93)
+Append: [AWS - Asia Pacific (Singapore): INC0090169](https://status.snowflake.com/incidents/104jb43p2pck)
+Append: [38 Deployments Affected: INC0089488](https://status.snowflake.com/incidents/b6k10bgqjyyq)
+Append: [AWS - Europe (Paris): INC0089352](https://status.snowflake.com/incidents/prj4mvm7fgcz)
+Append: [Azure - West Europe (Netherlands): INC0087629](https://status.snowflake.com/incidents/v0lf33yzdqh3)
+Append: [Azure - West Europe (Netherlands): INC0086591](https://status.snowflake.com/incidents/w3bbxvdwk52w)
+append_entries: 25
+Finish: 2024-02-21 16:25:05.399460

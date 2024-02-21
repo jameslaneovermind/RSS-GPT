@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:23.871405
+Existing_entries: 0
+Fetching from https://status.rockset.com/history.rss
+Token length: 542
+Summarized using GPT-3.5-turbo-1106
+Append: [Insert into select (IIS) in collections with names that require escaping are failing](https://status.rockset.com/incidents/mrn28m05dmvw)
+Append: [Increased ingest error rate in use1a1 due to scaling issues.](https://status.rockset.com/incidents/fjhf04sc9cdr)
+Append: [api authentication service outage](https://status.rockset.com/incidents/c77cyfvm59sm)
+Append: [Rockset console intermittently available due to auth provider issues](https://status.rockset.com/incidents/cz3skqn3wzj8)
+Append: [Infrastructure issues in usw2a1 and use1a1](https://status.rockset.com/incidents/p0799g36b4hm)
+Append: [Metadata Service Upgrade](https://status.rockset.com/incidents/d47pbgl5npng)
+Append: [Query and metadata operations receiving 5xx errors and ingest delays in usw2a1](https://status.rockset.com/incidents/t1w2vfd7bjmw)
+Append: [Intermittent 5xx's being served in Oregon cluster](https://status.rockset.com/incidents/c59hxq6xqt69)
+Append: [AWS EC2 Instance Availability Issue](https://status.rockset.com/incidents/y5lm6tdqzqwv)
+Append: [Intermittent request failures](https://status.rockset.com/incidents/f57k60jb8h7d)
+Append: [Rockset Console not loading](https://status.rockset.com/incidents/sqt8d66wrnl5)
+Append: [Increased ingest latency from some customers in the euc1a1 region](https://status.rockset.com/incidents/xgz5vw60fvk1)
+Append: [Delayed Ingest](https://status.rockset.com/incidents/tcq9mwn53szv)
+Append: [AWS instance type shortage](https://status.rockset.com/incidents/p2npg8r57rp5)
+Append: [Elevated API latency and timeouts](https://status.rockset.com/incidents/dhstnmymwq18)
+Append: [Small number of customers experiencing query errors in use1a1](https://status.rockset.com/incidents/xzg2v30qsd32)
+Append: [Query errors in all regions](https://status.rockset.com/incidents/69n9jzz4sj6j)
+Append: [Query errors in us-west-2 region](https://status.rockset.com/incidents/9jy4x868mw57)
+Append: [Elevated 403 responses in all rockset regions](https://status.rockset.com/incidents/4g9mftj7srcg)
+Append: [Partial Query Outage](https://status.rockset.com/incidents/xfhp3scbk9bh)
+Append: [Virtual Instance switching unavailable and some forms of large ingestions impacted](https://status.rockset.com/incidents/zt9lplm8cl53)
+Append: [Scheduled Infrastructure Upgrade on Internal Systems](https://status.rockset.com/incidents/23xjy74g3cd5)
+Append: [API Errors](https://status.rockset.com/incidents/pww27v1rkdg6)
+Append: [Delays in VI switching in us-east-1 cluster](https://status.rockset.com/incidents/66cw7wynf933)
+Append: [AWS issue in us-west-2](https://status.rockset.com/incidents/gf2j3164ls0s)
+append_entries: 25
+Finish: 2024-02-21 16:24:25.815274

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Platform9 Status - Incident History</title>
+<link>https://status.platform9.com</link>
+
+<item>
+<title>[PMK] Platform9 Internal infrastructure upgrade</title>
+<link>https://status.platform9.com/incidents/swfth23fvflx</link>
+<guid>https://status.platform9.com/incidents/swfth23fvflx</guid>
+<content:encoded><![CDATA[
+<div> High - Scheduled Maintenance In Progress <br><br> Platform9 is currently performing scheduled maintenance to upgrade the infrastructure managing the PMK control plane. There may be negligible performance degradation to PMK Management Planes during this time. <div>
+<p><small>Nov <var>27</var>, <var>23:40</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>27</var>, <var>20:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>23</var>, <var>03:55</var> PST</small><br /><strong>Scheduled</strong> - Platform9 plans to upgrade the infrastructure managing the PMK control plane. This activity is expected to have no impact on running workloads but may cause negligible performance degradation to PMK Management Planes.</p>
+]]></content:encoded>
+<pubDate>Mon, 27 Nov 2023 23:40:05 -0800</pubDate>
+<pubDate>Mon, 27 Nov 2023 23:40:05 -0800</pubDate>
+</item>
+<item>
+<title>PMO Web Certificate Rotation</title>
+<link>https://status.platform9.com/incidents/n4rmbcl19yst</link>
+<guid>https://status.platform9.com/incidents/n4rmbcl19yst</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>20</var>, <var>02:06</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>20</var>, <var>02:06</var> PDT</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Oct <var>20</var>, <var>00:30</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>20</var>, <var>00:27</var> PDT</small><br /><strong>Scheduled</strong> - A scheduled web certificate (.platform9.net) rotation activity for all PMO management planes with platform9.net domain. No downtime is expected, but you may experience a temporary hiccup for a few seconds while accessing your management plane UI.</p>
+]]></content:encoded>
+<pubDate>Fri, 20 Oct 2023 02:06:37 -0700</pubDate>
+<pubDate>Fri, 20 Oct 2023 02:06:37 -0700</pubDate>
+</item>
+<item>
+<title>PMK Certificate Authority Maintenance</title>
+<link>https://status.platform9.com/incidents/pqxk8z8c8yjg</link>
+<guid>https://status.platform9.com/incidents/pqxk8z8c8yjg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>13</var>, <var>21:47</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>13</var>, <var>20:35</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>13</var>, <var>20:34</var> PDT</small><br /><strong>Scheduled</strong> - An upcoming scheduled maintenance window will be affecting your new node onboarding functionality. Our team is constantly striving to enhance your experience, and this maintenance is a vital measure to ensure that our systems are dependable, secure, and equipped with the latest and greatest features.<br /><br />Maintenance Details:<br />Date and Time: September 13th at 8:30 PM PDT (September 14th at 9 am IST)<br />Expected Duration: Approximately 1.5 hours<br />Affected Services: Temporary service outage for new node onboard.<br /><br />We anticipate that the impact will be minimal, and our team will work diligently to complete the maintenance as quickly as possible.<br /><br />Customer Support:<br />Our support team will be available throughout the maintenance window to address any concerns or questions you might have. If you experience any issues outside the maintenance window, please don’t hesitate to reach out to us at https://support.platform9.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Sep 2023 21:47:57 -0700</pubDate>
+<pubDate>Wed, 13 Sep 2023 21:47:57 -0700</pubDate>
+</item>
+<item>
+<title>[Intermittent] Degraded Access to Management Planes</title>
+<link>https://status.platform9.com/incidents/j43lp7vx9pnp</link>
+<guid>https://status.platform9.com/incidents/j43lp7vx9pnp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 6</var>, <var>04:59</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 5</var>, <var>23:42</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var> 5</var>, <var>13:48</var> PDT</small><br /><strong>Identified</strong> - We've identified a related bottleneck where we're observing network congestion on the backend and we've formulated a plan to attempt to mitigate it. The management plane may still be unstable at this time until we've taken these full mitigation steps.</p><p><small>Sep <var> 5</var>, <var>10:31</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var> 5</var>, <var>10:31</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue impacting multiple customers' ability to access their management plane instances. Attempts will sometimes result in 502 errors.<br /><br />We will continue to update this post as more details become available.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Sep 2023 04:59:54 -0700</pubDate>
+<pubDate>Wed, 06 Sep 2023 04:59:54 -0700</pubDate>
+</item>
+<item>
+<title>PMK Certificate Authority Maintenance</title>
+<link>https://status.platform9.com/incidents/9bxcrmksq7nc</link>
+<guid>https://status.platform9.com/incidents/9bxcrmksq7nc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>23</var>, <var>22:01</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>23</var>, <var>20:30</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>23</var>, <var>12:00</var> PDT</small><br /><strong>Scheduled</strong> - An upcoming scheduled maintenance window will be affecting your new node onboarding functionality. Our team is constantly striving to enhance your experience, and this maintenance is a vital measure to ensure that our systems are dependable, secure, and equipped with the latest and greatest features.<br /><br />Maintenance Details:<br />Date and Time: August 23rd at 10:30 PM CDT (August 24th at 9 am IST)<br />Expected Duration: Approximately 1.5 hours<br />Affected Services: Temporary service outage for new node onboard.<br /><br />We anticipate that the impact will be minimal, and our team will work diligently to complete the maintenance as quickly as possible.<br /><br />Customer Support:<br />Our support team will be available throughout the maintenance window to address any concerns or questions you might have. If you experience any issues outside the maintenance window, please don’t hesitate to reach out to us at https://support.platform9.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 23 Aug 2023 22:01:40 -0700</pubDate>
+<pubDate>Wed, 23 Aug 2023 22:01:40 -0700</pubDate>
+</item>
+<item>
+<title>DNS Resolution Issues</title>
+<link>https://status.platform9.com/incidents/2llkj5f8fpxt</link>
+<guid>https://status.platform9.com/incidents/2llkj5f8fpxt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>27</var>, <var>14:04</var> PDT</small><br /><strong>Resolved</strong> - The incident may be considered resolved. No further interruptions have been observed nor reported.</p><p><small>Jul <var>27</var>, <var>13:24</var> PDT</small><br /><strong>Monitoring</strong> - Our Operations team has taken steps to resolve the issue. No further interruptions are anticipated at this time. Our team will continue to monitor the affected environments.</p><p><small>Jul <var>27</var>, <var>13:22</var> PDT</small><br /><strong>Identified</strong> - We've identified the issue with the automated DNS component which was causing issues properly synchronizing CNAME records for our Platform9 management plane instances. Our Operations team is taking steps to restore.</p><p><small>Jul <var>27</var>, <var>12:57</var> PDT</small><br /><strong>Investigating</strong> - We're currently investigating reports of issues related to DNS resolution, especially with regard to the Platform9 management plane endpoint. Hosts may intermittently or temporarily show as disconnected. Cluster workloads should remain unaffected.</p>
+]]></content:encoded>
+<pubDate>Thu, 27 Jul 2023 14:04:23 -0700</pubDate>
+<pubDate>Thu, 27 Jul 2023 14:04:23 -0700</pubDate>
+</item>
+<item>
+<title>Majority of Free Tier users are unable to access their system</title>
+<link>https://status.platform9.com/incidents/qxpcfh2042yh</link>
+<guid>https://status.platform9.com/incidents/qxpcfh2042yh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>13</var>, <var>21:26</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>19:23</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and environments should start recovering soon</p><p><small>Mar <var>13</var>, <var>17:53</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Sun, 13 Mar 2022 21:26:50 -0700</pubDate>
+<pubDate>Sun, 13 Mar 2022 21:26:50 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled DNS mainteinance</title>
+<link>https://status.platform9.com/incidents/rlxvfk3qvv08</link>
+<guid>https://status.platform9.com/incidents/rlxvfk3qvv08</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 8</var>, <var>16:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Mar <var> 8</var>, <var>16:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 8</var>, <var>10:53</var> PST</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance on our DNS services. There is no expected user impact during this time, however you may experience brief issues in domain name resolution during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Mar 2022 16:30:23 -0800</pubDate>
+<pubDate>Tue, 08 Mar 2022 16:30:23 -0800</pubDate>
+</item>
+<item>
+<title>Some management planes are intermittently unreachable</title>
+<link>https://status.platform9.com/incidents/53lvv8tq97cd</link>
+<guid>https://status.platform9.com/incidents/53lvv8tq97cd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>16</var>, <var>03:45</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>18:46</var> PST</small><br /><strong>Investigating</strong> - We are investigating issues with our infrastructure provider.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Feb 2022 03:45:29 -0800</pubDate>
+<pubDate>Wed, 16 Feb 2022 03:45:29 -0800</pubDate>
+</item>
+<item>
+<title>(Retroactive) Connectivity issue reaching management planes</title>
+<link>https://status.platform9.com/incidents/h565q3x1k428</link>
+<guid>https://status.platform9.com/incidents/h565q3x1k428</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>15</var>, <var>07:30</var> PST</small><br /><strong>Resolved</strong> - There were intermittent issues reaching management planes between 2021-12-15 15:22 - 2021-12-15 16:02 UTC. This resulted from an Internet connectivity outage at our hosting provider (Amazon Web Services). Connectivity has now been restored.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Dec 2021 07:30:00 -0800</pubDate>
+<pubDate>Wed, 15 Dec 2021 07:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Platform9 configuration update</title>
+<link>https://status.platform9.com/incidents/wbtlxn3f2v58</link>
+<guid>https://status.platform9.com/incidents/wbtlxn3f2v58</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>30</var>, <var>15:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>30</var>, <var>15:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>30</var>, <var>14:31</var> PST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time. Your control plane may report errors for a minute at some point during this window.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Nov 2021 15:30:30 -0800</pubDate>
+<pubDate>Tue, 30 Nov 2021 15:30:30 -0800</pubDate>
+</item>
+<item>
+<title>Internal database maintenance for Platform9 infrastructure</title>
+<link>https://status.platform9.com/incidents/jjvlhrvk431y</link>
+<guid>https://status.platform9.com/incidents/jjvlhrvk431y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var> 2</var>, <var>17:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var> 2</var>, <var>16:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var> 2</var>, <var>14:20</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing maintenance on our internal database services. There is no impact expected on customer management planes.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Jul 2021 17:00:33 -0700</pubDate>
+<pubDate>Fri, 02 Jul 2021 17:00:33 -0700</pubDate>
+</item>
+<item>
+<title>Brief network maintenance</title>
+<link>https://status.platform9.com/incidents/cd5htxhvcm20</link>
+<guid>https://status.platform9.com/incidents/cd5htxhvcm20</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>15</var>, <var>06:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>15</var>, <var>06:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>14</var>, <var>13:54</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing maintenance on our external network. The operation will be brief and you may experience intermittent connectivity issues to your Platform9 Management Plane during the maintenance. There will be no impact to running workloads</p>
+]]></content:encoded>
+<pubDate>Tue, 15 Jun 2021 06:30:29 -0700</pubDate>
+<pubDate>Tue, 15 Jun 2021 06:30:29 -0700</pubDate>
+</item>
+<item>
+<title>Platform9 management planes are unreachable</title>
+<link>https://status.platform9.com/incidents/jnchlsr6dqtn</link>
+<guid>https://status.platform9.com/incidents/jnchlsr6dqtn</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>10</var>, <var>00:50</var> PDT</small><br /><strong>Resolved</strong> - The network issue has been resolved.</p><p><small>May <var> 9</var>, <var>23:00</var> PDT</small><br /><strong>Identified</strong> - The issue has been identifed to be a network issue with our Data Center service provider. They are working to resolve it.</p><p><small>May <var> 9</var>, <var>22:34</var> PDT</small><br /><strong>Investigating</strong> - Certain customers cannot reach their management plane deployments. We are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 10 May 2021 00:50:08 -0700</pubDate>
+<pubDate>Mon, 10 May 2021 00:50:08 -0700</pubDate>
+</item>
+<item>
+<title>Cloud Backend Circuit Maintenance</title>
+<link>https://status.platform9.com/incidents/y6cpznjwkcmq</link>
+<guid>https://status.platform9.com/incidents/y6cpznjwkcmq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 5</var>, <var>19:11</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 5</var>, <var>19:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>26</var>, <var>09:30</var> PDT</small><br /><strong>Scheduled</strong> - Please allow this message to serve as a formal written notification that the Platform9 Cloud team will perform scheduled maintenance that may impact your cloud/service.<br /><br />Purpose of the maintenance: Our data center provider will be performing maintenance on our primary circuit that connects to our SaaS backend. Services will be in a degraded state for the duration of this maintenance.<br /><br />Maintenance Time: The maintenance will be performed Thursday, Nov. 5th during a 1-hour window between 7 PM and 8 PM PDT. You can expect approximately 5 minutes of downtime at some point during the maintenance period.<br /><br />Expected Customer Impact: During the downtime portion of the maintenance, the management plane may not be available to access.<br /><br />If you have any questions or concerns, please email us at support@platform9.com</p>
+]]></content:encoded>
+<pubDate>Thu, 05 Nov 2020 19:11:12 -0800</pubDate>
+<pubDate>Thu, 05 Nov 2020 19:11:12 -0800</pubDate>
+</item>
+<item>
+<title>Platform9 management planes are unreachable</title>
+<link>https://status.platform9.com/incidents/fvz1rxn3p6pm</link>
+<guid>https://status.platform9.com/incidents/fvz1rxn3p6pm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>13</var>, <var>08:55</var> PDT</small><br /><strong>Resolved</strong> - No issues reported after monitoring the fix for 5 hours. With customers able to access their management plane, the issue stands resolved.</p><p><small>Oct <var>13</var>, <var>06:43</var> PDT</small><br /><strong>Update</strong> - The situation is still being monitored. So far, no issues have been reported.</p><p><small>Oct <var>13</var>, <var>03:01</var> PDT</small><br /><strong>Monitoring</strong> - Our vendor has identified and implemented a fix. Affected customers are now able to access their management plane.</p><p><small>Oct <var>13</var>, <var>02:35</var> PDT</small><br /><strong>Identified</strong> - Certain customers cannot reach their management plane deployments. It has been identifed to be a network issue with our Data Center service provider. They are working to resolve it</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Oct 2020 08:55:34 -0700</pubDate>
+<pubDate>Tue, 13 Oct 2020 08:55:34 -0700</pubDate>
+</item>
+<item>
+<title>Platform9 Cloud Network Edge Upgrade</title>
+<link>https://status.platform9.com/incidents/6q7lq365bd9m</link>
+<guid>https://status.platform9.com/incidents/6q7lq365bd9m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 7</var>, <var>20:39</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 7</var>, <var>20:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 2</var>, <var>13:06</var> PDT</small><br /><strong>Scheduled</strong> - Purpose of the maintenance: We will be upgrading the software on our edge network equipment to increase the stability of Platform9 services.<br /><br />Maintenance Time: The maintenance will be performed Wednesday, Oct. 7th during a 2-hour window between 8 PM and 10 PM PDT. You can expect approximately 5 minutes of downtime at some point during the maintenance period. <br /><br />Expected Customer Impact: During the downtime portion of the maintenance, the management plane may not be available to access. <br /><br />If you have any questions or concerns, please email us at support@platform9.com <br /><br />We apologize for any inconvenience this may cause.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Oct 2020 20:39:34 -0700</pubDate>
+<pubDate>Wed, 07 Oct 2020 20:39:34 -0700</pubDate>
+</item>
+<item>
+<title>Platform9 network maintenance</title>
+<link>https://status.platform9.com/incidents/1h0l8rhrh53m</link>
+<guid>https://status.platform9.com/incidents/1h0l8rhrh53m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>17</var>, <var>09:54</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>17</var>, <var>09:30</var> PDT</small><br /><strong>Verifying</strong> - Maintenance is complete, verification in progress.</p><p><small>Sep <var>17</var>, <var>09:18</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>17</var>, <var>09:17</var> PDT</small><br /><strong>Scheduled</strong> - We are performing maintenance on our network infrastructure</p>
+]]></content:encoded>
+<pubDate>Thu, 17 Sep 2020 09:54:32 -0700</pubDate>
+<pubDate>Thu, 17 Sep 2020 09:54:32 -0700</pubDate>
+</item>
+<item>
+<title>Platform9 management planes are unreachable</title>
+<link>https://status.platform9.com/incidents/kwpb9k3dw6jm</link>
+<guid>https://status.platform9.com/incidents/kwpb9k3dw6jm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>12</var>, <var>22:52</var> PDT</small><br /><strong>Resolved</strong> - All Customer Management Planes are Available.</p><p><small>Sep <var>12</var>, <var>19:19</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>12</var>, <var>18:57</var> PDT</small><br /><strong>Update</strong> - Connectivity has been restored</p><p><small>Sep <var>12</var>, <var>18:24</var> PDT</small><br /><strong>Investigating</strong> - We have detected that the majority of our customers cannot reach their management plane deployments. We are investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 12 Sep 2020 22:52:10 -0700</pubDate>
+<pubDate>Sat, 12 Sep 2020 22:52:10 -0700</pubDate>
+</item>
+<item>
+<title>Control Plane Maintenace</title>
+<link>https://status.platform9.com/incidents/242zxl6l2jqd</link>
+<guid>https://status.platform9.com/incidents/242zxl6l2jqd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>21</var>, <var>10:37</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>21</var>, <var>10:17</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>21</var>, <var>10:16</var> PDT</small><br /><strong>Scheduled</strong> - We will be undergoing database maintenance on our production control plane cloud</p>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2020 10:37:30 -0700</pubDate>
+<pubDate>Fri, 21 Aug 2020 10:37:30 -0700</pubDate>
+</item>
+<item>
+<title>Management plane is unreachable for some customers</title>
+<link>https://status.platform9.com/incidents/q7w07ctp0x6b</link>
+<guid>https://status.platform9.com/incidents/q7w07ctp0x6b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>19</var>, <var>21:16</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>19</var>, <var>20:34</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>19</var>, <var>19:48</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>19</var>, <var>19:48</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>19</var>, <var>19:48</var> PDT</small><br /><strong>Identified</strong> - Management plane is unreachable for some customers. We have identified the issue and are implementing fix.</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Aug 2020 21:16:33 -0700</pubDate>
+<pubDate>Wed, 19 Aug 2020 21:16:33 -0700</pubDate>
+</item>
+<item>
+<title>Elevated error rates on some customer Management Planes</title>
+<link>https://status.platform9.com/incidents/6wgh45tmv3fg</link>
+<guid>https://status.platform9.com/incidents/6wgh45tmv3fg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>19</var>, <var>19:49</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>19</var>, <var>18:26</var> PDT</small><br /><strong>Monitoring</strong> - Customer Management Planes should be available again. We will continue to monitor the situation</p><p><small>Aug <var>19</var>, <var>18:00</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Wed, 19 Aug 2020 19:49:14 -0700</pubDate>
+<pubDate>Wed, 19 Aug 2020 19:49:14 -0700</pubDate>
+</item>
+<item>
+<title>Edge network maintenance</title>
+<link>https://status.platform9.com/incidents/44b6tv3flhnh</link>
+<guid>https://status.platform9.com/incidents/44b6tv3flhnh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>11</var>, <var>22:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>11</var>, <var>20:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var> 6</var>, <var>13:42</var> PDT</small><br /><strong>Scheduled</strong> - During this time, we will be conducting failover tests for our network infrastructure to ensure failover events occur properly and that our backup connections are performing as expected. Customer management planes may experience brief increased API error rates when traffic is failed over</p>
+]]></content:encoded>
+<pubDate>Tue, 11 Aug 2020 22:00:55 -0700</pubDate>
+<pubDate>Tue, 11 Aug 2020 22:00:55 -0700</pubDate>
+</item>
+<item>
+<title>Control plane upgrade- extension</title>
+<link>https://status.platform9.com/incidents/5tzs4nrd8yly</link>
+<guid>https://status.platform9.com/incidents/5tzs4nrd8yly</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>30</var>, <var>14:33</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>30</var>, <var>10:33</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>30</var>, <var>10:32</var> PDT</small><br /><strong>Scheduled</strong> - We are currently troubleshooting an issue with our control plane upgrade. No customer impact is expected at this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 Jul 2020 14:33:29 -0700</pubDate>
+<pubDate>Thu, 30 Jul 2020 14:33:29 -0700</pubDate>
+</item>
+<item>
+<title>Control Plane upgrade</title>
+<link>https://status.platform9.com/incidents/26jjvgjnt9zr</link>
+<guid>https://status.platform9.com/incidents/26jjvgjnt9zr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>30</var>, <var>10:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>30</var>, <var>06:01</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>23</var>, <var>13:41</var> PDT</small><br /><strong>Scheduled</strong> - During this time, We will be undergoing a control plane, and various host upgrades. <br /><br />No customer impact is expected.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 Jul 2020 10:00:30 -0700</pubDate>
+<pubDate>Thu, 30 Jul 2020 10:00:30 -0700</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:10.272865
+Existing_entries: 0
+Fetching from https://status.harness.io/history.rss
+Token length: 485
+Summarized using GPT-3.5-turbo-1106
+Append: [Quarterly DR Testing maintenance notice](https://status.harness.io/incidents/j4jw2smys0f7)
+Append: [Hosted CI Builds on MacOS are failing to initialize in all environments](https://status.harness.io/incidents/sd82v3lmcqqd)
+Append: [Feature Flag metrics service degraded](https://status.harness.io/incidents/5gc9lwwxlf7k)
+Append: [The UI is not loading in Prod-3 after the deployment.](https://status.harness.io/incidents/85j738kngcg4)
+Append: [CCM: Autostopping rules not working](https://status.harness.io/incidents/wvp5h3dqh998)
+Append: [Customer Overview Page is slow to load and failing in certain instances](https://status.harness.io/incidents/b47y3lh8cwfb)
+Append: [Users from Prod2 cluster faced internal error after logging in](https://status.harness.io/incidents/1sqh0pchkz8l)
+Append: [CCM Asset Governance slow performance](https://status.harness.io/incidents/tfd6q3s81423)
+Append: [Users from Prod 1 and Prod 2 clusters were unable to access Harness Platform](https://status.harness.io/incidents/vp9y07c7p5ml)
+Append: [Pipeline initialization failures observed while resolving environment variable expressions.](https://status.harness.io/incidents/kzlp6w83ttzc)
+Append: [Pipelines that reference the Docker in Docker (DIND) image are currently failing. We are currently investigating the issue.](https://status.harness.io/incidents/kmqnwv6hl992)
+Append: [CD and CI pipelines that reference secrets are experiencing failures.](https://status.harness.io/incidents/t8j9w1x0q78v)
+Append: [Pipelines that reference the secrets are experiencing failures in the Prod-2 cluster.   Impact - Every pipeline step that refers to a secret will cause the pipeline execution to fail](https://status.harness.io/incidents/w2w7btby70xs)
+Append: [Intermittent failures for hosted CI build](https://status.harness.io/incidents/l2mffl984qdz)
+Append: [Harness Overview page showing 400 Error](https://status.harness.io/incidents/6yql7g5kg7v1)
+Append: [CCM Connector Validation failing for some accounts](https://status.harness.io/incidents/20073rb23j5p)
+Append: [Quarterly DR Testing maintenance notice](https://status.harness.io/incidents/ghr10smfxvg1)
+Append: [Dependency workload not coming up for Autostopping](https://status.harness.io/incidents/6gcl3ky0prns)
+Append: [Pipelines with a specific scenario using "step groups" are impacted](https://status.harness.io/incidents/zxhwfhql8625)
+Append: [Pipelines with Hosted Mac Infrastructure are impacted](https://status.harness.io/incidents/21fq51jyfx7b)
+Append: [Pipeline Failure - TI Service Call Graph Upload Issue](https://status.harness.io/incidents/rsr16l8vqg7x)
+Append: [CI pipelines where clone codebase was disabled started to fail with error “no codebase configured“](https://status.harness.io/incidents/kxhsbn60d2xc)
+Append: [Users of Harness First Gen CD are facing performance degradation with Automated Artifact collection in Prod1 cluster](https://status.harness.io/incidents/w047bt2yqjm5)
+Append: [Artifact collection is working with degraded performance](https://status.harness.io/incidents/q1s8vchg7j41)
+Append: [Hosted Mac builds on Prod 2 are failing](https://status.harness.io/incidents/rt7lkmjk1xyq)
+append_entries: 25
+Finish: 2024-02-21 16:24:11.802891

@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:16.992039
+Existing_entries: 0
+Fetching from https://status.pendo.io/history.rss
+Token length: 546
+Summarized using GPT-3.5-turbo-1106
+Append: [Poll Responses Not Loading (UI)](https://status.pendo.io/incidents/pk7l4d1zdvmt)
+Append: [Guide Latency Issues: CNAME Customers Only](https://status.pendo.io/incidents/j57y7fcrj4jh)
+Append: [Pendo Feedback: Webhook Outage](https://status.pendo.io/incidents/7w06860g0smt)
+Append: [Webhook Delivery Delays](https://status.pendo.io/incidents/7ss41j8vhj5w)
+Append: [Page and Feature Events Showing 0 When Filtered by Today](https://status.pendo.io/incidents/qxbcf9mjn63f)
+Append: [Login functionality for Feedback for internal users is experiencing an outage (US only)](https://status.pendo.io/incidents/48gqjlkb3ft0)
+Append: [Resource Center Announcement Guides Temporarily Uneditable](https://status.pendo.io/incidents/75bct64468s5)
+Append: [Dashboard, Visitor Reports, and Similar Data Sources May Temporarily Appear as Zero](https://status.pendo.io/incidents/4bfnm4w7kv3k)
+Append: [Guide Targeting and Eligibility Impacted for JP Region](https://status.pendo.io/incidents/cj13rdzlfxmp)
+Append: [Guide Targeting and Eligibility Impacted for US1/EU Customers](https://status.pendo.io/incidents/hzq3pyylcbww)
+Append: [Login and Mid-Session Disconnection Issues with Pendo UI](https://status.pendo.io/incidents/km3bl9fv9gck)
+Append: [Pendo Internal Resource Center Offline](https://status.pendo.io/incidents/gnj9h7j3np95)
+Append: [Pendo Guides Failing to Display](https://status.pendo.io/incidents/l3zwdp9z21j0)
+Append: [Possible delay in Webhook Message Delivery](https://status.pendo.io/incidents/d9wkn4bnykwv)
+Append: [Intermittent Issues Navigating to Pendo Feedback](https://status.pendo.io/incidents/xs2n0j0cljkw)
+Append: [Issue with Mobile Guides and Analytics](https://status.pendo.io/incidents/d1b3bpzv2zbq)
+Append: [Guide Errors and Latency](https://status.pendo.io/incidents/jwhfy5mzk41t)
+Append: [Some Guides are Not Able to be Saved](https://status.pendo.io/incidents/5py93lxymmpg)
+Append: [App.Pendo.io Unresponsive / Guide Delivery Issues](https://status.pendo.io/incidents/q5mwj54cq45z)
+Append: [Events Processing Errors](https://status.pendo.io/incidents/d8h18mnv270y)
+Append: [Guide Deployment Impacted](https://status.pendo.io/incidents/zhz4lpr4jt8n)
+Append: [Tagging Processing Delays](https://status.pendo.io/incidents/n81ddssk9dqy)
+Append: [Sporadic Issues with Guide Deployment](https://status.pendo.io/incidents/2j82kq6q4hzg)
+Append: [Ongoing Issue Across Pendo Platform](https://status.pendo.io/incidents/1kyvk3fdwh2y)
+Append: [Analytics Processing Delays](https://status.pendo.io/incidents/hyfq12sr4m36)
+append_entries: 25
+Finish: 2024-02-21 16:24:18.356849

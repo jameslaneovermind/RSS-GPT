@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:53.104852
+Existing_entries: 0
+Fetching from https://status.onfido.com/history.rss
+Token length: 337
+Summarized using GPT-3.5-turbo-1106
+Append: [Delays in check processing](https://status.onfido.com/incidents/0rnr5t768tpb)
+Append: [Smart Capture Link service degradation](https://status.onfido.com/incidents/crk6805lws3j)
+Append: [Known Faces service degradation](https://status.onfido.com/incidents/9jnbbydtnd11)
+Append: [Increased latency on check processing](https://status.onfido.com/incidents/bh51j1nbj13n)
+Append: [Increased latency on check processing](https://status.onfido.com/incidents/15ny3jj9871w)
+Append: [Increased latency on check creation](https://status.onfido.com/incidents/zjxz8194kc0v)
+Append: [EU Infrastructure Maintenance](https://status.onfido.com/incidents/q2qj94pl3yrs)
+Append: [New checks missing in Dashboard](https://status.onfido.com/incidents/d0y6sfj5vbv6)
+Append: [Limited delays in check processing](https://status.onfido.com/incidents/1gp539sth66f)
+Append: [US Infrastructure Maintenance](https://status.onfido.com/incidents/q2jqd2bgtzb8)
+Append: [Watchlist Full partial outage](https://status.onfido.com/incidents/76fhf8rkgwd1)
+Append: [CA Infrastructure Maintenance](https://status.onfido.com/incidents/6601zcblwrfd)
+Append: [Degraded upload video experience](https://status.onfido.com/incidents/443117l1tzwj)
+Append: [Error creating checks](https://status.onfido.com/incidents/k5rwl6q54x09)
+Append: [Increased latency on document check processing](https://status.onfido.com/incidents/dgmbn6p5pwpl)
+Append: [Dashboard in EU is partially unavailable](https://status.onfido.com/incidents/wx7wpnxyl736)
+Append: [Anomalous number of 5xx errors on the Studio API](https://status.onfido.com/incidents/pvdx6j014l3g)
+Append: [Webhooks delivery delayed](https://status.onfido.com/incidents/yjxbh4617myv)
+Append: [UK ID card clear rate dropped](https://status.onfido.com/incidents/hc5cx13rwr80)
+Append: [ID Records product is experiencing about 10% decrease in clear rates for applicants in the UK](https://status.onfido.com/incidents/77lk2jjj4qsv)
+Append: [The ID Record product is experiencing errors in the UK](https://status.onfido.com/incidents/qdrgy86hd2vc)
+Append: [Applicant form is down](https://status.onfido.com/incidents/m3s5w27lcwkq)
+Append: [Identity Enhanced is experiencing a major decrease in clear rates for applicants all other the world except UK](https://status.onfido.com/incidents/m8zsj2yr80z0)
+Append: [Delays in document check processing in the EU region](https://status.onfido.com/incidents/mgy4wc01c267)
+Append: [Watchlist product is experiencing errors](https://status.onfido.com/incidents/tg07wjxmbl5s)
+append_entries: 25
+Finish: 2024-02-21 16:24:54.328933

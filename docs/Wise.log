@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:54.899637
+Existing_entries: 0
+Fetching from https://status.wise.com/history.rss
+Token length: 423
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled Maintenance - Database upgrade](https://status.wise.com/incidents/hbn506qbhwpt)
+Append: [Issue with Instant Transfers](https://status.wise.com/incidents/gk923j296n9s)
+Append: [Issue with iOS mobile app](https://status.wise.com/incidents/b3fkv8w8sn1b)
+Append: [Issue with Instant payments](https://status.wise.com/incidents/zbxx18lc8y83)
+Append: [Issue with logging in and completing transfers](https://status.wise.com/incidents/sll5s25shyh4)
+Append: [Issue with GBP transfers](https://status.wise.com/incidents/jy9zjg6qsyg4)
+Append: [USD instant transfers delayed](https://status.wise.com/incidents/pgf11gqhsz1m)
+Append: [Scheduled maintenance - Faster Payments](https://status.wise.com/incidents/3sg2rl0grsbm)
+Append: [Scheduled maintenance - Faster Payments](https://status.wise.com/incidents/qtntfnc4zg1f)
+Append: [Issue with transaction history](https://status.wise.com/incidents/jd10404wvry2)
+Append: [Issue with transfers](https://status.wise.com/incidents/g4hn6r2clwhy)
+Append: [Issue with receiving SMS or WhatsApp messages from Wise](https://status.wise.com/incidents/y2wlfs4sbcfr)
+Append: [Issue logging into Wise](https://status.wise.com/incidents/xqhkhybqlhkm)
+Append: [Issue impacting transfer speed](https://status.wise.com/incidents/kqd67tygc5zc)
+Append: [API sandbox environment with degraded functionality](https://status.wise.com/incidents/qtp64mkhprc2)
+Append: [SGD transfer issue](https://status.wise.com/incidents/qs5gphmx147c)
+Append: [Issues impacting transfers and Wise Account top ups](https://status.wise.com/incidents/nbr53vmqy4j5)
+Append: [Issue Impacting Wise Account Top Ups](https://status.wise.com/incidents/lb3kft570zmq)
+Append: [Instant transfers delayed](https://status.wise.com/incidents/13y6hjqtpk9f)
+Append: [Error in transfer process for UK customers](https://status.wise.com/incidents/5sj60np3db75)
+Append: [Service disruption](https://status.wise.com/incidents/cvl8p7ym7mxt)
+Append: [Domestic payments to USD balance slower](https://status.wise.com/incidents/00140hppgm8r)
+Append: [Issue impacting multi-currency balances and delayed transfers](https://status.wise.com/incidents/cjqz5qf2n9sb)
+Append: [Issue affecting transfers to and from SGD](https://status.wise.com/incidents/gfcgy82s0bl4)
+Append: [Instant transfers delayed](https://status.wise.com/incidents/37f86b4jslc3)
+append_entries: 25
+Finish: 2024-02-21 16:23:56.183407

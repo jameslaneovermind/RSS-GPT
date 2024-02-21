@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:28.784792
+Existing_entries: 0
+Fetching from https://status.mongodb.com/history.rss
+Token length: 923
+Summarized using GPT-3.5-turbo-1106
+Append: [cloud.mongodb.com slow response times](https://status.mongodb.com/incidents/tzc6lj0dfjkg)
+Append: [Atlas Cluster Operations Delayed](https://status.mongodb.com/incidents/1x8xpn32qzfk)
+Append: [Increased Atlas Data Federation and Online Archive query latency](https://status.mongodb.com/incidents/jm3kh84mbkfc)
+Append: [Increased Atlas Data Federation and Online Archive query latency in us-east-1](https://status.mongodb.com/incidents/d4zb1dgf127v)
+Append: [Unable to create new Identity Providers for Federated Authentication](https://status.mongodb.com/incidents/d8vy3zgz0ss9)
+Append: [Changes to Atlas Serverless Instances Delayed](https://status.mongodb.com/incidents/1ynx7khy475w)
+Append: [Azure Cluster Operatons Delayed](https://status.mongodb.com/incidents/rd37vbx8qkd0)
+Append: [Atlas operations and Cloud Manager metrics collection delayed](https://status.mongodb.com/incidents/2jlmy7xrsvb3)
+Append: [MongoDB Atlas: Cluster creation, deletion, and modification delayed](https://status.mongodb.com/incidents/1fkqbxyp4jj6)
+Append: [MongoDB Charts: Charts failing to load](https://status.mongodb.com/incidents/q2s405z8bznq)
+Append: [MongoDB Atlas App Services and Device Sync APIs refusing connections in us-west-2 (AWS)](https://status.mongodb.com/incidents/mc9y7pxbzqf0)
+Append: [Atlas Charts: charts.mongodb.com was unavailable](https://status.mongodb.com/incidents/y1xm4cv5fm81)
+Append: [MongoDB Atlas Search: Atlas search index modification unavailable](https://status.mongodb.com/incidents/drmh2bfxrvg0)
+Append: [MongoDB Atlas for Government: "no healthy upstream" error during login](https://status.mongodb.com/incidents/93zhkt5ql82c)
+Append: [MongoDB Atlas GitHub Login Issues](https://status.mongodb.com/incidents/vtsm1v3zlfy4)
+Append: [MongoDB Atlas Login Issues](https://status.mongodb.com/incidents/yzgwf0jdyg8n)
+Append: [MongoDB Atlas App Services and Device Sync APIs refusing connections](https://status.mongodb.com/incidents/n3cbfmk0jh75)
+Append: [Atlas Data Federation and Online Archive users may see internal errors when querying Atlas cluster data sources in AWS/ap-southeast-1](https://status.mongodb.com/incidents/2vb3l8mn5308)
+Append: [App Services Triggers in eu-central saw degraded performance](https://status.mongodb.com/incidents/y4d81t432swy)
+Append: [Atlas Data Federation, Online Archive, App Services & Device Sync users may see internal errors when querying Atlas cluster data sources in AWS/ap-southeast-1](https://status.mongodb.com/incidents/lxykt9gr08ww)
+Append: [Scheduled Cluster Operation Delays](https://status.mongodb.com/incidents/s9sn8g7kmh18)
+Append: [MongoDB Cloud, MongoDB Support Portal: Login failures](https://status.mongodb.com/incidents/nk7v8vpgmvw8)
+Append: [Atlas App Services: some Atlas Triggers experienced unexpected suspensions](https://status.mongodb.com/incidents/qs2z8679j60p)
+Append: [Atlas Data Federation Query Failures](https://status.mongodb.com/incidents/rvvt2l8jmqcl)
+Append: [MongoDB Cloud status page new domain name](https://status.mongodb.com/incidents/v0s9nlrwyl1s)
+append_entries: 25
+Finish: 2024-02-21 16:24:30.202005

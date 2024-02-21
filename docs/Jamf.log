@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:24:38.853629
+Existing_entries: 0
+Fetching from https://status.jamf.com/history.rss
+Token length: 585
+Summarized using GPT-3.5-turbo-1106
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for us-west-2](https://status.jamf.com/incidents/fjldrc716r07)
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for us-east-1](https://status.jamf.com/incidents/gfk63vz479tl)
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for eu-central-1](https://status.jamf.com/incidents/qpxxzltz5bfv)
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for eu-west-2](https://status.jamf.com/incidents/8d146vnkvv0h)
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for ap-northeast-1](https://status.jamf.com/incidents/6pc2rp5cf6l9)
+Append: [JAMF Pro - Standard: 11.2.1 Upgrade for ap-southeast-2](https://status.jamf.com/incidents/hj42r0vgcrgn)
+Append: [Jamf Pro Partial Outage](https://status.jamf.com/incidents/n9ydhwxpqzb2)
+Append: [Upgrades are not currently possible.](https://status.jamf.com/incidents/p9jlq96m8406)
+Append: [Jamf Pro Partial Outage](https://status.jamf.com/incidents/hztcjq8vb8gr)
+Append: [Degradation: Jamf Pro Cloud](https://status.jamf.com/incidents/rg2xrjdly1kg)
+Append: [Jamf School: Scheduled Maintenance (AP-Northeast)](https://status.jamf.com/incidents/s63z7ylzmrd9)
+Append: [Jamf School: Scheduled Maintenance (EU-Central)](https://status.jamf.com/incidents/s3cq20rx56t8)
+Append: [Jamf School: Scheduled Maintenance (AP-Northeast)](https://status.jamf.com/incidents/jy8pz5d0m8b4)
+Append: [Jamf School: Scheduled Maintenance (US-East)](https://status.jamf.com/incidents/c255b6fmx269)
+Append: [Jamf Now: Scheduled maintenance](https://status.jamf.com/incidents/kfxqf5q1snlc)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for us-west-2](https://status.jamf.com/incidents/c7vsrskcxvdm)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for us-east-1](https://status.jamf.com/incidents/g8w0bcjp489l)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for eu-central-1](https://status.jamf.com/incidents/24qrq8g1p8mr)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for eu-west-2](https://status.jamf.com/incidents/2jqg797d3vd5)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for ap-northeast-1](https://status.jamf.com/incidents/67g16wtgftwj)
+Append: [JAMF Pro - Standard: 11.1.1 Upgrade for ap-southeast-2](https://status.jamf.com/incidents/79zhb05tb4jn)
+Append: [JCDS Outage](https://status.jamf.com/incidents/2pshd5bfbqbb)
+Append: [JCDS Outage](https://status.jamf.com/incidents/s3fbbzlhk418)
+Append: [Jamf Pro Partial Outage](https://status.jamf.com/incidents/ht8rmq73bkxc)
+Append: [Jamf Protect degraded performance in us-east-1](https://status.jamf.com/incidents/pw8q55lxmml1)
+append_entries: 25
+Finish: 2024-02-21 16:24:40.049489

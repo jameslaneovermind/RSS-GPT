@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Slack System Status</title>
+<link>https://status.slack.com/</link>
+
+<item>
+<title>Incident: Profile photos aren't displaying properly</title>
+<link>https://status.slack.com//2024-02/16aecfd53af7219b</link>
+<guid>https://status.slack.com//2024-02/16aecfd53af7219b</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Profile Picture Loading Issue <br><br> Summary: Some users experienced issues with their profile pictures not loading, showing the default avatar image instead of their custom image. The issue was initially fixed but reoccurred for some users. It was traced to a code issue and promptly resolved. <div>
+Issue summary:<br />
+<br />
+Starting around 12:46 PM PST on February 6, 2024, until around 4:06 PM PST on February 9, 2024, some users experienced issues with their profile pictures loading, resulting in the default avatar image displaying instead of their custom image.<br />
+<br />
+We identified a bug that caused missing image data from a database cache. We fixed the bug and reset the backend cache to pull new data, which initially fixed the issue around 4:00 PM PST on February 6. However, some users began experiencing the problem again once their Slack client refreshed.<br />
+<br />
+We continued investigating the issue, tracing it back to a piece of code that would push older image data to a database that housed profile information, and promptly reverted the incorrect code which resolved the issue for all affected users.
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 06:40:11 -0800</pubDate>
+<pubDate>Thu, 15 Feb 2024 06:40:11 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some users may be experiencing trouble with canvas.</title>
+<link>https://status.slack.com//2024-02/804d3a52e234f2fa</link>
+<guid>https://status.slack.com//2024-02/804d3a52e234f2fa</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On February 12, 2024 from 6:00 AM PST to 8:32 AM PST, some users experienced latency when loading canvases or errors related to editing and saving canvases.<br />
+<br />
+Upon investigation we determined that this was caused by rate limits put in place by an upstream provider. We restarted the impacted endpoints to mitigate the issue immediately, which resolved the issue for all affected users. We're continuing to partner with our upstream provider to reduce the likelihood of this occurring in the future.
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 14:15:24 -0800</pubDate>
+<pubDate>Tue, 13 Feb 2024 14:15:24 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some users may be having trouble connecting to Slack.</title>
+<link>https://status.slack.com//2024-02/558e3bb8ce654659</link>
+<guid>https://status.slack.com//2024-02/558e3bb8ce654659</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On February 7, 2024 from around 9:23 AM PST to 9:51 AM PST, a small percentage of users may have experienced issues connecting to Slack or searching within Slack. <br />
+<br />
+Our automated alerting systems detected an unusual spike in traffic to one of our servers. We carried out a thorough investigation, but the load subsided naturally as we worked, resolving the issue for all affected users.<br />
+<br />
+While we did not take any remedial action in this case, we continued our investigation to better understand the problem and potential mitigation strategies for similar issues in future.
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 18:06:20 -0800</pubDate>
+<pubDate>Wed, 07 Feb 2024 18:06:20 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Users in Germany having trouble receiving 2FA SMS codes</title>
+<link>https://status.slack.com//2024-02/30dfe547672802a4</link>
+<guid>https://status.slack.com//2024-02/30dfe547672802a4</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+On February 1, 2024 between 12:57 AM PST and 3:52 AM PST, some users in Germany were having trouble receiving two-factor authentication codes via SMS.<br />
+<br />
+This was caused by an issue with a service provider and has now been resolved.<br />
+<br />
+Users in Germany should no longer be having trouble and may also choose to use an authentication app to receive their 2FA codes instead of SMS.<br />
+<br />
+Thank you for being patient with us, we appreciate it.
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 06:43:18 -0800</pubDate>
+<pubDate>Thu, 01 Feb 2024 06:43:18 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Users may be experiencing issues loading threads and sending mesages.</title>
+<link>https://status.slack.com//2024-01/8e9a7cb95549d34c</link>
+<guid>https://status.slack.com//2024-01/8e9a7cb95549d34c</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+On January 31, 2024 between 7:43 AM PST and 8:27 AM PST, some users were unable to load threads and send messages.<br />
+<br />
+We traced the issue to a backend failure and immediately implemented a change which fixed the issue for all affected users.<br />
+<br />
+We apologize for any disruption to your work day and appreciate your patience while we resolved the issue.
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 10:14:04 -0800</pubDate>
+<pubDate>Wed, 31 Jan 2024 10:14:04 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some latency with Slack</title>
+<link>https://status.slack.com//2024-01/0a000b0ad09623a0</link>
+<guid>https://status.slack.com//2024-01/0a000b0ad09623a0</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 11:37 AM PST to 11:48 AM PST on January 24, 2024, we experienced an unexpected amount of API calls to our servers that occurred within a short window of time. The volume of API calls resulted in some users experiencing latency loading channels and general difficulties connecting to Slack. We investigated the impact with a broad lens and began to observe signs of recovery around 12:09 PM PST.<br />
+<br />
+During this time, we cautiously observed our health metrics to ensure our servers were accurately recovering. As a result of our thorough monitoring, there was a delay before we could confirm the issue was fully resolved. Our teams have also put in measures to help reduce the likelihood of this occurring again in the future.
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 09:58:00 -0800</pubDate>
+<pubDate>Tue, 30 Jan 2024 09:58:00 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Pasting via Cmd/Ctrl + V not working</title>
+<link>https://status.slack.com//2024-01/8ad463b92a084387</link>
+<guid>https://status.slack.com//2024-01/8ad463b92a084387</guid>
+<content:encoded><![CDATA[
+
+Issue summary: <br />
+From 11:45 AM PST to around 5:20 PM PST on January 29, 2024, some customers experienced problems using keyboard shortcuts to paste text into Slack. <br />
+<br />
+A code change inadvertently introduced an issue that prevented the use of Cmd/Ctrl + V to paste text into Slack. We reverted this change, then deployed a fix to fully resolve the issue.
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 19:44:32 -0800</pubDate>
+<pubDate>Mon, 29 Jan 2024 19:44:32 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some users are unable to upload, download, and view files in Slack.</title>
+<link>https://status.slack.com//2024-01/f39851209d6c471a</link>
+<guid>https://status.slack.com//2024-01/f39851209d6c471a</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+From 1:00pm PST on January 23, 2024 to 2:30pm PST on January 23, 2024, some users encountered trouble uploading, downloading, and viewing files in Slack.<br />
+<br />
+We determined that an API call was not functioning correctly, and made a change to mitigate the issue. The upload problems were caused by a slowing down of responses due to a higher than normal volume of API calls due to the malfunction. This issue has been resolved and steps have been taken to avoid it happening in the future.
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 16:22:52 -0800</pubDate>
+<pubDate>Fri, 26 Jan 2024 16:22:52 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Service wide connection issues</title>
+<link>https://status.slack.com//2024-01/8b623c0b5640c28f</link>
+<guid>https://status.slack.com//2024-01/8b623c0b5640c28f</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On January 24, 2024 from 5:40 AM PST to around 9:00 AM PST, a small number of users experienced issues connecting to Slack and running workflows.<br />
+<br />
+A change to routing in our servers resulted in requests failing due to a lack of available resources. This change was rolled back and Slack returned to a normal state.
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 06:18:08 -0800</pubDate>
+<pubDate>Fri, 26 Jan 2024 06:18:08 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some Enterprise Grid users may be seeing unexpected Slackbot responses</title>
+<link>https://status.slack.com//2024-01/166eb312bd134031</link>
+<guid>https://status.slack.com//2024-01/166eb312bd134031</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 12:20pm PST until 3:00pm PST on January 22, 2024, some Enterprise Grid users noticed multiple Slackbot responses being triggered unexpectedly.<br />
+<br />
+We determined that the rollout of a fix for an older bug report pertaining to Slackbot responses not working in org-wide or multi-workspace channels, was the root cause. <br />
+<br />
+Whilst the fix for the bug was intended to improve this features behaviour, ensuring that Slackbot custom responses would work in these channel types, our wider team concluded that the fixed behaviour might not function well for organizations with potentially thousands of custom Slackbot responses.<br />
+<br />
+We rolled back the deployment which caused this behaviour. Customers will no longer see these Slackbot custom responses being triggered unexpectedly.<br />
+<br />
+A discussion is underway about the long-term future of Slackbot custom response behaviour within large organizations.<br />
+<br />
+Thank you for your patience whilst we resolved this.
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 19:06:24 -0800</pubDate>
+<pubDate>Mon, 22 Jan 2024 19:06:24 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some users may not be able to configure 2FA</title>
+<link>https://status.slack.com//2024-01/9301a4fb7cc577ea</link>
+<guid>https://status.slack.com//2024-01/9301a4fb7cc577ea</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 11:26 AM PST on January 12, 2024 to 10:04 AM PST on January 15, 2024, some users were unable to configure 2FA on their accounts. We were made aware of this after a spike in reports early in the morning of Monday, January 15.<br />
+<br />
+Upon investigation, this issue was traced back to a recent code change which we discovered was preventing users from being redirected back to the 2FA configuration page after entering their password during the 2FA setup process. We immediately reverted this change which fully resolved the issue.
+]]></content:encoded>
+<pubDate>Mon, 15 Jan 2024 15:51:07 -0800</pubDate>
+<pubDate>Mon, 15 Jan 2024 15:51:07 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Users seeing blurred file unfurls</title>
+<link>https://status.slack.com//2023-12/7f05f584fa98cf7c</link>
+<guid>https://status.slack.com//2023-12/7f05f584fa98cf7c</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 1:43 PM PST on December 19, 2023 to 10:25 AM PST on December 20, 2023, a small number of users experienced seeing blurred file previews. We discovered that this affected users with international data residency enabled in their workspace.<br />
+<br />
+A change was made to our file storage, resulting in unexpected behaviour with file previews. We promptly identified the problematic code and reverted back the change in an effort to prevent file previews from becoming blurred. <br />
+We later ran a script to fix affected files to display with clear previews, resolving the issue for all affected users.
+]]></content:encoded>
+<pubDate>Wed, 20 Dec 2023 18:01:15 -0800</pubDate>
+<pubDate>Wed, 20 Dec 2023 18:01:15 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Trouble loading some parts of Slack</title>
+<link>https://status.slack.com//2023-12/b0072b040087e20b</link>
+<guid>https://status.slack.com//2023-12/b0072b040087e20b</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On December 3, 2023 from 4:35 PM PST to around 5:29 PM PST, a small number of customers experienced trouble loading parts of Slack such as threads, channels, and direct messages. Affected customers may have also had trouble sending messages and running some workflows.<br />
+<br />
+One of our databases experienced a minor hardware issue. This triggered an automatic intervention from our redundancy systems, and a new database was brought into service. However, the new database entered a state where it could not successfully respond to incoming queries.<br />
+<br />
+As an immediate mitigation step, we performed a manual replacement and redirected the incoming queries to a third database. This resolved the issue for all impacted customers.
+]]></content:encoded>
+<pubDate>Mon, 04 Dec 2023 20:20:17 -0800</pubDate>
+<pubDate>Mon, 04 Dec 2023 20:20:17 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Slack not loading for some users</title>
+<link>https://status.slack.com//2023-11/edc9f768095e939b</link>
+<guid>https://status.slack.com//2023-11/edc9f768095e939b</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+From 9:30 AM PST on November 28, 2023 to 12:30 AM PST on November 29, 2023, some users in Asia were experiencing issues with Slack loading. Most of the impacted users were in Japan and India.<br />
+<br />
+We traced this back to an unexpected spike in a database load for which we quickly saw recovery.<br />
+<br />
+We monitored the situation closely and as the load reduced without intervention, we did not take any mitigating actions.
+]]></content:encoded>
+<pubDate>Wed, 29 Nov 2023 06:41:20 -0800</pubDate>
+<pubDate>Wed, 29 Nov 2023 06:41:20 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Some users may be experiencing issues with huddles</title>
+<link>https://status.slack.com//2023-11/2b97ec921a81988a</link>
+<guid>https://status.slack.com//2023-11/2b97ec921a81988a</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+On November 8, 2023 from 7:55 AM PT until 8:27 PM PT, a small number of users experienced errors when attempting to join or start huddles.<br />
+<br />
+We traced this back to an unexpected spike in a database load for which we quickly saw recovery.<br />
+<br />
+We monitored the situation closely and in an effort to prevent further unexpected error spikes, we implemented a strategic configuration adjustment to optimize the load on our database.<br />
+<br />
+Affected users should no longer experience issues with huddles.
+]]></content:encoded>
+<pubDate>Fri, 17 Nov 2023 13:42:44 -0800</pubDate>
+<pubDate>Fri, 17 Nov 2023 13:42:44 -0800</pubDate>
+</item>
+<item>
+<title>Outage: Slack not loading for some users</title>
+<link>https://status.slack.com//2023-11/0e7bc0e7a7e7cd87</link>
+<guid>https://status.slack.com//2023-11/0e7bc0e7a7e7cd87</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 3:15 PM PST on November 14, 2023 to around 4:13 PM PST, a small number of customers using the Slack desktop app were unable to connect to Slack. This may have manifested as a "Something's gone awry" error page.<br />
+<br />
+A recent code change inadvertently introduced a logic error that prevented the desktop app from connecting as expected. We reverted this code change as an immediate mitigation step, then rolled out a fix to correct the logic error. <br />
+<br />
+The fix resolved the issue for all affected customers, restoring full access to Slack.
+]]></content:encoded>
+<pubDate>Tue, 14 Nov 2023 19:01:39 -0800</pubDate>
+<pubDate>Tue, 14 Nov 2023 19:01:39 -0800</pubDate>
+</item>
+<item>
+<title>Incident: User presence is unexpectedly changing</title>
+<link>https://status.slack.com//2023-11/16fed44d7948cf49</link>
+<guid>https://status.slack.com//2023-11/16fed44d7948cf49</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+From 4:00 PM PDT on October 31, 2023 to 2:00 PM PDT on November 9, 2023, user presence would unexpectedly change to away or inactive.<br />
+<br />
+We determined that an error during a routine system optimization on connectivity state caused this issue. <br />
+<br />
+We reverted the change which fixed the issue for all affected customers.<br />
+<br />
+Thank you for your patience while we resolved this.
+]]></content:encoded>
+<pubDate>Mon, 13 Nov 2023 07:57:36 -0800</pubDate>
+<pubDate>Mon, 13 Nov 2023 07:57:36 -0800</pubDate>
+</item>
+<item>
+<title>Incident: Issues with user status, read state, and file previews</title>
+<link>https://status.slack.com//2023-11/ea3a2a3e32e79902</link>
+<guid>https://status.slack.com//2023-11/ea3a2a3e32e79902</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 10:00 PM PST on November 7, 2023 to 1:15 PM PST on November 8, 2023, some users experienced issues with their user status not updating, removing previews, and being unable to mark channels as read. Some keyboard shortcuts were also affected and were unable to be used.<br />
+<br />
+We determined that a recent code change was the root cause for the unexpected behaviour with these features.<br />
+<br />
+To restore functionality, we reverted the related code. We then did some additional testing and monitoring to confirm all issues were fully resolved and Slack was operating as expected.
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 20:29:31 -0800</pubDate>
+<pubDate>Wed, 08 Nov 2023 20:29:31 -0800</pubDate>
+</item>
+<item>
+<title>Outage: Users unable to connect to Slack or send messages</title>
+<link>https://status.slack.com//2023-11/ef3e4b0ebcf16d8d</link>
+<guid>https://status.slack.com//2023-11/ef3e4b0ebcf16d8d</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On November 4, 2023, between 5:09 PM PDT and 5:20 PM PDT, many customers were unable send messages or to connect to Slack.<br />
+<br />
+A routine code change introduced a database error that prevented cached data from being cleared correctly, resulting in severe performance issues.<br />
+<br />
+We rolled back the code change and refreshed all affected servers, resolving the issue for all users.
+]]></content:encoded>
+<pubDate>Tue, 07 Nov 2023 17:59:22 -0800</pubDate>
+<pubDate>Tue, 07 Nov 2023 17:59:22 -0800</pubDate>
+</item>
+<item>
+<title>Outage: Issues for customers enrolled in the French data region</title>
+<link>https://status.slack.com//2023-10/8c886b57284762b6</link>
+<guid>https://status.slack.com//2023-10/8c886b57284762b6</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+<br />
+From 5:01 PM PDT on October 31, 2023 to around 5:54 PM PDT, customers with international data residency in the Paris, France region, experienced issues connecting to Slack and sending messages.<br />
+<br />
+A routine credential rotation caused database sync issues for the Paris, France data residency region. We reverted this code change and restarted the affected databases, resolving the issue for all impacted customers. <br />
+<br />
+Once we had mitigated the immediate impact and restored connectivity for customers in the Paris, France data residency region, we reviewed the credential rotation for all other data residency regions to ensure the same issue would not occur anywhere else.<br />
+<br />
+Please note that the start and end time of the incident have been edited for accuracy.
+]]></content:encoded>
+<pubDate>Wed, 01 Nov 2023 20:45:50 -0700</pubDate>
+<pubDate>Wed, 01 Nov 2023 20:45:50 -0700</pubDate>
+</item>
+<item>
+<title>Incident: A small number of users are having problems loading Slack.</title>
+<link>https://status.slack.com//2023-10/2ef86432e31615ea</link>
+<guid>https://status.slack.com//2023-10/2ef86432e31615ea</guid>
+<content:encoded><![CDATA[
+
+Customers should no longer be experiencing any connection issues with Slack. Apologies for the trouble today and thank you for your patience.
+]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 14:08:02 -0700</pubDate>
+<pubDate>Tue, 24 Oct 2023 14:08:02 -0700</pubDate>
+</item>
+<item>
+<title>Outage: Users are having trouble connecting to Slack</title>
+<link>https://status.slack.com//2023-10/ad8f0e62516e8812</link>
+<guid>https://status.slack.com//2023-10/ad8f0e62516e8812</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+<br />
+On Friday, October 6 2023, from 1:52 AM PDT to 2:12 AM PDT, some users were unable to load Slack. This was caused by an issue where certain backend Slack processes were pulling data from our database rather than their cache which caused strain on our servers.<br />
+<br />
+We rolled out a change to how these processes load data, and the issue was resolved for all users.
+]]></content:encoded>
+<pubDate>Fri, 06 Oct 2023 08:28:47 -0700</pubDate>
+<pubDate>Fri, 06 Oct 2023 08:28:47 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Trouble connecting to Slack</title>
+<link>https://status.slack.com//2023-10/6d592537eb7bd98e</link>
+<guid>https://status.slack.com//2023-10/6d592537eb7bd98e</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+On Oct 4, 2023 from 11:15 PM PDT to around 11:58 PM PDT a small subset of users experienced trouble connecting to Slack and sending and receiving messages.<br />
+<br />
+A code change optimizing resource usage caused a core service to restart causing brief connectivity issues for a few users.<br />
+<br />
+The service recovered automatically and we’ve put measures in place to prevent this from happening in the future.
+]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 06:53:12 -0700</pubDate>
+<pubDate>Thu, 05 Oct 2023 06:53:12 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Issues with loading some items on Slack</title>
+<link>https://status.slack.com//2023-10/ee32d13012fb29d5</link>
+<guid>https://status.slack.com//2023-10/ee32d13012fb29d5</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+On October 3, 2023 from 4:00 PM PDT to 4:20 PM PDT, some customers had trouble loading threads, mentions, reactions and search results in Slack.<br />
+<br />
+We determined that this was caused during the process of changing our database hosts on our backend. To mitigate the issue, we stopped the change which fixed the issue for affected customers.<br />
+<br />
+We're sorry for any disruption this may have caused and thank you for your patience while we looked into this
+]]></content:encoded>
+<pubDate>Wed, 04 Oct 2023 11:53:01 -0700</pubDate>
+<pubDate>Wed, 04 Oct 2023 11:53:01 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Threads were not loading for some users</title>
+<link>https://status.slack.com//2023-10/101eb09455dcaa9a</link>
+<guid>https://status.slack.com//2023-10/101eb09455dcaa9a</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+On October 2, 2023 from 12:18PM PDT to 12:26PM PDT, some users noticed that threads were not loading correctly.<br />
+<br />
+We identified a database issue on our backend that was causing the threads to not load. The issue was mitigated and users should no longer experience trouble loading threads.<br />
+<br />
+We are investigating the cause of the database issue so we can ensure this does not happen again.<br />
+<br />
+We apologize for any interruption to your work day!
+]]></content:encoded>
+<pubDate>Mon, 02 Oct 2023 13:16:28 -0700</pubDate>
+<pubDate>Mon, 02 Oct 2023 13:16:28 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Issues with receiving 2FA code</title>
+<link>https://status.slack.com//2023-09/7e84b360042dd07b</link>
+<guid>https://status.slack.com//2023-09/7e84b360042dd07b</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On September 28, 2023 from approximately 11:54 AM PDT to 3:15 PM PDT, some Slack users experienced trouble receiving two-factor authentication (2FA) codes and therefore were unable to sign into Slack.<br />
+<br />
+We determined this was caused by an upstream 2FA provider issue impacting code deliveries to US-based AT&amp;T and Verizon devices. We monitored communications from the provider and confirmed Slack users could successfully sign in once the upstream issue was resolved.
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 15:55:29 -0700</pubDate>
+<pubDate>Fri, 29 Sep 2023 15:55:29 -0700</pubDate>
+</item>
+<item>
+<title>Incident: A small number of users experience latency with Slack</title>
+<link>https://status.slack.com//2023-09/94046787b0ca9008</link>
+<guid>https://status.slack.com//2023-09/94046787b0ca9008</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 8:00 AM PDT to 11:00 AM PDT on Thursday, September 28, 2023, a small number of users experienced delays in Slack, including sending and editing messages, and loading channels.<br />
+<br />
+Upon investigation, we determined that a specific task in our backend was producing too many file deletion events and overloading our servers, resulting in these delays.<br />
+<br />
+We implemented a fix to reduce the load on our servers and this resolved the issue for all affected users.
+]]></content:encoded>
+<pubDate>Thu, 28 Sep 2023 17:49:59 -0700</pubDate>
+<pubDate>Thu, 28 Sep 2023 17:49:59 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Create app on api.slack.com/apps not working</title>
+<link>https://status.slack.com//2023-09/054c6ac24cb629dd</link>
+<guid>https://status.slack.com//2023-09/054c6ac24cb629dd</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On September 27, 2023 from 9:01 AM PDT to 12:32 PM PDT, some users experienced issues when attempting to create or edit custom apps on https://api.slack.com/apps, including seeing a "404 error" on this website.<br />
+<br />
+We traced this back to a recent change that removed a function necessary for rendering a documentation page associated with the website. <br />
+<br />
+We reverted the change, restoring the documentation page rendering component on https://api.slack.com/apps. Users should no longer have issues creating or editing custom apps and accessing this website.<br />
+<br />
+Note: Due to an internal tooling error, we initially reported the times in this summary in UTC, but labeled with PDT. We have corrected this mistake and apologize for any confusion caused.
+]]></content:encoded>
+<pubDate>Thu, 28 Sep 2023 14:54:37 -0700</pubDate>
+<pubDate>Thu, 28 Sep 2023 14:54:37 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Can't dismiss Now you've got Later</title>
+<link>https://status.slack.com//2023-09/badc5543a21e1fa7</link>
+<guid>https://status.slack.com//2023-09/badc5543a21e1fa7</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On September 26, 2023 from 10:00 AM PDT to 12:00 PM PDT, some users on our new interface design couldn't dismiss an information prompt that read "You now have Later". <br />
+<br />
+These users also experienced their UI locking, and were unable to click anything in the Slack app. For some, the sparkle animation fixed over the Later icon in the sidebar also persisted longer than intended. <br />
+<br />
+We identified the root cause as a missing detail in a recent code change. We reverted the change to mitigate the immediate issue, then deployed a fix to fully resolve the problem for all impacted users.<br />
+<br />
+Note: Due to an internal tooling error, we initially reported the times in this summary in UTC, but labeled with PDT. We have corrected this mistake and apologize for any confusion caused.
+]]></content:encoded>
+<pubDate>Wed, 27 Sep 2023 10:24:03 -0700</pubDate>
+<pubDate>Wed, 27 Sep 2023 10:24:03 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Trouble with custom emoji</title>
+<link>https://status.slack.com//2023-09/8315491ac04ad325</link>
+<guid>https://status.slack.com//2023-09/8315491ac04ad325</guid>
+<content:encoded><![CDATA[
+
+Issue summary: <br />
+From 12:54 PM PDT on September 22, 2023 to 09:13 AM PDT on September 25, 2023, custom emoji rendered as text for a small number of Enterprise Grid users.<br />
+<br />
+We made a code change that inadvertently introduced unnecessary logging for routine emoji events. This unexpected logging increased traffic to the custom emoji infrastructure, impacting its performance. <br />
+<br />
+We deployed a fix to remove the unnecessary logging, which reduced traffic to the custom emoji systems and restored normal emoji rendering. <br />
+<br />
+A small fraction of the affected customers may have experienced lingering issues as the fix was gradually rolled out to everyone.<br />
+<br />
+Note: Due to an internal tooling error, we initially reported the times in this summary in UTC, but labeled with PDT. We have corrected this mistake and apologize for any confusion caused.
+]]></content:encoded>
+<pubDate>Tue, 26 Sep 2023 13:28:49 -0700</pubDate>
+<pubDate>Tue, 26 Sep 2023 13:28:49 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Slack Connect invitations page not loading</title>
+<link>https://status.slack.com//2023-09/798ffab066d9a5d6</link>
+<guid>https://status.slack.com//2023-09/798ffab066d9a5d6</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On September 21, 2023 from 8:00 PM PDT to 1:30 PM PDT, some users encountered a message stating "Something went wrong" when accessing the Slack Connect invites page.<br />
+<br />
+We determined that rate limits set for querying invites were the cause of the "Something went wrong" message. These limits were set prior to the  product decision to include these in the Activity view. Because use of this view has increased, the limits are reached much sooner than originally expected.<br />
+<br />
+These limits were lifted for the invites page, resolving the issue for users. We appreciate your patience while we sorted this out and apologize for any inconvenience this may have caused.<br />
+<br />
+Note: Due to an internal tooling error, we initially reported the times in this summary in UTC, but labeled with PDT. We have corrected this mistake and apologize for any confusion caused.
+]]></content:encoded>
+<pubDate>Fri, 22 Sep 2023 10:48:18 -0700</pubDate>
+<pubDate>Fri, 22 Sep 2023 10:48:18 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some Admins are missing DMs in Single User Exports</title>
+<link>https://status.slack.com//2023-09/5b5bbd0b1b68e294</link>
+<guid>https://status.slack.com//2023-09/5b5bbd0b1b68e294</guid>
+<content:encoded><![CDATA[
+
+We've determined this issue impacts a small subset of admins on Enterprise Grid. We'll work to fix this internally, and provide further updates through customer support tickets. We apologize for any disruptions to your day.
+]]></content:encoded>
+<pubDate>Fri, 08 Sep 2023 12:42:47 -0700</pubDate>
+<pubDate>Fri, 08 Sep 2023 12:42:47 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some users are receiving an error while attempting to load app configurations</title>
+<link>https://status.slack.com//2023-09/d0d43b69112068ec</link>
+<guid>https://status.slack.com//2023-09/d0d43b69112068ec</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From September 6, 2023 at 2:50 PM PDT until September 7, 2023 at 8:18 AM PDT, some users may have encountered a 500 error when attempting to access their app configuration pages. <br />
+<br />
+We determined that a code change inadvertently omitted some recently updated parameters, causing these pages to return errors and preventing customers from accessing or modifying their app configurations.<br />
+<br />
+We implemented an initial fix to rectify the 500 errors for most pages, and then a second fix to address any outstanding issues. With both fixes in place, we restored full access to all app configuration pages.<br />
+<br />
+Note: Due to an internal tooling error, we initially reported the times in this summary in UTC, but labeled with PDT. We have corrected this mistake and apologize for any confusion caused.
+]]></content:encoded>
+<pubDate>Thu, 07 Sep 2023 18:38:58 -0700</pubDate>
+<pubDate>Thu, 07 Sep 2023 18:38:58 -0700</pubDate>
+</item>
+<item>
+<title>Incident: A small number of users are experiencing issues loading Slack.</title>
+<link>https://status.slack.com//2023-09/a6b0cdff3fbe130e</link>
+<guid>https://status.slack.com//2023-09/a6b0cdff3fbe130e</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+From 6:00 PM PST on September 3, 2023 to 12:40 PM PST on September 5, 2023, some users could not launch their Slack desktop apps.<br />
+<br />
+We determined that a code change caused the app to call deleted workspaces for users, resulting in an error and an app loading loop.<br />
+<br />
+Once the root cause was identified, we immediately made an adjustment to the code so that it did not call deleted teams for users, which resulted in the app loading properly once more.
+]]></content:encoded>
+<pubDate>Tue, 05 Sep 2023 15:50:42 -0700</pubDate>
+<pubDate>Tue, 05 Sep 2023 15:50:42 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some customers are unable to switch channels in the web browser.</title>
+<link>https://status.slack.com//2023-09/6bb97b903beac5b6</link>
+<guid>https://status.slack.com//2023-09/6bb97b903beac5b6</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+From 12:24 PM PDT on August 30, 2023 to 12:44 PM PDT on September 5, 2023, some users were unable to switch channels using Slack in the browser.<br />
+<br />
+We determined that the clicking on a channel in the sidebar ended up in a codepath which was requesting focus of the main Slack window. So in any case where the Slack app was opened from another page, the users encountered an issue.<br />
+<br />
+The code change was reverted and a fix was deployed which resolved the issue for all affected users.
+]]></content:encoded>
+<pubDate>Tue, 05 Sep 2023 14:53:09 -0700</pubDate>
+<pubDate>Tue, 05 Sep 2023 14:53:09 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some users in India are having trouble sending DMs.</title>
+<link>https://status.slack.com//2023-09/64d234fca6bc1e06</link>
+<guid>https://status.slack.com//2023-09/64d234fca6bc1e06</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+From 11:00 PM PDT on September 1, 2023 to 01:00 AM PDT on September 2, 2023, some users in India may have had issues with the messaging functionality in Slack.<br />
+<br />
+We determined that the issue was caused by too many requests causing our database to be overwhelmed.<br />
+<br />
+To resolve the issue, we created additional hosts and redistributed the requests which fixed the issue for affected users. <br />
+<br />
+Thank you for your patience while we sorted this out.
+]]></content:encoded>
+<pubDate>Mon, 04 Sep 2023 08:24:43 -0700</pubDate>
+<pubDate>Mon, 04 Sep 2023 08:24:43 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Users are unable to post to the #general channel</title>
+<link>https://status.slack.com//2023-08/414e590c93cb5636</link>
+<guid>https://status.slack.com//2023-08/414e590c93cb5636</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On August 23, 2023 from 4:30 PM PDT to August 31, 2023 11:26 PM PDT, some users experienced an issue posting messages in the designated #general channel of their workspace. <br />
+<br />
+Our team identified that recent changes in our code broke some conditional logic and deprecated the preference that allows users to post in the #general channel.<br />
+<br />
+We pushed out a fix and asked affected users to reload their Slack apps. This combination of steps resolved the issue.
+]]></content:encoded>
+<pubDate>Fri, 01 Sep 2023 11:36:44 -0700</pubDate>
+<pubDate>Fri, 01 Sep 2023 11:36:44 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Issues with workflows and app modals</title>
+<link>https://status.slack.com//2023-08/52eff24d7806f1cf</link>
+<guid>https://status.slack.com//2023-08/52eff24d7806f1cf</guid>
+<content:encoded><![CDATA[
+
+Issue Summary:<br />
+<br />
+From 11:32 PM PDT on August 29, 2023 to 02:06 AM PDT on August 30, 2023, some users may have seen an internal server or connection error in workflow and app modals.<br />
+<br />
+We determined that a code change inadvertently caused an issue where incorrect data was stored in our database. When a modal was opened it used this incorrect data and displayed a connection error to users.<br />
+<br />
+The code change was reverted and a fix was deployed which resolved the issue for all affected users.
+]]></content:encoded>
+<pubDate>Wed, 30 Aug 2023 07:22:50 -0700</pubDate>
+<pubDate>Wed, 30 Aug 2023 07:22:50 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Less than 1% of users may be experiencing slowness when loading Slack</title>
+<link>https://status.slack.com//2023-08/094f489e39b57d9f</link>
+<guid>https://status.slack.com//2023-08/094f489e39b57d9f</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On August 28, 2023 from 4:30 AM PDT to 10:30 AM PDT, less than 1% of Slack users encountered slowness when loading channels, DMs, and threads. Some impacted users were also unable to load the sidebar.<br />
+<br />
+We found that a host that caches workspace member, channel, and integration data was impacted by timeout errors. This prevented users on some workspaces from routing to the host and, in turn, reaching their cached data. <br />
+<br />
+We restarted the affected host, cleared the associated cache for impacted workspaces, and asked affected users to reload their Slack apps. This combination of steps resolved the issue for all users. <br />
+<br />
+We're continuing to investigate what caused the timeout errors to prevent future reoccurrence.
+]]></content:encoded>
+<pubDate>Tue, 29 Aug 2023 09:54:59 -0700</pubDate>
+<pubDate>Tue, 29 Aug 2023 09:54:59 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some users may be missing sidebar sections in Slack</title>
+<link>https://status.slack.com//2023-08/dd4ce480d5ff7e49</link>
+<guid>https://status.slack.com//2023-08/dd4ce480d5ff7e49</guid>
+<content:encoded><![CDATA[
+
+Issue summary: <br />
+On August 24, 2023 between 10:41 AM PDT to 4:10 PM PDT, channel sections were missing from some users' sidebars.<br />
+<br />
+We determined that a recent update in code failed to process an older format of data objects coming from our cache.<br />
+<br />
+While we reverted this change and saw the majority of the issue resolved, this action caused an issue localized to the new data format and some users were still affected. <br />
+<br />
+Once we pushed a fix to normalize and handle all objects in the cache, channel sections were restored for all impacted users.
+]]></content:encoded>
+<pubDate>Fri, 25 Aug 2023 14:31:10 -0700</pubDate>
+<pubDate>Fri, 25 Aug 2023 14:31:10 -0700</pubDate>
+</item>
+<item>
+<title>Incident: Some users may be experiencing issues uploading files.</title>
+<link>https://status.slack.com//2023-08/8fd09ebe40c64df0</link>
+<guid>https://status.slack.com//2023-08/8fd09ebe40c64df0</guid>
+<content:encoded><![CDATA[
+
+Issue summary:<br />
+On August 4, 2023 from 8:04 AM PDT to 11:14 AM PDT, some users were unable to upload files in Slack.<br />
+<br />
+We determined that a recent backend code change was erroneously detecting certain users as deactivated, which in turn was causing these users requests to upload files to be rejected. We reverted this change, which resolved the issue for all affected users.
+]]></content:encoded>
+<pubDate>Fri, 25 Aug 2023 13:32:40 -0700</pubDate>
+<pubDate>Fri, 25 Aug 2023 13:32:40 -0700</pubDate>
+</item>
+
+</channel>
+</rss>

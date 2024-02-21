@@ -1,0 +1,33 @@
+------------------------------------------------------
+Started: 2024-02-21 16:23:56.183651
+Existing_entries: 0
+Fetching from https://status.permutive.com/history.rss
+Token length: 998
+Summarized using GPT-3.5-turbo-1106
+Append: [Delays in S3 Routing (Batch) data sync](https://status.permutive.com/incidents/tvxlxvlnb3bh)
+Append: [Recent insights partially unavailable](https://status.permutive.com/incidents/7vs4drl84v2q)
+Append: [Permutive dashboard outage](https://status.permutive.com/incidents/bp1sfhd3rqpn)
+Append: [Temporary Insights Outage](https://status.permutive.com/incidents/0g7twnskp2y8)
+Append: [Permutive API outage](https://status.permutive.com/incidents/fk5yw7mz0zs6)
+Append: [Permutive Analytics reporting degradation](https://status.permutive.com/incidents/r11ytcm2r2z3)
+Append: [Dashboard unavailable](https://status.permutive.com/incidents/t2hrpjtnmjcw)
+Append: [Insights platform degradation](https://status.permutive.com/incidents/pn7d5bycpb8j)
+Append: [Insights data delay](https://status.permutive.com/incidents/v62k8k06tchw)
+Append: [Google Cloud outage affecting Platform access](https://status.permutive.com/incidents/3wbwbfjwxxdv)
+Append: [Cohort Export Functionality Unavailable](https://status.permutive.com/incidents/qgd0tjnv0h3y)
+Append: [Scheduled Maintenance](https://status.permutive.com/incidents/9q62wb65jvfv)
+Append: [Lookalike Models are not up to date](https://status.permutive.com/incidents/yr2wgwx970ln)
+Append: [Cross device/cross domain segmentation service degradation](https://status.permutive.com/incidents/80c4k0q7v6tp)
+Append: [Google Authentication Services Global Outage](https://status.permutive.com/incidents/64kpt1t6k9wm)
+Append: [Cross Device/Cross Domain Segmentation Performance Issue](https://status.permutive.com/incidents/6pzkt9kzxj8w)
+Append: [Second- and third-party segment names in the segment builder](https://status.permutive.com/incidents/mzgh03c1021y)
+Append: [Dashboard service degradation](https://status.permutive.com/incidents/w1nznhdbkcc4)
+Append: [Scheduled Maintenance](https://status.permutive.com/incidents/1thxw2yv2982)
+Append: [Partial API outage (AMP)](https://status.permutive.com/incidents/fq0b9cx6r07c)
+Append: [Permutive API partial outage](https://status.permutive.com/incidents/btfdq8k9jvdm)
+Append: [Scheduled maintenance](https://status.permutive.com/incidents/xpnvvwjpxd8y)
+Append: [Dashboard temporarily inactive for scheduled maintenance](https://status.permutive.com/incidents/17dxrxy3fw14)
+Append: [[Scheduled] Dashboard temporarily inactive for scheduled maintenance](https://status.permutive.com/incidents/vkm1bqlnwmmr)
+Append: [Permutive API partial outage](https://status.permutive.com/incidents/33lsf7kd1mkb)
+append_entries: 25
+Finish: 2024-02-21 16:23:57.814254

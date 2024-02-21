@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>OpenText Status - Incident History</title>
+<link>https://status.opentext.com</link>
+
+<item>
+<title>Cloud Fax services EMEA System Maintenance scheduled for 16 March 2024</title>
+<link>https://status.opentext.com/incidents/s2m211wk509c</link>
+<guid>https://status.opentext.com/incidents/s2m211wk509c</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - System Maintenance Scheduled <br><br> Summary: On 16 March 2024 from 11:00 UTC to 20:00 UTC, system maintenance will impact Fax2Mail, Production Messaging, and RightFax Connect. Intermittent service interruptions are expected. Disaster/Recovery customers will be rerouted for uninterrupted service, with a brief interruption possible during failover. Tracking number: C2021619. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>11:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:00</var> UTC</small><br /><strong>Scheduled</strong> - On 16 March 2024 from 11:00 UTC to 20:00 UTC a system maintenance has been scheduled that will affect these services:<br /> - Fax2Mail<br /> - Production Messaging<br /> - RightFax Connect<br /><br />Intermittent service interruptions are expected to occur throughout this timeframe.<br /><br />Disaster/Recovery customers capable of being failed over to our alternate site will be rerouted for uninterrupted service. However, there may be a brief interruption when the failover occurs.<br /><br />Tracking number: C2021619</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 11:00:00 +0000</pubDate>
+<pubDate>Sat, 16 Mar 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Network Maintenance scheduled for 10 March 2024</title>
+<link>https://status.opentext.com/incidents/bg44bt9j60hk</link>
+<guid>https://status.opentext.com/incidents/bg44bt9j60hk</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>01:00</var> - <var>09:00</var> UTC</strong></p><p><small>Feb <var>13</var>, <var>14:52</var> UTC</small><br /><strong>Scheduled</strong> - On 10 March 2024, from 01:00 to 09:00 UTC, a network maintenance has been scheduled that will affect these services:<br /> - Fax2Mail<br /> - Production Messaging<br /> - RightFax Connect<br /> - Desktop Messaging BMS<br /> - Production Messaging BMS<br /> - Notifications - Email<br /> - Notifications - SMS<br /> - Notifications - Voice<br /><br />Intermittent service interruptions are expected to occur throughout this timeframe.<br /><br />Tracking number: C2014798</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hightail Maintenance scheduled for 02 March 2024</title>
+<link>https://status.opentext.com/incidents/m2z1117b3tq4</link>
+<guid>https://status.opentext.com/incidents/m2z1117b3tq4</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>03:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>18:29</var> UTC</small><br /><strong>Scheduled</strong> - Hightail will be undergoing maintenance on 02 March 2024 from 03:00 UTC to 07:00 UTC.  The Application notifications will be intermittently unavailable, during this time.<br />Tracking Number: C2023934</p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 03:00:00 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE NA Release deployment- 24.1.1</title>
+<link>https://status.opentext.com/incidents/qc2mjbjcl0hs</link>
+<guid>https://status.opentext.com/incidents/qc2mjbjcl0hs</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>03:00</var> - <var>05:00</var> UTC</strong></p><p><small>Jan <var>23</var>, <var>07:05</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 03:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE EU Release deployment- 24.1.1</title>
+<link>https://status.opentext.com/incidents/jby0r63x9x0m</link>
+<guid>https://status.opentext.com/incidents/jby0r63x9x0m</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>19:00</var> - <var>21:00</var> UTC</strong></p><p><small>Jan <var>23</var>, <var>06:46</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 19:00:00 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE CA Release deployment- 24.1.1</title>
+<link>https://status.opentext.com/incidents/h5dx32ywck8r</link>
+<guid>https://status.opentext.com/incidents/h5dx32ywck8r</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>03:00</var> - <var>05:00</var> UTC</strong></p><p><small>Jan <var>23</var>, <var>06:44</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 03:00:00 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE AU Release deployment- 24.1.1</title>
+<link>https://status.opentext.com/incidents/pv3zvpdz1f1t</link>
+<guid>https://status.opentext.com/incidents/pv3zvpdz1f1t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>15:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>23</var>, <var>06:43</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 15:00:56 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 15:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Alloy North America Hardware Maintenance scheduled for 18 February 2024</title>
+<link>https://status.opentext.com/incidents/cdqbm1ds2fq6</link>
+<guid>https://status.opentext.com/incidents/cdqbm1ds2fq6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>16:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>10:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>21:37</var> UTC</small><br /><strong>Scheduled</strong> - Alloy North America will be undergoing maintenance on 18 February 2024 from 10:00 UTC to 16:00 UTC. Service will be degraded during this timeframe.<br /><br />After the maintenance window, please verify transaction processing and delivery, and resend any missing transactions.<br /><br />Tracking Number: C2011146</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 16:00:56 +0000</pubDate>
+<pubDate>Sun, 18 Feb 2024 16:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Developer Experience US scheduled for 17 Feb 2024</title>
+<link>https://status.opentext.com/incidents/yslzpm80ydcb</link>
+<guid>https://status.opentext.com/incidents/yslzpm80ydcb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>05:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>20:27</var> UTC</small><br /><strong>Scheduled</strong> - Developer Experience US will be undergoing software maintenance on 17 Feb 2024 from 21:00 UTC to 18 Feb 2024 05:00 UTC. Service will be degraded during this timeframe.<br /><br />Tracking Number: C2012288</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 05:00:56 +0000</pubDate>
+<pubDate>Sun, 18 Feb 2024 05:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Lens for Alloy North America is currently experiencing an issue.</title>
+<link>https://status.opentext.com/incidents/7rndkswt7n60</link>
+<guid>https://status.opentext.com/incidents/7rndkswt7n60</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>23:47</var> UTC</small><br /><strong>Resolved</strong> - Lens for Alloy North America was experiencing an issue. Visibility backlogs have been cleared. Current traffic is processing as normal. The issue is now resolved. We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>22:53</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing an issue. Delivery status results are delayed by less than 5 minutes. Teams are assembled and working to resolve the issue.<br /><br />Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>21:20</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing an issue. Delivery status results are delayed by 30-60 minutes. Teams are assembled and working to resolve the issue.<br /><br />Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>19:25</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing an issue. Delivery status results are delayed by 30-60 minutes. Teams are assembled and working to resolve the issue.<br /><br />Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>18:20</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing an issue. Clients may experience delayed visibility to status results via Lens.<br /><br />Teams are assembled and working to resolve the issue.  We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>17:20</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing an issue. Clients may experience delayed visibility to status results via Lens.<br /><br />Teams are currently assembled and working to resolve the issue.  We appreciate your patience. <br /><br />Tracking Number: IM3412926</p><p><small>Feb <var>13</var>, <var>16:19</var> UTC</small><br /><strong>Investigating</strong> - Lens for Alloy North America is currently experiencing an issue. Clients may experience delayed visibility to status results via Lens.<br /><br />Teams are assembled and troubleshooting the issue.  We appreciate your patience. <br /><br />Tracking Number: IM3412926</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 23:47:22 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 23:47:22 +0000</pubDate>
+</item>
+<item>
+<title>Lens for Alloy North America was experiencing a degradation in service.</title>
+<link>https://status.opentext.com/incidents/wssd9c09bcw4</link>
+<guid>https://status.opentext.com/incidents/wssd9c09bcw4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>13:18</var> UTC</small><br /><strong>Resolved</strong> - Lens for Alloy North America was experiencing a degradation in service. The issue is now resolved. We appreciate your patience. <br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>13</var>, <var>10:26</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America was experiencing a degradation in service. Visibility backlogs exist and are currently being processed. Service is restored and backlogs are being processed. The incident will be closed when all backlogs are processed. Updates for this issue will be sent every 3 hours or if there are significant updates, whichever comes first.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>13</var>, <var>07:26</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America was experiencing a degradation in service. Visibility backlogs exist and are currently being processed. Service is restored and backlogs are being processed. The incident will be closed when all backlogs are processed. Updates for this issue will be sent every 3 hours or if there are significant updates, whichever comes first.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>13</var>, <var>04:27</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America was experiencing a degradation in service. Visibility backlogs exist and are currently being processed. Service is restored and backlogs are being processed. The incident will be closed when all backlogs are processed. Updates for this issue will be sent every 3 hours or if there are significant updates, whichever comes first.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>13</var>, <var>01:40</var> UTC</small><br /><strong>Monitoring</strong> - Lens for Alloy North America was experiencing a degradation in service. Visibility backlogs exist and are currently being processed. Service is restored and backlogs are being processed. The incident will be closed when all backlogs are processed. Updates for this issue will be sent every 3 hours or if there are significant updates, whichever comes first.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>23:54</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue. Visibility backlogs exist and are currently being processed. Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>21:51</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue. Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>19:50</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue. Updates for this issue will be sent every 2 hours or if there are significant updates, whichever comes first. We appreciate your patience.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>18:50</var> UTC</small><br /><strong>Update</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue.  We appreciate your patience.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>17:50</var> UTC</small><br /><strong>Identified</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue.  We appreciate your patience.<br /><br />Tracking Number: IM3412236</p><p><small>Feb <var>12</var>, <var>16:53</var> UTC</small><br /><strong>Investigating</strong> - Lens for Alloy North America is currently experiencing a degradation in service. Teams are currently assembled and working to resolve the issue.  We appreciate your patience.<br /><br />Tracking Number: IM3412236</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 13:18:07 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 13:18:07 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive North America was experiencing an issue.</title>
+<link>https://status.opentext.com/incidents/rtv5q2n9vk46</link>
+<guid>https://status.opentext.com/incidents/rtv5q2n9vk46</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>12</var>, <var>21:45</var> UTC</small><br /><strong>Resolved</strong> - Core Archive North America was experiencing an issue. The issue is now resolved. We appreciate your patience.<br /><br />Tracking Number: IM3412352</p><p><small>Feb <var>12</var>, <var>21:30</var> UTC</small><br /><strong>Update</strong> - Core Archive North America was experiencing an issue. The fix has been applied and teams are monitoring the situation. We appreciate your patience.<br /><br />Tracking Number: IM3412352</p><p><small>Feb <var>12</var>, <var>20:20</var> UTC</small><br /><strong>Update</strong> - Core Archive North America was experiencing an issue. The fix has been applied and teams are monitoring the situation. We appreciate your patience.<br /><br />Tracking Number: IM3412352</p><p><small>Feb <var>12</var>, <var>20:19</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>12</var>, <var>19:57</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>12</var>, <var>19:40</var> UTC</small><br /><strong>Investigating</strong> - Core Archive North America is currently experiencing an issue . Teams are currently assembled and working to resolve the issue.  We appreciate your patience. <br />Tracking Number: IM3412352</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 21:45:31 +0000</pubDate>
+<pubDate>Mon, 12 Feb 2024 21:45:31 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Europe Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/8z0lkxpcccyh</link>
+<guid>https://status.opentext.com/incidents/8z0lkxpcccyh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>12</var>, <var>00:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>16:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:18</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />AM2: archive.emea.opentext.com - 16:00 to 20:00 GMT<br />AM3: archive.opentext.eu - 20:00 to 00:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:51</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />AM2: archive.emea.opentext.com - 16:00 to 20:00 GMT<br />AM3: archive.opentext.eu - 20:00 to 00:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 00:00:56 +0000</pubDate>
+<pubDate>Mon, 12 Feb 2024 00:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive India Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/h9660yd5frgs</link>
+<guid>https://status.opentext.com/incidents/h9660yd5frgs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>11</var>, <var>18:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>16:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:19</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:53</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 18:30:58 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 18:30:58 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Europe (archive.de.opentext.cloud) Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/khpy3l8fvgtr</link>
+<guid>https://status.opentext.com/incidents/khpy3l8fvgtr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>11</var>, <var>16:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>14:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:17</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 16:00:56 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 16:00:56 +0000</pubDate>
+</item>
+<item>
+<title>System Maintenance scheduled for 11 February 2024</title>
+<link>https://status.opentext.com/incidents/ptv4jxfg9f9q</link>
+<guid>https://status.opentext.com/incidents/ptv4jxfg9f9q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>11</var>, <var>13:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>12</var>, <var>11:20</var> UTC</small><br /><strong>Scheduled</strong> - On 11 February 2024 from 01:00 UTC to 13:00 UTC a system maintenance has been scheduled that will affect these services:<br /><br />- Notifications - Email<br />- Notifications - SMS<br />- Fax2Mail<br />- Production Messaging<br />- RightFax Connect<br />- Notifications - Voice<br />- Desktop Messaging BMS<br />- Production Messaging BMS<br /><br />Intermittent service interruptions are expected to occur throughout this timeframe.<br /><br />Tracking number: C2008499</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 13:00:56 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 13:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Canada (archive.ca.opentext.cloud) Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/cmjyy71mbpl4</link>
+<guid>https://status.opentext.com/incidents/cmjyy71mbpl4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>11</var>, <var>07:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:17</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:48</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Jan 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Jan 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Jan 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 07:00:58 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 07:00:58 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive North America &amp; GCP-US Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/0l2hpfr7yynr</link>
+<guid>https://status.opentext.com/incidents/0l2hpfr7yynr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>11</var>, <var>07:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>01:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:16</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />GCP-US (archive.us.opentext.cloud) - 01:00 to 03:00 GMT<br />NA (archive.na.opentext.com)  - 03:00 to 07:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:46</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />GCP-US (archive.us.opentext.cloud) - 01:00 to 03:00 GMT<br />NA (archive.na.opentext.com)  - 03:00 to 07:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Feb 2024 07:00:57 +0000</pubDate>
+<pubDate>Sun, 11 Feb 2024 07:00:57 +0000</pubDate>
+</item>
+<item>
+<title>Core Capture North America &amp; Europe Export functionality failure</title>
+<link>https://status.opentext.com/incidents/075y1lk57fy2</link>
+<guid>https://status.opentext.com/incidents/075y1lk57fy2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>16:06</var> UTC</small><br /><strong>Resolved</strong> - This issue is considered resolved. If you have any questions, please reach out to us using the established communication channels.</p><p><small>Feb <var> 9</var>, <var>01:52</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are currently monitoring the situation.<br /><br />This issue started at:<br />- 05:20 GMT on February 8, 2024 for North America<br />- 17:45 GMT on February 8, 2024 for Europe<br /><br />This issue ended at:<br />- 01:30 GMT on February 9, 2024 for North America<br />- 01:30 GMT on February 9, 2024 for Europe</p><p><small>Feb <var> 9</var>, <var>00:09</var> UTC</small><br /><strong>Identified</strong> - We have been alerted of the possibility of export failures for customers that include an export filter.  This  depends on the DocType for the document, even if the Submit step reports that the export was successful. If you suspect your export may use such a filter, or if you do not know, please verify that documents were actually exported into your repository. We're working to address the issue as soon as possible.<br /><br />This issue started at:<br />- 05:20 GMT on February 8, 2024 for North America<br />- 17:45 GMT on February 8, 2024 for Europe</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 16:06:34 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 16:06:34 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Japan Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/yb7wj8nx6h91</link>
+<guid>https://status.opentext.com/incidents/yb7wj8nx6h91</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>15:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>13:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:02</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:40</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 15:30:56 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 15:30:56 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive UAE Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/syy8f49m3wyk</link>
+<guid>https://status.opentext.com/incidents/syy8f49m3wyk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>13:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>11:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:01</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:43</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Jan 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Jan 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Jan 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 13:00:56 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 13:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Australia Regular Software Update - 24.1.1</title>
+<link>https://status.opentext.com/incidents/63r8k1nbpqqt</link>
+<guid>https://status.opentext.com/incidents/63r8k1nbpqqt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>20:01</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p><p><small>Feb <var> 2</var>, <var>16:38</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - Feb 6, 2024 - 11:00 to 15:00 GMT<br />EMEA (AM3) Pre-Prod - Feb 6, 2024 - 13:00 to 17:00 GMT<br />APAC (Syd) Pre-Prod   - Feb 6, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 11:00:56 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 11:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Hightail Maintenance scheduled for 8 February 2024</title>
+<link>https://status.opentext.com/incidents/dhcmbh3smgr1</link>
+<guid>https://status.opentext.com/incidents/dhcmbh3smgr1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 8</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 7</var>, <var>19:34</var> UTC</small><br /><strong>Scheduled</strong> - Hightail will be undergoing maintenance on 8 February 2024 from 22:00 UTC to 9 February 2024 02:00 UTC.  We do not expect any outage, but the Application may be intermittently unavailable, during this time.<br />Tracking Number: C2019766</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 02:00:56 +0000</pubDate>
+<pubDate>Fri, 09 Feb 2024 02:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Cloud Fax services EMEA Network Maintenance scheduled for 05 February 2024</title>
+<link>https://status.opentext.com/incidents/01zyd476530n</link>
+<guid>https://status.opentext.com/incidents/01zyd476530n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 5</var>, <var>23:59</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 5</var>, <var>15:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>19</var>, <var>16:00</var> UTC</small><br /><strong>Scheduled</strong> - XM Fax EU and XM SendSecure EU will be undergoing maintenance on 05 February 2024 from 15:00 UTC to 23:59 UTC. <br /><br />No service interruption is anticipated during this timeframe. In the unlikely event that you experience a connectivity issue or degradation of service, you may contact your support service desk team.<br /><br />Tracking Number: C2008347</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 23:59:06 +0000</pubDate>
+<pubDate>Mon, 05 Feb 2024 23:59:06 +0000</pubDate>
+</item>
+<item>
+<title>XM Fax NA and XM SendSecure NA Urgent Maintenance scheduled for 03 February 2024</title>
+<link>https://status.opentext.com/incidents/hllp3gj2m82q</link>
+<guid>https://status.opentext.com/incidents/hllp3gj2m82q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 3</var>, <var>19:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>13:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>21:30</var> UTC</small><br /><strong>Scheduled</strong> - XM Fax NA and XM SendSecure NA will be undergoing maintenance on 03 February 2024 from 13:00 UTC to 19:00 UTC. <br /><br />No service interruption is anticipated during this timeframe. In the unlikely event that you experience a connectivity issue or degradation of service, you may contact your support service desk team.<br /><br />Tracking Number: C2017969</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 19:00:59 +0000</pubDate>
+<pubDate>Sat, 03 Feb 2024 19:00:59 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

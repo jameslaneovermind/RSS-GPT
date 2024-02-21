@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Greenphire Status - Incident History</title>
+<link>https://status.greenphire.com</link>
+
+<item>
+<title>ClinCard March 2024 Production Feature Release</title>
+<link>https://status.greenphire.com/incidents/kzdt7gbpr7jz</link>
+<guid>https://status.greenphire.com/incidents/kzdt7gbpr7jz</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - March 2024 Production Environment Release<br><br>Summary: Greenphire will be applying the March 2024 release in the Production environment on March 1, 2024. Systems may be briefly inaccessible during this time. Release notes are available at clincard.com. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>17:00</var> - <var>17:15</var> EST</strong></p><p><small>Feb <var>16</var>, <var>11:49</var> EST</small><br /><strong>Scheduled</strong> - On March 1, 2024 Greenphire will apply the March 2024 release in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes for this release can be found in our Knowledge Center at clincard.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 17:00:00 -0500</pubDate>
+<pubDate>Fri, 01 Mar 2024 17:00:00 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard Payment Service Degradation</title>
+<link>https://status.greenphire.com/incidents/fj0v29r18g00</link>
+<guid>https://status.greenphire.com/incidents/fj0v29r18g00</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>10:33</var> EST</small><br /><strong>Resolved</strong> - Greenphire has confirmed all delayed payments are now posted.   Thank you again for your patience with this issue.</p><p><small>Feb <var>21</var>, <var>09:36</var> EST</small><br /><strong>Monitoring</strong> - The Payment Service degradation has been resolved and our teams are actively monitoring the issue to ensure payments are correctly posted.</p><p><small>Feb <var>21</var>, <var>09:21</var> EST</small><br /><strong>Investigating</strong> - ClinCard is currently experiencing a delay posting payments to some cards.  Our teams are working to isolate and correct the issue as soon as possible.   We thank you for your patience and apologize for any inconvenience this has caused.  Please monitor our Status Page for updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:33:19 -0500</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:33:19 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS March 2024 UAT Feature Release</title>
+<link>https://status.greenphire.com/incidents/lg9hpnhlvbcl</link>
+<guid>https://status.greenphire.com/incidents/lg9hpnhlvbcl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>16</var>, <var>12:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>13:41</var> EST</small><br /><strong>Scheduled</strong> - On February 16th, 2024 Greenphire will apply the March 2024 release in our UAT environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes for this release can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 12:00:56 -0500</pubDate>
+<pubDate>Fri, 16 Feb 2024 12:00:56 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/w98t2kd693ss</link>
+<guid>https://status.greenphire.com/incidents/w98t2kd693ss</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>21:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>21:01</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>11:47</var> EST</small><br /><strong>Scheduled</strong> - On February 14, 2024 Greenphire will be performing emergency security updates on the firewall between the hours of 09:00 PM and 09:30 PM ET.  During this time Greenphire systems should stay online however, there is a possibility of a momentary interruption as planned failover to redundant devices occurs.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 21:30:00 -0500</pubDate>
+<pubDate>Wed, 14 Feb 2024 21:30:00 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/xc3ncx81tz5z</link>
+<guid>https://status.greenphire.com/incidents/xc3ncx81tz5z</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>14</var>, <var>21:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>21:01</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>11:40</var> EST</small><br /><strong>Scheduled</strong> - On February 14, 2024 Greenphire will be performing emergency security updates on the firewall between the hours of 09:00 PM and 09:30 PM ET.  During this time Greenphire systems should stay online however, there is a possibility of a momentary interruption as planned failover to redundant devices occurs.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 21:30:00 -0500</pubDate>
+<pubDate>Wed, 14 Feb 2024 21:30:00 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/3nlyqqwr521y</link>
+<guid>https://status.greenphire.com/incidents/3nlyqqwr521y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>10</var>, <var>00:01</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>21:01</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>26</var>, <var>07:39</var> EST</small><br /><strong>Scheduled</strong> - On February 9, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 09:00 PM and 12:00 AM ET.  During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
+]]></content:encoded>
+<pubDate>Sat, 10 Feb 2024 00:01:14 -0500</pubDate>
+<pubDate>Sat, 10 Feb 2024 00:01:14 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/yzmsgldfpqyd</link>
+<guid>https://status.greenphire.com/incidents/yzmsgldfpqyd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>10</var>, <var>00:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>21:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>10:50</var> EST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 9</var>, <var>10:46</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>10:46</var> EST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 9</var>, <var>10:39</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>10:39</var> EST</small><br /><strong>Scheduled</strong> - Please disregard the alert posted previously that maintenance had begun on Greenphire systems.  Maintenance is scheduled to begin at 9:00 PM EST, and systems are fully operational at this time.  We apologize for any confusion.</p><p><small>Feb <var> 9</var>, <var>09:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>26</var>, <var>07:39</var> EST</small><br /><strong>Scheduled</strong> - On February 9, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 09:00 PM and 12:00 AM ET.  During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
+]]></content:encoded>
+<pubDate>Sat, 10 Feb 2024 00:00:56 -0500</pubDate>
+<pubDate>Sat, 10 Feb 2024 00:00:56 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/2tdxxfjlh5nw</link>
+<guid>https://status.greenphire.com/incidents/2tdxxfjlh5nw</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>12:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>08:57</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 12:00:56 -0500</pubDate>
+<pubDate>Fri, 09 Feb 2024 12:00:56 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/7fhvmy6pm0w9</link>
+<guid>https://status.greenphire.com/incidents/7fhvmy6pm0w9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 5</var>, <var>12:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 5</var>, <var>11:02</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>10:10</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 12:00:27 -0500</pubDate>
+<pubDate>Mon, 05 Feb 2024 12:00:27 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard SMS Messaging Service Degradation</title>
+<link>https://status.greenphire.com/incidents/qht8gnvr1m54</link>
+<guid>https://status.greenphire.com/incidents/qht8gnvr1m54</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 3</var>, <var>10:14</var> EST</small><br /><strong>Resolved</strong> - We have confirmed full SMS messaging functionality has been restored and the system is performing normally.</p><p><small>Feb <var> 2</var>, <var>23:03</var> EST</small><br /><strong>Monitoring</strong> - The cause of the performance degradation of the SMS Messaging Service has been identified, and a fix has been applied.  Our teams have confirmed an immediate improvement in the outflow of SMS messages, and will continue to monitor our systems to ensure full recovery of functionality.</p><p><small>Feb <var> 2</var>, <var>14:49</var> EST</small><br /><strong>Investigating</strong> - ClinCard is experiencing a performance degradation with our SMS Messaging Service and some SMS messages may be delayed or missed.  Our teams are working to isolate and correct the issue as soon as possible.   We thank you for your patience and apologize for any inconvenience this has caused.  Please continue to monitor our Status Page for updates.</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 10:14:51 -0500</pubDate>
+<pubDate>Sat, 03 Feb 2024 10:14:51 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Inaccurate User Reporting</title>
+<link>https://status.greenphire.com/incidents/r10hbtrc8zgm</link>
+<guid>https://status.greenphire.com/incidents/r10hbtrc8zgm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>22:14</var> EST</small><br /><strong>Resolved</strong> - Greenphire has confirmed this issue has been resolved for all user reporting.</p><p><small>Feb <var> 2</var>, <var>16:56</var> EST</small><br /><strong>Monitoring</strong> - Greenphire has identied the root cause of the issue and has corrected the reporting information for existing users.   A lag may temporarily exist for newly created users to appear in reporting.</p><p><small>Feb <var> 2</var>, <var>13:56</var> EST</small><br /><strong>Investigating</strong> - Greenphire is investigating an issue that may impact the accuracy of user information in some eClinicalGPS reports.  This issue is isolated to reporting only and does not affect user access or permissions as defined in the application.  Our teams are working to isolate and correct the issue as soon as possible.   We thank you for your patience and apologize for any inconvience this has caused.  Please continue to monitor our Status Page for updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Feb 2024 22:14:44 -0500</pubDate>
+<pubDate>Fri, 02 Feb 2024 22:14:44 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/s2y3mrtphhzs</link>
+<guid>https://status.greenphire.com/incidents/s2y3mrtphhzs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 2</var>, <var>12:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 2</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>09:32</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Fri, 02 Feb 2024 12:00:36 -0500</pubDate>
+<pubDate>Fri, 02 Feb 2024 12:00:36 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS Production</title>
+<link>https://status.greenphire.com/incidents/h3fsmt7z8rj3</link>
+<guid>https://status.greenphire.com/incidents/h3fsmt7z8rj3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>26</var>, <var>22:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>26</var>, <var>21:31</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>26</var>, <var>08:49</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 22:30:44 -0500</pubDate>
+<pubDate>Fri, 26 Jan 2024 22:30:44 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS 2024.02.00 UAT Feature Release</title>
+<link>https://status.greenphire.com/incidents/8swksj9tjxn8</link>
+<guid>https://status.greenphire.com/incidents/8swksj9tjxn8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>26</var>, <var>12:01</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>26</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>26</var>, <var>08:48</var> EST</small><br /><strong>Scheduled</strong> - On January 26, 2024, Greenphire will apply the 2024.02.00 release in our UAT environment. During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 Jan 2024 12:01:26 -0500</pubDate>
+<pubDate>Fri, 26 Jan 2024 12:01:26 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Production Feature Release</title>
+<link>https://status.greenphire.com/incidents/0rvp2j1b51xk</link>
+<guid>https://status.greenphire.com/incidents/0rvp2j1b51xk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>19</var>, <var>22:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>21:31</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>19</var>, <var>09:15</var> EST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Jan <var>19</var>, <var>09:15</var> EST</small><br /><strong>Scheduled</strong> - On January 19, 2024, Greenphire will apply the 2024.01.02 release in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 22:30:12 -0500</pubDate>
+<pubDate>Fri, 19 Jan 2024 22:30:12 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS UAT Feature Release</title>
+<link>https://status.greenphire.com/incidents/5x4qjvbrc066</link>
+<guid>https://status.greenphire.com/incidents/5x4qjvbrc066</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>19</var>, <var>12:01</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>19</var>, <var>09:17</var> EST</small><br /><strong>Scheduled</strong> - On January 19, 2024, Greenphire will apply the 2024.01.02 release in our UAT environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 12:01:50 -0500</pubDate>
+<pubDate>Fri, 19 Jan 2024 12:01:50 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/7bywd9b040nk</link>
+<guid>https://status.greenphire.com/incidents/7bywd9b040nk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>13</var>, <var>00:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>12</var>, <var>21:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>29</var>, <var>10:17</var> EST</small><br /><strong>Scheduled</strong> - On January 12, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 9:00 PM and 12:00 AM ET.  During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
+]]></content:encoded>
+<pubDate>Sat, 13 Jan 2024 00:00:28 -0500</pubDate>
+<pubDate>Sat, 13 Jan 2024 00:00:28 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard Production System Maintenance</title>
+<link>https://status.greenphire.com/incidents/k51pwwx4psmg</link>
+<guid>https://status.greenphire.com/incidents/k51pwwx4psmg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>13</var>, <var>00:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>12</var>, <var>21:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>29</var>, <var>10:16</var> EST</small><br /><strong>Scheduled</strong> - On January 12, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 9:00 PM and 12:00 AM ET.  During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
+]]></content:encoded>
+<pubDate>Sat, 13 Jan 2024 00:00:09 -0500</pubDate>
+<pubDate>Sat, 13 Jan 2024 00:00:09 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS Production</title>
+<link>https://status.greenphire.com/incidents/skx7hbm72j9j</link>
+<guid>https://status.greenphire.com/incidents/skx7hbm72j9j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>10</var>, <var>22:40</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>10</var>, <var>21:40</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>21:38</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 22:40:11 -0500</pubDate>
+<pubDate>Wed, 10 Jan 2024 22:40:11 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/679z10zz6t6c</link>
+<guid>https://status.greenphire.com/incidents/679z10zz6t6c</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>10</var>, <var>22:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>10</var>, <var>21:30</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 9</var>, <var>16:33</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 22:30:21 -0500</pubDate>
+<pubDate>Wed, 10 Jan 2024 22:30:21 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS Production</title>
+<link>https://status.greenphire.com/incidents/gyt47b3g9hmx</link>
+<guid>https://status.greenphire.com/incidents/gyt47b3g9hmx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 9</var>, <var>22:31</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 9</var>, <var>21:32</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>21:30</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 22:31:19 -0500</pubDate>
+<pubDate>Tue, 09 Jan 2024 22:31:19 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS Service Degradation</title>
+<link>https://status.greenphire.com/incidents/65sx1vvwtrjf</link>
+<guid>https://status.greenphire.com/incidents/65sx1vvwtrjf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>17:29</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>17:12</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 8</var>, <var>14:08</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 8</var>, <var>10:33</var> EST</small><br /><strong>Investigating</strong> - eClincalGPS is currently experiencing a performance degradation preventing the validation of invoices due to currency localization for currency with a comma at the decimal.  Our teams are working to isolate and correct the issue as soon as possible.   We thank you for your patience and apologize for any inconvenience this has caused.  Please monitor our Status Page for updates.</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 17:29:57 -0500</pubDate>
+<pubDate>Mon, 08 Jan 2024 17:29:57 -0500</pubDate>
+</item>
+<item>
+<title>eClinicalGPS January 2024 Production Feature Release</title>
+<link>https://status.greenphire.com/incidents/mj6jrcty4r3x</link>
+<guid>https://status.greenphire.com/incidents/mj6jrcty4r3x</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 6</var>, <var>00:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 5</var>, <var>21:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>22</var>, <var>12:45</var> EST</small><br /><strong>Scheduled</strong> - On January 5th, 2024, Greenphire will apply the January 2024 release in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes for this release can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Sat, 06 Jan 2024 00:00:08 -0500</pubDate>
+<pubDate>Sat, 06 Jan 2024 00:00:08 -0500</pubDate>
+</item>
+<item>
+<title>ClinCard January 2024 Production Feature Release</title>
+<link>https://status.greenphire.com/incidents/gzxq7bb1h80l</link>
+<guid>https://status.greenphire.com/incidents/gzxq7bb1h80l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 5</var>, <var>17:15</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 5</var>, <var>17:01</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>22</var>, <var>12:05</var> EST</small><br /><strong>Scheduled</strong> - On January 5th, 2024, Greenphire will apply the January 2024 release in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes for this release can be found in our Knowledge Center at clincard.com. This update includes the following changes:<br />     > Participant Choice Payment Processor<br />     > Participant KYC Verification Status Visibility</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jan 2024 17:15:10 -0500</pubDate>
+<pubDate>Fri, 05 Jan 2024 17:15:10 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/dd98y4zdj9ss</link>
+<guid>https://status.greenphire.com/incidents/dd98y4zdj9ss</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 5</var>, <var>12:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 5</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>09:41</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jan 2024 12:00:15 -0500</pubDate>
+<pubDate>Fri, 05 Jan 2024 12:00:15 -0500</pubDate>
+</item>
+
+</channel>
+</rss>

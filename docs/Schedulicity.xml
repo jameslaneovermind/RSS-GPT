@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Schedulicity Status - Incident History</title>
+<link>https://status.schedulicity.com</link>
+
+<item>
+<title>Schedulicity Service Disruption</title>
+<link>https://status.schedulicity.com/incidents/58fb3m6lphqj</link>
+<guid>https://status.schedulicity.com/incidents/58fb3m6lphqj</guid>
+<content:encoded><![CDATA[
+<div> High - Service Disruption <br><br> Summary: Users may experience missing content or be unable to load the site completely. The development team is actively working on a solution, and a fix has been deployed to restore performance for most users. Additional updates will be provided as the situation progresses. <div>
+<p><small>Feb <var>15</var>, <var>09:13</var> MST</small><br /><strong>Resolved</strong> - Performance has remained stable, this issue has been resolved.  If you are still missing content we recommend you try refreshing your page or clearing browser cache. Instructions for doing so can be found here: https://support.schedulicity.com/en/articles/2060782-how-do-i-clear-my-cache-cookies-on-my-device. Apologizes for the disruption this may have caused.</p><p><small>Feb <var>14</var>, <var>14:43</var> MST</small><br /><strong>Monitoring</strong> - The team has deployed a fix and we are seeing restored performance for most users. We recommend users who are continuing to experience missing content refresh their page or clear their browser cache. Instructions for doing so can be found here: https://support.schedulicity.com/en/articles/2060782-how-do-i-clear-my-cache-cookies-on-my-device . The development team will continue monitoring closely.</p><p><small>Feb <var>14</var>, <var>13:34</var> MST</small><br /><strong>Update</strong> - The service disruption is ongoing. Our team is actively working toward a mitigating solution to restore access while the root cause is investigated. We will send an additional update when appropriate.</p><p><small>Feb <var>14</var>, <var>12:27</var> MST</small><br /><strong>Investigating</strong> - We’re currently experiencing a service disruption. Some users may be unable to load the site completely resulting in a white page / missing content. Our team is working to identify the root cause and implement a solution. All users may be affected. We will send an additional update when appropriate.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 09:13:42 -0700</pubDate>
+<pubDate>Thu, 15 Feb 2024 09:13:42 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/cq7ymk67tzz0</link>
+<guid>https://status.schedulicity.com/incidents/cq7ymk67tzz0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>21</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>17</var>, <var>10:09</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 21 Jan 2024 02:00:25 -0700</pubDate>
+<pubDate>Sun, 21 Jan 2024 02:00:25 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/0hb15zksnwgr</link>
+<guid>https://status.schedulicity.com/incidents/0hb15zksnwgr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>17</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>16</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>11</var>, <var>10:09</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Dec 2023 02:00:15 -0700</pubDate>
+<pubDate>Sun, 17 Dec 2023 02:00:15 -0700</pubDate>
+</item>
+<item>
+<title>Schedulicity Degraded Performance</title>
+<link>https://status.schedulicity.com/incidents/4y2s4c6119wk</link>
+<guid>https://status.schedulicity.com/incidents/4y2s4c6119wk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>29</var>, <var>16:40</var> MST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>15:41</var> MST</small><br /><strong>Monitoring</strong> - A fix has been implemented and site performance is back to normal. We apologize for the interruption and the inconvenience this may have caused. We will continue to monitor our performance to ensure it remains stable.</p><p><small>Nov <var>29</var>, <var>14:50</var> MST</small><br /><strong>Update</strong> - We are continuing to work on a fix to get our site's performance back to normal as soon as possible.</p><p><small>Nov <var>29</var>, <var>14:11</var> MST</small><br /><strong>Identified</strong> - We have identified an issue affecting the site's performance. We are working on a fix and will keep everyone updated.</p>
+]]></content:encoded>
+<pubDate>Wed, 29 Nov 2023 16:40:33 -0700</pubDate>
+<pubDate>Wed, 29 Nov 2023 16:40:33 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/fqs12w6tdc15</link>
+<guid>https://status.schedulicity.com/incidents/fqs12w6tdc15</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>19</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>18</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>16</var>, <var>08:57</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 19 Nov 2023 02:00:25 -0700</pubDate>
+<pubDate>Sun, 19 Nov 2023 02:00:25 -0700</pubDate>
+</item>
+<item>
+<title>Issue with Third Party Service</title>
+<link>https://status.schedulicity.com/incidents/smxb33z2lxmg</link>
+<guid>https://status.schedulicity.com/incidents/smxb33z2lxmg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>10</var>, <var>17:58</var> MST</small><br /><strong>Resolved</strong> - Our upstream payment provider, Clearent, has marked the issue as resolved.</p><p><small>Nov <var>10</var>, <var>16:29</var> MST</small><br /><strong>Monitoring</strong> - Our upstream provider, Clearent, has implemented a fix and is now monitoring the issue. All functionality has been restored. We will continue to keep an eye on performance to ensure it remains stable but client side bookings and accessing/using stored cards on file should now be working.</p><p><small>Nov <var>10</var>, <var>13:38</var> MST</small><br /><strong>Update</strong> - Our upstream provider, Clearent, is still investigating the issue. At this time it appears isolated to accessing stored credit cards or trying to store a card. <br /><br />While they continue to investigate, your clients will not be able to book online if you have credit card requirements.  Stored credit cards will not be visible from client profiles, and using a stored credit card or trying to store a credit card from checkout will not work. These functions will all be restored once they have a fix in place. <br /><br />In the meantime, you should be able to checkout a client by entering a credit card during checkout, make sure you do not check the ''save card'' option. <br /><br />We are continuing to monitor the situation here https://status.clearent.net/incidents/558zrbxjbprg and will provide updates.</p><p><small>Nov <var>10</var>, <var>11:52</var> MST</small><br /><strong>Identified</strong> - Our upstream provider, Clearent, is currently experiencing an issue which is affecting checkout and/or stored cards. Clearent is investigating the issue. You can stay in touch with the status of their investigation here: https://status.clearent.net/incidents/558zrbxjbprg<br /><br />We are following along closely and will resolve this incident once Clearent has a fix in place.</p>
+]]></content:encoded>
+<pubDate>Fri, 10 Nov 2023 17:58:04 -0700</pubDate>
+<pubDate>Fri, 10 Nov 2023 17:58:04 -0700</pubDate>
+</item>
+<item>
+<title>Schedulicity Service Disruption - iOS Business Application</title>
+<link>https://status.schedulicity.com/incidents/lnxt63yrym4g</link>
+<guid>https://status.schedulicity.com/incidents/lnxt63yrym4g</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>25</var>, <var>13:52</var> MDT</small><br /><strong>Resolved</strong> - The underlying issue with the iOS Business Application has been resolved.  Thank you for your understanding and patience during this incident, we appreciate you and understand the impact these disruptions have to your business.</p><p><small>Oct <var>25</var>, <var>13:17</var> MDT</small><br /><strong>Update</strong> - Our Engineering Team has deployed a fix that resolves the underlying API service issue, which caused the iOS Business Application to enter a non-usable state for most users. Users should now see a working iOS Business Application. We’re monitoring to ensure continued functionality. We will provide one final update once the fix has been in place for at least 30 minutes.</p><p><small>Oct <var>25</var>, <var>12:49</var> MDT</small><br /><strong>Monitoring</strong> - Our Engineering Teams are deploying a bug fix to our API service right now, we expect the issue to be resolved when the deployment is completed.  We will keep the status in Monitoring until we are able to confirm that the fix has indeed resolved the underlying issue.</p><p><small>Oct <var>25</var>, <var>10:57</var> MDT</small><br /><strong>Update</strong> - Our Engineering Teams have determined the underlying cause of the bug and are working on a bug fix right now.  We are on track to deploy a hotfix before end of the business day.  More updates will be provided where possible.</p><p><small>Oct <var>25</var>, <var>10:16</var> MDT</small><br /><strong>Identified</strong> - Our Quality Assurance Teams have determined that an update to our API service today caused a critical bug on our iOS Business Application. All iOS Business Application users may be affected. We’re working to resolve right now.  Updates will be provided when possible.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Oct 2023 13:52:00 -0600</pubDate>
+<pubDate>Wed, 25 Oct 2023 13:52:00 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/6shzs3sczv6h</link>
+<guid>https://status.schedulicity.com/incidents/6shzs3sczv6h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>22</var>, <var>02:00</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>21</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>19</var>, <var>09:07</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 22 Oct 2023 02:00:25 -0600</pubDate>
+<pubDate>Sun, 22 Oct 2023 02:00:25 -0600</pubDate>
+</item>
+<item>
+<title>Degraded Performance</title>
+<link>https://status.schedulicity.com/incidents/5lvb6tr638mj</link>
+<guid>https://status.schedulicity.com/incidents/5lvb6tr638mj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>11</var>, <var>09:32</var> MDT</small><br /><strong>Resolved</strong> - This issue has been resolved. Monitoring will continue ongoing.</p><p><small>Oct <var>11</var>, <var>09:32</var> MDT</small><br /><strong>Update</strong> - This issue has been resolved. Monitoring will continue ongoing.</p><p><small>Oct <var>11</var>, <var>09:22</var> MDT</small><br /><strong>Monitoring</strong> - The solution is in place and monitoring shows performance returning to normal. The development team will continue monitoring closely.</p><p><small>Oct <var>11</var>, <var>09:18</var> MDT</small><br /><strong>Update</strong> - The development team has located a potential cause and is working to implement a solution.</p><p><small>Oct <var>11</var>, <var>09:12</var> MDT</small><br /><strong>Investigating</strong> - We are currently experiencing degraded performance throughout the Schedulicity application. We're investigating the cause and will post an update shortly.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Oct 2023 09:32:42 -0600</pubDate>
+<pubDate>Wed, 11 Oct 2023 09:32:42 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/980rxy0pf7sn</link>
+<guid>https://status.schedulicity.com/incidents/980rxy0pf7sn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>24</var>, <var>02:01</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>23</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>18</var>, <var>09:14</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 24 Sep 2023 02:01:08 -0600</pubDate>
+<pubDate>Sun, 24 Sep 2023 02:01:08 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/012txz8yq5jn</link>
+<guid>https://status.schedulicity.com/incidents/012txz8yq5jn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>20</var>, <var>02:00</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>19</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>17</var>, <var>07:27</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 20 Aug 2023 02:00:15 -0600</pubDate>
+<pubDate>Sun, 20 Aug 2023 02:00:15 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/x87s8bmkf69z</link>
+<guid>https://status.schedulicity.com/incidents/x87s8bmkf69z</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>25</var>, <var>02:02</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>24</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>24</var>, <var>21:32</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Jun 2023 02:02:18 -0600</pubDate>
+<pubDate>Sun, 25 Jun 2023 02:02:18 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/mh2f3jqndpxg</link>
+<guid>https://status.schedulicity.com/incidents/mh2f3jqndpxg</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>21</var>, <var>02:02</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>20</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>16</var>, <var>07:58</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 21 May 2023 02:02:09 -0600</pubDate>
+<pubDate>Sun, 21 May 2023 02:02:09 -0600</pubDate>
+</item>
+<item>
+<title>Schedulicity Intermittent Degraded Performance</title>
+<link>https://status.schedulicity.com/incidents/nlxyyzsdnwkv</link>
+<guid>https://status.schedulicity.com/incidents/nlxyyzsdnwkv</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>10</var>, <var>12:01</var> MDT</small><br /><strong>Resolved</strong> - Our monitoring has confirmed the issue was successfully resolved.</p><p><small>May <var>10</var>, <var>11:04</var> MDT</small><br /><strong>Monitoring</strong> - The process our engineers addressed has been running normally and since then our monitoring has detected no major slowness. Our production team will continue monitoring closely.</p><p><small>May <var>10</var>, <var>10:51</var> MDT</small><br /><strong>Identified</strong> - Our engineering team discovered a slow running process causing periods of slowness for most users. The engineering team has addressed this process and it appears to have resolved the issue. Our production team is continuing to watch the service closely.</p><p><small>May <var>10</var>, <var>10:37</var> MDT</small><br /><strong>Investigating</strong> - We’re currently experiencing intermittent slow-loading throughout Schedulicity. Our team is working to identify the root cause and implement a solution. We will send an additional update in 20 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 May 2023 12:01:08 -0600</pubDate>
+<pubDate>Wed, 10 May 2023 12:01:08 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/v3jf9l6nywsq</link>
+<guid>https://status.schedulicity.com/incidents/v3jf9l6nywsq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>23</var>, <var>02:00</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>22</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>19</var>, <var>10:55</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 23 Apr 2023 02:00:22 -0600</pubDate>
+<pubDate>Sun, 23 Apr 2023 02:00:22 -0600</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/ttsv9jtsqd3v</link>
+<guid>https://status.schedulicity.com/incidents/ttsv9jtsqd3v</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>26</var>, <var>02:00</var> MDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Mar <var>25</var>, <var>22:00</var> MDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>21</var>, <var>09:26</var> MDT</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 26 Mar 2023 02:00:23 -0600</pubDate>
+<pubDate>Sun, 26 Mar 2023 02:00:23 -0600</pubDate>
+</item>
+<item>
+<title>Degraded Messaging Service</title>
+<link>https://status.schedulicity.com/incidents/xhxwfd808vdx</link>
+<guid>https://status.schedulicity.com/incidents/xhxwfd808vdx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 5</var>, <var>17:08</var> MST</small><br /><strong>Resolved</strong> - Our messaging service performance has returned to normal. All email and SMS messages are being sent without delay.</p><p><small>Mar <var> 4</var>, <var>20:40</var> MST</small><br /><strong>Monitoring</strong> - We have implemented a fix and are now seeing improvements in message deliverability. We will continue to monitor to ensure the service remains stable.</p><p><small>Mar <var> 4</var>, <var>16:05</var> MST</small><br /><strong>Identified</strong> - Our messaging service is currently experiencing degraded performance. Email and SMS messages are still being delivered but may be delayed. Duplicate upcoming appointment notifications may also be sent. We have identified the issue and are working to resolve the matter as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Sun, 05 Mar 2023 17:08:00 -0700</pubDate>
+<pubDate>Sun, 05 Mar 2023 17:08:00 -0700</pubDate>
+</item>
+<item>
+<title>System Update - Potential Degraded Performance</title>
+<link>https://status.schedulicity.com/incidents/xv9x896scc1f</link>
+<guid>https://status.schedulicity.com/incidents/xv9x896scc1f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>28</var>, <var>23:45</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>28</var>, <var>23:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>23:00</var> MST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>27</var>, <var>20:03</var> MST</small><br /><strong>Scheduled</strong> - We are performing a significant system update and some users may experience degraded performance during the deployment window. We are anticipating up to 30 minutes of downtime during the update. We do not anticipate any further disruption and will continue monitoring following the deployment window.</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Feb 2023 23:45:16 -0700</pubDate>
+<pubDate>Tue, 28 Feb 2023 23:45:16 -0700</pubDate>
+</item>
+<item>
+<title>Disruption in Schedulicity Email and SMS Reminders Sending</title>
+<link>https://status.schedulicity.com/incidents/5z155y5v8n3l</link>
+<guid>https://status.schedulicity.com/incidents/5z155y5v8n3l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>28</var>, <var>13:23</var> MST</small><br /><strong>Resolved</strong> - Since our fix was implemented the evening of 2/27/23, email and SMS appointments reminders have been sending as expected. This incident is resolved, we truly apologize for any inconvenience it may have caused.</p><p><small>Feb <var>27</var>, <var>19:47</var> MST</small><br /><strong>Monitoring</strong> - Our team identified the cause of email and SMS reminders not sending and a fix has been implemented. We are monitoring to ensure reminders continue to send for upcoming appointments.</p><p><small>Feb <var>27</var>, <var>16:36</var> MST</small><br /><strong>Investigating</strong> - We’re currently experiencing a disruption with email and SMS reminders sending. Clients may not receive an appointment reminder via email and/or SMS for upcoming appointments and classes. Our team is working to identify the root cause and implement a solution as soon as possible. We will send an additional update when appropriate.</p>
+]]></content:encoded>
+<pubDate>Tue, 28 Feb 2023 13:23:51 -0700</pubDate>
+<pubDate>Tue, 28 Feb 2023 13:23:51 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/zz25dv2l429f</link>
+<guid>https://status.schedulicity.com/incidents/zz25dv2l429f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>26</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>25</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>25</var>, <var>21:59</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 26 Feb 2023 02:00:33 -0700</pubDate>
+<pubDate>Sun, 26 Feb 2023 02:00:33 -0700</pubDate>
+</item>
+<item>
+<title>Schedulicity Service Disruption</title>
+<link>https://status.schedulicity.com/incidents/bf8kntt9nydn</link>
+<guid>https://status.schedulicity.com/incidents/bf8kntt9nydn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>31</var>, <var>13:54</var> MST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>10:43</var> MST</small><br /><strong>Monitoring</strong> - Response times have returned to normal ranges giving the deployment team confidence the degraded performance has been resolved. The team will continue monitoring ongoing.</p><p><small>Jan <var>31</var>, <var>10:31</var> MST</small><br /><strong>Identified</strong> - Our deployment team has determined the cause of the unexpected slowness users are encountering. We've put a resolution in place and are monitoring as performance should increase. Next update at 10:45.</p>
+]]></content:encoded>
+<pubDate>Tue, 31 Jan 2023 13:54:57 -0700</pubDate>
+<pubDate>Tue, 31 Jan 2023 13:54:57 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/2k95t98p9862</link>
+<guid>https://status.schedulicity.com/incidents/2k95t98p9862</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>22</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>21</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>19</var>, <var>10:22</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 22 Jan 2023 02:00:48 -0700</pubDate>
+<pubDate>Sun, 22 Jan 2023 02:00:48 -0700</pubDate>
+</item>
+<item>
+<title>System Update - Potential Degraded Performance</title>
+<link>https://status.schedulicity.com/incidents/rvk985psjxby</link>
+<guid>https://status.schedulicity.com/incidents/rvk985psjxby</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>17</var>, <var>21:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>17</var>, <var>20:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>13</var>, <var>11:34</var> MST</small><br /><strong>Scheduled</strong> - We are performing a significant system update and some users may experience degraded performance during this 20-40 minute deployment window. If the site isn’t loading smoothly after the update, we recommend users clear their browser cache. Steps to do so can be found here: https://support.schedulicity.com/en/articles/2060782-how-do-i-clear-my-cache-cookies-on-my-device<br /><br />We do not anticipate any further disruption and will continue monitoring following the deployment window.</p>
+]]></content:encoded>
+<pubDate>Tue, 17 Jan 2023 21:00:45 -0700</pubDate>
+<pubDate>Tue, 17 Jan 2023 21:00:45 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/r313zrr9y437</link>
+<guid>https://status.schedulicity.com/incidents/r313zrr9y437</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>18</var>, <var>02:00</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>13</var>, <var>09:46</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Dec 2022 02:00:32 -0700</pubDate>
+<pubDate>Sun, 18 Dec 2022 02:00:32 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/7ky03792m891</link>
+<guid>https://status.schedulicity.com/incidents/7ky03792m891</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>20</var>, <var>02:01</var> MST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>19</var>, <var>22:00</var> MST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>17</var>, <var>07:54</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sun, 20 Nov 2022 02:01:39 -0700</pubDate>
+<pubDate>Sun, 20 Nov 2022 02:01:39 -0700</pubDate>
+</item>
+
+</channel>
+</rss>
