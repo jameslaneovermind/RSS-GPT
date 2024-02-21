@@ -1,0 +1,39 @@
+------------------------------------------------------
+Started: 2024-02-21 13:27:40.453182
+Existing_entries: 0
+Fetching from https://status.twilio.com/history.rss
+Token length: 397
+Summarized using GPT-3.5-turbo-1106
+Append: [Netherlands Account Security Carrier Partner Maintenance - KPN](https://status.twilio.com/incidents/jy873kr2pc6l)
+Append: [Planned Maintenance for Flex Insights Historical Reporting](https://status.twilio.com/incidents/9d2zhly0w3sf)
+Append: [Czech Republic Voice Carrier Partner Maintenance](https://status.twilio.com/incidents/4bgf5kvydpd3)
+Append: [Montenegro SMS Carrier Maintenance - T-Mobile (Crnogorski Telekom)](https://status.twilio.com/incidents/c35v74c6xhbx)
+Append: [New Zealand SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/kb8h2y30ls8b)
+Append: [SMS Carrier Partner Maintenance - Mexico](https://status.twilio.com/incidents/h7206sxjp16f)
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/m4lw72m6rsj0)
+Append: [United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK](https://status.twilio.com/incidents/5py8w5tx32xv)
+Append: [Mexico SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/w1kzb67pfnt5)
+Append: [US SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/hn1lrt89stxq)
+Append: [Chile SMS Carrier Maintenance - Nextel](https://status.twilio.com/incidents/7rqfq4kgk24f)
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/gmpy4v61c6rz)
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/fnryfpkw9l0n)
+Append: [US SMS Carrier Maintenance - US Cellular](https://status.twilio.com/incidents/knwd26yjkn7g)
+Append: [UK SMS Carrier Maintenance - 3 (Hutchison 3G UK Ltd)](https://status.twilio.com/incidents/p94m0jrynd0g)
+Append: [United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK](https://status.twilio.com/incidents/l14t92yx09nq)
+Append: [SMS Delivery Delays to US Cellular via a subset of Twilio short codes](https://status.twilio.com/incidents/69d7wf1nhmbt)
+Append: [US SMS Carrier Maintenance - T-Mobile](https://status.twilio.com/incidents/9b6pvhdqmg7p)
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/8w8tklnvcf6w)
+Append: [United States Account Security Carrier Partner Maintenance - Verizon Wireless](https://status.twilio.com/incidents/76rw8myvrlxf)
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/96jl426j795m)
+Append: [United States SMS Carrier Partner Maintenance - AT&T](https://status.twilio.com/incidents/pyqjmj4p3gv6)
+Append: [US, Canada and Puerto Rico SMS and MMS Carrier Partner Maintenance](https://status.twilio.com/incidents/q5mcq6ssbw5m)
+Append: [US, Canada and Puerto Rico Carrier Partner Maintenance](https://status.twilio.com/incidents/r48yzdxk02nj)
+Append: [Users Unable to Update Their CPS Value in Twilio Console](https://status.twilio.com/incidents/2s5dvrrxl0fh)
+append_entries: 25
+Finish: 2024-02-21 13:27:42.464813
+------------------------------------------------------
+Started: 2024-02-21 13:28:59.494347
+Existing_entries: 25
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 13:28:59.717907

@@ -1,0 +1,39 @@
+------------------------------------------------------
+Started: 2024-02-21 13:27:43.909528
+Existing_entries: 0
+Fetching from https://status.klarna.com/history.rss
+Token length: 615
+Summarized using GPT-3.5-turbo-1106
+Append: [TLS v1 deprecation](https://status.klarna.com/incidents/lj8fdmsw92l6)
+Append: [Merchants are currently unable to change their bank account details through Klarna Merchant Portal](https://status.klarna.com/incidents/j85bzdy41btr)
+Append: [TLS v1 deprecation in playground](https://status.klarna.com/incidents/726t5n7g3jlr)
+Append: [Customer support service/system degradation](https://status.klarna.com/incidents/qgyq93xmxbjw)
+Append: [Klarna App degradation](https://status.klarna.com/incidents/vh1l8y8x133k)
+Append: [Merchant Operations degradation](https://status.klarna.com/incidents/tvvcfpq96nzb)
+Append: [Merchant Portal degradation](https://status.klarna.com/incidents/8n49hzshvhyj)
+Append: [Merchant Portal degradation](https://status.klarna.com/incidents/mlcq5qcvtdfq)
+Append: [Klarna merchant initiated transactions in EU degradation](https://status.klarna.com/incidents/wwclhmrpjrth)
+Append: [Merchant Operations degradation](https://status.klarna.com/incidents/mv22m05t0mpb)
+Append: [Merchant Portal degradation](https://status.klarna.com/incidents/k849xkznt244)
+Append: [Klarna Doc website availability degradation](https://status.klarna.com/incidents/q74fc75845rv)
+Append: [Klarna purchase API degradation for Sweden (KCO)](https://status.klarna.com/incidents/2br38bbjn0yl)
+Append: [Merchant payouts delayed for JPM USD](https://status.klarna.com/incidents/b8x1bf5mbp27)
+Append: [Klarna Shopping Extension degradation in ALL markets](https://status.klarna.com/incidents/4wd7p6955cgf)
+Append: [SSL Certification Rotation for api.klarna.com](https://status.klarna.com/incidents/8zd6yzjxsh9q)
+Append: [SSL Certification Rotation for api-na.klarna.com](https://status.klarna.com/incidents/bz1nry9t0p7p)
+Append: [Card payment Degradation in U.S.](https://status.klarna.com/incidents/nh3rdtpl4n6b)
+Append: [Klarna App degradation](https://status.klarna.com/incidents/z571q93gz8sp)
+Append: [Settlements degradation for Finland](https://status.klarna.com/incidents/zcqsk6wvg7bd)
+Append: [Klarna purchase via ID Scan planned maintenance in EU](https://status.klarna.com/incidents/t6rz5rg5hg4z)
+Append: [Klarna purchase API for Direct Bank Tranfers in Germany degradation](https://status.klarna.com/incidents/s9kt9ss5bptl)
+Append: [BankID in Sweden  reports low success rate](https://status.klarna.com/incidents/k0q3klj2k2s5)
+Append: [Klarna Card degradation in Germany](https://status.klarna.com/incidents/mlcjd3htbwrl)
+Append: [Klarna purchase API degradation for UK](https://status.klarna.com/incidents/fs33z690f47n)
+append_entries: 25
+Finish: 2024-02-21 13:27:45.749460
+------------------------------------------------------
+Started: 2024-02-21 13:29:00.191650
+Existing_entries: 25
+Fetching from https://status.klarna.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 13:29:00.498673

@@ -10,4 +10,18 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 
 ### Features
 
-
+https://jameslaneovermind.github.io/RSS-GPT/box.com.xml
+https://jameslaneovermind.github.io/RSS-GPT/zapier.xml
+https://jameslaneovermind.github.io/RSS-GPT/snyk.xml
+https://jameslaneovermind.github.io/RSS-GPT/Vercel.xml
+https://jameslaneovermind.github.io/RSS-GPT/GoCardless.xml
+https://jameslaneovermind.github.io/RSS-GPT/Clickhouse.xml
+https://jameslaneovermind.github.io/RSS-GPT/Sendgrid.xml
+https://jameslaneovermind.github.io/RSS-GPT/Mulesoft.xml
+https://jameslaneovermind.github.io/RSS-GPT/Hashicorp.xml
+https://jameslaneovermind.github.io/RSS-GPT/Openexchangerates.xml
+https://jameslaneovermind.github.io/RSS-GPT/Heap.xml
+https://jameslaneovermind.github.io/RSS-GPT/Supermetrics.xml
+https://jameslaneovermind.github.io/RSS-GPT/Bubble.xml
+https://jameslaneovermind.github.io/RSS-GPT/Asana.xml
+https://jameslaneovermind.github.io/RSS-GPT/Monese.xml
