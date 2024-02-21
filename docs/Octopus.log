@@ -31,3 +31,9 @@ Append: [Octopus.com sign-in, docs, blogs and downloads unavailable](https://sta
 Append: [Authentication errors when attempting to sign into https://billing.octopus.com](https://status.octopus.com/incidents/1jlyqnqfcfm3)
 append_entries: 25
 Finish: 2024-02-21 13:27:39.183083
+------------------------------------------------------
+Started: 2024-02-21 13:28:58.808475
+Existing_entries: 25
+Fetching from https://status.octopus.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 13:28:59.100015

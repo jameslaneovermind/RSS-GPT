@@ -4,6 +4,7 @@
 <title>Alteryx Status - Incident History</title>
 <link>https://status.alteryxcloud.com</link>
 
+
 <item>
 <title>Auto Insights Classic Maintenance (AU)</title>
 <link>https://status.alteryxcloud.com/incidents/q55jhgfvbl72</link>
@@ -20,17 +21,14 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <p><small>Feb <var> 8</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 8</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 4</var>, <var>22:21</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
 <pubDate>Thu, 08 Feb 2024 10:00:56 +0000</pubDate>
-<pubDate>Thu, 08 Feb 2024 10:00:56 +0000</pubDate>
 </item>
 <item>
 <title>Auto Insights Classic Maintenance (US)</title>
 <link>https://status.alteryxcloud.com/incidents/4r5nswx547qx</link>
 <guid>https://status.alteryxcloud.com/incidents/4r5nswx547qx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>05:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 8</var>, <var>04:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 4</var>, <var>22:18</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 05:00:56 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 05:00:56 +0000</pubDate>
 </item>
 <item>
@@ -38,10 +36,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/wy57tgq828y2</link>
 <guid>https://status.alteryxcloud.com/incidents/wy57tgq828y2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>03:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 8</var>, <var>02:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 4</var>, <var>22:18</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 03:00:56 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 03:00:56 +0000</pubDate>
 </item>
 <item>
@@ -49,10 +45,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/rnhb3vfd5r0p</link>
 <guid>https://status.alteryxcloud.com/incidents/rnhb3vfd5r0p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>22:19</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 7</var>, <var>21:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 4</var>, <var>22:20</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 22:19:29 +0000</pubDate>
 <pubDate>Wed, 07 Feb 2024 22:19:29 +0000</pubDate>
 </item>
 <item>
@@ -60,10 +54,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/j58ywjwnr0yf</link>
 <guid>https://status.alteryxcloud.com/incidents/j58ywjwnr0yf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>09:49</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>25</var>, <var>05:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>22</var>, <var>05:52</var> UTC</small><br /><strong>Scheduled</strong> - Dataprep by Trifacta will be undergoing a scheduled maintenance on January 25, 2024 from 5 A.M. UTC.<br /><br />The product will be available to use since upgrade activities will be happening in the background. In case of failure, we recommend retry of the action such as job run.<br /><br />We will update the banner once all the maintenance activities have been completed and verified.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 09:49:41 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 09:49:41 +0000</pubDate>
 </item>
 <item>
@@ -71,10 +63,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/s1x25z8lx9qp</link>
 <guid>https://status.alteryxcloud.com/incidents/s1x25z8lx9qp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>09:15</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>24</var>, <var>05:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>22</var>, <var>05:50</var> UTC</small><br /><strong>Update</strong> - The product will be available to use since upgrade activities will be happening in the background. In case of failure, we recommend retry of the action such as job run.<br /><br />We will update the banner once all the maintenance activities have been completed and verified.</p><p><small>Jan <var>22</var>, <var>05:49</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Jan <var>22</var>, <var>05:44</var> UTC</small><br /><strong>Scheduled</strong> - Designer Cloud powered by Trifacta will be undergoing a scheduled maintenance on January 24, 2024 from 5 A.M. UTC.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 09:15:51 +0000</pubDate>
 <pubDate>Wed, 24 Jan 2024 09:15:51 +0000</pubDate>
 </item>
 <item>
@@ -82,10 +72,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/l1lcx0ryxkw1</link>
 <guid>https://status.alteryxcloud.com/incidents/l1lcx0ryxkw1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>09:59</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>23</var>, <var>08:00</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Jan <var>23</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>16:47</var> UTC</small><br /><strong>Update</strong> - Dataprep by Trifacta will be undergoing a scheduled maintenance on January 23, 2024 from 7 A.M. UTC to 9 A.M. UTC</p><p><small>Jan <var>18</var>, <var>06:39</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance has been postponed. We apologize for any inconvenience and will provide updated details once available.</p><p><small>Jan <var>15</var>, <var>15:51</var> UTC</small><br /><strong>Scheduled</strong> - Dataprep by Trifacta will be undergoing a scheduled maintenance on January 18, 2024 from 7 A.M. UTC to 9 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 09:59:26 +0000</pubDate>
 <pubDate>Tue, 23 Jan 2024 09:59:26 +0000</pubDate>
 </item>
 <item>
@@ -93,10 +81,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/2zx94yrpn4cs</link>
 <guid>https://status.alteryxcloud.com/incidents/2zx94yrpn4cs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>22</var>, <var>07:08</var> UTC</small><br /><strong>Resolved</strong> - Marking this incident as resolved as we are able to support >500MB datasets.</p><p><small>Dec <var>22</var>, <var>07:01</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented to allow "small-medium" datasets to be ingested to Auto Insights (~500MB). Work is continuing to remove this limitation and support larger datasets.</p><p><small>Dec <var>21</var>, <var>23:40</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>21</var>, <var>22:17</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is impacting the ingestion of datasets into Auto Insights across our AACP US, AU and EU environments.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Dec 2023 07:08:41 +0000</pubDate>
 <pubDate>Fri, 22 Dec 2023 07:08:41 +0000</pubDate>
 </item>
 <item>
@@ -104,10 +90,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/wgyp5th23tb4</link>
 <guid>https://status.alteryxcloud.com/incidents/wgyp5th23tb4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>11</var>, <var>09:02</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>11</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 6</var>, <var>15:31</var> UTC</small><br /><strong>Scheduled</strong> - Cloud SaaS will be undergoing a scheduled maintenance on December 11, 2023 from 7 A.M. UTC to 9 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 09:02:36 +0000</pubDate>
 <pubDate>Mon, 11 Dec 2023 09:02:36 +0000</pubDate>
 </item>
 <item>
@@ -115,10 +99,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/8skjbyhmm6lg</link>
 <guid>https://status.alteryxcloud.com/incidents/8skjbyhmm6lg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 4</var>, <var>18:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 4</var>, <var>16:12</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented to resolve this issue, we are continuing to monitor the results.</p><p><small>Dec <var> 1</var>, <var>01:45</var> UTC</small><br /><strong>Update</strong> - This issue does not impact data ingestion via DB Connections, which still supports large datasets.<br />We are continuing to validate the resolution to this issue for CSV and Designer Uploader ingestion methods.</p><p><small>Nov <var>30</var>, <var>04:02</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>29</var>, <var>21:53</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is impacting the ingestion of large datasets (more than a few hundred MB) into Auto Insights across our AACP US, AU and EU environments.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Dec 2023 18:17:51 +0000</pubDate>
 <pubDate>Mon, 04 Dec 2023 18:17:51 +0000</pubDate>
 </item>
 <item>
@@ -126,10 +108,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/zcmwc662h1fb</link>
 <guid>https://status.alteryxcloud.com/incidents/zcmwc662h1fb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>21</var>, <var>09:16</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>21</var>, <var>09:13</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Nov <var>21</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>14</var>, <var>06:53</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Nov 2023 09:16:08 +0000</pubDate>
 <pubDate>Tue, 21 Nov 2023 09:16:08 +0000</pubDate>
 </item>
 <item>
@@ -137,10 +117,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/sdkgfjpfvgt9</link>
 <guid>https://status.alteryxcloud.com/incidents/sdkgfjpfvgt9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>20</var>, <var>03:50</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>20</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>13</var>, <var>01:09</var> UTC</small><br /><strong>Scheduled</strong> - Auto Insights will be undergoing scheduled maintenance at this time.</p>
 ]]></content:encoded>
-<pubDate>Mon, 20 Nov 2023 03:50:46 +0000</pubDate>
 <pubDate>Mon, 20 Nov 2023 03:50:46 +0000</pubDate>
 </item>
 <item>
@@ -148,10 +126,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/0ykgk04tkhyn</link>
 <guid>https://status.alteryxcloud.com/incidents/0ykgk04tkhyn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>12:32</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 7</var>, <var>08:56</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 7</var>, <var>07:35</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Nov <var> 7</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 3</var>, <var>04:42</var> UTC</small><br /><strong>Scheduled</strong> - Cloud SaaS will be undergoing a scheduled maintenance on November 7, 2023 from 7 A.M. UTC to 9 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 12:32:16 +0000</pubDate>
 <pubDate>Tue, 07 Nov 2023 12:32:16 +0000</pubDate>
 </item>
 <item>
@@ -159,10 +135,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/m19lb225n44z</link>
 <guid>https://status.alteryxcloud.com/incidents/m19lb225n44z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>31</var>, <var>08:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>31</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>27</var>, <var>07:50</var> UTC</small><br /><strong>Scheduled</strong> - Dataprep by Trifacta will be undergoing a scheduled maintenance on October 31, 2023 from 7 A.M. UTC to 8 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 31 Oct 2023 08:00:21 +0000</pubDate>
 <pubDate>Tue, 31 Oct 2023 08:00:21 +0000</pubDate>
 </item>
 <item>
@@ -170,10 +144,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/h1nw1f7zzc66</link>
 <guid>https://status.alteryxcloud.com/incidents/h1nw1f7zzc66</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>12</var>, <var>10:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>12</var>, <var>06:00</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>12</var>, <var>05:13</var> UTC</small><br /><strong>Investigating</strong> - All customer jobs for EMR Spark are failing for https://cloud.trifacta.com. We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 Oct 2023 10:19:58 +0000</pubDate>
 <pubDate>Thu, 12 Oct 2023 10:19:58 +0000</pubDate>
 </item>
 <item>
@@ -181,10 +153,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/gqtlzcwm4pbj</link>
 <guid>https://status.alteryxcloud.com/incidents/gqtlzcwm4pbj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>11</var>, <var>12:14</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>11</var>, <var>07:54</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We apologize for any inconvenience. We will provide updates as they become available.</p><p><small>Oct <var>11</var>, <var>06:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 6</var>, <var>04:44</var> UTC</small><br /><strong>Scheduled</strong> - Dataprep by Trifacta will be undergoing a scheduled maintenance on October 11, 2023 from 6 A.M. UTC to 8 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 11 Oct 2023 12:14:00 +0000</pubDate>
 <pubDate>Wed, 11 Oct 2023 12:14:00 +0000</pubDate>
 </item>
 <item>
@@ -192,10 +162,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/frk08q53lx5n</link>
 <guid>https://status.alteryxcloud.com/incidents/frk08q53lx5n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 9</var>, <var>03:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 9</var>, <var>02:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been deployed to resolve this issue and our team are monitoring the status.</p><p><small>Oct <var> 9</var>, <var>01:17</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing an issue with Data Ingestion for Auto Insights on our Alteryx Analytics Cloud (AACP) US instance, affecting all dataset uploads to Auto Insights including DB refreshes. Our team has identified the issue and are actively working on a resolution. <br />This issue only affects the US region, and does not impact AACP AU or EU environments.</p>
 ]]></content:encoded>
-<pubDate>Mon, 09 Oct 2023 03:34:10 +0000</pubDate>
 <pubDate>Mon, 09 Oct 2023 03:34:10 +0000</pubDate>
 </item>
 <item>
@@ -203,10 +171,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/w6g5pd7bpthh</link>
 <guid>https://status.alteryxcloud.com/incidents/w6g5pd7bpthh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>10:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>27</var>, <var>09:31</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>20</var>, <var>03:39</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>14</var>, <var>14:21</var> UTC</small><br /><strong>Scheduled</strong> - Alteryx Analytics Cloud Platform will be undergoing a scheduled maintenance on September 27, 2023 from 9:30 A.M. UTC to 10 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Sep 2023 10:01:21 +0000</pubDate>
 <pubDate>Wed, 27 Sep 2023 10:01:21 +0000</pubDate>
 </item>
 <item>
@@ -214,10 +180,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/6m8gcvb2sfjy</link>
 <guid>https://status.alteryxcloud.com/incidents/6m8gcvb2sfjy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>08:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>27</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>20</var>, <var>03:37</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>14</var>, <var>14:08</var> UTC</small><br /><strong>Scheduled</strong> - Alteryx Analytics Cloud Platform will be undergoing a scheduled maintenance on September 27, 2023 from 8 A.M. UTC to 8:30 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Sep 2023 08:30:15 +0000</pubDate>
 <pubDate>Wed, 27 Sep 2023 08:30:15 +0000</pubDate>
 </item>
 <item>
@@ -225,10 +189,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/d5swqkl8yx2p</link>
 <guid>https://status.alteryxcloud.com/incidents/d5swqkl8yx2p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>05:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>27</var>, <var>04:31</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>20</var>, <var>03:31</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>14</var>, <var>14:16</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>14</var>, <var>14:15</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>14</var>, <var>14:14</var> UTC</small><br /><strong>Scheduled</strong> - Alteryx Analytics Cloud Platform will be undergoing a scheduled maintenance on September 27, 2023 from 4:30 A.M. UTC to 5 A.M. UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Sep 2023 05:00:07 +0000</pubDate>
 <pubDate>Wed, 27 Sep 2023 05:00:07 +0000</pubDate>
 </item>
 <item>
@@ -236,10 +198,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/m5y09nbfgb9z</link>
 <guid>https://status.alteryxcloud.com/incidents/m5y09nbfgb9z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 6</var>, <var>14:43</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance is completed successfully.</p><p><small>Sep <var> 6</var>, <var>14:41</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance for Cloud SaaS and Dataprep by Trifacta is completed successfully.</p><p><small>Sep <var> 6</var>, <var>14:38</var> UTC</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Sep <var> 6</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var> 4</var>, <var>10:10</var> UTC</small><br /><strong>Scheduled</strong> - Cloud SaaS and Dataprep by Trifacta will be undergoing a scheduled maintenance on September 6, 2023 from 3 A.M. UTC.  <br /><br />The product will be available to use since upgrade activities will be happening in the background. In case of failure, we recommend retry of the action such as job run.<br /><br />We will update the banner once all the maintenance activities have been completed and verified.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Sep 2023 14:43:50 +0000</pubDate>
 <pubDate>Wed, 06 Sep 2023 14:43:50 +0000</pubDate>
 </item>
 <item>
@@ -247,10 +207,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/frqdn6h53whn</link>
 <guid>https://status.alteryxcloud.com/incidents/frqdn6h53whn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>23</var>, <var>20:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>23</var>, <var>20:24</var> UTC</small><br /><strong>Update</strong> - The fix has been applied and confirmed issue is resolved.</p><p><small>Aug <var>12</var>, <var>02:24</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has applied a fix and the Reporting service functionality has been restored.  Some customers may experience degraded functionality to the Reporting service.  We will provide an update once these issues have been fully resolved.</p><p><small>Aug <var>11</var>, <var>23:32</var> UTC</small><br /><strong>Identified</strong> - At this time our Engineering teams have identified the cause of the issue, and a fix is in development. We will continue to provide updates as they become available.</p><p><small>Aug <var>11</var>, <var>19:25</var> UTC</small><br /><strong>Investigating</strong> - There is currently an issue with the reporting service in Alteryx Analytics Cloud. The Engineering teams are actively engaged in identifying and resolving the issue. We will provide updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 23 Aug 2023 20:32:52 +0000</pubDate>
 <pubDate>Wed, 23 Aug 2023 20:32:52 +0000</pubDate>
 </item>
 <item>
@@ -258,10 +216,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/0rzm272mf5t3</link>
 <guid>https://status.alteryxcloud.com/incidents/0rzm272mf5t3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>23</var>, <var>20:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>23</var>, <var>15:21</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Aug <var>23</var>, <var>15:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>23</var>, <var>14:50</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Aug <var>23</var>, <var>14:22</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>23</var>, <var>14:21</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Aug <var>23</var>, <var>14:05</var> UTC</small><br /><strong>Update</strong> - This issue was internally detected, but it appears to be isolated to Alteryx accounts, customers do not appear to be impacted at this time. We are continuing to investigate and remediate the issue</p><p><small>Aug <var>23</var>, <var>13:22</var> UTC</small><br /><strong>Investigating</strong> - We are aware of an issue where some of users are not able to log in into Alteryx Analytics Cloud. We will continue updating this incident as we have additional details.</p>
 ]]></content:encoded>
-<pubDate>Wed, 23 Aug 2023 20:25:15 +0000</pubDate>
 <pubDate>Wed, 23 Aug 2023 20:25:15 +0000</pubDate>
 </item>
 <item>
@@ -269,10 +225,8 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/q8wjvyz6pw1d</link>
 <guid>https://status.alteryxcloud.com/incidents/q8wjvyz6pw1d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>20</var>, <var>10:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>20</var>, <var>10:18</var> UTC</small><br /><strong>Monitoring</strong> - We identified an issue, implemented fix and Designer Cloud is available</p><p><small>Jul <var>20</var>, <var>10:02</var> UTC</small><br /><strong>Investigating</strong> - We would like to inform you that we are currently experiencing technical difficulties with Designer Cloud. Our team is fully engaged in diagnosing and rectifying the problem and we will post updates soon</p>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jul 2023 10:49:20 +0000</pubDate>
 <pubDate>Thu, 20 Jul 2023 10:49:20 +0000</pubDate>
 </item>
 <item>
@@ -280,12 +234,9 @@ Summary: We will be undergoing scheduled maintenance during this time. <div>
 <link>https://status.alteryxcloud.com/incidents/ql7r6r4bfkcv</link>
 <guid>https://status.alteryxcloud.com/incidents/ql7r6r4bfkcv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>17</var>, <var>08:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>17</var>, <var>06:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>11</var>, <var>16:23</var> UTC</small><br /><strong>Scheduled</strong> - Google Cloud Dataprep by Trifacta will be undergoing a scheduled maintenance on July 17, 2023 from 6 A.M. UTC to 8 A.M. UTC</p>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jul 2023 08:00:23 +0000</pubDate>
-<pubDate>Mon, 17 Jul 2023 08:00:23 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

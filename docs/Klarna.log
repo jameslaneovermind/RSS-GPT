@@ -31,3 +31,9 @@ Append: [Klarna Card degradation in Germany](https://status.klarna.com/incidents
 Append: [Klarna purchase API degradation for UK](https://status.klarna.com/incidents/fs33z690f47n)
 append_entries: 25
 Finish: 2024-02-21 13:27:45.749460
+------------------------------------------------------
+Started: 2024-02-21 13:29:00.191650
+Existing_entries: 25
+Fetching from https://status.klarna.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 13:29:00.498673

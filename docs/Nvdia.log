@@ -31,3 +31,9 @@ Append: [Issues with Base Command service](https://status.ngc.nvidia.com/inciden
 Append: [Issues with NGC service](https://status.ngc.nvidia.com/incidents/704gw4ysxx7v)
 append_entries: 25
 Finish: 2024-02-21 13:27:49.034348
+------------------------------------------------------
+Started: 2024-02-21 13:29:01.071695
+Existing_entries: 25
+Fetching from https://status.ngc.nvidia.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 13:29:01.400938

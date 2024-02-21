@@ -4,6 +4,7 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+
 <item>
 <title>Scheduled maintenance</title>
 <link>https://status.dropbox.com/incidents/mykby5hpmr5n</link>
@@ -16,17 +17,14 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>00:00</var> - <var>01:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>00:00</var> UTC</small><br /><strong>Scheduled</strong> - Dropbox will be performing routine maintenance on March 12, 2024 starting at 5:00 PM (Pacific). You may not be able to access Dropbox for a short period of time, but we’ll have things back up and running as soon as possible to minimize disruption to you.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dash and Capture are not working for some users</title>
 <link>https://status.dropbox.com/incidents/cv0p1q4bwmlc</link>
 <guid>https://status.dropbox.com/incidents/cv0p1q4bwmlc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>21:21</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>19:36</var> UTC</small><br /><strong>Identified</strong> - Dash and Capture are not working for some users. We’re working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 21:21:07 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 21:21:07 +0000</pubDate>
 </item>
 <item>
@@ -34,10 +32,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/sz1nf4jv0q2s</link>
 <guid>https://status.dropbox.com/incidents/sz1nf4jv0q2s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>21:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>19:36</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>20</var>, <var>19:28</var> UTC</small><br /><strong>Investigating</strong> - Replay is not working for some users. We’re working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 21:20:32 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 21:20:32 +0000</pubDate>
 </item>
 <item>
@@ -45,10 +41,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/1h4ky1glpxfq</link>
 <guid>https://status.dropbox.com/incidents/1h4ky1glpxfq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>18:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>19</var>, <var>17:47</var> UTC</small><br /><strong>Investigating</strong> - File editing may not be working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 18:40:43 +0000</pubDate>
 <pubDate>Mon, 19 Feb 2024 18:40:43 +0000</pubDate>
 </item>
 <item>
@@ -56,10 +50,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/2djclv2dbq0m</link>
 <guid>https://status.dropbox.com/incidents/2djclv2dbq0m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>18:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>19:00</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>13</var>, <var>20:45</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>13</var>, <var>20:19</var> UTC</small><br /><strong>Investigating</strong> - Dropbox is not working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 18:46:49 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 18:46:49 +0000</pubDate>
 </item>
 <item>
@@ -67,10 +59,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/tkzg7pldbnpr</link>
 <guid>https://status.dropbox.com/incidents/tkzg7pldbnpr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>16:43</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>16:23</var> UTC</small><br /><strong>Investigating</strong> - Dropbox's homepage may not be working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 16:43:34 +0000</pubDate>
 <pubDate>Mon, 12 Feb 2024 16:43:34 +0000</pubDate>
 </item>
 <item>
@@ -78,10 +68,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/nqtb3tzxmksj</link>
 <guid>https://status.dropbox.com/incidents/nqtb3tzxmksj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>17:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>16:39</var> UTC</small><br /><strong>Investigating</strong> - Dash results do not include the most recent changes to Dropbox files. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 17:06:08 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 17:06:08 +0000</pubDate>
 </item>
 <item>
@@ -89,10 +77,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/n7b6wkkym28d</link>
 <guid>https://status.dropbox.com/incidents/n7b6wkkym28d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>04:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>04:39</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 8</var>, <var>03:58</var> UTC</small><br /><strong>Investigating</strong> - Dropbox Desktop app not syncing for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 04:46:06 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 04:46:06 +0000</pubDate>
 </item>
 <item>
@@ -100,10 +86,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/f81b028gvwvc</link>
 <guid>https://status.dropbox.com/incidents/f81b028gvwvc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>20:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>19:47</var> UTC</small><br /><strong>Investigating</strong> - Viewing files on mobile might not be working for some users. We’re working to fix the problem as quickly as we can.</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Feb 2024 20:24:09 +0000</pubDate>
 <pubDate>Sat, 03 Feb 2024 20:24:09 +0000</pubDate>
 </item>
 <item>
@@ -111,10 +95,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/p3323jhqx615</link>
 <guid>https://status.dropbox.com/incidents/p3323jhqx615</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>31</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>23:26</var> UTC</small><br /><strong>Scheduled</strong> - Dropbox will be performing routine maintenance on January 30, 2024 starting at 5:00 PM (Pacific). You may not be able to access Dropbox for a short period of time, but we’ll have things back up and running as soon as possible to minimize disruption to you.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 02:00:49 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 02:00:49 +0000</pubDate>
 </item>
 <item>
@@ -122,10 +104,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/91cfkxppxfrl</link>
 <guid>https://status.dropbox.com/incidents/91cfkxppxfrl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>20:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>19:10</var> UTC</small><br /><strong>Investigating</strong> - Dropbox is currently experiencing mild availability issues. Some users may be affected.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 20:57:59 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 20:57:59 +0000</pubDate>
 </item>
 <item>
@@ -133,10 +113,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/m706w3yxmzgc</link>
 <guid>https://status.dropbox.com/incidents/m706w3yxmzgc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>19:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>12</var>, <var>18:46</var> UTC</small><br /><strong>Investigating</strong> - Using templates from the Signatures page in Dropbox may not be working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Jan 2024 19:04:28 +0000</pubDate>
 <pubDate>Fri, 12 Jan 2024 19:04:28 +0000</pubDate>
 </item>
 <item>
@@ -144,10 +122,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/mwnqz1mhvdwc</link>
 <guid>https://status.dropbox.com/incidents/mwnqz1mhvdwc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>19:47</var> UTC</small><br /><strong>Resolved</strong> - Retroactive update: DocSend was down for some users. We quickly identified and fixed the problem, so we're back up and running!</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 19:47:06 +0000</pubDate>
 <pubDate>Thu, 11 Jan 2024 19:47:06 +0000</pubDate>
 </item>
 <item>
@@ -155,10 +131,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/7zc19vrw5tdd</link>
 <guid>https://status.dropbox.com/incidents/7zc19vrw5tdd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>10</var>, <var>18:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>10</var>, <var>18:23</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>10</var>, <var>17:59</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>10</var>, <var>17:29</var> UTC</small><br /><strong>Investigating</strong> - Paper may not be working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 10 Jan 2024 18:39:44 +0000</pubDate>
 <pubDate>Wed, 10 Jan 2024 18:39:44 +0000</pubDate>
 </item>
 <item>
@@ -166,10 +140,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/83yy26ywl3h6</link>
 <guid>https://status.dropbox.com/incidents/83yy26ywl3h6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>15:59</var> UTC</small><br /><strong>Resolved</strong> - Retroactive update - DocSend was down for some users. We quickly identified and fixed the problem, so we're back up and running!</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 15:59:05 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 15:59:05 +0000</pubDate>
 </item>
 <item>
@@ -177,10 +149,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/jbpm05vz6q6h</link>
 <guid>https://status.dropbox.com/incidents/jbpm05vz6q6h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>16</var>, <var>00:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Dec <var>15</var>, <var>21:03</var> UTC</small><br /><strong>Investigating</strong> - We’re having some trouble with our services currently. We’re working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Sat, 16 Dec 2023 00:34:39 +0000</pubDate>
 <pubDate>Sat, 16 Dec 2023 00:34:39 +0000</pubDate>
 </item>
 <item>
@@ -188,10 +158,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/r72vr4jwb9cj</link>
 <guid>https://status.dropbox.com/incidents/r72vr4jwb9cj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>16:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>16:47</var> UTC</small><br /><strong>Investigating</strong> - We are aware of, and investigating, an intermittent partial outage of DocSend functionality.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 16:55:15 +0000</pubDate>
 <pubDate>Thu, 07 Dec 2023 16:55:15 +0000</pubDate>
 </item>
 <item>
@@ -199,10 +167,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/hmy6p7lxhqs5</link>
 <guid>https://status.dropbox.com/incidents/hmy6p7lxhqs5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>01:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>29</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>16</var>, <var>16:11</var> UTC</small><br /><strong>Scheduled</strong> - Dropbox will be performing routine maintenance on November 28, 2023 starting at 5:00 PM (Pacific). You may not be able to access Dropbox for a short period of time, but we’ll have things back up and running as soon as possible to minimize disruption to you.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 01:30:08 +0000</pubDate>
 <pubDate>Wed, 29 Nov 2023 01:30:08 +0000</pubDate>
 </item>
 <item>
@@ -210,10 +176,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/3wsg17sq7sdk</link>
 <guid>https://status.dropbox.com/incidents/3wsg17sq7sdk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>06:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>16</var>, <var>01:57</var> UTC</small><br /><strong>Investigating</strong> - Chat support is currently not working as expected. We’re working to fix the problem as quickly as we can. In the meantime, please visit dropbox.com/support for alternative customer support options.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 06:09:20 +0000</pubDate>
 <pubDate>Thu, 16 Nov 2023 06:09:20 +0000</pubDate>
 </item>
 <item>
@@ -221,10 +185,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/15hy76rcj8y4</link>
 <guid>https://status.dropbox.com/incidents/15hy76rcj8y4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>10</var>, <var>22:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>10</var>, <var>22:00</var> UTC</small><br /><strong>Investigating</strong> - Dropbox Paper is not working for some users. We’re working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Nov 2023 22:28:13 +0000</pubDate>
 <pubDate>Fri, 10 Nov 2023 22:28:13 +0000</pubDate>
 </item>
 <item>
@@ -232,10 +194,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/bfv4thm3mp63</link>
 <guid>https://status.dropbox.com/incidents/bfv4thm3mp63</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>21:59</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 8</var>, <var>21:31</var> UTC</small><br /><strong>Investigating</strong> - We are aware of an issue where documents scanned and uploaded on iOS via our mobile app fail and produce a 0 KB file.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 21:59:54 +0000</pubDate>
 <pubDate>Wed, 08 Nov 2023 21:59:54 +0000</pubDate>
 </item>
 <item>
@@ -243,10 +203,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/fgz2vbclll5w</link>
 <guid>https://status.dropbox.com/incidents/fgz2vbclll5w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>15:47</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Nov <var> 3</var>, <var>03:17</var> UTC</small><br /><strong>Identified</strong> - Search is not working for some users. The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 15:47:18 +0000</pubDate>
 <pubDate>Fri, 03 Nov 2023 15:47:18 +0000</pubDate>
 </item>
 <item>
@@ -254,10 +212,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/qgdrf12jr9pg</link>
 <guid>https://status.dropbox.com/incidents/qgdrf12jr9pg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>23:25</var> UTC</small><br /><strong>Resolved</strong> - Retroactive update - Some features were not working as expected for some users. We quickly identified and fixed the problem, so we're back up and running.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Nov 2023 23:25:51 +0000</pubDate>
 <pubDate>Thu, 02 Nov 2023 23:25:51 +0000</pubDate>
 </item>
 <item>
@@ -265,10 +221,8 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/h61v2fdzpnp5</link>
 <guid>https://status.dropbox.com/incidents/h61v2fdzpnp5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>18:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 2</var>, <var>16:33</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 2</var>, <var>16:13</var> UTC</small><br /><strong>Investigating</strong> - Dropbox may be unavailable for some users. We’re working to fix the problem as quickly as we can.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Nov 2023 18:33:42 +0000</pubDate>
 <pubDate>Thu, 02 Nov 2023 18:33:42 +0000</pubDate>
 </item>
 <item>
@@ -276,12 +230,9 @@ Summary: Dropbox will undergo routine maintenance on March 12, 2024 at 5:00 PM (
 <link>https://status.dropbox.com/incidents/3ftnlhspc90w</link>
 <guid>https://status.dropbox.com/incidents/3ftnlhspc90w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>24</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>24</var>, <var>00:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>13</var>, <var>19:00</var> UTC</small><br /><strong>Scheduled</strong> - Dropbox will be performing routine maintenance on October 23, 2023 starting at 5:00 PM (Pacific). You may not be able to access Dropbox for a short period of time, but we’ll have things back up and running as soon as possible to minimize disruption to you.</p>
 ]]></content:encoded>
 <pubDate>Tue, 24 Oct 2023 01:00:18 +0000</pubDate>
-<pubDate>Tue, 24 Oct 2023 01:00:18 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
