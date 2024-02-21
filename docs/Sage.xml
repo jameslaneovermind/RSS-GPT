@@ -4,6 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Brightpearl - Partial Outage</title>
+<link>https://status.sage.com/incidents/4lyrfwfsc838</link>
+<guid>https://status.sage.com/incidents/4lyrfwfsc838</guid>
+<content:encoded><![CDATA[
+<div> [High] - Order Data Processing Issue <br><br> Summary: Shopify order data for US customers is not syncing to Brightpearl. The issue is under investigation.
+ <div>
+<p><small>Feb <var>21</var>, <var>21:49</var> UTC</small><br /><strong>Update</strong> - We identified an issue where US customers' Shopify order data has not been processed to Brightpearl. All other product functionality is performing as expected.<br /> <br />We are currently investigating.</p><p><small>Feb <var>21</var>, <var>21:29</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 21:55:46 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 21:55:46 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
