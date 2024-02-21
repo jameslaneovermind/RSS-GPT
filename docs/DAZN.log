@@ -19,3 +19,10 @@ Fetching from https://status.dazn.com/history.rss
 Feed error: document declared as us-ascii, but parsed as utf-8
 append_entries: 0
 error when rendering xml, skip docs/DAZN
+------------------------------------------------------
+Started: 2024-02-21 17:09:48.088856
+Existing_entries: 0
+Fetching from https://status.dazn.com/history.rss
+Feed error: document declared as us-ascii, but parsed as utf-8
+append_entries: 0
+error when rendering xml, skip docs/DAZN
