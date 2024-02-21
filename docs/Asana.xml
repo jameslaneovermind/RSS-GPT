@@ -4,20 +4,19 @@
 <title>Asana Status - Incident History</title>
 <link>https://status.asana.com</link>
 
+
 <item>
 <title>Delayed automations and background actions</title>
 <link>https://status.asana.com/incidents/hyxc8h484hb0</link>
 <guid>https://status.asana.com/incidents/hyxc8h484hb0</guid>
 <content:encoded><![CDATA[
 <div> ```html
-[Low] - Incident Resolution <br><br> Summary: This incident has been resolved.
+[Low] - Incident Resolution <br /><br /> Summary: This incident has been resolved.
 ``` <div>
 <p><small>Feb <var> 7</var>, <var>04:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Wed, 07 Feb 2024 04:00:00 +0000</pubDate>
-<pubDate>Wed, 07 Feb 2024 04:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Partial Outage (OAuth Apps unavailable for 1 hour from 19:18-20:16 UTC)</title>
 <link>https://status.asana.com/incidents/btfw7qd1cdhy</link>
