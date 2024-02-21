@@ -31,3 +31,9 @@ Append: [Delays in document check processing in the EU region](https://status.on
 Append: [Watchlist product is experiencing errors](https://status.onfido.com/incidents/tg07wjxmbl5s)
 append_entries: 25
 Finish: 2024-02-21 16:24:54.328933
+------------------------------------------------------
+Started: 2024-02-21 16:44:29.327420
+Existing_entries: 25
+Fetching from https://status.onfido.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:29.540254

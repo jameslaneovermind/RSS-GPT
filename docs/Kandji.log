@@ -31,3 +31,9 @@ Append: [Planned Maintenance](https://status.kandji.io/incidents/bq3lx3kzhdxd)
 Append: [Planned Maintenance](https://status.kandji.io/incidents/pf2tmzncsr4m)
 append_entries: 25
 Finish: 2024-02-21 16:24:15.512645
+------------------------------------------------------
+Started: 2024-02-21 16:44:20.688686
+Existing_entries: 25
+Fetching from https://status.kandji.io/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:21.008799

@@ -4,17 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Azure DB Maintenance affecting all services on EM Central 1 Azure</title>
 <link>https://status.informatica.com/incidents/dkz8cgh384zh</link>
 <guid>https://status.informatica.com/incidents/dkz8cgh384zh</guid>
 <content:encoded><![CDATA[
 <div> ```html
-<p>[Tag(Medium)] - Azure Database Maintenance <br><br> Summary: Microsoft Azure will be performing maintenance on an Azure hosted database, resulting in brief interruptions for all services. It is recommended not to run critical jobs during this time or to schedule a blackout period.</p>
+<p>[Tag(Medium)] - Azure Database Maintenance <br /><br /> Summary: Microsoft Azure will be performing maintenance on an Azure hosted database, resulting in brief interruptions for all services. It is recommended not to run critical jobs during this time or to schedule a blackout period.</p>
 ``` <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>17:00</var> - <var>18:30</var> PST</strong></p><p><small>Feb <var>20</var>, <var>21:27</var> PST</small><br /><strong>Scheduled</strong> - Microsoft Azure will be performing maintenance on an Azure hosted database which is utilized by IDMC Cloud Services. During this <b>90 minute</b> maintenance window, there will be database restarts resulting in <b>brief interruptions for all services</b>.<br /><br /><b>Attention</b>: We recommend not running critical jobs during this time or scheduling a blackout period during this maintenance event. https://docs.informatica.com/cloud-common-services/administrator/current-version/organization-administration/schedules/configuring-a-blackout-period.html<br /><br /><b>Any Questions ?</b> Please contact Global Customer Support - https://www.informatica.com/services-and-training/customer-success-services/contact-us.html</p>
 ]]></content:encoded>
-<pubDate>Sat, 02 Mar 2024 17:00:00 -0800</pubDate>
 <pubDate>Sat, 02 Mar 2024 17:00:00 -0800</pubDate>
 </item>
 <item>
@@ -22,10 +22,8 @@
 <link>https://status.informatica.com/incidents/8fgs30kz23mx</link>
 <guid>https://status.informatica.com/incidents/8fgs30kz23mx</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>10:00</var> - <var>11:30</var> PST</strong></p><p><small>Feb <var>20</var>, <var>21:15</var> PST</small><br /><strong>Scheduled</strong> - Microsoft Azure will be performing maintenance on an Azure hosted database which is utilized by IDMC Cloud Services. During this <b>90 minute</b> maintenance window, there will be database restarts resulting in <b>brief interruptions for all services</b>.<br /><br /><b>Attention</b>: We recommend not running critical jobs during this time or scheduling a blackout period during this maintenance event. https://docs.informatica.com/cloud-common-services/administrator/current-version/organization-administration/schedules/configuring-a-blackout-period.html<br /><br /><b>Any Questions ?</b> Please contact Global Customer Support - https://www.informatica.com/services-and-training/customer-success-services/contact-us.html</p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Feb 2024 10:00:00 -0800</pubDate>
 <pubDate>Tue, 27 Feb 2024 10:00:00 -0800</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@
 <link>https://status.informatica.com/incidents/99994w1tfk02</link>
 <guid>https://status.informatica.com/incidents/99994w1tfk02</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>01:59</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>01:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>21</var>, <var>00:08</var> PST</small><br /><strong>Scheduled</strong> - API Manager service will be undergoing a minor maintenance on NA East 2 Services . During this maintenance window, API Manager UI will be partially available for a period of 30 minutes. API Gateway and API invocations are not impacted during this maintenance and will continue to be available along with all other services.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 01:59:17 -0800</pubDate>
 <pubDate>Wed, 21 Feb 2024 01:59:17 -0800</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@
 <link>https://status.informatica.com/incidents/64th636p5zq4</link>
 <guid>https://status.informatica.com/incidents/64th636p5zq4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>19:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>16:04</var> PST</small><br /><strong>Scheduled</strong> - Intelligent Data Management Cloud (IDMC) February 2024 standard release.<br /><br />Connectors being updated:<br /><br />Hadoop Files V2<br />Hive Connector <br />FileProcessor<br />Adobe Experience Platform <br />ServiceNow<br />Salesforce <br />IBMMQ<br />Microsoft Fabric Data Warehouse<br />Google BigQeury V2<br />Snowflake Data Cloud Connector<br />DataBricks Delta<br />SAP ODP Extractor<br />SAP ADSO Writer<br />AribaV2<br />SAPTableConnector<br />SAP BW Connector<br />DnBCDIConnector ( Partner connector )<br /><br />Packages being updated  :<br /><br />SAP Idoc<br />CCIAgent <br />ConnectorService<br /><br />Platform Services are being updated.<br />Cloud Data Quality and Cloud Profiling are being updated.<br />MDM Multidomain SaaS, Customer 360 SaaS, Reference 360 SaaS, and Product 360 SaaS are being updated.<br />Cloud Mass Ingestion Files, Database, Application, and associated agent service for each are <br />being updated. <br />Cloud Data Integration is being updated.<br />Cloud Application Integration is being updated and there is no new package for Process Server.<br />Cloud Data Integration for PowerCenter is being updated.<br /><br />For more details about the February 2024 standard release, please refer to the following resources:<br /><br />🆕 What’s New Guide:<br />Discover the latest capabilities in our What’s New Guide: https://onlinehelp.informatica.com/IICS/prod/WhatsNew/en/index.htm<br /><br />❓ FAQ:<br />Find answers to common questions and learn about any behavior changes in our FAQ:<br />https://knowledge.informatica.com/s/article/IDMC-Release-FAQ?language=en_US<br /><br />Release Readiness Documentation<br />https://docs.informatica.com/cloud-common-services/administrator/h2l/1772-release-readiness/landing-page.html<br /><br />🔗 Release Definitions:<br />For a deeper dive into release definitions, please refer to: https://knowledge.informatica.com/s/article/IICS-Release-Definitions<br /><br />🗓️ Stay Informed:<br /> Keep track of all upcoming release and maintenance schedules for IDMC by visiting our Events page: https://network.informatica.com/s/event-landing<br /><br /><br />Any Questions? Please contact Global Customer Support:  https://www.informatica.com/services-and-training/customer-success-services/contact-us.html</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 23:00:57 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 23:00:57 -0800</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@
 <link>https://status.informatica.com/incidents/g7c6yjprk016</link>
 <guid>https://status.informatica.com/incidents/g7c6yjprk016</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>22:19</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>22:17</var> PST</small><br /><strong>Investigating</strong> - We have observed that some of the serverless agents on IICS Canada Central 1 Services were in a failed state from 9:35 PM to 10 PM PST. The issue is resolved and the jobs should be running successfully now.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 22:19:15 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 22:19:15 -0800</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@
 <link>https://status.informatica.com/incidents/cy238h9swqkk</link>
 <guid>https://status.informatica.com/incidents/cy238h9swqkk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>13:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>07:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>15:58</var> PST</small><br /><strong>Scheduled</strong> - This is for February 2024 standard release<br /><br />Ops insights is being updated.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 13:00:56 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 13:00:56 -0800</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@
 <link>https://status.informatica.com/incidents/lg2b0cmn7jp6</link>
 <guid>https://status.informatica.com/incidents/lg2b0cmn7jp6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>11:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>07:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>15:56</var> PST</small><br /><strong>Scheduled</strong> - Intelligent Data Management Cloud (IDMC) February 2024 standard release.<br /><br />Connectors being updated:<br /><br />Hadoop Files V2<br />Hive Connector <br />FileProcessor<br />Adobe Experience Platform <br />ServiceNow<br />Salesforce <br />IBMMQ<br />Microsoft Fabric Data Warehouse<br />Google BigQeury V2<br />Snowflake Data Cloud Connector<br />DataBricks Delta<br />SAP ODP Extractor<br />SAP ADSO Writer<br />AribaV2<br />SAPTableConnector<br />SAP BW Connector<br />DnBCDIConnector ( Partner connector )<br /><br />Packages being updated  :<br /><br />SAP Idoc<br />CCIAgent <br />ConnectorService<br /><br />Platform Services are being updated.<br />Cloud Data Quality and Cloud Profiling are being updated.<br />MDM Multidomain SaaS, Customer 360 SaaS, Reference 360 SaaS, and Product 360 SaaS are being updated.<br />Cloud Mass Ingestion Files, Database, Application, and associated agent service for each are <br />being updated. <br />Cloud Data Integration is being updated.<br />Cloud Application Integration is being updated and there is no new package for Process Server.<br />Cloud Data Integration for PowerCenter is being updated.<br /><br />For more details about the February 2024 standard release, please refer to the following resources:<br /><br />🆕 What’s New Guide:<br />Discover the latest capabilities in our What’s New Guide: https://onlinehelp.informatica.com/IICS/prod/WhatsNew/en/index.htm<br /><br />❓ FAQ:<br />Find answers to common questions and learn about any behavior changes in our FAQ:<br />https://knowledge.informatica.com/s/article/IDMC-Release-FAQ?language=en_US<br /><br />Release Readiness Documentation<br />https://docs.informatica.com/cloud-common-services/administrator/h2l/1772-release-readiness/landing-page.html<br /><br />🔗 Release Definitions:<br />For a deeper dive into release definitions, please refer to: https://knowledge.informatica.com/s/article/IICS-Release-Definitions<br /><br />🗓️ Stay Informed:<br /> Keep track of all upcoming release and maintenance schedules for IDMC by visiting our Events page: https://network.informatica.com/s/event-landing<br /><br /><br />Any Questions? Please contact Global Customer Support:  https://www.informatica.com/services-and-training/customer-success-services/contact-us.html</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 11:01:21 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 11:01:21 -0800</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@
 <link>https://status.informatica.com/incidents/6fvk6y3qn816</link>
 <guid>https://status.informatica.com/incidents/6fvk6y3qn816</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>11:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>07:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>15</var>, <var>22:48</var> PST</small><br /><strong>Scheduled</strong> - The Platform external SSL certificate is getting expired and cert rotation is taking place.<br />There will be no downtime for this activity. But there can be a small network glitch at the time of renewal which is very<br /><br />Refer to the KB article for more details on certificate <br /><br />https://knowledge.informatica.com/s/article/FAQ-IICS-changing-the-certificate-providers?language=en_US</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 11:00:57 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 11:00:57 -0800</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@
 <link>https://status.informatica.com/incidents/dqzq0nkg9ppn</link>
 <guid>https://status.informatica.com/incidents/dqzq0nkg9ppn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>05:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>02:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>20</var>, <var>02:20</var> PST</small><br /><strong>Update</strong> - Informatica Cloud Operations will be deploying a patch for Cloud Application Integration and Taskflow to address User Interface issues encountered as part of the February Release. <br /><br />This is a Zero Downtime implementation and has no impact on running jobs or services.</p><p><small>Feb <var>20</var>, <var>02:06</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch for Cloud Application Integration and Taskflow to address User Interface issues encountered as part of the February Release. <br /><br />This is a Zero Downtime implementation and has no impact on running jobs or services.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 05:00:56 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 05:00:56 -0800</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@
 <link>https://status.informatica.com/incidents/n133wnhg171j</link>
 <guid>https://status.informatica.com/incidents/n133wnhg171j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>17:52</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>19</var>, <var>13:15</var> PST</small><br /><strong>Monitoring</strong> - We implemented a fix for this issue. All services are operating normally and we are monitoring it.</p><p><small>Feb <var>19</var>, <var>12:21</var> PST</small><br /><strong>Investigating</strong> - We observed an issue with access to Mass Ingestion Files, Database Ingestion and Streaming Ingestion service in US West 1 GCP Services. All other services are operating normally.<br /><br />Our team is actively working to resolve this issue on priority, and we will ensure to update the status page accordingly.<br /><br />Next update by 1.30 PM PT.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 17:52:02 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 17:52:02 -0800</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@
 <link>https://status.informatica.com/incidents/b16w46gw2xq1</link>
 <guid>https://status.informatica.com/incidents/b16w46gw2xq1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>07:16</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>19</var>, <var>06:15</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>19</var>, <var>06:04</var> PST</small><br /><strong>Investigating</strong> - We notice some intermittent issues in our scheduler service for IICS US East 4. This would affect Scheduled jobs execution and we are investigating it.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 07:16:03 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 07:16:03 -0800</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@
 <link>https://status.informatica.com/incidents/l66ddnhmpty3</link>
 <guid>https://status.informatica.com/incidents/l66ddnhmpty3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>04:13</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>19</var>, <var>02:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>02:07</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>19</var>, <var>02:06</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch for Taskflow to address User Interface issues encountered as part of the February Release.<br /><br />This is a zero downtime update and has no impact on running jobs or services.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 04:13:42 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 04:13:42 -0800</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@
 <link>https://status.informatica.com/incidents/cbq5zxlk8v6x</link>
 <guid>https://status.informatica.com/incidents/cbq5zxlk8v6x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>03:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>19</var>, <var>01:31</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>00:58</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a Google Analytics task error.  This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b>Attention:</b> This will deploy a new version of the Data Integration Service.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 03:30:57 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 03:30:57 -0800</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@
 <link>https://status.informatica.com/incidents/0d8m2bzfkp9l</link>
 <guid>https://status.informatica.com/incidents/0d8m2bzfkp9l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>16:19</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>10:05</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>16</var>, <var>09:59</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>16</var>, <var>08:11</var> PST</small><br /><strong>Investigating</strong> - We are observing performance issues while executing the process and it might take longer to complete in the Integration console.<br />We are actively working to resolve the issue on priority.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 16:19:05 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 16:19:05 -0800</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@
 <link>https://status.informatica.com/incidents/ghb9zr02cj04</link>
 <guid>https://status.informatica.com/incidents/ghb9zr02cj04</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>15:19</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>14:32</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>16</var>, <var>14:12</var> PST</small><br /><strong>Investigating</strong> - We are observing intermittent performance issues while executing and publishing the processes. We are working on a priority to resolve this.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 15:19:40 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 15:19:40 -0800</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@
 <link>https://status.informatica.com/incidents/gvj9rcgzxj5l</link>
 <guid>https://status.informatica.com/incidents/gvj9rcgzxj5l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>04:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>02:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>01:55</var> PST</small><br /><strong>Scheduled</strong> - Snowflake plans to rollout 2024_01 bundle related to sequences and columns, which might impact your existing Snowflake Data Cloud mapping tasks that are based on a mapping in SQL ELT mode configured with the Sequence Generator transformation. For more details about the Snowflake update, see https://docs.snowflake.com/en/release-notes/bcr-bundles/2024_01/bcr-1483?css<br />Snowflake Data Cloud Connector patch will make sure your mappings are not impacted because of the Snowflake update and continue to work like before. This is a Zero Downtime deployment and it will not impact any running jobs or services.<br /><br />Action needed: None<br /><br />Attention: This will deploy a new version of the Data Integration Service.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 04:30:58 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 04:30:58 -0800</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@
 <link>https://status.informatica.com/incidents/qxrfxjq2p1tc</link>
 <guid>https://status.informatica.com/incidents/qxrfxjq2p1tc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>00:36</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>23:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>22:47</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration to resolve an Asset Import internal error.  This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b>Action Needed:</b> None.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 00:36:56 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 00:36:56 -0800</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@
 <link>https://status.informatica.com/incidents/l6pxv2c3m02c</link>
 <guid>https://status.informatica.com/incidents/l6pxv2c3m02c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>22:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>21:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>12:07</var> PST</small><br /><strong>Scheduled</strong> - Informatica Intelligent Data Management is implementing a crucial enhancement to our infrastructure by introducing a unified Global Package Dependency Manager. This Global Package Dependency Manager will facilitate the seamless download of the latest Secure Agent packages across all IDMC PODs.<br /><br />This update will retire the old regional package dependency manager and redirect all traffic to the new unified Global Package Dependency Manager. These changes will not impact the IP addresses for the Identity Service or other IDMC services.<br /><br />To avoid any service disruption, allow the following IP addresses or domain (depending on your network policy) through your organization’s firewall before February 15, 2023.<br /><br /><b>New IP Addresses:</b><br /><br /><i>Primary IP addresses:</i><br />34.215.138.77<br />34.217.216.210<br />44.228.239.240<br /><br /><i>Disaster Recovery (DR) IP addresses:</i><br />34.225.222.175<br />44.215.191.102<br />174.129.76.131<br /><br /><b>New FQDN for Global Package Dependency Manager:</b> [https://global-package.dm.informaticacloud.com|https://global-package.dm.informaticacloud.com/]<br /><br />To ensure access to the new Global Package Dependency Manager, please test access from the secure agent via the following URL: [https://global-package.dm.informaticacloud.com/package-manager/mgmtapi/version]<br /><br />A test utility is available for testing purposes and can be run directly from the secure agent machine. For detailed information, please refer to the FAQ: [https://knowledge.informatica.com/s/article/Change-in-Package-Dependency-Manager-IP-Addresses-and-Domain-for-IDMC-all-pods?language=en_US]</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 22:01:01 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 22:01:01 -0800</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@
 <link>https://status.informatica.com/incidents/v8f5y08fv3ft</link>
 <guid>https://status.informatica.com/incidents/v8f5y08fv3ft</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>11:42</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>05:35</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>15</var>, <var>05:14</var> PST</small><br /><strong>Investigating</strong> - We are experiencing intermittent issues accessing the Data Integration Taskflow on the USE4 POD. This issue is affecting both the designer and the runtime, and we are actively working to resolve the issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 11:42:18 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 11:42:18 -0800</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@
 <link>https://status.informatica.com/incidents/chqm12jzlcs5</link>
 <guid>https://status.informatica.com/incidents/chqm12jzlcs5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>06:47</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>23:29</var> PST</small><br /><strong>Monitoring</strong> - The issue was resolved around 11:27 PM  PT, and service is currently operating normally. While there haven't been any process failures. <br />We're actively monitoring the services to ensure continued smooth operation.</p><p><small>Feb <var>14</var>, <var>22:14</var> PST</small><br /><strong>Investigating</strong> - We noticed an intermittent issue on the IICS EM West 1 pod while accessing the Application Integration console, designer, and CAI schedulers. The issue is currently being investigated on priority and we shall keep the status page updated. <br />Please contact Global Customer Support for any queries. May get errors like below: <br /><br />1. The application is not configured correctly by using the org ID ''. <br />2. 504 gateway Timed Out error.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 06:47:50 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 06:47:50 -0800</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@
 <link>https://status.informatica.com/incidents/mzdc7nt8pbfy</link>
 <guid>https://status.informatica.com/incidents/mzdc7nt8pbfy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>04:29</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>03:53</var> PST</small><br /><strong>Monitoring</strong> - The issue is resolved and users should be able to download the session logs.</p><p><small>Feb <var>15</var>, <var>03:42</var> PST</small><br /><strong>Investigating</strong> - We are observing an issue while downloading the session logs in the Cloud CDI-e Services.<br />There is no impact on mapping design or on the runtime. All the other services are operating normally.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 04:29:22 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 04:29:22 -0800</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@
 <link>https://status.informatica.com/incidents/xd1sfbmdx1k6</link>
 <guid>https://status.informatica.com/incidents/xd1sfbmdx1k6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>04:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>03:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>02:49</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Integration Hub to address event errors while utilizing the Notification URL.  This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b>Action needed:</b> None.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 04:01:00 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 04:01:00 -0800</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@
 <link>https://status.informatica.com/incidents/vggkrljq3qnc</link>
 <guid>https://status.informatica.com/incidents/vggkrljq3qnc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>23:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>19:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 6</var>, <var>09:31</var> PST</small><br /><strong>Scheduled</strong> - Intelligent Data Management Cloud (IDMC) February 2024 standard release.<br /><br />Connectors being updated:<br /><br />Hadoop Files V2<br /><br />Hive Connector<br /><br />FileProcessor<br /><br />Adobe Experience Platform<br /><br />ServiceNow<br /><br />Salesforce<br /><br />IBMMQ<br /><br />Microsoft Fabric Data Warehouse<br /><br />Google BigQeury V2<br /><br />Snowflake Data Cloud Connector<br /><br />DataBricks Delta<br /><br />SAP ODP Extractor<br /><br />SAP ADSO Writer<br /><br />AribaV2<br /><br />SAPTableConnector<br /><br />SAP BW Connector<br /><br />DnBCDIConnector ( Partner connector )<br /><br />Packages being updated :<br /><br />SAP Idoc<br /><br />CCIAgent<br /><br />ConnectorService<br /><br />Platform Services are being updated.<br /><br />Cloud Data Quality and Cloud Profiling are being updated.<br /><br />MDM Multidomain SaaS, Customer 360 SaaS, Reference 360 SaaS, and Product 360 SaaS are being updated.<br /><br />Cloud Mass Ingestion Files, Database, Application, and associated agent service for each are<br /><br />being updated.<br /><br />Cloud Data Integration is being updated.<br /><br />Cloud Application Integration is being updated and there is no new package for Process Server.<br /><br />Cloud Data Integration for PowerCenter is being updated.<br /><br />For more details about the February 2024 standard release, please refer to the following resources:<br /><br />🆕 What’s New Guide:<br /><br />Discover the latest capabilities in our What’s New Guide: https://onlinehelp.informatica.com/IICS/prod/WhatsNew/en/index.htm<br /><br />❓ FAQ:<br /><br />Find answers to common questions and learn about any behavior changes in our FAQ:<br /><br />https://knowledge.informatica.com/s/article/IDMC-Release-FAQ?language=en_US<br /><br />Release Readiness Documentation<br /><br />https://docs.informatica.com/cloud-common-services/administrator/h2l/1772-release-readiness/landing-page.html<br /><br />🔗 Release Definitions:<br /><br />For a deeper dive into release definitions, please refer to: https://knowledge.informatica.com/s/article/IICS-Release-Definitions<br /><br />🗓️ Stay Informed:<br /><br />Keep track of all upcoming release and maintenance schedules for IDMC by visiting our Events page: https://network.informatica.com/s/event-landing<br /><br />Any Questions? Please contact Global Customer Support: https://www.informatica.com/services-and-training/customer-success-services/contact-us.html</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 23:30:58 -0800</pubDate>
 <pubDate>Wed, 14 Feb 2024 23:30:58 -0800</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@
 <link>https://status.informatica.com/incidents/0lyw58q6l66n</link>
 <guid>https://status.informatica.com/incidents/0lyw58q6l66n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>23:04</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>22:45</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>22:34</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Integration Hub to address event errors while utilizing the Notification URL.  This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b>Action needed:</b> None.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 23:04:34 -0800</pubDate>
 <pubDate>Wed, 14 Feb 2024 23:04:34 -0800</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@
 <link>https://status.informatica.com/incidents/nmw6z74npv8w</link>
 <guid>https://status.informatica.com/incidents/nmw6z74npv8w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>19:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>09:06</var> PST</small><br /><strong>Scheduled</strong> - The public SSL certificates for the Cloud Application Integration is scheduled for renewal on February 14, 2024, between 7:00 PM and 11:00 PM PST specifically for services on EM SouthEast 1 Azure Services. If your client application enforces comprehensive certificate chain validation, these renewed certificates can be integrated into its trust store. The article links below provide SSL certificates that will be used for renewal. These can be imported to your client's trust store, alongside any existing certificates you might already possess, if needed.<br /><br />Please find the article links with Certificates:<br />https://knowledge.informatica.com/s/article/Cloud-Application-Integration-Server-certificate-for-Azure-EMSE-1-POD</p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Feb 2024 23:00:56 -0800</pubDate>
-<pubDate>Wed, 14 Feb 2024 23:00:56 -0800</pubDate>
 </item>
-
 </channel>
 </rss>

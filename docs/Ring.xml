@@ -4,6 +4,7 @@
 <title>Ring.com Status - Incident History</title>
 <link>https://status.ring.com</link>
 
+
 <item>
 <title>Ring.com Displaying Incorrectly</title>
 <link>https://status.ring.com/incidents/zxygb0wj0cl2</link>
@@ -17,17 +18,14 @@ Summary: The incident has been resolved. <div>
 <p><small>Jan <var>23</var>, <var>20:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>23</var>, <var>20:20</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Tue, 23 Jan 2024 20:22:00 +0000</pubDate>
-<pubDate>Tue, 23 Jan 2024 20:22:00 +0000</pubDate>
 </item>
 <item>
 <title>Incomplete Setups</title>
 <link>https://status.ring.com/incidents/sy3jh4fqs60x</link>
 <guid>https://status.ring.com/incidents/sy3jh4fqs60x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>22:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>15</var>, <var>19:42</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating a concern that may prevent successful completion of device setups.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 22:14:09 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 22:14:09 +0000</pubDate>
 </item>
 <item>
@@ -35,10 +33,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/gjbtb2gxt6g7</link>
 <guid>https://status.ring.com/incidents/gjbtb2gxt6g7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>13</var>, <var>21:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>13</var>, <var>21:01</var> UTC</small><br /><strong>Identified</strong> - A fix is being implemented. If you experience this issue, navigate to ring.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 21:13:57 +0000</pubDate>
 <pubDate>Mon, 13 Nov 2023 21:13:57 +0000</pubDate>
 </item>
 <item>
@@ -46,10 +42,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/bvc2sgfzg7w3</link>
 <guid>https://status.ring.com/incidents/bvc2sgfzg7w3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>03:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 1</var>, <var>02:44</var> UTC</small><br /><strong>Update</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 1</var>, <var>01:51</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and teams are working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Nov 2023 03:02:52 +0000</pubDate>
 <pubDate>Wed, 01 Nov 2023 03:02:52 +0000</pubDate>
 </item>
 <item>
@@ -57,10 +51,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/yjsxbmzgkrp1</link>
 <guid>https://status.ring.com/incidents/yjsxbmzgkrp1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>18</var>, <var>01:10</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>16</var>, <var>21:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>16</var>, <var>14:00</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue causing some neighbors to be unable to load the preview thumbnail of the Event History section of the Ring app. We are working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Sep 2023 01:10:22 +0000</pubDate>
 <pubDate>Mon, 18 Sep 2023 01:10:22 +0000</pubDate>
 </item>
 <item>
@@ -68,10 +60,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/djj0zck4t8b6</link>
 <guid>https://status.ring.com/incidents/djj0zck4t8b6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>15</var>, <var>01:36</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>15</var>, <var>01:26</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Sep <var>15</var>, <var>00:05</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports that some Neighbors are unable to load live video services.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Sep 2023 01:36:04 +0000</pubDate>
 <pubDate>Fri, 15 Sep 2023 01:36:04 +0000</pubDate>
 </item>
 <item>
@@ -79,10 +69,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/rw6wnz1rf8bn</link>
 <guid>https://status.ring.com/incidents/rw6wnz1rf8bn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>14</var>, <var>21:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>14</var>, <var>20:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>14</var>, <var>20:12</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Sep 2023 21:24:30 +0000</pubDate>
 <pubDate>Thu, 14 Sep 2023 21:24:30 +0000</pubDate>
 </item>
 <item>
@@ -90,10 +78,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/md9h54dk16cj</link>
 <guid>https://status.ring.com/incidents/md9h54dk16cj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>13</var>, <var>21:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>13</var>, <var>21:22</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports that some Neighbors are unable to load live video services.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Sep 2023 21:57:58 +0000</pubDate>
 <pubDate>Wed, 13 Sep 2023 21:57:58 +0000</pubDate>
 </item>
 <item>
@@ -101,10 +87,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/0fcdc3zw9fcw</link>
 <guid>https://status.ring.com/incidents/0fcdc3zw9fcw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 9</var>, <var>17:11</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved. Some videos recorded during this time may not become available.</p><p><small>Aug <var> 9</var>, <var>13:59</var> UTC</small><br /><strong>Investigating</strong> - We've received reports that newly created events are not being saved as recordings.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Aug 2023 17:11:52 +0000</pubDate>
 <pubDate>Wed, 09 Aug 2023 17:11:52 +0000</pubDate>
 </item>
 <item>
@@ -112,10 +96,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/xldvrp8dztpm</link>
 <guid>https://status.ring.com/incidents/xldvrp8dztpm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>28</var>, <var>23:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>28</var>, <var>23:22</var> UTC</small><br /><strong>Update</strong> - We are seeing improvements across the board, but some services may still be experiencing degraded performance.</p><p><small>Jul <var>28</var>, <var>22:38</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>28</var>, <var>21:48</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports that some Neighbors are unable to load the Ring app.</p>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jul 2023 23:57:44 +0000</pubDate>
 <pubDate>Fri, 28 Jul 2023 23:57:44 +0000</pubDate>
 </item>
 <item>
@@ -123,10 +105,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/ggj28dlrgkv8</link>
 <guid>https://status.ring.com/incidents/ggj28dlrgkv8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>30</var>, <var>16:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>30</var>, <var>16:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>30</var>, <var>15:17</var> UTC</small><br /><strong>Investigating</strong> - Some users attempting to log in to the Ring app on Android are receiving various errors preventing successful login. iOS and Ring.com do not appear to be affected at this time. Ring.com from a desktop or mobile browser can be used as a short-term workaround while we work to resolve this.</p>
 ]]></content:encoded>
-<pubDate>Fri, 30 Jun 2023 16:25:26 +0000</pubDate>
 <pubDate>Fri, 30 Jun 2023 16:25:26 +0000</pubDate>
 </item>
 <item>
@@ -134,10 +114,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/tkfg6ky7gmzd</link>
 <guid>https://status.ring.com/incidents/tkfg6ky7gmzd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>17</var>, <var>17:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>17</var>, <var>15:42</var> UTC</small><br /><strong>Investigating</strong> - We're currently investigating an issue causing Ring devices to report as offline. It's possible at this time that this may be due to a major US ISP outage.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Jun 2023 17:03:49 +0000</pubDate>
 <pubDate>Sat, 17 Jun 2023 17:03:49 +0000</pubDate>
 </item>
 <item>
@@ -145,10 +123,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/fmvt2fz4d7dp</link>
 <guid>https://status.ring.com/incidents/fmvt2fz4d7dp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>13</var>, <var>23:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Jun <var>13</var>, <var>20:57</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>13</var>, <var>20:55</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>13</var>, <var>20:00</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>13</var>, <var>19:57</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with an upstream provider causing multiple outages in our services. We are working to resolve this issue as soon as possible. This disruption is effecting our Customer Support team's phone and chat capabilities.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 23:04:56 +0000</pubDate>
 <pubDate>Tue, 13 Jun 2023 23:04:56 +0000</pubDate>
 </item>
 <item>
@@ -156,10 +132,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/3f7spb211xpv</link>
 <guid>https://status.ring.com/incidents/3f7spb211xpv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 5</var>, <var>13:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 5</var>, <var>13:42</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var> 5</var>, <var>13:27</var> UTC</small><br /><strong>Investigating</strong> - We have confirmed some Neighbors are unable to utilize live video streaming services</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Jun 2023 13:54:38 +0000</pubDate>
 <pubDate>Mon, 05 Jun 2023 13:54:38 +0000</pubDate>
 </item>
 <item>
@@ -167,10 +141,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/pkjjhxgn4gcb</link>
 <guid>https://status.ring.com/incidents/pkjjhxgn4gcb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 3</var>, <var>05:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 3</var>, <var>03:59</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jun <var> 3</var>, <var>03:59</var> UTC</small><br /><strong>Identified</strong> - We have identified that some users may experience issues when deleting events.</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Jun 2023 05:20:54 +0000</pubDate>
 <pubDate>Sat, 03 Jun 2023 05:20:54 +0000</pubDate>
 </item>
 <item>
@@ -178,10 +150,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/fjj7b7s6rd5c</link>
 <guid>https://status.ring.com/incidents/fjj7b7s6rd5c</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>26</var>, <var>23:16</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>26</var>, <var>22:29</var> UTC</small><br /><strong>Investigating</strong> - We've identified an issue causing Modes to be unavailable. This is preventing Ring Alarm devices from changing status via the Ring app or Alexa. Additionally, playback of recordings on Ring.com has an increased error rate.</p>
 ]]></content:encoded>
-<pubDate>Fri, 26 May 2023 23:16:44 +0000</pubDate>
 <pubDate>Fri, 26 May 2023 23:16:44 +0000</pubDate>
 </item>
 <item>
@@ -189,10 +159,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/b8cpq9l5s898</link>
 <guid>https://status.ring.com/incidents/b8cpq9l5s898</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 5</var>, <var>20:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var> 5</var>, <var>18:36</var> UTC</small><br /><strong>Update</strong> - Further investigation has showed a small number of iOS and Android app users may see degraded Live Video performance, but in most cases re-trying a Live View should work where the first attempt failed.</p><p><small>Apr <var> 5</var>, <var>18:34</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var> 5</var>, <var>17:26</var> UTC</small><br /><strong>Update</strong> - Further investigation has showed this only affects live video on Ring.com, and through Alexa devices and other third-party integrations.</p><p><small>Apr <var> 5</var>, <var>15:46</var> UTC</small><br /><strong>Investigating</strong> - We have confirmed some Neighbors are unable to utilize live video streaming services</p>
 ]]></content:encoded>
-<pubDate>Wed, 05 Apr 2023 20:19:55 +0000</pubDate>
 <pubDate>Wed, 05 Apr 2023 20:19:55 +0000</pubDate>
 </item>
 <item>
@@ -200,10 +168,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/9405swpjn081</link>
 <guid>https://status.ring.com/incidents/9405swpjn081</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 8</var>, <var>17:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 8</var>, <var>16:43</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that causes Ring Alarm to incorrectly report as "offline" in the Ring app, which prevents the changing of Modes from the app. Keypads will still work normally in the meantime.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Mar 2023 17:32:47 +0000</pubDate>
 <pubDate>Wed, 08 Mar 2023 17:32:47 +0000</pubDate>
 </item>
 <item>
@@ -211,10 +177,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/4wnk0jyfq9lk</link>
 <guid>https://status.ring.com/incidents/4wnk0jyfq9lk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>23:58</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>23</var>, <var>23:30</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports that some Neighbors are unable to load live video on devices with Ring Edge enabled.</p>
 ]]></content:encoded>
-<pubDate>Thu, 23 Feb 2023 23:58:38 +0000</pubDate>
 <pubDate>Thu, 23 Feb 2023 23:58:38 +0000</pubDate>
 </item>
 <item>
@@ -222,10 +186,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/8lj31t1x60vj</link>
 <guid>https://status.ring.com/incidents/8lj31t1x60vj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>01:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>00:42</var> UTC</small><br /><strong>Identified</strong> - We have confirmed some Neighbors are unable to utilize live video streaming services.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Feb 2023 01:46:35 +0000</pubDate>
 <pubDate>Fri, 03 Feb 2023 01:46:35 +0000</pubDate>
 </item>
 <item>
@@ -233,10 +195,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/877pyq72w1tw</link>
 <guid>https://status.ring.com/incidents/877pyq72w1tw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>16</var>, <var>23:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved by a backend fix.</p><p><small>Dec <var>16</var>, <var>16:31</var> UTC</small><br /><strong>Investigating</strong> - Some neighbors may experience freezing video in the app when viewing live video on the Spotlight Cam Pro. Recordings will function normally and no video footage will be lost.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Dec 2022 23:49:21 +0000</pubDate>
 <pubDate>Fri, 16 Dec 2022 23:49:21 +0000</pubDate>
 </item>
 <item>
@@ -244,10 +204,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/n92khqktrrt7</link>
 <guid>https://status.ring.com/incidents/n92khqktrrt7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>10</var>, <var>18:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>10</var>, <var>16:15</var> UTC</small><br /><strong>Monitoring</strong> - Google has reported an issue causing delays in receiving emails to GMail-hosted accounts. This may delay receipt of verification codes from Ring to any email accounts hosted by GMail. More info can be found here: https://www.google.com/appsstatus/dashboard/incidents/fUoeMVUu4mVDY4Wyg8Cf</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Dec 2022 18:51:41 +0000</pubDate>
 <pubDate>Sat, 10 Dec 2022 18:51:41 +0000</pubDate>
 </item>
 <item>
@@ -255,10 +213,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/mhpdwx5klg8n</link>
 <guid>https://status.ring.com/incidents/mhpdwx5klg8n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>03:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>22</var>, <var>03:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 22 Nov 2022 03:40:49 +0000</pubDate>
 <pubDate>Tue, 22 Nov 2022 03:40:49 +0000</pubDate>
 </item>
 <item>
@@ -266,10 +222,8 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/2t5wkw8dpdlm</link>
 <guid>https://status.ring.com/incidents/2t5wkw8dpdlm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>19</var>, <var>02:54</var> UTC</small><br /><strong>Resolved</strong> - We have identified a small number of devices that were affected and will be rolling back the changes.</p><p><small>Nov <var>18</var>, <var>17:11</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var>18</var>, <var>17:10</var> UTC</small><br /><strong>Investigating</strong> - We're investigating Ring Video Doorbell Wired devices remaining in night vision mode which is causing black & white video. There is no workaround available at this time.</p>
 ]]></content:encoded>
-<pubDate>Sat, 19 Nov 2022 02:54:23 +0000</pubDate>
 <pubDate>Sat, 19 Nov 2022 02:54:23 +0000</pubDate>
 </item>
 <item>
@@ -277,12 +231,9 @@ Summary: The incident has been resolved. <div>
 <link>https://status.ring.com/incidents/9ttcm7qkqzvf</link>
 <guid>https://status.ring.com/incidents/9ttcm7qkqzvf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>23:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 3</var>, <var>23:01</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 3</var>, <var>21:12</var> UTC</small><br /><strong>Investigating</strong> - We are aware of a delay of 15+ minutes in receiving password reset emails for Ring accounts. We are currently investigating the cause of this delay.</p>
 ]]></content:encoded>
 <pubDate>Thu, 03 Nov 2022 23:30:48 +0000</pubDate>
-<pubDate>Thu, 03 Nov 2022 23:30:48 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

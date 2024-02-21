@@ -4,6 +4,7 @@
 <title>Lunio Status - Incident History</title>
 <link>https://status.lunio.ai</link>
 
+
 <item>
 <title>Database upgrade</title>
 <link>https://status.lunio.ai/incidents/pjj87g91ltx8</link>
@@ -14,17 +15,14 @@ Summary: The scheduled maintenance has been completed. <div>
 <p><small>Feb <var>14</var>, <var>19:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>17:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>14:50</var> GMT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Feb 2024 19:00:56 +0000</pubDate>
-<pubDate>Wed, 14 Feb 2024 19:00:56 +0000</pubDate>
 </item>
 <item>
 <title>Database upgrade</title>
 <link>https://status.lunio.ai/incidents/9gkq4p5pcbjj</link>
 <guid>https://status.lunio.ai/incidents/9gkq4p5pcbjj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>19:00</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 7</var>, <var>17:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>15:51</var> GMT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 19:00:56 +0000</pubDate>
 <pubDate>Wed, 07 Feb 2024 19:00:56 +0000</pubDate>
 </item>
 <item>
@@ -32,10 +30,8 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/frthkm51q1xz</link>
 <guid>https://status.lunio.ai/incidents/frthkm51q1xz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>16:50</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>15:30</var> GMT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 16:50:49 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 16:50:49 +0000</pubDate>
 </item>
 <item>
@@ -43,10 +39,8 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/4t1qmzl02xs8</link>
 <guid>https://status.lunio.ai/incidents/4t1qmzl02xs8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>14:32</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>31</var>, <var>14:23</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>31</var>, <var>14:20</var> GMT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 14:32:05 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 14:32:05 +0000</pubDate>
 </item>
 <item>
@@ -54,10 +48,8 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/0q9g7f94ypzb</link>
 <guid>https://status.lunio.ai/incidents/0q9g7f94ypzb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 8</var>, <var>17:45</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>14:50</var> GMT</small><br /><strong>Investigating</strong> - Issue upgrading to Google Ads API V15 resulted in delays of applying IP blocks.</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 17:45:23 +0000</pubDate>
 <pubDate>Mon, 08 Jan 2024 17:45:23 +0000</pubDate>
 </item>
 <item>
@@ -65,10 +57,8 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/j0dtkj56r8nv</link>
 <guid>https://status.lunio.ai/incidents/j0dtkj56r8nv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>16:10</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 3</var>, <var>16:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>15:17</var> GMT</small><br /><strong>Scheduled</strong> - We will be releasing a new version of our click intake. The update should be seamless. Upon a rollback due to problems there might be timeouts for GET requests made by Lunio script.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 16:10:09 +0000</pubDate>
 <pubDate>Wed, 03 Jan 2024 16:10:09 +0000</pubDate>
 </item>
 <item>
@@ -76,10 +66,8 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/ybpxfwdt2rm7</link>
 <guid>https://status.lunio.ai/incidents/ybpxfwdt2rm7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>13:40</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>13:22</var> GMT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 13:40:30 +0000</pubDate>
 <pubDate>Wed, 06 Dec 2023 13:40:30 +0000</pubDate>
 </item>
 <item>
@@ -87,12 +75,9 @@ Summary: The scheduled maintenance has been completed. <div>
 <link>https://status.lunio.ai/incidents/ysv9xdl8mc2m</link>
 <guid>https://status.lunio.ai/incidents/ysv9xdl8mc2m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>16</var>, <var>17:30</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>16</var>, <var>17:15</var> BST</small><br /><strong>Identified</strong> - Nonpaid traffic not analysed due to a release, rollback initiated</p>
 ]]></content:encoded>
 <pubDate>Mon, 16 Oct 2023 17:30:15 +0100</pubDate>
-<pubDate>Mon, 16 Oct 2023 17:30:15 +0100</pubDate>
 </item>
-
 </channel>
 </rss>

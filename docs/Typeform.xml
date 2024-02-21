@@ -4,15 +4,15 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+
 <item>
 <title>Scheduled maintenance - Subscription Services</title>
 <link>https://status.typeform.com/incidents/80gms8pb205g</link>
 <guid>https://status.typeform.com/incidents/80gms8pb205g</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> Summary: On March 3rd at 05:30 CET, there will be a 5-hour scheduled maintenance to improve Subscription services, potentially causing a ~5-minute window of errors for some customers making subscription changes. Maintenance will be closely monitored. <div>
+<div> [Medium] - Scheduled Maintenance <br /><br /> Summary: On March 3rd at 05:30 CET, there will be a 5-hour scheduled maintenance to improve Subscription services, potentially causing a ~5-minute window of errors for some customers making subscription changes. Maintenance will be closely monitored. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>05:30</var> - <var>10:30</var> CET</strong></p><p><small>Feb <var>12</var>, <var>12:29</var> CET</small><br /><strong>Scheduled</strong> - On Sunday the 3rd of March, at 05:30 CET, there will be a scheduled maintenance to improve our Subscription services which will last about 5 hours.<br /><br />During the change window, some customers could experience a ~5-minute window where they see errors while with making changes to their subscription (e.g upgrades, downgrades etc.).<br /><br />Should you continuously see errors, latency or impact of any kind to your subscription changes, please reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems.</p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 05:30:00 +0100</pubDate>
 <pubDate>Sun, 03 Mar 2024 05:30:00 +0100</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.typeform.com/incidents/5g3z4l5ygk49</link>
 <guid>https://status.typeform.com/incidents/5g3z4l5ygk49</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>05:30</var> - <var>10:30</var> CET</strong></p><p><small>Feb <var>12</var>, <var>12:28</var> CET</small><br /><strong>Scheduled</strong> - On Saturday the 2nd of March, at 05:30 CET, there will be a scheduled maintenance to improve our Subscription services which will last about 5 hours.<br /><br />During the change window, some customers could experience a ~5-minute window where they see errors while with making changes to their subscription (e.g upgrades, downgrades etc.).<br /><br />Should you continuously see errors, latency or impact of any kind to your subscription changes, please reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems.</p>
 ]]></content:encoded>
-<pubDate>Sat, 02 Mar 2024 05:30:00 +0100</pubDate>
 <pubDate>Sat, 02 Mar 2024 05:30:00 +0100</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.typeform.com/incidents/hcn3n6tvh5pv</link>
 <guid>https://status.typeform.com/incidents/hcn3n6tvh5pv</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>05:30</var> - <var>10:30</var> CET</strong></p><p><small>Feb <var>12</var>, <var>12:26</var> CET</small><br /><strong>Scheduled</strong> - On Sunday the 25th of Feb, at 05:30 CET, there will be a scheduled maintenance to improve our Subscription services which will last about 5 hours.<br /><br />During the change window, some customers could experience a ~5-minute window where they see errors while with making changes to their subscription (e.g upgrades, downgrades etc.).<br /><br />Should you continuously see errors, latency or impact of any kind to your subscription changes, please reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems.</p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 05:30:00 +0100</pubDate>
 <pubDate>Sun, 25 Feb 2024 05:30:00 +0100</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.typeform.com/incidents/t199jmytjb0j</link>
 <guid>https://status.typeform.com/incidents/t199jmytjb0j</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>05:30</var> - <var>10:30</var> CET</strong></p><p><small>Feb <var>12</var>, <var>13:34</var> CET</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>12</var>, <var>12:24</var> CET</small><br /><strong>Scheduled</strong> - On Saturday 24th of Feb, at 05:30 CET there will be a scheduled maintenance to improve our Subscription services which will last about 5 hours.<br /><br />During the change window, some customers could experience a ~5-minute window where they see errors while with making changes to their subscription (e.g upgrades, downgrades etc.).<br /><br />Should you continuously see errors, latency or impact of any kind to your subscription changes, please reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems.</p>
 ]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 05:30:00 +0100</pubDate>
 <pubDate>Sat, 24 Feb 2024 05:30:00 +0100</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.typeform.com/incidents/k3kq03244pfp</link>
 <guid>https://status.typeform.com/incidents/k3kq03244pfp</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>06:00</var> - <var>08:30</var> CET</strong></p><p><small>Feb <var> 9</var>, <var>13:03</var> CET</small><br /><strong>Scheduled</strong> - On Thursday 22nd of February at 06:00 CET, we’ll be performing a scheduled maintenance to improve our Subscriptions service which will last about 2 hours.<br /><br />During the change window, the following services will be affected, and users may experience errors with the following actions/views:<br /><br />* Creating/upgrading subscriptions<br />* Editing payment information<br />* Some delays in the data shown in the plan & billing section<br /><br />However, viewing subscription, invoices, and payment information should remain unaffected.<br /><br />If you encounter errors, latency, or any impact related to the Subscriptions service, after the change window, please reach out to us at https://www.typeform.com/help/contact/.<br /><br />We’ll be closely monitoring our systems and will provide updates here if necessary.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 06:00:00 +0100</pubDate>
 <pubDate>Thu, 22 Feb 2024 06:00:00 +0100</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.typeform.com/incidents/8wq812t3ll1n</link>
 <guid>https://status.typeform.com/incidents/8wq812t3ll1n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>09:00</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>06:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>17:51</var> CET</small><br /><strong>Scheduled</strong> - On Wednesday, 21st of February at 06:00 CET, we'll be performing a scheduled maintenance to improve our Excel App which will last about 3 hours. <br /><br />During the maintenance window, users won't be able to edit or configure new Excel integrations. <br /><br />Any responses collected on forms during the change window will be sent to Excel after the change window. However, we do expect a 3-4 hours delay before all are processed.<br /> <br />We will be closely monitoring our systems and share further updates here when the change starts. <br /><br />Should you have any questions, please feel free to reach out at https://www.typeform.com/help/contact/</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 09:00:56 +0100</pubDate>
 <pubDate>Wed, 21 Feb 2024 09:00:56 +0100</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.typeform.com/incidents/qlwf0lt7pv6m</link>
 <guid>https://status.typeform.com/incidents/qlwf0lt7pv6m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>08:24</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>06:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>17:47</var> CET</small><br /><strong>Scheduled</strong> - On Tuesday, 20th of February at 06:00 CET, we'll be performing a scheduled maintenance to improve our HubSpot App which will last about 3 hours. <br /><br />During the maintenance window, users won't be able to edit or configure new HubSpot integrations. <br /><br />Any responses collected on forms during the change window will be sent to HubSpot after the change window. However, we do expect a 3-4 hours delay before all are processed.<br /> <br />We will be closely monitoring our systems and share further updates here when the change starts. <br /><br />Should you have any questions, please feel free to reach out at https://www.typeform.com/help/contact/</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 08:24:31 +0100</pubDate>
 <pubDate>Tue, 20 Feb 2024 08:24:31 +0100</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.typeform.com/incidents/sqgzyrrj73wy</link>
 <guid>https://status.typeform.com/incidents/sqgzyrrj73wy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>08:30</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>06:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>12:52</var> CET</small><br /><strong>Scheduled</strong> - On Wednesday, 14th of February at 06:00 CET, we’ll be performing a scheduled maintenance to improve to improve our Connect Panel. The change window will last about 2.5 hours.<br /><br />During the change window, no new internal integrations can be set up.<br /><br />If you encounter errors, latency, or any impact related to the services, after the change window, please reach out to us at https://www.typeform.com/help/contact/.<br /><br />We’ll be closely monitoring our systems and will provide updates here if necessary.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 08:30:56 +0100</pubDate>
 <pubDate>Wed, 14 Feb 2024 08:30:56 +0100</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.typeform.com/incidents/vlcq7s8ppxhp</link>
 <guid>https://status.typeform.com/incidents/vlcq7s8ppxhp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>14:46</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var>13</var>, <var>14:42</var> CET</small><br /><strong>Update</strong> - We have applied a fix that has resolved the majority of the issues. Now only our Support "Contact Us" form is impacted. <br /><br />We will continue to work on this, and share updates whenever available.</p><p><small>Feb <var>13</var>, <var>14:15</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our Help Center and Signup pages. Users searching the Help Center or trying to Sign up to new accounts may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 742520 | TU-8438</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 14:46:51 +0100</pubDate>
 <pubDate>Tue, 13 Feb 2024 14:46:51 +0100</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.typeform.com/incidents/c7ws6yfkmgg6</link>
 <guid>https://status.typeform.com/incidents/c7ws6yfkmgg6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>10:00</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>08:54</var> CET</small><br /><strong>Update</strong> - We’re currently progressing according to plan, albeit at a slower pace than anticipated. In light of this, we’ve decided to extend the maintenance window slightly. <br />Rest assured, we’re diligently monitoring everything throughout the process.</p><p><small>Feb <var>13</var>, <var>06:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 9</var>, <var>15:31</var> CET</small><br /><strong>Scheduled</strong> - On Tuesday, 13th of February at 06:00 CET, we’ll be performing a scheduled maintenance to improve our Connect Panel. The change window will last about 2.5 hours.<br /><br />During the change window, No new integrations can be set up.<br /><br />If you encounter errors, latency, or any impact related to the service, after the change window, please reach out to us at https://www.typeform.com/help/contact/.<br /><br />We’ll be closely monitoring our systems and will provide updates here if necessary.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 10:00:58 +0100</pubDate>
 <pubDate>Tue, 13 Feb 2024 10:00:58 +0100</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.typeform.com/incidents/rtwx6kg1bgql</link>
 <guid>https://status.typeform.com/incidents/rtwx6kg1bgql</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>14:24</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var> 8</var>, <var>22:07</var> CET</small><br /><strong>Update</strong> - Webhook deliveries and some integrations may experience slight delays. We appreciate your patience and understanding. <br /><br />Next update as soon as it's available.</p><p><small>Feb <var> 8</var>, <var>16:58</var> CET</small><br /><strong>Update</strong> - Syncing results to Google Sheets may experience delays due to the substantial volume of data being processed. The syncing of this data is ongoing. <br /><br />We appreciate your patience and understanding. Next update as soon as it's available.</p><p><small>Feb <var> 8</var>, <var>13:11</var> CET</small><br /><strong>Update</strong> - Our systems are performing optimally, with webhooks, Follow-Ups, and integrations all functioning as expected. <br /><br />Syncing with Google Sheets may experience delays due to the substantial volume of data being processed. These delays are estimated to last until 5-7 pm CET. <br /><br />We appreciate your patience and understanding. Next update in ~ 1 hour or as soon as it's available.</p><p><small>Feb <var> 8</var>, <var>10:07</var> CET</small><br /><strong>Update</strong> - Our systems are performing optimally, with webhooks, Follow-Ups, and integrations all functioning as expected. <br /><br />Syncing with Google Sheets may experience delays due to the substantial volume of data being processed.<br /><br />We appreciate your patience and understanding. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 8</var>, <var>08:42</var> CET</small><br /><strong>Update</strong> - Users should now be able to establish webhooks, Follow-Ups, and integrations as usual. <br /><br />As the solution continues to be implemented, data that was previously delayed due to this incident should progressively populate.<br /><br />We are monitoring this and will continue to provide updates.</p><p><small>Feb <var> 7</var>, <var>23:34</var> CET</small><br /><strong>Update</strong> - Users should now be able to establish webhooks, Follow-Ups, and integrations as usual. <br /><br />As the solution continues to be implemented, data that was previously delayed due to this incident should progressively populate.<br /><br />We are monitoring this and will continue to provide updates.</p><p><small>Feb <var> 7</var>, <var>21:29</var> CET</small><br /><strong>Update</strong> - We're continuing to monitor the rollout of the solution that has been deployed.<br /><br />Please be aware that existing webhooks, Follow-Ups, and integrations may encounter a delay in data transmission during this period.<br />The establishment of new integrations and webhooks is temporarily on hold. However, as the solution takes effect, these services will gradually resume their normal operation.<br /><br />We sincerely apologize for any inconvenience this may cause. Please stay tuned for the next update, which is expected in approximately 1 hour or as soon as more information becomes available.</p><p><small>Feb <var> 7</var>, <var>20:27</var> CET</small><br /><strong>Monitoring</strong> - We have successfully deployed a solution and will persistently keep our users informed about the ongoing progress.<br /><br />Please be aware that existing webhooks, Follow-Ups, and integrations may encounter a delay in data transmission during this period.<br /><br />The establishment of new integrations and webhooks is temporarily on hold. However, as the solution takes effect, these services will gradually resume their normal operation.<br /><br />We sincerely apologize for any inconvenience this may cause. Please stay tuned for the next update, which is expected in approximately 45 minutes or as soon as more information becomes available.</p><p><small>Feb <var> 7</var>, <var>19:27</var> CET</small><br /><strong>Update</strong> - A fix has been deployed, and we will continue to update users on the progress. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~45 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>18:27</var> CET</small><br /><strong>Update</strong> - We are working on resolving an interruption impacting our Webhooks, Integrations, and Follow-ups with high priority. At this time, it may take longer than expected for data to be sent through webhooks, integrations, or Follow-Up emails. Data is not lost, just delayed.<br /><br /><br />We are really sorry for any inconvenience this is causing. Next update in ~45 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>17:30</var> CET</small><br /><strong>Update</strong> - We are working on resolving a brief traffic interruption impacting our Webhooks, Integrations, and Follow-ups with high priority. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>16:41</var> CET</small><br /><strong>Update</strong> - We are working on resolving a brief traffic interruption impacting our Webhooks, Integrations, and Follow-ups with high priority. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>15:52</var> CET</small><br /><strong>Update</strong> - We are working on resolving a brief traffic interruption impacting our Webhooks, Integrations, and Follow-ups with high priority. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>15:01</var> CET</small><br /><strong>Update</strong> - We are working on resolving a brief traffic interruption impacting our Webhooks, Integrations, and Follow-ups with high priority. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>14:21</var> CET</small><br /><strong>Update</strong> - We have identified a brief traffic interruption impacting our Follow-ups feature too. Some users trying to set up Follow-ups may be impacted. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>14:02</var> CET</small><br /><strong>Identified</strong> - We have identified a brief traffic interruption impacting our webhooks. Some webhooks deliveries may be delayed. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 740849 | TU-8263</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 14:24:03 +0100</pubDate>
 <pubDate>Fri, 09 Feb 2024 14:24:03 +0100</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.typeform.com/incidents/dwtrvwjlwq7l</link>
 <guid>https://status.typeform.com/incidents/dwtrvwjlwq7l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>16:02</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var> 8</var>, <var>15:50</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the issue impacting our Subscription service. As of now, we have identified the root cause for this incident and the fix is being applied now. <br /><br />Accept our apologies for any inconvenience this is causing. We'll share another update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 8</var>, <var>15:24</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our Subscription service. Users are not able to update the payment on their account. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF:  741533 | TU-8316</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 16:02:13 +0100</pubDate>
 <pubDate>Thu, 08 Feb 2024 16:02:13 +0100</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.typeform.com/incidents/z99kp23xfpkv</link>
 <guid>https://status.typeform.com/incidents/z99kp23xfpkv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>19:43</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var> 7</var>, <var>19:08</var> CET</small><br /><strong>Monitoring</strong> - We are glad to inform you that the fix has been implemented and typeform.com is functioning as expected. If for any reason you are still impacted by this incident please let us know.<br /><br />We will run a problem investigation to understand what happened and how to prevent it from happening again. Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var> 7</var>, <var>18:27</var> CET</small><br /><strong>Update</strong> - We have identified errors impacting our website. Users accessing typeform.com, the help center, or the billing page may be impacted. We are working on a resolution with high priority. <br /><br />Next update in ~45 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>17:45</var> CET</small><br /><strong>Update</strong> - We have identified errors impacting our website. Users accessing typeform.com, the help center, or the billing page may be impacted. We are working on a resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var> 7</var>, <var>17:07</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our website. Users accessing typeform.com, the help center, or the billing page may be impacted. We are working on a resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 741017 | WEB-7419</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 19:43:47 +0100</pubDate>
 <pubDate>Wed, 07 Feb 2024 19:43:47 +0100</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.typeform.com/incidents/d2d4m6nnf8ks</link>
 <guid>https://status.typeform.com/incidents/d2d4m6nnf8ks</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>14:00</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Jan <var>18</var>, <var>13:07</var> CET</small><br /><strong>Monitoring</strong> - Following the implementation of a solution for this issue, we are actively monitoring it until a complete resolution is achieved.<br />We appreciate your patience and apologize for any inconvenience this may have caused.<br /><br />Next update in ~30 minutes or as soon as it's available.</p><p><small>Jan <var>18</var>, <var>12:18</var> CET</small><br /><strong>Identified</strong> - We have identified an issue impacting our form summary/reports. Users viewing their form's summary data/report feature may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 736041 | TU-7838</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 14:00:19 +0100</pubDate>
 <pubDate>Thu, 18 Jan 2024 14:00:19 +0100</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.typeform.com/incidents/mbzcf3mpbk4t</link>
 <guid>https://status.typeform.com/incidents/mbzcf3mpbk4t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>22:59</var> CET</small><br /><strong>Resolved</strong> - On January 16th, 2024 we identified an issue that caused data sent from Typeform to Zapier to fail. <br /><br />The incident began at 12:23 PM EST and lasted until 16:31 PM EST. <br /><br />Events were not sent to Zapier during this time and will need to be manually uploaded. <br /><br />REF: ZD 735553 | TU-7808</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Jan 2024 22:59:19 +0100</pubDate>
 <pubDate>Wed, 17 Jan 2024 22:59:19 +0100</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.typeform.com/incidents/9zjmy01w6fmz</link>
 <guid>https://status.typeform.com/incidents/9zjmy01w6fmz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>13</var>, <var>00:15</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the incident has been resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Jan <var>11</var>, <var>15:47</var> CET</small><br /><strong>Update</strong> - The implemented fix is progressing as expected, but there are still around ~10% of responses that need to be processed. We expect this will happen over the following 12–24 hours</p><p><small>Jan <var>10</var>, <var>08:45</var> CET</small><br /><strong>Identified</strong> - Following the implementation of a solution for this issue, we are actively monitoring it until a complete resolution is achieved.<br /><br />We appreciate your patience and apologize for any inconvenience this may have caused.</p><p><small>Jan <var> 9</var>, <var>19:20</var> CET</small><br /><strong>Monitoring</strong> - We have applied a fix for this issue and will be monitoring this until resolution.<br /><br />Thanks for your understanding and sorry for any inconvenience this has caused.</p><p><small>Jan <var> 9</var>, <var>18:17</var> CET</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jan <var> 9</var>, <var>18:10</var> CET</small><br /><strong>Identified</strong> - We have identified  an issue impacting our form summary/reports. Users viewing their form summary data/report feature may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~60 minutes or as soon as it's available.<br /><br />REF: ZD 733822 | TU-7627</p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Jan 2024 00:15:52 +0100</pubDate>
 <pubDate>Sat, 13 Jan 2024 00:15:52 +0100</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.typeform.com/incidents/1ylhygrl8d09</link>
 <guid>https://status.typeform.com/incidents/1ylhygrl8d09</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>11</var>, <var>07:01</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>11</var>, <var>06:01</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 5</var>, <var>08:08</var> CET</small><br /><strong>Scheduled</strong> - On Monday, December 11th, we'll be performing a scheduled maintenance to update our Database, which will last about 1 hour.<br /><br />During the change window we don't expect users to be affected but should you see some errors, latency or impact of any kind please reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems and share further updates here when the change starts.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 07:01:09 +0100</pubDate>
 <pubDate>Mon, 11 Dec 2023 07:01:09 +0100</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.typeform.com/incidents/03c1g3xn6h6p</link>
 <guid>https://status.typeform.com/incidents/03c1g3xn6h6p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>11:04</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Dec <var> 6</var>, <var>10:35</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the errors while downloading results. As of now, we have identified the root cause for this incident and the fix is being applied now. We expect this issue to be resolved in a few minutes.<br /><br />Accept our apologies for any inconvenience this is causing. We'll share another update in ~30 minutes or as soon as it's available.</p><p><small>Dec <var> 6</var>, <var>10:04</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our results panel. Users downloading results may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 727341 | RES-4101</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 11:04:59 +0100</pubDate>
 <pubDate>Wed, 06 Dec 2023 11:04:59 +0100</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.typeform.com/incidents/fwd1kyr71rqr</link>
 <guid>https://status.typeform.com/incidents/fwd1kyr71rqr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>15:03</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Dec <var> 5</var>, <var>15:01</var> CET</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 5</var>, <var>14:43</var> CET</small><br /><strong>Update</strong> - We are working on resolving a brief traffic interruption impacting our Checkout page with high priority. <br /><br />We are really sorry for any inconvenience this is causing. Next update in ~30 minutes or as soon as it's available.</p><p><small>Dec <var> 5</var>, <var>14:17</var> CET</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 5</var>, <var>14:15</var> CET</small><br /><strong>Identified</strong> - We have identified a brief traffic interruption impacting our checkout page. Users updating billing information may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 727042 | MED-4130</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 15:03:32 +0100</pubDate>
 <pubDate>Tue, 05 Dec 2023 15:03:32 +0100</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.typeform.com/incidents/k53z7t2yq9gt</link>
 <guid>https://status.typeform.com/incidents/k53z7t2yq9gt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 4</var>, <var>16:09</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Dec <var> 4</var>, <var>16:00</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the errors impacting our Results service. As of now, we have identified the root cause for this incident and the fix is being applied now. <br /><br />Accept our apologies for any inconvenience this is causing. We'll share another update in ~30 minutes or as soon as it's available.</p><p><small>Dec <var> 4</var>, <var>15:45</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our Results service. Form owners trying to create reports will see an error. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 726757 | RES-4098</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Dec 2023 16:09:48 +0100</pubDate>
 <pubDate>Mon, 04 Dec 2023 16:09:48 +0100</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.typeform.com/incidents/4krj44hszvs2</link>
 <guid>https://status.typeform.com/incidents/4krj44hszvs2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>12:02</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Dec <var> 1</var>, <var>11:47</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the errors impacting our platform. As of now, we have identified the root cause for this incident and the fix is being applied now. We expect this issue to be resolved in 30 minutes.<br /><br />Accept our apologies for any inconvenience this is causing. We'll share another update in ~30 minutes or as soon as it's available.</p><p><small>Dec <var> 1</var>, <var>11:35</var> CET</small><br /><strong>Identified</strong> - We have identified  errors impacting all services in our platform. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 726198</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 12:02:23 +0100</pubDate>
 <pubDate>Fri, 01 Dec 2023 12:02:23 +0100</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.typeform.com/incidents/r2qv1v2hj6ky</link>
 <guid>https://status.typeform.com/incidents/r2qv1v2hj6ky</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>22:48</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Nov <var>22</var>, <var>22:34</var> CET</small><br /><strong>Identified</strong> - We have identified a brief interruption impacting our pricing page. Users in the United States may be impacted. We are working on a resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 724170 | WEB-7210</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Nov 2023 22:48:48 +0100</pubDate>
 <pubDate>Wed, 22 Nov 2023 22:48:48 +0100</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.typeform.com/incidents/v8vc1j250bx6</link>
 <guid>https://status.typeform.com/incidents/v8vc1j250bx6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>20:09</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Nov <var>22</var>, <var>19:45</var> CET</small><br /><strong>Identified</strong> - We continue working on resolving an issue that may impact our renderer and create services for a small number of customers. As of now, we have identified the root cause for this incident and the fix is being applied now.</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Nov 2023 20:09:21 +0100</pubDate>
 <pubDate>Wed, 22 Nov 2023 20:09:21 +0100</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.typeform.com/incidents/2rycfcqvs8nv</link>
 <guid>https://status.typeform.com/incidents/2rycfcqvs8nv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>17:13</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Nov <var>22</var>, <var>17:04</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the issue. As of now, we have identified the root cause for this incident and the fix is being applied now.</p><p><small>Nov <var>22</var>, <var>16:49</var> CET</small><br /><strong>Update</strong> - We are still investigating the issue</p><p><small>Nov <var>22</var>, <var>16:09</var> CET</small><br /><strong>Update</strong> - We are continuing to work on this issue.</p><p><small>Nov <var>22</var>, <var>15:39</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting our Renderer and Create services. Some users trying to create/publish form, and some respondents trying to load/submit forms may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 724070 | INFRA-6087</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Nov 2023 17:13:41 +0100</pubDate>
 <pubDate>Wed, 22 Nov 2023 17:13:41 +0100</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.typeform.com/incidents/xycvqt39xxjp</link>
 <guid>https://status.typeform.com/incidents/xycvqt39xxjp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>07:39</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Nov <var>22</var>, <var>07:35</var> CET</small><br /><strong>Identified</strong> - We have identified errors related to our recent database migration impacting all services on our platform. <br /><br />We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />INFRA-6007</p>
 ]]></content:encoded>
 <pubDate>Wed, 22 Nov 2023 07:39:30 +0100</pubDate>
-<pubDate>Wed, 22 Nov 2023 07:39:30 +0100</pubDate>
 </item>
-
 </channel>
 </rss>

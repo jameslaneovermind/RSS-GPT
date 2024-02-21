@@ -4,15 +4,15 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+
 <item>
 <title>cloud.mongodb.com slow response times</title>
 <link>https://status.mongodb.com/incidents/tzc6lj0dfjkg</link>
 <guid>https://status.mongodb.com/incidents/tzc6lj0dfjkg</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Slow Response Times at cloud.mongodb.com <br><br> Summary: Users experienced slow response times and login issues at cloud.mongodb.com. Changes to Atlas Clusters had short delays, but there was no impact to running Atlas Clusters. <div>
+<div> [Low] - Slow Response Times at cloud.mongodb.com <br /><br /> Summary: Users experienced slow response times and login issues at cloud.mongodb.com. Changes to Atlas Clusters had short delays, but there was no impact to running Atlas Clusters. <div>
 <p><small>Feb <var>17</var>, <var>07:39</var> UTC</small><br /><strong>Resolved</strong> - Slow response times began around 6:27 UTC and end around 6:47 AM UTC.  During this time, users may have experienced issues logging in to cloud.mongodb.com and slow response times from the Atlas Administrative API. Requests for changes to Atlas Clusters including adding new IPs to the Access List experienced short delays in processing.  There was no impact to running Atlas Clusters.</p><p><small>Feb <var>17</var>, <var>06:56</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the issue, stabilized the system and are monitoring the results.</p><p><small>Feb <var>17</var>, <var>06:41</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports of slow response times for cloud.mongodb.com.<br /><br />Users may experience difficulties logging in to cloud.mongodb.com, and slow response times from the Atlas Administrative API. Requests for changes to Atlas Clusters including adding new IPs to the Access List may experience a delay in processing.<br /><br />There is no impact to running Atlas Clusters.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 07:39:59 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 07:39:59 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.mongodb.com/incidents/1x8xpn32qzfk</link>
 <guid>https://status.mongodb.com/incidents/1x8xpn32qzfk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>11:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>11:32</var> UTC</small><br /><strong>Monitoring</strong> - The remediation has been completed and we are monitoring the results.</p><p><small>Feb <var>16</var>, <var>11:19</var> UTC</small><br /><strong>Identified</strong> - A small subset of customers using AWS regions may experience delays with operations to their clusters. The issue started at approximately 0120 UTC. The issue has already been identified and a remediation is in progress.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 11:46:39 +0000</pubDate>
 <pubDate>Fri, 16 Feb 2024 11:46:39 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.mongodb.com/incidents/jm3kh84mbkfc</link>
 <guid>https://status.mongodb.com/incidents/jm3kh84mbkfc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>17:47</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>14:52</var> UTC</small><br /><strong>Update</strong> - Atlas Data Federation and Online Archive is back to being operational and stable.</p><p><small>Feb <var>13</var>, <var>14:49</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring results.</p><p><small>Feb <var>13</var>, <var>14:23</var> UTC</small><br /><strong>Investigating</strong> - Users of Atlas Data Federation and Online Archive may see increased query latency for some queries.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 17:47:30 +0000</pubDate>
 <pubDate>Tue, 13 Feb 2024 17:47:30 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.mongodb.com/incidents/d4zb1dgf127v</link>
 <guid>https://status.mongodb.com/incidents/d4zb1dgf127v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>23:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>23:15</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>12</var>, <var>20:18</var> UTC</small><br /><strong>Investigating</strong> - Users of Atlas Data Federation and Online Archive may see increased query latency for some queries in us-east-1.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 23:26:00 +0000</pubDate>
 <pubDate>Mon, 12 Feb 2024 23:26:00 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.mongodb.com/incidents/d8vy3zgz0ss9</link>
 <guid>https://status.mongodb.com/incidents/d8vy3zgz0ss9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>11</var>, <var>03:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>11</var>, <var>02:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 9</var>, <var>18:18</var> UTC</small><br /><strong>Identified</strong> - The fix has been identified and we're working with our upstream provider on implementing a fix.</p><p><small>Feb <var> 9</var>, <var>14:49</var> UTC</small><br /><strong>Investigating</strong> - We are currently aware of reports that creating new Identity Providers for Federated Authentication is failing. We are investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 03:40:18 +0000</pubDate>
 <pubDate>Sun, 11 Feb 2024 03:40:18 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.mongodb.com/incidents/1ynx7khy475w</link>
 <guid>https://status.mongodb.com/incidents/1ynx7khy475w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>26</var>, <var>22:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>20:35</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented a fix and is observing that the system is recovering.</p><p><small>Jan <var>26</var>, <var>18:39</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue that is causing delays to modification requests to Atlas Serverless instances across multiple regions. This includes creation of new instances and deletion of existing instances. The instances themselves should continue to be fully available and responsive to queries. We are working toward remediation and will provide updates as we have more information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 26 Jan 2024 22:28:34 +0000</pubDate>
 <pubDate>Fri, 26 Jan 2024 22:28:34 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.mongodb.com/incidents/rd37vbx8qkd0</link>
 <guid>https://status.mongodb.com/incidents/rd37vbx8qkd0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>21</var>, <var>12:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>21</var>, <var>04:37</var> UTC</small><br /><strong>Identified</strong> - Due to an Azure Resource Manager outage in some regions, customers will experience delays performing operations on Azure Clusters.<br /><br />Please see https://azure.status.microsoft/en-us/status for details.</p>
 ]]></content:encoded>
-<pubDate>Sun, 21 Jan 2024 12:39:26 +0000</pubDate>
 <pubDate>Sun, 21 Jan 2024 12:39:26 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.mongodb.com/incidents/2jlmy7xrsvb3</link>
 <guid>https://status.mongodb.com/incidents/2jlmy7xrsvb3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>14:08</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>00:05</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>18</var>, <var>00:04</var> UTC</small><br /><strong>Monitoring</strong> - The system has recovered and we are continuing to monitor.</p><p><small>Jan <var>17</var>, <var>23:56</var> UTC</small><br /><strong>Update</strong> - The system is largely recovered, but we are monitoring closely.  Issues experienced by some customers connecting to Atlas Shared Tier or Atlas Serverless clusters were resolved around 23:00 UTC.<br /><br />Connections to Atlas Dedicated clusters and performance of Atlas Dedicated clusters are not and have not been impacted.</p><p><small>Jan <var>17</var>, <var>23:20</var> UTC</small><br /><strong>Update</strong> - The system is starting to recover.  <br />- Issues connecting to Atlas Shared Tier and Atlas Serverless Clusters should be resolved.<br />- Metrics for some Atlas Serverless Clusters may still be delayed<br />- Creation of new Atlas clusters is experiencing a delay due to a delay in DNS propagation<br />- User-initiated requests for changes to Atlas clusters are processing in a timely manner with the exception of changes that require new DNS entries (e.g. adding a new node)<br /><br />Connections to Atlas Dedicated clusters and performance of Atlas Dedicated clusters are not and have not been impacted.</p><p><small>Jan <var>17</var>, <var>23:13</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>17</var>, <var>20:46</var> UTC</small><br /><strong>Update</strong> - We are continuing to see delays in metrics for Atlas Shared Tier and Atlas Serverless clusters.  Additionally all modifications for the Atlas Clusters are delayed including creation of new clusters/instances, ip access list, and user changes.  We have also identified an issue with connections to some Atlas Shared Tier and Atlas Serverless clusters.</p><p><small>Jan <var>17</var>, <var>17:20</var> UTC</small><br /><strong>Update</strong> - We are continuing to delays in metrics for Atlas Shared Tier and Atlas Serverless clusters.  Additionally all modifications for the Atlas Shared Tier clusters and Atlas Serverless instances are delayed including creation of new clusters/instances, ip access list, and user changes. For Atlas Dedicated clusters, user requested changes to Atlas clusters (modifying the Network Access list, adding an additional node in a replica set, adding a new Database User, etc.) are being processed in a timely manner.  However, scheduled actions such as snapshots are experiencing delays. The delay for scheduled actions is currently decreasing.</p><p><small>Jan <var>17</var>, <var>15:02</var> UTC</small><br /><strong>Update</strong> - Metrics for Atlas Shared Tier and Atlas Serverless clusters are still experiencing delays. User requested changes to Atlas clusters (modifying the Network Access list, adding an additional node in a replica set, adding a new Database User, etc.) are being processed in a timely manner.  However, scheduled actions such as snapshots are experiencing delays.</p><p><small>Jan <var>17</var>, <var>13:33</var> UTC</small><br /><strong>Update</strong> - We have partially remediated the issue.  However, metrics for Atlas Shared Tier and Atlas Serverless clusters are still experiencing delays. Changes to Atlas clusters (including IP Access List modifications, topology and tier changes, or the creation of new clusters) may still be experiencing some delays.</p><p><small>Jan <var>17</var>, <var>12:07</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.  No root cause or remediation has been reached at this time.</p><p><small>Jan <var>17</var>, <var>11:03</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.  No root cause or remediation has been reached at this time.</p><p><small>Jan <var>17</var>, <var>09:07</var> UTC</small><br /><strong>Update</strong> - Atlas clusters may show as Degraded due to the delayed metrics data - however, there is no impact to the clusters themselves.  (This is a false positive.)  There may be a delay processing requested changes to Atlas clusters.</p><p><small>Jan <var>17</var>, <var>08:33</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue delaying the processing of metrics points for Atlas and Cloud Manager.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 14:08:53 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 14:08:53 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.mongodb.com/incidents/1fkqbxyp4jj6</link>
 <guid>https://status.mongodb.com/incidents/1fkqbxyp4jj6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>00:05</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Jan <var>16</var>, <var>20:39</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>16</var>, <var>18:03</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue delaying certain cluster modifications. Specifically, creating, deleting, modifying the count of nodes in a cluster, or certain maintenance operations that may do these things is presently delayed.<br /><br />MongoDB operations on clusters, as well as cluster health is unaffected.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 00:05:38 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 00:05:38 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.mongodb.com/incidents/q2s405z8bznq</link>
 <guid>https://status.mongodb.com/incidents/q2s405z8bznq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>10</var>, <var>23:16</var> UTC</small><br /><strong>Resolved</strong> - We have deployed a fix. MongoDB Charts is operational again.</p><p><small>Jan <var>10</var>, <var>21:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of MongoDB Charts pages not loading. Affected users will see a "Status 500" message or "MongoDB Charts cannot be loaded".</p>
 ]]></content:encoded>
-<pubDate>Wed, 10 Jan 2024 23:16:52 +0000</pubDate>
 <pubDate>Wed, 10 Jan 2024 23:16:52 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.mongodb.com/incidents/mc9y7pxbzqf0</link>
 <guid>https://status.mongodb.com/incidents/mc9y7pxbzqf0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>10</var>, <var>14:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>10</var>, <var>04:30</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>10</var>, <var>03:46</var> UTC</small><br /><strong>Identified</strong> - Atlas App Services and Device Sync users may see intermittent connection errors when connecting to apps in the us-west-2 region on AWS.</p>
 ]]></content:encoded>
-<pubDate>Wed, 10 Jan 2024 14:26:50 +0000</pubDate>
 <pubDate>Wed, 10 Jan 2024 14:26:50 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.mongodb.com/incidents/y1xm4cv5fm81</link>
 <guid>https://status.mongodb.com/incidents/y1xm4cv5fm81</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>01:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>00:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 01:04:29 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 01:04:29 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.mongodb.com/incidents/drmh2bfxrvg0</link>
 <guid>https://status.mongodb.com/incidents/drmh2bfxrvg0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>00:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>23:55</var> UTC</small><br /><strong>Monitoring</strong> - We have deployed the fix to remediate the issue for all affected clusters and are monitoring for any further issues.</p><p><small>Dec <var>19</var>, <var>23:20</var> UTC</small><br /><strong>Identified</strong> - We have identified the root cause of the issue. We have remediated the issue for already affected clusters, and are currently rolling out a fix for clusters that may be impacted by the issue. Some customers may continue to experience intermittent issues until the fix has been fully deployed.</p><p><small>Dec <var>19</var>, <var>20:05</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue affecting MongoDB Atlas Search. Affected clusters will be unable to create or modify Atlas Search indexes. These index delays may cause new index builds to fail and stale search query results to be returned for already built indexes. This does not affect all Atlas Search clusters.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 00:14:58 +0000</pubDate>
 <pubDate>Wed, 20 Dec 2023 00:14:58 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.mongodb.com/incidents/93zhkt5ql82c</link>
 <guid>https://status.mongodb.com/incidents/93zhkt5ql82c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>20:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>19:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>19:56</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue causing Atlas for Government logins to fail with the error message "no healthy upstream" and are working on a fix.<br /><br />Cluster health and non-Atlas-for-Government environments remain unaffected.</p><p><small>Dec <var>18</var>, <var>19:43</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue causing users logging into MongoDB Atlas For Government to get a blank page with the text "no healthy upstream"<br /><br />Cluster health is unaffected. This does not affect non-Atlas-for-Government environments.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 20:04:14 +0000</pubDate>
 <pubDate>Mon, 18 Dec 2023 20:04:14 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.mongodb.com/incidents/vtsm1v3zlfy4</link>
 <guid>https://status.mongodb.com/incidents/vtsm1v3zlfy4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>18:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>18:00</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>18</var>, <var>17:06</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>18</var>, <var>17:06</var> UTC</small><br /><strong>Investigating</strong> - We're currently aware that logging into MongoDB Atlas via GitHub is not functioning as expected.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 18:05:38 +0000</pubDate>
 <pubDate>Mon, 18 Dec 2023 18:05:38 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.mongodb.com/incidents/yzgwf0jdyg8n</link>
 <guid>https://status.mongodb.com/incidents/yzgwf0jdyg8n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>17</var>, <var>03:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>16</var>, <var>22:23</var> UTC</small><br /><strong>Monitoring</strong> - We are experiencing an increase in login attempts resulting in issues for customers attempting to log in to Atlas and our Support Portal. Please try again in a few minutes if you are still having trouble logging in.</p>
 ]]></content:encoded>
-<pubDate>Sun, 17 Dec 2023 03:22:20 +0000</pubDate>
 <pubDate>Sun, 17 Dec 2023 03:22:20 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.mongodb.com/incidents/n3cbfmk0jh75</link>
 <guid>https://status.mongodb.com/incidents/n3cbfmk0jh75</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>15:00</var> UTC</small><br /><strong>Resolved</strong> - Atlas App Services and Device Sync users may have experienced refused connections and/or general API increased latency between 15:10 UTC and 15:50 UTC. This was primarily limited to deployments in AWS regions.  This issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Dec 2023 15:00:00 +0000</pubDate>
 <pubDate>Thu, 14 Dec 2023 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.mongodb.com/incidents/2vb3l8mn5308</link>
 <guid>https://status.mongodb.com/incidents/2vb3l8mn5308</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>20</var>, <var>19:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>20</var>, <var>18:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>20</var>, <var>16:47</var> UTC</small><br /><strong>Identified</strong> - Atlas Data Federation and Online Archive users may see internal errors when querying Atlas cluster data sources in AWS/ap-southeast-1.</p>
 ]]></content:encoded>
-<pubDate>Mon, 20 Nov 2023 19:25:20 +0000</pubDate>
 <pubDate>Mon, 20 Nov 2023 19:25:20 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.mongodb.com/incidents/y4d81t432swy</link>
 <guid>https://status.mongodb.com/incidents/y4d81t432swy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>18</var>, <var>18:09</var> UTC</small><br /><strong>Resolved</strong> - Atlas App Services: Some Atlas Triggers experienced delays in processing<br /><br />There was an internal networking error that caused this. All of the triggers impacted were restarted.</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Nov 2023 18:09:30 +0000</pubDate>
 <pubDate>Sat, 18 Nov 2023 18:09:30 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.mongodb.com/incidents/lxykt9gr08ww</link>
 <guid>https://status.mongodb.com/incidents/lxykt9gr08ww</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>17</var>, <var>17:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><br /><br />Atlas App Services & Device Sync: <br />Some Atlas Triggers & Sync workloads experienced unexpected suspensions<br />There was an internal networking error that caused some them to suspend. All of the workloads impacted were restarted</p><p><small>Nov <var>17</var>, <var>17:19</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>17</var>, <var>17:13</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>17</var>, <var>16:56</var> UTC</small><br /><strong>Investigating</strong> - Users of Atlas Data Federation and Online Archive may see an increase in queries failed due to internal errors when querying Atlas cluster data sources in AWS/ap-southeast-1.</p>
 ]]></content:encoded>
-<pubDate>Fri, 17 Nov 2023 17:27:08 +0000</pubDate>
 <pubDate>Fri, 17 Nov 2023 17:27:08 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.mongodb.com/incidents/s9sn8g7kmh18</link>
 <guid>https://status.mongodb.com/incidents/s9sn8g7kmh18</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>00:37</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>22:34</var> UTC</small><br /><strong>Monitoring</strong> - Due to an earlier incident, customers may experience delays in scheduled operations such as backups and auto scaling. Cluster create and update operations are not impacted.<br /><br />The issue has been remediated, and the system is recovering.  All scheduled operations are expected to complete successfully without issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 00:37:15 +0000</pubDate>
 <pubDate>Thu, 16 Nov 2023 00:37:15 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.mongodb.com/incidents/nk7v8vpgmvw8</link>
 <guid>https://status.mongodb.com/incidents/nk7v8vpgmvw8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>23:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>23:13</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>15</var>, <var>22:35</var> UTC</small><br /><strong>Update</strong> - We have identified an issue with logins affecting all users of MongoDB Atlas, MongoDB Cloud Manager, and the MongoDB Support Portal. Specifically, new logins will fail. Existing sessions are unaffected. Users are encouraged to use API keys and/or wait until this is resolved.<br /><br />Existing cluster health is unaffected.</p><p><small>Nov <var>15</var>, <var>22:02</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with logins affecting all users of MongoDB Atlas, MongoDB Cloud Manager, and the MongoDB Support Portal. Specifically, new logins will fail. Existing sessions are unaffected. Users are encouraged to use API keys and/or wait until this is resolved.<br /><br />Existing cluster health is unaffected.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Nov 2023 23:28:35 +0000</pubDate>
 <pubDate>Wed, 15 Nov 2023 23:28:35 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.mongodb.com/incidents/qs2z8679j60p</link>
 <guid>https://status.mongodb.com/incidents/qs2z8679j60p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>16:00</var> UTC</small><br /><strong>Resolved</strong> - There was an internal networking error that caused some Atlas Triggers to suspend. All of the triggers impacted were restarted.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 16:00:00 +0000</pubDate>
 <pubDate>Thu, 09 Nov 2023 16:00:00 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.mongodb.com/incidents/rvvt2l8jmqcl</link>
 <guid>https://status.mongodb.com/incidents/rvvt2l8jmqcl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 5</var>, <var>21:41</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 5</var>, <var>21:39</var> UTC</small><br /><strong>Update</strong> - The system is back to a healthy state.</p><p><small>Nov <var> 5</var>, <var>21:25</var> UTC</small><br /><strong>Monitoring</strong> - The fix has been implemented and is now being monitored.<br /><br />The issue affected queries against Online Archives and Data Lake Snapshots in AWS/us-east-1.</p><p><small>Nov <var> 5</var>, <var>20:41</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 5</var>, <var>19:59</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating increased query errors with Atlas Data Federation in AWS/us-east-1.<br /><br />Users may notice increased occurrences of queries failing with internal errors.</p>
 ]]></content:encoded>
-<pubDate>Sun, 05 Nov 2023 21:41:15 +0000</pubDate>
 <pubDate>Sun, 05 Nov 2023 21:41:15 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.mongodb.com/incidents/v0s9nlrwyl1s</link>
 <guid>https://status.mongodb.com/incidents/v0s9nlrwyl1s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>20:16</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 2</var>, <var>20:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 2</var>, <var>19:59</var> UTC</small><br /><strong>Scheduled</strong> - At this time we have changed the canonical home for this status page from status.cloud.mongodb.com to status.mongodb.com (removed "cloud"). Existing subscriptions (e.g. Slack, SMS, webhook) will be unaffected. RSS subscribers are encouraged to use the new URL as soon as feasible, but a redirect will be available for an indefinite amount of time.<br /><br />Cluster health, the support portal, or any other MongoDB Cloud services are unaffected.</p>
 ]]></content:encoded>
 <pubDate>Thu, 02 Nov 2023 20:16:25 +0000</pubDate>
-<pubDate>Thu, 02 Nov 2023 20:16:25 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

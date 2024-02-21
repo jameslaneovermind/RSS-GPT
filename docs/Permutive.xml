@@ -4,17 +4,17 @@
 <title>Permutive Status - Incident History</title>
 <link>https://status.permutive.com</link>
 
+
 <item>
 <title>Delays in S3 Routing (Batch) data sync</title>
 <link>https://status.permutive.com/incidents/tvxlxvlnb3bh</link>
 <guid>https://status.permutive.com/incidents/tvxlxvlnb3bh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Incident with Event Ingestion <br><br> Summary: Data from August 27th and 28th has been delayed, impacting S3 Routing v1 (Batch) product. While the underlying issue has been resolved, there are still slight delays in data syncing.
+<div> [High] - Incident with Event Ingestion <br /><br /> Summary: Data from August 27th and 28th has been delayed, impacting S3 Routing v1 (Batch) product. While the underlying issue has been resolved, there are still slight delays in data syncing.
 
  <div>
 <p><small>Aug <var>30</var>, <var>15:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has now been resolved. All past data is ingested & ingestion working properly.</p><p><small>Aug <var>30</var>, <var>02:00</var> UTC</small><br /><strong>Update</strong> - Data from August 27th and August 28th have been ingested and will be synced as per the S3 Batch Routing sync today. There are still slight delays impacting August 29th data, meaning that today's sync may not deliver yesterdays data in full. We will continue to monitor the ingestion of the data for syncing.</p><p><small>Aug <var>29</var>, <var>15:58</var> UTC</small><br /><strong>Monitoring</strong> - Our engineering team has resolved the underlying issue. S3 Routing v1 (Batch) data for dates August 27th and 28th have begun processing and will be received tomorrow on the 30th. We will continue to monitor the ingestion of the data for syncing tomorrow.</p><p><small>Aug <var>29</var>, <var>15:57</var> UTC</small><br /><strong>Identified</strong> - We have identified an incident in our event ingestion over the weekend on Sunday, August 27th which has resulted in data not being delivered to customers with S3 Routing v1 (Batch) product for events occurred on August 27th & 28th.</p>
 ]]></content:encoded>
-<pubDate>Wed, 30 Aug 2023 15:19:00 +0000</pubDate>
 <pubDate>Wed, 30 Aug 2023 15:19:00 +0000</pubDate>
 </item>
 <item>
@@ -22,10 +22,8 @@
 <link>https://status.permutive.com/incidents/7vs4drl84v2q</link>
 <guid>https://status.permutive.com/incidents/7vs4drl84v2q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>14</var>, <var>09:05</var> UTC</small><br /><strong>Resolved</strong> - The backfill process has now completed and missing analytics data restored. This incident has been resolved.</p><p><small>Aug <var>11</var>, <var>15:49</var> UTC</small><br /><strong>Monitoring</strong> - Our engineering team have resolved the underlying issue and have began a process to backfill the missing analytics data. This process is expected to complete over the next 24 hours. In the meantime, analytics may show some inconsistent data when viewing date ranges between August 10th, 6pm UTC and August 11th, 11am UTC. We will continue to monitor as data is restored.</p><p><small>Aug <var>11</var>, <var>11:00</var> UTC</small><br /><strong>Identified</strong> - Our engineering team have identified the root cause of the issue. We are now implementing a solution to restore partially unavailable data.</p><p><small>Aug <var>11</var>, <var>09:16</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with our insights product suite, where insights are partially unavailable when looking over recent time ranges (e.g. "last day").</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Aug 2023 09:05:28 +0000</pubDate>
 <pubDate>Mon, 14 Aug 2023 09:05:28 +0000</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@
 <link>https://status.permutive.com/incidents/bp1sfhd3rqpn</link>
 <guid>https://status.permutive.com/incidents/bp1sfhd3rqpn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 5</var>, <var>19:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has now been fully resolved.</p><p><small>Jun <var> 5</var>, <var>17:45</var> UTC</small><br /><strong>Update</strong> - All Permutive functionality has returned to normal with one exception. Those customers who participate on our advertiser platform may see errors when the SDK requests advertiser cohort IDs from our cloud. Our engineering team is currently working on a resolution to this.</p><p><small>Jun <var> 5</var>, <var>15:47</var> UTC</small><br /><strong>Monitoring</strong> - Our engineering team have implemented a fix and dashboard access has been restored for the majority of customers. We are continuing to monitor our systems and ensure ongoing stability.</p><p><small>Jun <var> 5</var>, <var>15:00</var> UTC</small><br /><strong>Identified</strong> - We've identified an issue which is preventing the majority of customers from accessing the Permutive dashboard. Our engineering team have identified the root cause and are currently implementing fix. Permutive SDKs, APIs and other critical functionality remain fully operational.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Jun 2023 19:05:25 +0000</pubDate>
 <pubDate>Mon, 05 Jun 2023 19:05:25 +0000</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@
 <link>https://status.permutive.com/incidents/0g7twnskp2y8</link>
 <guid>https://status.permutive.com/incidents/0g7twnskp2y8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>14:06</var> UTC</small><br /><strong>Resolved</strong> - We identified a temporary outage with the Insights platform which has now been resolved. No data was lost during this incident.<br /><br />Should you encounter any problems, please contact support@permutive.com.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Dec 2022 14:06:36 +0000</pubDate>
 <pubDate>Wed, 14 Dec 2022 14:06:36 +0000</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@
 <link>https://status.permutive.com/incidents/fk5yw7mz0zs6</link>
 <guid>https://status.permutive.com/incidents/fk5yw7mz0zs6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 8</var>, <var>19:27</var> UTC</small><br /><strong>Resolved</strong> - This incident was resolved at 18:22:45. We will continue monitoring the Permutive API over the next few hours.</p><p><small>Sep <var> 8</var>, <var>18:24</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and partial service was restored at 17:53:45 UTC.</p><p><small>Sep <var> 8</var>, <var>17:50</var> UTC</small><br /><strong>Investigating</strong> - Permutive API is currently experiencing an outage. This outage started today at 17:33:45 UTC and our engineers are investigating the cause.<br /><br />We will continue to provide updates via this status page.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Sep 2022 19:27:04 +0000</pubDate>
 <pubDate>Thu, 08 Sep 2022 19:27:04 +0000</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@
 <link>https://status.permutive.com/incidents/r11ytcm2r2z3</link>
 <guid>https://status.permutive.com/incidents/r11ytcm2r2z3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>26</var>, <var>11:36</var> UTC</small><br /><strong>Resolved</strong> - Update: missing report data for the period between 1st - 7th July 2022 is restored for all reports.</p><p><small>Jul <var>25</var>, <var>15:28</var> UTC</small><br /><strong>Monitoring</strong> - Update: missing report data for the period between 1st - 7th July 2022 is restored except for Content Read report for which the backfilling process is still in progress. Expected completion date is Tuesday 26th.</p><p><small>Jul <var>21</var>, <var>13:00</var> UTC</small><br /><strong>Identified</strong> - The Engineering team has identified an issue in regards to Analytics reporting in our Insights dashboards.<br /><br />Impact: reports have missing data for the period between 1st - 7th July 2022. All Insights dashboards are affected, except for Revenue Insights and Targeted Impressions reporting. However, this only affects the reporting - no data has been lost.<br /><br />Status: We are currently running a process to backfill the missing report data for this period. Reports will return to normal after this process. Expected time to complete will likely extend to the beginning of next week. We are also in process of implementing a safeguard mechanism to prevent this issue from recurring.</p>
 ]]></content:encoded>
-<pubDate>Tue, 26 Jul 2022 11:36:09 +0000</pubDate>
 <pubDate>Tue, 26 Jul 2022 11:36:09 +0000</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@
 <link>https://status.permutive.com/incidents/t2hrpjtnmjcw</link>
 <guid>https://status.permutive.com/incidents/t2hrpjtnmjcw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>21</var>, <var>07:22</var> UTC</small><br /><strong>Resolved</strong> - Cloudflare has resolved the issue such that access to the Permutive Dashboard is restored. We will continue to monitor Cloudflare's system status.</p><p><small>Jun <var>21</var>, <var>07:01</var> UTC</small><br /><strong>Identified</strong> - The Permutive Dashboard is currently unavailable due to a wide-spread service issue with our CDN provider, Cloudflare.<br /><br />Cloudflare have identified the issue and a fix is currently being implemented. You can follow this incident at https://www.cloudflarestatus.com.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Jun 2022 07:22:46 +0000</pubDate>
 <pubDate>Tue, 21 Jun 2022 07:22:46 +0000</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@
 <link>https://status.permutive.com/incidents/pn7d5bycpb8j</link>
 <guid>https://status.permutive.com/incidents/pn7d5bycpb8j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>16:14</var> UTC</small><br /><strong>Resolved</strong> - Engineering team has identified and resolved the underlying issue. <br /><br />Insights platform is fully operational again, there has been no loss of data.</p><p><small>Jan <var>18</var>, <var>14:58</var> UTC</small><br /><strong>Investigating</strong> - We have identified an issue with insights platform. Currently the issue is impacting Index & Overlap report and Custom Cohort list export functionality where Cohort Sizes / Uniques are being reported as 0.<br /><br />Our Engineering team is actively investigating this further.</p>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jan 2022 16:14:28 +0000</pubDate>
 <pubDate>Tue, 18 Jan 2022 16:14:28 +0000</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@
 <link>https://status.permutive.com/incidents/v62k8k06tchw</link>
 <guid>https://status.permutive.com/incidents/v62k8k06tchw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>09:10</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Insights is once again showing current data. There has been no loss of data.</p><p><small>Dec <var>17</var>, <var>16:48</var> UTC</small><br /><strong>Update</strong> - Insights platform has now been stabilised. No data was lost during this incident. We are continuing to closely monitor and tune the system for a quick recovery. Data from the last 24hrs is being re-processed and the Insights dashboards will be up-to-date once again by the end of today.</p><p><small>Dec <var>15</var>, <var>17:03</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has deployed a fix for this issue and data has begun to process into the insights tool.  We estimate that it will take approximately 36 hours for all data to become available on the Platform.  <br /><br />The data becomes live as soon as it is processed and we process it chronologically. This means that the delay in live data seen in the Insights too will diminish over this timeframe.  <br /><br />We are continuing to monitor the situation and will provide additional updates as they become available.</p><p><small>Dec <var>15</var>, <var>10:02</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue where the insights reporting data is behind due to a backend technical outage.  Our Engineering team is actively working on a fix to bring data up to date.  We have confirmed that no data has been lost and all will be available once the processing catches up.  We expect this to take approx 2-3 days and will provide additional updates as we progress toward resolution.</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Dec 2021 09:10:54 +0000</pubDate>
 <pubDate>Sat, 18 Dec 2021 09:10:54 +0000</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@
 <link>https://status.permutive.com/incidents/3wbwbfjwxxdv</link>
 <guid>https://status.permutive.com/incidents/3wbwbfjwxxdv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>18:33</var> UTC</small><br /><strong>Resolved</strong> - The issue is now tentatively resolved and the Permutive Dash is available to all customers again.  We are continuing to monitor the situation with Google Cloud Platform and will update here again if anything should change.<br /><br />You can also monitor the issue status for GCP here: https://status.cloud.google.com</p><p><small>Nov <var>16</var>, <var>18:28</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Nov <var>16</var>, <var>18:03</var> UTC</small><br /><strong>Monitoring</strong> - Google Cloud Platform is experiencing major issues worldwide that are affecting our services. We are monitoring the situation and will post any updates we receive here.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Nov 2021 18:33:02 +0000</pubDate>
 <pubDate>Tue, 16 Nov 2021 18:33:02 +0000</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@
 <link>https://status.permutive.com/incidents/qgd0tjnv0h3y</link>
 <guid>https://status.permutive.com/incidents/qgd0tjnv0h3y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 6</var>, <var>14:18</var> UTC</small><br /><strong>Resolved</strong> - The underlying issue has now been resolved.  Access to Cohort Exports is restored.</p><p><small>Oct <var> 6</var>, <var>12:31</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing an issue that is preventing us from exporting data from GCP due to us reaching a GCP quota. This is currently preventing our Cohort Export functionality from working.<br /><br />We have reached out to GCP to resolve the issue and will provide updates as we progress in restoring this functionality</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Oct 2021 14:18:05 +0000</pubDate>
 <pubDate>Wed, 06 Oct 2021 14:18:05 +0000</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@
 <link>https://status.permutive.com/incidents/9q62wb65jvfv</link>
 <guid>https://status.permutive.com/incidents/9q62wb65jvfv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>23</var>, <var>07:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>23</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>14</var>, <var>14:29</var> UTC</small><br /><strong>Scheduled</strong> - The Permutive dashboard will be temporarily inactive between [07:00–09:00 UTC<br />(02:00–04:00 East Coast ) ] June 23rd for scheduled maintenance.<br /><br />There will be no impact on core Permutive services. During this period all event collection, segmentation and activation will continue to operate as usual.</p>
 ]]></content:encoded>
-<pubDate>Wed, 23 Jun 2021 07:30:35 +0000</pubDate>
 <pubDate>Wed, 23 Jun 2021 07:30:35 +0000</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@
 <link>https://status.permutive.com/incidents/yr2wgwx970ln</link>
 <guid>https://status.permutive.com/incidents/yr2wgwx970ln</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>29</var>, <var>12:44</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>26</var>, <var>15:45</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue with our Lookalike Modeling functionality whereby Lookalike models created before 19th March are not being updated.<br />We have identified a fix and are working to implement it.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Mar 2021 12:44:09 +0000</pubDate>
 <pubDate>Mon, 29 Mar 2021 12:44:09 +0000</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@
 <link>https://status.permutive.com/incidents/80c4k0q7v6tp</link>
 <guid>https://status.permutive.com/incidents/80c4k0q7v6tp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>16</var>, <var>09:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>14</var>, <var>21:10</var> UTC</small><br /><strong>Monitoring</strong> - We have rolled out a mitigation for the problem. Cross-device and cross-domain segmentation is now fully functional. <br /><br />We will keep on monitoring.</p><p><small>Dec <var>14</var>, <var>20:37</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue with our cross-device and cross-domain segmentation functionality. This affects a device’s ability to retrieve data from other devices which belong to the same user, from other domains the user has browsed.<br /><br />Other segmentation functionality is unaffected, including segmentation based on all historical data, segmentation based on behaviour on the device, AMP segmentation and third-party and second-party data retrieval. Permutive is still able to identify a user correctly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Dec 2020 09:24:38 +0000</pubDate>
 <pubDate>Wed, 16 Dec 2020 09:24:38 +0000</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@
 <link>https://status.permutive.com/incidents/64kpt1t6k9wm</link>
 <guid>https://status.permutive.com/incidents/64kpt1t6k9wm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>20:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>14</var>, <var>12:39</var> UTC</small><br /><strong>Monitoring</strong> - Google Services are being restored and we now have full oversight of our metrics.  We will continue to monitor this until Google has stabilised their systems.</p><p><small>Dec <var>14</var>, <var>12:30</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var>14</var>, <var>12:28</var> UTC</small><br /><strong>Identified</strong> - We are affected by the ongoing global issues with Google's authentication system.  We are unable to monitor any of our usual metrics at this time.  We believe everything is operational and will continue monitoring and posting updates until this is resolved."</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Dec 2020 20:28:49 +0000</pubDate>
 <pubDate>Mon, 14 Dec 2020 20:28:49 +0000</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@
 <link>https://status.permutive.com/incidents/6pzkt9kzxj8w</link>
 <guid>https://status.permutive.com/incidents/6pzkt9kzxj8w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>23</var>, <var>19:39</var> UTC</small><br /><strong>Resolved</strong> - The latency issue has now been resolved.  Thanks for your patience!</p><p><small>Nov <var>16</var>, <var>10:47</var> UTC</small><br /><strong>Update</strong> - Over the last few days, we have begun testing a resolution for this disruption.  We are pleased to share that testing has gone well and <br /> we expect to deploy a resolution tomorrow, Nov 17.<br /><br />The latency for traffic remains on the order of minutes during peak periods.</p><p><small>Nov <var>13</var>, <var>09:56</var> UTC</small><br /><strong>Monitoring</strong> - Data retrieval delays are now minimal and only present for users during periods of heavy traffic.   We are continuing to monitor this and will provide additional updates as we progress.</p><p><small>Nov <var>12</var>, <var>10:58</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Nov <var>12</var>, <var>10:49</var> UTC</small><br /><strong>Identified</strong> - Updates for this issue are actively being applied and data retrieval delays have downgraded from Hours to Minutes.<br /><br />We will continue to provide updates as we progress to a full resolution.</p><p><small>Nov <var>12</var>, <var>09:55</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue for some customers with our cross-device and cross-domain segmentation functionality. This affects a device’s ability to retrieve data from other devices which belong to the same user, from other domains the user has browsed. For some users, there will be significant delays in retrieving this data.<br /><br />Other segmentation functionality is unaffected, including segmentation based on all historical data, segmentation based on behaviour on the device, AMP segmentation and third-party and second-party data retrieval. Permutive is still able to identify a user correctly. <br /><br />We have identified an issue with a large queue in our user event syncing functionality and are working on a fix. We will be providing the next progress update within 24 hours</p>
 ]]></content:encoded>
-<pubDate>Mon, 23 Nov 2020 19:39:13 +0000</pubDate>
 <pubDate>Mon, 23 Nov 2020 19:39:13 +0000</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@
 <link>https://status.permutive.com/incidents/mzgh03c1021y</link>
 <guid>https://status.permutive.com/incidents/mzgh03c1021y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 5</var>, <var>12:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 5</var>, <var>11:15</var> UTC</small><br /><strong>Identified</strong> - We are experiencing a minor issue with our second- and third-party segment database service. This affects new segment creation and current segments. <br /><br />If creating a new segment, some second- or third-party segments will not show up in the search bar. If viewing current segments, some names will not appear in the segment builder.<br /><br />This only impacts the visibility of the second- and third-party segment name and does not affect data collection, segmentation or targeting.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Oct 2020 12:01:11 +0000</pubDate>
 <pubDate>Mon, 05 Oct 2020 12:01:11 +0000</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@
 <link>https://status.permutive.com/incidents/w1nznhdbkcc4</link>
 <guid>https://status.permutive.com/incidents/w1nznhdbkcc4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>16</var>, <var>13:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>16</var>, <var>12:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>16</var>, <var>11:40</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var>16</var>, <var>11:06</var> UTC</small><br /><strong>Investigating</strong> - We've received reports that our dashboard is returning results slowly and is failing some requests. We're investigating the root cause and we will update as soon as we know more.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jun 2020 13:25:03 +0000</pubDate>
 <pubDate>Tue, 16 Jun 2020 13:25:03 +0000</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@
 <link>https://status.permutive.com/incidents/1thxw2yv2982</link>
 <guid>https://status.permutive.com/incidents/1thxw2yv2982</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 3</var>, <var>07:50</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 3</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var> 1</var>, <var>08:13</var> UTC</small><br /><strong>Scheduled</strong> - The Permutive dashboard will be temporarily inactive between 07:00–08:00 UTC<br />(03:00–04:00 East Coast )  June 3rd for scheduled maintenance.<br /><br />There will be no impact on core Permutive services. During this period all event collection, segmentation and activation will continue to operate as usual.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jun 2020 07:50:54 +0000</pubDate>
 <pubDate>Wed, 03 Jun 2020 07:50:54 +0000</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@
 <link>https://status.permutive.com/incidents/fq0b9cx6r07c</link>
 <guid>https://status.permutive.com/incidents/fq0b9cx6r07c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 8</var>, <var>16:25</var> UTC</small><br /><strong>Resolved</strong> - The Google Cloud incident has been resolved and we do not expect to see any further impact from this issue.</p><p><small>Apr <var> 8</var>, <var>15:48</var> UTC</small><br /><strong>Monitoring</strong> - Our engineering team have restored service to our AMP API as of 16:35PM BST, and all services are now stable.<br />There is still an ongoing Google Cloud issue which our team is continuing to monitor in case of further impact.</p><p><small>Apr <var> 8</var>, <var>15:17</var> UTC</small><br /><strong>Investigating</strong> - The API which supports our Accelerated Mobile Pages (AMP) integration has been experiencing an outage since 15:07pm BST due to Google Cloud connectivity issues. Our engineering team is investigating.<br /><br />This is related to an ongoing Google Cloud issue, with further details here:<br />https://status.cloud.google.com/incident/zall/20005</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Apr 2020 16:25:04 +0000</pubDate>
 <pubDate>Wed, 08 Apr 2020 16:25:04 +0000</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@
 <link>https://status.permutive.com/incidents/btfdq8k9jvdm</link>
 <guid>https://status.permutive.com/incidents/btfdq8k9jvdm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 3</var>, <var>10:30</var> UTC</small><br /><strong>Resolved</strong> - Permutive API was monitored for a prolonged period after service restoration and we are now marking this incident as resolved.</p><p><small>Mar <var> 3</var>, <var>00:48</var> UTC</small><br /><strong>Monitoring</strong> - Permutive API was restored to full service as of 22:25 UTC/17:25 EST.<br /><br />We are continuing to monitor the recovery and will provide any further updates via this status page.</p><p><small>Mar <var> 2</var>, <var>21:47</var> UTC</small><br /><strong>Investigating</strong> - Permutive API is currently experiencing a partial outage. This outage started today at 20:50 UTC/15:50 EST and our engineers are investigating the cause.<br /><br />We will continue to provide updates via this status page.</p>
 ]]></content:encoded>
-<pubDate>Tue, 03 Mar 2020 10:30:35 +0000</pubDate>
 <pubDate>Tue, 03 Mar 2020 10:30:35 +0000</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@
 <link>https://status.permutive.com/incidents/xpnvvwjpxd8y</link>
 <guid>https://status.permutive.com/incidents/xpnvvwjpxd8y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 2</var>, <var>06:32</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Mar <var> 2</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 1</var>, <var>06:11</var> UTC</small><br /><strong>Scheduled</strong> - This scheduled maintenance has been wrongly marked as started few minutes ago. This maintenance is happening tomorrow as previous scheduled.</p><p><small>Mar <var> 1</var>, <var>06:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>24</var>, <var>15:29</var> UTC</small><br /><strong>Scheduled</strong> - The Permutive dashboard will be temporarily inactive between 06:00–07:00 UTC<br /> (02:00–03:00 East Coast ) March 2nd for scheduled maintenance. <br />    <br />There will be no impact on core Permutive services. During this period all event collection, segmentation and activation will continue to operate as usual.</p>
 ]]></content:encoded>
-<pubDate>Mon, 02 Mar 2020 06:32:57 +0000</pubDate>
 <pubDate>Mon, 02 Mar 2020 06:32:57 +0000</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@
 <link>https://status.permutive.com/incidents/17dxrxy3fw14</link>
 <guid>https://status.permutive.com/incidents/17dxrxy3fw14</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>06:43</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>22</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>21</var>, <var>12:51</var> UTC</small><br /><strong>Scheduled</strong> - The Permutive dashboard will be temporarily inactive between 06:00–07:00 UTC<br /> (02:00–03:00 East Coast ) Nov 22nd for scheduled maintenance. <br /><br />There will be no impact on core Permutive services: during this period, all event collection, segmentation and activation will continue to operate as usual.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Nov 2019 06:43:41 +0000</pubDate>
 <pubDate>Fri, 22 Nov 2019 06:43:41 +0000</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@
 <link>https://status.permutive.com/incidents/vkm1bqlnwmmr</link>
 <guid>https://status.permutive.com/incidents/vkm1bqlnwmmr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>06:37</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 8</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>28</var>, <var>09:51</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Oct <var>28</var>, <var>09:41</var> UTC</small><br /><strong>Scheduled</strong> - The Permutive dashboard will be temporarily inactive between 06:00–07:00 UTC (02:00–03:00 East Coast US; 23:00–00:00 Nov 7th West Coast US) on November 8th, 2019 for scheduled maintenance. There will be no impact on core Permutive services: during this period, all event collection, segmentation and activation will continue to operate as usual.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Nov 2019 06:37:44 +0000</pubDate>
 <pubDate>Fri, 08 Nov 2019 06:37:44 +0000</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@
 <link>https://status.permutive.com/incidents/33lsf7kd1mkb</link>
 <guid>https://status.permutive.com/incidents/33lsf7kd1mkb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>18:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has now been resolved and full service restored for all customers. Our Engineering team are continuing to monitor.</p><p><small>Nov <var> 1</var>, <var>15:43</var> UTC</small><br /><strong>Update</strong> - The Permutive API is still experiencing a partial outage, as a result of a global issue with Google Cloud.<br />For all customers, we have created a workaround to allow the Permutive SDK to provide segmentation and client-side activation as normal; new events generated will be used in situ on respective user devices. While server-side integrations (TheTradeDesk, DV360, SalesForce Marketing Cloud, Adestra, SailThru) are not populating segments in partner platforms, we are collecting a backlog and expect to transfer all pending data when the Google cloud issue is resolved.<br /><br />For some customers, a high proportion of events are not being collected server-side by the API, and will therefore be unavailable for future analytics. Cross device/cross-domain users will also not have their state synced across devices/domains in these instances. We will communicate specific details to those customers affected.<br /><br />Resolution of the issue is dependent on Google's resolution of the Google Cloud outage, details of which can be found here: https://status.cloud.google.com/incident/compute/19008#19008004.<br /><br />We will continue to monitor the situation, and provide updates via this status page.</p><p><small>Nov <var> 1</var>, <var>12:26</var> UTC</small><br /><strong>Investigating</strong> - The Permutive API is currently experiencing a partial outage, as a result of a global networking issue with Google Cloud.<br /><br />For some customers, a high proportion of the events sent by the Permutive SDK will be lost, although targeting for returning users / cached segments will remain unaffected.<br />We are communicating to those customers who are impacted, and we will continue to provide updates via this status page.<br /><br />Details about the Google Cloud outage can be found here: https://status.cloud.google.com/incident/compute/19008#19008004.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Nov 2019 18:01:43 +0000</pubDate>
-<pubDate>Fri, 01 Nov 2019 18:01:43 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

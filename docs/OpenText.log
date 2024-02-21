@@ -31,3 +31,9 @@ Append: [Cloud Fax services EMEA Network Maintenance scheduled for 05 February 2
 Append: [XM Fax NA and XM SendSecure NA Urgent Maintenance scheduled for 03 February 2024](https://status.opentext.com/incidents/hllp3gj2m82q)
 append_entries: 25
 Finish: 2024-02-21 16:23:46.487048
+------------------------------------------------------
+Started: 2024-02-21 16:44:11.343937
+Existing_entries: 25
+Fetching from https://status.opentext.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:11.673741

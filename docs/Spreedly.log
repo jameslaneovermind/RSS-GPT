@@ -31,3 +31,9 @@ Append: [Core 500 errors.](https://status.spreedly.com/incidents/vdftgffpn0wr)
 Append: [Intermittent failures on 3DS2 Global Authentications](https://status.spreedly.com/incidents/ky393nm35klv)
 append_entries: 25
 Finish: 2024-02-21 16:25:01.424284
+------------------------------------------------------
+Started: 2024-02-21 16:44:31.238698
+Existing_entries: 25
+Fetching from https://status.spreedly.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:31.536131

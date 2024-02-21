@@ -4,6 +4,7 @@
 <title>Pendo Status - Incident History</title>
 <link>https://status.pendo.io</link>
 
+
 <item>
 <title>Poll Responses Not Loading (UI)</title>
 <link>https://status.pendo.io/incidents/pk7l4d1zdvmt</link>
@@ -14,17 +15,14 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <p><small>Nov <var> 3</var>, <var>10:52</var> EDT</small><br /><strong>Resolved</strong> - A new version of the Agent update has been released fully resolving the Poll Response display issue.</p><p><small>Nov <var> 3</var>, <var>10:05</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified in a recent Agent update. We have rolled back that update and restored Poll Response visibility in the UI.</p><p><small>Nov <var> 3</var>, <var>09:35</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating loading errors for Poll Responses in the UI. Note: data collection has not been impacted.<br /><br />Pendo Engineering is reviewing the issue and we will provide updates as soon as they are available.</p>
 ]]></content:encoded>
 <pubDate>Fri, 03 Nov 2023 10:52:29 -0400</pubDate>
-<pubDate>Fri, 03 Nov 2023 10:52:29 -0400</pubDate>
 </item>
 <item>
 <title>Guide Latency Issues: CNAME Customers Only</title>
 <link>https://status.pendo.io/incidents/j57y7fcrj4jh</link>
 <guid>https://status.pendo.io/incidents/j57y7fcrj4jh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 5</var>, <var>16:27</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 5</var>, <var>13:41</var> EDT</small><br /><strong>Monitoring</strong> - Issue has been identified and monitoring the situation.</p><p><small>Oct <var> 5</var>, <var>11:01</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var> 5</var>, <var>10:55</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating some guide latency impacting CNAME customers. Potential issues serving guides to end users.<br /><br />Pendo Engineering is reviewing the issue and we will provide updates as soon as they are available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 05 Oct 2023 16:27:54 -0400</pubDate>
 <pubDate>Thu, 05 Oct 2023 16:27:54 -0400</pubDate>
 </item>
 <item>
@@ -32,10 +30,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/7w06860g0smt</link>
 <guid>https://status.pendo.io/incidents/7w06860g0smt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>18:05</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>28</var>, <var>19:18</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been deployed to resolve an ongoing outage with Pendo Feedback Webhooks. We will update this page when webhook performance returns to normal operation.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 18:05:40 -0400</pubDate>
 <pubDate>Fri, 29 Sep 2023 18:05:40 -0400</pubDate>
 </item>
 <item>
@@ -43,10 +39,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/7ss41j8vhj5w</link>
 <guid>https://status.pendo.io/incidents/7ss41j8vhj5w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>20</var>, <var>16:27</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>20</var>, <var>15:47</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified, and we are working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Sep 2023 16:27:18 -0400</pubDate>
 <pubDate>Wed, 20 Sep 2023 16:27:18 -0400</pubDate>
 </item>
 <item>
@@ -54,10 +48,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/qxbcf9mjn63f</link>
 <guid>https://status.pendo.io/incidents/qxbcf9mjn63f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>13</var>, <var>14:33</var> EDT</small><br /><strong>Resolved</strong> - The hotfix has been deployed and the issue has been resolved, please refresh any opened tabs if you are still seeing 0 values on Pages and Features. If you are still experiencing this issue post-refresh, please contact our support team via the Resource Center in Pendo.</p><p><small>Sep <var>13</var>, <var>14:10</var> EDT</small><br /><strong>Identified</strong> - Pendo engineering is currently investigating an issue in the Pendo UI that is causing Pages and Features in app.pendo.io to show a count of 0 when filtered by "Today". We have identified a hotfix that should resolve the issue and are working to release this as soon as possible. Please note that data collection has not been impacted by this incident.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Sep 2023 14:33:08 -0400</pubDate>
 <pubDate>Wed, 13 Sep 2023 14:33:08 -0400</pubDate>
 </item>
 <item>
@@ -65,10 +57,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/48gqjlkb3ft0</link>
 <guid>https://status.pendo.io/incidents/48gqjlkb3ft0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>11</var>, <var>08:42</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved. Some users may need to log out and log back in.</p><p><small>Sep <var>11</var>, <var>08:02</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>11</var>, <var>07:28</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Sep 2023 08:42:39 -0400</pubDate>
 <pubDate>Mon, 11 Sep 2023 08:42:39 -0400</pubDate>
 </item>
 <item>
@@ -76,10 +66,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/75bct64468s5</link>
 <guid>https://status.pendo.io/incidents/75bct64468s5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>29</var>, <var>18:40</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>29</var>, <var>17:34</var> EDT</small><br /><strong>Identified</strong> - We have identified the source of the issue and are working on deploying a fix.</p><p><small>Aug <var>29</var>, <var>17:06</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an ongoing issue that is preventing Pendo users from editing announcement guides within the Resource Center.</p>
 ]]></content:encoded>
-<pubDate>Tue, 29 Aug 2023 18:40:18 -0400</pubDate>
 <pubDate>Tue, 29 Aug 2023 18:40:18 -0400</pubDate>
 </item>
 <item>
@@ -87,10 +75,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/4bfnm4w7kv3k</link>
 <guid>https://status.pendo.io/incidents/4bfnm4w7kv3k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>21</var>, <var>16:34</var> EDT</small><br /><strong>Resolved</strong> - The incident has been resolved. Reports across Pendo should be working as expected. Data collection was not impacted by this incident, so no data should be missing from reports or dashboards.</p><p><small>Jul <var>21</var>, <var>14:58</var> EDT</small><br /><strong>Investigating</strong> - We are aware of a current issue where certain reports are returning 0 values in app.pendo.io. Note: data collection has not been impacted.</p>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jul 2023 16:34:44 -0400</pubDate>
 <pubDate>Fri, 21 Jul 2023 16:34:44 -0400</pubDate>
 </item>
 <item>
@@ -98,10 +84,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/cj13rdzlfxmp</link>
 <guid>https://status.pendo.io/incidents/cj13rdzlfxmp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>19</var>, <var>18:52</var> EDT</small><br /><strong>Resolved</strong> - The incident has been resolved. Guide targeting and eligibility has returned to normal functioning.</p><p><small>Jul <var>19</var>, <var>18:41</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been deployed and we are monitoring the results.</p><p><small>Jul <var>19</var>, <var>18:25</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue that may affect guide targeting and eligibility in our Japan environment. Users affected may see guides multiple times during this incident, which began 4:00 PM Eastern Time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Jul 2023 18:52:05 -0400</pubDate>
 <pubDate>Wed, 19 Jul 2023 18:52:05 -0400</pubDate>
 </item>
 <item>
@@ -109,10 +93,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/hzq3pyylcbww</link>
 <guid>https://status.pendo.io/incidents/hzq3pyylcbww</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>19</var>, <var>16:00</var> EDT</small><br /><strong>Resolved</strong> - Between 4:00 and 6:00 PM U.S. Eastern Time, guide targeting and eligibility was degraded for both US-1 and EU customers. End users may have seen guides multiple times, or did not see guides that they normally should have seen. This issue was fully resolved by 6:10 PM U.S. Eastern Time. Analytics should not be impacted.</p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Jul 2023 16:00:00 -0400</pubDate>
 <pubDate>Wed, 19 Jul 2023 16:00:00 -0400</pubDate>
 </item>
 <item>
@@ -120,10 +102,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/km3bl9fv9gck</link>
 <guid>https://status.pendo.io/incidents/km3bl9fv9gck</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>11</var>, <var>11:30</var> EDT</small><br /><strong>Resolved</strong> - Pendo became aware of problems logging into the Pendo platform, as well as some users being logged out mid-session at 11:40am US Eastern Time today. A fix was developed and deployed at 11:49am US Eastern Time, no further issues have been detected at this time. Pendo should be working normally for all customers, if you are experiencing continued issues, please contact our support team here: https://support.pendo.io/hc/en-us/articles/360034163971-Get-help-with-Pendo-from-technical-support</p>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jul 2023 11:30:00 -0400</pubDate>
 <pubDate>Tue, 11 Jul 2023 11:30:00 -0400</pubDate>
 </item>
 <item>
@@ -131,10 +111,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/gnj9h7j3np95</link>
 <guid>https://status.pendo.io/incidents/gnj9h7j3np95</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>27</var>, <var>10:36</var> EDT</small><br /><strong>Resolved</strong> - The Resource Center is restored and back to full functionality.</p><p><small>Apr <var>27</var>, <var>10:35</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>27</var>, <var>09:49</var> EDT</small><br /><strong>Investigating</strong> - The Pendo Resource Center is currently offline. We are working to restore this as quickly as possible.</p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Apr 2023 10:36:35 -0400</pubDate>
 <pubDate>Thu, 27 Apr 2023 10:36:35 -0400</pubDate>
 </item>
 <item>
@@ -142,10 +120,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/l3zwdp9z21j0</link>
 <guid>https://status.pendo.io/incidents/l3zwdp9z21j0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 7</var>, <var>18:25</var> EST</small><br /><strong>Resolved</strong> - The issue has been resolved.</p><p><small>Mar <var> 7</var>, <var>18:07</var> EST</small><br /><strong>Update</strong> - The hotfix to address this issue has been deployed. We are currently monitoring guide traffic to ensure that guides are back to full operation.</p><p><small>Mar <var> 7</var>, <var>18:06</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Mar <var> 7</var>, <var>18:06</var> EST</small><br /><strong>Monitoring</strong> - The hotfix to address this issue has been deployed. We are currently monitoring guide traffic to ensure that guides are back to full operation.</p><p><small>Mar <var> 7</var>, <var>17:55</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being deployed now. This page will update again when the fix has been fully deployed.</p><p><small>Mar <var> 7</var>, <var>17:19</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where Pendo guides are failing to load for some customers.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Mar 2023 18:25:25 -0500</pubDate>
 <pubDate>Tue, 07 Mar 2023 18:25:25 -0500</pubDate>
 </item>
 <item>
@@ -153,10 +129,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/d9wkn4bnykwv</link>
 <guid>https://status.pendo.io/incidents/d9wkn4bnykwv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 2</var>, <var>13:21</var> EST</small><br /><strong>Resolved</strong> - At this point, message processing has caught up with current volume and users should no longer be experiencing delays. <br /><br />If further issues are seen, please contact Pendo Technical Success.</p><p><small>Mar <var> 2</var>, <var>12:49</var> EST</small><br /><strong>Identified</strong> - We are continuing to monitor the source of the delay and work to rectify. We will provide additional information around improved speed of delivery as soon as it is available.</p><p><small>Mar <var> 2</var>, <var>10:44</var> EST</small><br /><strong>Investigating</strong> - Webhook message delivery may be delayed. We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Mar 2023 13:21:45 -0500</pubDate>
 <pubDate>Thu, 02 Mar 2023 13:21:45 -0500</pubDate>
 </item>
 <item>
@@ -164,10 +138,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/xs2n0j0cljkw</link>
 <guid>https://status.pendo.io/incidents/xs2n0j0cljkw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>20:29</var> EST</small><br /><strong>Resolved</strong> - Navigating to Pendo Feedback from within the Pendo UI should now be back to working as expected. The issue was caused by some changes made to app.pendo.io earlier today that have been rolled back.</p><p><small>Jan <var>30</var>, <var>19:29</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with switching to the Pendo Feedback product using the in-app product switcher. While we investigate, you should still be able to access Pendo Feedback directly by using the specific URL for your region:<br /><br />US: https://feedback.us.pendo.io/app<br />EU: https://feedback.eu.pendo.io/app/</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Jan 2023 20:29:25 -0500</pubDate>
 <pubDate>Mon, 30 Jan 2023 20:29:25 -0500</pubDate>
 </item>
 <item>
@@ -175,10 +147,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/d1b3bpzv2zbq</link>
 <guid>https://status.pendo.io/incidents/d1b3bpzv2zbq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>20</var>, <var>14:19</var> EDT</small><br /><strong>Resolved</strong> - At this point we are confident that the issues previously seen with Mobile functionality is resolved. <br /><br />If customers experience additional issues, please contact Pendo Technical Success</p><p><small>Oct <var>20</var>, <var>12:53</var> EDT</small><br /><strong>Monitoring</strong> - Our engineering teams have made the appropriate adjustments and we believe Mobile Analytics and Guides are now functioning as expected. <br />We are continuing to monitor our performance to ensure appropriate functionality. Once we believe the issues are fully resolved we will update appropriately.</p><p><small>Oct <var>20</var>, <var>12:35</var> EDT</small><br /><strong>Investigating</strong> - We have been made aware of an issue with our Mobile functionality across the Pendo platform. This is believed to be impacting Analytics and Guides for Mobile. <br />Our team is aware and working quickly to understand the scope of the issue and steps to resolution. <br />We will provide an update as soon as one is available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 20 Oct 2022 14:19:02 -0400</pubDate>
 <pubDate>Thu, 20 Oct 2022 14:19:02 -0400</pubDate>
 </item>
 <item>
@@ -186,10 +156,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/jwhfy5mzk41t</link>
 <guid>https://status.pendo.io/incidents/jwhfy5mzk41t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>03:30</var> EDT</small><br /><strong>Resolved</strong> - Google experienced an issue in Datastore which impacted Pendo customers in pendo-eu, particularly with guide errors and latency. The issue was resolved at approximately 5:30 ET, for a total impacted time of approximately 2 hours. There should be no outstanding issues remaining, and no action necessary for Pendo customers to resume normal operations.</p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Sep 2022 03:30:00 -0400</pubDate>
 <pubDate>Tue, 27 Sep 2022 03:30:00 -0400</pubDate>
 </item>
 <item>
@@ -197,10 +165,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/5py93lxymmpg</link>
 <guid>https://status.pendo.io/incidents/5py93lxymmpg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 9</var>, <var>15:47</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 9</var>, <var>13:55</var> EDT</small><br /><strong>Monitoring</strong> - The issue has been identified and a fix has been deployed. We are continuing to monitor the situation and will update if there are any additional findings.</p><p><small>Sep <var> 9</var>, <var>11:45</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is causing certain users to be unable to save their guides. The deployment of existing guides is not impacted.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Sep 2022 15:47:21 -0400</pubDate>
 <pubDate>Fri, 09 Sep 2022 15:47:21 -0400</pubDate>
 </item>
 <item>
@@ -208,10 +174,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/q5mwj54cq45z</link>
 <guid>https://status.pendo.io/incidents/q5mwj54cq45z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>31</var>, <var>15:51</var> EDT</small><br /><strong>Resolved</strong> - At this point we're confident that guide deliverability, inclusive of Resource Center deployments, should now be fully operational. <br /><br />If any further issues are seen, please contact Pendo Technical Success.</p><p><small>Aug <var>31</var>, <var>15:32</var> EDT</small><br /><strong>Identified</strong> - We have identified the cause of the issue and are working through the fix and monitoring impact. <br /><br />Guide deliverability should now be recovering and we will continue monitoring for full resolution. Additional updates will be provided as soon as they are available.</p><p><small>Aug <var>31</var>, <var>14:57</var> EDT</small><br /><strong>Investigating</strong> - While the Pendo application should now be available, we are now aware of impact to our guide deliverability where guides may not be displaying as intended. <br /><br />Our engineering team is aware and working to provide resolution as quickly as possible. <br /><br />We will provide updates as soon as they are available.</p><p><small>Aug <var>31</var>, <var>14:39</var> EDT</small><br /><strong>Monitoring</strong> - We are aware that the Pendo application, accessed at app.pendo.io, was previously unresponsive. <br /><br />We believe we have made the appropriate changes to resolve the issue, but are continuing to monitor. <br /><br />We will provide updates once we believe the issue to be fully resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Aug 2022 15:51:03 -0400</pubDate>
 <pubDate>Wed, 31 Aug 2022 15:51:03 -0400</pubDate>
 </item>
 <item>
@@ -219,10 +183,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/d8h18mnv270y</link>
 <guid>https://status.pendo.io/incidents/d8h18mnv270y</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>16</var>, <var>09:43</var> EDT</small><br /><strong>Resolved</strong> - At this point, our team has restored our systems to normal functionality with event processing occurring normally. Any Pendo subscriptions that may have experienced a delay in processing can expect data for events to reflect normally within the next 24 hours. <br /><br />Please contact Pendo Technical Success should any further issues be seen.</p><p><small>May <var>16</var>, <var>08:45</var> EDT</small><br /><strong>Investigating</strong> - System errors suggest collected events may not be processing correctly as of 8:15 AM EDT. We are currently investigating.</p>
 ]]></content:encoded>
-<pubDate>Mon, 16 May 2022 09:43:25 -0400</pubDate>
 <pubDate>Mon, 16 May 2022 09:43:25 -0400</pubDate>
 </item>
 <item>
@@ -230,10 +192,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/zhz4lpr4jt8n</link>
 <guid>https://status.pendo.io/incidents/zhz4lpr4jt8n</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>12</var>, <var>17:48</var> EDT</small><br /><strong>Resolved</strong> - The incident has been resolved and guides are deploying as expected.</p><p><small>May <var>12</var>, <var>16:57</var> EDT</small><br /><strong>Monitoring</strong> - We are aware of an impact to our guide delivery service. This is causing some guides to fail to be delivered to visitors, even when eligible. We are actively deploying a fix to our code that will remediate the issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 May 2022 17:48:28 -0400</pubDate>
 <pubDate>Thu, 12 May 2022 17:48:28 -0400</pubDate>
 </item>
 <item>
@@ -241,10 +201,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/n81ddssk9dqy</link>
 <guid>https://status.pendo.io/incidents/n81ddssk9dqy</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 4</var>, <var>21:03</var> EDT</small><br /><strong>Resolved</strong> - Issue has been resolved, remaining processing jobs have completed or are catching up to complete shortly.</p><p><small>May <var> 4</var>, <var>16:35</var> EDT</small><br /><strong>Investigating</strong> - We are currently experiencing some delays in processing newly tagged pages and features. The issue has been identified and we are currently working to correct the problem as quickly as possible.</p>
 ]]></content:encoded>
-<pubDate>Wed, 04 May 2022 21:03:41 -0400</pubDate>
 <pubDate>Wed, 04 May 2022 21:03:41 -0400</pubDate>
 </item>
 <item>
@@ -252,10 +210,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/2j82kq6q4hzg</link>
 <guid>https://status.pendo.io/incidents/2j82kq6q4hzg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>29</var>, <var>13:30</var> EDT</small><br /><strong>Resolved</strong> - The issue has been resolved.</p><p><small>Apr <var>29</var>, <var>13:00</var> EDT</small><br /><strong>Investigating</strong> - We are currently experiencing some intermittent guide delivery failures within app.pendo.io. We are actively investigating the issue now and will update as soon as we have more to share.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Apr 2022 13:30:41 -0400</pubDate>
 <pubDate>Fri, 29 Apr 2022 13:30:41 -0400</pubDate>
 </item>
 <item>
@@ -263,10 +219,8 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/1kyvk3fdwh2y</link>
 <guid>https://status.pendo.io/incidents/1kyvk3fdwh2y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>28</var>, <var>12:57</var> EDT</small><br /><strong>Resolved</strong> - The Google Cloud Platform team has confirmed that the outage has been resolved. Data collection and guide delivery were not observed to be delayed or impacted in any capacity during this outage.</p><p><small>Apr <var>28</var>, <var>11:48</var> EDT</small><br /><strong>Monitoring</strong> - The issue has been remediated, we are continuing to monitor for now. Google Cloud Platform is experiencing a temporary outage that has affected app.pendo.io.</p><p><small>Apr <var>28</var>, <var>10:29</var> EDT</small><br /><strong>Investigating</strong> - We are aware that parts of the Pendo platform are currently unavailable including access to app.Pendo.io. We are working to resolve and will provide and update as soon as possible</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Apr 2022 12:57:05 -0400</pubDate>
 <pubDate>Thu, 28 Apr 2022 12:57:05 -0400</pubDate>
 </item>
 <item>
@@ -274,12 +228,9 @@ Summary: An issue with loading errors for Poll Responses in the UI is currently 
 <link>https://status.pendo.io/incidents/hyfq12sr4m36</link>
 <guid>https://status.pendo.io/incidents/hyfq12sr4m36</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 5</var>, <var>15:18</var> EDT</small><br /><strong>Resolved</strong> - All data processing jobs are caught up and operating as expected.</p><p><small>Apr <var> 5</var>, <var>13:57</var> EDT</small><br /><strong>Monitoring</strong> - Data processing delay root cause has been addressed. A small number of subscriptions may continue to experience delays as these systems catch up. We'll continue monitoring until we feel the issue is completely resolved.</p><p><small>Apr <var> 5</var>, <var>12:09</var> EDT</small><br /><strong>Investigating</strong> - We have received reports from customers and are aware of delays in data appearing within the Pendo Insights and Analytics UI. We believe this is impacting some, but not all of our customers. <br /><br />Our engineers are aware of the problem and working to resolve. We will provide updates here as soon as they are available.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Apr 2022 15:18:36 -0400</pubDate>
-<pubDate>Tue, 05 Apr 2022 15:18:36 -0400</pubDate>
 </item>
-
 </channel>
 </rss>

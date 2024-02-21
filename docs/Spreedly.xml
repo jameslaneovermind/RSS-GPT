@@ -4,6 +4,7 @@
 <title>Spreedly Status - Incident History</title>
 <link>https://status.spreedly.com</link>
 
+
 <item>
 <title>AU Callbacks</title>
 <link>https://status.spreedly.com/incidents/051bqg99b9ph</link>
@@ -14,17 +15,14 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <p><small>Feb <var>16</var>, <var>13:01</var> EST</small><br /><strong>Resolved</strong> - After closely monitoring our fix on AU Callback Deliveries and confirming that all systems are stabilized and functioning as expected, this incident is considered resolved. No further customer impact is expected.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Feb <var>15</var>, <var>18:46</var> EST</small><br /><strong>Monitoring</strong> - Since 2024-01-13, there has been an issue detected causing AU Callbacks to fail delivery. We’ve implemented a fix and stabilized AU Callback Deliveries and our team is monitoring the situation closely to ensure there are no additional impacts. <br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Feb <var>13</var>, <var>14:07</var> EST</small><br /><strong>Identified</strong> - Since 2024-01-13, there has been an issue detected causing AU Callbacks to fail delivery. All impacted customers have been notified.<br /><br />Our team is actively working towards a solution to rectify the problem, and we will keep you updated on any progress made in resolving the matter. We value your patience as we work to resolve this issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 16 Feb 2024 13:01:51 -0500</pubDate>
-<pubDate>Fri, 16 Feb 2024 13:01:51 -0500</pubDate>
 </item>
 <item>
 <title>3DS Global Errors</title>
 <link>https://status.spreedly.com/incidents/f2qcbfnh6rh9</link>
 <guid>https://status.spreedly.com/incidents/f2qcbfnh6rh9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>09:19</var> EST</small><br /><strong>Resolved</strong> - We have closely monitored the situation and received official confirmation that the issue has been resolved. As a result, we consider the incident resolved and do not anticipate any further impact on our customers.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Feb <var>15</var>, <var>14:02</var> EST</small><br /><strong>Monitoring</strong> - Since 2024-02-14 09:14 ET, there has been an issue outside of our platform detected with our 3DS Global Provider.<br /><br />A fix has been implemented, and our team is monitoring the situation closely to ensure there are no additional impacts.<br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Feb <var>15</var>, <var>11:42</var> EST</small><br /><strong>Update</strong> - Since 2024-02-14 09:14 ET, there has been an issue outside of our platform detected with our 3DS Global Provider.<br /><br />Our service provider is in the process of implementing a fix today to address the intermittent issues being noticed by some customers when conducting 3DS Global transactions with Visa. <br /><br />Once we've received confirmation from our service provider that the fix is in place, we will monitor the changes and communicate this status.</p><p><small>Feb <var>14</var>, <var>16:15</var> EST</small><br /><strong>Identified</strong> - Since 2024-02-14 09:14 ET this morning, there has been an issue outside of our platform detected with our 3DS Global Provider.<br /><br />Our service provider has identified the source of the issue and is actively working to address. Spreedly continues to work with the provider on this issue and our team is monitoring the situation closely to ensure there are no additional impacts.<br /><br />The next update will be provided as soon as a material update is available.<br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Feb <var>14</var>, <var>09:14</var> EST</small><br /><strong>Investigating</strong> - Spreedly identified an issue outside of our platform that could impact our services with 3DS. This may lead to degraded performance with 3DS Global.<br /><br />We are taking all necessary measures to investigate the matter with our service provider to determine the extent of the situation. We will provide an update as soon as more details are available.<br /><br />Thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 09:19:20 -0500</pubDate>
 <pubDate>Fri, 16 Feb 2024 09:19:20 -0500</pubDate>
 </item>
 <item>
@@ -32,10 +30,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/qqnx99f821f2</link>
 <guid>https://status.spreedly.com/incidents/qqnx99f821f2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>09:01</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>25</var>, <var>08:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>25</var>, <var>07:12</var> EST</small><br /><strong>Scheduled</strong> - Our system is currently undergoing maintenance activity. We are performing our annual production key rotation of our Mastercard Network Tokenization service, a process that may cause the service to be temporarily unavailable for about 15 minutes while we perform the key rotation.  Note that while transactions attempted with a Mastercard network token during this rotation will not be rejected, attempts to provision a network token with a Mastercard card will not succeed during the key rotation portion of this activity. If you experience any unexpected impacts during this time, please <a href="https://support.spreedly.com/hc/en-us/requests/new">reach out</a> and our support team will be happy to assist.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 09:01:54 -0500</pubDate>
 <pubDate>Thu, 25 Jan 2024 09:01:54 -0500</pubDate>
 </item>
 <item>
@@ -43,10 +39,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/0nfb00fmpm18</link>
 <guid>https://status.spreedly.com/incidents/0nfb00fmpm18</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>12:11</var> EST</small><br /><strong>Resolved</strong> - We have mitigated the 1% errors seen with the BIN MetaData service after a period of monitoring and are taking further steps to make our system more resilient. We consider this incident resolved.<br /><br />We apologize for any inconvenience.</p><p><small>Jan <var>23</var>, <var>15:13</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate and are working towards mitigating this issue. <br /><br />We apologize for any inconvenience.</p><p><small>Jan <var>23</var>, <var>11:30</var> EST</small><br /><strong>Update</strong> - We are investigating an issue related to the BIN metadata service. This is a service which provides data in the Spreedly response, but does not affect transaction success rates. We are seeing that in 1% of requests which access payment methods, the bin_metadata portion of the response ‘BIN metadata service unavailable.’ will be returned.</p><p><small>Jan <var>23</var>, <var>10:47</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 12:11:08 -0500</pubDate>
 <pubDate>Wed, 24 Jan 2024 12:11:08 -0500</pubDate>
 </item>
 <item>
@@ -54,10 +48,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/xpk37s3y0fqd</link>
 <guid>https://status.spreedly.com/incidents/xpk37s3y0fqd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>22:43</var> EST</small><br /><strong>Resolved</strong> - This incident is considered resolved after closely monitoring our dLocal gateway connection and confirming that all systems are stabilized and functioning as expected. No further customer impact is expected.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Dec <var>18</var>, <var>22:26</var> EST</small><br /><strong>Monitoring</strong> - We recently encountered a technical issue with Dlocal that resulted in errors for customers. Once identified, we immediately began working with the gateway on a resolution. We are pleased to report that we are now seeing successful transactions with Dlocal.<br /><br />Our team is monitoring the situation closely to ensure there are no additional impacts. <br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Dec <var>18</var>, <var>22:07</var> EST</small><br /><strong>Identified</strong> - Spreedly has identified an issue outside of our platform that could impact our services with Dlocal.<br /><br />Our team is actively working towards a solution with the gateway to rectify the problem, and we will keep you updated on any progress made in resolving the matter. <br /><br />We value your patience as we work to resolve this issue.</p><p><small>Dec <var>18</var>, <var>21:06</var> EST</small><br /><strong>Investigating</strong> - Spreedly has identified an issue outside of our platform that could impact our services with Dlocal. This may lead to degraded performance with all transactions with this gateway.<br /><br />We are taking all necessary measures to investigate the matter and determine the extent of the situation. We will provide an update as soon as more details are available.<br /><br />Thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 22:43:44 -0500</pubDate>
 <pubDate>Mon, 18 Dec 2023 22:43:44 -0500</pubDate>
 </item>
 <item>
@@ -65,10 +57,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/cdhtvpn4wrbx</link>
 <guid>https://status.spreedly.com/incidents/cdhtvpn4wrbx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>14:20</var> EST</small><br /><strong>Resolved</strong> - At 16:10 UTC a change was deployed to the Spreedly iFrame that introduced errors with Gateway Specific 3DS. A fix has been implemented at 18:52 UTC and the issue is now resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 14:20:00 -0500</pubDate>
 <pubDate>Tue, 12 Dec 2023 14:20:00 -0500</pubDate>
 </item>
 <item>
@@ -76,10 +66,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/dnxhm2wg7mxh</link>
 <guid>https://status.spreedly.com/incidents/dnxhm2wg7mxh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>17:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 8</var>, <var>15:31</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 8</var>, <var>15:28</var> EST</small><br /><strong>Scheduled</strong> - This page is currently undergoing maintenance as we strive to make improvements.<br /><br />We are happy to bring to your attention our upcoming upgrades on Spreedly's Status page. We are following through on our commitment to ensuring that our systems component's status remains easy to understand should an incident arise. Through this maintenance, we can consistently deliver high-quality service and provide clear and precise information when a component is experiencing issues. <br /><br />Thank you for your continued support, and we look forward to serving you better.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 17:30:15 -0500</pubDate>
 <pubDate>Wed, 08 Nov 2023 17:30:15 -0500</pubDate>
 </item>
 <item>
@@ -87,10 +75,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/1fsl4tn3tr8d</link>
 <guid>https://status.spreedly.com/incidents/1fsl4tn3tr8d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>17:07</var> EDT</small><br /><strong>Resolved</strong> - After closely monitoring id.spreedly.com and dashboard.spreedly.com and confirming that all systems are stabilized and functioning as expected, this incident is considered resolved. No further customer impact is expected.<br /><br />We are completing our investigation with regard to the causes of the incident and any residual impact.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Oct <var>30</var>, <var>16:42</var> EDT</small><br /><strong>Monitoring</strong> - Spreedly had detected an issue that prevented access to id.spreedly.com and dashboard.spreedly.com.<br /><br />Since that time the issue has been resolved, and we apologize for any inconvenience it may have caused.<br />We will be working with one of our partners to determine the cause of the issue.<br /><br />Thank you for your patience and understanding.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 17:07:27 -0400</pubDate>
 <pubDate>Mon, 30 Oct 2023 17:07:27 -0400</pubDate>
 </item>
 <item>
@@ -98,10 +84,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/tzdw5086xd0n</link>
 <guid>https://status.spreedly.com/incidents/tzdw5086xd0n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>22</var>, <var>16:43</var> EDT</small><br /><strong>Resolved</strong> - Spreedly has monitored the results of the deployed fix and have now deemed this incident to be resolved.</p><p><small>Sep <var>22</var>, <var>14:08</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Sep <var>22</var>, <var>11:53</var> EDT</small><br /><strong>Investigating</strong> - We are investigating an issue with the Spreedly Dashboard.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 16:43:22 -0400</pubDate>
 <pubDate>Fri, 22 Sep 2023 16:43:22 -0400</pubDate>
 </item>
 <item>
@@ -109,10 +93,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/4hnxxxkk25r4</link>
 <guid>https://status.spreedly.com/incidents/4hnxxxkk25r4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>20</var>, <var>21:10</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>20</var>, <var>20:47</var> EDT</small><br /><strong>Update</strong> - We have closely monitored the situation and received official confirmation from our third-party provider that the issue has been resolved. As a result, we consider the incident resolved and do not anticipate any further impact on our customers.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Sep <var>20</var>, <var>18:15</var> EDT</small><br /><strong>Monitoring</strong> - Since 2023-09-20 2:41 PM  ET this afternoon, there has been an issue outside of our platform detected with regional network service.<br /><br />Traffic has been rerouted in this region, and we continue to monitor traffic. Please reach out to our Support team if you need any additional help.</p><p><small>Sep <var>20</var>, <var>16:37</var> EDT</small><br /><strong>Investigating</strong> - Spreedly has discovered an issue that could potentially impact our services, leading to Increased timeouts for a small number of transactions.<br /><br />We are taking all necessary measures to investigate the matter and determine the extent of the situation. We provide an update as soon as more details are available.<br /><br />Thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Sep 2023 21:10:37 -0400</pubDate>
 <pubDate>Wed, 20 Sep 2023 21:10:37 -0400</pubDate>
 </item>
 <item>
@@ -120,10 +102,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/1pwv040kynqz</link>
 <guid>https://status.spreedly.com/incidents/1pwv040kynqz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>14</var>, <var>12:44</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>14</var>, <var>12:33</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and are confident the issue is resolved. We are continuing to monitor our systems closely.</p><p><small>Sep <var>14</var>, <var>12:15</var> EDT</small><br /><strong>Identified</strong> - Spreedly is aware that some customers received 500 errors for PMD transactions. We have identified the fix and it has been implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Sep 2023 12:44:03 -0400</pubDate>
 <pubDate>Thu, 14 Sep 2023 12:44:03 -0400</pubDate>
 </item>
 <item>
@@ -131,10 +111,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/xbmq87fwkd9r</link>
 <guid>https://status.spreedly.com/incidents/xbmq87fwkd9r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>31</var>, <var>11:00</var> EDT</small><br /><strong>Resolved</strong> - At 2023-08-31 11:18:00 AM ET this morning, a change was made causing 503 Errors.<br /><br />After rolling back our changes and close monitoring, we have confirmed that all systems are stabilized and functioning as expected, this incident is considered resolved. No further customer impact is expected.<br /><br />We are completing our investigation with regard to the causes of the incident and any residual impact. **A post-incident review will be published.**<br /><br />We apologize for any inconvenience or disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 31 Aug 2023 11:00:00 -0400</pubDate>
 <pubDate>Thu, 31 Aug 2023 11:00:00 -0400</pubDate>
 </item>
 <item>
@@ -142,10 +120,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/kfbtvjyfqz00</link>
 <guid>https://status.spreedly.com/incidents/kfbtvjyfqz00</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>28</var>, <var>17:41</var> EDT</small><br /><strong>Resolved</strong> - We have closely monitored the situation and received official confirmation from Fastly that the issue has been resolved. As a result, we consider the incident resolved and do not anticipate any further impact on our customers.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Aug <var>28</var>, <var>17:22</var> EDT</small><br /><strong>Monitoring</strong> - A Fix has been implemented by Fastly and they are monitoring results<br /><br />Please reach out to our Support team if you need any additional help.<br /><br />For additional information: https://www.fastlystatus.com/</p><p><small>Aug <var>28</var>, <var>17:09</var> EDT</small><br /><strong>Investigating</strong> - We continue to see no worsening symptoms of an impact from the outage.  We'll continue to monitor Fastly Status for resolution and intend on updating Spreedly status to resolved when Fastly has reported as resolved or if this moves into more formal incident territory.  We are reporting our systems as operational alongside the status page post.  Support is keeping watch on the inbound queue.<br /><br />We will provide an update as soon as more details are available. <br /> <br />Thank you for your patience.</p><p><small>Aug <var>28</var>, <var>16:37</var> EDT</small><br /><strong>Identified</strong> - Spreedly is monitoring an issue we’ve identified with our third-party CDN, Fastly, who is reporting an issue that we believe is resulting in a very small number of intermittent 503 error responses. <br /><br />We're in communication with Fastly and are closely monitoring the situation. Fastly has communicated the issue has been identified and a fix is being implemented. We'll continue to provide updates as soon as more details are available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 28 Aug 2023 17:41:44 -0400</pubDate>
 <pubDate>Mon, 28 Aug 2023 17:41:44 -0400</pubDate>
 </item>
 <item>
@@ -153,10 +129,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/lrbm9g89hk0q</link>
 <guid>https://status.spreedly.com/incidents/lrbm9g89hk0q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>16</var>, <var>21:14</var> EDT</small><br /><strong>Resolved</strong> - After a period of monitoring, we have not seen any recurrence of this issue.<br /><br />We consider this incident resolved and do not anticipate any further impact on our customers.<br /><br />We apologize for the impact this caused to affected customers.</p><p><small>Aug <var>16</var>, <var>18:56</var> EDT</small><br /><strong>Monitoring</strong> - We have been in contact with Payeezy and they confirmed there was an outage on their side.  It appears this has been corrected as we are seeing successful transactions with this payments gateway now. <br /><br />We will monitor for some time to make sure all has returned to normal.</p><p><small>Aug <var>16</var>, <var>17:49</var> EDT</small><br /><strong>Investigating</strong> - Our team is actively investigating an issue that led to Payeezy payments gateway outage. <br /><br /><br />We are taking all necessary measures to investigate the matter and determine the extent of the situation. We will provide an update as soon as more details are available. <br /><br /><br />Thank you for your patience.</p><p><small>Aug <var>16</var>, <var>16:39</var> EDT</small><br /><strong>Identified</strong> - We have identified an issue with the Payeezy payments gateway which is impacting customers transacting through this integration. <br /><br />We are currently investigating and will provide an update within the next hour.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Aug 2023 21:14:08 -0400</pubDate>
 <pubDate>Wed, 16 Aug 2023 21:14:08 -0400</pubDate>
 </item>
 <item>
@@ -164,10 +138,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/b2nxfczdch7s</link>
 <guid>https://status.spreedly.com/incidents/b2nxfczdch7s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>14</var>, <var>15:09</var> EDT</small><br /><strong>Resolved</strong> - We have closely monitored the situation and received official confirmation from Elavon, as well from our customers, that the issue has been resolved. As a result, we consider the incident resolved and do not anticipate any further impact on our customers or their capability to transact using this gateway.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Aug <var>14</var>, <var>10:45</var> EDT</small><br /><strong>Monitoring</strong> - We have been notified by Elavon that a fix has been implemented.  We also see evidence of an increased success rate in our internal systems and will continue monitoring.<br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Aug <var>14</var>, <var>10:28</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>14</var>, <var>09:19</var> EDT</small><br /><strong>Update</strong> - We are continuing to reach out to Elavon in an effort to have this issue resolved as soon as possible. We will provide another update an hour from now.<br /> <br />Thank you for your patience.</p><p><small>Aug <var>13</var>, <var>15:50</var> EDT</small><br /><strong>Update</strong> - We continue to actively reach out to Elavon in an effort to achieve a resolution on this issue, however the current expectations are that we will see further traction tomorrow, Monday. We will provide another update by 9 AM ET, unless we have any information from Elavon sooner.</p><p><small>Aug <var>13</var>, <var>13:07</var> EDT</small><br /><strong>Update</strong> - We continue to actively reach out to Elavon in an effort to achieve resolution as soon as possible. We will provide another update by 4 pm ET, unless we have any information sooner.</p><p><small>Aug <var>13</var>, <var>09:57</var> EDT</small><br /><strong>Update</strong> - We will continue to reach out to Elavon to pursue a fix for this issue.</p><p><small>Aug <var>13</var>, <var>09:56</var> EDT</small><br /><strong>Update</strong> - We will continue to reach out to Elavon to pursue a fix for this issue.</p><p><small>Aug <var>12</var>, <var>20:12</var> EDT</small><br /><strong>Update</strong> - We have been in touch with Elavon throughout the day.  The issue is known and we have requested Elavon dispatch additional resources to resolve their network issue. We will provide another update no later than 10 EDT tomorrow, or sooner if the issue is able to be resolved before then.</p><p><small>Aug <var>12</var>, <var>16:57</var> EDT</small><br /><strong>Update</strong> - We continue to actively follow up on status of this issue with Elavon and while they are still investigating, we do not have an estimated resolution time yet.  We will provide another update as soon as we receive additional information from their organization.</p><p><small>Aug <var>12</var>, <var>14:42</var> EDT</small><br /><strong>Update</strong> - Our team has been assured that Elavon continues to actively investigate this issue.  We will follow up with them and provide another update within the next couple of hours.</p><p><small>Aug <var>12</var>, <var>13:16</var> EDT</small><br /><strong>Update</strong> - We have actively engaged with Elavon and are currently jointly investigating this issue. <br />We will provide another update once we have more information.</p><p><small>Aug <var>12</var>, <var>12:00</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>12</var>, <var>11:53</var> EDT</small><br /><strong>Identified</strong> - Since 2023-08-11 at 20:06 ET we started to detect intermittent errors when communicating with the Elavon gateway.<br /><br />This issue appears to be similar to a previous one we experienced on August 1st. Approximately a third of the transactions traffic is being blocked by the payments gateway.   <br /><br />We have reached out to Elavon for immediate assistance in resolving this issue and will provide an update as soon as we have additional information</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Aug 2023 15:09:56 -0400</pubDate>
 <pubDate>Mon, 14 Aug 2023 15:09:56 -0400</pubDate>
 </item>
 <item>
@@ -175,10 +147,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/cccb3wp5b1sl</link>
 <guid>https://status.spreedly.com/incidents/cccb3wp5b1sl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 1</var>, <var>19:09</var> EDT</small><br /><strong>Resolved</strong> - We have closely monitored the situation since Elavon notified us earlier that the issue was resolved, and we have confirmed that the errors that were previously experienced are no longer being experienced. We consider this incident resolved and do not anticipate any further impact on our customers.<br /><br />We apologize for any inconvenience or disruption.   We will continue working with Elavon on root cause analysis and in jointly ensuring that we prevent a similar issue in the future.</p><p><small>Aug <var> 1</var>, <var>17:28</var> EDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Aug <var> 1</var>, <var>15:01</var> EDT</small><br /><strong>Monitoring</strong> - We have been notified by Elavon that a fix has been implemented.  We also see evidence of an increased success rate in our internal systems and will continue monitoring.</p><p><small>Aug <var> 1</var>, <var>10:52</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue. We are in contact with Elavon and are confident that our investigation is progressing towards a resolution. <br /><br />Thank you for your patience and we sincerely apologize for any inconvenience.</p><p><small>Jul <var>31</var>, <var>18:23</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue. We are currently working with Elavon to work toward a resolution.<br /><br />Thank you for your patience.</p><p><small>Jul <var>31</var>, <var>11:06</var> EDT</small><br /><strong>Investigating</strong> - Spreedly identified an issue outside of our platform that could impact our services with Elavon Gateway. This may affect customers transacting against this gateway. <br /><br />We are taking all necessary measures to investigate the matter and determine the extent of the situation. We will provide an update as soon as more details are available.<br /><br />Thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Tue, 01 Aug 2023 19:09:22 -0400</pubDate>
 <pubDate>Tue, 01 Aug 2023 19:09:22 -0400</pubDate>
 </item>
 <item>
@@ -186,10 +156,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/gwjdm8rnjngk</link>
 <guid>https://status.spreedly.com/incidents/gwjdm8rnjngk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>19</var>, <var>10:08</var> EDT</small><br /><strong>Resolved</strong> - After closely monitoring our Core Transactional API and confirming that all systems are stabilized and functioning as expected, this incident is considered resolved. <br /><br />We are completing our investigation with regard to the causes of the incident and any residual impact. A post-incident review will be published.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Jul <var>18</var>, <var>20:56</var> EDT</small><br /><strong>Monitoring</strong> - Our Engineering team has identified and implemented some changes to address the issue. As we actively monitor the fix, we are seeing a reduction in error rates indicating the fix is stabilizing the errors and addressing the issue.<br /><br />We’ll continue to monitor the fix closely and provide updates.</p><p><small>Jul <var>18</var>, <var>18:20</var> EDT</small><br /><strong>Update</strong> - Our team is actively investigating an issue with one of the libraries that feeds our Core component resulting in some transactions receiving errors. Some customers may have experienced 500 errors. We are still investigating a potential solution.<br /><br />Thank you for your patience.</p><p><small>Jul <var>18</var>, <var>15:38</var> EDT</small><br /><strong>Identified</strong> - Since 2023-07-18 3:01 ET, there has been an issue detected causing intermittent errors on the Spreedly API. <br /><br />Our team is actively working towards a solution to rectify the problem, and we will keep you updated on any progress made in resolving the matter. We value your patience as we work to resolve this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Jul 2023 10:08:34 -0400</pubDate>
 <pubDate>Wed, 19 Jul 2023 10:08:34 -0400</pubDate>
 </item>
 <item>
@@ -197,10 +165,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/d9q6pm5l6n3f</link>
 <guid>https://status.spreedly.com/incidents/d9q6pm5l6n3f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>13</var>, <var>16:12</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>13</var>, <var>15:11</var> EDT</small><br /><strong>Update</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>13</var>, <var>15:10</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>13</var>, <var>15:09</var> EDT</small><br /><strong>Scheduled</strong> - We are very happy to bring to your attention our upcoming upgrades on Spreedly's Status page. We are committed to ensuring that our systems component's status remains easy and clear to understand should an incident arise. Through this maintenance, we can consistently deliver high-quality service and provide clear and precise information when a component is experiencing issues.<br /><br />Thank you for your continued support, and we look forward to serving you better.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jul 2023 16:12:40 -0400</pubDate>
 <pubDate>Thu, 13 Jul 2023 16:12:40 -0400</pubDate>
 </item>
 <item>
@@ -208,10 +174,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/2dntz6xhlylq</link>
 <guid>https://status.spreedly.com/incidents/2dntz6xhlylq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>29</var>, <var>17:15</var> EDT</small><br /><strong>Resolved</strong> - After a period of monitoring, we have confirmed that the issue has been resolved.</p><p><small>Jun <var>29</var>, <var>16:08</var> EDT</small><br /><strong>Monitoring</strong> - The intermittent errors with the Spreedly iFrame have subsided.<br /><br />We are continuing to monitor to ensure that the issue is fully resolved</p><p><small>Jun <var>29</var>, <var>15:37</var> EDT</small><br /><strong>Identified</strong> - We have identified an issue with an upstream service provider causing intermittent errors on the Spreedly iFrame.<br /><br />We are communicating with our service provider as they work to resolve the issue.</p><p><small>Jun <var>29</var>, <var>13:22</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue with the Spreedly iFrame. Users may experience that iFrame will intermittently not load when requested.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Jun 2023 17:15:56 -0400</pubDate>
 <pubDate>Thu, 29 Jun 2023 17:15:56 -0400</pubDate>
 </item>
 <item>
@@ -219,10 +183,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/8n6qkr0py3y0</link>
 <guid>https://status.spreedly.com/incidents/8n6qkr0py3y0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>12</var>, <var>18:14</var> EDT</small><br /><strong>Resolved</strong> - We have received confirmation from Mastercard that a service disruption, which was identified for their Smart Interface and caused customers to experience intermittent transaction failures during the impact period, has now been restored.<br /><br />We appreciate your patience while we tracked this issue with our partners.</p><p><small>Jun <var>12</var>, <var>15:24</var> EDT</small><br /><strong>Update</strong> - Our team is still tracking an issue that started June 12th, 2023, at 07:03 am EST (12:03 UTC).<br /><br />Customers may continue to experience transaction failures within our 3DS2 Global Solution. Our Global 3DS2 provider and Mastercard have both confirmed this is an ongoing issue impacting Mastercard's card types. We understand that the Mastercard team is working to mitigate the issue and restore service to all customers as soon as possible.<br /><br />We will provide an update as soon as more details are available.<br /><br />Thank you for your patience at this time.</p><p><small>Jun <var>12</var>, <var>11:04</var> EDT</small><br /><strong>Identified</strong> - We have identified an issue which is impacting some Mastercard 3DS2 transactions for a subset of our customers using our 3DS2 Global solution.  These transactions are failing with the following error "Remote Error: Intermediate layer error - error in intermediate layer (message received invalid. could not read the message. authentication response)".  We have logged a ticket with our third party 3DS2 provider and they are actively investigating.   We will provide updates as these become available to us.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Jun 2023 18:14:59 -0400</pubDate>
 <pubDate>Mon, 12 Jun 2023 18:14:59 -0400</pubDate>
 </item>
 <item>
@@ -230,10 +192,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/3p8trbwm08qw</link>
 <guid>https://status.spreedly.com/incidents/3p8trbwm08qw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 7</var>, <var>13:50</var> EDT</small><br /><strong>Resolved</strong> - After deploying a fix, our system is now stabilized and functioning. This incident is being considered resolved.<br /><br />We apologize for any inconvenience and disruption to service this caused to our customers transacting via Stripe.</p><p><small>Jun <var> 7</var>, <var>13:32</var> EDT</small><br /><strong>Identified</strong> - Spreedly is actively addressing an issue with our Stripe integration which is impacting customers transacting through this end point.   We are expected to be in this degraded performance state for about 20 minutes, while we work to correct this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Jun 2023 13:50:56 -0400</pubDate>
 <pubDate>Wed, 07 Jun 2023 13:50:56 -0400</pubDate>
 </item>
 <item>
@@ -241,10 +201,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/7xsn8k99v5qj</link>
 <guid>https://status.spreedly.com/incidents/7xsn8k99v5qj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>27</var>, <var>10:20</var> EDT</small><br /><strong>Resolved</strong> - After closely monitoring our resource utilization and confirming that all systems are stabilized and functioning as expected, this incident is considered resolved.   No further customer impact is expected in association with this incident.<br /><br />We are completing our investigation with regards to the causes of the incident and any residual impact. A post incident review will be published.<br /><br />We apologize for any inconvenience and disruption to service this caused for impacted customers.</p><p><small>Apr <var>26</var>, <var>17:06</var> EDT</small><br /><strong>Update</strong> - While the previously experienced transaction errors are resolved, we are still monitoring our resource utilization closely until our system is confirmed stable.  Customers may still experience some delays to services such as Dashboard reporting and callbacks.   <br /><br />We will provide an update within 24 hours.</p><p><small>Apr <var>26</var>, <var>14:20</var> EDT</small><br /><strong>Monitoring</strong> - We identified this issue was caused by a temporary resource contention in our environment and we have addressed it.   We are monitoring to ensure this has fully resolved the issue.</p><p><small>Apr <var>26</var>, <var>14:05</var> EDT</small><br /><strong>Update</strong> - We are actively investigating an issue which resulted in 500 errors responses being returned from Core.  We have identified some customers have been impacted.   We will update with additional information as this investigation progresses.</p><p><small>Apr <var>26</var>, <var>13:50</var> EDT</small><br /><strong>Investigating</strong> - Spreedly has detected an issue that may impact customers, including potentially resulting in failed transactions.   While we are providing an early notification in an effort to alert as quickly as possible, we are still investigating the actual scope and impact and will provide an update as soon as more details are available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Apr 2023 10:20:20 -0400</pubDate>
 <pubDate>Thu, 27 Apr 2023 10:20:20 -0400</pubDate>
 </item>
 <item>
@@ -252,10 +210,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/4gy118w4js11</link>
 <guid>https://status.spreedly.com/incidents/4gy118w4js11</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 6</var>, <var>18:31</var> EDT</small><br /><strong>Resolved</strong> - We have confirmed the third-party component maintenance is complete and our systems are functioning normally.<br /><br />This incident is now resolved.</p><p><small>Apr <var> 6</var>, <var>18:21</var> EDT</small><br /><strong>Monitoring</strong> - We have identified the source of this degradation to be related to a third-party component maintenance.   The impact has been alleviated and core transactions are now functioning normally. <br /><br />We will continue to monitor for a period of time to ensure no further impact.</p><p><small>Apr <var> 6</var>, <var>18:07</var> EDT</small><br /><strong>Investigating</strong> - We are aware that some customers are experiencing a degraded performance with our Core Transactional API and we are actively investigating.<br /><br />We will update as soon as we have more details on this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 06 Apr 2023 18:31:35 -0400</pubDate>
 <pubDate>Thu, 06 Apr 2023 18:31:35 -0400</pubDate>
 </item>
 <item>
@@ -263,10 +219,8 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/vdftgffpn0wr</link>
 <guid>https://status.spreedly.com/incidents/vdftgffpn0wr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 9</var>, <var>22:50</var> EST</small><br /><strong>Resolved</strong> - We have confirmed that this issue has been resolved, and customers are no longer experiencing 500 core errors. <br /><br />A post-incident review will be published.<br /><br />We apologize for the impact this issue caused to affected customers.</p><p><small>Mar <var> 9</var>, <var>22:33</var> EST</small><br /><strong>Monitoring</strong> - We have confirmed that the implemented fix has resolved the 500 errors for customers. We will continue to monitor to ensure resolution.</p><p><small>Mar <var> 9</var>, <var>22:25</var> EST</small><br /><strong>Identified</strong> - We have identified the issue that resulted in customers receiving 500 core errors and have implemented a fix to resolve this issue.</p><p><small>Mar <var> 9</var>, <var>22:11</var> EST</small><br /><strong>Investigating</strong> - Spreedly’s actively aware that some customers may be experiencing Core 500 errors. We are currently investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Mar 2023 22:50:10 -0500</pubDate>
 <pubDate>Thu, 09 Mar 2023 22:50:10 -0500</pubDate>
 </item>
 <item>
@@ -274,12 +228,9 @@ Summary: An issue causing AU Callbacks to fail delivery has been identified and 
 <link>https://status.spreedly.com/incidents/ky393nm35klv</link>
 <guid>https://status.spreedly.com/incidents/ky393nm35klv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 1</var>, <var>11:44</var> EST</small><br /><strong>Resolved</strong> - After a period of monitoring, we have observed that 3DS2 Global transactions are processing successfully. The incident is being considered resolved.<br /><br />We apologize for any inconvenience and disruption to service.</p><p><small>Mar <var> 1</var>, <var>10:14</var> EST</small><br /><strong>Monitoring</strong> - Our 3DS provider has identified that the outage has been resolved. We are continuing to monitor 3DS2 Global transactions to ensure that SCA Authentications are processing successfully.</p><p><small>Mar <var> 1</var>, <var>09:48</var> EST</small><br /><strong>Identified</strong> - Since 2023-03-01 08:33:13 UTC this morning, transactions using Spreedly's 3DS2 Global solution have experienced SCA authentication failures due to our 3DS service provider responding with an HTTP 502 generic error code. This error impacts only transactions using the 3DS2 Global solution.<br /><br />We are communicating with our 3DS provider about the outage, and we will provide updates as they work toward a resolution.</p>
 ]]></content:encoded>
 <pubDate>Wed, 01 Mar 2023 11:44:43 -0500</pubDate>
-<pubDate>Wed, 01 Mar 2023 11:44:43 -0500</pubDate>
 </item>
-
 </channel>
 </rss>

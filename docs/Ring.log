@@ -31,3 +31,9 @@ Append: [Ring Video Doorbell Wired devices remain in night vision mode.](https:/
 Append: [Delays in receiving password reset emails](https://status.ring.com/incidents/9ttcm7qkqzvf)
 append_entries: 25
 Finish: 2024-02-21 16:24:42.876164
+------------------------------------------------------
+Started: 2024-02-21 16:44:26.943200
+Existing_entries: 25
+Fetching from https://status.ring.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:27.147124

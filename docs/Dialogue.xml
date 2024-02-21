@@ -4,15 +4,15 @@
 <title>Dialogue Status - Incident History</title>
 <link>https://status.dialogue.co</link>
 
+
 <item>
 <title>Core Database Incident (CA)</title>
 <link>https://status.dialogue.co/incidents/1ldr1c2h82fh</link>
 <guid>https://status.dialogue.co/incidents/1ldr1c2h82fh</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Identified Issue <br><br> Summary: The issue has been identified, and a fix is being implemented. <div>
+<div> [Low] - Identified Issue <br /><br /> Summary: The issue has been identified, and a fix is being implemented. <div>
 <p><small>Jan <var>30</var>, <var>07:15</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>30</var>, <var>07:09</var> EST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jan <var>30</var>, <var>04:31</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 07:15:13 -0500</pubDate>
 <pubDate>Tue, 30 Jan 2024 07:15:13 -0500</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.dialogue.co/incidents/1y824yg67pjr</link>
 <guid>https://status.dialogue.co/incidents/1y824yg67pjr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>04:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>30</var>, <var>02:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>16</var>, <var>12:48</var> EST</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données. L'opération devrait durer un maximum de deux heures. Le temps d'arrêt des bases de données devrait durer environ 30 minutes. Durant ce temps, la majorité de nos systèmes seront indisponibles. <br /><br />---<br /><br />We will proceed with the maintenance of some of our databases. The operation should last a maximum of two hours. The downtime of the databases should not exceed 30 minutes. During this time, the majority of our systems will be unavailable.</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 04:00:18 -0500</pubDate>
 <pubDate>Tue, 30 Jan 2024 04:00:18 -0500</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.dialogue.co/incidents/rkc62zdwc697</link>
 <guid>https://status.dialogue.co/incidents/rkc62zdwc697</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>03:27</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>23</var>, <var>03:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>15</var>, <var>09:59</var> EST</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données. L'opération devrait durer un maximum d'une heure. Le temps d'arrêt des bases de données devrait durer environ 30 minutes. Durant ce temps, les systèmes de bien-être seront indisponibles. Le reste de la plateforme Dialogue (soins primaires, santé mentale, aide aux employées) sera fonctionnelle pour tous les usagers.<br /><br />---<br /><br />We will proceed with the maintenance of some of our databases. The operation should last a maximum of one hour. The downtime of the databases should not exceed 30 minutes. During this time, the wellness systems will be unavailable. The rest of the Dialogue platform (primary care, mental health, EAP) will remain fully functional for all users.</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 03:27:37 -0500</pubDate>
 <pubDate>Tue, 23 Jan 2024 03:27:37 -0500</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.dialogue.co/incidents/zb0n6g396mn1</link>
 <guid>https://status.dialogue.co/incidents/zb0n6g396mn1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>16</var>, <var>19:23</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>16</var>, <var>19:01</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>15</var>, <var>16:11</var> EST</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données. L'opération devrait durer un maximum d'une heure. Le temps d'arrêt des bases de données devrait durer environ 30 minutes. Durant ce temps, la majorité de nos systèmes seront indisponibles. <br /><br />---<br /><br />We will proceed with the maintenance of some of our databases. The operation should last a maximum of one hour. The downtime of the databases should not exceed 30 minutes. During this time, the majority of our systems will be unavailable.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jan 2024 19:23:17 -0500</pubDate>
 <pubDate>Tue, 16 Jan 2024 19:23:17 -0500</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.dialogue.co/incidents/0jg8m36r4jjr</link>
 <guid>https://status.dialogue.co/incidents/0jg8m36r4jjr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>19:18</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>15</var>, <var>19:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>15</var>, <var>08:37</var> EST</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données. L'opération devrait durer un maximum d'une heure. Le temps d'arrêt des bases de données devrait durer environ 30 minutes. Durant ce temps, les systèmes de bien-être seront indisponibles. <br /><br />---<br /><br />We will proceed with the maintenance of some of our databases. The operation should last a maximum of one hour. The downtime of the databases should not exceed 30 minutes. During this time, the wellness systems will be unavailable.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 19:18:35 -0500</pubDate>
 <pubDate>Mon, 15 Jan 2024 19:18:35 -0500</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.dialogue.co/incidents/wchmzxbk2grj</link>
 <guid>https://status.dialogue.co/incidents/wchmzxbk2grj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>20</var>, <var>02:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>20</var>, <var>02:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>16</var>, <var>10:17</var> EST</small><br /><strong>Scheduled</strong> - We will proceed to a database maintenance for iCBT system. The maintenance will start at 2AM EST and will last no longer than 30 minutes where iCBT system will not be accessible in the US environment.</p>
 ]]></content:encoded>
-<pubDate>Mon, 20 Nov 2023 02:30:13 -0500</pubDate>
 <pubDate>Mon, 20 Nov 2023 02:30:13 -0500</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.dialogue.co/incidents/1s8ssnpk14xf</link>
 <guid>https://status.dialogue.co/incidents/1s8ssnpk14xf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>13</var>, <var>02:36</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>13</var>, <var>02:30</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 7</var>, <var>13:05</var> EST</small><br /><strong>Scheduled</strong> - English follows<br />Nous devons procéder à la mise à jour de certains de nos certificats d'encryption, ce qui provoquera une indisponibilité de nos systèmes d'au plus quelques secondes.<br /><br />---<br /><br />We need to renew our encryption certificates, which will lead to the unavailability of our systems for a few seconds at most.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 02:36:52 -0500</pubDate>
 <pubDate>Mon, 13 Nov 2023 02:36:52 -0500</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.dialogue.co/incidents/5n6j9sr134wn</link>
 <guid>https://status.dialogue.co/incidents/5n6j9sr134wn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>16:39</var> EDT</small><br /><strong>Resolved</strong> - English follows<br /><br />Le problème a été corrigé.<br />---<br /><br />The problem was fixed.</p><p><small>Oct <var>30</var>, <var>16:23</var> EDT</small><br /><strong>Monitoring</strong> - English follows<br /><br />Le problème semble avoir été corrigé<br />---<br /><br />The problem seems to have been fixed</p><p><small>Oct <var>30</var>, <var>16:21</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Oct <var>30</var>, <var>16:21</var> EDT</small><br /><strong>Identified</strong> - English follows<br /><br />Le problème est causé par notre système d'authentification auth0, qui est lui même affecté par une panne de Cloudflare. Auth0 a été informé de l'impact de la panne sur nos système. Nous attendons que le problème soit réglé à la source.<br /><br />--<br /><br />The problem is caused by our authentication provider, auth0, which is in turn affected by a Cloudflare outage. Auth0 was informed of the impact of the outage on our systems. We have to wait until the problem is fixed at the source.</p><p><small>Oct <var>30</var>, <var>16:04</var> EDT</small><br /><strong>Investigating</strong> - English follows<br />Notre système d'authentification est indisponible ce qui affecte la disponibilité de tous nos systèmes. <br /><br />--<br />Our authentification system is unavailable which affects the availability of all our systems.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 16:39:15 -0400</pubDate>
 <pubDate>Mon, 30 Oct 2023 16:39:15 -0400</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.dialogue.co/incidents/y6331lvvwqd8</link>
 <guid>https://status.dialogue.co/incidents/y6331lvvwqd8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>26</var>, <var>06:00</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>26</var>, <var>04:00</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>25</var>, <var>17:01</var> EDT</small><br /><strong>Scheduled</strong> - Sisense will be undergoing maintenance to upgrade versions. This may affect dashboards during this period. Impact will be limited to dashboards in Sisense, no impact on Presto dashboards.</p>
 ]]></content:encoded>
-<pubDate>Thu, 26 Oct 2023 06:00:30 -0400</pubDate>
 <pubDate>Thu, 26 Oct 2023 06:00:30 -0400</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.dialogue.co/incidents/tsbjv7rvxh65</link>
 <guid>https://status.dialogue.co/incidents/tsbjv7rvxh65</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 4</var>, <var>13:47</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 4</var>, <var>13:46</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Oct <var> 4</var>, <var>08:47</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on this incident. Please use the image download function to download reports, as this is unaffected.</p><p><small>Oct <var> 3</var>, <var>16:16</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and seems to be related to Sisense platform. Image downloads is not impacted.</p><p><small>Oct <var> 3</var>, <var>15:55</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var> 3</var>, <var>13:24</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 04 Oct 2023 13:47:48 -0400</pubDate>
 <pubDate>Wed, 04 Oct 2023 13:47:48 -0400</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.dialogue.co/incidents/3sn9v0stypz5</link>
 <guid>https://status.dialogue.co/incidents/3sn9v0stypz5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 4</var>, <var>09:35</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 4</var>, <var>09:34</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var> 4</var>, <var>08:47</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 04 Oct 2023 09:35:08 -0400</pubDate>
 <pubDate>Wed, 04 Oct 2023 09:35:08 -0400</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.dialogue.co/incidents/71ksc5zrxlk0</link>
 <guid>https://status.dialogue.co/incidents/71ksc5zrxlk0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 3</var>, <var>09:00</var> EDT</small><br /><strong>Resolved</strong> - The issue has been resolved. Le problème a été résolu.</p><p><small>Oct <var> 3</var>, <var>08:52</var> EDT</small><br /><strong>Update</strong> - Les membres d'organisations dont l'AMF est appliquée ne pourront pas se connecter à l'application. Après avoir saisi leur nom d'utilisateur, leur mot de passe et leur clé MFA, l'écran s'actualise et les informe qu'ils doivent s'authentifier une nouvelle fois par le biais de la MFA.<br /><br />--------------<br /><br />Members in organizations with enforced MFA won't be able to sign into the app. After inputting their username, password and MFA key the screen refreshes and informs them to authenticate once again through MFA</p><p><small>Oct <var> 3</var>, <var>08:44</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 03 Oct 2023 09:00:33 -0400</pubDate>
 <pubDate>Tue, 03 Oct 2023 09:00:33 -0400</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.dialogue.co/incidents/htmc86dr0m3l</link>
 <guid>https://status.dialogue.co/incidents/htmc86dr0m3l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>26</var>, <var>23:55</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>26</var>, <var>21:55</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>22</var>, <var>11:29</var> EDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>22</var>, <var>11:29</var> EDT</small><br /><strong>Scheduled</strong> - Platform will be unavailable due to system maintenance from Sisense</p>
 ]]></content:encoded>
-<pubDate>Tue, 26 Sep 2023 23:55:07 -0400</pubDate>
 <pubDate>Tue, 26 Sep 2023 23:55:07 -0400</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.dialogue.co/incidents/2f4q70mk8s4d</link>
 <guid>https://status.dialogue.co/incidents/2f4q70mk8s4d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>25</var>, <var>17:57</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>25</var>, <var>17:46</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Sep 2023 17:57:30 -0400</pubDate>
 <pubDate>Mon, 25 Sep 2023 17:57:30 -0400</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.dialogue.co/incidents/dkw7v6wvdj6k</link>
 <guid>https://status.dialogue.co/incidents/dkw7v6wvdj6k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>21</var>, <var>12:10</var> EDT</small><br /><strong>Resolved</strong> - English follows<br /><br />Le problème a été résolu. Les membres affectés peuvent rafraîchir la page afin d'accéder à l'application à nouveau.<br />--<br />The problem was fixed. Affected members can refresh the page to access the application.</p><p><small>Aug <var>21</var>, <var>12:06</var> EDT</small><br /><strong>Update</strong> - English follows<br />Lumino Santé et Consult + sont également affectés par ce problème. Le problème sera résolu sous peu.<br />--<br />Lumino Health and Consult + are also affected by this issue. The issue will be fixed soon.</p><p><small>Aug <var>21</var>, <var>12:03</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>21</var>, <var>12:01</var> EDT</small><br /><strong>Identified</strong> - English follows<br />L'application web pour les membres affiche une page blanche qui empêche l'utilisation de l'application. Nous avons identifié le problème et le correctif est en route.<br /><br />--<br />The Member Web App Showing is showing a blank page which prevents usage of the application. We have identified the problem and the fix is on its way.</p>
 ]]></content:encoded>
-<pubDate>Mon, 21 Aug 2023 12:10:27 -0400</pubDate>
 <pubDate>Mon, 21 Aug 2023 12:10:27 -0400</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.dialogue.co/incidents/2ndrxh7j8gjr</link>
 <guid>https://status.dialogue.co/incidents/2ndrxh7j8gjr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>13</var>, <var>17:06</var> EDT</small><br /><strong>Resolved</strong> - Le service est maintenant opérationnel. The service is now operational.</p><p><small>Jun <var>13</var>, <var>16:52</var> EDT</small><br /><strong>Identified</strong> - English follows<br /><br />Un incident de notre fournisseur de service d'infonuagique (AWS) entraîne l'indisponibilité de notre service de Thérapie autonome (TCCi). Nous sommes désolé des inconvénients.<br /><br />--<br />An incident with our cloud provider (AWS) leads to the unavailability of our Self-Led iCBT. We apologize for the inconvenience.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 17:06:28 -0400</pubDate>
 <pubDate>Tue, 13 Jun 2023 17:06:28 -0400</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.dialogue.co/incidents/nywtsmh8rjl9</link>
 <guid>https://status.dialogue.co/incidents/nywtsmh8rjl9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 7</var>, <var>03:16</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 7</var>, <var>02:15</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var> 2</var>, <var>10:02</var> EDT</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour d'une base de données le 7Juin à environ 2h15 du matin heure de l'est. L'opération devrait durer un maximum d'1h. Le temps d'arrêt de la base de données devrait durer un maximum de 30 minutes. L'opération permettra une optimisation des performance de la base de donnée.<br /><br />Durant ce temps, les systèmes de soins de santé primaires seront indisponibles. Il ne sera donc pas possible de consulter pendant cette période. La plateforme de soins sera également indisponible pour les prestataires de soins durant cette période. Le portail d'administration «Presto» sera également indisponible.<br /><br />---<br /><br />We will proceed with the maintenance of one of our databases on June 7th at about 2:15am EST. The operation should last a maximum of 1 hour. The downtime of the database should not exceed 30 minutes. The operation will ensure performance optimization of the database. <br /><br />During this time, the primary care systems will be unavailable. It will therefore not be possible to consult during this time. The care platform will also be unavailable to providers during this time. The "Presto" admin portal will also be unavailable.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Jun 2023 03:16:14 -0400</pubDate>
 <pubDate>Wed, 07 Jun 2023 03:16:14 -0400</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.dialogue.co/incidents/blrx0272g92h</link>
 <guid>https://status.dialogue.co/incidents/blrx0272g92h</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>16</var>, <var>06:01</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>16</var>, <var>03:00</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>10</var>, <var>19:11</var> EDT</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données le 16 mai à environ 3h du matin heure de l'est. L'opération devrait durer un maximum de 3 heures. Le temps d'arrêt des bases de données devrait durer un maximum de 90 minutes. Durant ce temps, les systèmes de soins de santé primaires seront indisponibles. Il ne sera donc pas possible de consulter pendant cette période. La plateforme de soins sera également indisponible pour les prestataires de soins durant cette période. Le portail d'administration «Presto» sera également indisponible.<br /><br />---<br /><br />We will proceed with the maintenance of some of our databases on May 16th at about 3am EST. The operation should last a maximum of three hours. The downtime of the databases should not exceed 90 minutes. During this time, the primary care systems will be unavailable. It will therefore not be possible to consult during this time. The care platform will also be unavailable to providers during this time. The "Presto" admin portal will also be unavailable.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 May 2023 06:01:19 -0400</pubDate>
 <pubDate>Tue, 16 May 2023 06:01:19 -0400</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.dialogue.co/incidents/yv56jyp7wn0g</link>
 <guid>https://status.dialogue.co/incidents/yv56jyp7wn0g</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 4</var>, <var>04:17</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var> 4</var>, <var>03:16</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>28</var>, <var>13:44</var> EDT</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données le 4 mai à environ 3h du matin heure de l'est. L'opération devrait durer un maximum d'une heure. Le temps d'arrêt des bases de données devrait durer environ 30 minutes. Durant ce temps, les systèmes de bien-être seront indisponibles. Il n'y aura aucun impact sur nos services de soins primaires.<br /><br />---<br /><br />We will proceed with the maintenance of some of our databases on May 4th at about 3am EST. The operation should last a maximum of one hour. The downtime of the databases should not exceed 30 minutes. During this time, the wellness systems will be unavailable. There will be no impact on our primary care services.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 May 2023 04:17:11 -0400</pubDate>
 <pubDate>Thu, 04 May 2023 04:17:11 -0400</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.dialogue.co/incidents/w7g06ds8dlfz</link>
 <guid>https://status.dialogue.co/incidents/w7g06ds8dlfz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>21</var>, <var>03:45</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>21</var>, <var>03:15</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>17</var>, <var>16:41</var> EDT</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données le 21 avril à environ 3h du matin heure de l'est. L'opération devrait durer un maximum de 30 minutes. Le temps d'arrêt des bases de données ne devrait durer que quelques secondes. Durant ce temps, le système de triage automatisé ainsi que les données de bien-être pourrait être brièvement indisponibles.<br /><br />---<br /><br />We will proceed with the maintenance of some of our databases on April 21st at about 3am EST. The operation should last a maximum of 30 minutes. The downtime of the databases should not exceed a few seconds. During this time, the automated triage systems as well as wellness data might be briefly unavailable.</p>
 ]]></content:encoded>
-<pubDate>Fri, 21 Apr 2023 03:45:06 -0400</pubDate>
 <pubDate>Fri, 21 Apr 2023 03:45:06 -0400</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.dialogue.co/incidents/c748dgwp4zj8</link>
 <guid>https://status.dialogue.co/incidents/c748dgwp4zj8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>13</var>, <var>03:45</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>13</var>, <var>03:15</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var> 6</var>, <var>09:36</var> EDT</small><br /><strong>Scheduled</strong> - English follows<br /><br />Nous procéderons à la mise à jour de certaines de nos bases de données le 13 avril à environ 3h du matin heure de l'est. L'opération devrait durer un maximum de 30 minutes. Le temps d'arrêt des bases de données ne devrait durer que quelques secondes. Durant ce temps, le système de triage automatisé ainsi que les données de bien-être seront brièvement indisponibles.<br /><br />---<br /><br />We will proceed with the maintenance of some of our databases on April 13th at about 3am EST. The operation should last a maximum of 30 minutes. The downtime of the databases should not exceed a few seconds. During this time, the automated triage systems as well as wellness data will be briefly unavailable.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Apr 2023 03:45:12 -0400</pubDate>
 <pubDate>Thu, 13 Apr 2023 03:45:12 -0400</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.dialogue.co/incidents/478lptrjf9v5</link>
 <guid>https://status.dialogue.co/incidents/478lptrjf9v5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>12:51</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>15</var>, <var>11:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>14</var>, <var>12:34</var> EST</small><br /><strong>Scheduled</strong> - Nous procéderons à l'entretien de notre système de bien être et de mise en forme. Ces fonctionnalités seront indisponibles pour les utilisateurs y ayant accès. Le reste de la plateforme Dialogue (soins primaires, santé mentale, aide aux employées) sera fonctionnelle pour tous les usagers. // We will perform a maintenance of our fitness and wellbeing system. The rest of the Dialogue platform (primary care, mental health, EAP) will remain fully functional for all users.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Dec 2022 12:51:42 -0500</pubDate>
 <pubDate>Thu, 15 Dec 2022 12:51:42 -0500</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.dialogue.co/incidents/6395yxx7pxd8</link>
 <guid>https://status.dialogue.co/incidents/6395yxx7pxd8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>10:49</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>10:44</var> EST</small><br /><strong>Monitoring</strong> - Le problème a été identifié et résolu par notre partenaire offrant le service de vidéo // The problem was identified and resolved by our video provider.</p><p><small>Dec <var> 8</var>, <var>10:10</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 8</var>, <var>10:10</var> EST</small><br /><strong>Investigating</strong> - Nous cherchons la cause d'une panne partielle du système de vidéo qui affecte certains fournisseurs de services de santé / We are investigating the cause of a partial outage of the video system affecting certain care providers.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Dec 2022 10:49:19 -0500</pubDate>
 <pubDate>Thu, 08 Dec 2022 10:49:19 -0500</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.dialogue.co/incidents/kxy048m0gnkh</link>
 <guid>https://status.dialogue.co/incidents/kxy048m0gnkh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>17:47</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>16:21</var> EST</small><br /><strong>Monitoring</strong> - We have implemented a fix and are monitoring. / Nous avons mis en place un correctif et surveillons la situation.</p><p><small>Nov <var>15</var>, <var>15:28</var> EST</small><br /><strong>Identified</strong> - We have identified the source of the issue and are working to get it back up / Nous avons identifié la source du problème et travaillons à rétablir le service.</p>
 ]]></content:encoded>
-<pubDate>Tue, 15 Nov 2022 17:47:42 -0500</pubDate>
 <pubDate>Tue, 15 Nov 2022 17:47:42 -0500</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.dialogue.co/incidents/vm1kcsw8wmfh</link>
 <guid>https://status.dialogue.co/incidents/vm1kcsw8wmfh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>17</var>, <var>20:11</var> EDT</small><br /><strong>Resolved</strong> - Le fournisseur tiers à l'origine de la dégradation des performances de notre côté surveille toujours les taux d'erreur de connexion de ses clients, mais les performances de nos services sont revenues à la normale. <br />//<br />The third-party vendor which has caused the degraded performance on our end is still monitoring their client streaming connection error rates, however, performance on our services has returned to functioning as normal.</p><p><small>Oct <var>17</var>, <var>15:43</var> EDT</small><br /><strong>Investigating</strong> - Les utilisateurs connaissent actuellement des temps de chargement plus longs que la normale pour les applications des membres sur mobile. Nous enquêtons actuellement sur ce problème. <br />//<br />Users are currently experiencing longer than normal load times for member apps on mobile. We are currently investigating the issue.</p>
 ]]></content:encoded>
 <pubDate>Mon, 17 Oct 2022 20:11:53 -0400</pubDate>
-<pubDate>Mon, 17 Oct 2022 20:11:53 -0400</pubDate>
 </item>
-
 </channel>
 </rss>

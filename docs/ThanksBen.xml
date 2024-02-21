@@ -4,17 +4,16 @@
 <title>Ben Status - Incident History</title>
 <link>https://status.thanksben.com</link>
 
+
 <item>
 <title>Maintenance Notification</title>
 <link>https://status.thanksben.com/incidents/clyr6zbykc9s</link>
 <guid>https://status.thanksben.com/incidents/clyr6zbykc9s</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br>Summary: Scheduled maintenance is in progress. Access to the Ben web app and mobile app will be unavailable for a limited time. Some transaction notifications may be delayed. <div>
+<div> [Medium] - Scheduled Maintenance <br /><br />Summary: Scheduled maintenance is in progress. Access to the Ben web app and mobile app will be unavailable for a limited time. Some transaction notifications may be delayed. <div>
 <p><small>Dec <var>11</var>, <var>23:45</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has now been completed. <br />Thank you for your patience while we make these performance improvements.</p><p><small>Dec <var>11</var>, <var>23:42</var> GMT</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Dec <var>11</var>, <var>23:01</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>12:28</var> GMT</small><br /><strong>Scheduled</strong> - We are always working to increase the reliability of our platform. As part of some upcoming improvements, we would like to make you aware of some planned maintenance work.<br /><br />This maintenance has been scheduled for:<br />23:00 (GMT) on Monday 11th December until 00:00 (GMT) on Tuesday 12th December.<br /><br />During this time, access to the Ben web app and mobile app will be unavailable to all employees and admins.<br /><br />Any payments made using flexible allowance cards during this time will not be affected. However, please note that some transaction notifications may be delayed.<br /><br />We will also be notifying employees ahead of the maintenance work, and you can stay up-to-date with the status of upcoming and in-progress scheduled downtime here.<br /><br />We apologise for any inconvenience caused.<br /><br />Please feel free to reach out to us if you have any concerns.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Dec 2023 23:45:06 +0000</pubDate>
-<pubDate>Mon, 11 Dec 2023 23:45:06 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

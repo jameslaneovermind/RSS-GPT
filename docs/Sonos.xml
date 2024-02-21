@@ -4,15 +4,15 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+
 <item>
 <title>TuneIn - - Playback issues</title>
 <link>https://status.sonos.com/incidents/nhjy9chh2my6</link>
 <guid>https://status.sonos.com/incidents/nhjy9chh2my6</guid>
 <content:encoded><![CDATA[
-<div> [High] - TuneIn Issue with Sonos <br><br> Summary: TuneIn is experiencing a problem on Sonos, affecting the ability to play music. They are working on a fix. <div>
+<div> [High] - TuneIn Issue with Sonos <br /><br /> Summary: TuneIn is experiencing a problem on Sonos, affecting the ability to play music. They are working on a fix. <div>
 <p><small>Feb <var>21</var>, <var>00:02</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with TuneIn on Sonos and are working with them on a fix. You may be unable to start playing music from TuneIn until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 00:02:31 +0000</pubDate>
 <pubDate>Wed, 21 Feb 2024 00:02:31 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.sonos.com/incidents/g7r7c7s4s7wv</link>
 <guid>https://status.sonos.com/incidents/g7r7c7s4s7wv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>23:47</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>23:00</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with SiriusXM on Sonos and are working with them on a fix. You may be unable to search SiriusXM in the Sonos app until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 23:47:40 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 23:47:40 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.sonos.com/incidents/rqcks3jw1x1v</link>
 <guid>https://status.sonos.com/incidents/rqcks3jw1x1v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>20:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>18:51</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with SoundCloud on Sonos and are working with them on a fix. You may not be able to sign in to your SoundCloud account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 20:50:16 +0000</pubDate>
 <pubDate>Wed, 07 Feb 2024 20:50:16 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.sonos.com/incidents/rw2sn1h7wz60</link>
 <guid>https://status.sonos.com/incidents/rw2sn1h7wz60</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>18:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>30</var>, <var>17:37</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Deezer on Sonos and are working with them on a fix. You may not be able to sign in to your Deezer account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 18:14:56 +0000</pubDate>
 <pubDate>Thu, 01 Feb 2024 18:14:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.sonos.com/incidents/3hv1mcbhcj4d</link>
 <guid>https://status.sonos.com/incidents/3hv1mcbhcj4d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>14:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>12</var>, <var>15:33</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Soundsuit.fm on Sonos and are working with them on a fix. You may not be able to sign in to your Soundsuit.fm account on Sonos until it's resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 14:02:37 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 14:02:37 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.sonos.com/incidents/2rgqhs682gny</link>
 <guid>https://status.sonos.com/incidents/2rgqhs682gny</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>11:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>23:02</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Soundsuit.fm on Sonos and are working with them on a fix. You may be unable to start playing music from Soundsuit.fm until it’s resolved. Check our status page for updates while we work to fix this.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 11:01:38 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 11:01:38 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.sonos.com/incidents/2cy7y6lhfw9p</link>
 <guid>https://status.sonos.com/incidents/2cy7y6lhfw9p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>00:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>15:42</var> UTC</small><br /><strong>Identified</strong> - We’ve identified a problem with Google Assistant and are working with them on a fix. You may not be able to add Google Assistant until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jan 2024 00:55:55 +0000</pubDate>
 <pubDate>Tue, 09 Jan 2024 00:55:55 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.sonos.com/incidents/xsdzylbz58m7</link>
 <guid>https://status.sonos.com/incidents/xsdzylbz58m7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>00:38</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>22:14</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with ''Sonos voice control - Apple Music requests are currently failing, please use the Sonos app until it's resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 00:38:42 +0000</pubDate>
 <pubDate>Thu, 07 Dec 2023 00:38:42 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.sonos.com/incidents/xkwmxjx0wk95</link>
 <guid>https://status.sonos.com/incidents/xkwmxjx0wk95</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>19:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>22</var>, <var>16:27</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Sonos Radio HD on Sonos and are working with them on a fix. You may not be able to sign in to your Sonos Radio HD account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Nov 2023 19:55:17 +0000</pubDate>
 <pubDate>Wed, 22 Nov 2023 19:55:17 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.sonos.com/incidents/9snsw2yln6g7</link>
 <guid>https://status.sonos.com/incidents/9snsw2yln6g7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>18</var>, <var>07:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>17</var>, <var>19:41</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with iHeartRadio on Sonos and are working with them on a fix. You may not be able to authorize your iHeartRadio account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Nov 2023 07:53:31 +0000</pubDate>
 <pubDate>Sat, 18 Nov 2023 07:53:31 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.sonos.com/incidents/fszfrwqsyphq</link>
 <guid>https://status.sonos.com/incidents/fszfrwqsyphq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>20:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 7</var>, <var>15:56</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Spotify on Sonos and are working with them on a fix. You may not be able to browse Spotify menus in the Sonos app until it's resolved</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 20:24:43 +0000</pubDate>
 <pubDate>Tue, 07 Nov 2023 20:24:43 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.sonos.com/incidents/ckshx1w673zb</link>
 <guid>https://status.sonos.com/incidents/ckshx1w673zb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>10:52</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 6</var>, <var>10:29</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Sveriges Radio on Sonos and are working with them on a fix. You may not be able to browse menus in the Sonos app until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 10:52:18 +0000</pubDate>
 <pubDate>Tue, 07 Nov 2023 10:52:18 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.sonos.com/incidents/th96rlhtf6rk</link>
 <guid>https://status.sonos.com/incidents/th96rlhtf6rk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>24</var>, <var>19:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>24</var>, <var>19:17</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Calm Radio on Sonos and are working with them on a fix. You may not be able to sign in to your Calm Radio account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Oct 2023 19:24:22 +0000</pubDate>
 <pubDate>Tue, 24 Oct 2023 19:24:22 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.sonos.com/incidents/rzjyv6m8vsx3</link>
 <guid>https://status.sonos.com/incidents/rzjyv6m8vsx3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>17</var>, <var>08:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>17</var>, <var>08:18</var> UTC</small><br /><strong>Monitoring</strong> - The public broadcasting service in Germany currently seems to be experiencing an issue, which is not within the control of Sonos. You may be unable to start playing music from Sonos Radio until it's resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Oct 2023 08:24:45 +0000</pubDate>
 <pubDate>Tue, 17 Oct 2023 08:24:45 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.sonos.com/incidents/wtfc2154qlyh</link>
 <guid>https://status.sonos.com/incidents/wtfc2154qlyh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>13</var>, <var>11:16</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>12</var>, <var>07:55</var> UTC</small><br /><strong>Monitoring</strong> - We deployed a fix for the recent Sonos Radio issue yesterday and are actively monitoring the situation. While we work to ensure a smooth experience, you may encounter difficulties when adding Sonos Radio or starting playback from the service. As a temporary solution, please manually check for updates within the Sonos app to ensure it is fully up-to-date.</p>
 ]]></content:encoded>
-<pubDate>Fri, 13 Oct 2023 11:16:20 +0000</pubDate>
 <pubDate>Fri, 13 Oct 2023 11:16:20 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.sonos.com/incidents/3cp2bxvp9nkb</link>
 <guid>https://status.sonos.com/incidents/3cp2bxvp9nkb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>12</var>, <var>03:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>11</var>, <var>22:53</var> UTC</small><br /><strong>Investigating</strong> - We've identified a problem with Sonos Radio and are working on a fix. You may not be able to add Sonos Radio or initiate playback from Sonos Radio until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 Oct 2023 03:25:18 +0000</pubDate>
 <pubDate>Thu, 12 Oct 2023 03:25:18 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.sonos.com/incidents/g2f1ycxbvdtn</link>
 <guid>https://status.sonos.com/incidents/g2f1ycxbvdtn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>10</var>, <var>17:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>10</var>, <var>15:06</var> UTC</small><br /><strong>Investigating</strong> - We've identified a problem with Amazon Music on Sonos and are working with them on a fix. You may be unable to start playing music from Amazon Music until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 10 Oct 2023 17:19:26 +0000</pubDate>
 <pubDate>Tue, 10 Oct 2023 17:19:26 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.sonos.com/incidents/4dmchhs764s5</link>
 <guid>https://status.sonos.com/incidents/4dmchhs764s5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 5</var>, <var>15:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 5</var>, <var>13:17</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented. Some users might have to check for updates manually in the Sonos App: Settings -> System -> System Updates.</p><p><small>Oct <var> 5</var>, <var>08:33</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with YouSee Musik on Sonos and are working with them on a fix. You may not be able to sign in to your YouSee Musik account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 05 Oct 2023 15:19:58 +0000</pubDate>
 <pubDate>Thu, 05 Oct 2023 15:19:58 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.sonos.com/incidents/km5bfgv23fvg</link>
 <guid>https://status.sonos.com/incidents/km5bfgv23fvg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>09:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>28</var>, <var>11:07</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Aldi life Musik on Sonos and are working with them on a fix. You may not be able to sign in to your Aldi life Musik account on Sonos until it's resolved.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 09:29:30 +0000</pubDate>
 <pubDate>Fri, 29 Sep 2023 09:29:30 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.sonos.com/incidents/n8xymxqdnf9v</link>
 <guid>https://status.sonos.com/incidents/n8xymxqdnf9v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>28</var>, <var>19:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>28</var>, <var>15:42</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>28</var>, <var>15:33</var> UTC</small><br /><strong>Identified</strong> - Sonos Backgrounds Premium - Browse Issues<br /><br />We've identified a problem with Sonos Backgrounds Premium on Sonos and are working with them on a fix. You may not be able to browse Sonos Background Premium menus in the Sonos app until it’s resolved. Backgrounds Premium is only available to systems with a Sonos Pro subscription.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Sep 2023 19:30:45 +0000</pubDate>
 <pubDate>Thu, 28 Sep 2023 19:30:45 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.sonos.com/incidents/l59y0vw0xynr</link>
 <guid>https://status.sonos.com/incidents/l59y0vw0xynr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>28</var>, <var>08:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>27</var>, <var>13:49</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are now monitoring the reported troubles.<br /><br />Note: If encountering an issue where inputting the authentication code through copy & pasting results in redirection to the same page, we kindly request that you manually enter the displayed code into the designated fields in order to proceed.</p><p><small>Sep <var>26</var>, <var>05:09</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with SoundCloud on Sonos and are working with them on a fix. You may not be able to sign in or browse your SoundCloud account on Sonos until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Sep 2023 08:06:31 +0000</pubDate>
 <pubDate>Thu, 28 Sep 2023 08:06:31 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.sonos.com/incidents/g1pt047tf0mm</link>
 <guid>https://status.sonos.com/incidents/g1pt047tf0mm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>17:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>27</var>, <var>16:50</var> UTC</small><br /><strong>Identified</strong> - Pandora - Browse Issues<br /><br />We've identified a problem with Pandora on Sonos and are working with them on a fix. You may not be able to browse Pandora menus in the Sonos app until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Sep 2023 17:54:51 +0000</pubDate>
 <pubDate>Wed, 27 Sep 2023 17:54:51 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.sonos.com/incidents/rk0r1c3s42jq</link>
 <guid>https://status.sonos.com/incidents/rk0r1c3s42jq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>22</var>, <var>08:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>21</var>, <var>07:51</var> UTC</small><br /><strong>Investigating</strong> - We've identified a problem with our cloud services and are working on a fix. You may experience issues with locating or adding music services until it's resolved. Check our status page for updates while we work to fix this. In the meantime, as a workaround, please manually check for updates within the Sonos app and ensure it is fully up to date, this should re-populate the music service catalog.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 08:49:52 +0000</pubDate>
 <pubDate>Fri, 22 Sep 2023 08:49:52 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.sonos.com/incidents/gs4p7sk55qpk</link>
 <guid>https://status.sonos.com/incidents/gs4p7sk55qpk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>11</var>, <var>10:16</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 9</var>, <var>13:06</var> UTC</small><br /><strong>Investigating</strong> - We've identified a problem with Spotify on Sonos and are working with them on a fix. You may be unable to start playing music from Spotify until it’s resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Sep 2023 10:16:04 +0000</pubDate>
 <pubDate>Mon, 11 Sep 2023 10:16:04 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.sonos.com/incidents/vdv7y2mly2sb</link>
 <guid>https://status.sonos.com/incidents/vdv7y2mly2sb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 5</var>, <var>10:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 5</var>, <var>08:05</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Klassik Radio Select on Sonos and are working with them on a fix. You may not be able to sign in to your Klassik Radio Select account on Sonos until it's resolved.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Sep 2023 10:32:09 +0000</pubDate>
-<pubDate>Tue, 05 Sep 2023 10:32:09 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

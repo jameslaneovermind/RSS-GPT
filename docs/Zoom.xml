@@ -4,17 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Scheduled Zoom Software Quarterly Lifecycle Update (5/4/2024)</title>
 <link>https://status.zoom.us/incidents/db9zbncnn5p3</link>
 <guid>https://status.zoom.us/incidents/db9zbncnn5p3</guid>
 <content:encoded><![CDATA[
 <div> [Low] - New Minimum Version Enforcement for Zoom Clients and Plugins
-<br><br>
+<br /><br />
 Summary: Zoom will be enforcing a new minimum version of all Zoom clients and plugins on May 4, 2023. Users are advised to ensure their devices are updated to the latest version. Specific versions and more information can be found in the support articles provided. <div>
 <p><strong>THIS IS A SCHEDULED EVENT May <var>4</var>, <var>17:00</var> - <var>18:00</var> PDT</strong></p><p><small>Feb <var> 1</var>, <var>10:30</var> PST</small><br /><strong>Scheduled</strong> - Zoom will be enforcing a new minimum version of all our Zoom clients and plugins, roughly 90 days from now on May 4, 2023. This affects the following products: <br />- Zoom client for meetings (Windows, macOS, Linux, iOS, Android, Blackberry, and Intune)<br />- Zoom Rooms (including Zoom Room Controllers and companion whiteboards) <br />- Zoom Phone Appliances<br />- VDI Client and Plugin<br />- Virtual Room Connector<br />- Meetings Connector<br />- Recording Connector<br />- Meetings SDK (Native and Web)<br />- Video SDK (Native and Web)<br />- Zoom Contact Center SDK (Native)<br />- Zoom Node (including Meeting Connector ZC and MMR)<br />- Zoom Phone Local Survivability (ZPLS) module<br /><br />Please ensure your devices are updated to the latest version. <br /><br />For more information, such as specific versions we are enforcing, please see the Zoom Software Quarterly Lifecycle Policy support article: https://support.zoom.us/hc/en-us/articles/360059429231 <br /><br />To assist with checking the client versions on your account, refer to the Dashboard support article for more information: https://support.zoom.us/hc/en-us/articles/360039656511#h_13ce9a73-91e5-4df6-9cb5-c815b1605cf5</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 17:00:00 -0700</pubDate>
 <pubDate>Sat, 04 May 2024 17:00:00 -0700</pubDate>
 </item>
 <item>
@@ -22,10 +22,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/vj7dd5zr6ndt</link>
 <guid>https://status.zoom.us/incidents/vj7dd5zr6ndt</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>5</var>, <var>17:00</var> - <var>22:00</var> PDT</strong></p><p><small>Jan <var> 9</var>, <var>11:00</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following URLs used by Zoom Phone and Zoom Contact Center to replace the Cloudfront certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority. No expected downtime for this change.<br /><br />DNS name                          Maintenance Window<br />au01pbxstatic.zoom.us     4-5-2024 10:00 AM - 11:00 AM PDT<br />ca01pbxstatic.zoom.us     4-5-2024 5:00 PM - 6:00 PM PDT<br />eu01pbxstatic.zoom.us     4-5-2024 1:00 PM - 2:00 PM PDT<br />eu02pbxstatic.zoom.us     4-5-2024 1:00 PM - 2:00 PM PDT<br />ch01pbxstatic.zoom.us     4-5-2024 1:00 PM - 2:00 PM PDT<br />us01pbxstatic.zoom.us     4-5-2024 5:00 PM - 6:00 PM PDT<br />us01ccistatic.zoom.us       4-5-2024 5:00 PM - 6:00 PM PDT<br />us01zvastatic.zoom.us      4-5-2024 5:00 PM - 6:00 PM PDT</p>
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
 <pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/qh64jpfjvkh0</link>
 <guid>https://status.zoom.us/incidents/qh64jpfjvkh0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>17:31</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>17:21</var> PST</small><br /><strong>Monitoring</strong> - The issue causing intermittent delayed or undelivered inbound SMS messages for Zoom Phone and Zoom Contact Center has been resolved.  We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var>20</var>, <var>16:14</var> PST</small><br /><strong>Identified</strong> - We have identified an issue causing an intermittent delay or undelivered inbound SMS messages for Zoom Phone and Zoom Contact Center.  We will continue to work with the underlying carrier and provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 17:31:13 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 17:31:13 -0800</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/gcgsy3tj72zb</link>
 <guid>https://status.zoom.us/incidents/gcgsy3tj72zb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>07:44</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>07:37</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issue causing delay in processing Zoom Phone recordings for users in Canada - West region. We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var>20</var>, <var>06:46</var> PST</small><br /><strong>Update</strong> - We continue to investigate this issue causing delay in processing Zoom Phone recordings for users in Canada - West region, we will provide updates as we have them.</p><p><small>Feb <var>20</var>, <var>05:37</var> PST</small><br /><strong>Update</strong> - We continue to investigate this issue causing delay in processing Zoom Phone recordings for users in Canada - West region, we will provide updates as we have them.</p><p><small>Feb <var>20</var>, <var>05:12</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems detected an issue where users in Canada - West region are experiencing delay in processing Zoom Phone recordings. We will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 07:44:40 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 07:44:40 -0800</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/47ggrfrqbzn3</link>
 <guid>https://status.zoom.us/incidents/47ggrfrqbzn3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>01:16</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>00:57</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issues where a subset of users in Singapore are unable to make Registration, Outbound/Inbound calls with zoom phone, We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var>20</var>, <var>00:53</var> PST</small><br /><strong>Identified</strong> - We are investigating the issues where a subset of users in Singapore are unable to make Registration, Outbound/Inbound calls with zoom phone, we will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 01:16:46 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 01:16:46 -0800</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/5mgk9m5dqwbb</link>
 <guid>https://status.zoom.us/incidents/5mgk9m5dqwbb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>15:15</var> PST</small><br /><strong>Resolved</strong> - The issue has been resolved</p><p><small>Feb <var>17</var>, <var>15:07</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issue issue impacting team chat summary 400 error in multiple US clusters. We will continue to monitor.</p><p><small>Feb <var>17</var>, <var>14:53</var> PST</small><br /><strong>Identified</strong> - We have identified the issue impacting AIC team chat summary 400 error in multiple US clusters. We will provide more updates as we have them.</p><p><small>Feb <var>17</var>, <var>14:08</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate the issue.  We will provide more updates as we have them.</p><p><small>Feb <var>17</var>, <var>14:05</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.  We will provide more updates as we have them.</p><p><small>Feb <var>17</var>, <var>13:11</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue impacting AIC team chat summary 400 error in multiple US clusters. We will provide more updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 15:15:08 -0800</pubDate>
 <pubDate>Sat, 17 Feb 2024 15:15:08 -0800</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/20wd04r1bbwf</link>
 <guid>https://status.zoom.us/incidents/20wd04r1bbwf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>10:44</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>10:33</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issue causing intermittent chat compose failure. We will continue to provide updates as we have them.</p><p><small>Feb <var>16</var>, <var>09:38</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating intermittent chat compose failure. We are currently investigating and will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 10:44:41 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 10:44:41 -0800</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/pr58173dw029</link>
 <guid>https://status.zoom.us/incidents/pr58173dw029</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>23:02</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>22:52</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issues affecting both current and previous meeting pages accessed through the dashboards. We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var>15</var>, <var>22:46</var> PST</small><br /><strong>Identified</strong> - We have identified the issues affecting both current and previous meeting pages accessed through the dashboards, we will provide updates as we have them.</p><p><small>Feb <var>15</var>, <var>21:17</var> PST</small><br /><strong>Update</strong> - We are actively looking into the issues affecting both current and previous meeting pages accessed through the dashboards, we will keep you informed with updates as soon as they become available.</p><p><small>Feb <var>15</var>, <var>20:36</var> PST</small><br /><strong>Update</strong> - We continue to investigate the issues with live and past meeting page from the dashboards, we will provide updates as we have them.</p><p><small>Feb <var>15</var>, <var>20:06</var> PST</small><br /><strong>Investigating</strong> - Our monitoring has detected issues while loading live and past meeting pages from the dashboard, we are currently investigating and will provide updates as we have them</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 23:02:19 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 23:02:19 -0800</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/dhctz6c4tw7p</link>
 <guid>https://status.zoom.us/incidents/dhctz6c4tw7p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>11:30</var> PST</small><br /><strong>Resolved</strong> - A resolution has been identified and is currently being implemented. These issues do not affect Zoom Rooms for Windows or Mac 5.17.0 and greater; upgrading to the latest version will resolve the problem. As a workaround on versions 5.16.x and lower, users can join Microsoft Teams meetings by pressing the "Microsoft Teams" button on the Zoom Rooms Controller Home Screen (if enabled) or pressing the "Join" button and selecting Microsoft Teams, then manually entering the Microsoft Teams meeting ID and passcode.</p><p><small>Feb <var>14</var>, <var>20:21</var> PST</small><br /><strong>Monitoring</strong> - A resolution has been identified and is currently being implemented.  These issues do not affect Zoom Rooms for Windows or Mac 5.17.0 and greater; upgrading to the latest version will resolve the problem.  As a workaround on versions 5.16.x and lower, users can join Microsoft Teams meetings by pressing the "Microsoft Teams" button on the Zoom Rooms Controller Home Screen (if enabled) or pressing the "Join" button and selecting Microsoft Teams, then manually entering the Microsoft Teams meeting ID and passcode.</p><p><small>Feb <var>14</var>, <var>15:03</var> PST</small><br /><strong>Identified</strong> - We have identified the issue where users are unable to join Microsoft Teams meetings using direct guest join (DGJ) from the meeting list of the Zoom Rooms Controller when using Zoom Rooms for Windows or Zoom Rooms for Mac versions less than 5.16.x and lower.  These issues do not affect Zoom Rooms for Windows or Mac 5.17.0 and greater; upgrading to the latest version will resolve the problem.  As a workaround on versions 5.16.x and lower, users can join Microsoft Teams meetings by pressing the "Microsoft Teams" button on the Zoom Rooms Controller Home Screen (if enabled) or pressing the "Join" button and selecting Microsoft Teams, then manually entering the Microsoft Teams meeting ID and passcode. Our engineers are currently working with our partners to resolve this issue.  We will continue to provide updates as we have them.</p><p><small>Feb <var>14</var>, <var>11:42</var> PST</small><br /><strong>Update</strong> - We continue to investigate an issue where users are unable to join Microsoft Teams meetings using direct guest join (DGJ) from the meeting list of the Zoom Rooms Controller when using Zoom Rooms for Windows or Zoom Rooms for Mac versions less than 5.16.x and lower.  These issues do not affect Zoom Rooms for Windows or Mac 5.17.0 and greater; upgrading to the latest version will resolve the problem.  As a workaround on versions 5.16.x and lower, users can join Microsoft Teams meetings by pressing the "Microsoft Teams" button on the Zoom Rooms Controller Home Screen (if enabled) or pressing the "Join" button and selecting Microsoft Teams, then manually entering the Microsoft Teams meeting ID and passcode. Our engineers are currently investigating the impact and root cause & will share updates as they’re available.</p><p><small>Feb <var>14</var>, <var>08:42</var> PST</small><br /><strong>Update</strong> - We continue to investigate an issue where users are unable to join Microsoft Teams meetings using direct guest join (DGJ) from the meeting list of the Zoom Rooms Controller when using Zoom Rooms for Windows or Zoom Rooms for Mac versions less than 5.16.x and lower.  These issues do not affect Zoom Rooms for Windows or Mac 5.17.0 and greater; upgrading to the latest version will resolve the problem.  As a workaround on versions 5.16.x and lower, users can join Microsoft Teams meetings by pressing the "Microsoft Teams" button on the Zoom Rooms Controller Home Screen (if enabled) or pressing the "Join" button and selecting Microsoft Teams, then manually entering the Microsoft Teams meeting ID and passcode. Our engineers are currently investigating the impact and root cause & will share updates as they’re available.</p><p><small>Feb <var>14</var>, <var>07:43</var> PST</small><br /><strong>Update</strong> - We continue to investigate this issue where users are unable to join teams meetings via direct guest join(DGJ) button on Zoom Rooms. Our engineers are currently investigating the impact and root cause & will share updates as they’re available. Meanwhile, you will be able to join the call by manually entering the meeting ID, or by upgrading to the latest ZR version available on zoom.us/download.</p><p><small>Feb <var>14</var>, <var>06:42</var> PST</small><br /><strong>Update</strong> - We continue to investigate this issue where users are unable to join teams meetings via direct guest join(DGJ) button on Zoom Rooms. Our engineers are currently investigating the impact and root cause & will share updates as they’re available. Meanwhile, you will be able to join the call by manually entering the meeting ID, or by upgrading to the latest ZR version available on zoom.us/download.</p><p><small>Feb <var>14</var>, <var>05:42</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating reports of service degradation where users are unable to join teams meetings via the direct guest join (DGJ) button on Zoom Rooms ( V: 5.15.X.X) Our engineers are currently investigating the impact and root cause & will share updates as they’re available. Meanwhile, you will be able to join the call manually by adding the link on your browser, or by upgrading the ZR version.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 11:30:10 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 11:30:10 -0800</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/l9112tszff14</link>
 <guid>https://status.zoom.us/incidents/l9112tszff14</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>00:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>12</var>, <var>00:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>12</var>, <var>13:38</var> PST</small><br /><strong>Scheduled</strong> - Zoom will be adding an additional data center as a part of the global Zoom routing network. This site is already in our previously announced IP address ranges. For network administrators with Zoom specific proxy rules, please update your PAC files with the following site.<br /><br />New data center:<br />Dammam - hof.zoom.us<br /><br />A complete list of data centers can be found on the Zoom Support site at: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0067446</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 00:01:57 -0800</pubDate>
 <pubDate>Mon, 12 Feb 2024 00:01:57 -0800</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/rhkqp7lb40fm</link>
 <guid>https://status.zoom.us/incidents/rhkqp7lb40fm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>18:14</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>18:03</var> PST</small><br /><strong>Monitoring</strong> - The issue causing users in Saudi Arabia to be unable to access Zoom has been resolved.  We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var> 9</var>, <var>15:08</var> PST</small><br /><strong>Update</strong> - We have confirmed that most services have recovered at this time and continue working to restore all services for users in Saudi Arabia.  We will continue to provide updates as we have them.</p><p><small>Feb <var> 9</var>, <var>13:13</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate an issue causing users in Saudi Arabia to be unable to access Zoom. We will continue to provide updates as we have them.</p><p><small>Feb <var> 9</var>, <var>12:23</var> PST</small><br /><strong>Identified</strong> - We have identified an issue causing users in Saudi Arabia to be unable to access Zoom. We will continue to provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 18:14:12 -0800</pubDate>
 <pubDate>Fri, 09 Feb 2024 18:14:12 -0800</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/bbvsv4vn7lzl</link>
 <guid>https://status.zoom.us/incidents/bbvsv4vn7lzl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>10:02</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 7</var>, <var>09:50</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the intermittent issues with AIC team chat compose. We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var> 7</var>, <var>09:36</var> PST</small><br /><strong>Identified</strong> - We have identified the intermittent issues with AIC team chat compose, we will provide updates as we have them.</p><p><small>Feb <var> 7</var>, <var>08:32</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate intermittent issues with AIC team chat compose, we will provide updates as we have them.</p><p><small>Feb <var> 7</var>, <var>07:33</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with AIC team chat compose, we will provide more information as we have them.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 10:02:23 -0800</pubDate>
 <pubDate>Wed, 07 Feb 2024 10:02:23 -0800</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/pxd9mn74vlk7</link>
 <guid>https://status.zoom.us/incidents/pxd9mn74vlk7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 4</var>, <var>23:54</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 4</var>, <var>21:34</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issue with CRC affecting a subset of users in Australia. We will continue to monitor and provide updates as we have them.</p><p><small>Feb <var> 4</var>, <var>21:09</var> PST</small><br /><strong>Identified</strong> - A subset of customers in Australia are experiencing issues with CRC. We have identified issues with the service and we will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Sun, 04 Feb 2024 23:54:57 -0800</pubDate>
 <pubDate>Sun, 04 Feb 2024 23:54:57 -0800</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/34gblwxh0grl</link>
 <guid>https://status.zoom.us/incidents/34gblwxh0grl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>18:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>10:46</var> PST</small><br /><strong>Update</strong> - As a reminder roughly 30 days ahead of the upcoming enforcement, Zoom will be enforcing a new global minimum version for all our Zoom clients and plugins this February 3rd. This affects the following products:<br />- Zoom client for meetings (Windows, macOS, Linux, iOS, Android, Blackberry, and Intune)<br />- Zoom Rooms and Controllers<br />- Zoom Phone Appliances<br />- VDI Client and Plugin<br />- Virtual Room Connector<br />- Meetings Connector<br />- Recording Connector<br />- Meeting SDK (native and web)<br />- Video SDK (native and web)<br /><br />For more information, such as specific versions we are enforcing, refer to the Zoom Software Quarterly Lifecycle Policy support article: https://support.zoom.us/hc/en-us/articles/360059429231<br /><br />To assist with checking the client versions on your account, refer to the Dashboard support article: https://support.zoom.us/hc/en-us/articles/360039656511#h_13ce9a73-91e5-4df6-9cb5-c815b1605cf5</p><p><small>Nov <var> 1</var>, <var>10:41</var> PDT</small><br /><strong>Scheduled</strong> - Zoom will be enforcing a new minimum version of all our Zoom clients and plugins, roughly 90 days from now on February 3, 2023. This affects the following products: <br />- Zoom client for meetings (Windows, macOS, Linux, iOS, Android, Blackberry, and Intune)<br />- Zoom Rooms (including Zoom Room Controllers and companion whiteboards) <br />- Zoom Phone Appliances<br />- VDI Client and Plugin<br />- Virtual Room Connector<br />- Meetings Connector<br />- Recording Connector<br />- Meetings SDK (Native and Web)<br />- Video SDK (Native and Web)<br />- Zoom Contact Center SDK (Native)<br />- Zoom Node<br />- Zoom Phone Local Survivability (ZPLS) module<br /><br />Please ensure your devices are updated to the latest version. <br /><br />For more information, such as specific versions we are enforcing, please see the Zoom Software Quarterly Lifecycle Policy support article: https://support.zoom.us/hc/en-us/articles/360059429231 <br /><br />To assist with checking the client versions on your account, refer to the Dashboard support article for more information: https://support.zoom.us/hc/en-us/articles/360039656511#h_13ce9a73-91e5-4df6-9cb5-c815b1605cf5</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Feb 2024 18:00:00 -0800</pubDate>
 <pubDate>Sat, 03 Feb 2024 18:00:00 -0800</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/v35b8dskjc9j</link>
 <guid>https://status.zoom.us/incidents/v35b8dskjc9j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>29</var>, <var>19:11</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>29</var>, <var>17:21</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the issue with Zoom Mail. We will continue to monitor and provide updates as we have them.</p><p><small>Jan <var>29</var>, <var>15:55</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Zoom Mail. We will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 19:11:51 -0800</pubDate>
 <pubDate>Mon, 29 Jan 2024 19:11:51 -0800</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/4g2hrb23yz01</link>
 <guid>https://status.zoom.us/incidents/4g2hrb23yz01</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>26</var>, <var>09:03</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>08:40</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the intermittent issue with live transcription in India. We will continue to monitor and provide updates as we have them.</p><p><small>Jan <var>26</var>, <var>08:36</var> PST</small><br /><strong>Identified</strong> - We have identified the intermittent issue with live transcription in India, we will provide updates as we have them.</p><p><small>Jan <var>26</var>, <var>08:30</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an intermittent issue with live transcription in India, we will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Fri, 26 Jan 2024 09:03:23 -0800</pubDate>
 <pubDate>Fri, 26 Jan 2024 09:03:23 -0800</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/tmzy0zfl1pk4</link>
 <guid>https://status.zoom.us/incidents/tmzy0zfl1pk4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>26</var>, <var>00:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>09:47</var> PST</small><br /><strong>Scheduled</strong> - Due to a change with our phone carrier, the below Malaysia Toll numbers are being decommissioned. <br /><br />+60 3 XXXX 2229<br />+60 3 XXXX 1727 <br /><br />Your accounts will still have the following two Malaysia Toll numbers available for use:<br /><br />+60 3 XXXX 4079<br />+60 3 XXXX 4080<br /><br />Please make sure to make any necessary updates in your Admin Portal (https://zoom.us/account/setting?tab=telephony) to ensure availability for use of the remaining 2 Malaysia numbers on your account. Only if you are not already using the remaining numbers noted above, currently scheduled meetings for 02/29/2024 and onward may need to be rescheduled so that the updated toll numbers will be reflected in newly scheduled meetings. If meeting invites are not updated to reflect the additional toll numbers, participants dialing in from Malaysia will not be able to join using the decommissioned number after 2/29/2024. Any newly created meetings scheduled after you’ve updated the numbers in your portal will be automatically updated with the remaining Malaysia toll number(s) for future invites.<br /><br />To view your current and new numbers in order to make the above changes, please visit your Admin Portal. There you will be able to find all Malaysia numbers that will remain supported.</p>
 ]]></content:encoded>
-<pubDate>Fri, 26 Jan 2024 00:00:21 -0800</pubDate>
 <pubDate>Fri, 26 Jan 2024 00:00:21 -0800</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/7r016xtcb8wn</link>
 <guid>https://status.zoom.us/incidents/7r016xtcb8wn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>01:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>25</var>, <var>00:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>24</var>, <var>11:02</var> PST</small><br /><strong>Scheduled</strong> - The following, new and updated IP subnet range will be deployed to Zoom Phone resources starting no earlier than 30 days from the posting of this notice. We recommend that network administrators, with Zoom specific firewall or network rules, update their systems as soon as possible in preparation.<br /><br />New IP range:<br />221.122.63.0/24<br /><br />For a complete list, please see: https://assets.zoom.us/docs/ipranges/ZoomPhone.txt<br /><br />A complete list of network firewall IP ranges for Zoom can be found on the Zoom Support site at: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0060548</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 01:01:28 -0800</pubDate>
 <pubDate>Thu, 25 Jan 2024 01:01:28 -0800</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/j5dht0nkbrg1</link>
 <guid>https://status.zoom.us/incidents/j5dht0nkbrg1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>11:10</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>23</var>, <var>10:23</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the intermittent issues with AIC affecting a subset of users. We will continue to monitor for intermittent issues and provide updates as we have them.</p><p><small>Jan <var>23</var>, <var>09:25</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate intermittent issues with AI Companion affecting a subset of users, we will provide updates as we have them.</p><p><small>Jan <var>23</var>, <var>08:55</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating intermittent issues with AIC affecting a subset of users, we will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 11:10:57 -0800</pubDate>
 <pubDate>Tue, 23 Jan 2024 11:10:57 -0800</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/8wjj4vtyxzvr</link>
 <guid>https://status.zoom.us/incidents/8wjj4vtyxzvr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>22:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>17:02</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>19</var>, <var>14:34</var> PST</small><br /><strong>Scheduled</strong> - We will be performing routine maintenance on our Web Backend. Please refer to https://support.zoom.us/hc/en-us/articles/204758419 for more details. This update includes general availability of profanity filter.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 22:00:47 -0800</pubDate>
 <pubDate>Sat, 20 Jan 2024 22:00:47 -0800</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/82bxh6wvdf4k</link>
 <guid>https://status.zoom.us/incidents/82bxh6wvdf4k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>19:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>17:02</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>10:50</var> PST</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for the Zoom Switzerland data center on January 20th (5:00PM to 7:00PM PDT). There is no operational impact. All services will be available during this scheduled update.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 19:00:47 -0800</pubDate>
 <pubDate>Sat, 20 Jan 2024 19:00:47 -0800</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/gc9r69wtw74j</link>
 <guid>https://status.zoom.us/incidents/gc9r69wtw74j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>11:41</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>20</var>, <var>10:21</var> PST</small><br /><strong>Monitoring</strong> - We have resolved the intermittent issues with Catch Me Up feature of AI Companion affecting a subset of users.  We will continue to monitor this and provide updates as soon as there is more information to share.</p><p><small>Jan <var>20</var>, <var>09:59</var> PST</small><br /><strong>Identified</strong> - We have identified the intermittent issues with Catch Me Up feature of AI Companion affecting a subset of users, we will provide updates as we have them.</p><p><small>Jan <var>20</var>, <var>09:34</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate intermittent issues with Catch Me Up feature of AI Companion affecting a subset of users, we will provide updates as we have them.</p><p><small>Jan <var>20</var>, <var>08:24</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate intermittent issues with Catch Me Up feature of AI Companion affecting a subset of users, we will provide updates as we have them.</p><p><small>Jan <var>20</var>, <var>07:22</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an intermittent issues with Catch Me Up feature of AI Companion affecting a subset of users, we will provide updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 11:41:02 -0800</pubDate>
 <pubDate>Sat, 20 Jan 2024 11:41:02 -0800</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/t5lb4zv98f22</link>
 <guid>https://status.zoom.us/incidents/t5lb4zv98f22</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>02:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>12</var>, <var>13:06</var> PST</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for Zoom Chat. Users may experience a brief disconnect of Zoom Chat services during the maintenance window and will automatically reconnect.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 02:00:21 -0800</pubDate>
 <pubDate>Sat, 20 Jan 2024 02:00:21 -0800</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/cb37b08rvmnn</link>
 <guid>https://status.zoom.us/incidents/cb37b08rvmnn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>19:02</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>19</var>, <var>11:51</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following sip zones to replace BYOC/BYOP (Bring Your Own Carrier/Bring Your Own PBX) with certificates that will be signed by DigiCert Global Root G2 certificate authority:<br /><br />Europe (Amsterdam)<br />US Central (Colorado)<br />US East (New York)<br /><br />Zoom had previously notified about these certificate changes as outlined here, but we rolled back the certificates on our infrastructure to DigiCert Global Root CA. Zoom is currently still utilizing DigiCert Global Root CA in above sip zones:<br />https://status.zoom.us/incidents/dmms8h3zvv6z<br />https://status.zoom.us/incidents/b6pgx3y0mlg2<br /><br />Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on our infrastructure during this new maintenance window and this will be a permanent change. We will not be able to postpone the date any further. Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their SBCs as we work through this transition.<br /><br />If you have not done so please install DigiCert Global Root G2 root certificate on your BYOC-Premises Session Border Controller (SBC). You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by DigiCert Global Root G2 certificates. Customers are requested to test inbound and outbound calling using BYOC-P SBCs and generic devices to ensure that the services are functional after the certificate updates.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 19:02:05 -0800</pubDate>
 <pubDate>Fri, 19 Jan 2024 19:02:05 -0800</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@ Summary: Zoom will be enforcing a new minimum version of all Zoom clients and pl
 <link>https://status.zoom.us/incidents/j1wjy31drc91</link>
 <guid>https://status.zoom.us/incidents/j1wjy31drc91</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>11:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>09:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>19</var>, <var>11:47</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following sip zones to replace BYOC/BYOP (Bring Your Own Carrier/Bring Your Own PBX) with certificates that will be signed by DigiCert Global Root G2 certificate authority:<br /><br />Asia Pacific (Tokyo)<br /><br />Zoom had previously notified about these certificate changes as outlined here, but we rolled back the certificates on our infrastructure to DigiCert Global Root CA. Zoom is currently still utilizing Digicert Global Root CA in above sip zone:<br />https://status.zoom.us/incidents/qyzlvh0j3d35<br /><br />Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on our infrastructure during this new maintenance window and this will be a permanent change. We will not be able to postpone the date any further. Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their SBCs as we work through this transition.<br /><br />If you have not done so please install DigiCert Global Root G2 root certificate on your BYOC-Premises Session Border Controller (SBC). You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by DigiCert Global Root G2 certificates. Customers are requested to test inbound and outbound calling using BYOC-P SBCs and generic devices to ensure that the services are functional after the certificate updates.</p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Jan 2024 11:00:19 -0800</pubDate>
-<pubDate>Fri, 19 Jan 2024 11:00:19 -0800</pubDate>
 </item>
-
 </channel>
 </rss>

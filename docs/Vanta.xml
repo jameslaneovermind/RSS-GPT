@@ -4,6 +4,7 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+
 <item>
 <title>New Okta Connection Fails During Setup</title>
 <link>https://status.vanta.com/incidents/0g2nlqwvj3qb</link>
@@ -15,17 +16,14 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <p><small>Feb <var>20</var>, <var>16:21</var> PST</small><br /><strong>Identified</strong> - This issue appears to be related to a recent update from Okta adding Demonstrating Proof of Possession (DPop) to new applications by default. We do not meet this burden currently. Unchecking this requirement in the configuration of the application allows us to successfully go through the integration flow</p><p><small>Feb <var>20</var>, <var>14:27</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue causing new Okta integrations to fail during the initial setup. Our team is looking into this now and will provide updates when available. <br /><br />Those with existing Okta integrations connected should not be impacted</p>
 ]]></content:encoded>
 <pubDate>Tue, 20 Feb 2024 16:21:16 -0800</pubDate>
-<pubDate>Tue, 20 Feb 2024 16:21:16 -0800</pubDate>
 </item>
 <item>
 <title>Magic Login Links and other emails may be delayed or not arrive to the inbox.</title>
 <link>https://status.vanta.com/incidents/tmvnp417jrfk</link>
 <guid>https://status.vanta.com/incidents/tmvnp417jrfk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>10:58</var> PST</small><br /><strong>Resolved</strong> - The issue with delayed emails has been resolved and should now be delivered again. Previously requested emails should also be delivered from the queue.</p><p><small>Feb <var>19</var>, <var>10:23</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>19</var>, <var>10:21</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue in which Magic Login Links & other emails are delayed or do not make it to the users inbox. It is currently recommended to log in with SSO if available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 10:58:17 -0800</pubDate>
 <pubDate>Mon, 19 Feb 2024 10:58:17 -0800</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/8zx3jd1kjq5w</link>
 <guid>https://status.vanta.com/incidents/8zx3jd1kjq5w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>09:42</var> PST</small><br /><strong>Resolved</strong> - After updating our login process, we've noticed more users successfully logging in through login links, effectively resolving the previous issue. Should you continue to encounter any problems with email login, please contact our Support team at support@vanta.com.</p><p><small>Feb <var>15</var>, <var>07:47</var> PST</small><br /><strong>Monitoring</strong> - We've released an update to our login flow that prevents email scanning tools from consuming our login links. We're actively monitoring this situation. If you continue to see any issues logging in with email, please contact our Support team at support@vanta.com.</p><p><small>Feb <var>13</var>, <var>16:44</var> PST</small><br /><strong>Identified</strong> - We've detected an increase in expired magic links, which appear to be caused by email security scanners. These scanners, integrated into email servers, preemptively access message links to check for malicious content. Our magic links are designed for one-time access and are consumed by these scanners before the intended recipient can use them. We're currently working on adjusting this behavior. In the meantime, we recommend discussing this issue with your IT team or opting for Single Sign-On (SSO) as an alternative. Please access Vanta's help center for instructions on integrating SSO: https://help.vanta.com/hc/en-us/sections/9623445054740-Identity-Providers</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 09:42:50 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 09:42:50 -0800</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/qj792g6qfp5f</link>
 <guid>https://status.vanta.com/incidents/qj792g6qfp5f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>10:00</var> PST</small><br /><strong>Resolved</strong> - This issue should now be resolved. Test history has also been corrected and invalidated for the duration of this incident.</p><p><small>Feb <var>13</var>, <var>00:27</var> PST</small><br /><strong>Monitoring</strong> - The team has deployed a fix to resolve tests incorrectly showing "Needs attention" for the following tests:<br /><br />- Company has Data Processing Agreements (DPA) with vendors processing customer data<br />- Company has CCPA Service Provider Contracts with vendors processing customer data<br />- Company has Business Associate Agreements (BAA) with vendors processing ePHI<br /><br />We're continuing to monitor to ensure this situation is resolved.</p><p><small>Feb <var>12</var>, <var>15:53</var> PST</small><br /><strong>Update</strong> - The team is continuing to work on resolving the issue. Test history has accidentally been marked as invalid from 2023-2024 for these tests, however, this will be resolved as soon as possible.</p><p><small>Feb <var>12</var>, <var>13:21</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where tests are incorrectly showing "Needs attention" affecting the following tests:<br /><br />- Company has Data Processing Agreements (DPA) with vendors processing customer data<br />- Company has CCPA Service Provider Contracts with vendors processing customer data<br />- Company has Business Associate Agreements (BAA) with vendors processing ePHI<br /><br />Our team has identified the issue and is working on a fix, we will provide an update as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 10:00:00 -0800</pubDate>
 <pubDate>Tue, 13 Feb 2024 10:00:00 -0800</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/h3q3f81xkfcl</link>
 <guid>https://status.vanta.com/incidents/h3q3f81xkfcl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>06:30</var> PST</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Feb <var> 9</var>, <var>10:15</var> PST</small><br /><strong>Investigating</strong> - We're experiencing a vendor outage and cannot pull in Security Training updates for KnowBe4 currently. The team is investigating and will post updates when available.</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 06:30:50 -0800</pubDate>
 <pubDate>Sat, 10 Feb 2024 06:30:50 -0800</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/0bv8wkx8jmm4</link>
 <guid>https://status.vanta.com/incidents/0bv8wkx8jmm4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>17:59</var> PST</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Feb <var> 9</var>, <var>16:18</var> PST</small><br /><strong>Identified</strong> - Our team is working on implementing a fix and will continue to monitor.</p><p><small>Feb <var> 9</var>, <var>15:57</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue that appears to be causing a delay in some Agent data updates. We will provide updates as they become available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 17:59:26 -0800</pubDate>
 <pubDate>Fri, 09 Feb 2024 17:59:26 -0800</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/k7j9h19fq4ph</link>
 <guid>https://status.vanta.com/incidents/k7j9h19fq4ph</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>15:36</var> PST</small><br /><strong>Resolved</strong> - 1Password integration functionality is restored.</p><p><small>Feb <var> 7</var>, <var>13:19</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue affecting 1Password integrations within Vanta that is currently preventing updates or integration reconnections. <br /><br />Our team is investigating the root cause and will provide an update as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 15:36:46 -0800</pubDate>
 <pubDate>Wed, 07 Feb 2024 15:36:46 -0800</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/x2kn64nm19db</link>
 <guid>https://status.vanta.com/incidents/x2kn64nm19db</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>13:19</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved, and both Questionnaire Automation and Trust Centers should be functioning as expected.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Feb 2024 13:19:26 -0800</pubDate>
 <pubDate>Mon, 05 Feb 2024 13:19:26 -0800</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/xvh7002hhtzm</link>
 <guid>https://status.vanta.com/incidents/xvh7002hhtzm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>04:13</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved, and both Questionnaire Automation and Trust Centers should be functioning as expected.</p><p><small>Feb <var> 5</var>, <var>03:39</var> PST</small><br /><strong>Monitoring</strong> - Functionality has been restored for all customers. We are continuing to monitor app performance.</p><p><small>Feb <var> 5</var>, <var>03:02</var> PST</small><br /><strong>Identified</strong> - Vanta engineers have identified the issue and are working to implement a fix.<br />We are monitoring the behaviour and will continue to provide updates as they become available.</p><p><small>Feb <var> 5</var>, <var>01:07</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue the is preventing Questionnaire Automation from loading affecting all customers.<br /><br />We have also identified an issue preventing Trust Centers from loading for public and admin users, affecting some customers.<br /><br />Our team is investigating the root cause and will provide an update as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Feb 2024 04:13:15 -0800</pubDate>
 <pubDate>Mon, 05 Feb 2024 04:13:15 -0800</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/ffvm1pr4ntd9</link>
 <guid>https://status.vanta.com/incidents/ffvm1pr4ntd9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>16:36</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>16:31</var> PST</small><br /><strong>Update</strong> - A fix has been implemented and the issue has been resolved</p><p><small>Jan <var>31</var>, <var>07:58</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where the "items requiring your attention” emails sent yesterday and today had incorrect numbers for tests that need attention. This issue is impacting all customers.<br /><br />Our team had identified the root cause and is working on a fix. We will provide an update as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 16:36:08 -0800</pubDate>
 <pubDate>Wed, 31 Jan 2024 16:36:08 -0800</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/8254fpnbvsps</link>
 <guid>https://status.vanta.com/incidents/8254fpnbvsps</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>12:23</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved, as a result:<br /><br />- Employees can now install the Vanta Agent again<br />- macOS installations will no longer fail<br />- For Windows, if the device is still not showing up, they'll need to re-install<br />- Reach out to support@vanta.com for additional help</p><p><small>Jan <var>31</var>, <var>07:55</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 12:23:47 -0800</pubDate>
 <pubDate>Wed, 31 Jan 2024 12:23:47 -0800</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/rk23m80x5xdb</link>
 <guid>https://status.vanta.com/incidents/rk23m80x5xdb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>12:54</var> PST</small><br /><strong>Resolved</strong> - A fix has been implemented and the issue has been resolved</p><p><small>Jan <var>30</var>, <var>10:57</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where the links to Trust Centers from within the Vendor Risk Management table are directed to incorrect pages for EU customers. The team is working on a fix and will provide updates when available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 12:54:44 -0800</pubDate>
 <pubDate>Tue, 30 Jan 2024 12:54:44 -0800</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/9sbvz754h856</link>
 <guid>https://status.vanta.com/incidents/9sbvz754h856</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>29</var>, <var>08:42</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved, and users should be able to download the agent again.</p><p><small>Jan <var>29</var>, <var>08:06</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue causing https://app.vanta.com/osquery/download/macOS and https://app.vanta.com/osquery/download/windows to be down. Users are currently unable to download the Vanta Agent. Our team is investigating the root cause and will provide an update as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 08:42:59 -0800</pubDate>
 <pubDate>Mon, 29 Jan 2024 08:42:59 -0800</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/97rnsm13mwmj</link>
 <guid>https://status.vanta.com/incidents/97rnsm13mwmj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>09:32</var> PST</small><br /><strong>Resolved</strong> - We identified a temporary Vanta outage that affected all customers for approximately 5 minutes. This issue has since been resolved and Vanta should now be operational again.</p><p><small>Jan <var>24</var>, <var>09:27</var> PST</small><br /><strong>Investigating</strong> - We identified a temporary Vanta outage that affected all customers for approximately 5 minutes. This issue has since been resolved and Vanta should now be operational again.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 09:32:27 -0800</pubDate>
 <pubDate>Wed, 24 Jan 2024 09:32:27 -0800</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/gp78430qzbcm</link>
 <guid>https://status.vanta.com/incidents/gp78430qzbcm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>09:30</var> PST</small><br /><strong>Resolved</strong> - We identified a temporary Vanta outage that affected all customers for approximately 5 minutes. This issue has since been resolved and Vanta should now be operational again.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 09:30:00 -0800</pubDate>
 <pubDate>Wed, 24 Jan 2024 09:30:00 -0800</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/vg7ffdclvjp9</link>
 <guid>https://status.vanta.com/incidents/vg7ffdclvjp9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>16</var>, <var>17:18</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>16</var>, <var>13:55</var> PST</small><br /><strong>Monitoring</strong> - Vanta Agent data syncing has improved to normal levels, we are currently monitoring the results.</p><p><small>Jan <var>16</var>, <var>12:24</var> PST</small><br /><strong>Identified</strong> - We have currently identified and are working on resolving an issue surrounding a delay in Vanta Agent data syncing.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jan 2024 17:18:05 -0800</pubDate>
 <pubDate>Tue, 16 Jan 2024 17:18:05 -0800</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/bnxnfvgf78gc</link>
 <guid>https://status.vanta.com/incidents/bnxnfvgf78gc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>13:41</var> PST</small><br /><strong>Resolved</strong> - The issue has been resolved, the people and groups pages should now be loading normally again.</p><p><small>Jan <var>12</var>, <var>12:18</var> PST</small><br /><strong>Identified</strong> - There is currently an issue with loading the peoples and groups pages within Vanta. The issue has been identified and we are working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Jan 2024 13:41:46 -0800</pubDate>
 <pubDate>Fri, 12 Jan 2024 13:41:46 -0800</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/7rb125q8mf5w</link>
 <guid>https://status.vanta.com/incidents/7rb125q8mf5w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>04:11</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>21</var>, <var>02:59</var> PST</small><br /><strong>Identified</strong> - We're working closely with an upstream provider to resolve this issue.</p><p><small>Dec <var>21</var>, <var>02:03</var> PST</small><br /><strong>Investigating</strong> - We're investigating an issue where Questionnaire Automation and Trustpage Trust Centers are failing to load.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 04:11:59 -0800</pubDate>
 <pubDate>Thu, 21 Dec 2023 04:11:59 -0800</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/yttd8wh5sqzw</link>
 <guid>https://status.vanta.com/incidents/yttd8wh5sqzw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>10:07</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>12</var>, <var>08:44</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where some users may have received duplicate email notifications, affecting both admins and employees in Vanta.<br /><br />Our team has identified the issue and is applying a fix, notifications should resume working as expected later today.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 10:07:21 -0800</pubDate>
 <pubDate>Tue, 12 Dec 2023 10:07:21 -0800</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/c3kyj51b8n15</link>
 <guid>https://status.vanta.com/incidents/c3kyj51b8n15</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>20:35</var> PST</small><br /><strong>Resolved</strong> - We've seen consistently restored functionality for the past 5 minutes for both Trust Center and Questionnaire Automation. Thanks for your patience as we worked through this with our downstream provider. Details below.<br /><br />At approximately 00:20 UTC we began noticing failed requests in our backend applications. Investigation revealed the failures were happening with an upstream data provider. After opening a support ticket with the provider their support team was able to identify and mitigate the issue.</p><p><small>Dec <var> 8</var>, <var>20:24</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented in our downstream provider and we're continuing to monitor as functionality is restored.</p><p><small>Dec <var> 8</var>, <var>19:51</var> PST</small><br /><strong>Update</strong> - We've made infrastructure adjustments that should help mitigate some of the failures customers are seeing, and are actively working with our downstream provider to resolve the root issue.</p><p><small>Dec <var> 8</var>, <var>18:51</var> PST</small><br /><strong>Update</strong> - We're continuing to investigate alternative mitigation options while we wait for further updates from our downstream provider. Pages are loading occasionally but still fail the majority of the time.</p><p><small>Dec <var> 8</var>, <var>18:04</var> PST</small><br /><strong>Identified</strong> - We've confirmed an issue with our downstream provider and are assisting their support team. We're also exploring other mitigation options.</p><p><small>Dec <var> 8</var>, <var>17:39</var> PST</small><br /><strong>Update</strong> - We've narrowed down the issue to one of our downstream providers and are working with their support team to identify and resolve the issue.</p><p><small>Dec <var> 8</var>, <var>17:23</var> PST</small><br /><strong>Investigating</strong> - We're investigating an issue where Questionnaire Automation and Trustpage Trust Centers are failing to load.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 20:35:25 -0800</pubDate>
 <pubDate>Fri, 08 Dec 2023 20:35:25 -0800</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/l7zzhkzjt8g2</link>
 <guid>https://status.vanta.com/incidents/l7zzhkzjt8g2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>18:22</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 1</var>, <var>13:46</var> PST</small><br /><strong>Identified</strong> - We've identified a root cause, and are working on a fix.</p><p><small>Dec <var> 1</var>, <var>12:42</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue causing Jumpcloud-monitored devices to fail the Screenlock check.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 18:22:33 -0800</pubDate>
 <pubDate>Fri, 01 Dec 2023 18:22:33 -0800</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/y4b0pn4c8ypw</link>
 <guid>https://status.vanta.com/incidents/y4b0pn4c8ypw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>08:01</var> PST</small><br /><strong>Resolved</strong> - Fix has been implemented</p><p><small>Dec <var> 1</var>, <var>07:30</var> PST</small><br /><strong>Identified</strong> - Some customers may see error pages due to cached values in their custom domain Trust Center. A fix is being deployed. <br />Refreshing the page should resolve the issue until the fix is released.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 08:01:51 -0800</pubDate>
 <pubDate>Fri, 01 Dec 2023 08:01:51 -0800</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/dbh5289c5nfb</link>
 <guid>https://status.vanta.com/incidents/dbh5289c5nfb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>27</var>, <var>17:20</var> PST</small><br /><strong>Resolved</strong> - This issue has now been resolved.</p><p><small>Nov <var>27</var>, <var>16:50</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where the Resources page and Questionnaire Automation on Trustpage Trust Centers are failing to load.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 17:20:14 -0800</pubDate>
 <pubDate>Mon, 27 Nov 2023 17:20:14 -0800</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/xy56jg4g8s09</link>
 <guid>https://status.vanta.com/incidents/xy56jg4g8s09</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>17</var>, <var>10:00</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>16</var>, <var>15:08</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>16</var>, <var>12:37</var> PST</small><br /><strong>Investigating</strong> - Some customers are seeing duplicate checklists and groups. We are working to mitigate this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 17 Nov 2023 10:00:30 -0800</pubDate>
 <pubDate>Fri, 17 Nov 2023 10:00:30 -0800</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@ Summary: A recent update from Okta has caused new integrations to fail. The issu
 <link>https://status.vanta.com/incidents/g6nljm52b1bh</link>
 <guid>https://status.vanta.com/incidents/g6nljm52b1bh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>10:00</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>14</var>, <var>13:42</var> PST</small><br /><strong>Monitoring</strong> - Customers that have connected GCP via an organization may see an issue where resources are not appearing in Vanta. We have deployed a fix but it may take up to 24 hours for resources to appear in Vanta again.</p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Nov 2023 10:00:56 -0800</pubDate>
-<pubDate>Wed, 15 Nov 2023 10:00:56 -0800</pubDate>
 </item>
-
 </channel>
 </rss>

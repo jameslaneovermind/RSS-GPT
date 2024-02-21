@@ -31,3 +31,9 @@ Append: [Upcoming Maintenance on February Upgraded PODs for Cloud Integration Hu
 Append: [Cloud Application Integration Public Certificate renewal on EM SouthEast 1 Azure Services](https://status.informatica.com/incidents/nmw6z74npv8w)
 append_entries: 25
 Finish: 2024-02-21 16:24:01.460694
+------------------------------------------------------
+Started: 2024-02-21 16:44:16.090143
+Existing_entries: 25
+Fetching from https://status.informatica.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:16.281594

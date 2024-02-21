@@ -4,6 +4,7 @@
 <title>Rockset Status - Incident History</title>
 <link>https://status.rockset.com</link>
 
+
 <item>
 <title>Insert into select (IIS) in collections with names that require escaping are failing</title>
 <link>https://status.rockset.com/incidents/mrn28m05dmvw</link>
@@ -26,17 +27,14 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <p><small>Feb <var> 1</var>, <var>14:20</var> PST</small><br /><strong>Resolved</strong> - The incident is resolved all region have been updated and we monitored the issue</p><p><small>Feb <var> 1</var>, <var>12:59</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var> 1</var>, <var>12:52</var> PST</small><br /><strong>Monitoring</strong> - We applied a fix across our clusters and we think the issue has been resolved around 19:37UTC on 2024/02/01.</p><p><small>Feb <var> 1</var>, <var>09:47</var> PST</small><br /><strong>Identified</strong> - We have identified the reasons of the issues and we are working on a fix right now.</p><p><small>Feb <var> 1</var>, <var>07:15</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating the issue the reason why this is failing.</p>
 ]]></content:encoded>
 <pubDate>Thu, 01 Feb 2024 14:20:14 -0800</pubDate>
-<pubDate>Thu, 01 Feb 2024 14:20:14 -0800</pubDate>
 </item>
 <item>
 <title>Increased ingest error rate in use1a1 due to scaling issues.</title>
 <link>https://status.rockset.com/incidents/fjhf04sc9cdr</link>
 <guid>https://status.rockset.com/incidents/fjhf04sc9cdr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 4</var>, <var>11:00</var> PST</small><br /><strong>Resolved</strong> - After applying a configuration change related to scaling, our API server started to return 500 errors for ingest for a subset of the customers and had an increase of ingest latency for all customers starting from 2024-01-04 19:10:30  UTC. The change was reverted and the errors ended at 2024-01-04 19:31:30 UTC.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Jan 2024 11:00:00 -0800</pubDate>
 <pubDate>Thu, 04 Jan 2024 11:00:00 -0800</pubDate>
 </item>
 <item>
@@ -44,10 +42,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/c77cyfvm59sm</link>
 <guid>https://status.rockset.com/incidents/c77cyfvm59sm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>21:45</var> PST</small><br /><strong>Resolved</strong> - At 05:45Z one of the servers running one of the api authentication services, and api credential cache, became faulty and taken out of service, which caused a spike in 5xx errors from the API servers using that instance authentication service. The system recovered at 06:15Z when the cache has been automatically restarted on a different server.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Dec 2023 21:45:00 -0800</pubDate>
 <pubDate>Thu, 14 Dec 2023 21:45:00 -0800</pubDate>
 </item>
 <item>
@@ -55,10 +51,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/cz3skqn3wzj8</link>
 <guid>https://status.rockset.com/incidents/cz3skqn3wzj8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>14:29</var> PDT</small><br /><strong>Resolved</strong> - Our authentication provider has resolved the issue and we've confirmed that the Rockset console is accessible.</p><p><small>Oct <var>30</var>, <var>13:44</var> PDT</small><br /><strong>Investigating</strong> - We're looking into an issue with customers being unable to access the Rockset console due to an issue with our auth provider. The issue appears to be resolved, but we'll continue investigating.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 14:29:54 -0700</pubDate>
 <pubDate>Mon, 30 Oct 2023 14:29:54 -0700</pubDate>
 </item>
 <item>
@@ -66,10 +60,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/p0799g36b4hm</link>
 <guid>https://status.rockset.com/incidents/p0799g36b4hm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>19</var>, <var>06:39</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>18</var>, <var>17:02</var> PDT</small><br /><strong>Update</strong> - All regions but us-west-2 have recovered.</p><p><small>Sep <var>18</var>, <var>12:18</var> PDT</small><br /><strong>Monitoring</strong> - The infrastructure provider has identified a possible root cause and attempting mitigations.</p><p><small>Sep <var>18</var>, <var>12:15</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Sep <var>18</var>, <var>12:12</var> PDT</small><br /><strong>Identified</strong> - Increasing Virtual Instance size is impacted by underlying outage of infrastructure provider.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Sep 2023 06:39:05 -0700</pubDate>
 <pubDate>Tue, 19 Sep 2023 06:39:05 -0700</pubDate>
 </item>
 <item>
@@ -77,10 +69,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/d47pbgl5npng</link>
 <guid>https://status.rockset.com/incidents/d47pbgl5npng</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 9</var>, <var>22:01</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var> 9</var>, <var>21:01</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>14</var>, <var>10:28</var> PDT</small><br /><strong>Scheduled</strong> - There will be a planned 1-hour maintenance for an infrastructure upgrade of our metadata services that will impact some of the functionality available in your Rockset org. Queries or data ingestion from all clients and sources will not be impacted.<br /><br />Date & Time: August 10th at 12 AM ET / August 9th at 9 PM PT<br /><br />Uninterrupted Rockset Service Operations:<br />- Queries & Query Lambdas<br />    - In existing console sessions<br />    - From all clients to all virtual instances through existing sessions with API Keys<br />- Ingest - from all existing data sources<br /><br />Impacted Rockset service Operations :<br />- API Keys<br />    - Create, Delete, List, Update<br />- Aliases<br />    - Create, Delete, List, Update<br />- Collections<br />    - Create, Delete, List, Update<br />- Roles<br />    - Create, Delete, List, Update<br />- Integrations<br />    - Create, Delete, List<br />- Query Lambdas<br />    - Create, Delete, List, Update<br />- Workspaces<br />    - Create, Delete, List<br />- Users<br />    - Create, Delete, List, Update preferences<br />- Views<br />    - Create, Delete, List, Update<br />- Virtual Instances<br />    - Create, Delete, List<br />    - Mount Collections, Unmount Collection, List Collection Mounts<br />    - Suspend, Resume<br />- New Network Security Policy Creation<br />- Authentication<br />    - New Logins to https://console.rockset.com<br />    - New Sessions with API Keys<br /><br />Note: Sessions end after 24 hours of inactivity for both console and API Keys - if you need an active session, please make sure you login or use your API Key less than 24 hours before the above time window. QLs not used in the 24-hour period prior to the maintenance window might also experience issues during that time.<br /><br />This planned maintenance is a one-time required infrastructure upgrade, and most ongoing critical operations in our service will continue working as usual, as listed above. If you'd like further details or have any concerns, please get in touch with us at support@rockset.com.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Aug 2023 22:01:33 -0700</pubDate>
 <pubDate>Wed, 09 Aug 2023 22:01:33 -0700</pubDate>
 </item>
 <item>
@@ -88,10 +78,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/t1w2vfd7bjmw</link>
 <guid>https://status.rockset.com/incidents/t1w2vfd7bjmw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>10</var>, <var>16:40</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>10</var>, <var>15:28</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>10</var>, <var>13:53</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>10</var>, <var>13:52</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var>10</var>, <var>13:33</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jul 2023 16:40:51 -0700</pubDate>
 <pubDate>Mon, 10 Jul 2023 16:40:51 -0700</pubDate>
 </item>
 <item>
@@ -99,10 +87,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/c59hxq6xqt69</link>
 <guid>https://status.rockset.com/incidents/c59hxq6xqt69</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 6</var>, <var>15:25</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var> 6</var>, <var>15:24</var> PDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jul <var> 6</var>, <var>14:50</var> PDT</small><br /><strong>Monitoring</strong> - A fix is now in place and we are monitoring that we are no longer serving 5xx's</p><p><small>Jul <var> 6</var>, <var>14:29</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 06 Jul 2023 15:25:39 -0700</pubDate>
 <pubDate>Thu, 06 Jul 2023 15:25:39 -0700</pubDate>
 </item>
 <item>
@@ -110,10 +96,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/y5lm6tdqzqwv</link>
 <guid>https://status.rockset.com/incidents/y5lm6tdqzqwv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>20</var>, <var>05:18</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>19</var>, <var>23:07</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jun <var>19</var>, <var>23:07</var> PDT</small><br /><strong>Investigating</strong> - We are currently being affected by an EC2 instance issue as noted by AWS in the eu-central-1 region. We are currently seeing this impact Virtual Instance switches.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Jun 2023 05:18:31 -0700</pubDate>
 <pubDate>Tue, 20 Jun 2023 05:18:31 -0700</pubDate>
 </item>
 <item>
@@ -121,10 +105,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/f57k60jb8h7d</link>
 <guid>https://status.rockset.com/incidents/f57k60jb8h7d</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>11</var>, <var>15:30</var> PDT</small><br /><strong>Resolved</strong> - On May 11 between 22:00 and 22:30 UTC and again between 22:58 and 23:04 UTC, we saw an increase in load on Rockset systems that caused some requests to fail for API calls to https://api.usw2a1.rockset.com. This issue has been resolved and we don't expect further impact to users.</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 May 2023 15:30:00 -0700</pubDate>
 <pubDate>Thu, 11 May 2023 15:30:00 -0700</pubDate>
 </item>
 <item>
@@ -132,10 +114,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/sqt8d66wrnl5</link>
 <guid>https://status.rockset.com/incidents/sqt8d66wrnl5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 9</var>, <var>14:24</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 9</var>, <var>13:04</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Mar 2023 14:24:55 -0800</pubDate>
 <pubDate>Thu, 09 Mar 2023 14:24:55 -0800</pubDate>
 </item>
 <item>
@@ -143,10 +123,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/xgz5vw60fvk1</link>
 <guid>https://status.rockset.com/incidents/xgz5vw60fvk1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 7</var>, <var>14:19</var> PST</small><br /><strong>Resolved</strong> - The fix put into place has resolved the issue.  We have not seen any reoccurrence for ingest latency since 17:00UTC</p><p><small>Mar <var> 7</var>, <var>09:14</var> PST</small><br /><strong>Monitoring</strong> - We have fixed the ingestion latency issue and are now monitoring it</p><p><small>Mar <var> 7</var>, <var>08:31</var> PST</small><br /><strong>Identified</strong> - We have identified the issue and a fix is being implemented</p><p><small>Mar <var> 7</var>, <var>08:05</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Mar 2023 14:19:30 -0800</pubDate>
 <pubDate>Tue, 07 Mar 2023 14:19:30 -0800</pubDate>
 </item>
 <item>
@@ -154,10 +132,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/tcq9mwn53szv</link>
 <guid>https://status.rockset.com/incidents/tcq9mwn53szv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>15:30</var> PST</small><br /><strong>Resolved</strong> - We detected an issue that was inadvertently rate limiting ingestion for all customers. Our team has resolved the issue and confirmed ingestion latency has returned to normal levels.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Feb 2023 15:30:00 -0800</pubDate>
 <pubDate>Thu, 09 Feb 2023 15:30:00 -0800</pubDate>
 </item>
 <item>
@@ -165,10 +141,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/p2npg8r57rp5</link>
 <guid>https://status.rockset.com/incidents/p2npg8r57rp5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>04:06</var> PST</small><br /><strong>Resolved</strong> - We have managed to acquire the needed resources in the EU region that was impacted by the AWS instance shortage.</p><p><small>Nov <var>22</var>, <var>03:00</var> PST</small><br /><strong>Identified</strong> - Rockset is currently experiencing difficulties in allocating new machines from AWS. This is likely due to the Black Friday event. Customers are advised to not scale down their Virtual Instances and work with our customer support if they need any Virtual Instances scaled up. We expect the situation to get back to normal early next week.</p>
 ]]></content:encoded>
-<pubDate>Tue, 22 Nov 2022 04:06:52 -0800</pubDate>
 <pubDate>Tue, 22 Nov 2022 04:06:52 -0800</pubDate>
 </item>
 <item>
@@ -176,10 +150,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/dhstnmymwq18</link>
 <guid>https://status.rockset.com/incidents/dhstnmymwq18</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>13</var>, <var>22:30</var> PST</small><br /><strong>Resolved</strong> - We saw elevated API request latency and timeout errors in our us-west-2 cluster during the time window between 1:30am and 8:30am PST. This issue is now resolved.</p>
 ]]></content:encoded>
-<pubDate>Sun, 13 Nov 2022 22:30:00 -0800</pubDate>
 <pubDate>Sun, 13 Nov 2022 22:30:00 -0800</pubDate>
 </item>
 <item>
@@ -187,10 +159,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/xzg2v30qsd32</link>
 <guid>https://status.rockset.com/incidents/xzg2v30qsd32</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>12</var>, <var>09:00</var> PDT</small><br /><strong>Resolved</strong> - A small number of customers experienced query errors in use1a1 from 16:10 UTC (9:10 PST) -> 16:45 UTC (9:45 PST).<br />The changes causing this have been rolled back.</p>
 ]]></content:encoded>
-<pubDate>Wed, 12 Oct 2022 09:00:00 -0700</pubDate>
 <pubDate>Wed, 12 Oct 2022 09:00:00 -0700</pubDate>
 </item>
 <item>
@@ -198,10 +168,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/69n9jzz4sj6j</link>
 <guid>https://status.rockset.com/incidents/69n9jzz4sj6j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>16</var>, <var>16:22</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>16</var>, <var>15:27</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and the fix is rolling out</p><p><small>Aug <var>16</var>, <var>15:25</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Aug 2022 16:22:40 -0700</pubDate>
 <pubDate>Tue, 16 Aug 2022 16:22:40 -0700</pubDate>
 </item>
 <item>
@@ -209,10 +177,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/9jy4x868mw57</link>
 <guid>https://status.rockset.com/incidents/9jy4x868mw57</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 9</var>, <var>01:50</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var> 9</var>, <var>00:54</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var> 8</var>, <var>23:52</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Aug 2022 01:50:12 -0700</pubDate>
 <pubDate>Tue, 09 Aug 2022 01:50:12 -0700</pubDate>
 </item>
 <item>
@@ -220,10 +186,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/4g9mftj7srcg</link>
 <guid>https://status.rockset.com/incidents/4g9mftj7srcg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 4</var>, <var>11:00</var> PDT</small><br /><strong>Resolved</strong> - Starting at 18:20 GMT we saw in increase in 403s happening for requests.<br />Incident resolved 19:09 at GMT.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Aug 2022 11:00:00 -0700</pubDate>
 <pubDate>Thu, 04 Aug 2022 11:00:00 -0700</pubDate>
 </item>
 <item>
@@ -231,10 +195,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/xfhp3scbk9bh</link>
 <guid>https://status.rockset.com/incidents/xfhp3scbk9bh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 6</var>, <var>18:30</var> PDT</small><br /><strong>Resolved</strong> - On 2022-04-07 between 01:37 - 01:52 UTC users may have seen an elevated number of 5xx responses when querying rockset.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Apr 2022 18:30:00 -0700</pubDate>
 <pubDate>Wed, 06 Apr 2022 18:30:00 -0700</pubDate>
 </item>
 <item>
@@ -242,10 +204,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/zt9lplm8cl53</link>
 <guid>https://status.rockset.com/incidents/zt9lplm8cl53</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>31</var>, <var>19:44</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>31</var>, <var>19:06</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>31</var>, <var>15:40</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 31 Mar 2022 19:44:24 -0700</pubDate>
 <pubDate>Thu, 31 Mar 2022 19:44:24 -0700</pubDate>
 </item>
 <item>
@@ -253,10 +213,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/23xjy74g3cd5</link>
 <guid>https://status.rockset.com/incidents/23xjy74g3cd5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>22:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>21:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>17</var>, <var>16:57</var> PST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled infrastructure upgrade for our internal systems that won't impact any of our critical operations. The following operations will continue to work as they normally do:<br />* Queries & Query Lambdas<br />    * In existing console sessions<br />    * From all clients through existing sessions with API Keys<br />* Ingest - from all existing data sources<br /><br />Note: Sessions end after 4 hours of inactivity for console and 24 hours for API Keys - if you need an active session please make sure you login within 4 hours or use your API Key less than 24 hours before the above time window.<br /><br />The following operations will be disabled during the 1 hour upgrade window:<br />* Collections<br />    * Create, Delete, List<br />* Aliases<br />    * Create, Delete, List, Update<br />*  Workspaces<br />    * Create, Delete, List<br />* Views<br />    * Create, Delete, List, Update<br />* Query Lambdas<br />    * Create, Delete, List, Update<br />* Integrations<br />    * Create, Delete, List<br />* Users<br />    * Create, Delete, List, Update preferences <br />* Roles<br />    * Create, Delete, List, Update<br />* API Keys<br />    * Create, Delete, List, Update<br />* New Network Security Policy Creation<br />* Virtual Instances<br />    * List, Update<br />* Authentication<br />    * New Logins to console.rockset.com (http://console.rockset.com/)<br />    * New Sessions with API Keys<br /><br />If you experiencing any issues or have any concerns please reach out to us at support@rockset.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 21 Feb 2022 22:00:30 -0800</pubDate>
 <pubDate>Mon, 21 Feb 2022 22:00:30 -0800</pubDate>
 </item>
 <item>
@@ -264,10 +222,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/pww27v1rkdg6</link>
 <guid>https://status.rockset.com/incidents/pww27v1rkdg6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 5</var>, <var>23:20</var> PST</small><br /><strong>Resolved</strong> - This issue is now resolved.</p><p><small>Jan <var> 5</var>, <var>22:20</var> PST</small><br /><strong>Identified</strong> - We have identified the issue and are working on remediation.</p><p><small>Jan <var> 5</var>, <var>21:32</var> PST</small><br /><strong>Investigating</strong> - We are noticing elevated API errors and investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 05 Jan 2022 23:20:00 -0800</pubDate>
 <pubDate>Wed, 05 Jan 2022 23:20:00 -0800</pubDate>
 </item>
 <item>
@@ -275,10 +231,8 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/66cw7wynf933</link>
 <guid>https://status.rockset.com/incidents/66cw7wynf933</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>06:14</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>15:05</var> PST</small><br /><strong>Monitoring</strong> - The us-east-1 cluster is now fully operational as the underlying AWS issue seems resolved.  We'll continue to monitor the status of the cluster.</p><p><small>Dec <var> 7</var>, <var>10:09</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and is currently being investigated by AWS https://status.aws.amazon.com/</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Dec 2021 06:14:11 -0800</pubDate>
 <pubDate>Wed, 08 Dec 2021 06:14:11 -0800</pubDate>
 </item>
 <item>
@@ -286,12 +240,9 @@ Summary: The incident has been resolved, and all regions have been updated and m
 <link>https://status.rockset.com/incidents/gf2j3164ls0s</link>
 <guid>https://status.rockset.com/incidents/gf2j3164ls0s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>31</var>, <var>16:21</var> PDT</small><br /><strong>Resolved</strong> - The AWS incident is closed and everything is back to normal operations.</p><p><small>Aug <var>31</var>, <var>14:51</var> PDT</small><br /><strong>Update</strong> - Auth0 has resolved their issue and authentication is back to normal.<br /><br />We are still waiting for the AWS resolution to the us-west-2a connectivity issue.</p><p><small>Aug <var>31</var>, <var>14:29</var> PDT</small><br /><strong>Update</strong> - The AWS outage is still in progress. We're continuing to monitor the progress.</p><p><small>Aug <var>31</var>, <var>13:05</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented for the ingestion issues and we are monitoring the results.</p><p><small>Aug <var>31</var>, <var>12:23</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>31</var>, <var>12:23</var> PDT</small><br /><strong>Update</strong> - We identified one of the availability zones in us-west-2 has problems with outbound internet connections, so we have rerouted traffic through another availability zone, which have resolved the ingestion errors we previously had.<br /><br />There are still Auth0 authentication issues, as they experiencing similar issues.<br /><br />We will continue to monitor the status of the services.</p><p><small>Aug <var>31</var>, <var>12:07</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue and the impact it has for our customers.</p><p><small>Aug <var>31</var>, <var>11:29</var> PDT</small><br /><strong>Investigating</strong> - AWS is having reliability issues in us-west-2, and we're investigating the impact on our services:<br /><br />From the AWS status page:<br />We are investigating an issue which is affecting network traffic for some customers using AWS services in the US-WEST-2 Region.</p>
 ]]></content:encoded>
 <pubDate>Tue, 31 Aug 2021 16:21:09 -0700</pubDate>
-<pubDate>Tue, 31 Aug 2021 16:21:09 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

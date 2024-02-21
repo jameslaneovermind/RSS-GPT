@@ -4,6 +4,7 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+
 <item>
 <title>Brownout: Deprecating Android Images</title>
 <link>https://status.circleci.com/incidents/gm2182fy0ry1</link>
@@ -15,17 +16,14 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <p><strong>THIS IS A SCHEDULED EVENT Sep <var>18</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Sep <var>19</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:13</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
 <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-<pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Brownout: Deprecating Windows Images</title>
 <link>https://status.circleci.com/incidents/sftgq0rr40ss</link>
 <guid>https://status.circleci.com/incidents/sftgq0rr40ss</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Sep <var>18</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Sep <var>19</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:41</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Windows images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />windows-server-2019:201908-06<br />windows-server-2019:201908-08<br />windows-server-2019-vs2019:201908-02<br />windows-server-2019-vs2019:201908-06<br />windows-server-2019-vs2019:201909-25<br />windows-server-2019-vs2019:201911-06<br />windows-server-2022-gui:2022.04.1<br />windows-server-2022-gui:2022.07.1<br />windows-server-2022-gui:2022.08.1<br />windows-server-2022-gui:2022.09.1<br />windows-server-2022-gui:2023.03.1<br />windows-server-2022-gui:2023.04.1<br />windows-server-2022-gui:2023.06.1<br />windows-server-2022-gui:2023.07.1<br />windows-server-2022-gui:2023.09.1<br />windows-server-2022-gui:2023.11.1<br />windows-server-2019-nvidia:201908-28<br />windows-server-2019-nvidia:201909-25<br />windows-server-2019-nvidia:201911-06<br /><br /><br />For more information on Windows image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/windows-image-deprecations-and-eol-for-2024/50179</p>
 ]]></content:encoded>
-<pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
 <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/h1kn19j4f4qx</link>
 <guid>https://status.circleci.com/incidents/h1kn19j4f4qx</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Sep <var>17</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Sep <var>18</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:05</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/2b56kq8lm63k</link>
 <guid>https://status.circleci.com/incidents/2b56kq8lm63k</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Sep <var>17</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Sep <var>18</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/d8y3lmm693xn</link>
 <guid>https://status.circleci.com/incidents/d8y3lmm693xn</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Aug <var>28</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Aug <var>29</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/f14j38d8ghsv</link>
 <guid>https://status.circleci.com/incidents/f14j38d8ghsv</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Aug <var>28</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Aug <var>29</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/801xyql1xxdd</link>
 <guid>https://status.circleci.com/incidents/801xyql1xxdd</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Jul <var>31</var>, <var>00:00</var> UTC &nbsp;-&nbsp; Aug <var>1</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:41</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Windows images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />windows-server-2019:201908-06<br />windows-server-2019:201908-08<br />windows-server-2019-vs2019:201908-02<br />windows-server-2019-vs2019:201908-06<br />windows-server-2019-vs2019:201909-25<br />windows-server-2019-vs2019:201911-06<br />windows-server-2022-gui:2022.04.1<br />windows-server-2022-gui:2022.07.1<br />windows-server-2022-gui:2022.08.1<br />windows-server-2022-gui:2022.09.1<br />windows-server-2022-gui:2023.03.1<br />windows-server-2022-gui:2023.04.1<br />windows-server-2022-gui:2023.06.1<br />windows-server-2022-gui:2023.07.1<br />windows-server-2022-gui:2023.09.1<br />windows-server-2022-gui:2023.11.1<br />windows-server-2019-nvidia:201908-28<br />windows-server-2019-nvidia:201909-25<br />windows-server-2019-nvidia:201911-06<br /><br /><br />For more information on Windows image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/windows-image-deprecations-and-eol-for-2024/50179</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
 <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/jpb7gdljpc3d</link>
 <guid>https://status.circleci.com/incidents/jpb7gdljpc3d</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Jun <var>25</var>, <var>13:00</var> - <var>23:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:12</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 13:00:00 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/3rl05sc92xpm</link>
 <guid>https://status.circleci.com/incidents/3rl05sc92xpm</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Jun <var>25</var>, <var>01:00</var> - <var>11:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:12</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 01:00:00 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/z7cs1p9lns37</link>
 <guid>https://status.circleci.com/incidents/z7cs1p9lns37</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>28</var>, <var>14:00</var> - <var>22:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:00:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/lkmvv9l7z9r6</link>
 <guid>https://status.circleci.com/incidents/lkmvv9l7z9r6</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>28</var>, <var>14:00</var> - <var>22:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:00:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/xkbv3x9ms555</link>
 <guid>https://status.circleci.com/incidents/xkbv3x9ms555</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>28</var>, <var>02:00</var> - <var>10:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 02:00:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/xz553xpjjt68</link>
 <guid>https://status.circleci.com/incidents/xz553xpjjt68</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>28</var>, <var>02:00</var> - <var>10:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 02:00:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/tdlgcvwq3605</link>
 <guid>https://status.circleci.com/incidents/tdlgcvwq3605</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>30</var>, <var>13:00</var> - <var>23:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:41</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Windows images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />windows-server-2019:201908-06<br />windows-server-2019:201908-08<br />windows-server-2019-vs2019:201908-02<br />windows-server-2019-vs2019:201908-06<br />windows-server-2019-vs2019:201909-25<br />windows-server-2019-vs2019:201911-06<br />windows-server-2022-gui:2022.04.1<br />windows-server-2022-gui:2022.07.1<br />windows-server-2022-gui:2022.08.1<br />windows-server-2022-gui:2022.09.1<br />windows-server-2022-gui:2023.03.1<br />windows-server-2022-gui:2023.04.1<br />windows-server-2022-gui:2023.06.1<br />windows-server-2022-gui:2023.07.1<br />windows-server-2022-gui:2023.09.1<br />windows-server-2022-gui:2023.11.1<br />windows-server-2019-nvidia:201908-28<br />windows-server-2019-nvidia:201909-25<br />windows-server-2019-nvidia:201911-06<br /><br /><br />For more information on Windows image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/windows-image-deprecations-and-eol-for-2024/50179</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 13:00:00 +0000</pubDate>
 <pubDate>Tue, 30 Apr 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/7drlr75rqw7m</link>
 <guid>https://status.circleci.com/incidents/7drlr75rqw7m</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>30</var>, <var>01:00</var> - <var>11:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:40</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Windows images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />windows-server-2019:201908-06<br />windows-server-2019:201908-08<br />windows-server-2019-vs2019:201908-02<br />windows-server-2019-vs2019:201908-06<br />windows-server-2019-vs2019:201909-25<br />windows-server-2019-vs2019:201911-06<br />windows-server-2022-gui:2022.04.1<br />windows-server-2022-gui:2022.07.1<br />windows-server-2022-gui:2022.08.1<br />windows-server-2022-gui:2022.09.1<br />windows-server-2022-gui:2023.03.1<br />windows-server-2022-gui:2023.04.1<br />windows-server-2022-gui:2023.06.1<br />windows-server-2022-gui:2023.07.1<br />windows-server-2022-gui:2023.09.1<br />windows-server-2022-gui:2023.11.1<br />windows-server-2019-nvidia:201908-28<br />windows-server-2019-nvidia:201909-25<br />windows-server-2019-nvidia:201911-06<br /><br /><br />For more information on Windows image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/windows-image-deprecations-and-eol-for-2024/50179</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 01:00:00 +0000</pubDate>
 <pubDate>Tue, 30 Apr 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/jn3287w2w4dy</link>
 <guid>https://status.circleci.com/incidents/jn3287w2w4dy</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>25</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>26</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:12</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 20:00:00 +0000</pubDate>
 <pubDate>Mon, 25 Mar 2024 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/kgc73k567vx0</link>
 <guid>https://status.circleci.com/incidents/kgc73k567vx0</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>25</var>, <var>13:00</var> - <var>17:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:12</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 13:00:00 +0000</pubDate>
 <pubDate>Mon, 25 Mar 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/7fk9zz5fv157</link>
 <guid>https://status.circleci.com/incidents/7fk9zz5fv157</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>25</var>, <var>07:00</var> - <var>11:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:12</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Android images on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />android:202102-01<br />android:2021.12.1<br />android:2022.01.1<br />android:2022.03.1<br />android:2022.04.1<br />android:2022.06.1<br />android:2022.06.2<br />android:2022.07.1<br />android:2022.08.1<br />android:2022.09.1<br />android:2023.03.1<br />android:2023.04.1<br />android:2023.06.1<br />android:2023.07.1<br />android:2023.09.1<br />android:2023.11.1<br /><br />For more information on Android image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/android-image-deprecations-and-eol-for-2024/50180</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Mon, 25 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/5fv56ghjtgh6</link>
 <guid>https://status.circleci.com/incidents/5fv56ghjtgh6</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>5</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 20:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/m04y1p0l3f3n</link>
 <guid>https://status.circleci.com/incidents/m04y1p0l3f3n</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>5</var>, <var>00:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 20:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/12xdkp5jmg4q</link>
 <guid>https://status.circleci.com/incidents/12xdkp5jmg4q</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>13:00</var> - <var>17:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 13:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/wf9nv7pjvh61</link>
 <guid>https://status.circleci.com/incidents/wf9nv7pjvh61</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>13:00</var> - <var>17:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 13:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/54hzq8678s51</link>
 <guid>https://status.circleci.com/incidents/54hzq8678s51</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>07:00</var> - <var>11:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>17:52</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Remote Docker images on CircleCI and will be removing them from our platform on Sept 30, 2024:  <br /><br />docker-17.05.0-ce<br />docker-17.06.0-ce<br />docker-17.06.1-ce<br />docker-17.07.0-ce<br />docker-17.09.0-ce<br />docker-17.10.0-ce<br />docker-17.11.0-ce<br />docker-17.12.0-ce<br />docker-17.12.1-ce<br />docker-18.01.0-ce<br />docker-18.02.0-ce<br />docker-18.03.0-ce<br />docker-18.03.1-ce<br />docker-18.04.0-ce<br />docker-18.05.0-ce<br />docker-18.06.0-ce<br />docker-18.09.3<br />docker-19.03.8<br />docker-17.03.0-ce<br />docker-19.03.12<br />docker-19.03.13<br />docker-19.03.14<br />docker-20.10.2<br />docker-20.10.6<br />docker-20.10.7<br />docker-20.10.11<br />docker-20.10.12<br />docker-20.10.14<br />docker-20.10.17<br />docker-20.10.18<br />docker-20.10.23<br /><br />For more information on Remote Docker image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/remote-docker-image-deprecations-and-eol-for-2024/50176</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/8n328w1sd149</link>
 <guid>https://status.circleci.com/incidents/8n328w1sd149</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>07:00</var> - <var>11:00</var> UTC</strong></p><p><small>Jan <var>19</var>, <var>18:04</var> UTC</small><br /><strong>Scheduled</strong> - We are conducting brownouts for the following Linux images, for both ARM64 and AMD64, on CircleCI and will be removing them from our platform on Sept 30, 2024:<br /><br />ubuntu-2004:202008-01<br />ubuntu-2004:202010-01<br />ubuntu-2004:202011-01<br />ubuntu-2004:202101-01<br />ubuntu-2004:202104-01<br />ubuntu-2004:202107-01<br />ubuntu-2004:202107-02<br />ubuntu-2004:202111-01<br />ubuntu-2004:202201-01<br />ubuntu-2004:202201-02<br />ubuntu-2004:2022.04.1<br />ubuntu-2004:2022.04.2<br />ubuntu-2004:2022.07.1<br />ubuntu-2004:2023.04.1<br />ubuntu-2204:2022.04.1<br />ubuntu-2204:2022.04.2<br />ubuntu-2204:2022.07.1<br />ubuntu-2204:2022.07.2<br />ubuntu-2204:2022.10.1<br />ubuntu-2204:2023.04.1<br />ubuntu-2204:2023.07.2<br /><br /><br />For more information on Linux image deprecation, please refer to this Discuss post:<br /><br />https://discuss.circleci.com/t/linux-image-deprecations-and-eol-for-2024/50177</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@ CircleCI will be conducting brownouts for certain Android images and removing th
 <link>https://status.circleci.com/incidents/tkb0bphx55sj</link>
 <guid>https://status.circleci.com/incidents/tkb0bphx55sj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>17:34</var> UTC</small><br /><strong>Resolved</strong> - We are no longer seeing a queue for job starts. We will mark this as resolved.</p><p><small>Feb <var>14</var>, <var>17:13</var> UTC</small><br /><strong>Monitoring</strong> - We are currently seeing job start times recover. We will continue to monitor.</p><p><small>Feb <var>14</var>, <var>16:50</var> UTC</small><br /><strong>Investigating</strong> - We are currently seeing a delay in jobs starting. We are currently investigating.</p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Feb 2024 17:34:37 +0000</pubDate>
-<pubDate>Wed, 14 Feb 2024 17:34:37 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

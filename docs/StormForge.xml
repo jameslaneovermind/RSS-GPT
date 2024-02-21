@@ -4,15 +4,15 @@
 <title>StormForge Status - Incident History</title>
 <link>https://status.stormforge.io</link>
 
+
 <item>
 <title>Service Interruption for Some Tenants</title>
 <link>https://status.stormforge.io/incidents/3lmd0qscmq7f</link>
 <guid>https://status.stormforge.io/incidents/3lmd0qscmq7f</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigating Database Connectivity Issue <br><br> Summary: The company is currently investigating an issue with database connectivity that is impacting the ability to record recommendations into their cloud services for specific tenants. Service has been restored, and the situation is being monitored. <div>
+<div> [High] - Investigating Database Connectivity Issue <br /><br /> Summary: The company is currently investigating an issue with database connectivity that is impacting the ability to record recommendations into their cloud services for specific tenants. Service has been restored, and the situation is being monitored. <div>
 <p><small>Nov <var> 9</var>, <var>17:01</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 9</var>, <var>16:24</var> EST</small><br /><strong>Update</strong> - Service has been restored. We continue to monitor the situation.</p><p><small>Nov <var> 9</var>, <var>16:14</var> EST</small><br /><strong>Update</strong> - .</p><p><small>Nov <var> 9</var>, <var>14:25</var> EST</small><br /><strong>Investigating</strong> - We are currently investigation an issue with database connectivity that is impacting the ability to record recommendations into our cloud services. This issue only impacts specific tenants.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Nov 2022 17:01:27 -0500</pubDate>
 <pubDate>Wed, 09 Nov 2022 17:01:27 -0500</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.stormforge.io/incidents/8mkktd1zsbx0</link>
 <guid>https://status.stormforge.io/incidents/8mkktd1zsbx0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 4</var>, <var>10:44</var> EDT</small><br /><strong>Resolved</strong> - We determined the issue and were able to resolve a process that was intermittently impacting application capabilities.</p><p><small>Nov <var> 4</var>, <var>10:28</var> EDT</small><br /><strong>Investigating</strong> - StormForge has detected degradation with a service and is actively investigating. Customers may experience an issue with receiving recommendations for their containers during this time.</p>
 ]]></content:encoded>
-<pubDate>Fri, 04 Nov 2022 10:44:17 -0400</pubDate>
 <pubDate>Fri, 04 Nov 2022 10:44:17 -0400</pubDate>
 </item>
 <item>
@@ -31,12 +29,9 @@
 <link>https://status.stormforge.io/incidents/7l36vrlblq07</link>
 <guid>https://status.stormforge.io/incidents/7l36vrlblq07</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>11</var>, <var>11:00</var> EDT</small><br /><strong>Resolved</strong> - StormForge Application Services were intermittently unavailable from 11:00 EST to approximately 15:00 EST.</p>
 ]]></content:encoded>
 <pubDate>Tue, 11 Oct 2022 11:00:00 -0400</pubDate>
-<pubDate>Tue, 11 Oct 2022 11:00:00 -0400</pubDate>
 </item>
-
 </channel>
 </rss>

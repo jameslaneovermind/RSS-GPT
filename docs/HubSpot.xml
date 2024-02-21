@@ -4,6 +4,7 @@
 <title>HubSpot Status - Incident History</title>
 <link>https://status.hubspot.com</link>
 
+
 <item>
 <title>HubSpot is currently unavailable for some customers.</title>
 <link>https://status.hubspot.com/incidents/fy5mzxcl499k</link>
@@ -15,17 +16,14 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <p><small>Feb <var>15</var>, <var>15:45</var> EST</small><br /><strong>Resolved</strong> - HubSpot is now working for all users. HubSpot experienced brief service disruptions from 10:15 to 10:35 AM EST (UTC-5), and 11:53 AM to 12:00 PM EST, affecting HubSpot CRM, Marketing, Sales, and Service tools. All issues have been resolved. No data was lost, and no action is needed from your end. We apologize for any inconvenience this may have caused.</p><p><small>Feb <var>15</var>, <var>11:21</var> EST</small><br /><strong>Update</strong> - Earlier today, HubSpot had a brief service disruption from 10:15 to 10:35 AM ET (UTC-5), affecting Marketing, Sales, Service, and CRM tools. We've resolved this issue, and we're monitoring the situation for stability. No data was lost, and no action is needed from you. We apologize for any inconvenience this may have caused.</p><p><small>Feb <var>15</var>, <var>10:47</var> EST</small><br /><strong>Monitoring</strong> - HubSpot was unavailable for some users from 10:15 to 10:35 AM ET (UTC -5). Our team has identified and resolved the root cause of this issue. We are now monitoring the situation.</p><p><small>Feb <var>15</var>, <var>10:42</var> EST</small><br /><strong>Update</strong> - HubSpot is currently unavailable for some users. We're investigating the cause of this issue, and we'll update this page when we have more information.</p><p><small>Feb <var>15</var>, <var>10:31</var> EST</small><br /><strong>Investigating</strong> - HubSpot is currently unavailable for some users. We're investigating the cause of this issue, and we'll update this page when we have more information.</p>
 ]]></content:encoded>
 <pubDate>Thu, 15 Feb 2024 15:45:07 -0500</pubDate>
-<pubDate>Thu, 15 Feb 2024 15:45:07 -0500</pubDate>
 </item>
 <item>
 <title>Notification links were blocked on the Chrome browser for some users</title>
 <link>https://status.hubspot.com/incidents/5qzybgjnb81s</link>
 <guid>https://status.hubspot.com/incidents/5qzybgjnb81s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>13:13</var> EST</small><br /><strong>Resolved</strong> - Between 1:25 PM EST (UTC -05:00) on Jan 16, 2024 and 12:45 PM EST (UTC -05:00) on Jan 18, 2024, some customers experienced issues with Notification links. These links were being blocked on the Chrome browser preventing users from reaching the link destination. As of 12:45 PM EST (UTC -05:00) on Jan 18, 2024, Notification links on the Chrome browser are working properly and the incident has been fully resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 13:13:32 -0500</pubDate>
 <pubDate>Thu, 18 Jan 2024 13:13:32 -0500</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/frszbzgtpn3l</link>
 <guid>https://status.hubspot.com/incidents/frszbzgtpn3l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 4</var>, <var>16:31</var> EST</small><br /><strong>Resolved</strong> - Between 1:40 PM EST (UTC -05:00) and 4:06 PM EST (UTC -05:00) on Jan 4, 2024, some customers experienced issues with Workflows. This caused the "enroll existing records" choice to not enroll records as expected. We have identified and fixed the underlying cause of this issue.<br />As of 4:06 PM EST the "enroll existing records" choice is working correctly for newly enabled or edited workflows. All previously impacted workflows will be processed automatically without actions needed from customers. To avoid records being enrolled twice, please do not manually retry workflows.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Jan 2024 16:31:45 -0500</pubDate>
 <pubDate>Thu, 04 Jan 2024 16:31:45 -0500</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/t4xqj64yqy5b</link>
 <guid>https://status.hubspot.com/incidents/t4xqj64yqy5b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>19</var>, <var>09:17</var> EST</small><br /><strong>Resolved</strong> - Between 7:45 AM EST on Dec 15, 2023 and 9:38 AM EST on Dec 18, 2023, some customers experienced issues with Notifications. This was caused by an issue with our delivery system. As of 9:38 AM EST on Dec 18, 2023, Notifications is working properly, no data was lost and some important notifications have been resent. The incident has been fully resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Dec 2023 09:17:00 -0500</pubDate>
 <pubDate>Tue, 19 Dec 2023 09:17:00 -0500</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/l9ptcrg21384</link>
 <guid>https://status.hubspot.com/incidents/l9ptcrg21384</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>20:06</var> EST</small><br /><strong>Resolved</strong> - We've identified and addressed the cause of the delays in updates to published pages that began at 3:47 PM EST (UTC -05:00) on Dec 18, 2023. The issue is now fully resolved.</p><p><small>Dec <var>18</var>, <var>19:38</var> EST</small><br /><strong>Identified</strong> - We’ve identified an issue that is causing delays in updates to published pages beginning at 3:47 PM EST (UTC -05:00) on Dec 18, 2023. We’re addressing the cause of this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 20:06:44 -0500</pubDate>
 <pubDate>Mon, 18 Dec 2023 20:06:44 -0500</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/94b0lpd0xgqm</link>
 <guid>https://status.hubspot.com/incidents/94b0lpd0xgqm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>22:05</var> EST</small><br /><strong>Resolved</strong> - Phone number acquisition and first time calling is available again for all European customers.</p><p><small>Dec <var> 7</var>, <var>19:07</var> EST</small><br /><strong>Update</strong> - Phone number acquisition and first time calling is unavailable right now for some European customers. We’ve identified the cause of this issue as an outage with Twilio, a cloud calling and messaging platform. <br /><br />A resolution is currently in progress, and we appreciate your patience. You can also monitor Twilio's status directly via this link: https://status.twilio.com/</p><p><small>Dec <var> 7</var>, <var>16:36</var> EST</small><br /><strong>Update</strong> - Phone number acquisition and first time calling is unavailable right now for some European customers. We’ve identified the cause of this issue as an outage with Twilio, a cloud calling and messaging platform. <br /><br />A resolution is currently in progress, and we appreciate your patience. You can also monitor Twilio's status directly via this link: https://status.twilio.com/</p><p><small>Dec <var> 7</var>, <var>13:07</var> EST</small><br /><strong>Update</strong> - Phone number acquisition and first time calling is unavailable right now for some European customers. We’ve identified the cause of this issue as an outage with Twilio, a cloud calling and messaging platform.<br /><br />A resolution is currently in progress, and we appreciate your patience. You can also monitor Twilio's status directly via this link: https://status.twilio.com/</p><p><small>Dec <var> 7</var>, <var>09:46</var> EST</small><br /><strong>Identified</strong> - HubSpot calling isn't available right now for some European customers. We’ve identified the cause of this issue as an outage with Twilio, a cloud calling and messaging platform. <br /><br />A resolution is currently in progress, and we appreciate your patience. You can also monitor Twilio's status directly via this link: https://status.twilio.com/</p><p><small>Dec <var> 7</var>, <var>06:04</var> EST</small><br /><strong>Investigating</strong> - HubSpot calling isn't available right now for some European customers. We’ve identified the cause of this issue as an outage with Twilio, a cloud calling and messaging platform.<br /><br />A resolution is currently in progress, and we appreciate your patience. You can also monitor Twilio's status directly via this link: https://status.twilio.com/</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 22:05:06 -0500</pubDate>
 <pubDate>Thu, 07 Dec 2023 22:05:06 -0500</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/xv3mxmhhhmx8</link>
 <guid>https://status.hubspot.com/incidents/xv3mxmhhhmx8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>10:08</var> EST</small><br /><strong>Resolved</strong> - We’ve identified the issue in the HubSpot Sales Chrome extension that caused high CPU usage for some users. The fixed version of the extension, 2.9.014344, has been published and available for update as of December 5, 5:55AM EST. Please update to the latest version of the extension to see resolution of this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 10:08:10 -0500</pubDate>
 <pubDate>Tue, 05 Dec 2023 10:08:10 -0500</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/2r937k4fmfzf</link>
 <guid>https://status.hubspot.com/incidents/2r937k4fmfzf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 4</var>, <var>14:30</var> EST</small><br /><strong>Resolved</strong> - Between 1:18 PM EST (UTC -05:00) on Dec 4, 2023 and 1:46 PM EST (UTC -05:00) on Dec 4, 2023, some customers experienced issues with sending emails from the CRM. This was caused by issues generating unsubscribe links. As of 1:46 PM EST on Dec 4, 2023, sending emails from the CRM is working properly and the incident has been fully resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Dec 2023 14:30:32 -0500</pubDate>
 <pubDate>Mon, 04 Dec 2023 14:30:32 -0500</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/ys5bqnf4qljd</link>
 <guid>https://status.hubspot.com/incidents/ys5bqnf4qljd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>30</var>, <var>12:55</var> EST</small><br /><strong>Resolved</strong> - HubSpot is now working for all users. We identified and addressed the root cause of the issue that prevented HubSpot from loading, and the issue is fully resolved. No data was lost.</p><p><small>Nov <var>30</var>, <var>09:41</var> EST</small><br /><strong>Monitoring</strong> - We've addressed the issue that prevented HubSpot from loading beginning at 8:45 AM EST (UTC -05:00) on Nov 30, 2023. We're monitoring performance closely to ensure the software recovers properly.</p><p><small>Nov <var>30</var>, <var>09:35</var> EST</small><br /><strong>Investigating</strong> - HubSpot is currently unavailable for some users. We're investigating the cause of this issue, and we'll update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Nov 2023 12:55:12 -0500</pubDate>
 <pubDate>Thu, 30 Nov 2023 12:55:12 -0500</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/m770sw6kp5x5</link>
 <guid>https://status.hubspot.com/incidents/m770sw6kp5x5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>27</var>, <var>20:21</var> EST</small><br /><strong>Resolved</strong> - Publishing images and video to LinkedIn is now fully accessible. We've identified and addressed the root cause of the issue. The incident has been fully resolved and Publishing images and video to LinkedIn should be working properly. No data was lost.</p><p><small>Nov <var>27</var>, <var>09:59</var> EST</small><br /><strong>Investigating</strong> - Image and video publishing to LinkedIn isn't available right now. We're investigating what's causing this issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 20:21:47 -0500</pubDate>
 <pubDate>Mon, 27 Nov 2023 20:21:47 -0500</pubDate>
 </item>
 <item>
@@ -121,10 +103,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/dr12m7qj9t06</link>
 <guid>https://status.hubspot.com/incidents/dr12m7qj9t06</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>15:03</var> EST</small><br /><strong>Resolved</strong> - CMS and calling are now fully accessible and the account review banners have been removed. We've identified and addressed the root cause of the issue. The incident has been fully resolved and CMS and calling should be working properly. No data was lost.</p><p><small>Nov <var>16</var>, <var>13:19</var> EST</small><br /><strong>Identified</strong> - We've identified the issue that's caused some customers to see account review banners and some features like Calling and CMS to be unavailable since 11:57 AM EST (UTC -05:00) on Nov 16, 2023. We're addressing the cause of this issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 15:03:26 -0500</pubDate>
 <pubDate>Thu, 16 Nov 2023 15:03:26 -0500</pubDate>
 </item>
 <item>
@@ -132,10 +112,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/lg88ddlfc8xr</link>
 <guid>https://status.hubspot.com/incidents/lg88ddlfc8xr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>17:20</var> EST</small><br /><strong>Resolved</strong> - Generative AI features are now fully accessible. The OpenAI outage has been resolved, and all systems are now fully operational. Generative AI features should be working properly. No data was lost.<br /><br />See the OpenAI incident report here: https://status.openai.com/incidents/21vl32gvx3hb</p><p><small>Nov <var> 8</var>, <var>16:15</var> EST</small><br /><strong>Monitoring</strong> - Our vendor is monitoring an issue that caused Generative AI features to be unavailable since 3:00 PM EST (UTC -05:00) on Nov 8, 2023. We're monitoring performance closely to ensure the tools recover properly.<br /><br />See the OpenAI incident report here: https://status.openai.com/incidents/21vl32gvx3hb</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 17:20:25 -0500</pubDate>
 <pubDate>Thu, 09 Nov 2023 17:20:25 -0500</pubDate>
 </item>
 <item>
@@ -143,10 +121,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/c13m4z22g7n6</link>
 <guid>https://status.hubspot.com/incidents/c13m4z22g7n6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>10:52</var> EST</small><br /><strong>Resolved</strong> - Generative AI features are now fully accessible. The OpenAI outage has been resolved, and all systems are now fully operational. Generative AI features should be working properly. No data was lost.<br /><br />See the OpenAI incident report here: https://status.openai.com/incidents/00fpy0yxrx1q</p><p><small>Nov <var> 8</var>, <var>10:38</var> EST</small><br /><strong>Monitoring</strong> - Our vendor is monitoring an issue that caused Generative AI features to be unavailable since 8:54 AM EST (UTC -05:00) on Nov 8, 2023. We're monitoring performance closely to ensure the tools recover properly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 10:52:34 -0500</pubDate>
 <pubDate>Wed, 08 Nov 2023 10:52:34 -0500</pubDate>
 </item>
 <item>
@@ -154,10 +130,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/gk73xp13btj2</link>
 <guid>https://status.hubspot.com/incidents/gk73xp13btj2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 6</var>, <var>13:18</var> EST</small><br /><strong>Resolved</strong> - Navigation is now fully accessible. We've identified and addressed the root cause of the issue. The incident has been fully resolved and Navigation should be working properly. No data was lost.</p><p><small>Nov <var> 6</var>, <var>13:10</var> EST</small><br /><strong>Investigating</strong> - Navigation isn't available right now. We're investigating what's causing this issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 13:18:23 -0500</pubDate>
 <pubDate>Mon, 06 Nov 2023 13:18:23 -0500</pubDate>
 </item>
 <item>
@@ -165,10 +139,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/kzdfznmk9p8b</link>
 <guid>https://status.hubspot.com/incidents/kzdfznmk9p8b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>10:45</var> EDT</small><br /><strong>Resolved</strong> - Lists data is now fully correct for all customers, including those on the EU data center. We've identified and addressed the root cause of the issue. The incident has been fully resolved and lists, as well as workflows and emails that rely on lists, should be working properly.<br /><br />The impact was limited to customers on the EU data center, customers can confirm if they are on the EU data center by reviewing this article. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions</p><p><small>Oct <var>31</var>, <var>21:19</var> EDT</small><br /><strong>Monitoring</strong> - We've addressed the issue that caused lists data to be incorrect for customers on the EU data center since 4:00 PM EDT (UTC -04:00) on Oct 31, 2023. You can confirm if you are on the EU data center by reviewing this article. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions<br /><br />Workflow enrollment was paused for customers on the EU data center from 7:20 PM EDT to 9:10 PM EDT. Workflow enrollments from 4:00 PM EDT to 7:20 PM EDT may have been incorrect. <br /><br />Batch email sends were paused for customers on the EU data center from 8:10 PM EDT to 9:18 PM EDT. Batch email sends from 4:00 PM EDT to 8:10 PM EDT may have been incorrect. Other email types were sent continuously.<br /><br />We're monitoring performance closely to make sure the tools recover properly.</p><p><small>Oct <var>31</var>, <var>20:40</var> EDT</small><br /><strong>Update</strong> - We've identified the issue that's caused lists data to be incorrect for customers on the EU data center since 4:00 PM EDT (UTC -04:00) on Oct 31, 2023. You can confirm if you are on the EU data center by reviewing this article. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions<br /><br />Workflow enrollment for customers on the EU data center was paused starting at at 7:20 PM EDT to limit impact. Batch email sends were paused for customers on the EU data center starting at 8:10 PM EDT. Other email types will still be sent.<br /><br />CRM objects may not be visible from CRM index pages and form submissions may not be visible in HubSpot for some customers on the EU data center.<br /><br />We're addressing the cause of this issue and will update this page when we have more information.</p><p><small>Oct <var>31</var>, <var>20:19</var> EDT</small><br /><strong>Update</strong> - We've identified the issue that's caused lists data to be incorrect for customers on the EU data center since 4:00 PM EDT (UTC -04:00) on Oct 31, 2023. You can confirm if you are on the EU data center by reviewing this article. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions<br /><br />Workflow enrollment for customers on the EU data center was paused starting at at 7:20 PM EDT to limit impact. Batch email sends were paused for customers on the EU data center starting at 8:10 PM EDT. Other email types will still be sent.<br /><br />We're addressing the cause of this issue and will update this page when we have more information.</p><p><small>Oct <var>31</var>, <var>19:32</var> EDT</small><br /><strong>Update</strong> - We've identified the issue that's caused lists data to be incorrect for customers on the EU data center since 4:00 PM EDT (UTC -04:00) on Oct 31, 2023. <br /><br />We have temporarily paused workflow enrollment for customers on the EU data center to limit impact starting at 7:20 PM EDT. Please pause email sends to help limit impact. You can confirm if you are on the EU data center by reviewing this article. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions<br /><br />We are addressing the cause of this issue and will update this page when we have more information.</p><p><small>Oct <var>31</var>, <var>19:29</var> EDT</small><br /><strong>Identified</strong> - We've identified the issue that's caused lists data to be unavailable since 4:00 PM EDT (UTC -04:00) on Oct 31, 2023. We're addressing the cause of this issue and will update this page when we have more information. You can confirm if you are on the EU data center by following the article here. https://knowledge.hubspot.com/account/hubspot-cloud-infrastructure-and-data-hosting-frequently-asked-questions <br /><br />Please pause email sends and workflows if you are in the EU to limit impact.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Nov 2023 10:45:21 -0400</pubDate>
 <pubDate>Wed, 01 Nov 2023 10:45:21 -0400</pubDate>
 </item>
 <item>
@@ -176,10 +148,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/046tx0vt96jl</link>
 <guid>https://status.hubspot.com/incidents/046tx0vt96jl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>17:01</var> EDT</small><br /><strong>Resolved</strong> - HubSpot is now working for all users. We identified and addressed the root cause of the issue that prevented HubSpot from loading, and the issue is fully resolved.</p><p><small>Oct <var>30</var>, <var>16:38</var> EDT</small><br /><strong>Monitoring</strong> - We've addressed the issue that's been preventing HubSpot software from loading since 3:55 PM EDT (UTC -04:00) on Oct 30, 2023. HubSpot and HubSpot CMS pages are available for all customers.</p><p><small>Oct <var>30</var>, <var>16:38</var> EDT</small><br /><strong>Identified</strong> - We've addressed the issue that's been preventing HubSpot software from loading since 3:55 PM EDT (UTC -04:00) on Oct 30, 2023. HubSpot and HubSpot CMS pages are available for all customers.</p><p><small>Oct <var>30</var>, <var>16:22</var> EDT</small><br /><strong>Update</strong> - A Cloudflare outage has caused HubSpot to be unavailable for all users and HubSpot CMS websites to be degraded since 3:56 PM EDT (UTC -04:00) on Oct 30, 2023. We're working with Cloudflare to monitor and address the cause of this issue. You can find Cloudflare's status page here https://www.cloudflarestatus.com/</p><p><small>Oct <var>30</var>, <var>16:08</var> EDT</small><br /><strong>Investigating</strong> - HubSpot is currently unavailable for all users. We're investigating the cause of this issue, and we'll update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 17:01:05 -0400</pubDate>
 <pubDate>Mon, 30 Oct 2023 17:01:05 -0400</pubDate>
 </item>
 <item>
@@ -187,10 +157,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/mzlfpql1x6yh</link>
 <guid>https://status.hubspot.com/incidents/mzlfpql1x6yh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>24</var>, <var>17:17</var> EDT</small><br /><strong>Resolved</strong> - From Oct 16, 2023 to Oct 24, 2023, some customers experienced marketing email delivery issues to Outlook. As of 10:00 AM (UTC -04:00) EDT Oct 24, 2023, newly sent marketing emails should be delivered properly. For customers who had soft-bounced email sends, we won’t be re-sending emails to those contacts. If you wish to re-send emails to those contacts, you can create a list from the “Bounced” emails under the “Recipients” from your email, and re-send the email to this list following these instructions: https://knowledge.hubspot.com/email/how-do-i-resend-an-email.</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Oct 2023 17:17:00 -0400</pubDate>
 <pubDate>Tue, 24 Oct 2023 17:17:00 -0400</pubDate>
 </item>
 <item>
@@ -198,10 +166,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/ryrqj726nfmr</link>
 <guid>https://status.hubspot.com/incidents/ryrqj726nfmr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>20</var>, <var>13:15</var> EDT</small><br /><strong>Resolved</strong> - Calling quality issues on MacOs Sonoma & Chrome are now resolved. We've identified and addressed the root cause of the issue. The incident has been fully resolved and Calling should be working properly for affected users. No data was lost.</p><p><small>Oct <var>20</var>, <var>12:51</var> EDT</small><br /><strong>Identified</strong> - We've discovered that some users who have upgraded to MacOS Sonoma and using Google Chrome for calling are experiencing degraded call quality. <br /><br />If the user has already upgraded to Sonoma, we recommend using a non-chromium browser like Mozilla FireFox, or using the "Call my Phone" option. <br /><br />We're investigating the cause of this issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 20 Oct 2023 13:15:32 -0400</pubDate>
 <pubDate>Fri, 20 Oct 2023 13:15:32 -0400</pubDate>
 </item>
 <item>
@@ -209,10 +175,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/lflcr418pqq0</link>
 <guid>https://status.hubspot.com/incidents/lflcr418pqq0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>19</var>, <var>14:34</var> EDT</small><br /><strong>Resolved</strong> - Workflow enrollments are no longer experiencing delays. The issue is now fully resolved and all previously delayed workflows have gone through enrollments as expected.</p><p><small>Oct <var>19</var>, <var>13:13</var> EDT</small><br /><strong>Update</strong> - We’ve identified the cause of the workflow enrollment delay. We’re actively addressing the cause of this issue and will update this page  when we have more information.</p><p><small>Oct <var>19</var>, <var>12:51</var> EDT</small><br /><strong>Investigating</strong> - Starting around 11:20am ET, some workflow enrollments have been delayed. We're investigating the cause of the issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 19 Oct 2023 14:34:10 -0400</pubDate>
 <pubDate>Thu, 19 Oct 2023 14:34:10 -0400</pubDate>
 </item>
 <item>
@@ -220,10 +184,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/0dtc1my0mrv9</link>
 <guid>https://status.hubspot.com/incidents/0dtc1my0mrv9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>17</var>, <var>11:53</var> EDT</small><br /><strong>Resolved</strong> - New contacts created through Forms are now correctly being marked as marketing contacts. We've identified and addressed the root cause of the issue. The incident has been fully resolved and should be working properly. No data has been lost. We are updating any contacts that were not set correctly.</p><p><small>Oct <var>17</var>, <var>11:26</var> EDT</small><br /><strong>Investigating</strong> - New contacts created through Forms are now correctly being marked as marketing contacts. We've identified and addressed the root cause of the issue. The incident has been fully resolved and should be working properly. No data has been lost. We are updating any contacts that were not set correctly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Oct 2023 11:53:44 -0400</pubDate>
 <pubDate>Tue, 17 Oct 2023 11:53:44 -0400</pubDate>
 </item>
 <item>
@@ -231,10 +193,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/1tmp1rv4fp16</link>
 <guid>https://status.hubspot.com/incidents/1tmp1rv4fp16</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 6</var>, <var>09:53</var> EDT</small><br /><strong>Resolved</strong> - The intermittent serverless function outages that occurred on October 5th, 2023 have now been resolved.</p><p><small>Oct <var> 5</var>, <var>12:28</var> EDT</small><br /><strong>Investigating</strong> - There have been two intermittent serverless function outages on October 5th, 2023. The first outage occurred from 5:50 AM EST to 6:24 AM EST, and the second incident took place from 11:21 AM EST to 11:34 AM EST. During both of these outages, all serverless function executions failed. We are currently investigating the root cause.</p>
 ]]></content:encoded>
-<pubDate>Fri, 06 Oct 2023 09:53:12 -0400</pubDate>
 <pubDate>Fri, 06 Oct 2023 09:53:12 -0400</pubDate>
 </item>
 <item>
@@ -242,10 +202,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/nj2wpvddv6v1</link>
 <guid>https://status.hubspot.com/incidents/nj2wpvddv6v1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 2</var>, <var>14:04</var> EDT</small><br /><strong>Resolved</strong> - Between 11:49 PM EDT (UTC -04:00) on Sep 28, 2023 and 3:00 PM EDT (UTC -04:00) on Oct 1, 2023, some customers experienced marketing email delivery issues to certain email service providers. This was caused by an update to our email-sending infrastructure. As of 3:00 PM EDT (UTC -04:00) on Oct 1, 2023, newly sent marketing emails should be delivered properly and the incident has been fully resolved. For customers who had soft-bounced email sends, we won't be re-sending emails to those contacts. If you wish to re-send emails to those contacts, you can create a list from the "Bounced" emails under the "Recipients" from your email, and re-send the email to this list following these instructions https://knowledge.hubspot.com/email/how-do-i-resend-an-email.</p>
 ]]></content:encoded>
-<pubDate>Mon, 02 Oct 2023 14:04:58 -0400</pubDate>
 <pubDate>Mon, 02 Oct 2023 14:04:58 -0400</pubDate>
 </item>
 <item>
@@ -253,10 +211,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/hyxy6ns0rxxx</link>
 <guid>https://status.hubspot.com/incidents/hyxy6ns0rxxx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>21</var>, <var>13:15</var> EDT</small><br /><strong>Resolved</strong> - Google Workspace has identified and addressed the issue affecting Google Calendar. The incident has been fully resolved and calendar availability and calendar connections are working properly. No data was lost.<br /><br />As part of this incident, notifications were sent to HubSpot users of impacted calendars letting them know that someone tried to book time with them. Since these meetings were not automatically booked, these users should reach out to their contact(s) to confirm their meeting time.<br /><br />Additionally, prospects may not have received reminder emails for upcoming meetings. Reminders from this timeframe will not be sent retroactively, however, future reminder emails will now be sent as expected.<br /><br />Google Workspace Update: https://www.google.com/appsstatus/dashboard/incidents/7uJZ5F1Uy4n1n74iMacQ</p><p><small>Sep <var>21</var>, <var>12:27</var> EDT</small><br /><strong>Update</strong> - Google Workspace is monitoring the fix to an issue affecting Google Calendar that caused meeting availability and new calendar connections to be unavailable for some users since 9:30 AM EDT (UTC -04:00) on Sep 21, 2023. While this issue should be resolved for some users, we are continuing to check progress with Google Workspace until the issue is fully resolved. Customers who are having issues loading their calendar may be able to fix this by refreshing their browser.<br /><br />Google Workspace Status Page: https://www.google.com/appsstatus/dashboard/incidents/7uJZ5F1Uy4n1n74iMacQ</p><p><small>Sep <var>21</var>, <var>12:26</var> EDT</small><br /><strong>Monitoring</strong> - Google Workspace is monitoring the fix to an issue affecting Google Calendar that caused meeting availability and new calendar connections to be unavailable for some users since 9:30 AM EDT (UTC -04:00) on Sep 21, 2023. While this issue should be resolved for the majority of users, we are continuing to check progress with Google Workspace until the issue is fully resolved. Customers who are having issues loading their calendar may be able to fix this by refreshing their browser.<br /><br />Google Workspace Status Page: https://www.google.com/appsstatus/dashboard/incidents/7uJZ5F1Uy4n1n74iMacQ</p><p><small>Sep <var>21</var>, <var>11:42</var> EDT</small><br /><strong>Identified</strong> - Google Workspace has identified an issue affecting Google Calendar. It has caused meeting availability and new calendar connections to be unavailable for some users since 9:30 AM EDT (UTC -04:00) on Sep 21, 2023. We are monitoring progress with Google Workspace until the issue is resolved.<br /><br />Google Workspace Status Page: https://www.google.com/appsstatus/dashboard/incidents/7uJZ5F1Uy4n1n74iMacQ</p><p><small>Sep <var>21</var>, <var>11:10</var> EDT</small><br /><strong>Investigating</strong> - Some calendars are not showing correct availability when booking meetings. Some customers may see meeting requests instead of meetings being automatically booked. They may also experience errors when trying to connect a new calendar. We're investigating the issue and will update this page when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Sep 2023 13:15:29 -0400</pubDate>
 <pubDate>Thu, 21 Sep 2023 13:15:29 -0400</pubDate>
 </item>
 <item>
@@ -264,10 +220,8 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/m4zcprqm1c8h</link>
 <guid>https://status.hubspot.com/incidents/m4zcprqm1c8h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>20</var>, <var>11:11</var> EDT</small><br /><strong>Resolved</strong> - Page loading and login  is no longer experiencing delays. We've identified and addressed the cause of the delays that began at 10:18 AM EDT (UTC -04:00) on Sep 20, 2023 as a problem with an internal database. The issue is now fully resolved.</p><p><small>Sep <var>20</var>, <var>10:51</var> EDT</small><br /><strong>Monitoring</strong> - We've addressed the issue that was causing delayings in page loading and login delays of up to 3 minutes starting at 10:18 AM EDT (UTC -04:00) on Sep 20, 2023. We're monitoring the tools closely to ensure all processes recover properly.</p><p><small>Sep <var>20</var>, <var>10:40</var> EDT</small><br /><strong>Identified</strong> - We've identified the cause of delays to multiple HubSpot processes, including logins and page loading. Users may experience delays of up to 3 min since 10:18 AM EDT (UTC -04:00) on Sep 20, 2023. These delays may impact tools such as Calling, CRM, and Login in HubSpot. Our team is investigating the cause of this issue and will update this page when more information is available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Sep 2023 11:11:39 -0400</pubDate>
 <pubDate>Wed, 20 Sep 2023 11:11:39 -0400</pubDate>
 </item>
 <item>
@@ -275,12 +229,9 @@ Summary: HubSpot experienced brief service disruptions impacting CRM, Marketing,
 <link>https://status.hubspot.com/incidents/6q4knbjdsb8s</link>
 <guid>https://status.hubspot.com/incidents/6q4knbjdsb8s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>13</var>, <var>12:45</var> EDT</small><br /><strong>Resolved</strong> - Between 12:27 PM EDT (UTC -04:00) on Sep 13, 2023 and 12:30 PM EDT (UTC -04:00) on Sep 13, 2023, some customers experienced issues with HubSpot. This was caused by an internal system issue. As of 12:45 PM EDT (UTC -04:00) on Sep 13, 2023, HubSpot is working properly and the incident has been fully resolved.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Sep 2023 12:45:51 -0400</pubDate>
-<pubDate>Wed, 13 Sep 2023 12:45:51 -0400</pubDate>
 </item>
-
 </channel>
 </rss>

@@ -4,15 +4,15 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>JAMF Pro - Standard: 11.2.1 Upgrade for us-west-2</title>
 <link>https://status.jamf.com/incidents/fjldrc716r07</link>
 <guid>https://status.jamf.com/incidents/fjldrc716r07</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance Update <br><br>Summary: Scheduled maintenance for Jamf Cloud is currently in progress. The maintenance, which includes upgrades, is expected to be completed later today. <div>
+<div> [Medium] - Scheduled Maintenance Update <br /><br />Summary: Scheduled maintenance for Jamf Cloud is currently in progress. The maintenance, which includes upgrades, is expected to be completed later today. <div>
 <p><small>Feb <var>17</var>, <var>20:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:49</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 17th at 0700 UTC and running through February 17th at 2000 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 20:00:57 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 20:00:57 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.jamf.com/incidents/gfk63vz479tl</link>
 <guid>https://status.jamf.com/incidents/gfk63vz479tl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>18:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:48</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 17th at 0500 UTC and running through February 17th at 1800 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 18:00:56 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 18:00:56 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.jamf.com/incidents/qpxxzltz5bfv</link>
 <guid>https://status.jamf.com/incidents/qpxxzltz5bfv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>09:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>23:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:47</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 16th at 2300 UTC and running through February 17th at 0900 UTC. More information available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 09:01:00 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 09:01:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.jamf.com/incidents/8d146vnkvv0h</link>
 <guid>https://status.jamf.com/incidents/8d146vnkvv0h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>07:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>00:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:48</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 17th at 0000 UTC and running through February 17th at 0700 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 07:00:56 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 07:00:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.jamf.com/incidents/6pc2rp5cf6l9</link>
 <guid>https://status.jamf.com/incidents/6pc2rp5cf6l9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>15:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:46</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 16th 1500 UTC and running through February 17th at 0100 UTC. More information will be available on Jamf Nation here:<br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 01:00:57 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 01:00:57 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.jamf.com/incidents/hj42r0vgcrgn</link>
 <guid>https://status.jamf.com/incidents/hj42r0vgcrgn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>22:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>13:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>23:46</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on February 16th at 1300 UTC and running through February 16th at 2200 UTC. More information will be available on Jamf Nation here:<br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.2.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-2-1-now-available/ta-p/309749</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 22:00:57 +0000</pubDate>
 <pubDate>Fri, 16 Feb 2024 22:00:57 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.jamf.com/incidents/n9ydhwxpqzb2</link>
 <guid>https://status.jamf.com/incidents/n9ydhwxpqzb2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>22:29</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>15:32</var> UTC</small><br /><strong>Monitoring</strong> - We have finished the investigation and the remediation of the issue.   At this time we will continue to monitor the situation, thank you for everyone's patience and we apologize for any disruptions this might have caused.</p><p><small>Feb <var>12</var>, <var>13:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>12</var>, <var>02:14</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue that is affecting some Jamf Pro Premium Cloud customers hosted in the us-east-1 region. We will provide an update ASAP.</p><p><small>Feb <var>12</var>, <var>00:46</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>11</var>, <var>22:50</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>11</var>, <var>22:50</var> UTC</small><br /><strong>Investigating</strong> - An issue has been identified that is affecting some Jamf Pro Premium Cloud customers hosted in the us-east-1 region. We are working to resolve and will provide next update in 45 minutes.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 22:29:07 +0000</pubDate>
 <pubDate>Mon, 12 Feb 2024 22:29:07 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.jamf.com/incidents/p9jlq96m8406</link>
 <guid>https://status.jamf.com/incidents/p9jlq96m8406</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>11:21</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>11:21</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 9</var>, <var>11:20</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 9</var>, <var>11:19</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 9</var>, <var>09:17</var> UTC</small><br /><strong>Investigating</strong> - Due to an ongoing issue upgrading is not currently available for standard customers.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 11:21:16 +0000</pubDate>
 <pubDate>Fri, 09 Feb 2024 11:21:16 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.jamf.com/incidents/hztcjq8vb8gr</link>
 <guid>https://status.jamf.com/incidents/hztcjq8vb8gr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>18:32</var> UTC</small><br /><strong>Resolved</strong> - The small population of instances, as well as their respective load balancers, in London and Sydney should be back up and running fine at this time. Sorry for any inconveniences this has caused with the disruption to your production day.</p><p><small>Feb <var> 8</var>, <var>17:34</var> UTC</small><br /><strong>Identified</strong> - At this time we have identified the issue.  We have taken steps to resolve and we have just a few instances left in a degraded state.  These instances being down were caused by some changes to load balancers affecting a small number, (roughly 5%) in each region.</p><p><small>Feb <var> 8</var>, <var>15:22</var> UTC</small><br /><strong>Investigating</strong> - An issue has been identified that is affecting some Jamf Pro customers in the London region and Sydney region. We are working to resolve and will provide next update in 45 minutes.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 18:32:59 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 18:32:59 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.jamf.com/incidents/rg2xrjdly1kg</link>
 <guid>https://status.jamf.com/incidents/rg2xrjdly1kg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>22:45</var> UTC</small><br /><strong>Resolved</strong> - The incident affecting our cloud servers has been successfully resolved.  We have conducted a thorough review of our systems and will be conducting an internal investigation of the incident.  We understand the importance of our cloud services to your business operations, and we apologize again for any inconvenience this incident may have caused.</p><p><small>Feb <var> 5</var>, <var>06:42</var> UTC</small><br /><strong>Monitoring</strong> - We have completed applying the fix in the ap-northeast-1 and us-west-2 regions.  We are continuing to monitor for additional issues. Thank you for your patience.</p><p><small>Feb <var> 5</var>, <var>02:33</var> UTC</small><br /><strong>Update</strong> - We have completed applying the fix in the ap-southeast-2 region.  We are continuing to resolve issues in us-west-2, ap-northeast-1. Thank you for your patience.</p><p><small>Feb <var> 4</var>, <var>22:44</var> UTC</small><br /><strong>Update</strong> - We have found a small amount of customers that are affected in the ap-southeast-2 region that we are working on getting resolved. Thank you for your patience.</p><p><small>Feb <var> 3</var>, <var>17:36</var> UTC</small><br /><strong>Update</strong> - We have completed ap-southeast-2, eu-central-1, eu-west-2, us-east-1 regions.  We are continuing to resolve issues in us-west-2, ap-northeast-1. Thank you for your patience.</p><p><small>Feb <var> 2</var>, <var>22:38</var> UTC</small><br /><strong>Update</strong> - We recognize the significant impact this outage may have on your operations and sincerely apologize for the inconvenience. Please be assured that our team is fully committed and working tirelessly to resolve this issue promptly. We anticipate the current disruptions may continue well into the weekend, but we are making every effort to restore services to full capacity as quickly as possible. Your understanding and patience are greatly appreciated during this time.</p><p><small>Feb <var> 2</var>, <var>18:31</var> UTC</small><br /><strong>Update</strong> - We understand the critical role our cloud services play in your operations and sincerely apologize for the current inconvenience. Please be assured that we are fully committed to swiftly resolving this issue by deploying all necessary resources. Thank you for your understanding and patience.</p><p><small>Feb <var> 2</var>, <var>07:35</var> UTC</small><br /><strong>Update</strong> - While we continue to work to resolve this issue, we also have identified a small number of instances that may be temporarily unavailable in the regions marked as "partial outage"</p><p><small>Feb <var> 1</var>, <var>22:46</var> UTC</small><br /><strong>Update</strong> - Our team is actively working to resolve the issue and restore normal service as quickly as possible.  We have completed ap-northeast-1, we will update this thread as regions complete.  We apologize for the inconvenience.</p><p><small>Feb <var> 1</var>, <var>21:01</var> UTC</small><br /><strong>Update</strong> - Our team is actively working to resolve the issue and restore normal service as quickly as possible.  We apologize for the inconvenience.</p><p><small>Feb <var> 1</var>, <var>16:41</var> UTC</small><br /><strong>Update</strong> - We have a team dedicated to finding the root source of the issue.  We are close to identifying the source and will implement a fix as soon as possible.  We apologize for the inconvenience this caused over the last few days.</p><p><small>Feb <var> 1</var>, <var>11:39</var> UTC</small><br /><strong>Update</strong> - We continue to work towards a resolution of this issue.</p><p><small>Jan <var>31</var>, <var>12:17</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a resolution for this issue.</p><p><small>Jan <var>31</var>, <var>02:33</var> UTC</small><br /><strong>Identified</strong> - An issue has been identified affecting Jamf Pro Cloud:<br />- instance creations, updates, and deletes may fail<br />- some instances may see SSL errors<br /><br />Engineers have identified the issue and are working to resolve it as soon as possible</p>
 ]]></content:encoded>
-<pubDate>Tue, 06 Feb 2024 22:45:24 +0000</pubDate>
 <pubDate>Tue, 06 Feb 2024 22:45:24 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.jamf.com/incidents/s63z7ylzmrd9</link>
 <guid>https://status.jamf.com/incidents/s63z7ylzmrd9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>21:02</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 5</var>, <var>13:03</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>10:36</var> UTC</small><br /><strong>Scheduled</strong> - We will be conducting maintenance on Jamf School servers from 05 February 2024 22:00 JST (UTC+9) to 06 February 2024 06:00 JST (UTC+9). You may experience performance delays during this time.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Feb 2024 21:02:57 +0000</pubDate>
 <pubDate>Mon, 05 Feb 2024 21:02:57 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.jamf.com/incidents/s3cq20rx56t8</link>
 <guid>https://status.jamf.com/incidents/s3cq20rx56t8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 8</var>, <var>10:47</var> UTC</small><br /><strong>Scheduled</strong> - On Saturday, January 20th 2024 8AM UTC we will perform a scheduled maintenance on the infrastructure of Jamf School. We expect this to be a zero downtime maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 10:00:10 +0000</pubDate>
 <pubDate>Sat, 20 Jan 2024 10:00:10 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.jamf.com/incidents/jy8pz5d0m8b4</link>
 <guid>https://status.jamf.com/incidents/jy8pz5d0m8b4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>15:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>13:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 8</var>, <var>10:47</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Jan <var> 8</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - On Friday, January 19th 2024 1PM UTC we will perform a scheduled maintenance on the infrastructure of Jamf School. We expect this to be a zero downtime maintenance.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 15:00:13 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 15:00:13 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.jamf.com/incidents/c255b6fmx269</link>
 <guid>https://status.jamf.com/incidents/c255b6fmx269</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>10:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 8</var>, <var>10:45</var> UTC</small><br /><strong>Scheduled</strong> - On Friday, January 19th 2024 8AM UTC we will perform a scheduled maintenance on the infrastructure of Jamf School. We expect this to be a zero downtime maintenance.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 10:01:05 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 10:01:05 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.jamf.com/incidents/kfxqf5q1snlc</link>
 <guid>https://status.jamf.com/incidents/kfxqf5q1snlc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>10:28</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>15</var>, <var>08:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>12</var>, <var>10:28</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 10:28:57 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 10:28:57 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.jamf.com/incidents/c7vsrskcxvdm</link>
 <guid>https://status.jamf.com/incidents/c7vsrskcxvdm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>20:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 9</var>, <var>07:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:06</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 9th at 0700 UTC and running through December 9th at 2000 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 20:00:18 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 20:00:18 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.jamf.com/incidents/g8w0bcjp489l</link>
 <guid>https://status.jamf.com/incidents/g8w0bcjp489l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>18:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 9</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:05</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 9th at 0500 UTC and running through December 9th at 1800 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 18:00:47 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 18:00:47 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.jamf.com/incidents/24qrq8g1p8mr</link>
 <guid>https://status.jamf.com/incidents/24qrq8g1p8mr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>09:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 8</var>, <var>23:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:04</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 8th at 2300 UTC and running through December 9th at 0900 UTC. More information available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 09:00:39 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 09:00:39 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.jamf.com/incidents/2jqg797d3vd5</link>
 <guid>https://status.jamf.com/incidents/2jqg797d3vd5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>07:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 9</var>, <var>00:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:05</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 9th at 0000 UTC and running through December 9th at 0700 UTC. More information will be available on Jamf Nation here: <br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 07:00:08 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 07:00:08 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.jamf.com/incidents/67g16wtgftwj</link>
 <guid>https://status.jamf.com/incidents/67g16wtgftwj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 9</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 8</var>, <var>15:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:04</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 8th 1500 UTC and running through December 9th at 0100 UTC. More information will be available on Jamf Nation here:<br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Dec 2023 01:00:23 +0000</pubDate>
 <pubDate>Sat, 09 Dec 2023 01:00:23 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.jamf.com/incidents/79zhb05tb4jn</link>
 <guid>https://status.jamf.com/incidents/79zhb05tb4jn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>22:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 8</var>, <var>13:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>22:03</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on December 8th at 1300 UTC and running through December 8th at 2200 UTC. More information will be available on Jamf Nation here:<br />https://community.jamf.com/t5/release-info/jamf-pro-11-1-now-available/ta-p/303281<br />https://learn.jamf.com/bundle/jamf-pro-release-notes-11.1.1/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 22:01:38 +0000</pubDate>
 <pubDate>Fri, 08 Dec 2023 22:01:38 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.jamf.com/incidents/2pshd5bfbqbb</link>
 <guid>https://status.jamf.com/incidents/2pshd5bfbqbb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>21:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>21:27</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 21:57:02 +0000</pubDate>
 <pubDate>Wed, 06 Dec 2023 21:57:02 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.jamf.com/incidents/s3fbbzlhk418</link>
 <guid>https://status.jamf.com/incidents/s3fbbzlhk418</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>18:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>17:54</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 6</var>, <var>17:05</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 18:02:50 +0000</pubDate>
 <pubDate>Wed, 06 Dec 2023 18:02:50 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.jamf.com/incidents/ht8rmq73bkxc</link>
 <guid>https://status.jamf.com/incidents/ht8rmq73bkxc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>08:44</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 5</var>, <var>04:24</var> UTC</small><br /><strong>Update</strong> - While our team has completed the work to relieve the intermittent instability with some Jamf Pro services, we are continuing to monitor the situation and will issue updates as further information is available.</p><p><small>Dec <var> 5</var>, <var>01:06</var> UTC</small><br /><strong>Update</strong> - Our team is continuing to work to resolve the issues for the remaining customers. Please note, some may still experience intermittent instability with Jamf Pro services.<br /><br />We appreciate your patience as we finalize these fixes.</p><p><small>Dec <var> 4</var>, <var>19:19</var> UTC</small><br /><strong>Update</strong> - A large group of instances are back and operational at this time only a subset of customers remain in a degraded state.</p><p><small>Dec <var> 4</var>, <var>18:13</var> UTC</small><br /><strong>Update</strong> - We have identified a solution and are implementing this fix in a rolling fashion. In the meantime, if you are logged in you may be logged out of your Jamf Pro instance. This is currently isolated to a subset of our total hosting environment.</p><p><small>Dec <var> 4</var>, <var>08:55</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor and remediate impact to customers.</p><p><small>Dec <var> 4</var>, <var>03:40</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var> 4</var>, <var>03:13</var> UTC</small><br /><strong>Update</strong> - At this point the fix seems to be working, we will continue to monitor the restarts. <br /><br />We have begun to see some reports of Jamf Premium Cloud Customers in multiple regions that may be affected. These customers are being handles on a case by case basis.<br /><br />Our top priority is to ensure the stability and reliability of our services, and we are taking every precaution to address any unforeseen challenges that have arisen during the outage.</p><p><small>Dec <var> 3</var>, <var>22:24</var> UTC</small><br /><strong>Update</strong> - At this point the fix seems to be working, we will continue to monitor the restarts.  Our top priority is to ensure the stability and reliability of our services, and we are taking every precaution to address any unforeseen challenges that have arisen during the outage.</p><p><small>Dec <var> 3</var>, <var>20:43</var> UTC</small><br /><strong>Monitoring</strong> - At this we have implemented a fix, we will need to run a rolling restarts on all impacted regions for this to take effect.  Regions impacted APNE1, EUC1, USE1, USW2.  Those restarts are already kicked off and we anticipate this to be very low impact and completed over the next few hours.</p><p><small>Dec <var> 3</var>, <var>18:54</var> UTC</small><br /><strong>Update</strong> - We are continuing our efforts with all parties involved, and this continues to impact our servers.  We recognize the impact of this extended downtime may have on your business, and we sincerely apologize for any disruption this may be causing.</p><p><small>Dec <var> 3</var>, <var>17:38</var> UTC</small><br /><strong>Update</strong> - We have narrowed down the issue to a 3rd party, and we are actively in communication with them and our teams.  We will provide updates hourly as we progress to resolve the issue.</p><p><small>Dec <var> 3</var>, <var>08:54</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 3</var>, <var>08:47</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 3</var>, <var>08:00</var> UTC</small><br /><strong>Investigating</strong> - An issue has been identified that is affecting some Jamf Pro customers.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 08:44:49 +0000</pubDate>
 <pubDate>Tue, 05 Dec 2023 08:44:49 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.jamf.com/incidents/pw8q55lxmml1</link>
 <guid>https://status.jamf.com/incidents/pw8q55lxmml1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>16:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>16:05</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var>28</var>, <var>21:55</var> UTC</small><br /><strong>Investigating</strong> - A service provider outage in us-east-1 is affecting Jamf Protect service in this region. Customers may see delays in updated computer and alert information in the console.</p>
 ]]></content:encoded>
 <pubDate>Wed, 29 Nov 2023 16:06:36 +0000</pubDate>
-<pubDate>Wed, 29 Nov 2023 16:06:36 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

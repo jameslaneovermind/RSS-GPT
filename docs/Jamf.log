@@ -31,3 +31,9 @@ Append: [Jamf Pro Partial Outage](https://status.jamf.com/incidents/ht8rmq73bkxc
 Append: [Jamf Protect degraded performance in us-east-1](https://status.jamf.com/incidents/pw8q55lxmml1)
 append_entries: 25
 Finish: 2024-02-21 16:24:40.049489
+------------------------------------------------------
+Started: 2024-02-21 16:44:26.466826
+Existing_entries: 25
+Fetching from https://status.jamf.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:26.668175

@@ -4,15 +4,15 @@
 <title>Wix Status - Incident History</title>
 <link>https://status.wix.com</link>
 
+
 <item>
 <title>RESOLVED: Communication with Customer Care is temporarily unavailable</title>
 <link>https://status.wix.com/incidents/vhp1tcvbmync</link>
 <guid>https://status.wix.com/incidents/vhp1tcvbmync</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Identified Issue <br><br> Summary: The company has identified an issue and is currently working on implementing a fix for the issue. <div>
+<div> [Medium] - Identified Issue <br /><br /> Summary: The company has identified an issue and is currently working on implementing a fix for the issue. <div>
 <p><small>Feb <var>20</var>, <var>15:38</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>15:36</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>20</var>, <var>15:21</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>20</var>, <var>15:20</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 15:38:33 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 15:38:33 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.wix.com/incidents/rk0npszw8l2v</link>
 <guid>https://status.wix.com/incidents/rk0npszw8l2v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>04:44</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>19</var>, <var>23:59</var> UTC</small><br /><strong>Monitoring</strong> - We are currently closing the delay for orders. We are monitoring the situation.</p><p><small>Feb <var>19</var>, <var>21:38</var> UTC</small><br /><strong>Update</strong> - A fix has been implemented as to the root cause of the delay. We are working towards closing the delay now</p><p><small>Feb <var>19</var>, <var>19:03</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>19</var>, <var>18:13</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating an issue affecting delayed orders showing in dashboard. Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 04:44:29 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 04:44:29 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.wix.com/incidents/5s7xqfmq53fv</link>
 <guid>https://status.wix.com/incidents/5s7xqfmq53fv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>17:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We thank you for your patience and understanding as we worked to resolve this issue.</p><p><small>Feb <var>19</var>, <var>17:06</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>19</var>, <var>16:56</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>19</var>, <var>16:07</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>19</var>, <var>14:48</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 17:17:49 +0000</pubDate>
 <pubDate>Mon, 19 Feb 2024 17:17:49 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.wix.com/incidents/j7y34ys843j0</link>
 <guid>https://status.wix.com/incidents/j7y34ys843j0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>21:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>21:28</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>15</var>, <var>18:37</var> UTC</small><br /><strong>Identified</strong> - A fix is in progress, some of the TPAs connected to Wix may show duplicated events</p><p><small>Feb <var>15</var>, <var>18:20</var> UTC</small><br /><strong>Investigating</strong> - Some of the TPAs applications may experience issues.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 21:40:13 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 21:40:13 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.wix.com/incidents/gnpxznw5537m</link>
 <guid>https://status.wix.com/incidents/gnpxznw5537m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>11:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>11:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>14</var>, <var>11:06</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>14</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating an issue affecting live sites created on Wix Studio. Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 11:22:19 +0000</pubDate>
 <pubDate>Wed, 14 Feb 2024 11:22:19 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.wix.com/incidents/qy9gzg15htnf</link>
 <guid>https://status.wix.com/incidents/qy9gzg15htnf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>07:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>03:07</var> UTC</small><br /><strong>Investigating</strong> - This incident has been resolved. We thank you for your patience and understanding as we worked to resolve this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 07:35:26 +0000</pubDate>
 <pubDate>Wed, 14 Feb 2024 07:35:26 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.wix.com/incidents/5c4dstynwwt0</link>
 <guid>https://status.wix.com/incidents/5c4dstynwwt0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>11</var>, <var>17:07</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We thank you for your patience and understanding as we worked to resolve this issue.</p><p><small>Feb <var>11</var>, <var>16:57</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>11</var>, <var>16:56</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>11</var>, <var>16:29</var> UTC</small><br /><strong>Investigating</strong> - Some website owners may experience reduced performance with images loading on live site and editors.</p>
 ]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 17:07:05 +0000</pubDate>
 <pubDate>Sun, 11 Feb 2024 17:07:05 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.wix.com/incidents/tgp6rc90d87q</link>
 <guid>https://status.wix.com/incidents/tgp6rc90d87q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>18:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>18:31</var> UTC</small><br /><strong>Update</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>18:30</var> UTC</small><br /><strong>Update</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>18:30</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 8</var>, <var>17:55</var> UTC</small><br /><strong>Update</strong> - A fix have been implemented</p><p><small>Feb <var> 8</var>, <var>17:54</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 8</var>, <var>17:37</var> UTC</small><br /><strong>Investigating</strong> - Some website owners may experience reduced performance with images loading on live site and editors.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 18:32:43 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 18:32:43 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.wix.com/incidents/b5ljrzg5zpck</link>
 <guid>https://status.wix.com/incidents/b5ljrzg5zpck</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>14:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 7</var>, <var>13:58</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 7</var>, <var>13:45</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 14:17:46 +0000</pubDate>
 <pubDate>Wed, 07 Feb 2024 14:17:46 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.wix.com/incidents/sp2gb38ynxlx</link>
 <guid>https://status.wix.com/incidents/sp2gb38ynxlx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 4</var>, <var>18:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We thank you for your patience and understanding as we worked to resolve this issue.</p><p><small>Feb <var> 4</var>, <var>18:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 4</var>, <var>18:12</var> UTC</small><br /><strong>Investigating</strong> - Some website owners may experience issues on multiple services.</p>
 ]]></content:encoded>
-<pubDate>Sun, 04 Feb 2024 18:26:22 +0000</pubDate>
 <pubDate>Sun, 04 Feb 2024 18:26:22 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.wix.com/incidents/n2yv2n8trdqn</link>
 <guid>https://status.wix.com/incidents/n2yv2n8trdqn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>24</var>, <var>16:31</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>24</var>, <var>16:11</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Jan 2024 16:31:02 +0000</pubDate>
 <pubDate>Wed, 24 Jan 2024 16:31:02 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.wix.com/incidents/pkfcsxgbl04c</link>
 <guid>https://status.wix.com/incidents/pkfcsxgbl04c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>13:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>23</var>, <var>13:19</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>23</var>, <var>13:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 13:24:31 +0000</pubDate>
 <pubDate>Tue, 23 Jan 2024 13:24:31 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.wix.com/incidents/jxjtbl7tgrg4</link>
 <guid>https://status.wix.com/incidents/jxjtbl7tgrg4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>10:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>10:08</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>22</var>, <var>10:08</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>22</var>, <var>10:04</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 10:11:23 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 10:11:23 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.wix.com/incidents/ghkpflxnpdyf</link>
 <guid>https://status.wix.com/incidents/ghkpflxnpdyf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>16</var>, <var>17:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>16</var>, <var>17:12</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jan 2024 17:24:12 +0000</pubDate>
 <pubDate>Tue, 16 Jan 2024 17:24:12 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.wix.com/incidents/nt2y9g1y515r</link>
 <guid>https://status.wix.com/incidents/nt2y9g1y515r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 8</var>, <var>18:15</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>17:53</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 8</var>, <var>17:44</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 8</var>, <var>17:10</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating an issue affecting uploading media. Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 18:15:41 +0000</pubDate>
 <pubDate>Mon, 08 Jan 2024 18:15:41 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.wix.com/incidents/q699l79b2rbb</link>
 <guid>https://status.wix.com/incidents/q699l79b2rbb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 5</var>, <var>13:34</var> UTC</small><br /><strong>Resolved</strong> - The incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>13:29</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 13:34:20 +0000</pubDate>
 <pubDate>Fri, 05 Jan 2024 13:34:20 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.wix.com/incidents/5grt0dmtqy9h</link>
 <guid>https://status.wix.com/incidents/5grt0dmtqy9h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>16:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>15:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>13</var>, <var>15:42</var> UTC</small><br /><strong>Investigating</strong> - Some site visitors may experience issues on multiple services.<br />We are working to fix the issue</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 16:03:31 +0000</pubDate>
 <pubDate>Wed, 13 Dec 2023 16:03:31 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.wix.com/incidents/42x5x188mlvl</link>
 <guid>https://status.wix.com/incidents/42x5x188mlvl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>11</var>, <var>12:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>11</var>, <var>12:34</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>11</var>, <var>12:26</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>11</var>, <var>12:13</var> UTC</small><br /><strong>Investigating</strong> - Some website owners may experience issues on multiple services.<br />We are working on fixing the issue.<br />Stay tuned for updates.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 12:40:15 +0000</pubDate>
 <pubDate>Mon, 11 Dec 2023 12:40:15 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.wix.com/incidents/pl07rqqm9530</link>
 <guid>https://status.wix.com/incidents/pl07rqqm9530</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 6</var>, <var>17:53</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 6</var>, <var>15:28</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and our engineers are working out the best solution for the problem.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Dec 2023 17:53:20 +0000</pubDate>
 <pubDate>Wed, 06 Dec 2023 17:53:20 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.wix.com/incidents/cpch4x2n531p</link>
 <guid>https://status.wix.com/incidents/cpch4x2n531p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 4</var>, <var>00:10</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. We thank you for your patience and understanding as we worked to resolve this issue. In case your Editor is still not loading, please make sure to clear your browser cache, or use an incognito window.<br /><br />https://support.wix.com/en/article/clearing-your-browsers-cache</p><p><small>Dec <var> 3</var>, <var>19:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. In case your Editor is still not loading, please make sure to clear your browser cache, or use an incognito window.<br /><br />https://support.wix.com/en/article/clearing-your-browsers-cache</p><p><small>Dec <var> 3</var>, <var>19:07</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 3</var>, <var>18:44</var> UTC</small><br /><strong>Investigating</strong> - We are aware of the return of the original issue: some website owners may experience issues when accessing the website editor.</p><p><small>Dec <var> 3</var>, <var>12:20</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 3</var>, <var>07:04</var> UTC</small><br /><strong>Investigating</strong> - Some website owners may experience issues when accessing the website editor.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Dec 2023 00:10:05 +0000</pubDate>
 <pubDate>Mon, 04 Dec 2023 00:10:05 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.wix.com/incidents/zxf7d05v6z16</link>
 <guid>https://status.wix.com/incidents/zxf7d05v6z16</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>21</var>, <var>10:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>21</var>, <var>05:47</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating issues with Instagram feed not loading on live sites. <br />Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Nov 2023 10:22:14 +0000</pubDate>
 <pubDate>Tue, 21 Nov 2023 10:22:14 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.wix.com/incidents/jl2wps5mpljp</link>
 <guid>https://status.wix.com/incidents/jl2wps5mpljp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>19</var>, <var>13:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>19</var>, <var>13:34</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var>19</var>, <var>13:22</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating an issue affecting Wix Bookings services. <br />Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Sun, 19 Nov 2023 13:34:57 +0000</pubDate>
 <pubDate>Sun, 19 Nov 2023 13:34:57 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.wix.com/incidents/2zcgjt4169n7</link>
 <guid>https://status.wix.com/incidents/2zcgjt4169n7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>14</var>, <var>17:51</var> UTC</small><br /><strong>Resolved</strong> - This incident is now resolved. Thank you for your patience while we worked to resolve this issue.</p><p><small>Nov <var>14</var>, <var>17:08</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>14</var>, <var>16:31</var> UTC</small><br /><strong>Identified</strong> - The issue is identified and a fix is being worked on. Thank you for your patience while we work to resolve this issue.</p><p><small>Nov <var>14</var>, <var>16:18</var> UTC</small><br /><strong>Investigating</strong> - We're investigating a potential issue affecting multiple Wix Services</p>
 ]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 17:51:24 +0000</pubDate>
 <pubDate>Tue, 14 Nov 2023 17:51:24 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.wix.com/incidents/4zkn9gpf2byg</link>
 <guid>https://status.wix.com/incidents/4zkn9gpf2byg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>22:47</var> UTC</small><br /><strong>Resolved</strong> - This issue is now resolved. We thank you for your patience and understanding as we worked to resolve this issue.</p><p><small>Nov <var> 9</var>, <var>21:26</var> UTC</small><br /><strong>Update</strong> - The team is working with the DNS provider to resolve the issue. Until resolved we created a workaround in order for you to view the live site using a temporary free site URL https://account-name.wixsite.com/site-name. To access your free studio live site, please replace wixstudio.io with wixsite.com in the URL.<br /><br />You can continue to create, edit, and preview sites in the editor. Premium sites are not affected.</p><p><small>Nov <var> 9</var>, <var>20:23</var> UTC</small><br /><strong>Identified</strong> - We're investigating an issue with free wixstudio.io sites not loading, caused by a DNS error.  <br />The team is working on a workaround to view live free sites and with the DNS provider to resolve the issue.</p><p><small>Nov <var> 9</var>, <var>18:43</var> UTC</small><br /><strong>Investigating</strong> - Our engineers are currently investigating an issue affecting wixstudio.io sites. Check back here for updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 22:47:23 +0000</pubDate>
 <pubDate>Thu, 09 Nov 2023 22:47:23 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.wix.com/incidents/1lhhrmym1szm</link>
 <guid>https://status.wix.com/incidents/1lhhrmym1szm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>17:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. Thank you for your patience while we worked to resolve this issue.</p><p><small>Oct <var>30</var>, <var>16:25</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>30</var>, <var>16:10</var> UTC</small><br /><strong>Identified</strong> - Currently the issue is affecting our Customer Care call channel - help can still be provided through chats and postings.<br />The issue is identified and a fix is being worked on. Thank you for your patience while we work to resolve this issue.</p><p><small>Oct <var>30</var>, <var>15:52</var> UTC</small><br /><strong>Investigating</strong> - We’re working on it. <br />Subscribe to the issue to get notified when it’s resolved.</p>
 ]]></content:encoded>
 <pubDate>Mon, 30 Oct 2023 17:01:46 +0000</pubDate>
-<pubDate>Mon, 30 Oct 2023 17:01:46 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

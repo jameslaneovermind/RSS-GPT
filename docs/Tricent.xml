@@ -4,15 +4,15 @@
 <title>Tricent Operational Status Status - Incident History</title>
 <link>https://status.tricent.com</link>
 
+
 <item>
 <title>Scheduled maintenance work on app.tricent.com</title>
 <link>https://status.tricent.com/incidents/360kmp7cd2dp</link>
 <guid>https://status.tricent.com/incidents/360kmp7cd2dp</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance<br><br>Summary: Tricent will be performing maintenance on production servers to activate the latest security fixes and mitigations, potentially causing occasional outages for a few minutes. No action is required after the maintenance is completed. <div>
+<div> [Medium] - Scheduled Maintenance<br /><br />Summary: Tricent will be performing maintenance on production servers to activate the latest security fixes and mitigations, potentially causing occasional outages for a few minutes. No action is required after the maintenance is completed. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>09:00</var> - <var>12:00</var> CET</strong></p><p><small>Feb <var>15</var>, <var>16:05</var> CET</small><br /><strong>Scheduled</strong> - We at Tricent have of course a daily focus on IT security especially for our production systems. To activate the latest security fixes and mitigations we will do maintenance on our production servers. <br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 02-03-2024 at 09.00 and the following 3 hours - until 12.00.<br /><br />What does this mean to you?<br />During this time occasional outages of a few minutes can occur.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 02 Mar 2024 09:00:00 +0100</pubDate>
 <pubDate>Sat, 02 Mar 2024 09:00:00 +0100</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.tricent.com/incidents/1jk7n2ckzmjj</link>
 <guid>https://status.tricent.com/incidents/1jk7n2ckzmjj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 6</var>, <var>11:10</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 6</var>, <var>11:07</var> CET</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Jan <var> 6</var>, <var>11:06</var> CET</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Jan <var> 6</var>, <var>10:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 8</var>, <var>08:56</var> CET</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. This will allow us to improve the infrastructure of our application front end.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 6 January at 10:00 AM (CET) and the following 2 hours - until 12:00 AM.<br /><br />What does this mean to you?<br />During this period, the application (app.tricent.com) might not be available or give you a certificate error in your browser. In the case of a certificate error, we advise you not to continue but wait until our maintenance work is over.<br /><br />Once the maintenance work has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 06 Jan 2024 11:10:01 +0100</pubDate>
 <pubDate>Sat, 06 Jan 2024 11:10:01 +0100</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.tricent.com/incidents/vkj5fr7hd5td</link>
 <guid>https://status.tricent.com/incidents/vkj5fr7hd5td</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>11:12</var> CET</small><br /><strong>Resolved</strong> - Access has now been restored, but we continue to monitor the system closely.<br /><br />Once again we would like to apologize for any inconvenience caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us at support@tricent.com or +45 7071 3131.<br /><br />Best regards,<br />Tricent Support</p><p><small>Dec <var>12</var>, <var>10:50</var> CET</small><br /><strong>Identified</strong> - Access to Tricent for Microsoft 365 is currently unavailable.<br /><br />We are working to solve the issue and will return with an update no later than 12:00 PM (CET) today.<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 11:12:54 +0100</pubDate>
 <pubDate>Tue, 12 Dec 2023 11:12:54 +0100</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.tricent.com/incidents/sl7lph0cmzlg</link>
 <guid>https://status.tricent.com/incidents/sl7lph0cmzlg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>08:15</var> CET</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.<br /><br />Once again we would like to apologize for any inconvenience caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us at support@tricent.com or +45 7071 3131.<br /><br />Best regards,<br />Tricent Support</p><p><small>Dec <var>11</var>, <var>14:00</var> CET</small><br /><strong>Update</strong> - We are still pursuing the root of the problem and will return with an update no later than 09:00 AM (CET) Tuesday.<br /><br />Best regards,<br />Tricent Support</p><p><small>Dec <var>11</var>, <var>11:59</var> CET</small><br /><strong>Update</strong> - We are still pursuing the root of the problem and will return with an update no later than 14:00 (CET) today.<br /><br />Best regards,<br />Tricent Support</p><p><small>Dec <var>11</var>, <var>10:29</var> CET</small><br /><strong>Update</strong> - We are still pursuing the root of the problem and will return with an update no later than 12.00 (CET) today.<br /><br />We apologize for any inconvenience caused.   <br /><br />Best regards,<br />Tricent Support</p><p><small>Dec <var>11</var>, <var>09:09</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing interruptions updating data in app.tricent.com.<br /><br />We are working to identify the root of the problem and will return with new status no later than 10:30 AM (CET).<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 08:15:26 +0100</pubDate>
 <pubDate>Tue, 12 Dec 2023 08:15:26 +0100</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.tricent.com/incidents/0skpjsmyszt8</link>
 <guid>https://status.tricent.com/incidents/0skpjsmyszt8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>26</var>, <var>17:00</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>26</var>, <var>09:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>18</var>, <var>01:57</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. The window will allow us to work on our main production database to provide better performance and less downtime during future updates.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 26 August at 09:00 AM (CEST) and the following 8 hours - until 5:00 PM.<br /><br />What does this mean to you?<br />During the maintenance work, the application will be unavailable.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal (but improved) operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 26 Aug 2023 17:00:02 +0200</pubDate>
 <pubDate>Sat, 26 Aug 2023 17:00:02 +0200</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.tricent.com/incidents/wb31sctzhsd1</link>
 <guid>https://status.tricent.com/incidents/wb31sctzhsd1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>22</var>, <var>11:00</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>22</var>, <var>10:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var> 7</var>, <var>11:23</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. The window will allow us to work on our main production DB<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 22 July at 10:00 CET and the following 1 hour - until 11:00 CET<br /><br />What does this mean to you?<br />During this time the application might either be unavailable for a few minutes or reacting<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jul 2023 11:00:09 +0200</pubDate>
 <pubDate>Sat, 22 Jul 2023 11:00:09 +0200</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.tricent.com/incidents/qnclz25ctt8g</link>
 <guid>https://status.tricent.com/incidents/qnclz25ctt8g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>17</var>, <var>18:00</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>17</var>, <var>14:50</var> CEST</small><br /><strong>Update</strong> - Due to unforeseen circumstances the maintenance window is extended by 3 hours (until 18.00 CEST)</p><p><small>Jun <var>17</var>, <var>10:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>13</var>, <var>10:00</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule an emergency maintenance window. The window will allow us to optimize our infrastructure.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 17 June at 10:00 (CEST) and the following 5 hours - until 15:00 (CEST).<br /><br />What does this mean to you?<br />During the maintenance window, you will experience interruptions in accessing Tricent for Google Workspace.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Jun 2023 18:00:15 +0200</pubDate>
 <pubDate>Sat, 17 Jun 2023 18:00:15 +0200</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.tricent.com/incidents/jsngndljy3x0</link>
 <guid>https://status.tricent.com/incidents/jsngndljy3x0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 6</var>, <var>20:15</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 6</var>, <var>20:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>23</var>, <var>14:44</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. This will allow us to work on our main database in order to enhance our reporting capabilities.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Tuesday 6 June at 20:00 and the following 15 minutes - until 20:15.<br /><br />What does this mean to you?<br />During the maintenance window, you will experience interruptions in access to app.tricent.com.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Tue, 06 Jun 2023 20:15:05 +0200</pubDate>
 <pubDate>Tue, 06 Jun 2023 20:15:05 +0200</pubDate>
 </item>
 <item>
@@ -97,7 +83,6 @@
 <link>https://status.tricent.com/incidents/6k3wrbv9hhkf</link>
 <guid>https://status.tricent.com/incidents/6k3wrbv9hhkf</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>24</var>, <var>09:47</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.
 <br />
 <br />Once again we would like to apologize for any inconvenience caused by this incident.
@@ -108,17 +93,14 @@
 <br />Tricent Support</p><p><small>May <var>24</var>, <var>09:27</var> CEST</small><br /><strong>Investigating</strong> - We are currently experiencing interruptions on access to app.tricent.com.<br /><br />We are working to identify the root of the problem and will return with new status no later than 10:30 AM (CEST).<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Wed, 24 May 2023 09:47:11 +0200</pubDate>
-<pubDate>Wed, 24 May 2023 09:47:11 +0200</pubDate>
 </item>
 <item>
 <title>Emergency maintenance work - interruptions in app access</title>
 <link>https://status.tricent.com/incidents/b2jq64m9nltl</link>
 <guid>https://status.tricent.com/incidents/b2jq64m9nltl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>30</var>, <var>14:00</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>30</var>, <var>13:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>19</var>, <var>09:36</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule an emergency maintenance window. The window will allow us to work on our central database.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Sunday 30 April at 13:00 and the following 1 hour - until 14:00.<br /><br />What does this mean to you?<br />During the maintenance window, you may experience interruptions in your access to the Tricent for Google Workspace app.<br /><br />Once the work has been completed, there is no need for action on your end – the solution will return to normal operations.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sun, 30 Apr 2023 14:00:08 +0200</pubDate>
 <pubDate>Sun, 30 Apr 2023 14:00:08 +0200</pubDate>
 </item>
 <item>
@@ -126,10 +108,8 @@
 <link>https://status.tricent.com/incidents/qs2tww2gjbmp</link>
 <guid>https://status.tricent.com/incidents/qs2tww2gjbmp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>13</var>, <var>22:00</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>13</var>, <var>20:02</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var> 3</var>, <var>11:13</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule an emergency maintenance window. The window will allow us to update security features in our VM environment.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Thursday 13 April at 20.00 (CEST) and the following 2 hours - until 22.00.<br /><br />What does this mean to you?<br />During the maintenance window, you may experience interruptions in your access to the Tricent for Google Workspace app.<br /><br />Once the maintenance work has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Apr 2023 22:00:09 +0200</pubDate>
 <pubDate>Thu, 13 Apr 2023 22:00:09 +0200</pubDate>
 </item>
 <item>
@@ -137,10 +117,8 @@
 <link>https://status.tricent.com/incidents/y6hwbg0cgvzs</link>
 <guid>https://status.tricent.com/incidents/y6hwbg0cgvzs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>30</var>, <var>14:07</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.<br /><br />Once again we would like to apologize for any inconvenience caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us via support@tricent.com or +45 7071 3131.<br /><br />Best regards,<br />Tricent Support</p><p><small>Mar <var>30</var>, <var>12:28</var> CEST</small><br /><strong>Update</strong> - We are still pursuing the root of the problem and will return with a new status no later than 13:30 today.<br /><br />We apologize for any inconvenience caused.   <br /><br />Best regards,<br />Tricent Support</p><p><small>Mar <var>30</var>, <var>11:17</var> CEST</small><br /><strong>Investigating</strong> - We are currently experiencing interruptions on accessing app.tricent.com.<br /><br />We are working to identify the root of the problem and will return with status no later than 12:30.<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Mar 2023 14:07:12 +0200</pubDate>
 <pubDate>Thu, 30 Mar 2023 14:07:12 +0200</pubDate>
 </item>
 <item>
@@ -148,10 +126,8 @@
 <link>https://status.tricent.com/incidents/9rdgrf89f35k</link>
 <guid>https://status.tricent.com/incidents/9rdgrf89f35k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>00:00</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>12</var>, <var>00:00</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>14:27</var> CET</small><br /><strong>Scheduled</strong> - As part of our work to further improve our systems, we hereby schedule a maintenance window. The window will allow us to replace the core database backend, which handles the bulk of the Tricent for Microsoft 365 service.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Thursday, 12 January at 00:00 until Sunday, 5 February at 24:00.<br /><br />What does this mean to you?<br />During the maintenance window, you will not have access to Tricent for Microsoft 365, and no cleanup of shares will be carried out.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support at support@tricent.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Feb 2023 00:00:19 +0100</pubDate>
 <pubDate>Mon, 06 Feb 2023 00:00:19 +0100</pubDate>
 </item>
 <item>
@@ -159,7 +135,6 @@
 <link>https://status.tricent.com/incidents/l7b302rq08d0</link>
 <guid>https://status.tricent.com/incidents/l7b302rq08d0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>27</var>, <var>13:10</var> CET</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.
 <br />
 <br />Once again we would like to apologize for any inconvenience caused by this incident.
@@ -170,17 +145,14 @@
 <br />Tricent Support</p><p><small>Jan <var>27</var>, <var>13:04</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing interruptions on user access to app.tricent.com.<br /><br />We are working to identify the root of the problem and will return with a new status no later than 2:00 PM.<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Fri, 27 Jan 2023 13:10:01 +0100</pubDate>
-<pubDate>Fri, 27 Jan 2023 13:10:01 +0100</pubDate>
 </item>
 <item>
 <title>Emergency maintenance window - interruptions on access to app</title>
 <link>https://status.tricent.com/incidents/5541n45230s3</link>
 <guid>https://status.tricent.com/incidents/5541n45230s3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>17</var>, <var>14:42</var> CET</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>13:24</var> CET</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Dec <var>17</var>, <var>11:01</var> CET</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>15</var>, <var>15:01</var> CET</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our services, we hereby schedule an emergency maintenance window. The window will allow us to work on our production database.<br /><br />We apologize for any inconvenience caused by the work.<br /><br />When?<br />From Saturday 17 December at 11.00 AM (CET) and the following 6 hours - until 5.00 PM (CET).<br /><br />What does this mean to you?<br />During the maintenance window you will experience interruptions on access to app.tricent.com and preview.app.tricent.com.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any questions regarding the above, you are more than welcome to contact Tricent Support on support.tricent.com.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Dec 2022 14:42:13 +0100</pubDate>
 <pubDate>Sat, 17 Dec 2022 14:42:13 +0100</pubDate>
 </item>
 <item>
@@ -188,7 +160,6 @@
 <link>https://status.tricent.com/incidents/k8hb2xbhzxjv</link>
 <guid>https://status.tricent.com/incidents/k8hb2xbhzxjv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>14</var>, <var>16:28</var> CET</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.
 <br />
 <br />Once again we would like to apologize for any inconvenience caused by this incident.
@@ -199,17 +170,14 @@
 <br />Tricent Support</p><p><small>Nov <var>14</var>, <var>14:58</var> CET</small><br /><strong>Update</strong> - We continue to work on this issue.<br /><br />We will return with a new status no later than 5:00 PM today.</p><p><small>Nov <var>14</var>, <var>13:38</var> CET</small><br /><strong>Identified</strong> - Users are currently unable to log into app.tricent.com.<br /><br />We have identified the root of the problem and are working to recreate normal operations.<br /><br />We will return with a new status no later than 3:30 PM today.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Nov 2022 16:28:31 +0100</pubDate>
-<pubDate>Mon, 14 Nov 2022 16:28:31 +0100</pubDate>
 </item>
 <item>
 <title>Scheduled maintenance work</title>
 <link>https://status.tricent.com/incidents/jw1tfm29mlhg</link>
 <guid>https://status.tricent.com/incidents/jw1tfm29mlhg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>15</var>, <var>12:01</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>15</var>, <var>11:57</var> CEST</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Oct <var>15</var>, <var>11:01</var> CEST</small><br /><strong>Update</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>15</var>, <var>11:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>14</var>, <var>15:36</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. The window will allow us to work on core infrastructure, which handles all background tasks - among other services. <br /><br />We apologise for any inconveniences caused by the work.<br /><br />When?<br />From Saturday 15 October at 11:00 and the following 1 hour - until 12:00.<br /><br />What does this mean to you?<br />During the maintenance window you will experience login will be slow and might fail. We recommend that try again after 12:00.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any question regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 15 Oct 2022 12:01:38 +0200</pubDate>
 <pubDate>Sat, 15 Oct 2022 12:01:38 +0200</pubDate>
 </item>
 <item>
@@ -217,7 +185,6 @@
 <link>https://status.tricent.com/incidents/zynnvbg3pvdb</link>
 <guid>https://status.tricent.com/incidents/zynnvbg3pvdb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>26</var>, <var>16:10</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.
 <br />
 <br />Once again we would like to apologize for any inconvenience caused by this incident.
@@ -228,14 +195,12 @@
 <br />Tricent Support</p><p><small>Sep <var>26</var>, <var>14:30</var> CEST</small><br /><strong>Update</strong> - We are continuing to recreate normal operations.<br /><br />We will return with a new status no later than 4:00 PM today.</p><p><small>Sep <var>26</var>, <var>11:31</var> CEST</small><br /><strong>Identified</strong> - We have now identified the root of the problem and are working to recreate normal operations.<br /><br />We will return with a new status no later than 14.00 today.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Sep 2022 16:10:30 +0200</pubDate>
-<pubDate>Mon, 26 Sep 2022 16:10:30 +0200</pubDate>
 </item>
 <item>
 <title>Users unable to log into app.tricent.com</title>
 <link>https://status.tricent.com/incidents/l2ft6k2dzrgg</link>
 <guid>https://status.tricent.com/incidents/l2ft6k2dzrgg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>14</var>, <var>09:45</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.
 <br />
 <br />Once again we would like to apologize for any inconvenience caused by this incident.
@@ -246,17 +211,14 @@
 <br />Tricent Support</p><p><small>Sep <var>14</var>, <var>08:47</var> CEST</small><br /><strong>Identified</strong> - We have now identified the root of the problem and are working to recreate normal operations.<br /><br />We will return with a new status no later than 11:30 today.<br /><br />Best regards,<br />Tricent Support</p><p><small>Sep <var>14</var>, <var>08:31</var> CEST</small><br /><strong>Investigating</strong> - Users are currently unable to log into app.tricent.com.<br /><br />We are working to identify the root of the problem and will come back with status no later than 11:30.<br /><br />We apologize for any inconveniences caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Sep 2022 09:45:23 +0200</pubDate>
-<pubDate>Wed, 14 Sep 2022 09:45:23 +0200</pubDate>
 </item>
 <item>
 <title>Users may experience delays in information shown in app.tricent.com</title>
 <link>https://status.tricent.com/incidents/38xnndc67j80</link>
 <guid>https://status.tricent.com/incidents/38xnndc67j80</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 5</var>, <var>14:51</var> CEST</small><br /><strong>Resolved</strong> - This incident is now fully resolved.<br /><br />Once again we would like to apologize for any inconvenience caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us via support@tricent.com or +45 7071 3131<br /><br />Best regards,<br />Tricent Support</p><p><small>Sep <var> 5</var>, <var>13:42</var> CEST</small><br /><strong>Monitoring</strong> - Normal operations have now been restored, but we continue to monitor the database closely.<br /><br />We will come back with an update no later than 3:00 PM.<br /><br />Best regards,<br />Tricent Support</p><p><small>Sep <var> 5</var>, <var>09:17</var> CEST</small><br /><strong>Identified</strong> - We are currently carrying out urgent database work. Users may experience delays in the information shown in app.tricent.com.<br /><br />We will return with an update on the work no later than 3:00 PM.<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Sep 2022 14:51:56 +0200</pubDate>
 <pubDate>Mon, 05 Sep 2022 14:51:56 +0200</pubDate>
 </item>
 <item>
@@ -264,10 +226,8 @@
 <link>https://status.tricent.com/incidents/0mdvxgk5g5xv</link>
 <guid>https://status.tricent.com/incidents/0mdvxgk5g5xv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>28</var>, <var>13:10</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>28</var>, <var>13:08</var> CEST</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Aug <var>28</var>, <var>13:00</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>25</var>, <var>12:56</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. The window is requested by our 3rd party service provider and will impact our central databases.<br /><br />During the maintenance slot our systems might not be available, mainly visible to the end user as not being able to login into https://app.tricent.com/ <br /><br />We apologise for any inconveniences caused by the work.<br /><br />When?<br />From Sunday 28 August 2022 at 13:00 CEST and the following 1 hour.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any question regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sun, 28 Aug 2022 13:10:14 +0200</pubDate>
 <pubDate>Sun, 28 Aug 2022 13:10:14 +0200</pubDate>
 </item>
 <item>
@@ -275,10 +235,8 @@
 <link>https://status.tricent.com/incidents/9l0w7c22tv1b</link>
 <guid>https://status.tricent.com/incidents/9l0w7c22tv1b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>18</var>, <var>16:12</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.<br /><br />Once again we would like to apologize for any inconveniences caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us via support@tricent.com or +45 7071 3131<br /><br />Best regards,<br />Tricent Support</p><p><small>Aug <var>18</var>, <var>14:28</var> CEST</small><br /><strong>Update</strong> - Performance is back to normal after having deployed fixes, but we continue our work to identify root cause.<br /><br />We will return with status no later than 16:00 CEST.</p><p><small>Aug <var>18</var>, <var>13:02</var> CEST</small><br /><strong>Investigating</strong> - We are currently experiencing interruptions on our service for GWS<br /><br />We are working to identify the root of the problem and will come back with status no later than 14:30.<br /><br />We apologize for any inconveniences caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Aug 2022 16:12:33 +0200</pubDate>
 <pubDate>Thu, 18 Aug 2022 16:12:33 +0200</pubDate>
 </item>
 <item>
@@ -286,10 +244,8 @@
 <link>https://status.tricent.com/incidents/xd003bzbskm3</link>
 <guid>https://status.tricent.com/incidents/xd003bzbskm3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>20</var>, <var>14:58</var> CEST</small><br /><strong>Resolved</strong> - Normal operations have now been restored, but we continue to monitor the affected systems <br /><br />Once again we would like to apologize for any inconveniences caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us via support@tricent.com or +45 7071 3131<br /><br />Best regards,<br />Tricent Support</p><p><small>Jul <var>20</var>, <var>10:52</var> CEST</small><br /><strong>Update</strong> - We are working closely with Google to update all data and get back to normal operation.</p><p><small>Jul <var>20</var>, <var>07:00</var> CEST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jul <var>19</var>, <var>11:09</var> CEST</small><br /><strong>Update</strong> - We are still working to recreate normal operations.<br /><br />We will come back with an update no later than 15:00 PM today Tuesday.</p><p><small>Jul <var>19</var>, <var>08:33</var> CEST</small><br /><strong>Update</strong> - We are still working to recreate normal operations.<br /><br />We will come back with an update no later than 11:00 AM today Tuesday.</p><p><small>Jul <var>18</var>, <var>14:28</var> CEST</small><br /><strong>Update</strong> - We are still working to recreate normal operations.<br /><br />We will come back with an update no later than 16:30 PM today.</p><p><small>Jul <var>18</var>, <var>12:27</var> CEST</small><br /><strong>Update</strong> - We are still working to recreate normal operations.<br /><br />We will come back with a new status no later than 14:30 PM today.<br /><br />Best regards,<br />Tricent Support</p><p><small>Jul <var>18</var>, <var>11:25</var> CEST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>18</var>, <var>11:25</var> CEST</small><br /><strong>Update</strong> - We have now identified the root of the problem and are working to recreate normal operations.<br /><br />We will come back with a new status no later than 12:30 PM today.<br /><br />Best regards,<br />Tricent Support</p><p><small>Jul <var>18</var>, <var>10:02</var> CEST</small><br /><strong>Investigating</strong> - Users are currently unable to log into app.tricent.com.<br /><br />We are working to identify the root of the problem and will come back with status no later than 11:30.<br /><br />We apologize for any inconveniences caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Jul 2022 14:58:09 +0200</pubDate>
 <pubDate>Wed, 20 Jul 2022 14:58:09 +0200</pubDate>
 </item>
 <item>
@@ -297,10 +253,8 @@
 <link>https://status.tricent.com/incidents/x64jfdnvcbjs</link>
 <guid>https://status.tricent.com/incidents/x64jfdnvcbjs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>11</var>, <var>11:01</var> CEST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>11</var>, <var>10:10</var> CEST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>10</var>, <var>15:43</var> CEST</small><br /><strong>Scheduled</strong> - As part of our work to maintain and further improve our systems, we hereby schedule a maintenance window. The window will allow us to work on the Google Platforms main database. <br /><br />We apologise for any inconveniences caused by the work.<br /><br />When?<br />From Saturday 11 June at 10:00 CEST and the following 1 hour - until 11:00 CEST<br /><br />What does this mean to you?<br />During the maintenance window you will experience that the website on https://app.tricent.com/ might not be available and/or respond slowly.<br /><br />Once the maintenance window has been completed, there is no need for action on your end – the solution will return to normal operation.<br /><br />Questions?<br />If you have any question regarding the above, you are more than welcome to contact Tricent Support.</p>
 ]]></content:encoded>
-<pubDate>Sat, 11 Jun 2022 11:01:56 +0200</pubDate>
 <pubDate>Sat, 11 Jun 2022 11:01:56 +0200</pubDate>
 </item>
 <item>
@@ -308,12 +262,9 @@
 <link>https://status.tricent.com/incidents/hnym216z1t4n</link>
 <guid>https://status.tricent.com/incidents/hnym216z1t4n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>10</var>, <var>15:16</var> CEST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>10</var>, <var>15:16</var> CEST</small><br /><strong>Update</strong> - Normal operations have now been restored, but we continue to monitor the affected systems closely.<br /><br />Once again we would like to apologize for any inconveniences caused by this incident.<br /><br />If you have questions concerning the above, you are more than welcome to contact us via support@tricent.com or +45 7071 3131<br /><br />Best regards,<br />Tricent Support</p><p><small>Jun <var>10</var>, <var>12:11</var> CEST</small><br /><strong>Update</strong> - We are still pursuing the root of the problem and will come back with a new status no later than 15.00 today.<br /><br />We apologize for any inconvenience caused.   <br /><br />Best regards,<br />Tricent Support</p><p><small>Jun <var>10</var>, <var>09:55</var> CEST</small><br /><strong>Investigating</strong> - We are currently experiencing delays in processing email send-outs.<br /><br />We are working to identify the root cause of the problem and will get back with a status no later than 12:00<br /><br />We apologize for any inconvenience caused.<br /><br />Best regards,<br />Tricent Support</p>
 ]]></content:encoded>
 <pubDate>Fri, 10 Jun 2022 15:16:48 +0200</pubDate>
-<pubDate>Fri, 10 Jun 2022 15:16:48 +0200</pubDate>
 </item>
-
 </channel>
 </rss>

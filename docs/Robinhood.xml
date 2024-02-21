@@ -4,15 +4,15 @@
 <title>Robinhood Status - Incident History</title>
 <link>https://status.robinhood.com</link>
 
+
 <item>
 <title>Bank Transfers Issue</title>
 <link>https://status.robinhood.com/incidents/89lzf4qh2908</link>
 <guid>https://status.robinhood.com/incidents/89lzf4qh2908</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Transfer Issues Investigation <br><br> Summary: Robinhood is currently investigating reports of customers experiencing issues transferring money into the platform. They are working to resolve the issue as soon as possible. <div>
+<div> [Medium] - Transfer Issues Investigation <br /><br /> Summary: Robinhood is currently investigating reports of customers experiencing issues transferring money into the platform. They are working to resolve the issue as soon as possible. <div>
 <p><small>Apr <var>25</var>, <var>09:52</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>25</var>, <var>09:37</var> PDT</small><br /><strong>Investigating</strong> - We’re investigating reports that some customers are experiencing issues transferring money into Robinhood. We’re working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Apr 2022 09:52:57 -0700</pubDate>
 <pubDate>Mon, 25 Apr 2022 09:52:57 -0700</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.robinhood.com/incidents/vn6nvqdrfd9s</link>
 <guid>https://status.robinhood.com/incidents/vn6nvqdrfd9s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>29</var>, <var>16:59</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>29</var>, <var>16:45</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 29 Mar 2022 16:59:19 -0700</pubDate>
 <pubDate>Tue, 29 Mar 2022 16:59:19 -0700</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.robinhood.com/incidents/chz6vkgvhlkm</link>
 <guid>https://status.robinhood.com/incidents/chz6vkgvhlkm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>17</var>, <var>08:46</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>17</var>, <var>07:37</var> PDT</small><br /><strong>Investigating</strong> - We’re investigating reports that some customers are unable to request phone support. We’re working to resolve the issue as soon as possible. Please be aware that the option to email customer support is still available from the app.</p>
 ]]></content:encoded>
-<pubDate>Thu, 17 Mar 2022 08:46:57 -0700</pubDate>
 <pubDate>Thu, 17 Mar 2022 08:46:57 -0700</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.robinhood.com/incidents/9mrbdpdg4lgw</link>
 <guid>https://status.robinhood.com/incidents/9mrbdpdg4lgw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 4</var>, <var>08:55</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 4</var>, <var>07:32</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var> 4</var>, <var>07:16</var> PST</small><br /><strong>Investigating</strong> - We’re experiencing an issue that’s impacting options market data. We’re working to resolve this issue as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 04 Mar 2022 08:55:59 -0800</pubDate>
 <pubDate>Fri, 04 Mar 2022 08:55:59 -0800</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.robinhood.com/incidents/2klmxr5p72p6</link>
 <guid>https://status.robinhood.com/incidents/2klmxr5p72p6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>14:53</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>09:46</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 7</var>, <var>08:50</var> PST</small><br /><strong>Investigating</strong> - We’re investigating reports that some customers are experiencing issues transferring money in and out of Robinhood. We’re working to resolve this as soon as possible.<br /><br />We’re investigating reports that customers are having trouble linking their bank accounts. We’re working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Dec 2021 14:53:49 -0800</pubDate>
 <pubDate>Tue, 07 Dec 2021 14:53:49 -0800</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.robinhood.com/incidents/qc20jpkvpvqm</link>
 <guid>https://status.robinhood.com/incidents/qc20jpkvpvqm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>18:53</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 1</var>, <var>16:22</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 1</var>, <var>15:44</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 1</var>, <var>15:04</var> PST</small><br /><strong>Investigating</strong> - We’re investigating an issue that’s affecting crypto trading and working to resolve it as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Dec 2021 18:53:50 -0800</pubDate>
 <pubDate>Wed, 01 Dec 2021 18:53:50 -0800</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.robinhood.com/incidents/srjr4yvkw8n3</link>
 <guid>https://status.robinhood.com/incidents/srjr4yvkw8n3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>19</var>, <var>23:15</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>19</var>, <var>23:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>19</var>, <var>15:12</var> PST</small><br /><strong>Scheduled</strong> - We're upgrading our systems, so some features might not be available right now. This should only last a few minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Nov 2021 23:15:41 -0800</pubDate>
 <pubDate>Fri, 19 Nov 2021 23:15:41 -0800</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.robinhood.com/incidents/qjt3gfg8ksst</link>
 <guid>https://status.robinhood.com/incidents/qjt3gfg8ksst</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>11</var>, <var>09:47</var> PST</small><br /><strong>Resolved</strong> - We fixed the issue that was affecting some customers’ ability to log in to their accounts. Customers should now be able to log in without trouble.</p><p><small>Nov <var>11</var>, <var>08:08</var> PST</small><br /><strong>Investigating</strong> - We’re investigating reports that customers are having trouble logging in to their accounts. We’re working to resolve this issue as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Nov 2021 09:47:44 -0800</pubDate>
 <pubDate>Thu, 11 Nov 2021 09:47:44 -0800</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.robinhood.com/incidents/pnx7k3wbjjc2</link>
 <guid>https://status.robinhood.com/incidents/pnx7k3wbjjc2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>10:38</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 9</var>, <var>08:25</var> PST</small><br /><strong>Investigating</strong> - We are currently experiencing issues with our logged-out website. Logged-in customers can still use our web platform as usual. Please visit robinhood.com/login if you are attempting to sign up or log in to your account on Web.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Nov 2021 10:38:20 -0800</pubDate>
 <pubDate>Tue, 09 Nov 2021 10:38:20 -0800</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.robinhood.com/incidents/wh7vcgtb5222</link>
 <guid>https://status.robinhood.com/incidents/wh7vcgtb5222</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>07:45</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 9</var>, <var>07:06</var> PST</small><br /><strong>Investigating</strong> - We’re investigating reports that some customers are experiencing issues transferring money in and out of Robinhood. We’re working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Nov 2021 07:45:04 -0800</pubDate>
 <pubDate>Tue, 09 Nov 2021 07:45:04 -0800</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.robinhood.com/incidents/ndbns8gtbjlj</link>
 <guid>https://status.robinhood.com/incidents/ndbns8gtbjlj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>27</var>, <var>02:09</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>27</var>, <var>00:52</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Sep 2021 02:09:39 -0700</pubDate>
 <pubDate>Mon, 27 Sep 2021 02:09:39 -0700</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.robinhood.com/incidents/wmt15pk4hzkt</link>
 <guid>https://status.robinhood.com/incidents/wmt15pk4hzkt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>26</var>, <var>22:51</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>26</var>, <var>21:53</var> PDT</small><br /><strong>Investigating</strong> - We’re experiencing intermittent service interruptions across our platforms and are working to resolve this issue as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Sun, 26 Sep 2021 22:51:17 -0700</pubDate>
 <pubDate>Sun, 26 Sep 2021 22:51:17 -0700</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.robinhood.com/incidents/xgc37qcb4d87</link>
 <guid>https://status.robinhood.com/incidents/xgc37qcb4d87</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>26</var>, <var>22:35</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>26</var>, <var>20:36</var> PDT</small><br /><strong>Investigating</strong> - We’re investigating an issue that’s affecting some customers’ ability to trade crypto. We are working to resolve these as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Sun, 26 Sep 2021 22:35:56 -0700</pubDate>
 <pubDate>Sun, 26 Sep 2021 22:35:56 -0700</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.robinhood.com/incidents/jx4lv6sm6f67</link>
 <guid>https://status.robinhood.com/incidents/jx4lv6sm6f67</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>14</var>, <var>16:21</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>14</var>, <var>16:13</var> PDT</small><br /><strong>Investigating</strong> - We’re experiencing issues affecting some crypto orders and some customers’ ability to use our web app. We’re working to resolve these issues as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 14 Sep 2021 16:21:08 -0700</pubDate>
 <pubDate>Tue, 14 Sep 2021 16:21:08 -0700</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.robinhood.com/incidents/bpcfz0kjkflx</link>
 <guid>https://status.robinhood.com/incidents/bpcfz0kjkflx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 2</var>, <var>12:41</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 2</var>, <var>08:09</var> PDT</small><br /><strong>Identified</strong> - We’re experiencing a display issue that’s affecting options market data for some symbols that begin with the letters W, Y, X, and Z. We are working to resolve this issue as soon as possible.</p><p><small>Sep <var> 2</var>, <var>07:36</var> PDT</small><br /><strong>Investigating</strong> - We’re experiencing a display issue that’s affecting options market data and are working to resolve this issue as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Sep 2021 12:41:51 -0700</pubDate>
 <pubDate>Thu, 02 Sep 2021 12:41:51 -0700</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.robinhood.com/incidents/7hh27s8zqfk2</link>
 <guid>https://status.robinhood.com/incidents/7hh27s8zqfk2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>15</var>, <var>18:04</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>15</var>, <var>17:40</var> PDT</small><br /><strong>Investigating</strong> - We’re experiencing an issue affecting new account application submissions and profile updates in the app. We’re working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Jul 2021 18:04:39 -0700</pubDate>
 <pubDate>Thu, 15 Jul 2021 18:04:39 -0700</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.robinhood.com/incidents/c45dysdjf15f</link>
 <guid>https://status.robinhood.com/incidents/c45dysdjf15f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 2</var>, <var>17:58</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var> 2</var>, <var>17:57</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var> 2</var>, <var>17:51</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var> 2</var>, <var>17:23</var> PDT</small><br /><strong>Investigating</strong> - We’re currently experiencing crypto trading and display issues on Robinhood. We’re working to resolve them as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 02 Jul 2021 17:58:12 -0700</pubDate>
 <pubDate>Fri, 02 Jul 2021 17:58:12 -0700</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.robinhood.com/incidents/41d8trrbq21q</link>
 <guid>https://status.robinhood.com/incidents/41d8trrbq21q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 8</var>, <var>08:52</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 8</var>, <var>08:25</var> PDT</small><br /><strong>Identified</strong> - We’ve identified an issue that’s causing some customers to encounter an error when trying to close an options position and are working to resolve it as soon as possible.</p><p><small>Jun <var> 8</var>, <var>07:52</var> PDT</small><br /><strong>Investigating</strong> - We’re investigating reports that some customers are encountering an error when trying to close an options position.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Jun 2021 08:52:10 -0700</pubDate>
 <pubDate>Tue, 08 Jun 2021 08:52:10 -0700</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.robinhood.com/incidents/5bdv47dk6r5z</link>
 <guid>https://status.robinhood.com/incidents/5bdv47dk6r5z</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>12</var>, <var>23:15</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>12</var>, <var>23:00</var> PDT</small><br /><strong>Update</strong> - Robinhood Crypto is undergoing a planned systems upgrade, and trading is temporarily unavailable as a result. The total downtime is not expected to be longer than 1 hour. We’ll let you know as soon as everything is back up and running.</p><p><small>May <var>12</var>, <var>23:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>12</var>, <var>21:55</var> PDT</small><br /><strong>Scheduled</strong> - Robinhood Crypto is undergoing a planned systems upgrade, and trading is temporarily unavailable as a result. The total downtime is not expected to be longer than 1 hour. We’ll let you know as soon as everything is back up and running.</p>
 ]]></content:encoded>
-<pubDate>Wed, 12 May 2021 23:15:13 -0700</pubDate>
 <pubDate>Wed, 12 May 2021 23:15:13 -0700</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.robinhood.com/incidents/w9z3lfcyghww</link>
 <guid>https://status.robinhood.com/incidents/w9z3lfcyghww</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 8</var>, <var>22:00</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var> 8</var>, <var>21:03</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Sat, 08 May 2021 22:00:58 -0700</pubDate>
 <pubDate>Sat, 08 May 2021 22:00:58 -0700</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.robinhood.com/incidents/6r0wrcty5v8h</link>
 <guid>https://status.robinhood.com/incidents/6r0wrcty5v8h</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 4</var>, <var>08:13</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var> 4</var>, <var>07:06</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 04 May 2021 08:13:35 -0700</pubDate>
 <pubDate>Tue, 04 May 2021 08:13:35 -0700</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.robinhood.com/incidents/ddxwbnylc3z9</link>
 <guid>https://status.robinhood.com/incidents/ddxwbnylc3z9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>27</var>, <var>21:43</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>27</var>, <var>19:35</var> PDT</small><br /><strong>Update</strong> - Customers may be seeing crypto orders display as "pending" for an extended period of time. We were experiencing a delay in order status updates and will provide an update here when the issue is resolved.</p><p><small>Apr <var>27</var>, <var>19:27</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Apr 2021 21:43:24 -0700</pubDate>
 <pubDate>Tue, 27 Apr 2021 21:43:24 -0700</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.robinhood.com/incidents/y1t5c59gpyfw</link>
 <guid>https://status.robinhood.com/incidents/y1t5c59gpyfw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>16</var>, <var>09:27</var> PDT</small><br /><strong>Resolved</strong> - Crypto trading is back online. We’ve resolved the issue that was affecting it.</p><p><small>Apr <var>16</var>, <var>08:23</var> PDT</small><br /><strong>Update</strong> - We’re experiencing intermittent issues with crypto trading due to heightened volumes. Because of this, some crypto trades may not execute right now.</p><p><small>Apr <var>16</var>, <var>08:14</var> PDT</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Apr <var>16</var>, <var>07:56</var> PDT</small><br /><strong>Identified</strong> - We’re experiencing intermittent issues with crypto trading due to heightened volumes. Because of this, some crypto trades may not execute right now.</p><p><small>Apr <var>16</var>, <var>07:45</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>16</var>, <var>07:22</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>16</var>, <var>07:19</var> PDT</small><br /><strong>Investigating</strong> - We’re currently experiencing issues with crypto trading due to unprecedented volumes and are working to resolve them as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Apr 2021 09:27:39 -0700</pubDate>
 <pubDate>Fri, 16 Apr 2021 09:27:39 -0700</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.robinhood.com/incidents/4q0gd5376svq</link>
 <guid>https://status.robinhood.com/incidents/4q0gd5376svq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>15</var>, <var>20:38</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>15</var>, <var>19:50</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>15</var>, <var>19:17</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>15</var>, <var>18:58</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>15</var>, <var>18:49</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Apr 2021 20:38:33 -0700</pubDate>
 <pubDate>Thu, 15 Apr 2021 20:38:33 -0700</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.robinhood.com/incidents/hplz4bc7pcbz</link>
 <guid>https://status.robinhood.com/incidents/hplz4bc7pcbz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>13</var>, <var>00:07</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>12</var>, <var>23:03</var> PDT</small><br /><strong>Investigating</strong> - We are experiencing issues with crypto trading. We are working to resolve this as soon as possible.</p>
 ]]></content:encoded>
 <pubDate>Tue, 13 Apr 2021 00:07:54 -0700</pubDate>
-<pubDate>Tue, 13 Apr 2021 00:07:54 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

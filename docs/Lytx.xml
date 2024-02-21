@@ -4,15 +4,15 @@
 <title>Lytx Inc. Status - Incident History</title>
 <link>https://status.lytx.com</link>
 
+
 <item>
 <title>Login Page - Full Outage</title>
 <link>https://status.lytx.com/incidents/5ptw2ft1f4l4</link>
 <guid>https://status.lytx.com/incidents/5ptw2ft1f4l4</guid>
 <content:encoded><![CDATA[
-<div> [High] - Service Interruption at login.lytx.com <br><br> Summary: Users are experiencing a DNS error upon login and cannot proceed. The issue is currently being investigated. <div>
+<div> [High] - Service Interruption at login.lytx.com <br /><br /> Summary: Users are experiencing a DNS error upon login and cannot proceed. The issue is currently being investigated. <div>
 <p><small>Feb <var>21</var>, <var>06:23</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>04:58</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>21</var>, <var>04:51</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating a service interruption impacting login.lytx.com. You may receive a DNS error upon login and will not be able to move forward. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 06:23:02 -0800</pubDate>
 <pubDate>Wed, 21 Feb 2024 06:23:02 -0800</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.lytx.com/incidents/h2x2nq2r2jtw</link>
 <guid>https://status.lytx.com/incidents/h2x2nq2r2jtw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>08:03</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>07:42</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>16</var>, <var>06:09</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue for customers leveraging our SSO login feature. Currently, SSO login-enabled customers may be taken to an incorrect login page and unable to access Lytx Account. This issue does not impact customers' ability to use login.lytx.com if their company is not leveraging the SSO feature.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 08:03:59 -0800</pubDate>
 <pubDate>Fri, 16 Feb 2024 08:03:59 -0800</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.lytx.com/incidents/yxt9nsx857v2</link>
 <guid>https://status.lytx.com/incidents/yxt9nsx857v2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>18:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>10:44</var> PST</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on Thursday Feb15th at 5:00 pm PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 1 hour. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 18:00:57 -0800</pubDate>
 <pubDate>Thu, 15 Feb 2024 18:00:57 -0800</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.lytx.com/incidents/ksgrtxmyx2y0</link>
 <guid>https://status.lytx.com/incidents/ksgrtxmyx2y0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>17:28</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>17:05</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>17:00</var> PST</small><br /><strong>Scheduled</strong> - We’re currently investigating a service interruption impacting login.lytx.com. This issue may result in an Access Denied error message which will impact your ability to log into your Lytx Account. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 17:28:30 -0800</pubDate>
 <pubDate>Tue, 13 Feb 2024 17:28:30 -0800</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.lytx.com/incidents/8l6hm7dwr52m</link>
 <guid>https://status.lytx.com/incidents/8l6hm7dwr52m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>00:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 7</var>, <var>20:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 7</var>, <var>10:16</var> PST</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on February 7, at 10:00 pm PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 4 hours. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 00:00:56 -0800</pubDate>
 <pubDate>Thu, 08 Feb 2024 00:00:56 -0800</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.lytx.com/incidents/2d1hqhbqrlp8</link>
 <guid>https://status.lytx.com/incidents/2d1hqhbqrlp8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>22:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 6</var>, <var>21:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 6</var>, <var>15:29</var> PST</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on February 6, 2024 @ 9:00 PM PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 1 hour. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Tue, 06 Feb 2024 22:00:56 -0800</pubDate>
 <pubDate>Tue, 06 Feb 2024 22:00:56 -0800</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.lytx.com/incidents/jgr6vl3vw2c6</link>
 <guid>https://status.lytx.com/incidents/jgr6vl3vw2c6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>06:10</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>05:17</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating reports of Degraded Performance issues on the main Dashboard (Coaching/Tasks) for some clients. The issue appears to be intermittent and may resolve itself in a matter of minutes after logging out and back in again. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Tue, 06 Feb 2024 06:10:24 -0800</pubDate>
 <pubDate>Tue, 06 Feb 2024 06:10:24 -0800</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.lytx.com/incidents/jqgk63m724dv</link>
 <guid>https://status.lytx.com/incidents/jqgk63m724dv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 5</var>, <var>21:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>09:12</var> PST</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on February 5, at 9:00 pm PT.  During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 2 hours. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Feb 2024 23:00:24 -0800</pubDate>
 <pubDate>Mon, 05 Feb 2024 23:00:24 -0800</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.lytx.com/incidents/fy7qndngmthp</link>
 <guid>https://status.lytx.com/incidents/fy7qndngmthp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>09:35</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>09:18</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 1</var>, <var>08:28</var> PST</small><br /><strong>Identified</strong> - We’re currently investigating reports of issues on the main Dashboard (Coaching/Tasks) for some clients. The issue appears to be intermittent. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 09:35:56 -0800</pubDate>
 <pubDate>Thu, 01 Feb 2024 09:35:56 -0800</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.lytx.com/incidents/72667tj18ksz</link>
 <guid>https://status.lytx.com/incidents/72667tj18ksz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>21:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>31</var>, <var>19:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>29</var>, <var>15:48</var> PST</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on January 31, @ 9:00 pm PT. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 2 hours. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 21:00:02 -0800</pubDate>
 <pubDate>Wed, 31 Jan 2024 21:00:02 -0800</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.lytx.com/incidents/pf666d2k389q</link>
 <guid>https://status.lytx.com/incidents/pf666d2k389q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>03:32</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>23</var>, <var>00:04</var> PST</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Jan <var>23</var>, <var>00:03</var> PST</small><br /><strong>Update</strong> - this maintenance is cancelled.</p><p><small>Jan <var>23</var>, <var>00:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>22</var>, <var>23:15</var> PST</small><br /><strong>Scheduled</strong> - We will be performing an unplanned systemwide maintenance. During this time some clients may experience temporary system performance and login issues. The maintenance work could take a minimum of 4 hours to complete We will provide periodic updates as needed & apologize for any inconvenience.</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 03:32:05 -0800</pubDate>
 <pubDate>Tue, 23 Jan 2024 03:32:05 -0800</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.lytx.com/incidents/z0tkvw4hpc08</link>
 <guid>https://status.lytx.com/incidents/z0tkvw4hpc08</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>13:58</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>12:18</var> PST</small><br /><strong>Identified</strong> - The issue has been identified, and our Engineering teams are working on a resolution. We apologize for any inconvenience and will post another update as soon as we learn more.</p><p><small>Jan <var>22</var>, <var>10:25</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>22</var>, <var>08:16</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>22</var>, <var>08:08</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating reports of Degraded Performance issues on the main Dashboard (Coaching/Tasks) for some clients. The issue appears to be intermittent and will resolve itself in a matter of minutes after logging out & back in again. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 13:58:42 -0800</pubDate>
 <pubDate>Mon, 22 Jan 2024 13:58:42 -0800</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.lytx.com/incidents/j1vxndwcckt7</link>
 <guid>https://status.lytx.com/incidents/j1vxndwcckt7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>21</var>, <var>09:26</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>21</var>, <var>01:09</var> PST</small><br /><strong>Update</strong> - Lytx engineering teams continue to work on a resolution to the login experience impacting some customers.</p><p><small>Jan <var>21</var>, <var>00:10</var> PST</small><br /><strong>Update</strong> - Lytx engineering teams continue to work on a resolution to the login experience impacting some customers.</p><p><small>Jan <var>20</var>, <var>23:09</var> PST</small><br /><strong>Update</strong> - Lytx engineering teams continue to work on a resolution to the login experience impacting some customers.</p><p><small>Jan <var>20</var>, <var>21:03</var> PST</small><br /><strong>Update</strong> - Our engineering teams continue to investigate the issue.</p><p><small>Jan <var>20</var>, <var>20:17</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with the login experience for some customers.</p>
 ]]></content:encoded>
-<pubDate>Sun, 21 Jan 2024 09:26:07 -0800</pubDate>
 <pubDate>Sun, 21 Jan 2024 09:26:07 -0800</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.lytx.com/incidents/w0yjkpgnmw4y</link>
 <guid>https://status.lytx.com/incidents/w0yjkpgnmw4y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 8</var>, <var>13:00</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>12:18</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 8</var>, <var>11:27</var> PST</small><br /><strong>Identified</strong> - For some clients, GPS push data processing is running behind causing GPS points data to be stale. No data has been lost and the system should be caught up shortly.</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 13:00:56 -0800</pubDate>
 <pubDate>Mon, 08 Jan 2024 13:00:56 -0800</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.lytx.com/incidents/1m3f7zbgvgmx</link>
 <guid>https://status.lytx.com/incidents/1m3f7zbgvgmx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>16:09</var> PST</small><br /><strong>Resolved</strong> - Thank you for your patience as we worked on resolving this Fleet Tracking data issue. Any missing data from January 1st through January 3rd (approximately 10:30 AM PST) will be back filled through next week, therefore some clients may continue to observe blank data for Stopped vehicles for this date range.<br /><br />If you have any questions or concerns, please contact Support at 1 866-910-0403 or support.lytx.com</p><p><small>Jan <var> 3</var>, <var>15:23</var> PST</small><br /><strong>Update</strong> - Thank you for your continued patience as our Developers worked on a resolution to this issue. Most clients should now see an improvement in real-time fleet tracking, however we are continuing to monitoring functionality. This issue should be resolved shortly.</p><p><small>Jan <var> 3</var>, <var>13:07</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues. Actively moving vehicles are now updating, however Stopped vehicles still need some time to update. We will post another update once we have more information.</p><p><small>Jan <var> 3</var>, <var>10:54</var> PST</small><br /><strong>Monitoring</strong> - We appreciate your patience as our Developers worked on a resolution to this issue. A fix is already initiated, and we are monitoring functionality. We will post another update once the issue is Resolved.</p><p><small>Jan <var> 3</var>, <var>09:35</var> PST</small><br /><strong>Identified</strong> - An issue with live map data for Fleet Tracking has been identified. Some clients may experience an issue viewing real-time fleet tracking data within the last 24 hours. The data is available within the Fleet Tracking history option depending on the historical timeframe selected. Our teams are working to restore normal functionality as quickly as possible and do apologize for the inconvenience.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 16:09:26 -0800</pubDate>
 <pubDate>Wed, 03 Jan 2024 16:09:26 -0800</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.lytx.com/incidents/f9wwlpcx2scv</link>
 <guid>https://status.lytx.com/incidents/f9wwlpcx2scv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>14:58</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>13</var>, <var>14:17</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>13</var>, <var>13:12</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating reports of Degraded Performance issues on the main Dashboard (Coaching/Tasks) for some clients. The issue appears to be intermittent and will resolve itself in a matter of minutes after logging out & back in again. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Dec 2023 14:58:39 -0800</pubDate>
 <pubDate>Wed, 13 Dec 2023 14:58:39 -0800</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.lytx.com/incidents/n15vsyc0pj2b</link>
 <guid>https://status.lytx.com/incidents/n15vsyc0pj2b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>10:37</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 7</var>, <var>10:04</var> PST</small><br /><strong>Update</strong> - This issue has been downgraded to a partial outage. Thank you for your patience while we continue to investigate the issue. Please note, the audio issue is not present when the video is downloaded to DCE or MP4.</p><p><small>Dec <var> 7</var>, <var>09:46</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating reports of a potential service interruption while viewing Events in Driver Safety. Some clients will experience issues loading video, while others may be missing the audio button. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 10:37:16 -0800</pubDate>
 <pubDate>Thu, 07 Dec 2023 10:37:16 -0800</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.lytx.com/incidents/f1fwg6jtzx0v</link>
 <guid>https://status.lytx.com/incidents/f1fwg6jtzx0v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>05:25</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 1</var>, <var>05:13</var> PST</small><br /><strong>Identified</strong> - We’re currently investigating a service interruption impacting login.lytx.com. Some clients will receive in an Access Denied or "Sorry, you have been blocked" error message which will impact your ability to log into your Lytx Account. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 05:25:00 -0800</pubDate>
 <pubDate>Fri, 01 Dec 2023 05:25:00 -0800</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.lytx.com/incidents/s5x0ft1yppfc</link>
 <guid>https://status.lytx.com/incidents/s5x0ft1yppfc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>16:31</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 9</var>, <var>16:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 3</var>, <var>15:47</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on Nov 9, 2023 at 4:00PM PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 30 minutes. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 16:31:10 -0800</pubDate>
 <pubDate>Thu, 09 Nov 2023 16:31:10 -0800</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.lytx.com/incidents/2pwrjtchgh2w</link>
 <guid>https://status.lytx.com/incidents/2pwrjtchgh2w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>16:32</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 7</var>, <var>16:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 3</var>, <var>15:44</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on Nov 7, 2023 at 4:00PM PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 30 minutes. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 16:32:05 -0800</pubDate>
 <pubDate>Tue, 07 Nov 2023 16:32:05 -0800</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.lytx.com/incidents/jp98rpv3p1f0</link>
 <guid>https://status.lytx.com/incidents/jp98rpv3p1f0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 6</var>, <var>08:18</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 5</var>, <var>18:43</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 4</var>, <var>11:12</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue within Lytx Lab. All other components of Lytx Account are functioning.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 08:18:24 -0800</pubDate>
 <pubDate>Mon, 06 Nov 2023 08:18:24 -0800</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.lytx.com/incidents/knpq9ycrtczb</link>
 <guid>https://status.lytx.com/incidents/knpq9ycrtczb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>16:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 3</var>, <var>16:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 3</var>, <var>14:11</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var> 3</var>, <var>14:08</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on Nov 3rd at 4:00 pm PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 30min. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 16:30:29 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 16:30:29 -0700</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.lytx.com/incidents/y156sw4gw8v2</link>
 <guid>https://status.lytx.com/incidents/y156sw4gw8v2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>09:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 3</var>, <var>07:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>31</var>, <var>14:17</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing  maintenance on Friday, November 3 at 7:00 AM PST.. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 2 hours. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 09:00:25 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 09:00:25 -0700</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.lytx.com/incidents/pcm9tkwc94xm</link>
 <guid>https://status.lytx.com/incidents/pcm9tkwc94xm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>18:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 1</var>, <var>18:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>31</var>, <var>08:41</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var> 1</var>, <var>16:00</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing systemwide maintenance on Nov 1st at 4:00 pm PST. During this time some clients may experience temporary system performance issues. Although we do not anticipate any issues, the maintenance work could take a minimum of 30min. We will provide periodic updates as needed.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Nov 2023 18:30:13 -0700</pubDate>
 <pubDate>Wed, 01 Nov 2023 18:30:13 -0700</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.lytx.com/incidents/6ps7thdyh45p</link>
 <guid>https://status.lytx.com/incidents/6ps7thdyh45p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>11:44</var> PDT</small><br /><strong>Resolved</strong> - This incident has been Resolved.</p><p><small>Nov <var> 1</var>, <var>10:12</var> PDT</small><br /><strong>Identified</strong> - We have identified an issue where some vehicles may not show historical data, trip data and breadcrumb points within Fleet Tracking. Vehicle location data is still available within history mode. Our teams are working to restore normal functionality as quickly as possible and do apologize for the inconvenience.</p>
 ]]></content:encoded>
 <pubDate>Wed, 01 Nov 2023 11:44:15 -0700</pubDate>
-<pubDate>Wed, 01 Nov 2023 11:44:15 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

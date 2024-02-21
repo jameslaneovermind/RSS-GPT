@@ -16,3 +16,9 @@ Append: [QR Codes infinite loading](https://status.retraced.com/incidents/bkvtmk
 Append: [This is an example incident](https://status.retraced.com/incidents/7v5hxjdtq323)
 append_entries: 10
 Finish: 2024-02-21 16:24:55.665822
+------------------------------------------------------
+Started: 2024-02-21 16:44:29.551442
+Existing_entries: 10
+Fetching from https://status.retraced.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:29.825767

@@ -4,15 +4,15 @@
 <title>Talkdesk Status - Incident History</title>
 <link>https://status.talkdesk.com</link>
 
+
 <item>
 <title>Scheduled Maintenance Update</title>
 <link>https://status.talkdesk.com/incidents/j70mztlj4bmd</link>
 <guid>https://status.talkdesk.com/incidents/j70mztlj4bmd</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Platform Maintenance Scheduled<br><br> Summary: Talkdesk will be conducting platform maintenance to make infrastructure enhancements and increase platform resiliency. Some US regional deployment users might be required to log in again. <div>
+<div> [Low] - Platform Maintenance Scheduled<br /><br /> Summary: Talkdesk will be conducting platform maintenance to make infrastructure enhancements and increase platform resiliency. Some US regional deployment users might be required to log in again. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>15:12</var> UTC</small><br /><strong>Scheduled</strong> - Talkdesk will be conducting platform maintenance during the hours of 09:00 - 10:00 UTC (02:00 - 03:00 PDT) on Sunday, February 25th, 2024.<br /><br />During this maintenance window, infrastructure enhancements will be made to increase platform resiliency.<br /><br />What can users expect during the maintenance period?<br /><br />During this maintenance window, some US regional deployment users might be required to log in again.<br /><br />This page will be updated throughout the maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 09:00:00 +0000</pubDate>
 <pubDate>Sun, 25 Feb 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.talkdesk.com/incidents/m6kddjrn42nb</link>
 <guid>https://status.talkdesk.com/incidents/m6kddjrn42nb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>18</var>, <var>09:24</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>18:13</var> UTC</small><br /><strong>Scheduled</strong> - Talkdesk will be conducting platform maintenance during the hours of 09:00 - 10:00 UTC (02:00 - 03:00 PDT) on Sunday, February 18th, 2024.<br /><br />During this maintenance window, infrastructure enhancements will be made to increase platform resiliency.<br /><br />What can users expect during the maintenance period?<br /><br />During this maintenance window, some US regional deployment users might be required to log in again.<br /><br />This page will be updated throughout the maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sun, 18 Feb 2024 09:24:12 +0000</pubDate>
 <pubDate>Sun, 18 Feb 2024 09:24:12 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.talkdesk.com/incidents/klc266cb8rx7</link>
 <guid>https://status.talkdesk.com/incidents/klc266cb8rx7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>16:52</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>16:44</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation was applied and we are seeing system recovery. We will keep monitoring the system and provide an update in 15 min.</p><p><small>Feb <var>13</var>, <var>16:28</var> UTC</small><br /><strong>Identified</strong> - We are experiencing degraded performance with the Contacts Widget Live reporting in the US deployment region. Inbound and Outbound calls are not affected. As a workaround, the Recent Activity Multichannel dashboard in Explore can be used. Mitigation measures are currently in progress we will provide an update in 30 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 16:52:55 +0000</pubDate>
 <pubDate>Tue, 13 Feb 2024 16:52:55 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.talkdesk.com/incidents/2001mgl7j9dd</link>
 <guid>https://status.talkdesk.com/incidents/2001mgl7j9dd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>21</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>21</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>17</var>, <var>16:50</var> UTC</small><br /><strong>Scheduled</strong> - Talkdesk will be conducting platform maintenance during the hours of 09:00 - 10:00 UTC (02:00 - 03:00 PDT) on Sunday, January 21st, 2024.<br /><br />During this maintenance window, infrastructure enhancements will be made to increase platform resiliency.<br /><br />What can users expect during the maintenance period?<br /><br />Talkdesk ID:<br /><br />During this maintenance window, US regional deployment users might be required to log in again.<br /><br />This page will be updated throughout the maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sun, 21 Jan 2024 10:00:12 +0000</pubDate>
 <pubDate>Sun, 21 Jan 2024 10:00:12 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.talkdesk.com/incidents/symht0x9nqjc</link>
 <guid>https://status.talkdesk.com/incidents/symht0x9nqjc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 2</var>, <var>21:53</var> UTC</small><br /><strong>Resolved</strong> - At this point, mitigation measures were applied and we are seeing full system recovery. Call routing was not affected.</p><p><small>Jan <var> 2</var>, <var>21:49</var> UTC</small><br /><strong>Monitoring</strong> - A fix as been implemented. We are currently monitoring the system.</p><p><small>Jan <var> 2</var>, <var>21:28</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating a subset of customers with difficulties loading the Conversations APP in US deployment region. Mitigation measures are in progress</p>
 ]]></content:encoded>
-<pubDate>Tue, 02 Jan 2024 21:53:39 +0000</pubDate>
 <pubDate>Tue, 02 Jan 2024 21:53:39 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.talkdesk.com/incidents/gr80r0y839j1</link>
 <guid>https://status.talkdesk.com/incidents/gr80r0y839j1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>17</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>17</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>13</var>, <var>09:31</var> UTC</small><br /><strong>Scheduled</strong> - Talkdesk will be conducting platform maintenance during the hours of 09:00 - 10:00 UTC (02:00 - 03:00 PDT) on Sunday, December 17th, 2023.<br /><br />During this maintenance window, infrastructure enhancements will be made to increase platform resiliency.<br /><br />What can users expect during the maintenance period?<br /><br />Live Reporting: <br /><br />During this maintenance window, Live Reporting will present an error panel for users on US regional deployment. Live Reporting will recover by itself at the end of the intervention.<br /><br />Talkdesk ID:<br /><br />During this maintenance window, EU regional deployment users might be required to log in again.<br /><br />This page will be updated throughout the maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sun, 17 Dec 2023 10:00:15 +0000</pubDate>
 <pubDate>Sun, 17 Dec 2023 10:00:15 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.talkdesk.com/incidents/0tbpj2mr8qc2</link>
 <guid>https://status.talkdesk.com/incidents/0tbpj2mr8qc2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>10</var>, <var>11:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>10</var>, <var>11:21</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures are being applied by our carrier partner and at this point, we are seeing improvements in the success rate of inbound and outbound calls. We are continuously working with our partner in order to recover the service as quickly as possible. We will share more updates as soon as available.</p><p><small>Nov <var>10</var>, <var>10:44</var> UTC</small><br /><strong>Update</strong> - Currently one of our telecommunications carriers in Europe is experiencing an incident which is causing a percentage of calls to fail. This incident does not affect customers with BYOC. We are working with our partner in order to recover the service as quickly as possible. We will share one update in 60 minutes or sooner.</p><p><small>Nov <var>10</var>, <var>10:19</var> UTC</small><br /><strong>Update</strong> - Currently one of our telecommunications carriers in Europe is experiencing an incident which is causing a percentage of calls to fail. We are working with our partner in order to recover the service as quickly as possible. We will share an update in 30 minutes.</p><p><small>Nov <var>10</var>, <var>10:03</var> UTC</small><br /><strong>Identified</strong> - Currently one of our carriers in Europe is experiencing an incident which is causing a percentage of calls to fail. We are working together with our partner to recover the service. We will share more updates as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Nov 2023 11:35:29 +0000</pubDate>
 <pubDate>Fri, 10 Nov 2023 11:35:29 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.talkdesk.com/incidents/jmk6tctv79x1</link>
 <guid>https://status.talkdesk.com/incidents/jmk6tctv79x1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>17:30</var> UTC</small><br /><strong>Resolved</strong> - We are investigating the assignment system and inbound call issues in the EU regional deployment. Customers with business continuity configured are advised to enable the same. Mitigation measures are currently in progress. We will provide an update in 30 min or sooner. Please note that this does not impact customers on other regional deployments.<br /><br />A fix has been implemented and we are seeing system improvements. At this point, customers can disable Business continuity settings. We will keep monitoring.<br /><br />This incident has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 17:30:00 +0000</pubDate>
 <pubDate>Fri, 29 Sep 2023 17:30:00 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.talkdesk.com/incidents/wdg0q689fxw9</link>
 <guid>https://status.talkdesk.com/incidents/wdg0q689fxw9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>25</var>, <var>17:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>25</var>, <var>17:32</var> UTC</small><br /><strong>Monitoring</strong> - We have implemented mitigation measures and are seeing recovery. We will update you in 30 minutes or as soon as we are fully recovered.</p><p><small>Aug <var>25</var>, <var>17:24</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue impacting Live data freshness, there is latency in all Contact related data in the US region. This is not impacting any calls or call routing functionality, only the Live data. Our engineering team is currently applying mitigation measures. We will provide an update within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 25 Aug 2023 17:51:08 +0000</pubDate>
 <pubDate>Fri, 25 Aug 2023 17:51:08 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.talkdesk.com/incidents/jkdkhk1wvkm8</link>
 <guid>https://status.talkdesk.com/incidents/jkdkhk1wvkm8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>15</var>, <var>04:29</var> UTC</small><br /><strong>Resolved</strong> - We are currently fully recovered from the latency and live data is currently up to date on contacts-related data widgets. Some <br />queued calls from earlier today can show up on the contact list, these calls will be closed over the next 24h.</p><p><small>Aug <var>15</var>, <var>03:47</var> UTC</small><br /><strong>Update</strong> - We are currently fully recovered from the latency and live data is currently up to date on contacts-related data widgets. We will keep monitoring.</p><p><small>Aug <var>14</var>, <var>23:46</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures were applied and we are seeing recovery. We expect to fully recover from the latency in 1 hour or sooner. We will keep monitoring.</p><p><small>Aug <var>14</var>, <var>23:35</var> UTC</small><br /><strong>Update</strong> - Mitigation measures were applied and we are currently recovering from the latency, this impacts only contacts-related data widgets. No impact on calls, routing, or any of the critical functionality. We will provide an update within 30 minutes or sooner.</p><p><small>Aug <var>14</var>, <var>22:35</var> UTC</small><br /><strong>Update</strong> - Mitigation measures are still in progress in order to recover the current latency in Live Reporting data, this impacts only contacts-related data widgets. No impact on calls, routing, or any of the critical functionality. In the meantime, the "Call reports" in Explore can provide an alternate view of the live data with a short delay. Our engineering team is currently applying mitigation measures. We will provide an update within 30 minutes</p><p><small>Aug <var>14</var>, <var>21:53</var> UTC</small><br /><strong>Update</strong> - Additional mitigation measures are in progress in order to recover the current latency in Live Reporting data, this impacts only contacts-related data widgets. No impact on calls, routing, or any of the critical functionality. In the meantime, the "Recent Activity Multichannel Default Dashboard" in Explore can provide an alternate view of the live data with a short delay. Our engineering team is currently applying mitigation measures. We will provide an update within 30 minutes</p><p><small>Aug <var>14</var>, <var>21:23</var> UTC</small><br /><strong>Update</strong> - We are currently investigating an issue impacting Live Reporting data latency, this impacts only contacts related data widgets. No impact on calls, routing, or any of the critical functionality. In the meantime, the "Recent Activity Multichannel Default Dashboard" in Explore can provide an alternate view of the live data with a short delay. Our engineering team is currently applying mitigation measures. We will provide an update within 30 minutes</p><p><small>Aug <var>14</var>, <var>20:59</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating an issue impacting Live Reporting data latency. No impact on calls, routing, or any of the critical functionality. In the meantime, the "Recent Activity Multichannel Default Dashboard" in Explore can provide an alternate view of the live data with a short delay. Our engineering team is currently applying mitigation measures. We will provide an update within 30 minutes</p>
 ]]></content:encoded>
-<pubDate>Tue, 15 Aug 2023 04:29:52 +0000</pubDate>
 <pubDate>Tue, 15 Aug 2023 04:29:52 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.talkdesk.com/incidents/n73008jh3sq6</link>
 <guid>https://status.talkdesk.com/incidents/n73008jh3sq6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>14</var>, <var>14:31</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>14</var>, <var>14:29</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures were applied and we are currently seeing system recovery. We will keep monitoring and provide an update in 15 minutes.</p><p><small>Jul <var>14</var>, <var>14:23</var> UTC</small><br /><strong>Update</strong> - We are currently applying mitigation measures in order to resolve the issue. Customers may still be experiencing degraded performance in Login and Voice functionalities. We will provide an update within 15 minutes.</p><p><small>Jul <var>14</var>, <var>14:19</var> UTC</small><br /><strong>Update</strong> - We are currently experiencing an issue affecting Login and Voice functionalities in US regional deployment. Mitigation measures are currently in progress. We will provide an update within 15 minutes.</p><p><small>Jul <var>14</var>, <var>14:12</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing an issue affecting Login and Voice functionalities in US regional deployment. Mitigation measures are currently in progress. We will provide an update within 15 minutes.</p><p><small>Jul <var>14</var>, <var>14:07</var> UTC</small><br /><strong>Update</strong> - We are currently experiencing an issue affecting Login and Voice functionalities in US regional deployment. Mitigation measures are currently in progress. We will provide an update within 15 minutes.</p><p><small>Jul <var>14</var>, <var>13:50</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue affecting Login in US regional deployment. We will provide an update within 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jul 2023 14:31:44 +0000</pubDate>
 <pubDate>Fri, 14 Jul 2023 14:31:44 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.talkdesk.com/incidents/ydx4tb858k0p</link>
 <guid>https://status.talkdesk.com/incidents/ydx4tb858k0p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>22</var>, <var>16:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>22</var>, <var>16:34</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures are in place and we are seeing system recovery. We are currently monitoring the system. We will provide an update in 30 min or sooner.</p><p><small>Jun <var>22</var>, <var>16:29</var> UTC</small><br /><strong>Update</strong> - Mitigation measures are in progress and we are currently seeing recovery. Inbound calls are working as expected. We will provide an update within 15 minutes.</p><p><small>Jun <var>22</var>, <var>16:13</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing an issue with Outbound calls in the US regional deployment. Outbound calls are successful, but only the mute and calls controls are available. Inbound calls are working as expected. We will provide an update within 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Jun 2023 16:35:42 +0000</pubDate>
 <pubDate>Thu, 22 Jun 2023 16:35:42 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.talkdesk.com/incidents/x3408c634244</link>
 <guid>https://status.talkdesk.com/incidents/x3408c634244</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>14</var>, <var>21:08</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>14</var>, <var>20:57</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures are in place and we are seeing system recovery. Customers who have enabled Business Continuity can disable the same.  We will provide an update in 30 minutes or sooner.</p><p><small>Jun <var>14</var>, <var>20:38</var> UTC</small><br /><strong>Update</strong> - Mitigation measures are currently in progress and we are seeing system improvements. Additionally, a subset of users in our Europe and Canada regional deployment may experience intermittent errors on the conversation app.  We will provide another update within 15 minutes.</p><p><small>Jun <var>14</var>, <var>20:27</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing an issue where some users in the US regional deployment are receiving 500 errors when navigating through the workspace apps. We recommend customers enable a Business Continuity plan. Mitigation measures are currently in progress. We will provide an update within 15 minutes.</p><p><small>Jun <var>14</var>, <var>20:17</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue where some users in the US regional deployment are receiving 500 errors when navigating through the workspace apps. We recommend customers enable a Business Continuity plan. We are working with our engineering team to investigate the root cause. We will provide an update within 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Jun 2023 21:08:45 +0000</pubDate>
 <pubDate>Wed, 14 Jun 2023 21:08:45 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.talkdesk.com/incidents/8y23mrdp9rsg</link>
 <guid>https://status.talkdesk.com/incidents/8y23mrdp9rsg</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>19</var>, <var>00:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>19</var>, <var>00:11</var> UTC</small><br /><strong>Monitoring</strong> - We are currently monitoring the situation. The system is exhibiting normal operating values. We will keep monitoring the incident with our partner. We will provide an update in 30 minutes or sooner.</p><p><small>May <var>19</var>, <var>00:05</var> UTC</small><br /><strong>Update</strong> - We are currently working with our partner in order to resolve the incident. At this point we are seeing 90% recovery, customers can still experience intermittent login difficulties. For customers who are able to login in can receive and place phone calls.   We will provide an update in 15 minutes or sooner.</p><p><small>May <var>19</var>, <var>00:02</var> UTC</small><br /><strong>Update</strong> - We are currently working with our partner in order to resolve the incident. At this point we start to see recovery, customers can still experience intermittent login difficulties. We will provide an update in 15 minutes or sooner.</p><p><small>May <var>18</var>, <var>23:57</var> UTC</small><br /><strong>Update</strong> - We are currently investigating issues opening Conversation APP and Callbar. This is currently affecting all regions. We recommend customers enable a Business Continuity plan. This is caused because of an incident reported by a 3rd party provider. We will provide an update in 15 minutes or sooner.</p><p><small>May <var>18</var>, <var>23:40</var> UTC</small><br /><strong>Update</strong> - We are currently investigating issues opening Conversation APP and Callbar. This is currently affecting all regions. We recommend customers enable a Business Continuity plan. This is caused because of an incident reported by a 3rd party provider. We will provide an update in 15 minutes or sooner.</p><p><small>May <var>18</var>, <var>23:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating issues opening Conversation APP and Callbar. This is currently affecting all regions. Routing and call controls are working as expected. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 May 2023 00:27:49 +0000</pubDate>
 <pubDate>Fri, 19 May 2023 00:27:49 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.talkdesk.com/incidents/lf0bvxnbchsc</link>
 <guid>https://status.talkdesk.com/incidents/lf0bvxnbchsc</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 5</var>, <var>19:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var> 5</var>, <var>19:09</var> UTC</small><br /><strong>Monitoring</strong> - We have applied mitigation steps and we are seeing improvements once more. We will provide an update shortly.</p><p><small>May <var> 5</var>, <var>19:06</var> UTC</small><br /><strong>Investigating</strong> - We are seeing an increase in error rates and a reoccurrence of 500 errors. We are investigating these error rate spikes with our engineering team. We will provide an update within 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 05 May 2023 19:14:28 +0000</pubDate>
 <pubDate>Fri, 05 May 2023 19:14:28 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.talkdesk.com/incidents/55pxq95fcmry</link>
 <guid>https://status.talkdesk.com/incidents/55pxq95fcmry</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 5</var>, <var>18:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var> 5</var>, <var>18:43</var> UTC</small><br /><strong>Monitoring</strong> - At this time, we are no longer seeing a large volume of errors, and the impact seems to be mitigated. We are monitoring this behavior alongside our engineering team to understand the root cause and to prevent a reoccurrence. We will continue to monitor this for recovery.</p><p><small>May <var> 5</var>, <var>18:27</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue where some users in the US regional deployment are receiving 500 errors when navigating through the workspace apps. This error is intermittent. We are working with our engineering team to investigate the root cause. We will provide an update within 15 minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 05 May 2023 18:51:15 +0000</pubDate>
 <pubDate>Fri, 05 May 2023 18:51:15 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.talkdesk.com/incidents/4b4bw31zhy73</link>
 <guid>https://status.talkdesk.com/incidents/4b4bw31zhy73</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>27</var>, <var>16:53</var> UTC</small><br /><strong>Resolved</strong> - We are now seeing recovery and the impact is mitigated.</p><p><small>Apr <var>27</var>, <var>16:39</var> UTC</small><br /><strong>Monitoring</strong> - We have applied mitigation measures to an issue with loading and logging into Conversations in the US region and we are seeing improvements. We are currently monitoring our system to ensure a smooth recovery. We will provide another update within 30 minutes.</p><p><small>Apr <var>27</var>, <var>16:27</var> UTC</small><br /><strong>Update</strong> - We have applied mitigation measures to an issue with loading and logging into Conversations in the US region, specifically within US instances. Users logged in previously to this event should be able to still receive and answer calls. Some agents may also be changed to offline status due to failing heartbeats. These users should be able to refresh. We are currently monitoring the system for improvements. We will provide another update within 30 minutes.</p><p><small>Apr <var>27</var>, <var>15:59</var> UTC</small><br /><strong>Update</strong> - We are aware of an issue with loading and logging into Conversations in the US region. Users logged in previously to this event should be able to still receive and answer calls. We are still investigating this behavior alongside our engineering team. We will provide another update within 30 minutes.</p><p><small>Apr <var>27</var>, <var>15:48</var> UTC</small><br /><strong>Investigating</strong> - We are aware of a problem right now affecting some customers' ability to access Talkdesk Conversation app.  Our engineering team is investigating the root cause. We will provide another update ASAP.</p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Apr 2023 16:53:22 +0000</pubDate>
 <pubDate>Thu, 27 Apr 2023 16:53:22 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.talkdesk.com/incidents/l447w1s9dl5n</link>
 <guid>https://status.talkdesk.com/incidents/l447w1s9dl5n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>15</var>, <var>10:00</var> UTC</small><br /><strong>Resolved</strong> - We have experienced a small subset of calls reporting device unavailable for some agents, no calls were lost during the incident timeframe, and these affected calls were routed to another available agents. Agents that were experiencing this behavior were recommended to refresh Workspace in order to mitigate the issue. At this time, mitigation measures were applied and the system recovered to normal values.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Mar 2023 10:00:00 +0000</pubDate>
 <pubDate>Wed, 15 Mar 2023 10:00:00 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.talkdesk.com/incidents/6xmf3x1n2k9f</link>
 <guid>https://status.talkdesk.com/incidents/6xmf3x1n2k9f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 8</var>, <var>23:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 8</var>, <var>23:30</var> UTC</small><br /><strong>Update</strong> - We are currently monitoring this behavior after applying mitigation measures. We are seeing recovery in our systems and improvements in the majority of user instances, but it will take some time for the delay to fully normalize. We will provide an update in 30 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>22:41</var> UTC</small><br /><strong>Update</strong> - We are currently monitoring this behavior after applying mitigation measures. We are seeing recovery in our systems and improvements in some user instances, but it will take some time for the delay to fully normalize. We will provide an update in 30 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>22:11</var> UTC</small><br /><strong>Update</strong> - We are currently monitoring this behavior after applying mitigation measures. We are seeing recovery in our systems, but it will take some time for the delay to normalize. We will provide an update in 30 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>21:41</var> UTC</small><br /><strong>Update</strong> - We are currently monitoring this behavior after applying mitigation measures. We are seeing recovery in our systems, but it will take some time for the delay to normalize. We will provide an update in 30 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>21:26</var> UTC</small><br /><strong>Monitoring</strong> - We are currently monitoring this behavior after applying mitigation measures. We are seeing recovery in our systems, but it will take some time for the delay to normalize. We will provide an update in 15 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>21:12</var> UTC</small><br /><strong>Update</strong> - We are still investigating delays in reporting in specific Live widgets that use Voice Contact data, all other Live widgets work as expected. Routing and Calls are working as expected with no impact. This is in the US region only. No Impact in EMEA, CA regions. At this time, we are investigating the cause of this issue and attempting to apply mitigation measures. We will provide an update in 15 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>20:57</var> UTC</small><br /><strong>Update</strong> - We are still investigating delays in reporting in specific Live widgets that use Voice Contact data, all other Live widgets work as expected. Routing and Calls are working as expected with no impact. This is in the US region only. No Impact in EMEA, CA regions. At this time, we are investigating the cause of this issue and attempting to apply mitigation measures. We will provide an update in 15 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>20:41</var> UTC</small><br /><strong>Update</strong> - We are still investigating delays in reporting in specific Live widgets that use Voice Contact data. This is only impacting "Contacts" widgets (excluding digital contacts), other widgets in Live will be functioning as expected. Routing and Calls are working as expected with no impact. This is in the US region only. No Impact in EMEA, CA regions. At this time, we are investigating the cause of this issue and attempting to apply mitigation measures. We will provide an update in 15 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>20:25</var> UTC</small><br /><strong>Update</strong> - We are still investigating delays in reporting in specific Live widgets that use Voice Contact data. Routing and Calls are working as expected with no impact. This is in the US region only. No Impact in EMEA, CA regions. At this time, we are investigating the cause of this issue and attempting to apply mitigation measures. We will provide an update in 15 minutes or sooner.</p><p><small>Mar <var> 8</var>, <var>20:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating delays in reporting in specific Live widgets that use Voice Contact data. Routing and Calls are working as expected with NO impact. This is in the US region only. No Impact in EMEA, CA regions. At this time, we are investigating the cause of this issue. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Mar 2023 23:54:07 +0000</pubDate>
 <pubDate>Wed, 08 Mar 2023 23:54:07 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.talkdesk.com/incidents/8t8ymkgbgj0r</link>
 <guid>https://status.talkdesk.com/incidents/8t8ymkgbgj0r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>21:27</var> UTC</small><br /><strong>Resolved</strong> - This incident is resolved.</p><p><small>Feb <var>10</var>, <var>21:16</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures are in place and we are seeing recovery. We will provide an update in 15 minutes or sooner.</p><p><small>Feb <var>10</var>, <var>21:04</var> UTC</small><br /><strong>Identified</strong> - We are experiencing service degradation on routing services. Mitigation measures are in progress. We will provide an update in 15 minutes or sooner.</p><p><small>Feb <var>10</var>, <var>20:49</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing service degradation on routing services. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Feb 2023 21:27:24 +0000</pubDate>
 <pubDate>Fri, 10 Feb 2023 21:27:24 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.talkdesk.com/incidents/lsrcrfx6kt92</link>
 <guid>https://status.talkdesk.com/incidents/lsrcrfx6kt92</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>15:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>14:58</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures are in progress and we start seeing recovery. Routing and Call controls are working as expected. We will provide an update in 30 minutes or sooner.</p><p><small>Jan <var>31</var>, <var>14:48</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating degraded performance affecting Live Reporting. Routing and Call controls are working as expected. Mitigation Measures are in progress. We will provide an update in 30 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Tue, 31 Jan 2023 15:02:43 +0000</pubDate>
 <pubDate>Tue, 31 Jan 2023 15:02:43 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.talkdesk.com/incidents/qv230s135j5m</link>
 <guid>https://status.talkdesk.com/incidents/qv230s135j5m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>17:13</var> UTC</small><br /><strong>Resolved</strong> - This incident is resolved.</p><p><small>Jan <var>20</var>, <var>16:31</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures were applied and we are seeing recovery. We will continue to monitor and will provide an update in 30 minutes or sooner.</p><p><small>Jan <var>20</var>, <var>16:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating degraded performance affecting Live Reporting. Routing and Call controls are working as expected. Mitigation Measures are in progress. We will provide an update in 30 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Fri, 20 Jan 2023 17:13:38 +0000</pubDate>
 <pubDate>Fri, 20 Jan 2023 17:13:38 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.talkdesk.com/incidents/qcjjtyq7r5vd</link>
 <guid>https://status.talkdesk.com/incidents/qcjjtyq7r5vd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>17:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>17</var>, <var>17:36</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures were applied and we are seeing recovery. We will provide an update in 30 minutes or sooner.</p><p><small>Jan <var>17</var>, <var>17:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating degraded performance affecting Live Reporting. Routing and Call controls are working as expected. Mitigation Measures are in progress. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Jan 2023 17:56:52 +0000</pubDate>
 <pubDate>Tue, 17 Jan 2023 17:56:52 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.talkdesk.com/incidents/6hd0sy0ccc64</link>
 <guid>https://status.talkdesk.com/incidents/6hd0sy0ccc64</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>19</var>, <var>19:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>19:11</var> UTC</small><br /><strong>Update</strong> - Mitigation measures were put in place and we are seeing improvements. We will keep monitoring.</p><p><small>Dec <var>19</var>, <var>19:07</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>19</var>, <var>18:59</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating degraded performance affecting the ability to Change Status. Mitigation Measures are in progress. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Dec 2022 19:12:21 +0000</pubDate>
 <pubDate>Mon, 19 Dec 2022 19:12:21 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.talkdesk.com/incidents/ls1z6t5vgzgc</link>
 <guid>https://status.talkdesk.com/incidents/ls1z6t5vgzgc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>17:52</var> UTC</small><br /><strong>Resolved</strong> - Mitigation measures were applied and we are seeing improvements. The system is still consuming all the pending events, therefore the Agent Status in Live is currently changing however still experiencing latency.</p><p><small>Nov <var>29</var>, <var>17:28</var> UTC</small><br /><strong>Monitoring</strong> - Mitigation measures were applied and we are seeing improvements. We will provide an update in the next 15 min.</p><p><small>Nov <var>29</var>, <var>17:22</var> UTC</small><br /><strong>Update</strong> - We are currently investigating degraded performance across Live Dashboards, all critical functionality including making and receiving calls is working as expected. Mitigation Measures are in progress. We will provide an update in 15 minutes or sooner.</p><p><small>Nov <var>29</var>, <var>17:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating degraded performance across Live Dashboards. Mitigation Measures are in progress. We will provide an update in 15 minutes or sooner.</p>
 ]]></content:encoded>
 <pubDate>Tue, 29 Nov 2022 17:52:31 +0000</pubDate>
-<pubDate>Tue, 29 Nov 2022 17:52:31 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
