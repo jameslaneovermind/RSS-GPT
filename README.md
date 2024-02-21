@@ -56,7 +56,7 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - https://status.airelogic.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Airelogic.xml
 - https://status.platform9.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Platform9.xml
 - https://status.aisera.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Aisera.xml
-- https://status.redhat.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Red Hat.xml
+- https://status.redhat.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/RedHat.xml
 - https://status.harness.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Harness.xml
 - https://status.invicti.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Invicti.xml
 - https://status.secondspectrum.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Second Spectrum.xml
