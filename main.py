@@ -295,7 +295,7 @@ for x in secs[1:]:
     output(x, language=language)
     feed = {"url": get_cfg(x, 'url').replace(',','<br>'), "name": get_cfg(x, 'name')}
     feeds.append(feed)  # for rendering index.html
-    links.append("- "+ get_cfg(x, 'url').replace(',',', ') + " -> " + deployment_url + feed['name'] + ".xml\n")
+    links.append(deployment_url + feed['name'] + ".xml\n")
 
 def append_readme(readme, links):
     with open(readme, 'r') as f:
