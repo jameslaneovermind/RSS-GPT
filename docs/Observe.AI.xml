@@ -4,15 +4,15 @@
 <title>observeai Status - Incident History</title>
 <link>https://status.observe.ai</link>
 
+
 <item>
 <title>[Interaction Processing] Degraded performance</title>
 <link>https://status.observe.ai/incidents/3wlp03nzppzt</link>
 <guid>https://status.observe.ai/incidents/3wlp03nzppzt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Slowdown in Processing Interactions <br><br> The company has identified a slowdown in processing interactions affecting a portion of their user base. A fix is being deployed and the processing times are expected to return to normal within three hours. Thank you for your patience. <div>
+<div> [Medium] - Slowdown in Processing Interactions <br /><br /> The company has identified a slowdown in processing interactions affecting a portion of their user base. A fix is being deployed and the processing times are expected to return to normal within three hours. Thank you for your patience. <div>
 <p><small>Feb <var>13</var>, <var>21:17</var> UTC</small><br /><strong>Resolved</strong> - The slowdown has been cleared and fixes have been put in place to ensure it does not occur again.<br /><br />Thank you for your patience during this time.</p><p><small>Feb <var>13</var>, <var>20:16</var> UTC</small><br /><strong>Monitoring</strong> - We continue to monitor the slowdown of processing interactions as the trend continues to move in a positive direction. We expect that within three hours, interaction processing will be back to normal.</p><p><small>Feb <var>13</var>, <var>18:57</var> UTC</small><br /><strong>Identified</strong> - We have identified a slowdown in the processing of interactions received by our system that affects a portion of our user base. A fix for this slowdown is currently being deployed at which point the slowdown will gradually come back down to expected processing times.<br /><br />Please note that this is not affecting all tenants of the Observe.AI platform.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 21:17:37 +0000</pubDate>
 <pubDate>Tue, 13 Feb 2024 21:17:37 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.observe.ai/incidents/74pvlc1kc2dz</link>
 <guid>https://status.observe.ai/incidents/74pvlc1kc2dz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>06:15</var> UTC</small><br /><strong>Resolved</strong> - Dear Client, <br />The issue stands resolved.  In case you are still seeing performance issues while accessing the dashboard, please raise a ticket with Observe.Ai support via the help centre https://help.observe.ai/hc/en-us<br /><br />We apologise for the inconvenience caused in this regard.  <br /><br />Thanks ans Regards.<br />Observe.Ai Technical Support Team</p><p><small>Jan <var>10</var>, <var>21:23</var> UTC</small><br /><strong>Update</strong> - The previously mentioned propagation of relief for the system is currently expected to be fully rolled out in just under 5 hours from this writing.<br /><br />We expect there to be some relief from the previously experienced system slowness at this current point. We expect fewer occurrences and lessened performance degredation as time goes on.<br /><br />We are continuing to monitor the situation as we investigate the root cause and identify how to fully resolve the situation.</p><p><small>Jan <var>10</var>, <var>19:08</var> UTC</small><br /><strong>Identified</strong> - A change has been made to the system that makes the backend calls which are experiencing degraded performance. This change will provide some relief to this issue once the changes have propogated.<br /><br />Most actions are expected to behave normally as time goes on, though some slowness is expected to still be seen. We continue to actively investigate and monitor the situation.<br /><br />Thank you for your continued patience,<br />Observe.AI Technical Support</p><p><small>Jan <var>10</var>, <var>17:39</var> UTC</small><br /><strong>Investigating</strong> - We are aware of multiple reports of slowness being seen in a few areas (reports limited to the login and interactions tab) across the dashboard. We have engaged the necessary teams and are actively investigating the issue.<br /><br />Thank you for your patience while we work on this issue,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 06:15:04 +0000</pubDate>
 <pubDate>Thu, 11 Jan 2024 06:15:04 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.observe.ai/incidents/h0hrqgkvcqp7</link>
 <guid>https://status.observe.ai/incidents/h0hrqgkvcqp7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>05:43</var> UTC</small><br /><strong>Resolved</strong> - Dear Client,<br />All interactions should be available on the dashboard now.  Request you to please review and reach out to support incase you are still seeing interaction processing issues.<br /><br />Thanks <br />Observe.Ai Technical support Team</p><p><small>Nov <var>29</var>, <var>02:30</var> UTC</small><br /><strong>Monitoring</strong> - Dear Client,<br />Issue stands resolved and we are monitoring closely.  Backfills are in progress and any missing interaction from today (28th Nov) should be available on the dashboard in the next few hours.<br /><br />Thank you for your patience and If you have any questions or experience any issues please contact Observe.AI Technical Support via the Help Center. <br /><br />Thank you!<br />Observe.AI Technical Support</p><p><small>Nov <var>28</var>, <var>23:45</var> UTC</small><br /><strong>Investigating</strong> - Dear Client,<br />We are seeing delays in processing interactions due to which certain calls might appear late on the dashboard.  This is expected to be cleared out in the next few hours and all interactions should be available on the dashboard by the end of the day Pacific hours. <br /><br />In case of any other queries, please feel free to open a ticket with support via the help centre https://help.observe.ai/hc/en-us<br /><br />Thanks <br />Observe.Ai Technical support Team</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 05:43:36 +0000</pubDate>
 <pubDate>Wed, 29 Nov 2023 05:43:36 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.observe.ai/incidents/fzxxbxf7gth5</link>
 <guid>https://status.observe.ai/incidents/fzxxbxf7gth5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>12</var>, <var>18:14</var> UTC</small><br /><strong>Resolved</strong> - Dear Client,<br /><br />The issue stands resolved.   Request you to please verify and let us know if you are still seeing slowness on the platform. <br /><br />Thanks<br />Observe.Ai Support Team</p><p><small>Sep <var>12</var>, <var>16:36</var> UTC</small><br /><strong>Identified</strong> - Dear Client,<br /><br />The issue has been identified and the fix is being implemented.  Users should be able to login but access to certain tabs might be slow.<br />In case you are not able to login to the dashboard, kindly open a ticket with support via the help center https://help.observe.ai/hc/en-us<br /><br />Thanks<br />Observe.Ai Support Team</p><p><small>Sep <var>12</var>, <var>14:53</var> UTC</small><br /><strong>Investigating</strong> - Dear Client,<br /><br />We are currently investigating reports of slowness issues on our platform. The escalation team is working on priority and we will keep you posted with regular updates. <br /><br />Apologies for the inconvenience caused.  <br /><br />Thanks<br />Observe.Ai Support Team</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Sep 2023 18:14:14 +0000</pubDate>
 <pubDate>Tue, 12 Sep 2023 18:14:14 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.observe.ai/incidents/hby1c51rlkh2</link>
 <guid>https://status.observe.ai/incidents/hby1c51rlkh2</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>17</var>, <var>17:17</var> UTC</small><br /><strong>Resolved</strong> - Dear Client,<br /><br />The issue stands resolved and all users should be able to login to the Observe.AI platform.<br />In case you are not able to login to the platform, please clear the browser cache and re try. If the issue still exists, please create a ticket with support via the Help Center https://help.observe.ai/hc/en-us <br /><br />Thanks<br />Observe.Ai Support Team</p><p><small>May <var>17</var>, <var>15:58</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>17</var>, <var>15:20</var> UTC</small><br /><strong>Investigating</strong> - Dear Client,<br /><br />We are receiving reports of intermittent login issues on the Observe.AI platform and are looking into it on priority.<br />Will keep you posted with the developments.  <br /><br />Thank you for your patience,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 May 2023 17:17:16 +0000</pubDate>
 <pubDate>Wed, 17 May 2023 17:17:16 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.observe.ai/incidents/zgg4gkh62jn3</link>
 <guid>https://status.observe.ai/incidents/zgg4gkh62jn3</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 3</var>, <var>18:08</var> UTC</small><br /><strong>Resolved</strong> - Dear Customer,<br />The login issue is now resolved. <br />In you are not able to login to the platform, please clear the browser cache and re try. If the issue still exists, please create a ticket with support via the Help Center https://help.observe.ai/hc/en-us <br /><br />Thanks<br />Observe.Ai Support Team</p><p><small>May <var> 3</var>, <var>17:37</var> UTC</small><br /><strong>Update</strong> - Dear Customer,<br />Access to the reporting tab is fixed and there should be no further performance degradation.<br />With respect to the login issue, the google reCaptcha service is still down and we will keep you posted with more updates.<br /><br />In case of any other queries, please create a ticket with support via the Help Center https://help.observe.ai/hc/en-us <br /><br />Thanks<br />Observe.Ai Support Team</p><p><small>May <var> 3</var>, <var>17:06</var> UTC</small><br /><strong>Investigating</strong> - Dear Customer,<br />We are facing an issue with one of our services (google reCaptcha) due to which login to the platform might be impacted. In addition, we are seeing performance degradation in accessing the Reporting tab.<br /><br />The team is working with the third party vendor on priority to resolve these issue.  <br /><br />We will keep you posted with more updates. <br /><br />Thanks<br />Observe.Ai Support Team</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 May 2023 18:08:18 +0000</pubDate>
 <pubDate>Wed, 03 May 2023 18:08:18 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.observe.ai/incidents/4qvty9wwqvfv</link>
 <guid>https://status.observe.ai/incidents/4qvty9wwqvfv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 9</var>, <var>14:35</var> UTC</small><br /><strong>Resolved</strong> - We are pleased to inform you that the issues with the reporting tab have now been resolved. We apologize for any inconvenience caused by the disruption and thank you for your patience while we worked to resolve the issue.<br /><br />We appreciate your understanding during this time. As always, if you encounter any further issues or require assistance, please do not hesitate to submit a ticket via our Help Center.<br /><br /><br />Thank you!<br />Observe.AI Technical Support</p><p><small>Mar <var> 9</var>, <var>13:28</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with the Reporting tab, as the page is not loading. Our Engineering team is aware of the issue and is working with the 3rd party vendor to resolve it. We will provide further updates as soon as they become available. Thank you for your patience and understanding.<br /><br />Please reach out to our Support Team if you have any questions or need any further assistance. <br />https://help.observe.ai/hc/en-us/requests/new<br /><br />Thank you!<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Mar 2023 14:35:50 +0000</pubDate>
 <pubDate>Thu, 09 Mar 2023 14:35:50 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.observe.ai/incidents/2yvyq5w1dtz2</link>
 <guid>https://status.observe.ai/incidents/2yvyq5w1dtz2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>19:20</var> UTC</small><br /><strong>Resolved</strong> - We are happy to report that the issue has been resolved, and our service is fully operational again. We would like to thank you for your patience and understanding while we worked to resolve the problem.<br /><br />If you notice any further issues or have any concerns, please do not hesitate to reach out to our support team.</p><p><small>Feb <var>22</var>, <var>21:30</var> UTC</small><br /><strong>Investigating</strong> - We are aware that dashboards are currently receiving a Call Processing Delay, and our engineering teams are actively working to resolve the issue. Until fully resolved, interactions will be delayed from showing in the dashboards.<br /><br />We will keep you up to date on any changes, and once this issue has been resolved.<br /><br />We appreciate your patience, please don't hesitate to reach out to Support if you have any questions or concerns.</p>
 ]]></content:encoded>
-<pubDate>Thu, 23 Feb 2023 19:20:02 +0000</pubDate>
 <pubDate>Thu, 23 Feb 2023 19:20:02 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.observe.ai/incidents/b6x1f7n748mb</link>
 <guid>https://status.observe.ai/incidents/b6x1f7n748mb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>16:28</var> UTC</small><br /><strong>Resolved</strong> - Our engineering teams have fully resolved the issue, and users should no longer experience degraded system performance while using the Scorecard, Calls/Interactions, and Leaderboard pages.  We will continue to monitor the system closely over the next few days.  <br /><br />Thank you for your patience and understanding as we resolved the issue.</p><p><small>Jan <var>12</var>, <var>04:40</var> UTC</small><br /><strong>Identified</strong> - Our engineering team has worked with the third party to resolve the outage, and is currently working to validate the fix.  We will keep you updated as we continue to make progress on the full resolution.  <br /><br />We appreciate your patience.</p><p><small>Jan <var>11</var>, <var>23:35</var> UTC</small><br /><strong>Update</strong> - Our engineering teams are still working to resolve the issue, and have been able to mitigate a lot of the impact to users at this point.  However, the underlying issue remains and has been identified to be the result of an outage with a third party application.  We are engaged with them to resolve the issue, and in the meantime, users may still experience issues.  <br /><br />We will keep you updated as we continue to make progress on the full resolution.</p><p><small>Jan <var>11</var>, <var>18:37</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>11</var>, <var>18:16</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>11</var>, <var>16:54</var> UTC</small><br /><strong>Investigating</strong> - We are aware that users are experiencing degraded system performance while using the Scorecard, Calls/Interactions, and Leaderboard pages within the OAI dashboard as seen by longer page load times and intermittent failures. Our engineering teams are actively working to resolve the issue.  Until fully resolved, it is recommended that users facing these issues try to load a smaller amount of data, for example, 1 week instead of 2 weeks, or simply retry.  <br /><br />Coaching/QA workflows are not impacted and should continue to work as normal.  We will keep you updated as we make progress on the resolution.  <br /><br />We appreciate your patience.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 Jan 2023 16:28:43 +0000</pubDate>
 <pubDate>Thu, 12 Jan 2023 16:28:43 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.observe.ai/incidents/cm8wpp2n4bwy</link>
 <guid>https://status.observe.ai/incidents/cm8wpp2n4bwy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>18:06</var> UTC</small><br /><strong>Resolved</strong> - A fix has been deployed by our Engineering Team. Please reach out to support if you are still experiencing any issues opening or viewing evaluations. <br /><br />https://help.observe.ai/hc/en-us/requests/new</p><p><small>Dec <var>14</var>, <var>18:03</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var>14</var>, <var>17:44</var> UTC</small><br /><strong>Identified</strong> - Engineering has found that a hotfix for AutoQa was released which caused this issue. Evaluations were not loaded for interactions that are eligible for AutoQa<br /><br />We are rolling back the changes. This change will take an ETA of 30 Minutes.</p><p><small>Dec <var>14</var>, <var>17:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of AutoQA AutoSubmit not being published for some calls. This may impact evaluation visibility on some calls. Our engineering team is currently looking into this issue. We apologize for the inconvenience and will update you as soon as we have an update. <br /><br />Thank you for your patience, <br /><br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Dec 2022 18:06:14 +0000</pubDate>
 <pubDate>Wed, 14 Dec 2022 18:06:14 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.observe.ai/incidents/s21gtrjmdhhg</link>
 <guid>https://status.observe.ai/incidents/s21gtrjmdhhg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 6</var>, <var>23:35</var> UTC</small><br /><strong>Resolved</strong> - Thank you for your patience with us during our scheduled maintenance. The maintenance has been completed. <br /><br />If you need any assistance please let us know.<br /><br />https://help.observe.ai/hc/en-us/requests/new<br /><br />Observe.AI Technical Support</p><p><small>Aug <var> 6</var>, <var>23:10</var> UTC</small><br /><strong>Monitoring</strong> - Thank you for your patience with us during our scheduled maintenance. There is a possibility of delayed processing however we will continue to monitor if the situation arises. Please let us know if you run into any issues in the meantime.<br /><br />https://help.observe.ai/hc/en-us/requests/new<br /><br />We apologize for the inconvenience and will update you as soon as we have more information.<br /><br />Observe.AI Technical Support</p><p><small>Aug <var> 6</var>, <var>23:09</var> UTC</small><br /><strong>Update</strong> - -</p><p><small>Aug <var> 6</var>, <var>23:09</var> UTC</small><br /><strong>Update</strong> - -</p><p><small>Aug <var> 6</var>, <var>15:04</var> UTC</small><br /><strong>Identified</strong> - We currently are having a schedule maintenance which may affect the ability to get into Observe.AI. This should take roughly 3 hours to complete. We’ll continue to share updates as we have them.<br /><br />The scheduled maintenance will take place between 08/06/2022 01:30 PM PDT and 08/06/2022 04:30 PM PDT.<br /><br />Thank you for your patience,<br /><br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Sat, 06 Aug 2022 23:35:55 +0000</pubDate>
 <pubDate>Sat, 06 Aug 2022 23:35:55 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.observe.ai/incidents/q81yfx89mn81</link>
 <guid>https://status.observe.ai/incidents/q81yfx89mn81</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>21</var>, <var>20:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>21</var>, <var>20:40</var> UTC</small><br /><strong>Update</strong> - The Login Page issue has been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Jul <var>21</var>, <var>17:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of login issues that are occurring with our login page. This issue is sporadically occurring. If you run into this issue please open a ticket with our support team. <br /><br />https://help.observe.ai/hc/en-us/requests/new<br /><br />There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Jul 2022 20:40:54 +0000</pubDate>
 <pubDate>Thu, 21 Jul 2022 20:40:54 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.observe.ai/incidents/4zg1dtndzb56</link>
 <guid>https://status.observe.ai/incidents/4zg1dtndzb56</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>20</var>, <var>15:39</var> UTC</small><br /><strong>Resolved</strong> - Observe.AI Outage: Issue Description<br /><br />The Login Page issue has been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Jul <var>20</var>, <var>15:38</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var>20</var>, <var>14:23</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of login issues from Talkdesk and Genesys. There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Jul 2022 15:39:12 +0000</pubDate>
 <pubDate>Wed, 20 Jul 2022 15:39:12 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.observe.ai/incidents/wkrhqphvnk93</link>
 <guid>https://status.observe.ai/incidents/wkrhqphvnk93</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>22</var>, <var>16:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>22</var>, <var>15:59</var> UTC</small><br /><strong>Identified</strong> - This issue has been identified and our engineering team is working to deploy the fix. We will update once fix has been put into place.</p><p><small>Jun <var>22</var>, <var>15:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of Analyze and the Explore features. Our engineering team is currently looking into this issue. We apologize for the inconvenience and will update you as soon as we have an update. <br /><br />Thank you for your patience, <br /><br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Jun 2022 16:11:02 +0000</pubDate>
 <pubDate>Wed, 22 Jun 2022 16:11:02 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.observe.ai/incidents/whkyh169p8jz</link>
 <guid>https://status.observe.ai/incidents/whkyh169p8jz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>22</var>, <var>18:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>22</var>, <var>18:50</var> UTC</small><br /><strong>Update</strong> - The export evaluations issue has been resolved by our engineering team. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.</p><p><small>Apr <var>22</var>, <var>16:11</var> UTC</small><br /><strong>Investigating</strong> - Hello, <br /><br />We are receiving reports of Evaluation Exports not sending out, our engineering team is currently looking into this issue. We apologize for the inconvenience and will update as soon as we have an update. <br /><br />Thanks,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Apr 2022 18:50:31 +0000</pubDate>
 <pubDate>Fri, 22 Apr 2022 18:50:31 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.observe.ai/incidents/3qpmrlrwjl39</link>
 <guid>https://status.observe.ai/incidents/3qpmrlrwjl39</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>22:46</var> UTC</small><br /><strong>Resolved</strong> - Hello, <br /><br />The scheduled maintenance has concluded and all services have been restored successfully.  Please contact Support if you are experiencing any issues or have any questions.    <br /><br />Thank you!<br />Observe.AI Technical Support<br />help.observe.ai</p><p><small>Jan <var>19</var>, <var>02:16</var> UTC</small><br /><strong>Investigating</strong> - We are going to perform scheduled maintenance on January 20, 2022 from 11:30pm to 12:30am PST in which services will not be available. We do expect services to be restored by 2pm IST but please do subscribe to our Statuspage alerts for any further delays.  Please contact Support if you have any questions or issues.</p>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jan 2022 22:46:40 +0000</pubDate>
 <pubDate>Thu, 20 Jan 2022 22:46:40 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.observe.ai/incidents/hp8bn5qglx9l</link>
 <guid>https://status.observe.ai/incidents/hp8bn5qglx9l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>24</var>, <var>16:16</var> UTC</small><br /><strong>Resolved</strong> - Observe.AI Outage: Issue Description<br /><br />The Call Delay have been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Nov <var>23</var>, <var>19:20</var> UTC</small><br /><strong>Identified</strong> - We have identified the underlying cause to be of missing calls. We are rolling out a fix in the next 24 hours so there will be delays in processing of 12-14 hours. We’ll continue to share updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Nov 2021 16:16:58 +0000</pubDate>
 <pubDate>Wed, 24 Nov 2021 16:16:58 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.observe.ai/incidents/hspj1jrv3v6r</link>
 <guid>https://status.observe.ai/incidents/hspj1jrv3v6r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>25</var>, <var>18:40</var> UTC</small><br /><strong>Resolved</strong> - Hello,<br /><br />The call pipeline delay should now be remediated.  Our Engineering team has added more production servers to handle the load of API requests (specific to calls over 2 hours long).  If you are a Genesys customer you may still experience a subset of missing calls, please put in a support request if you see any discrepancy.  <br /><br />If you have any questions or concerns please file a support ticket in our Help Center.  Thanks again for your patience and partnership.  <br /><br />Thanks,<br />Observe.AI Support</p><p><small>Oct <var>22</var>, <var>17:14</var> UTC</small><br /><strong>Update</strong> - Hello, <br /><br />We are continuing to see significant delays in our call pipeline with call ingestions being delayed up to ~12 hours for many of our customers.  Engineering will implement a temporary fix on Sunday 10/24 which will reduce the processing time from ~12 hours to ~2 hours (on top of our normal 2-hour processing time) and continue to plan for a permanent fix to get the processing time back to expected levels (2 hours).    <br /><br />Please wait up to 12 hours for your calls to be processed in Observe.AI and if you are still not seeing your calls after that time please put in a Support ticket for a one-off remediation:  https://help.observe.ai/  <br /><br />Thank you for your patience and we’re extremely sorry for the inconvenience.  <br /><br />Thanks,</p><p><small>Oct <var>22</var>, <var>16:50</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Oct <var>22</var>, <var>16:49</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Oct <var>22</var>, <var>02:47</var> UTC</small><br /><strong>Monitoring</strong> - Hello,<br /><br />We are seeing significant delays in our call pipeline due to a limitation with processing calls over 2 hours long. Because of this, all call ingestions are delayed up to 4-5 hours for all customers. As Engineering fixes the issue overnight please expect there to be a delay in your calls processed for the next 24-48 hours. We will come up with a remediation plan for each customer and backfill calls where necessary. Thank you for your patience and we will let you know once we have resolved the issue.<br /><br />Thanks,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Oct 2021 18:40:54 +0000</pubDate>
 <pubDate>Mon, 25 Oct 2021 18:40:54 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.observe.ai/incidents/56dwdd2cs5t6</link>
 <guid>https://status.observe.ai/incidents/56dwdd2cs5t6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>15</var>, <var>19:19</var> UTC</small><br /><strong>Resolved</strong> - The TalkDesk login issue have been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Oct <var>15</var>, <var>18:53</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with TalkDesk customers not able to log into observe.ai via TalkDesk. We are currently working on resolving this issue, in the meantime please use this URL to access Observe.AI:<br /><br />https://app.observe.ai/<br /><br />Thank you for your patience,<br /><br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Oct 2021 19:19:35 +0000</pubDate>
 <pubDate>Fri, 15 Oct 2021 19:19:35 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.observe.ai/incidents/4rngs9vs3vwj</link>
 <guid>https://status.observe.ai/incidents/4rngs9vs3vwj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>26</var>, <var>15:18</var> UTC</small><br /><strong>Resolved</strong> - Observe.AI Outage: Missing Calls - Aug 24th / Aug 25th<br /><br />The Missing Calls for Aug 24th / Aug 25th have been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Aug <var>25</var>, <var>20:02</var> UTC</small><br /><strong>Identified</strong> - We have identified the underlying cause to be s3 upload lambda triggers. We’ll continue to share updates as we have them.<br /><br />Thank you for your patience,<br /><br />Observe.AI Technical Support</p><p><small>Aug <var>25</var>, <var>19:00</var> UTC</small><br /><strong>Update</strong> - We are currently investigating reports of missing calls from 08/24 to 08/25. There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.<br /><br />Thank you for your patience,<br /><br />Observe.AI Technical Support</p><p><small>Aug <var>25</var>, <var>18:59</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 26 Aug 2021 15:18:28 +0000</pubDate>
 <pubDate>Thu, 26 Aug 2021 15:18:28 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.observe.ai/incidents/2yp3dc6f495w</link>
 <guid>https://status.observe.ai/incidents/2yp3dc6f495w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>16</var>, <var>12:51</var> UTC</small><br /><strong>Resolved</strong> - The missing calls issue has been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Aug <var>13</var>, <var>18:08</var> UTC</small><br /><strong>Monitoring</strong> - We are still monitoring the missing calls issue. We’ll continue to share updates as we have them.<br /><br />Thank you for your patience,<br /><br />Observe.AI Technical Support</p><p><small>Aug <var>13</var>, <var>16:41</var> UTC</small><br /><strong>Identified</strong> - We have identified the underlying cause and we’ll continue to share updates as we have them.</p><p><small>Aug <var>13</var>, <var>15:41</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of missing calls from August 12th to 13th. There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Mon, 16 Aug 2021 12:51:08 +0000</pubDate>
 <pubDate>Mon, 16 Aug 2021 12:51:08 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.observe.ai/incidents/sc343g045bw4</link>
 <guid>https://status.observe.ai/incidents/sc343g045bw4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>23</var>, <var>13:14</var> UTC</small><br /><strong>Resolved</strong> - The Unauthorized IP issue have been resolved. Thank you for your patience while we’ve been working on this. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br /><br />Observe.AI Technical Support</p><p><small>Apr <var>23</var>, <var>12:37</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of IP errors when logging into Observe.AI. There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.<br /><br />Thank you for your patience,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Apr 2021 13:14:30 +0000</pubDate>
 <pubDate>Fri, 23 Apr 2021 13:14:30 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.observe.ai/incidents/628c8kcrj4jy</link>
 <guid>https://status.observe.ai/incidents/628c8kcrj4jy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>12</var>, <var>17:39</var> UTC</small><br /><strong>Resolved</strong> - The call ingestion delay issue has been resolved by our engineering team. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.</p><p><small>Apr <var>12</var>, <var>16:53</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of call ingestion delays from multiple customers.  There is no estimated time to resolve as of yet. We’ll continue to share updates as we have them.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Apr 2021 17:39:25 +0000</pubDate>
 <pubDate>Mon, 12 Apr 2021 17:39:25 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.observe.ai/incidents/5p1f890nrsww</link>
 <guid>https://status.observe.ai/incidents/5p1f890nrsww</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 5</var>, <var>13:17</var> UTC</small><br /><strong>Resolved</strong> - The Calls Tab issue has been resolved by our engineering team. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.</p><p><small>Apr <var> 5</var>, <var>12:36</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing issues with a 502 Bad Gateway upon logging in, our engineering team is currently looking into this issue. We apologize for the inconvenience and will update as soon as this is resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Apr 2021 13:17:16 +0000</pubDate>
 <pubDate>Mon, 05 Apr 2021 13:17:16 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.observe.ai/incidents/jl8n45p8lmtc</link>
 <guid>https://status.observe.ai/incidents/jl8n45p8lmtc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>13</var>, <var>04:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>04:23</var> UTC</small><br /><strong>Update</strong> - The Observe.AI Login issue has been resolved by our engineering team. This was an internal operational issue which has now been resolved and will not occur again in the future. We know the disruption may have been frustrating and we do appreciate you as a customer. If you have any further issues please submit a ticket via our Help Center.<br /><br />Thank you!<br />Observe.AI Technical Support</p><p><small>Mar <var>13</var>, <var>03:29</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of login issues from multiple customers.  We apologize for the inconvenience and will update you as soon as we have more information. <br /><br />Thank you for your patience,<br />Observe.AI Technical Support</p>
 ]]></content:encoded>
 <pubDate>Sat, 13 Mar 2021 04:33:43 +0000</pubDate>
-<pubDate>Sat, 13 Mar 2021 04:33:43 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

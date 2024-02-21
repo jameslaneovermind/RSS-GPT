@@ -4,15 +4,15 @@
 <title>Wise Status - Incident History</title>
 <link>https://status.wise.com</link>
 
+
 <item>
 <title>Scheduled Maintenance - Database upgrade</title>
 <link>https://status.wise.com/incidents/hbn506qbhwpt</link>
 <guid>https://status.wise.com/incidents/hbn506qbhwpt</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: Wise Platform partners will experience a short outage period of up to 5 minutes during scheduled maintenance. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: Wise Platform partners will experience a short outage period of up to 5 minutes during scheduled maintenance. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>10:00</var> - <var>10:15</var> GMT</strong></p><p><small>Feb <var>16</var>, <var>15:25</var> GMT</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance. The work will start at 10:00am GMT and should take up to 10 minutes. During this period our users will experience a short outage period expected to last less than 60 seconds but potentially up to 5 minutes maximum if unexpected issues occurring.<br /><br />This maintenance will affect Wise Platform partners.</p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 10:00:00 +0000</pubDate>
 <pubDate>Sun, 03 Mar 2024 10:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.wise.com/incidents/gk923j296n9s</link>
 <guid>https://status.wise.com/incidents/gk923j296n9s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>11:18</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>10:00</var> GMT</small><br /><strong>Investigating</strong> - We're currently experiencing  a technical issue. As a result, it takes onger than usual to process payments that are normally instant. This issue also impacts Wise Platform customers.<br /><br />Our team is already working to fix this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 11:18:35 +0000</pubDate>
 <pubDate>Mon, 12 Feb 2024 11:18:35 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.wise.com/incidents/b3fkv8w8sn1b</link>
 <guid>https://status.wise.com/incidents/b3fkv8w8sn1b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>19:21</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>16:32</var> GMT</small><br /><strong>Identified</strong> - We're aware of a technical issue when using Wise through the iOS app. As a result, users may see an error message when trying to add money to their Wise account. We're already working to fix this.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 19:21:19 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 19:21:19 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.wise.com/incidents/zbxx18lc8y83</link>
 <guid>https://status.wise.com/incidents/zbxx18lc8y83</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>18:09</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>18</var>, <var>13:16</var> GMT</small><br /><strong>Monitoring</strong> - Between 12:18 and 12:43 we experienced a technical issue. As a result, it took longer than usual to process payments that are normally instant. This issue also impacted Wise Platform customers.<br /><br />We've already implemented a fix and returned to normal processing..</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 18:09:10 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 18:09:10 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.wise.com/incidents/sll5s25shyh4</link>
 <guid>https://status.wise.com/incidents/sll5s25shyh4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 1</var>, <var>18:00</var> GMT</small><br /><strong>Resolved</strong> - On Monday, 1 Jan, between 17:58-18:16 UTC and 18:30-18:33 UTC, we experienced an issue where customers were not able to log in or complete transfers. This also impacted partners integrating the Wise API. This issue has now been resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 01 Jan 2024 18:00:00 +0000</pubDate>
 <pubDate>Mon, 01 Jan 2024 18:00:00 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.wise.com/incidents/jy9zjg6qsyg4</link>
 <guid>https://status.wise.com/incidents/jy9zjg6qsyg4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>12:24</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>15</var>, <var>11:23</var> GMT</small><br /><strong>Investigating</strong> - We're currently experiencing a technical issue affecting GBP payments. As a result, when sending money to a recipient using Wise with the 23-14-70 sort code, these will fail and result in an error message.<br /><br />This issue also affects API integration partners. Our team is already working on a solution.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 12:24:45 +0000</pubDate>
 <pubDate>Fri, 15 Dec 2023 12:24:45 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.wise.com/incidents/pgf11gqhsz1m</link>
 <guid>https://status.wise.com/incidents/pgf11gqhsz1m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>14</var>, <var>18:35</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>14</var>, <var>17:33</var> GMT</small><br /><strong>Identified</strong> - We're aware of an issue that's affecting USD transfers using the ACH method. As a result, some transfers might take longer than expected.<br /><br />Our team's already on the case, and working to get it fixed as quickly as possible. We'll let you know once all's back in order.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Dec 2023 18:35:33 +0000</pubDate>
 <pubDate>Thu, 14 Dec 2023 18:35:33 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.wise.com/incidents/3sg2rl0grsbm</link>
 <guid>https://status.wise.com/incidents/3sg2rl0grsbm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>12</var>, <var>22:30</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>12</var>, <var>17:32</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 8</var>, <var>16:02</var> GMT</small><br /><strong>Scheduled</strong> - From 17:30 on 12 December 2023, we’ll be performing scheduled maintenance for up to 5 hours.<br />During that time, all GBP transfers being received to Wise, or sent by Wise, over Faster Payments, will be affected:<br /><br />1. Third-party deposits to our customers’ GBP account details will be delayed or rejected (depending on how the sending bank operates when a receiving bank is down)<br /><br />2. Payouts to GBP will be delayed. We will queue these payouts and they will be processed automatically at the end of the maintenance window. You don't need to take any action.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 22:30:11 +0000</pubDate>
 <pubDate>Tue, 12 Dec 2023 22:30:11 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.wise.com/incidents/qtntfnc4zg1f</link>
 <guid>https://status.wise.com/incidents/qtntfnc4zg1f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>20:10</var> GMT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 7</var>, <var>18:00</var> GMT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 7</var>, <var>10:46</var> GMT</small><br /><strong>Scheduled</strong> - Between 18:00 - 19:00 (GMT), on 7 December 2023, we’ll be performing scheduled maintenance.  <br /><br />During that time, all GBP transfers being received to Wise, or sent by Wise, over Faster Payments, will be affected:<br /><br />1. Third-party deposits to our customers’ GBP account details will be delayed or rejected (depending on how the sending bank operates when a receiving bank is down)<br /><br />2. Payouts to GBP will be delayed. We will queue these payouts and they will be processed automatically at the end of the maintenance window. You don't need to take any action.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 20:10:29 +0000</pubDate>
 <pubDate>Thu, 07 Dec 2023 20:10:29 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.wise.com/incidents/jd10404wvry2</link>
 <guid>https://status.wise.com/incidents/jd10404wvry2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>16:10</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 5</var>, <var>14:07</var> GMT</small><br /><strong>Investigating</strong> - We're currently experiencing a technical issue. As a result, it's taking longer than usual for your transfer activity to be reflected in our transaction history on our website or mobile apps. Transfers are being processed normally. <br /><br />This issue also affects API integration partners.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 16:10:09 +0000</pubDate>
 <pubDate>Tue, 05 Dec 2023 16:10:09 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.wise.com/incidents/g4hn6r2clwhy</link>
 <guid>https://status.wise.com/incidents/g4hn6r2clwhy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>30</var>, <var>16:55</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>30</var>, <var>16:26</var> GMT</small><br /><strong>Update</strong> - Our team has identified the root cause and implemented a fix. As a result, we resumed processing transfers but some customers are still experiencing issues when moving money and adding money to their Wise account. This affects customers using the Wise website and mobile apps.<br /><br />Our team is working to resolve this issue.</p><p><small>Nov <var>30</var>, <var>15:13</var> GMT</small><br /><strong>Identified</strong> - We're currently experiencing a technical issue affecting money transfers on our website and mobile apps. As a result, transfers are currently not being processed and its not possible to add money to your Wise account.<br /><br />This issue also affects Wise Platform customers. Our team is already working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Nov 2023 16:55:55 +0000</pubDate>
 <pubDate>Thu, 30 Nov 2023 16:55:55 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.wise.com/incidents/y2wlfs4sbcfr</link>
 <guid>https://status.wise.com/incidents/y2wlfs4sbcfr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>18</var>, <var>02:52</var> BST</small><br /><strong>Resolved</strong> - Between 00:00-00:45 UTC, we experienced an issue where some customers were not able to receive SMS or WhatsApp messages from Wise. As a result, impacted customers were unable to log in and approve actions on their account. This issue has now been resolved.</p>
 ]]></content:encoded>
-<pubDate>Fri, 18 Aug 2023 02:52:34 +0100</pubDate>
 <pubDate>Fri, 18 Aug 2023 02:52:34 +0100</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.wise.com/incidents/xqhkhybqlhkm</link>
 <guid>https://status.wise.com/incidents/xqhkhybqlhkm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 9</var>, <var>07:03</var> BST</small><br /><strong>Resolved</strong> - The issue is now resolved. You can continue to use Wise as normal. We're sorry for the inconvenience caused.</p><p><small>Aug <var> 9</var>, <var>06:49</var> BST</small><br /><strong>Monitoring</strong> - Our team has has implemented a fix and are monitoring the results. As our systems recover, some customers may still have trouble logging in. We appreciate your patience while we work to resolve this.</p><p><small>Aug <var> 9</var>, <var>06:34</var> BST</small><br /><strong>Investigating</strong> - We are aware of an issue that is impacting customers ability to log into Wise and use our services. Customers cannot make any transfers currently. You can still continue to use the Wise card as normal, but we recommend you carry a back up card. We're sorry for the inconvenience, our team is working on implementing a fix.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Aug 2023 07:03:31 +0100</pubDate>
 <pubDate>Wed, 09 Aug 2023 07:03:31 +0100</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.wise.com/incidents/kqd67tygc5zc</link>
 <guid>https://status.wise.com/incidents/kqd67tygc5zc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>20</var>, <var>10:39</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>20</var>, <var>07:56</var> BST</small><br /><strong>Identified</strong> - We are currently experiencing an issue that is impacting the speed of transfers. As a result, all transfers may take longer than usual. Our team is working to fix this as soon as possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Jun 2023 10:39:59 +0100</pubDate>
 <pubDate>Tue, 20 Jun 2023 10:39:59 +0100</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.wise.com/incidents/qtp64mkhprc2</link>
 <guid>https://status.wise.com/incidents/qtp64mkhprc2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>13</var>, <var>18:42</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>13</var>, <var>17:42</var> BST</small><br /><strong>Identified</strong> - Incident has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 18:42:05 +0100</pubDate>
 <pubDate>Tue, 13 Jun 2023 18:42:05 +0100</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.wise.com/incidents/qs5gphmx147c</link>
 <guid>https://status.wise.com/incidents/qs5gphmx147c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>16</var>, <var>16:06</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>16</var>, <var>14:58</var> BST</small><br /><strong>Identified</strong> - We’re currently experiencing a technical issue affecting transfers from SGD when using bank transfer as a payment method. As a result, some transfers are currently failing. If possible, we recommend using PayNow as an alternative method.<br /><br />We’re already working on it and we’ll update once the issue is resolved.</p>
 ]]></content:encoded>
-<pubDate>Sun, 16 Apr 2023 16:06:58 +0100</pubDate>
 <pubDate>Sun, 16 Apr 2023 16:06:58 +0100</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.wise.com/incidents/nbr53vmqy4j5</link>
 <guid>https://status.wise.com/incidents/nbr53vmqy4j5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 5</var>, <var>03:07</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var> 4</var>, <var>22:27</var> BST</small><br /><strong>Update</strong> - This issue has been resolved for customers funding their transactions via a bank transfer in MYR and CHF.<br /><br />For customers funding their transactions via a bank transfer in AUD and NZD there is still an issue and are working to resolve it. We will update as soon as possible.</p><p><small>Apr <var> 4</var>, <var>12:17</var> BST</small><br /><strong>Identified</strong> - We are currently experiencing an issue impacting transfers and Wise Account top ups. Customers funding their transactions via a bank transfer in these currencies will be impacted: MYR, AUD, NZD, CHF. As a result, it may take us a little longer than usual to confirm that we've received your money.<br /><br />Other funding methods, like cards, are not affected.<br /><br />We're already working on it and we’ll update once the issue is resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 05 Apr 2023 03:07:46 +0100</pubDate>
 <pubDate>Wed, 05 Apr 2023 03:07:46 +0100</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.wise.com/incidents/lb3kft570zmq</link>
 <guid>https://status.wise.com/incidents/lb3kft570zmq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>16</var>, <var>22:22</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>16</var>, <var>21:07</var> GMT</small><br /><strong>Identified</strong> - We’re aware of a technical issue with a service partner affecting top ups to the Wise Account. For those using a credit card or debit card multiple currencies are impacted, including: CHF, PLN, USD, NZD, AUD, HUF, RON, SGD, HKD, BRL, JPY, CAD. This is impacting transfers for these currencies as well.<br /><br />For those making top ups and transfers using Apple Pay or Google Pay all currencies are impacted.<br /><br />We're already working on a solution and we’ll update once the issue is resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Mar 2023 22:22:14 +0000</pubDate>
 <pubDate>Thu, 16 Mar 2023 22:22:14 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.wise.com/incidents/13y6hjqtpk9f</link>
 <guid>https://status.wise.com/incidents/13y6hjqtpk9f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>16:32</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 7</var>, <var>12:18</var> GMT</small><br /><strong>Identified</strong> - We're aware of an issue affecting money transfers. As a result some transfers may arrive later than expected. This also affects partners integrating the Wise Platform API. Our team is already working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Feb 2023 16:32:16 +0000</pubDate>
 <pubDate>Tue, 07 Feb 2023 16:32:16 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.wise.com/incidents/5sj60np3db75</link>
 <guid>https://status.wise.com/incidents/5sj60np3db75</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>10:54</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>25</var>, <var>10:11</var> GMT</small><br /><strong>Identified</strong> - We’re aware of an issue affecting some users in the UK. As a result, when trying to pay for a transfer using your bank via Open Banking in our Wise app, this may return an error. Our team is already working on a solution.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Jan 2023 10:54:10 +0000</pubDate>
 <pubDate>Wed, 25 Jan 2023 10:54:10 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.wise.com/incidents/cvl8p7ym7mxt</link>
 <guid>https://status.wise.com/incidents/cvl8p7ym7mxt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 9</var>, <var>16:30</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>14:59</var> GMT</small><br /><strong>Identified</strong> - Our team has identified the issue and has implemented a fix. Some customers will still continue to experience issues. Our team continues to work on resolving this issue as quickly as possible.</p><p><small>Jan <var> 9</var>, <var>14:23</var> GMT</small><br /><strong>Investigating</strong> - We're aware of an issue affecting our platform. As a result some users see an error message when they want to pay for their transfer or top up their Wise account. Some transfers will be delayed as a result of this issue. <br /><br />Our team is already working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Mon, 09 Jan 2023 16:30:31 +0000</pubDate>
 <pubDate>Mon, 09 Jan 2023 16:30:31 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.wise.com/incidents/00140hppgm8r</link>
 <guid>https://status.wise.com/incidents/00140hppgm8r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>19:11</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>15:59</var> GMT</small><br /><strong>Identified</strong> - We’re aware of an issue affecting customers receiving USD from a bank inside the US to their local bank details on their Wise account. As a result of this issue, it’ll take us longer than usual to credit the money on your account. Our team is already working on a solution.</p>
 ]]></content:encoded>
-<pubDate>Tue, 15 Nov 2022 19:11:26 +0000</pubDate>
 <pubDate>Tue, 15 Nov 2022 19:11:26 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.wise.com/incidents/cjqz5qf2n9sb</link>
 <guid>https://status.wise.com/incidents/cjqz5qf2n9sb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>16:42</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>06:52</var> GMT</small><br /><strong>Update</strong> - Our team has started to roll out a fix for those customers facing problems using their multi-currency balances. Most customers should now be able to use the product as normal. <br /><br />For those still experiencing delays, we ask for your continued patience for just a little bit longer.</p><p><small>Nov <var>15</var>, <var>02:52</var> GMT</small><br /><strong>Update</strong> - Transfers are slowly returning to normal after our team deployed the fix.<br /><br />We are aware that some customers are facing problems using their multi-currency balances, so please bear with us while we work to resolve that.</p><p><small>Nov <var>14</var>, <var>23:00</var> GMT</small><br /><strong>Monitoring</strong> - Our team has deployed a fix for this issue and expects transfers to begin processing at faster speeds in the coming hours. <br /><br />As these solutions are put in place, we will continue to share updates and will provide more information at 2AM GMT.</p><p><small>Nov <var>14</var>, <var>18:53</var> GMT</small><br /><strong>Update</strong> - We’re still facing a technical issue that is delaying transfers. Transfers continue to be processed, but you should expect it to take a little longer than we originally estimated.<br /><br />Our team is continuing to work on a solution, and we’ll share another update at 11pm GMT.</p><p><small>Nov <var>14</var>, <var>14:08</var> GMT</small><br /><strong>Update</strong> - We expect transfers to be delayed for the next few hours. We’re still processing your transfer, but you should expect it to take a little longer than we originally estimated.<br /><br />Our team has already identified the root cause and continues to work on a solution. Unless we have major updates, we will share another update here at 7:00PM GMT.</p><p><small>Nov <var>14</var>, <var>07:42</var> GMT</small><br /><strong>Update</strong> - Our team is continuing to work on implementing a fix for this issue. We're really sorry for the inconvenience caused.</p><p><small>Nov <var>14</var>, <var>04:44</var> GMT</small><br /><strong>Identified</strong> - Due to some internal processing delays, there's an issue impacting all customers who pay via bank transfers. As a result, it may take us a little longer than normal to confirm that we've received your money. Other payin methods, like cards, are not impacted.</p>
 ]]></content:encoded>
-<pubDate>Tue, 15 Nov 2022 16:42:57 +0000</pubDate>
 <pubDate>Tue, 15 Nov 2022 16:42:57 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.wise.com/incidents/gfcgy82s0bl4</link>
 <guid>https://status.wise.com/incidents/gfcgy82s0bl4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>25</var>, <var>18:03</var> BST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>25</var>, <var>16:38</var> BST</small><br /><strong>Update</strong> - Transfers to SGD now work normally again.<br /><br />We still experience issues with transfers from SGD. If customers encounter issues when sending from SGD, we recommend using PayNow as an option to pay for a transfer. Our team continues to work on a solution.</p><p><small>Oct <var>25</var>, <var>15:48</var> BST</small><br /><strong>Identified</strong> - We're aware of an issue affecting money transfers to and from SGD. As a result some transfers may arrive later than expected or fail. This also affects partners integrating the Wise Platform API. If customers encounter issues when sending from SGD, we recommend using PayNow as an option to pay for a transfer.<br /><br /> Our team is already working on a fix.</p>
 ]]></content:encoded>
-<pubDate>Tue, 25 Oct 2022 18:03:27 +0100</pubDate>
 <pubDate>Tue, 25 Oct 2022 18:03:27 +0100</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.wise.com/incidents/37f86b4jslc3</link>
 <guid>https://status.wise.com/incidents/37f86b4jslc3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>22</var>, <var>12:44</var> BST</small><br /><strong>Resolved</strong> - This incident has now been resolved.</p><p><small>Oct <var>22</var>, <var>09:21</var> BST</small><br /><strong>Investigating</strong> - We're aware of an issue affecting money transfers. As a result some transfers may arrive later than expected. This also affects partners integrating the Wise Platform API. Our team is already working on a fix.</p>
 ]]></content:encoded>
 <pubDate>Sat, 22 Oct 2022 12:44:33 +0100</pubDate>
-<pubDate>Sat, 22 Oct 2022 12:44:33 +0100</pubDate>
 </item>
-
 </channel>
 </rss>

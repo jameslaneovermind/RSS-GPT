@@ -4,15 +4,15 @@
 <title>Cloudsmith Status - Incident History</title>
 <link>https://status.cloudsmith.io</link>
 
+
 <item>
 <title>Broken Upload Functionality with Latest Cloudsmith API Release</title>
 <link>https://status.cloudsmith.io/incidents/sj1mxqxmthxx</link>
 <guid>https://status.cloudsmith.io/incidents/sj1mxqxmthxx</guid>
 <content:encoded><![CDATA[
-<div> [High] - Cloudsmith API Bindings Issue <br><br> The `2.0.8` release of the `cloudsmith-api` bindings for Python has been yanked from PyPi due to a problem when interacting with the Cloudsmith CLI. Affected users are advised to downgrade to `2.0.7` while the issue is being resolved. Apologies for the inconvenience. <div>
+<div> [High] - Cloudsmith API Bindings Issue <br /><br /> The `2.0.8` release of the `cloudsmith-api` bindings for Python has been yanked from PyPi due to a problem when interacting with the Cloudsmith CLI. Affected users are advised to downgrade to `2.0.7` while the issue is being resolved. Apologies for the inconvenience. <div>
 <p><small>Feb <var>14</var>, <var>15:28</var> UTC</small><br /><strong>Resolved</strong> - The `2.0.8` release of the `cloudsmith-api` bindings for Python has been yanked from PyPi. Affected users can clear local pip caches to ensure a fresh pull of `2.0.7` takes place following this. We apologise profusely for this erroneous release of the bindings.</p><p><small>Feb <var>14</var>, <var>15:23</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem the latest release of the Cloudsmith API bindings, when interacting with the Cloudsmith CLI. We're working on resolving this ASAP. Affected users can temporarily downgrade to cloudsmith API `2.0.7` whilst this is being resolved. Non-upload functionality remains operational with the latest release. Apologies to all those affected.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 15:28:10 +0000</pubDate>
 <pubDate>Wed, 14 Feb 2024 15:28:10 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.cloudsmith.io/incidents/74fph4ccc4z9</link>
 <guid>https://status.cloudsmith.io/incidents/74fph4ccc4z9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>07:55</var> UTC</small><br /><strong>Resolved</strong> - Our performance returned to normal after we increased capacity in the impacted region. We believe the issue has been fixed.</p><p><small>Feb <var>13</var>, <var>16:51</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>13</var>, <var>16:09</var> UTC</small><br /><strong>Monitoring</strong> - We have increased our database capacity in the impacted region. We are monitoring the traffic to this region and believe this increased capacity is sufficient to avoid degraded UI and API performance. We will continue to monitor UI and API performance to determine whether this is sufficient to consider this issue resolved. Further, we have identified some problematic queries that are the likely root cause of this issue that we will address with code-fixes.</p><p><small>Feb <var>13</var>, <var>15:39</var> UTC</small><br /><strong>Update</strong> - We have scaled up capacity in the impacted region. This should mitigate most of the impact users are experiencing. We continue to investigate the root cause.</p><p><small>Feb <var>13</var>, <var>15:11</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating degraded read performance in our EU-West region. We have noticed heavy read activity on our database. Our web-ui and api responses may be slow during this incident. We are working to establish a root-cause and taking actions to relieve the incident. You may notice degraded response at this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 07:55:03 +0000</pubDate>
 <pubDate>Wed, 14 Feb 2024 07:55:03 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.cloudsmith.io/incidents/v0xx68tz3jdp</link>
 <guid>https://status.cloudsmith.io/incidents/v0xx68tz3jdp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>18</var>, <var>15:01</var> UTC</small><br /><strong>Resolved</strong> - The issue has been resolved; we'll monitor malware scanning and coordinate a permanent fix with ClamAV.</p><p><small>Nov <var>18</var>, <var>14:43</var> UTC</small><br /><strong>Monitoring</strong> - We've implemented a fix and are monitoring the results; package synchronization should now be fully functional.</p><p><small>Nov <var>18</var>, <var>14:35</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and we're working on a fix.</p><p><small>Nov <var>18</var>, <var>14:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue causing some package synchronization (uploads) to fail; related to ClamAV scanning.</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Nov 2023 15:01:00 +0000</pubDate>
 <pubDate>Sat, 18 Nov 2023 15:01:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.cloudsmith.io/incidents/chx98hy56bcv</link>
 <guid>https://status.cloudsmith.io/incidents/chx98hy56bcv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>16:59</var> UTC</small><br /><strong>Resolved</strong> - Investigations have completed. The number of failed requests has returned to normal tolerance levels. Investigations point toward the small increase is likely due to intermittent network connectivity issues. Our systems will continue to monitor any change in status.</p><p><small>Nov <var>15</var>, <var>16:06</var> UTC</small><br /><strong>Update</strong> - Investigations have shown that there is no growing or wide-scale issue serving requests. All systems are operational. Our technical team is continuing to monitor and investigate.</p><p><small>Nov <var>15</var>, <var>14:49</var> UTC</small><br /><strong>Investigating</strong> - System alerts are showing a small increase in number of failed requests. All systems are operational. Our technical team is investigating.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Nov 2023 16:59:05 +0000</pubDate>
 <pubDate>Wed, 15 Nov 2023 16:59:05 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.cloudsmith.io/incidents/qd3hnw686wgw</link>
 <guid>https://status.cloudsmith.io/incidents/qd3hnw686wgw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>13</var>, <var>20:00</var> UTC</small><br /><strong>Resolved</strong> - A change in version 1.308.1 introduced a permissions issue for anonymous users trying to view the repository list UI view. Anonymous users encountered a permissions error when loading the repository list view in the UI and could not see all public repositories for a customer organization. Direct repository and package access in the UI was still accessible. No other non-UI functionality was affected and fixed at 23:23 UTC on 2023-11-13.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 20:00:00 +0000</pubDate>
 <pubDate>Mon, 13 Nov 2023 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.cloudsmith.io/incidents/s6xv9l1gn3t4</link>
 <guid>https://status.cloudsmith.io/incidents/s6xv9l1gn3t4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 6</var>, <var>13:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved, and was due to an invalid configuration change. This change has been rolled back. Apologies to all affected users.</p><p><small>Nov <var> 6</var>, <var>13:39</var> UTC</small><br /><strong>Update</strong> - We have identified the issue and are currently deploying a fix.</p><p><small>Nov <var> 6</var>, <var>13:39</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 6</var>, <var>13:37</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is preventing packages from being pulled.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Nov 2023 13:46:42 +0000</pubDate>
 <pubDate>Mon, 06 Nov 2023 13:46:42 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.cloudsmith.io/incidents/qrltxkx2zszv</link>
 <guid>https://status.cloudsmith.io/incidents/qrltxkx2zszv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>16:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 2</var>, <var>12:24</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 2</var>, <var>10:23</var> UTC</small><br /><strong>Identified</strong> - We've identified an issue affecting Nuget requests originating from Europe. We're working to remediate the performance issue.</p><p><small>Nov <var> 2</var>, <var>09:56</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Nov 2023 16:04:25 +0000</pubDate>
 <pubDate>Thu, 02 Nov 2023 16:04:25 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.cloudsmith.io/incidents/q08rrdm1bwzl</link>
 <guid>https://status.cloudsmith.io/incidents/q08rrdm1bwzl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>19</var>, <var>10:11</var> UTC</small><br /><strong>Resolved</strong> - The AWS us-west-2 region issue has been resolved and traffic will resume serving from this region.</p><p><small>Sep <var>18</var>, <var>19:34</var> UTC</small><br /><strong>Update</strong> - The AWS us-west-2 region is currently in a state of intermittent failure. We've applied a change to failover requests that would've been served by this region to the next closest region. This may increase download and API read latencies temporarily, whilst our infrastructure provider resolves the upstream issue.</p><p><small>Sep <var>18</var>, <var>19:23</var> UTC</small><br /><strong>Identified</strong> - We've identified an issue with one of our infrastructure providers which is contributing to the elevated levels of API errors on our platform. Our engineers continue to monitor and work on mitigations for the issue.</p><p><small>Sep <var>18</var>, <var>19:01</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Sep 2023 10:11:53 +0000</pubDate>
 <pubDate>Tue, 19 Sep 2023 10:11:53 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.cloudsmith.io/incidents/t2t1fcmlyp62</link>
 <guid>https://status.cloudsmith.io/incidents/t2t1fcmlyp62</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 9</var>, <var>14:23</var> UTC</small><br /><strong>Resolved</strong> - As reported by AWS: "Our internal service team had contacted Proofpoint regarding unblocking the IP address, and the Proofpoint team has informed that these blocks have been lifted on Sept 8 1:28PM PST.  " Email delivery should, therefore, now be resolved. To avoid these issues in the future, the Cloudsmith team will investigate the use of permanent Dedicated IPs in the future instead.</p><p><small>Sep <var> 8</var>, <var>19:38</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with email servers running Proofpoint's platform for checking sender IP reputation. Proofpoint has erroneously flagged one of the IPs we utilize for sending email, impacting delivery to those servers. Proofpoint has already raised a ticket for the issue, and we await a resolution. Meanwhile, we're exploring an alternative route to bypass the delivery issues.</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Sep 2023 14:23:39 +0000</pubDate>
 <pubDate>Sat, 09 Sep 2023 14:23:39 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.cloudsmith.io/incidents/416n5jtnsdm1</link>
 <guid>https://status.cloudsmith.io/incidents/416n5jtnsdm1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 7</var>, <var>17:00</var> UTC</small><br /><strong>Resolved</strong> - Between the 2nd of August 2023 and the 7th of September 2023, we experienced a considerable reduction in access/usage log processing due to a change by our Cloud hosting provider, resulting in missed data for both access log exports (to your object storage) for customers and reduced metrics for billing purposes (resulting in reduced charges for the month).<br /><br />The root cause was fixed, restoring processing for any logs beyond that. Still, we're currently in the process (as of the 5th of October) of orchestrating a backfill process to restore this data for customers fully. The intended completion date is mid to late October; we'll write a communication to detail progress later. A retrospective and post-mortem will be conducted at a point closer to the completion of the backfill.<br /><br />If you have any questions, please don't hesitate to contact us anytime.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Sep 2023 17:00:00 +0000</pubDate>
 <pubDate>Thu, 07 Sep 2023 17:00:00 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.cloudsmith.io/incidents/1812q5f0bprn</link>
 <guid>https://status.cloudsmith.io/incidents/1812q5f0bprn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>18</var>, <var>17:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>18</var>, <var>17:29</var> UTC</small><br /><strong>Monitoring</strong> - The upstream issue appears to be resolved, and requests should be completing as normal once again. Our engineers continue to monitor for any further disruption.</p><p><small>Jul <var>18</var>, <var>17:25</var> UTC</small><br /><strong>Identified</strong> - We've identified an issue with one of our infrastructure providers which is contributing to the elevated levels of API errors on our platform. Our engineers continue to monitor and work on mitigations for the issue.</p><p><small>Jul <var>18</var>, <var>17:11</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jul 2023 17:34:40 +0000</pubDate>
 <pubDate>Tue, 18 Jul 2023 17:34:40 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.cloudsmith.io/incidents/52qy7fkqvzs6</link>
 <guid>https://status.cloudsmith.io/incidents/52qy7fkqvzs6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>13</var>, <var>21:12</var> UTC</small><br /><strong>Resolved</strong> - Error rates have returned to normal across our CDN for all users, our team will continue to monitor for any additional impact until the upstream AWS outage has been fully resolved.</p><p><small>Jun <var>13</var>, <var>20:34</var> UTC</small><br /><strong>Identified</strong> - We continue to monitor the AWS outage in the us-east-1 region.<br /><br />Our main services continue to run as normal in all other regions, but users close to us-east-1 who hit nearby CDN edge locations may continue to see elevated error rates until the incident has been mitigated.</p><p><small>Jun <var>13</var>, <var>19:57</var> UTC</small><br /><strong>Investigating</strong> - We're monitoring an AWS outage that is causing some of our customers in some regions to experience an elevated level of API errors. <br /> Our engineers are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 21:12:45 +0000</pubDate>
 <pubDate>Tue, 13 Jun 2023 21:12:45 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.cloudsmith.io/incidents/rhlfjpzxfhwx</link>
 <guid>https://status.cloudsmith.io/incidents/rhlfjpzxfhwx</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>19</var>, <var>11:59</var> UTC</small><br /><strong>Resolved</strong> - We identified an issue with the database serving a core component of our infrastructure, a fail-over to standby resulted in a <20 second interruption to service.</p><p><small>May <var>19</var>, <var>11:57</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>19</var>, <var>11:56</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>19</var>, <var>11:55</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating intermittent errors.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 May 2023 11:59:28 +0000</pubDate>
 <pubDate>Fri, 19 May 2023 11:59:28 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.cloudsmith.io/incidents/hp0vslzs1g3l</link>
 <guid>https://status.cloudsmith.io/incidents/hp0vslzs1g3l</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>16</var>, <var>17:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>16</var>, <var>16:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>16</var>, <var>16:02</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>16</var>, <var>14:36</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of processing errors and are currently looking into the issue.<br /><br />Users may see intermittent failures during malware scans which cause packages to fail to sync successfully. The affected packages can be retried manually and should complete on a subsequent attempt.<br /><br />Users may experience increased sync times while our engineers work to mitigate the incident.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 May 2023 17:30:26 +0000</pubDate>
 <pubDate>Tue, 16 May 2023 17:30:26 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.cloudsmith.io/incidents/p6xlnfwhhrsc</link>
 <guid>https://status.cloudsmith.io/incidents/p6xlnfwhhrsc</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>16</var>, <var>13:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>16</var>, <var>13:11</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>16</var>, <var>13:01</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>16</var>, <var>12:21</var> UTC</small><br /><strong>Update</strong> - We have deployed a mitigation that allows some previously failing scans to complete, but users may see increased scan times until the incident is fully resolved. Our team continues to investigate the issue.</p><p><small>May <var>16</var>, <var>11:41</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of processing errors and are currently looking into the issue.<br /><br />Users may see intermittent failures during malware scans which cause packages to fail to sync successfully. The affected packages can be retried manually and should complete on a subsequent attempt.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 May 2023 13:17:33 +0000</pubDate>
 <pubDate>Tue, 16 May 2023 13:17:33 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.cloudsmith.io/incidents/8vl920sp0449</link>
 <guid>https://status.cloudsmith.io/incidents/8vl920sp0449</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 4</var>, <var>07:37</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var> 4</var>, <var>07:27</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var> 4</var>, <var>07:11</var> UTC</small><br /><strong>Identified</strong> - Our data processing infrastructure is running behind which is causing some packages to wait longer than normal in the queue for sync. No data has been lost and the system should be caught up shortly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 May 2023 07:37:00 +0000</pubDate>
 <pubDate>Thu, 04 May 2023 07:37:00 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.cloudsmith.io/incidents/m207bk12671z</link>
 <guid>https://status.cloudsmith.io/incidents/m207bk12671z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>29</var>, <var>09:18</var> UTC</small><br /><strong>Resolved</strong> - The issue has now been resolved, and any/all affected checksums for RedHat packages have been automatically recalculated. If you encounter any further issues, please try clearing any local caches first (e.g. for yum, using "yum clean all").</p><p><small>Apr <var>28</var>, <var>11:03</var> UTC</small><br /><strong>Monitoring</strong> - We have identified and are currently verifying a fix for an issue raised by a subset of customers distributing RedHat packages<br /><br />The symptoms are, when a package has been uploaded and get signed by Cloudsmith, the checksum for the package isn't fully updated post-signature, and when clients attempt to retrieve the package with checksum validation, it fails to validate with the following:<br /><br />"Downloading successful, but checksum doesn't match. Calculated:  Expected "<br /><br />A fix has been implemented to resolve the issue, but as it only affects a subset of customers, we're still in the process of verifying this has been fully fixed. A workaround mitigation is that a resync of the package will fix the issue. Once we fully validate the fix, we'll determine if we can backfill a fix for all affected packages.</p>
 ]]></content:encoded>
-<pubDate>Sat, 29 Apr 2023 09:18:25 +0000</pubDate>
 <pubDate>Sat, 29 Apr 2023 09:18:25 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.cloudsmith.io/incidents/m6sb9w9k06cm</link>
 <guid>https://status.cloudsmith.io/incidents/m6sb9w9k06cm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>24</var>, <var>18:58</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>24</var>, <var>17:42</var> UTC</small><br /><strong>Update</strong> - Package synchronization for the Debian package format is currently running behind. All queued artifacts will resume the sync process shortly.</p><p><small>Apr <var>24</var>, <var>16:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Apr <var>24</var>, <var>16:39</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 24 Apr 2023 18:58:25 +0000</pubDate>
 <pubDate>Mon, 24 Apr 2023 18:58:25 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.cloudsmith.io/incidents/yhq6qjfmrw26</link>
 <guid>https://status.cloudsmith.io/incidents/yhq6qjfmrw26</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>24</var>, <var>11:44</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>24</var>, <var>10:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>24</var>, <var>09:43</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 24 Mar 2023 11:44:01 +0000</pubDate>
 <pubDate>Fri, 24 Mar 2023 11:44:01 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.cloudsmith.io/incidents/hk5br3kcmwrh</link>
 <guid>https://status.cloudsmith.io/incidents/hk5br3kcmwrh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>21</var>, <var>19:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>21</var>, <var>18:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>21</var>, <var>18:26</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Mar <var>21</var>, <var>18:25</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>21</var>, <var>17:54</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>21</var>, <var>17:41</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>21</var>, <var>17:33</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of API errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 21 Mar 2023 19:42:25 +0000</pubDate>
 <pubDate>Tue, 21 Mar 2023 19:42:25 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.cloudsmith.io/incidents/36lbq9hr78v2</link>
 <guid>https://status.cloudsmith.io/incidents/36lbq9hr78v2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>15</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - The team has identified an issue with exporting access logs to object storage that affected some customers in the past two weeks, resulting in zero-byte (or missing) uploads. The underlying problem has been resolved, and we're currently backfilling any missing uploads. There is no data loss; additional monitoring has been added to identify if this happens again.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
 <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.cloudsmith.io/incidents/7ns8g0ffw4mx</link>
 <guid>https://status.cloudsmith.io/incidents/7ns8g0ffw4mx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - On February 23rd, between 12:00 and 13:03 UTC, a portion of traffic to the service experienced slower response times and eventually started receiving timeout responses.<br /><br />This was caused by infrastructure instability in a handful of web server instances, causing slowdowns in requests being processed, which led to longer times to service requests, ultimately causing multiple web server instances to be replaced, further amplifying the problem.<br /><br />The situation was resolved by scaling our infrastructure to handle the backlog of requests and return the service to normal operation.</p>
 ]]></content:encoded>
-<pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
 <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.cloudsmith.io/incidents/4drxn2lt5hsj</link>
 <guid>https://status.cloudsmith.io/incidents/4drxn2lt5hsj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>22</var>, <var>16:10</var> UTC</small><br /><strong>Resolved</strong> - We observed elevated errors in API endpoints handling package creation. An issue was identified and remediation put in place, apologies for any inconvenience.</p>
 ]]></content:encoded>
-<pubDate>Wed, 22 Feb 2023 16:10:00 +0000</pubDate>
 <pubDate>Wed, 22 Feb 2023 16:10:00 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.cloudsmith.io/incidents/0r4yflwbwsjn</link>
 <guid>https://status.cloudsmith.io/incidents/0r4yflwbwsjn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>00:41</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>23:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. Webhooks are firing and the backlog is clearing down. We'll provide another update once the queue has cleared.</p><p><small>Feb <var>15</var>, <var>23:00</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing processing delays with some Webhooks. <br />We are investigating the root cause of the delays and will update the status as we progress.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Feb 2023 00:41:29 +0000</pubDate>
 <pubDate>Thu, 16 Feb 2023 00:41:29 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.cloudsmith.io/incidents/8dnlwlmhfjp4</link>
 <guid>https://status.cloudsmith.io/incidents/8dnlwlmhfjp4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>18:09</var> UTC</small><br /><strong>Resolved</strong> - We have identified the underlying issue responsible for the degraded performance and the team have put a plan in place to restore functionality ASAP.<br /><br />As the team works to restore service we will provide updates early next week when there is progress to report.<br /><br />If you require support related to this issue, please don't hesitate to reach out via the usual channels.</p><p><small>Feb <var> 9</var>, <var>18:19</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var> 9</var>, <var>18:16</var> UTC</small><br /><strong>Identified</strong> - A component within our data processing infrastructure is experiencing degraded performance, and as a result we are currently unable to index the contents (files and folders) within uploaded packages for display within the UI.<br /><br />This outage affects background processing and the UI only, package upload, processing and serving APIs are otherwise unaffected.<br /><br />No data has been lost, and once the incident has been resolved we'll be able to reprocess all packages for file/folder display as normal. We do not yet have any information to provide on a possible timeline for resolution.<br /><br />We thank you for your patience at this time.</p>
 ]]></content:encoded>
 <pubDate>Fri, 10 Feb 2023 18:09:42 +0000</pubDate>
-<pubDate>Fri, 10 Feb 2023 18:09:42 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

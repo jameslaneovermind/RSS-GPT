@@ -4,6 +4,7 @@
 <title>Solver AI Suite Status - Incident History</title>
 <link>https://status.thingsolver.com</link>
 
+
 <item>
 <title>Audience Studio is down for some customers</title>
 <link>https://status.thingsolver.com/incidents/flx0mnrj8tkd</link>
@@ -14,8 +15,6 @@ Summary: The incident with Audience Studio has been identified and fixed. Audien
 <p><small>Jul <var>29</var>, <var>09:46</var> CEST</small><br /><strong>Resolved</strong> - This incident has been resolved. Audience Studio is fully operable now.</p><p><small>Jul <var>29</var>, <var>08:25</var> CEST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
 <pubDate>Fri, 29 Jul 2022 09:46:30 +0200</pubDate>
-<pubDate>Fri, 29 Jul 2022 09:46:30 +0200</pubDate>
 </item>
-
 </channel>
 </rss>

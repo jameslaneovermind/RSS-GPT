@@ -31,3 +31,9 @@ Append: [Control plane upgrade- extension](https://status.platform9.com/incident
 Append: [Control Plane upgrade](https://status.platform9.com/incidents/26jjvgjnt9zr)
 append_entries: 25
 Finish: 2024-02-21 16:24:06.071546
+------------------------------------------------------
+Started: 2024-02-21 16:44:18.436465
+Existing_entries: 25
+Fetching from https://status.platform9.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:18.726716

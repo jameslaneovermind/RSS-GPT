@@ -4,15 +4,15 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/ydc28gfhfdpf</link>
 <guid>https://status.sage.com/incidents/ydc28gfhfdpf</guid>
 <content:encoded><![CDATA[
-<div> [High] - Sage DPW Cloud Maintenance <br><br> Summary: Sage DPW Cloud will be undergoing 11 hours of maintenance on Sunday, February 25th, 2024, making the service unavailable. <div>
+<div> [High] - Sage DPW Cloud Maintenance <br /><br /> Summary: Sage DPW Cloud will be undergoing 11 hours of maintenance on Sunday, February 25th, 2024, making the service unavailable. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>07:00</var> - <var>18:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>15:23</var> UTC</small><br /><strong>Scheduled</strong> - Sage DPW Cloud will be undergoing maintenance on Sunday, February 25th, 2024 for 11 hours between 08:00 CET and 21:00 CET. <br /> <br />The service will be unavailable during this scheduled time. <br /> <br />We apologize for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team <br /> <br />--------------------------------------------------------------------------------------------------------- <br /> <br />Bei Ihrer Sage DPW Cloud werden am Sonntag, 25. Februar 2024, zwischen 08:00 MEZ und 21:00 MEZ. Wartungsarbeiten durchgeführt. <br /> <br />Service ist während dieser geplanten Zeit nicht verfügbar.<br /> <br />Wir entschuldigen uns für etwaige Unannehmlichkeiten. <br /> <br />Mit freundlichen Grüßen, Das Sage-Team</p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
 <pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.sage.com/incidents/c02bw59qs996</link>
 <guid>https://status.sage.com/incidents/c02bw59qs996</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>17:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>12:04</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting Global will undergo essential system maintenance for 3 hours, on February 24th, 2024, between 17:00 UTC and 20:00 UTC (12:00 EST and 15:00 EST).<br /><br />Due to this scheduled maintenance, the service will be unavailable during this time.<br /><br />We apologise for any inconvenience that may be caused.<br /><br />Thank you. The Sage Team<br /><br />--------------------------------------------------------------------------------------------------<br /><br />Sage Business Cloud Accounting Global fera l'objet d'une maintenance système importante le Samedi 24 février 2024, pendant 3 heures entre 18:00 CET et 21:00 CET.<br /><br />Veuillez noter que vous ne pourrez peut-être pas accéder au service pendant cette période.<br />Nous nous excusons pour les inconvénients que cela pourrait causer.<br /><br />Merci L'équipe Sage.<br /><br />----------------------------------------------------------------------------------------------------<br /><br />Sage Business Cloud Accounting Global estará en mantenimiento el Sabado 24 de Febrero de 2024, durante 3 horas entre las 18:00 CET y las 21:00 CET.<br /><br />No se podrá acceder al servicio durante este periodo de tiempo.<br /><br />Pedimos disculpas por cualquier inconveniente que podamos causar.<br /><br />Gracias. El equipo de Sage.</p>
 ]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 17:00:00 +0000</pubDate>
 <pubDate>Sat, 24 Feb 2024 17:00:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.sage.com/incidents/0bypysfkysz9</link>
 <guid>https://status.sage.com/incidents/0bypysfkysz9</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>03:30</var> - <var>07:30</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>08:06</var> UTC</small><br /><strong>Scheduled</strong> - Sage Intacct - Global will be undergoing maintenance on Saturday, February 24th, 2024, for 4 hours, between 03:30 UTC and 07:30 UTC.<br /><br />The service will be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you.<br /><br />The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 03:30:00 +0000</pubDate>
 <pubDate>Sat, 24 Feb 2024 03:30:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.sage.com/incidents/hql0thv89821</link>
 <guid>https://status.sage.com/incidents/hql0thv89821</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>19:00</var> - <var>19:30</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>11:22</var> UTC</small><br /><strong>Scheduled</strong> - Sage 300 People Managed Services will undergo essential system maintenance on Friday, February 23rd, 2024, for 30 minutes between 21:00 SAST and 21:30 SAST.<br /> <br />Please note that you may experience service interruptions connecting to ESS or API Integrations during this time.<br />Access to the Sage 300 People application will remain accessible during this time.<br /> <br />We apologise for any inconvenience this may cause.<br /> <br />Thank you.<br />The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 19:00:00 +0000</pubDate>
 <pubDate>Fri, 23 Feb 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.sage.com/incidents/z02fnfh8f4dl</link>
 <guid>https://status.sage.com/incidents/z02fnfh8f4dl</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>12:00</var> - <var>17:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>11:39</var> UTC</small><br /><strong>Scheduled</strong> - Sage 200 Professional SPC (UKI) will undergo essential system maintenance for 5 hours, on February 23rd, 2024, between 12:00 UTC and 17:00 UTC.<br /> <br />We will be updating the 2024 R1 version of Sage 200 Professional into the Sage Provisioning Portal.<br /><br />During this scheduled time, please kindly do not attempt any new deployments of the product.<br /><br />Once the maintenance window is completed, all new deployments via the Sage Provisioning Portal will use the latest Sage 200 Professional 2024 R1 version.<br /><br />Please be aware that this upload of the latest version will not automatically update existing customers using Sage 200 Professional SPC (UKI) deployed via the SPC program on the Sage Provisioning Portal. Sage 200 Standard (UKI) will be not impacted for this scheduled maintenance.<br /> <br />We apologise for any inconvenience this may cause.<br /><br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 12:00:00 +0000</pubDate>
 <pubDate>Fri, 23 Feb 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.sage.com/incidents/j45gct98nwss</link>
 <guid>https://status.sage.com/incidents/j45gct98nwss</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Feb <var>23</var>, <var>02:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>12:15</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting (UKI) will be undergoing maintenance on Thursday, February 22nd, 2023, for 3 hours, between 23:00 UTC and 02:00 UTC, on February 23rd.<br /><br />Due to this scheduled maintenance, the below services will be unavailable during this time:<br /><br />•      Sage Business Cloud Accounting (UKI)<br />•	Maxwell GAC and MSO worker<br />•	Trial Balance worker<br />•	Accounting index worker<br />•	GAC instances for all arrays (Frontend, API, SQS, etc)<br />•	Addons<br />•	MSO<br />•	File Library Service<br /><br />We apologise for any inconvenience that may be caused.<br /><br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 23:00:00 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.sage.com/incidents/pz9w9js3vy1g</link>
 <guid>https://status.sage.com/incidents/pz9w9js3vy1g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>16:23</var> UTC</small><br /><strong>Resolved</strong> - This issue is resolved. All services continue to perform as expected.</p><p><small>Feb <var>20</var>, <var>15:48</var> UTC</small><br /><strong>Monitoring</strong> - Our third-party, HMRC, has confirmed that the issue has been resolved, and HMRC MTD (Making Tax Digital) functionality for Sage Partner Edition (VAT Centre), Sage Personal Tax (Personal Tax Viewer), Sage Business Cloud Accounting UK (MTD VAT Submissions), Sage X3 Single Tenant, Sage 200 Standard (UKI) and Sage 200 Professional SPC (UKI) are performing as expected. <br /><br />We will continue to monitor closely.</p><p><small>Feb <var>20</var>, <var>12:53</var> UTC</small><br /><strong>Identified</strong> - We identified an (intermittent) issue preventing customers from using HMRC MTD (Making Tax Digital) functionality in the products listed below:<br /><br />- Sage Partner Edition (VAT Centre)<br />- Sage Personal Tax (Personal Tax Viewer)<br />- Sage Business Cloud Accounting UK (MTD VAT Submissions)<br />- Sage X3 Single Tenant<br />- Sage 200 Standard (UKI)<br />- Sage 200 Professional SPC (UKI)<br /><br />Customers will be presented with an internal HTTP 500/504/499 error when attempting to submit. <br />We are engaged with our third-party, HMRC, waiting for updates.</p><p><small>Feb <var>20</var>, <var>12:43</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 16:23:52 +0000</pubDate>
 <pubDate>Wed, 21 Feb 2024 16:23:52 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.sage.com/incidents/v1mkvst2nkk9</link>
 <guid>https://status.sage.com/incidents/v1mkvst2nkk9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>15:48</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service is available and performing as expected.</p><p><small>Feb <var>19</var>, <var>15:25</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>19</var>, <var>11:56</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate the cause of the issue. Thank you for your patience.</p><p><small>Feb <var>19</var>, <var>10:04</var> UTC</small><br /><strong>Update</strong> - We have identified that some customers in Australia, US and New Zealand are experiencing slowness when using the service and a small subset of them will be unable to log in.<br /> <br />We are currently investigating.</p><p><small>Feb <var>19</var>, <var>09:51</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 15:48:11 +0000</pubDate>
 <pubDate>Wed, 21 Feb 2024 15:48:11 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.sage.com/incidents/nrz6fyy3rlfx</link>
 <guid>https://status.sage.com/incidents/nrz6fyy3rlfx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>14:47</var> UTC</small><br /><strong>Update</strong> - We identified that customers in Spain are unable to log into the service using Sage ID.<br /> <br />We are currently investigating.</p><p><small>Feb <var>21</var>, <var>14:35</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 14:47:39 +0000</pubDate>
 <pubDate>Wed, 21 Feb 2024 14:47:39 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.sage.com/incidents/c39wcl9kkbp5</link>
 <guid>https://status.sage.com/incidents/c39wcl9kkbp5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>21</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>23:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>15:06</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting (UKI) will be undergoing maintenance on Tuesday, February 20th, 2024, for 3 hours, between 23:00 UTC and 02:00 UTC, on February 21st. .<br /><br />Due to this scheduled maintenance, the below services will be unavailable during this time:<br /><br />• Stripe functionality in GAC will be unavailable.<br />• The Banking page in GAC will be unavailable (if the customer has activated Stripe).<br />• Stripe worker and service will be unavailable. Any postings from Stripe will be handled when these services are available.<br /><br />We apologise for any inconvenience that may be caused.<br /><br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 02:00:56 +0000</pubDate>
 <pubDate>Wed, 21 Feb 2024 02:00:56 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.sage.com/incidents/ljlxw547n265</link>
 <guid>https://status.sage.com/incidents/ljlxw547n265</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>21:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>18:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>08:25</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Paie (FR) will be undergoing important system maintenance on Tuesday, 20th of February 2024, for 3 hours between 19:30 CET and 22:30 CET. <br /> <br />Please note that you might not be able to access Sage Business Cloud Paie (FR) during this time. <br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team.<br /> <br />------------------------------------------------------------------------------------------ <br /> <br />Sage Business Cloud Paie (FR) fera l'objet d'une maintenance système importante le Mardi 20 février 2024, pendant 3 heures entre 19:30 CET et 22:30 CET. <br /> <br />Veuillez noter que vous ne pourrez peut-être pas accéder à Sage Business Cloud Paie (FR) pendant cette période. <br /> <br />Nous nous excusons pour les inconvénients que cela pourrait causer. <br /> <br />Merci L'équipe Sage.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 21:30:56 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 21:30:56 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.sage.com/incidents/5648mfsmwy9d</link>
 <guid>https://status.sage.com/incidents/5648mfsmwy9d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>23:02</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>20</var>, <var>20:16</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue where customers in North America my experience slow login times or page loads while using the UI.</p><p><small>Feb <var>20</var>, <var>19:54</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 23:02:46 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 23:02:46 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.sage.com/incidents/rgxz3ddsw7hd</link>
 <guid>https://status.sage.com/incidents/rgxz3ddsw7hd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>19:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>18:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>14:36</var> UTC</small><br /><strong>Scheduled</strong> - Generation Experts Connector Cloud (FR) will be undergoing maintenance on Tuesday, February 20th 2024 for 1 hour 30 minutes between 19:00 CET and 20:30 CET.<br /> <br />During this scheduled maintenance the application will still be available but might encounter some instability.<br /> <br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly.<br /> <br />Thank you. The Sage Team.<br /> <br />---------------------------------------------------------------------------------------<br /> <br />Generation Experts Connector Cloud (FR) sera en maintenance le Mardi 20 Février 2024 pendant 1 heure 30 minutes entre 19:00 CET et 20:30 CET.<br /> <br />Pendant cette maintenance planifiée, l'application restera disponible mais pourrait rencontrer des instabilités.<br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer et vous demandons de planifier votre charge de travail en conséquence.<br /> <br />Merci. L'équipe Sage.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 19:30:56 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 19:30:56 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.sage.com/incidents/ftn0jtddpkfc</link>
 <guid>https://status.sage.com/incidents/ftn0jtddpkfc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>15:06</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting (NA) will be undergoing maintenance on Tuesday, February 20th, 2024, for 3 hours, between 03:00 EST and 06:00 EST.<br /><br />Due to this scheduled maintenance, the below services will be unavailable during this time:<br /><br />• Stripe functionality in GAC will be unavailable.<br />• The Banking page in GAC will be unavailable (if the customer has activated Stripe).<br />• Stripe worker and service will be unavailable. Any postings from Stripe will be handled when these services are available.<br /><br />We apologise for any inconvenience that may be caused.<br /><br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 11:00:56 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 11:00:56 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.sage.com/incidents/4bn69pzwmjvw</link>
 <guid>https://status.sage.com/incidents/4bn69pzwmjvw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>10:25</var> UTC</small><br /><strong>Scheduled</strong> - Brightpearl NA will be undergoing maintenance on Tuesday, February 20th, 2024, for 2 hours, between 04:00 EST and 06:00 EST.<br /> <br />The service will be unavailable for a subset of our US and Canada customers during this scheduled time. <br /> <br />We apologize for any inconvenience this may cause.<br /> <br />Thank you.<br /> <br />The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 11:00:56 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 11:00:56 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.sage.com/incidents/bwpjv9y9lp6x</link>
 <guid>https://status.sage.com/incidents/bwpjv9y9lp6x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>14:02</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service is available and performing as expected.</p><p><small>Feb <var>19</var>, <var>10:18</var> UTC</small><br /><strong>Update</strong> - We identified an issue preventing a small subset of customers from Spain from accessing Sage 200 (ES) and Sage Despachos (ES) through web browser. Customers can still connect through connector app. We are currently investigating.</p><p><small>Feb <var>19</var>, <var>09:53</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 14:02:14 +0000</pubDate>
 <pubDate>Mon, 19 Feb 2024 14:02:14 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.sage.com/incidents/shtr5ws7b77n</link>
 <guid>https://status.sage.com/incidents/shtr5ws7b77n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>19</var>, <var>09:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>14:31</var> UTC</small><br /><strong>Scheduled</strong> - Scheduled maintenance is taking place at HMRC on the Making Tax Digital for VAT & ITSA service. <br /><br />Due to scheduled maintenance, you will be unable to access the following services:<br /><br />- MTD ITSA –> from 17:00 UTC on Friday, February 16th, to 09:00 UTC on Monday, February 19th, 2024.<br /><br />- MTD VAT –> from 15:45 UTC to 23:45 UTC on Saturday, February 17th and from 07:00 UTC to 22:30 UTC on Sunday, February 18th, 2024<br /><br />We apologise for any inconvenience this may cause.<br /> <br />Thanks. The Sage team.</p>
 ]]></content:encoded>
-<pubDate>Mon, 19 Feb 2024 09:00:56 +0000</pubDate>
 <pubDate>Mon, 19 Feb 2024 09:00:56 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.sage.com/incidents/pt99ym2n89sn</link>
 <guid>https://status.sage.com/incidents/pt99ym2n89sn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>18</var>, <var>22:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>07:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>09:10</var> UTC</small><br /><strong>Scheduled</strong> - Sage DPW Cloud will be undergoing maintenance on Sunday, February 18th, 2024 for 15 hours between 08:00 CET and 23:00 CET. <br /> <br />The service will be unavailable during this scheduled time. <br /> <br />We apologize for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team <br /> <br />--------------------------------------------------------------------------------------------------------- <br /> <br />Bei Ihrer Sage DPW Cloud werden am Sonntag, 14. Februar 2024, zwischen 08:00 MEZ und 23:00 MEZ. Wartungsarbeiten durchgeführt. <br /> <br />Service ist während dieser geplanten Zeit nicht verfügbar.<br /> <br />Wir entschuldigen uns für etwaige Unannehmlichkeiten. <br /> <br />Mit freundlichen Grüßen, Das Sage-Team</p>
 ]]></content:encoded>
-<pubDate>Sun, 18 Feb 2024 22:00:56 +0000</pubDate>
 <pubDate>Sun, 18 Feb 2024 22:00:56 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.sage.com/incidents/hs0vxbxrqkkk</link>
 <guid>https://status.sage.com/incidents/hs0vxbxrqkkk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>17</var>, <var>07:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>17</var>, <var>03:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>16:06</var> UTC</small><br /><strong>Scheduled</strong> - Sage Intacct - Global will be undergoing maintenance on Saturday, February 17th, 2024, for 4 hours, between 03:30 UTC and 07:30 UTC.<br /><br />The service will be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you.<br /><br />The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 07:30:56 +0000</pubDate>
 <pubDate>Sat, 17 Feb 2024 07:30:56 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.sage.com/incidents/4x62071qcq1z</link>
 <guid>https://status.sage.com/incidents/4x62071qcq1z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>20:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>16</var>, <var>17:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>14</var>, <var>12:08</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Payroll Professional (ZA) will be undergoing maintenance on Friday, February 16th, 2024, for 3 hours, between 19:00 SAST and 22:00 SAST.<br /><br />The service maybe  unavailable during this scheduled time.<br /><br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly.<br /><br />Thank you. <br /><br />The Sage Team.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 20:00:56 +0000</pubDate>
 <pubDate>Fri, 16 Feb 2024 20:00:56 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.sage.com/incidents/c5fk8tjt8c1j</link>
 <guid>https://status.sage.com/incidents/c5fk8tjt8c1j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>10:07</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service continues to perform as expected.</p><p><small>Feb <var>15</var>, <var>08:23</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>14</var>, <var>17:08</var> UTC</small><br /><strong>Identified</strong> - We are currently applying the fix. Thank you for your understanding as we work to resolve this issue.</p><p><small>Feb <var>14</var>, <var>10:51</var> UTC</small><br /><strong>Update</strong> - We have identified the cause of the issue and we are working on a fix. We appreciate your patience as we work to resolve this issue</p><p><small>Feb <var>13</var>, <var>15:33</var> UTC</small><br /><strong>Update</strong> - We identified an issue where a subset of customers globally with large product catalogs, may experience sync failures. We are currently investigating.</p><p><small>Feb <var>13</var>, <var>15:04</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 10:07:03 +0000</pubDate>
 <pubDate>Fri, 16 Feb 2024 10:07:03 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.sage.com/incidents/wh82cl05fflx</link>
 <guid>https://status.sage.com/incidents/wh82cl05fflx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>17:00</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and Sage 50 accounts and Sage 200 FinBIPA continue to perform as expected.</p><p><small>Feb <var>15</var>, <var>13:10</var> UTC</small><br /><strong>Monitoring</strong> - Sage 50 accounts and Sage 200 FinBIPA are performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the services.</p><p><small>Feb <var>15</var>, <var>09:02</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue where customers in the UK are presented with an error message when accessing Sage 50 accounts and Sage 200 FinBIPA.<br />Kindly follow this <a href="https://my.sage.co.uk/public/help.aspx#/customer/support/accounts">LINK</a> for updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 17:00:31 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 17:00:31 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.sage.com/incidents/4zkymyf9l5pk</link>
 <guid>https://status.sage.com/incidents/4zkymyf9l5pk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>15:50</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and BrightPearl - Retail continues to perform as expected.</p><p><small>Feb <var>15</var>, <var>09:38</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>15</var>, <var>09:19</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 15:50:05 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 15:50:05 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.sage.com/incidents/ncp28bdns30b</link>
 <guid>https://status.sage.com/incidents/ncp28bdns30b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>12</var>, <var>11:53</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting (NA) will be undergoing maintenance on Thursday, February 15th, 2023, for 3 hours, between 03:00 EST and 06:00 EST.<br /><br />Due to this scheduled maintenance, the below services will not be available during this time:<br /><br />•       Sage Business Cloud Accounting (NA)<br />•	Maxwell GAC and MSO worker<br />•	Trial Balance worker<br />•	Accounting index worker<br />•	GAC instances for all arrays (Frontend, API, SQS, etc)<br />•	Addons<br />•	MSO<br />•	File Library Service<br /><br />We apologise for any inconvenience that may be caused.<br /><br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 11:00:56 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 11:00:56 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.sage.com/incidents/8ywpb0rjrx4f</link>
 <guid>https://status.sage.com/incidents/8ywpb0rjrx4f</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>08:55</var> UTC</small><br /><strong>Resolved</strong> - Please follow the instructions in this thread if you have issues with the product following the recent update.</p><p><small>Feb <var>13</var>, <var>07:07</var> UTC</small><br /><strong>Identified</strong> - Sage 200 Standard (UKI) has been recently updated. <br /> <br />Please, when accessing your Sage solution for the first time, after the recent update, you will be prompted to download the update to access this new release. You will need appropriate permissions on your machine to complete the installation, so it is advisable to ensure you have this in place – this may mean contacting your IT provider. <br /> <br />Kindly find more details in this <a href="https://gb-kb.sage.com/portal/app/portlets/results/viewsolution.jsp?solutionid=240212102642813">LINK</a>.<br /> <br />Thank you, The Sage Team</p>
 ]]></content:encoded>
 <pubDate>Thu, 15 Feb 2024 08:55:08 +0000</pubDate>
-<pubDate>Thu, 15 Feb 2024 08:55:08 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

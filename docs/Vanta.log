@@ -31,3 +31,9 @@ Append: [Duplicate Checklists and Groups appearing for some customers](https://s
 Append: [GCP integration showing no resources](https://status.vanta.com/incidents/g6nljm52b1bh)
 append_entries: 25
 Finish: 2024-02-21 16:23:50.140079
+------------------------------------------------------
+Started: 2024-02-21 16:44:11.932969
+Existing_entries: 25
+Fetching from https://status.vanta.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:12.212420

@@ -4,15 +4,15 @@
 <title>Sonatype Status - Incident History</title>
 <link>https://status.sonatype.com</link>
 
+
 <item>
 <title>Increased HTTP latency and 504 rate</title>
 <link>https://status.sonatype.com/incidents/fq8gbgl13bkr</link>
 <guid>https://status.sonatype.com/incidents/fq8gbgl13bkr</guid>
 <content:encoded><![CDATA[
-<div> [High] - Increased HTTP latency and 504 rate <br><br> Summary: There was an issue with increased latency and 504 error rates, which could have had a significant impact on user experience. <div>
+<div> [High] - Increased HTTP latency and 504 rate <br /><br /> Summary: There was an issue with increased latency and 504 error rates, which could have had a significant impact on user experience. <div>
 <p><small>Dec <var>12</var>, <var>09:45</var> EST</small><br /><strong>Resolved</strong> - Increased HTTP latency and 504 rate</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Dec 2023 09:45:43 -0500</pubDate>
 <pubDate>Tue, 12 Dec 2023 09:45:43 -0500</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.sonatype.com/incidents/fj012pq6d9y0</link>
 <guid>https://status.sonatype.com/incidents/fj012pq6d9y0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 4</var>, <var>15:00</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 4</var>, <var>13:00</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>27</var>, <var>15:56</var> EDT</small><br /><strong>Scheduled</strong> - On Saturday, November the 4th, between 13:00 and 15:00 EDT, we will be performing necessary maintenance on the Sonatype Data Services. Due to external factors, we cannot entirely rule out the possibility of a short service disruption. In the unlikely event of such a disruption, the Data Services would respond with HTTP 5xx errors for most requests over the course of a few minutes during the mentioned time window.</p>
 ]]></content:encoded>
-<pubDate>Sat, 04 Nov 2023 15:00:05 -0400</pubDate>
 <pubDate>Sat, 04 Nov 2023 15:00:05 -0400</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.sonatype.com/incidents/7d649t6t7w6j</link>
 <guid>https://status.sonatype.com/incidents/7d649t6t7w6j</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>16:38</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 3</var>, <var>16:15</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating failures for some application evaluations</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 16:38:49 -0400</pubDate>
 <pubDate>Fri, 03 Nov 2023 16:38:49 -0400</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.sonatype.com/incidents/6pc6yd5s0cmb</link>
 <guid>https://status.sonatype.com/incidents/6pc6yd5s0cmb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 4</var>, <var>15:28</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Apr <var> 4</var>, <var>15:27</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Tue, 04 Apr 2023 15:28:33 -0400</pubDate>
 <pubDate>Tue, 04 Apr 2023 15:28:33 -0400</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.sonatype.com/incidents/kfpmngjvt1fd</link>
 <guid>https://status.sonatype.com/incidents/kfpmngjvt1fd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 6</var>, <var>23:20</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 6</var>, <var>22:59</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating reports of degraded performance.</p>
 ]]></content:encoded>
-<pubDate>Fri, 06 Jan 2023 23:20:58 -0500</pubDate>
 <pubDate>Fri, 06 Jan 2023 23:20:58 -0500</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.sonatype.com/incidents/fwflk09zqyl8</link>
 <guid>https://status.sonatype.com/incidents/fwflk09zqyl8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>05:46</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>30</var>, <var>05:36</var> EDT</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Oct <var>30</var>, <var>05:35</var> EDT</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Oct <var>30</var>, <var>05:11</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of degraded performance.</p>
 ]]></content:encoded>
-<pubDate>Sun, 30 Oct 2022 05:46:46 -0400</pubDate>
 <pubDate>Sun, 30 Oct 2022 05:46:46 -0400</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.sonatype.com/incidents/5yj11wqz9kq0</link>
 <guid>https://status.sonatype.com/incidents/5yj11wqz9kq0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 9</var>, <var>04:52</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 9</var>, <var>04:51</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of degraded performance.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Sep 2022 04:52:45 -0400</pubDate>
 <pubDate>Fri, 09 Sep 2022 04:52:45 -0400</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.sonatype.com/incidents/sy86s0htmsfh</link>
 <guid>https://status.sonatype.com/incidents/sy86s0htmsfh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 8</var>, <var>18:20</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Sep <var> 8</var>, <var>15:59</var> EDT</small><br /><strong>Update</strong> - We are currently investigating reports of degraded performance.</p><p><small>Sep <var> 8</var>, <var>14:53</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Sep 2022 18:20:00 -0400</pubDate>
 <pubDate>Thu, 08 Sep 2022 18:20:00 -0400</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.sonatype.com/incidents/rsy4n89w1bzm</link>
 <guid>https://status.sonatype.com/incidents/rsy4n89w1bzm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>24</var>, <var>20:54</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>24</var>, <var>20:43</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Aug <var>24</var>, <var>20:15</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of increased error rates</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Aug 2022 20:54:06 -0400</pubDate>
 <pubDate>Wed, 24 Aug 2022 20:54:06 -0400</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.sonatype.com/incidents/m0qj957syswm</link>
 <guid>https://status.sonatype.com/incidents/m0qj957syswm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>16</var>, <var>10:51</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Aug <var>16</var>, <var>10:49</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Aug 2022 10:51:24 -0400</pubDate>
 <pubDate>Tue, 16 Aug 2022 10:51:24 -0400</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.sonatype.com/incidents/tcq67mwhdh8b</link>
 <guid>https://status.sonatype.com/incidents/tcq67mwhdh8b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 6</var>, <var>11:00</var> EDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var> 6</var>, <var>10:06</var> EDT</small><br /><strong>Verifying</strong> - Scheduled maintenance is almost completed.</p><p><small>Aug <var> 6</var>, <var>09:00</var> EDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jul <var>28</var>, <var>17:04</var> EDT</small><br /><strong>Scheduled</strong> - A scheduled maintenance of the Nexus IQ Data Services will occur on Saturday, August 6th, from approximately 13:00 to 15:00 UTC</p>
 ]]></content:encoded>
-<pubDate>Sat, 06 Aug 2022 11:00:32 -0400</pubDate>
 <pubDate>Sat, 06 Aug 2022 11:00:32 -0400</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.sonatype.com/incidents/l1966vmcwc10</link>
 <guid>https://status.sonatype.com/incidents/l1966vmcwc10</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 1</var>, <var>04:39</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Jul <var> 1</var>, <var>04:36</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var> 1</var>, <var>04:26</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of degraded performance with Repository Health Checks</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Jul 2022 04:39:00 -0400</pubDate>
 <pubDate>Fri, 01 Jul 2022 04:39:00 -0400</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.sonatype.com/incidents/5v4dys1lstw4</link>
 <guid>https://status.sonatype.com/incidents/5v4dys1lstw4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 1</var>, <var>01:39</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Jul <var> 1</var>, <var>01:37</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Jul 2022 01:39:56 -0400</pubDate>
 <pubDate>Fri, 01 Jul 2022 01:39:56 -0400</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.sonatype.com/incidents/8nj90q9fys76</link>
 <guid>https://status.sonatype.com/incidents/8nj90q9fys76</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>30</var>, <var>10:35</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>30</var>, <var>10:28</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>30</var>, <var>09:53</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var>30</var>, <var>09:45</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of increased error rates contacting the service</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Jun 2022 10:35:59 -0400</pubDate>
 <pubDate>Thu, 30 Jun 2022 10:35:59 -0400</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.sonatype.com/incidents/tf57cv33fr3b</link>
 <guid>https://status.sonatype.com/incidents/tf57cv33fr3b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>29</var>, <var>04:15</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>29</var>, <var>04:10</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>29</var>, <var>04:05</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var>29</var>, <var>04:00</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue contacting the service.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Jun 2022 04:15:23 -0400</pubDate>
 <pubDate>Wed, 29 Jun 2022 04:15:23 -0400</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.sonatype.com/incidents/nl24l6k7h18n</link>
 <guid>https://status.sonatype.com/incidents/nl24l6k7h18n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>29</var>, <var>02:47</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Jun <var>29</var>, <var>02:46</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var>29</var>, <var>02:32</var> EDT</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var>29</var>, <var>02:10</var> EDT</small><br /><strong>Identified</strong> - We are currently investigating reports of degraded performance where application evaluations take unusually long to complete.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Jun 2022 02:47:47 -0400</pubDate>
 <pubDate>Wed, 29 Jun 2022 02:47:47 -0400</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.sonatype.com/incidents/r7wdsr2fdnzw</link>
 <guid>https://status.sonatype.com/incidents/r7wdsr2fdnzw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 8</var>, <var>12:09</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 8</var>, <var>12:05</var> EDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jun <var> 8</var>, <var>11:45</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jun <var> 8</var>, <var>10:00</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of application evaluations raising unexpected policy violations due to component licenses erroneously being reported as "Disabled".</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Jun 2022 12:09:39 -0400</pubDate>
 <pubDate>Wed, 08 Jun 2022 12:09:39 -0400</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.sonatype.com/incidents/1fd620000vdx</link>
 <guid>https://status.sonatype.com/incidents/1fd620000vdx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>28</var>, <var>11:16</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Feb <var>28</var>, <var>11:13</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Mon, 28 Feb 2022 11:16:10 -0500</pubDate>
 <pubDate>Mon, 28 Feb 2022 11:16:10 -0500</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.sonatype.com/incidents/lmn36x1901j2</link>
 <guid>https://status.sonatype.com/incidents/lmn36x1901j2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>17:11</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Feb <var>23</var>, <var>17:11</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 23 Feb 2022 17:11:45 -0500</pubDate>
 <pubDate>Wed, 23 Feb 2022 17:11:45 -0500</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.sonatype.com/incidents/6ykwnf384h8r</link>
 <guid>https://status.sonatype.com/incidents/6ykwnf384h8r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>13:16</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Feb <var>23</var>, <var>13:14</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 23 Feb 2022 13:16:04 -0500</pubDate>
 <pubDate>Wed, 23 Feb 2022 13:16:04 -0500</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.sonatype.com/incidents/dtk56rxl4gp0</link>
 <guid>https://status.sonatype.com/incidents/dtk56rxl4gp0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>17:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><br />An error made while deploying an update caused system instability.<br />The update process will be reviewed an updated to minimize this in the future</p><p><small>Feb <var> 9</var>, <var>14:48</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Feb 2022 17:14:09 -0500</pubDate>
 <pubDate>Wed, 09 Feb 2022 17:14:09 -0500</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.sonatype.com/incidents/889m42x2rykf</link>
 <guid>https://status.sonatype.com/incidents/889m42x2rykf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>03:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 5</var>, <var>01:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 3</var>, <var>14:15</var> EST</small><br /><strong>Scheduled</strong> - Nexus IQ Data Services will have maintenance Saturday February 5th, from 1 PM - 3 PM EST. <br />During this time application analysis that normally take over 15 minutes to complete may timeout.</p>
 ]]></content:encoded>
-<pubDate>Sat, 05 Feb 2022 03:00:30 -0500</pubDate>
 <pubDate>Sat, 05 Feb 2022 03:00:30 -0500</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.sonatype.com/incidents/8smzz94ld33h</link>
 <guid>https://status.sonatype.com/incidents/8smzz94ld33h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>07:57</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Nov <var>22</var>, <var>07:57</var> EST</small><br /><strong>Investigating</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Nov 2021 07:57:41 -0500</pubDate>
 <pubDate>Mon, 22 Nov 2021 07:57:41 -0500</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.sonatype.com/incidents/gx6xsft7vksq</link>
 <guid>https://status.sonatype.com/incidents/gx6xsft7vksq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>28</var>, <var>15:13</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Oct <var>28</var>, <var>14:59</var> EDT</small><br /><strong>Update</strong> - We are currently investigating reports of degraded performance.</p><p><small>Oct <var>28</var>, <var>14:59</var> EDT</small><br /><strong>Investigating</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Oct 2021 15:13:40 -0400</pubDate>
 <pubDate>Thu, 28 Oct 2021 15:13:40 -0400</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.sonatype.com/incidents/rm2lxvs8kt5h</link>
 <guid>https://status.sonatype.com/incidents/rm2lxvs8kt5h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 9</var>, <var>11:15</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Oct <var> 9</var>, <var>11:11</var> EDT</small><br /><strong>Investigating</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
 <pubDate>Sat, 09 Oct 2021 11:15:44 -0400</pubDate>
-<pubDate>Sat, 09 Oct 2021 11:15:44 -0400</pubDate>
 </item>
-
 </channel>
 </rss>

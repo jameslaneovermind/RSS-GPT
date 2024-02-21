@@ -4,6 +4,7 @@
 <title>Harness Status - Incident History</title>
 <link>https://status.harness.io</link>
 
+
 <item>
 <title>Quarterly DR Testing maintenance notice</title>
 <link>https://status.harness.io/incidents/j4jw2smys0f7</link>
@@ -14,17 +15,14 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>07:00</var> - <var>10:59</var> PST</strong></p><p><small>Feb <var> 2</var>, <var>10:26</var> PST</small><br /><strong>Scheduled</strong> - To validate Harness reliability, we'll test our application failover on Saturday, March 2nd, from 7:00 a.m. to 10:59 a.m. Pacific time (15:00-18:59 UTC).<br />During testing time, Harness SaaS services may intermittently slow down and stop responding, causing disruption of service as we check multiple failure scenarios and our response to each.<br />This will impact all clusters Prod 1, prod 2, and Prod 3 services.</p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 07:00:00 -0800</pubDate>
-<pubDate>Sat, 02 Mar 2024 07:00:00 -0800</pubDate>
 </item>
 <item>
 <title>Hosted CI Builds on MacOS are failing to initialize in all environments</title>
 <link>https://status.harness.io/incidents/sd82v3lmcqqd</link>
 <guid>https://status.harness.io/incidents/sd82v3lmcqqd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>11</var>, <var>19:35</var> PST</small><br /><strong>Resolved</strong> - Systems are back to operational. Postmortem will contain details and identified action items.</p><p><small>Feb <var>11</var>, <var>19:20</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sun, 11 Feb 2024 19:35:25 -0800</pubDate>
 <pubDate>Sun, 11 Feb 2024 19:35:25 -0800</pubDate>
 </item>
 <item>
@@ -32,10 +30,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/5gc9lwwxlf7k</link>
 <guid>https://status.harness.io/incidents/5gc9lwwxlf7k</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 5</var>, <var>10:45</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved. We will provide a postmortem once we have gathered all the details.</p><p><small>Feb <var> 5</var>, <var>10:35</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating unusually high latency on the Feature Flag metrics service, due to a high volume of traffic</p>
 ]]></content:encoded>
-<pubDate>Mon, 05 Feb 2024 10:45:22 -0800</pubDate>
 <pubDate>Mon, 05 Feb 2024 10:45:22 -0800</pubDate>
 </item>
 <item>
@@ -43,10 +39,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/85j738kngcg4</link>
 <guid>https://status.harness.io/incidents/85j738kngcg4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>29</var>, <var>16:56</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved. We will provide a postmortem once we have gathered all the details.</p><p><small>Jan <var>29</var>, <var>16:47</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>29</var>, <var>16:44</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 16:56:28 -0800</pubDate>
 <pubDate>Mon, 29 Jan 2024 16:56:28 -0800</pubDate>
 </item>
 <item>
@@ -54,10 +48,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/wvp5h3dqh998</link>
 <guid>https://status.harness.io/incidents/wvp5h3dqh998</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>28</var>, <var>23:23</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>28</var>, <var>23:21</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>28</var>, <var>22:36</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>28</var>, <var>22:26</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sun, 28 Jan 2024 23:23:22 -0800</pubDate>
 <pubDate>Sun, 28 Jan 2024 23:23:22 -0800</pubDate>
 </item>
 <item>
@@ -65,10 +57,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/b47y3lh8cwfb</link>
 <guid>https://status.harness.io/incidents/b47y3lh8cwfb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>10:03</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved.</p><p><small>Jan <var>18</var>, <var>09:58</var> PST</small><br /><strong>Monitoring</strong> - The issue has been resolved and the overview page is back to normal. We are actively monitoring the systems.</p><p><small>Jan <var>18</var>, <var>09:53</var> PST</small><br /><strong>Identified</strong> - The issue has been identified. Team is working to mitigate the issue and provide a solution as soon as possible.</p><p><small>Jan <var>18</var>, <var>09:20</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>18</var>, <var>09:14</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where customer dashboards are slow to load or failing to load in some specific environment.<br />This does not impact the pipelines running or deployments.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 10:03:46 -0800</pubDate>
 <pubDate>Thu, 18 Jan 2024 10:03:46 -0800</pubDate>
 </item>
 <item>
@@ -76,10 +66,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/1sqh0pchkz8l</link>
 <guid>https://status.harness.io/incidents/1sqh0pchkz8l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 7</var>, <var>23:28</var> PST</small><br /><strong>Resolved</strong> - The issue was resolved once we did the rollback of the most recent deployment.</p><p><small>Jan <var> 7</var>, <var>23:23</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Sun, 07 Jan 2024 23:28:52 -0800</pubDate>
 <pubDate>Sun, 07 Jan 2024 23:28:52 -0800</pubDate>
 </item>
 <item>
@@ -87,10 +75,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/tfd6q3s81423</link>
 <guid>https://status.harness.io/incidents/tfd6q3s81423</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 4</var>, <var>10:49</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 4</var>, <var>10:40</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 4</var>, <var>10:30</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 4</var>, <var>10:20</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 Jan 2024 10:49:35 -0800</pubDate>
 <pubDate>Thu, 04 Jan 2024 10:49:35 -0800</pubDate>
 </item>
 <item>
@@ -98,10 +84,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/vp9y07c7p5ml</link>
 <guid>https://status.harness.io/incidents/vp9y07c7p5ml</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>22</var>, <var>04:36</var> PST</small><br /><strong>Resolved</strong> - There was a downtime observed with the Harness platform for the Prod1 and Prod 2 clusters. The login page was not accessible and 502 errors were returned. <br />We are investigating the root cause of the issue and will post RCA here.  All functionalities are restored now.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Dec 2023 04:36:47 -0800</pubDate>
 <pubDate>Fri, 22 Dec 2023 04:36:47 -0800</pubDate>
 </item>
 <item>
@@ -109,10 +93,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/kzlp6w83ttzc</link>
 <guid>https://status.harness.io/incidents/kzlp6w83ttzc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>14:37</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved. We plan to publish the Postmortem early next week. Our pipeline execution failure rate was less than 1% during this incident. As a result, no downtime was taken.</p><p><small>Dec <var>21</var>, <var>14:11</var> PST</small><br /><strong>Monitoring</strong> - We have reverted the services back to the previous version and we are monitoring the results.</p><p><small>Dec <var>21</var>, <var>14:06</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>21</var>, <var>14:05</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 14:37:54 -0800</pubDate>
 <pubDate>Thu, 21 Dec 2023 14:37:54 -0800</pubDate>
 </item>
 <item>
@@ -120,10 +102,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/kmqnwv6hl992</link>
 <guid>https://status.harness.io/incidents/kmqnwv6hl992</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>11:43</var> PST</small><br /><strong>Resolved</strong> - The problem was primarily with the image being used, and we have notified customers to use a stable version of DIND to prevent this issue https://github.com/docker-library/docker/commit/4c2674df4f40c965cdb8ccc77b8ce9dbc247a6c9</p><p><small>Dec <var>18</var>, <var>10:52</var> PST</small><br /><strong>Update</strong> - We continue to look into the situation. At the moment, two customers are affected, and our team is working on debugging the issue.</p><p><small>Dec <var>18</var>, <var>10:22</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 11:43:36 -0800</pubDate>
 <pubDate>Mon, 18 Dec 2023 11:43:36 -0800</pubDate>
 </item>
 <item>
@@ -131,10 +111,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/t8j9w1x0q78v</link>
 <guid>https://status.harness.io/incidents/t8j9w1x0q78v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>11</var>, <var>09:04</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>11</var>, <var>09:01</var> PST</small><br /><strong>Monitoring</strong> - The issue has been resolved. We are continuing to monitor the incident.</p><p><small>Dec <var>11</var>, <var>08:42</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 09:04:38 -0800</pubDate>
 <pubDate>Mon, 11 Dec 2023 09:04:38 -0800</pubDate>
 </item>
 <item>
@@ -142,10 +120,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/w2w7btby70xs</link>
 <guid>https://status.harness.io/incidents/w2w7btby70xs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>19:18</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved, the impacted components were Prod 2 - Continuous Delivery - Next Generation (CDNG) and Continuous Integration Enterprise(CIE) - Self Hosted Runners.</p><p><small>Dec <var> 7</var>, <var>19:03</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var> 7</var>, <var>19:01</var> PST</small><br /><strong>Monitoring</strong> - The incident is now resolved. Detailed RCA to follow.</p><p><small>Dec <var> 7</var>, <var>18:13</var> PST</small><br /><strong>Update</strong> - We have identified the root cause and we are in the process of recovering.</p><p><small>Dec <var> 7</var>, <var>18:08</var> PST</small><br /><strong>Update</strong> - The secret decryption task is failing and we are looking into a recovery</p><p><small>Dec <var> 7</var>, <var>17:44</var> PST</small><br /><strong>Update</strong> - We are rolling back the services to the previously deployed version. We will keep you updated on the progress.</p><p><small>Dec <var> 7</var>, <var>16:23</var> PST</small><br /><strong>Update</strong> - We are currently working on debugging the issue. We have identified that there may be a problem with the gRPC calls between services. We will keep you updated on the progress.</p><p><small>Dec <var> 7</var>, <var>15:44</var> PST</small><br /><strong>Update</strong> - We are currently in the process of identifying the incident. As soon as it is identified, we will provide an update.</p><p><small>Dec <var> 7</var>, <var>14:36</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 7</var>, <var>14:35</var> PST</small><br /><strong>Identified</strong> - We continue to look into the issue and are considering rolling back the latest deployment</p><p><small>Dec <var> 7</var>, <var>14:34</var> PST</small><br /><strong>Investigating</strong> - Pipelines that reference the secrets are experiencing failures in the Prod-2 cluster starting around 9:13 PM UTC. Harness team started looking into the issue and a high severity incident was declared at 10:34 PM UTC.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 19:18:28 -0800</pubDate>
 <pubDate>Thu, 07 Dec 2023 19:18:28 -0800</pubDate>
 </item>
 <item>
@@ -153,10 +129,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/l2mffl984qdz</link>
 <guid>https://status.harness.io/incidents/l2mffl984qdz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 7</var>, <var>14:41</var> PST</small><br /><strong>Resolved</strong> - We have added an additional fallback regions to Prod 1 and 3 and now issue is resolved.</p><p><small>Dec <var> 7</var>, <var>14:19</var> PST</small><br /><strong>Update</strong> - The issue is resolved for prod 2, we have added an additional fallback region.<br />We are actively working on rolling this out to prod 1 and prod 3.</p><p><small>Dec <var> 7</var>, <var>14:17</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 7</var>, <var>13:27</var> PST</small><br /><strong>Identified</strong> - We are currently experiencing availability issues with our fallback region for cloud builds. This issue occurs intermittently when we switch from fallback from primary due to any errors. The team is actively working on adding an additional fallback option to another region in order to address this issue.</p><p><small>Dec <var> 7</var>, <var>12:08</var> PST</small><br /><strong>Investigating</strong> - We are experiencing intermittent failures on cloud builds due to a resource issue. We are currently investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Dec 2023 14:41:23 -0800</pubDate>
 <pubDate>Thu, 07 Dec 2023 14:41:23 -0800</pubDate>
 </item>
 <item>
@@ -164,10 +138,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/6yql7g5kg7v1</link>
 <guid>https://status.harness.io/incidents/6yql7g5kg7v1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>27</var>, <var>02:08</var> PST</small><br /><strong>Resolved</strong> - The issue is resolved after rollback.</p><p><small>Nov <var>27</var>, <var>02:03</var> PST</small><br /><strong>Identified</strong> - We have identified the issue and rolled back latest deployment to quickly resolve this issue.</p><p><small>Nov <var>27</var>, <var>02:02</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 02:08:37 -0800</pubDate>
 <pubDate>Mon, 27 Nov 2023 02:08:37 -0800</pubDate>
 </item>
 <item>
@@ -175,10 +147,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/20073rb23j5p</link>
 <guid>https://status.harness.io/incidents/20073rb23j5p</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>13</var>, <var>08:19</var> PST</small><br /><strong>Resolved</strong> - For the customer that raised the issue, data has been replayed and everything is working fine for all three cloud providers.</p><p><small>Nov <var>13</var>, <var>07:46</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>13</var>, <var>07:34</var> PST</small><br /><strong>Identified</strong> - Customers in Prod-1 and Prod-1 are affected<br />We have identified the issue and fix is also done. We are going to replay the cloud functions since Nov 9 for these accounts.</p><p><small>Nov <var>13</var>, <var>07:03</var> PST</small><br /><strong>Update</strong> - The issue is happening for all the currency preferences enabled customers</p><p><small>Nov <var>13</var>, <var>06:09</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Nov 2023 08:19:13 -0800</pubDate>
 <pubDate>Mon, 13 Nov 2023 08:19:13 -0800</pubDate>
 </item>
 <item>
@@ -186,10 +156,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/ghr10smfxvg1</link>
 <guid>https://status.harness.io/incidents/ghr10smfxvg1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>11</var>, <var>11:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>11</var>, <var>07:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 3</var>, <var>12:11</var> PDT</small><br /><strong>Scheduled</strong> - To validate Harness reliability, we'll test our application failover on Saturday, Nov 11th, from 7:00 a.m. to 10:59 a.m. Pacific time (15:00-18:59 UTC).<br />During testing time, Harness SaaS services may intermittently slow down and stop responding, causing disruption of service as we check multiple failure scenarios and our response to each.<br />This will impact all clusters Prod 1, prod 2, and Prod 3 services.</p>
 ]]></content:encoded>
-<pubDate>Sat, 11 Nov 2023 11:01:13 -0800</pubDate>
 <pubDate>Sat, 11 Nov 2023 11:01:13 -0800</pubDate>
 </item>
 <item>
@@ -197,10 +165,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/6gcl3ky0prns</link>
 <guid>https://status.harness.io/incidents/6gcl3ky0prns</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>07:26</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 7</var>, <var>07:04</var> PST</small><br /><strong>Update</strong> - Customer was able to manually start the resources, so there was no downtime. Team is looking into what went wrong with the schedule.</p><p><small>Nov <var> 7</var>, <var>06:34</var> PST</small><br /><strong>Update</strong> - We have reviewed our operational metrics and can confirm that this issue is isolated to some rules for a single customer.<br />Warm up operations across all other customers are functioning as expected and is not impacted.</p><p><small>Nov <var> 7</var>, <var>05:57</var> PST</small><br /><strong>Monitoring</strong> - Customer has used manual start button to start the resources and the services are up and running. No other customer was impacted.</p><p><small>Nov <var> 7</var>, <var>05:38</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and they have used manual start button to start the resources and the services are up and running</p><p><small>Nov <var> 7</var>, <var>05:21</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 7</var>, <var>05:11</var> PST</small><br /><strong>Investigating</strong> - Trying to reach out to Autostopping team to look into this</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 07:26:14 -0800</pubDate>
 <pubDate>Tue, 07 Nov 2023 07:26:14 -0800</pubDate>
 </item>
 <item>
@@ -208,10 +174,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/zxhwfhql8625</link>
 <guid>https://status.harness.io/incidents/zxhwfhql8625</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>12:33</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 3</var>, <var>12:28</var> PDT</small><br /><strong>Monitoring</strong> - A rollback has been performed and we are currently monitoring it.</p><p><small>Nov <var> 3</var>, <var>11:52</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 12:33:36 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 12:33:36 -0700</pubDate>
 </item>
 <item>
@@ -219,10 +183,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/21fq51jyfx7b</link>
 <guid>https://status.harness.io/incidents/21fq51jyfx7b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>04:20</var> PDT</small><br /><strong>Resolved</strong> - The incident has been resolved and the pool capacity is freed up. We will provide additional details including RCA in postmortem. <br />We regret the impact this disruption might have caused to few customers.</p><p><small>Nov <var> 2</var>, <var>04:00</var> PDT</small><br /><strong>Identified</strong> - Pipelines with infrastructure as Cloud->MacOS are impacted due to pool running at full capacity.</p><p><small>Nov <var> 2</var>, <var>02:56</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Nov 2023 04:20:01 -0700</pubDate>
 <pubDate>Thu, 02 Nov 2023 04:20:01 -0700</pubDate>
 </item>
 <item>
@@ -230,10 +192,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/rsr16l8vqg7x</link>
 <guid>https://status.harness.io/incidents/rsr16l8vqg7x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 1</var>, <var>13:34</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 1</var>, <var>11:43</var> PDT</small><br /><strong>Update</strong> - The incident has been resolved. Will post details in the post mortem.</p><p><small>Nov <var> 1</var>, <var>07:37</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 Nov 2023 13:34:36 -0700</pubDate>
 <pubDate>Wed, 01 Nov 2023 13:34:36 -0700</pubDate>
 </item>
 <item>
@@ -241,10 +201,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/kxhsbn60d2xc</link>
 <guid>https://status.harness.io/incidents/kxhsbn60d2xc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>24</var>, <var>15:50</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>24</var>, <var>15:30</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Oct 2023 15:50:44 -0700</pubDate>
 <pubDate>Tue, 24 Oct 2023 15:50:44 -0700</pubDate>
 </item>
 <item>
@@ -252,10 +210,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/w047bt2yqjm5</link>
 <guid>https://status.harness.io/incidents/w047bt2yqjm5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>18</var>, <var>12:17</var> PDT</small><br /><strong>Resolved</strong> - The issue has been resolved and we will continue to monitor the situation.</p><p><small>Oct <var>18</var>, <var>10:25</var> PDT</small><br /><strong>Monitoring</strong> - We have successfully mitigated this issue and are actively monitoring the situation. We discovered a significant number of database records not getting processed and we've manually cleared these records to mitigate the issue</p><p><small>Oct <var>18</var>, <var>08:55</var> PDT</small><br /><strong>Identified</strong> - Issue identified and we are currently working on mitigation</p><p><small>Oct <var>18</var>, <var>06:52</var> PDT</small><br /><strong>Update</strong> - We have reproduced the issue with Harness Internal account and we are continuously investigating the Artifact Collection task lifecycle to understand the issue further. As a Workaround for this issue customers can manually pull the artifacts.</p><p><small>Oct <var>18</var>, <var>04:50</var> PDT</small><br /><strong>Investigating</strong> - Some of harness customers are still facing the issue. We are continuously investigating the issue.</p><p><small>Oct <var>18</var>, <var>03:34</var> PDT</small><br /><strong>Monitoring</strong> - The service has been restored, We have enabled Additional Monitoring as part of the investigation. We are actively monitoring this issue.</p><p><small>Oct <var>18</var>, <var>02:01</var> PDT</small><br /><strong>Investigating</strong> - We have noticed degraded performance with Automatic artifact collection. Team is currently Investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 18 Oct 2023 12:17:16 -0700</pubDate>
 <pubDate>Wed, 18 Oct 2023 12:17:16 -0700</pubDate>
 </item>
 <item>
@@ -263,10 +219,8 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/q1s8vchg7j41</link>
 <guid>https://status.harness.io/incidents/q1s8vchg7j41</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>17</var>, <var>18:23</var> PDT</small><br /><strong>Resolved</strong> - We will keep a close watch on the situation.</p><p><small>Oct <var>17</var>, <var>17:08</var> PDT</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Oct <var>17</var>, <var>17:03</var> PDT</small><br /><strong>Monitoring</strong> - We will continue to monitor the situation</p><p><small>Oct <var>17</var>, <var>16:46</var> PDT</small><br /><strong>Update</strong> - While the service has been resorted, we're currently in the process of identifying its root cause. We initially observed delays in the Artifact collection, and we're diligently working to pinpoint the exact reason behind this delay.</p><p><small>Oct <var>17</var>, <var>15:47</var> PDT</small><br /><strong>Investigating</strong> - Team has noticed degraded performance with artifact collection. Investigation is in progress.</p>
 ]]></content:encoded>
-<pubDate>Tue, 17 Oct 2023 18:23:08 -0700</pubDate>
 <pubDate>Tue, 17 Oct 2023 18:23:08 -0700</pubDate>
 </item>
 <item>
@@ -274,12 +228,9 @@ Summary: Harness will be conducting application failover testing on March 2nd, i
 <link>https://status.harness.io/incidents/rt7lkmjk1xyq</link>
 <guid>https://status.harness.io/incidents/rt7lkmjk1xyq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>16</var>, <var>09:50</var> PDT</small><br /><strong>Resolved</strong> - The issue was resolved after dlite pod bounce and the hosted mac pipelines are running smoothly.</p><p><small>Oct <var>16</var>, <var>09:48</var> PDT</small><br /><strong>Investigating</strong> - Hosted Mac builds on Pod2 have failed between 11:00 PM PT and 12:00AM PT on October 15, 2023. <br />This is due to a recent code change that has since been reverted.<br /><br />We will provide a Post Mortem with additional details.</p>
 ]]></content:encoded>
 <pubDate>Mon, 16 Oct 2023 09:50:47 -0700</pubDate>
-<pubDate>Mon, 16 Oct 2023 09:50:47 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

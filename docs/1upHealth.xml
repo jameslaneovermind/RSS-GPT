@@ -4,17 +4,17 @@
 <title>1upHealth Status - Incident History</title>
 <link>https://status.1up.health</link>
 
+
 <item>
 <title>AWS Operational Issue</title>
 <link>https://status.1up.health/incidents/zwxdbs92c109</link>
 <guid>https://status.1up.health/incidents/zwxdbs92c109</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigating AWS API errors and latencies in US-EAST-1 region<br><br>Summary: AWS is investigating increased API errors and latencies, impacting 1upHealth services with internal server errors.
-[Medium] - Elevated error rates invoking AWS Lambda functions<br><br>Summary: AWS is working on resolving elevated error rates for AWS Lambda function invocation, with the root cause identified.
-[Low] - AWS service issues resolved<br><br>Summary: AWS has resolved the issues, and all services, including 1upHealth's, are operating normally. <div>
+<div> [High] - Investigating AWS API errors and latencies in US-EAST-1 region<br /><br />Summary: AWS is investigating increased API errors and latencies, impacting 1upHealth services with internal server errors.
+[Medium] - Elevated error rates invoking AWS Lambda functions<br /><br />Summary: AWS is working on resolving elevated error rates for AWS Lambda function invocation, with the root cause identified.
+[Low] - AWS service issues resolved<br /><br />Summary: AWS has resolved the issues, and all services, including 1upHealth's, are operating normally. <div>
 <p><small>Jun <var>13</var>, <var>21:40</var> EDT</small><br /><strong>Resolved</strong> - As of 6:42pm EST, AWS is reporting that the issues is resolved and all AWS services are operating normally.  1upHealth has run its own internal checks and confirmed that our effected services are operating normally, again.</p><p><small>Jun <var>13</var>, <var>15:37</var> EDT</small><br /><strong>Identified</strong> - At 3:26pm EST, AWS reported "We have identified the root cause of the elevated errors invoking AWS Lambda functions, and are actively working to resolve this issue."</p><p><small>Jun <var>13</var>, <var>15:26</var> EDT</small><br /><strong>Update</strong> - As of 3:19pm EST, AWS states that "Lambda function invocation is experiencing elevated error rates. We are working to identify the root cause of this issue."</p><p><small>Jun <var>13</var>, <var>15:20</var> EDT</small><br /><strong>Investigating</strong> - At 3:08pm EST, AWS reported they are investigating increased API errors and latencies, in the US-EAST-1 region.  This is resulting in 1upHealth services showing "Internal server error".  https://health.aws.amazon.com/health/status</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Jun 2023 21:40:11 -0400</pubDate>
 <pubDate>Tue, 13 Jun 2023 21:40:11 -0400</pubDate>
 </item>
 <item>
@@ -22,10 +22,8 @@
 <link>https://status.1up.health/incidents/dr5rz94nsppk</link>
 <guid>https://status.1up.health/incidents/dr5rz94nsppk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>05:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>11</var>, <var>09:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>19:14</var> EST</small><br /><strong>Scheduled</strong> - For customers that were specifically contacted - please be advised that due to an AWS required database update, 1upHealth will be conducting a Scheduled Maintenance this weekend, starting on Saturday (February 11, 2023) at 9:00am EST.<br /><br />The Scheduled Maintenance will be completed by no later than Monday (February 13, 2023) at 5:00am EST.  At this time, the 1upHealth Services, including APIs, will not be available.<br /><br />Please note, additional Scheduled Maintenance may be required in support of this AWS update, and we will provide additional notice of any future Scheduled Maintenance required.  We apologize for any inconvenience that this may cause.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Feb 2023 05:00:15 -0500</pubDate>
 <pubDate>Mon, 13 Feb 2023 05:00:15 -0500</pubDate>
 </item>
 <item>
@@ -33,10 +31,8 @@
 <link>https://status.1up.health/incidents/xmqfcss58fm0</link>
 <guid>https://status.1up.health/incidents/xmqfcss58fm0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>05:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 4</var>, <var>09:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 1</var>, <var>08:53</var> EST</small><br /><strong>Scheduled</strong> - For customers that were specifically contacted - please be advised that due to an AWS required database update, 1upHealth will be conducting a Scheduled Maintenance this weekend, starting on Saturday (February 4, 2023) at 9:00am EST.<br /><br />The Scheduled Maintenance will be completed by no later than Monday (February 6, 2023) at 5:00am EST.  At this time, the 1upHealth Services, including APIs, will not be available.<br /><br />Please note, additional Scheduled Maintenance may be required in support of this AWS update, and we will provide additional notice of any future Scheduled Maintenance required.  We apologize for any inconvenience that this may cause.</p>
 ]]></content:encoded>
-<pubDate>Mon, 06 Feb 2023 05:00:32 -0500</pubDate>
 <pubDate>Mon, 06 Feb 2023 05:00:32 -0500</pubDate>
 </item>
 <item>
@@ -44,10 +40,8 @@
 <link>https://status.1up.health/incidents/gdsr03d9lsrn</link>
 <guid>https://status.1up.health/incidents/gdsr03d9lsrn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>05:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>28</var>, <var>09:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>27</var>, <var>14:57</var> EST</small><br /><strong>Scheduled</strong> - Please be advised that due to an AWS required database update, 1upHealth will be conducting a Scheduled Maintenance this weekend, starting on Saturday (January 28, 2023) at 9:00am EST.<br /><br />The Scheduled Maintenance will be completed by no later than Monday (January 30, 2023) at 5:00am EST.  At this time, the 1upHealth Services, including APIs, will not be available.<br /><br />Please note, additional Scheduled Maintenance may be required in support of this AWS update, and we will provide additional notice of any future Scheduled Maintenance required.  We apologize for any inconvenience that this may cause.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Jan 2023 05:00:39 -0500</pubDate>
 <pubDate>Mon, 30 Jan 2023 05:00:39 -0500</pubDate>
 </item>
 <item>
@@ -55,10 +49,8 @@
 <link>https://status.1up.health/incidents/7lgmqr9fcyrq</link>
 <guid>https://status.1up.health/incidents/7lgmqr9fcyrq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>28</var>, <var>17:11</var> EDT</small><br /><strong>Resolved</strong> - As of 4:43 EST, AWS is reporting that all API functionality is back to pre-incident levels.  The 1upHealth website has resumed its normal performance.</p><p><small>Sep <var>28</var>, <var>15:21</var> EDT</small><br /><strong>Monitoring</strong> - As of 2:33pm EST, AWS reports that API errors and latencies are reduced.  We will continue to monitor AWS.</p><p><small>Sep <var>28</var>, <var>15:20</var> EDT</small><br /><strong>Identified</strong> - The issue resides with AWS and no 1upHealth changes are necessary.</p><p><small>Sep <var>28</var>, <var>15:18</var> EDT</small><br /><strong>Investigating</strong> - Starting at 1:21pm EST, AWS reported increased API errors and latencies.  This is resulting in the 1upHealth website showing performance degradation.  None of the customer accounts are affected.  AWS is actively triaging the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Sep 2022 17:11:48 -0400</pubDate>
 <pubDate>Wed, 28 Sep 2022 17:11:48 -0400</pubDate>
 </item>
 <item>
@@ -66,10 +58,8 @@
 <link>https://status.1up.health/incidents/cm0pkdngwvpy</link>
 <guid>https://status.1up.health/incidents/cm0pkdngwvpy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>24</var>, <var>13:00</var> EDT</small><br /><strong>Resolved</strong> - From 1:23pm EST to 1:53pm EST, AWS reported increased API errors and latencies.  This resulted in the 1upHealth website and specific services showing "Internal server error".  AWS has resolved the issue.  The 1upHealth website and affected services are operating normally, again.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 Aug 2022 13:00:00 -0400</pubDate>
 <pubDate>Wed, 24 Aug 2022 13:00:00 -0400</pubDate>
 </item>
 <item>
@@ -77,10 +67,8 @@
 <link>https://status.1up.health/incidents/9mxr8bscyrbx</link>
 <guid>https://status.1up.health/incidents/9mxr8bscyrbx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>28</var>, <var>11:00</var> EDT</small><br /><strong>Resolved</strong> - On Thursday, July 28, 2022, internal testing indicated that approximately ten percent (10%) of service calls in a portion of our customer accounts were failing.  Immediately following discovery, 1upHealth instituted its escalation procedures and engaged AWS for troubleshooting and root cause analysis.  After a week of concerted effort between 1upHealth and AWS, by noon on Thursday August 4, 2022, internal testing and checks have confirmed that all accounts have reverted back to pre-incident levels.  By 6pm, all accounts were steadily holding performance levels and have continued to maintain such performance levels as of today, August 8, 2022.  We will continue to monitor our systems for this issue, and shall provide any further updates to the extent necessary.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Jul 2022 11:00:00 -0400</pubDate>
 <pubDate>Thu, 28 Jul 2022 11:00:00 -0400</pubDate>
 </item>
 <item>
@@ -88,10 +76,8 @@
 <link>https://status.1up.health/incidents/xrk630pdbms2</link>
 <guid>https://status.1up.health/incidents/xrk630pdbms2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>16</var>, <var>14:06</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>16</var>, <var>10:48</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Mar 2022 14:06:37 -0400</pubDate>
 <pubDate>Wed, 16 Mar 2022 14:06:37 -0400</pubDate>
 </item>
 <item>
@@ -99,10 +85,8 @@
 <link>https://status.1up.health/incidents/0m42sy9j2tmv</link>
 <guid>https://status.1up.health/incidents/0m42sy9j2tmv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>16</var>, <var>14:06</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>16</var>, <var>10:56</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Mar 2022 14:06:20 -0400</pubDate>
 <pubDate>Wed, 16 Mar 2022 14:06:20 -0400</pubDate>
 </item>
 <item>
@@ -110,10 +94,8 @@
 <link>https://status.1up.health/incidents/fs9xyv1qp7kc</link>
 <guid>https://status.1up.health/incidents/fs9xyv1qp7kc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>13</var>, <var>10:30</var> EST</small><br /><strong>Resolved</strong> - Customers with assets in US West 2 (Oregon) had a connectivity issue - from the outside. Everything internal was still able to communicate. It started around 10:43 AM EST and was resolved by AWS around 11:14 AM EST.<br /><br />RESOLUTION: AWS has resolved the services issues that it experienced today. Details can be found here:<br />https://status.aws.amazon.com/<br />1upHealth is continuing to monitor the situation with AWS. <br />Please note that the disruptions in service temporarily disabled access to your APIs, however your data itself was not affected.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 Dec 2021 10:30:00 -0500</pubDate>
 <pubDate>Mon, 13 Dec 2021 10:30:00 -0500</pubDate>
 </item>
 <item>
@@ -121,12 +103,9 @@
 <link>https://status.1up.health/incidents/26d73lvnrscj</link>
 <guid>https://status.1up.health/incidents/26d73lvnrscj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>10:00</var> EST</small><br /><strong>Resolved</strong> - RESOLUTION: AWS has resolved the services issues that it experienced today. Details can be found here:<br />https://status.aws.amazon.com/<br />1upHealth is continuing to monitor the situation with AWS. <br />Please note that the disruptions in service temporarily disabled access to your APIs, however your data itself was not affected.</p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Dec 2021 10:00:00 -0500</pubDate>
-<pubDate>Wed, 08 Dec 2021 10:00:00 -0500</pubDate>
 </item>
-
 </channel>
 </rss>

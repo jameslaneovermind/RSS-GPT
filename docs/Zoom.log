@@ -31,3 +31,9 @@ Append: [DigiCert Global Root G2 Transition Maintenance Notice for BYOC Customer
 Append: [DigiCert Global Root G2 Transition Maintenance Notice for BYOC Customers (APAC)](https://status.zoom.us/incidents/j1wjy31drc91)
 append_entries: 25
 Finish: 2024-02-21 16:23:54.899425
+------------------------------------------------------
+Started: 2024-02-21 16:44:14.150023
+Existing_entries: 25
+Fetching from https://status.zoom.us/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:14.335162

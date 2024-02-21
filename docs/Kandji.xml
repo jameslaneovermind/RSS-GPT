@@ -4,15 +4,15 @@
 <title>Kandji Status - Incident History</title>
 <link>https://status.kandji.io</link>
 
+
 <item>
 <title>Chat Function Maintenance</title>
 <link>https://status.kandji.io/incidents/xzmq0503xq37</link>
 <guid>https://status.kandji.io/incidents/xzmq0503xq37</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Chat Maintenance Scheduled <br><br> Summary: Chat function maintenance scheduled for November 24, 2023, at 01:30 UTC. Potential intermittent availability during the 1-hour window. No impact on email or portal support. <div>
+<div> [Low] - Chat Maintenance Scheduled <br /><br /> Summary: Chat function maintenance scheduled for November 24, 2023, at 01:30 UTC. Potential intermittent availability during the 1-hour window. No impact on email or portal support. <div>
 <p><small>Nov <var>23</var>, <var>18:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>23</var>, <var>17:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>20</var>, <var>15:04</var> PST</small><br /><strong>Scheduled</strong> - Our chat function will be undergoing maintenance on November 24, 2023, starting at 01:30 UTC. There will be the potential for intermittent chat availability during this planned 1-hour window. Support by email or portal will not be impacted.</p>
 ]]></content:encoded>
-<pubDate>Thu, 23 Nov 2023 18:30:11 -0800</pubDate>
 <pubDate>Thu, 23 Nov 2023 18:30:11 -0800</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.kandji.io/incidents/czgssdr3q7c2</link>
 <guid>https://status.kandji.io/incidents/czgssdr3q7c2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>19:38</var> PST</small><br /><strong>Resolved</strong> - Chat support has been stable since the closure of the third-party maintenance window. This incident is now resolved.</p><p><small>Nov <var> 8</var>, <var>18:36</var> PST</small><br /><strong>Monitoring</strong> - The third-party maintenance window is now complete, and chat support is operational.</p><p><small>Nov <var> 8</var>, <var>18:13</var> PST</small><br /><strong>Identified</strong> - Our third-party service provider is currently undergoing maintenance. As such, you may experience intermittent access to chat support during this window. Maintenance is expected to be completed at 02:30am UTC.</p><p><small>Nov <var> 8</var>, <var>17:59</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where the chat bubble is not available in the Kandji admin interface. Email and portal access continue to be available, as per normal.</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 19:38:36 -0800</pubDate>
 <pubDate>Wed, 08 Nov 2023 19:38:36 -0800</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.kandji.io/incidents/1rk9h0rjpwsf</link>
 <guid>https://status.kandji.io/incidents/1rk9h0rjpwsf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>17:54</var> PST</small><br /><strong>Completed</strong> - This was classified as maintenance in error.</p><p><small>Nov <var> 8</var>, <var>17:46</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 8</var>, <var>17:45</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Nov <var> 8</var>, <var>17:44</var> PST</small><br /><strong>Scheduled</strong> - Our third party support service will be undergoing maintenance during this period. As a result, chat may experience intermittent disruptions for a few minutes during this period. If impacted please submit your support requests via our Support Portal, https://support.kandji.io or via email, support@kandji.io<br /><br />Please see the third party's status page for further information: https://status.freshchat.com/</p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Nov 2023 17:54:50 -0800</pubDate>
 <pubDate>Wed, 08 Nov 2023 17:54:50 -0800</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.kandji.io/incidents/8cxlnz5l4776</link>
 <guid>https://status.kandji.io/incidents/8cxlnz5l4776</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>16:20</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems, please open a ticket with our support team.</p><p><small>Nov <var> 7</var>, <var>15:45</var> PST</small><br /><strong>Monitoring</strong> - Authentication services have returned to normal and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Nov <var> 7</var>, <var>14:54</var> PST</small><br /><strong>Investigating</strong> - We are investigating a reported issue with third-party user authentication services. This may result in the inability to sign in for some customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 16:20:52 -0800</pubDate>
 <pubDate>Tue, 07 Nov 2023 16:20:52 -0800</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.kandji.io/incidents/z11h228gd0h9</link>
 <guid>https://status.kandji.io/incidents/z11h228gd0h9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 7</var>, <var>07:42</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems, please open a ticket with our support team.</p><p><small>Nov <var> 7</var>, <var>07:03</var> PST</small><br /><strong>Monitoring</strong> - Third-party user authentication services are reportedly operational and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Nov <var> 7</var>, <var>06:29</var> PST</small><br /><strong>Investigating</strong> - We are investigating a reported issue with third-party user authentication services. This may result in the inability to sign in for some customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Nov 2023 07:42:33 -0800</pubDate>
 <pubDate>Tue, 07 Nov 2023 07:42:33 -0800</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.kandji.io/incidents/wp5cw3vkfsqh</link>
 <guid>https://status.kandji.io/incidents/wp5cw3vkfsqh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 3</var>, <var>07:11</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems with chat in the Kandji Web App, please open a ticket in the support portal at https://support.kandji.io.</p><p><small>Nov <var> 3</var>, <var>06:04</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Nov <var> 3</var>, <var>03:23</var> PDT</small><br /><strong>Identified</strong> - We have identified the issue with our service provider. Please follow this link for direct updates on the service.<br /><br />https://status.freshchat.com/incident/402154</p><p><small>Nov <var> 3</var>, <var>03:05</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 3</var>, <var>03:03</var> PDT</small><br /><strong>Investigating</strong> - We are investigating a reported issue with chat-based support. This may result in the inability to conduct support via chat for some customers. We will post an update as more information becomes available. Please email support@kandji.io for support if you are experiencing issues with chat.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Nov 2023 07:11:56 -0700</pubDate>
 <pubDate>Fri, 03 Nov 2023 07:11:56 -0700</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.kandji.io/incidents/9gyk1ffjg9yv</link>
 <guid>https://status.kandji.io/incidents/9gyk1ffjg9yv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>15:05</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems, please open a ticket with our support team.</p><p><small>Oct <var>30</var>, <var>13:48</var> PDT</small><br /><strong>Monitoring</strong> - Third-party user authentication services are reportedly operational and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Oct <var>30</var>, <var>13:36</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var>30</var>, <var>13:20</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Oct <var>30</var>, <var>13:19</var> PDT</small><br /><strong>Investigating</strong> - We are investigating a reported issue with third-party user authentication services. This may result in the inability to sign in for some customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 15:05:29 -0700</pubDate>
 <pubDate>Mon, 30 Oct 2023 15:05:29 -0700</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.kandji.io/incidents/k34rynvn4q4x</link>
 <guid>https://status.kandji.io/incidents/k34rynvn4q4x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>13:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>29</var>, <var>12:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>27</var>, <var>15:52</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on September 29, 2023, starting at 19:00 UTC. Customers with instances hosted in the EU can expect intermittent service for a planned 1-hour window.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 13:00:26 -0700</pubDate>
 <pubDate>Fri, 29 Sep 2023 13:00:26 -0700</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.kandji.io/incidents/yvm6j0qz17q7</link>
 <guid>https://status.kandji.io/incidents/yvm6j0qz17q7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>28</var>, <var>22:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>28</var>, <var>18:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>27</var>, <var>15:41</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on September 29, 2023, starting at 01:00 UTC. Customers with instances hosted in the US can expect intermittent service for a planned 4-hour window.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Sep 2023 22:00:31 -0700</pubDate>
 <pubDate>Thu, 28 Sep 2023 22:00:31 -0700</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.kandji.io/incidents/y310l3z7rn6b</link>
 <guid>https://status.kandji.io/incidents/y310l3z7rn6b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>25</var>, <var>08:54</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>25</var>, <var>07:06</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Aug <var>25</var>, <var>06:44</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented. Customers may continue to experience impacted Web App functionality for EU instances. We will post an update as soon as additional information is available.</p><p><small>Aug <var>25</var>, <var>06:37</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>25</var>, <var>03:58</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>25</var>, <var>03:56</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>25</var>, <var>03:52</var> PDT</small><br /><strong>Investigating</strong> - We are investigating a reported issue with access to the EU instances. This may result in an inability to reach the Web App for some customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 25 Aug 2023 08:54:20 -0700</pubDate>
 <pubDate>Fri, 25 Aug 2023 08:54:20 -0700</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.kandji.io/incidents/hlzy7zwgv0wy</link>
 <guid>https://status.kandji.io/incidents/hlzy7zwgv0wy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var> 9</var>, <var>14:50</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems, please open a ticket with our support team.</p><p><small>Aug <var> 9</var>, <var>13:42</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Aug <var> 9</var>, <var>12:56</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate enrollment and agent communication issues.</p><p><small>Aug <var> 9</var>, <var>12:09</var> PDT</small><br /><strong>Investigating</strong> - We are investigating a reported issue with the Kandji Web App failing to load for a small amount of customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 09 Aug 2023 14:50:56 -0700</pubDate>
 <pubDate>Wed, 09 Aug 2023 14:50:56 -0700</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.kandji.io/incidents/z4dqrh4ss28g</link>
 <guid>https://status.kandji.io/incidents/z4dqrh4ss28g</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 9</var>, <var>11:40</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. If you continue to experience problems, please open a ticket with our support team.</p><p><small>Jun <var> 9</var>, <var>11:01</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. We will post an update as soon as we can confirm the issue has been fully resolved.</p><p><small>Jun <var> 9</var>, <var>09:47</var> PDT</small><br /><strong>Investigating</strong> - We are investigating a reported issue with the Kandji Web App failing to load. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Jun 2023 11:40:52 -0700</pubDate>
 <pubDate>Fri, 09 Jun 2023 11:40:52 -0700</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.kandji.io/incidents/8t0q7n3hx8l0</link>
 <guid>https://status.kandji.io/incidents/8t0q7n3hx8l0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 3</var>, <var>11:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 3</var>, <var>08:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>30</var>, <var>11:47</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on June 3, 2023, starting at 15:00 UTC. Customers with instances hosted in the US can expect intermittent service for a planned 3-hour window.</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Jun 2023 11:00:04 -0700</pubDate>
 <pubDate>Sat, 03 Jun 2023 11:00:04 -0700</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.kandji.io/incidents/rh9jp5llgdch</link>
 <guid>https://status.kandji.io/incidents/rh9jp5llgdch</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 8</var>, <var>13:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var> 8</var>, <var>10:31</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var> 1</var>, <var>15:48</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on May 8, 2023, starting at 17:30 UTC. Customers with instances hosted in the EU can expect intermittent service for a planned 2.5-hour window.</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 May 2023 13:00:15 -0700</pubDate>
 <pubDate>Mon, 08 May 2023 13:00:15 -0700</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.kandji.io/incidents/qvs1xs0tw6f7</link>
 <guid>https://status.kandji.io/incidents/qvs1xs0tw6f7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>10</var>, <var>19:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Mar <var>10</var>, <var>18:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 8</var>, <var>23:33</var> PST</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on March 11, 2023, at 02:00 UTC. Customers can expect intermittent service for a planned 60-minute window.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Mar 2023 19:00:31 -0800</pubDate>
 <pubDate>Fri, 10 Mar 2023 19:00:31 -0800</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.kandji.io/incidents/jl0x2m1pdr7s</link>
 <guid>https://status.kandji.io/incidents/jl0x2m1pdr7s</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>20:02</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>18:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>25</var>, <var>13:00</var> PST</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on February 4, 2023, at 02:00 UTC. Customers can expect intermittent service for a planned 2-hour window.</p>
 ]]></content:encoded>
-<pubDate>Fri, 03 Feb 2023 20:02:28 -0800</pubDate>
 <pubDate>Fri, 03 Feb 2023 20:02:28 -0800</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.kandji.io/incidents/lhmdyfxlk6z5</link>
 <guid>https://status.kandji.io/incidents/lhmdyfxlk6z5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>22</var>, <var>15:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>22</var>, <var>14:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>21</var>, <var>11:11</var> PST</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on November 22, 2022, at 22:00 UTC. Customers with instances hosted in the EU can expect intermittent service for a planned 60-minute window.</p>
 ]]></content:encoded>
-<pubDate>Tue, 22 Nov 2022 15:01:38 -0800</pubDate>
 <pubDate>Tue, 22 Nov 2022 15:01:38 -0800</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.kandji.io/incidents/ykflybx5vzwp</link>
 <guid>https://status.kandji.io/incidents/ykflybx5vzwp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>17</var>, <var>09:35</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved. If you experience any further problems, please open a ticket with our support team.</p><p><small>Nov <var>17</var>, <var>07:45</var> PST</small><br /><strong>Monitoring</strong> - We are no longer encountering 404 errors when accessing the Kandji Web App or from clients attempting to connect. We will post an update once we have confirmed that the issue has been fully resolved.</p><p><small>Nov <var>17</var>, <var>07:07</var> PST</small><br /><strong>Identified</strong> - The issue has been identified, and a fix is being implemented. Customers may continue to experience impacted functionality. We will post an update as soon as additional information is available.</p><p><small>Nov <var>17</var>, <var>06:56</var> PST</small><br /><strong>Investigating</strong> - We are investigating a reported issue with access to Kandji. This may result in an inability to connect for some customers. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 17 Nov 2022 09:35:41 -0800</pubDate>
 <pubDate>Thu, 17 Nov 2022 09:35:41 -0800</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.kandji.io/incidents/xy952zbckbcw</link>
 <guid>https://status.kandji.io/incidents/xy952zbckbcw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>16</var>, <var>21:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>31</var>, <var>15:32</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on November 17, 2022, at 5:00 UTC. Customers can expect intermittent service for a planned 2-hour window.</p>
 ]]></content:encoded>
-<pubDate>Wed, 16 Nov 2022 23:00:34 -0800</pubDate>
 <pubDate>Wed, 16 Nov 2022 23:00:34 -0800</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.kandji.io/incidents/fnyg9qd1tccs</link>
 <guid>https://status.kandji.io/incidents/fnyg9qd1tccs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>03:16</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved. If you experience any future problems, please open a ticket with our support team.</p><p><small>Nov <var>15</var>, <var>02:23</var> PST</small><br /><strong>Monitoring</strong> - We are no longer seeing 404 errors or access issues when accessing the Kandji Web App. We will post an update once we have confirmed the issue has been fully resolved.</p><p><small>Nov <var>15</var>, <var>01:31</var> PST</small><br /><strong>Update</strong> - We are now seeing loading and 404 issues as well as reports of access issues reduced to intermittent. Further updates to follow.</p><p><small>Nov <var>15</var>, <var>00:39</var> PST</small><br /><strong>Update</strong> - We are investigating further reports of customers' Kandji instances not loading. Further updates will be provided as more information becomes available.</p><p><small>Nov <var>14</var>, <var>23:56</var> PST</small><br /><strong>Investigating</strong> - We are investigating reports of 404 errors when attempting to access the Kandji Web App. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Tue, 15 Nov 2022 03:16:13 -0800</pubDate>
 <pubDate>Tue, 15 Nov 2022 03:16:13 -0800</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.kandji.io/incidents/7ngshdkyv333</link>
 <guid>https://status.kandji.io/incidents/7ngshdkyv333</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>14</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>14</var>, <var>21:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>31</var>, <var>15:25</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on November 15, 2022, at 5:00 UTC. Customers can expect intermittent service for a planned 2-hour window.</p>
 ]]></content:encoded>
-<pubDate>Mon, 14 Nov 2022 23:00:27 -0800</pubDate>
 <pubDate>Mon, 14 Nov 2022 23:00:27 -0800</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.kandji.io/incidents/rcddlpd733kg</link>
 <guid>https://status.kandji.io/incidents/rcddlpd733kg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 8</var>, <var>23:02</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 8</var>, <var>22:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>31</var>, <var>15:24</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on November 9, 2022, at 6:00 UTC. Customers can expect intermittent service for a planned 60-minute window.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Nov 2022 23:02:17 -0800</pubDate>
 <pubDate>Tue, 08 Nov 2022 23:02:17 -0800</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.kandji.io/incidents/tw07pv4dyk2c</link>
 <guid>https://status.kandji.io/incidents/tw07pv4dyk2c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>12:20</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved. If you experience any future problems, please open a ticket with our support team.</p><p><small>Nov <var> 2</var>, <var>11:04</var> PDT</small><br /><strong>Monitoring</strong> - We are no longer seeing 404 errors when accessing the Kandji Web App. We will post an update once we have confirmed the issue has been fully resolved.</p><p><small>Nov <var> 2</var>, <var>10:09</var> PDT</small><br /><strong>Investigating</strong> - We are investigating reports of 404 errors when attempting to access the Kandji Web App. We will post an update as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 02 Nov 2022 12:20:16 -0700</pubDate>
 <pubDate>Wed, 02 Nov 2022 12:20:16 -0700</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.kandji.io/incidents/bq3lx3kzhdxd</link>
 <guid>https://status.kandji.io/incidents/bq3lx3kzhdxd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>13</var>, <var>23:01</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>13</var>, <var>22:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>12</var>, <var>13:15</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on October 14th, 2022, at 05:00 UTC. Customers can expect intermittent service for a planned 60-minute window.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Oct 2022 23:01:49 -0700</pubDate>
 <pubDate>Thu, 13 Oct 2022 23:01:49 -0700</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.kandji.io/incidents/pf2tmzncsr4m</link>
 <guid>https://status.kandji.io/incidents/pf2tmzncsr4m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 6</var>, <var>23:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 6</var>, <var>22:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 3</var>, <var>17:16</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Oct <var> 3</var>, <var>16:56</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing planned maintenance on October 7, 2022, at 05:00 UTC. US instances will experience intermittent functionality for a planned 60-minute window.</p>
 ]]></content:encoded>
 <pubDate>Thu, 06 Oct 2022 23:00:35 -0700</pubDate>
-<pubDate>Thu, 06 Oct 2022 23:00:35 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

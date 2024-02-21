@@ -31,3 +31,9 @@ Append: [Messaging system unavailable / Système de messagerie indisponible](htt
 Append: [dégradation des performances de l'application mobile pour les membres  / degraded performance on the mobile member app](https://status.dialogue.co/incidents/vm1kcsw8wmfh)
 append_entries: 25
 Finish: 2024-02-21 16:24:47.763221
+------------------------------------------------------
+Started: 2024-02-21 16:44:27.696092
+Existing_entries: 25
+Fetching from https://status.dialogue.co/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:27.941543

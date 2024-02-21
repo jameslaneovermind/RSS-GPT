@@ -31,3 +31,9 @@ Append: [Sage Business Cloud Accounting (NA) - Scheduled Maintenance](https://st
 Append: [Sage 200 Standard (UKI) - Recent Update Information](https://status.sage.com/incidents/8ywpb0rjrx4f)
 append_entries: 25
 Finish: 2024-02-21 16:24:37.247799
+------------------------------------------------------
+Started: 2024-02-21 16:44:25.869278
+Existing_entries: 25
+Fetching from https://status.sage.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:26.040697

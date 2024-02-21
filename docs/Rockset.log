@@ -31,3 +31,9 @@ Append: [Delays in VI switching in us-east-1 cluster](https://status.rockset.com
 Append: [AWS issue in us-west-2](https://status.rockset.com/incidents/gf2j3164ls0s)
 append_entries: 25
 Finish: 2024-02-21 16:24:25.815274
+------------------------------------------------------
+Started: 2024-02-21 16:44:23.479794
+Existing_entries: 25
+Fetching from https://status.rockset.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:44:23.799620

@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>Access.redhat.com DOWN</title>
 <link>https://status.redhat.com/incidents/9678k00hdjj8</link>
@@ -12,28 +13,27 @@
 <div> ```html
 [Low] - Investigating 
 Summary: The team is currently looking into an issue.
-<br><br>
+<br /><br />
 [Low] - Update 
 Summary: The team is still investigating the issue.
-<br><br>
+<br /><br />
 [Low] - Update 
 Summary: The team is still investigating the issue.
-<br><br>
+<br /><br />
 [Low] - Update 
 Summary: The team is continuing to investigate the issue.
-<br><br>
+<br /><br />
 [Medium] - Identified 
 Summary: The issue has been identified, and a fix is being implemented.
-<br><br>
+<br /><br />
 [Medium] - Monitoring 
 Summary: A fix has been implemented, and the team is monitoring the results.
-<br><br>
+<br /><br />
 [Resolved] - Resolved 
 Summary: This incident has been resolved.
 ``` <div>
 <p><small>Feb <var>15</var>, <var>11:08</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>11:07</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>15</var>, <var>11:00</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>15</var>, <var>09:42</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>15</var>, <var>09:36</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>15</var>, <var>09:33</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 11:08:53 -0500</pubDate>
 <pubDate>Thu, 15 Feb 2024 11:08:53 -0500</pubDate>
 </item>
 <item>
@@ -41,10 +41,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/3krd0pkt5vnk</link>
 <guid>https://status.redhat.com/incidents/3krd0pkt5vnk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>19:03</var> EST</small><br /><strong>Completed</strong> - The Customer Portal maintenance is complete.</p><p><small>Feb <var>10</var>, <var>15:54</var> EST</small><br /><strong>In progress</strong> - The Customer Portal is currently undergoing maintenance. It is expected that this maintenance will continue until February 10 at 11 PM UTC.</p><p><small>Feb <var>10</var>, <var>12:16</var> EST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>10</var>, <var>12:15</var> EST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>10</var>, <var>09:00</var> EST</small><br /><strong>Scheduled</strong> - The Customer Portal will undergo maintenance on Saturday, February 10th from 3pm - 9pm UTC. During this time, logins will be blocked on various pages and you may experience disruptions in certain areas of the website. We do not anticipate any impact to key functionality to support case functionality and product downloads.</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 19:03:41 -0500</pubDate>
 <pubDate>Sat, 10 Feb 2024 19:03:41 -0500</pubDate>
 </item>
 <item>
@@ -52,10 +50,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/lp0sz8vcqpck</link>
 <guid>https://status.redhat.com/incidents/lp0sz8vcqpck</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>13:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 9</var>, <var>10:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>15:15</var> EST</small><br /><strong>Scheduled</strong> - We will be migrating from status.quay.io to status.redhat.com during this time. No disruption to service is expected. status.quay.io will now point to status.redhat.com and quay.io status notifications will come from status.redhat.com. <br /><br />Users will need to create a new subscription to status.redhat.com to continue receiving notifications. To do so, on status.redhat.com, click “Subscribe to updates” and select your method of contact. On the next page you can select the “quay.io” entry under “Components” (along with any other Red Hat services you may be interested in). Please let us know if you have any issues and thank you for using quay.io!</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 13:00:56 -0500</pubDate>
 <pubDate>Fri, 09 Feb 2024 13:00:56 -0500</pubDate>
 </item>
 <item>
@@ -63,10 +59,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/bgf4w58tp9j1</link>
 <guid>https://status.redhat.com/incidents/bgf4w58tp9j1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>18:41</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>15:22</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 18:41:59 -0500</pubDate>
 <pubDate>Thu, 08 Feb 2024 18:41:59 -0500</pubDate>
 </item>
 <item>
@@ -74,10 +68,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/jftdw8593b18</link>
 <guid>https://status.redhat.com/incidents/jftdw8593b18</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 3</var>, <var>01:05</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>01:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>19:31</var> EST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 3</var>, <var>01:00</var> EST</small><br /><strong>Scheduled</strong> - Back-end maintenance is scheduled for Feb 3rd 1AM-1:05AM EST. During this time Support Cases will be inaccessible, which means customers will not be able to view, create or edit cases. To create support cases during the maintenance window, use techsupport@redhat.com.</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Feb 2024 01:05:07 -0500</pubDate>
 <pubDate>Sat, 03 Feb 2024 01:05:07 -0500</pubDate>
 </item>
 <item>
@@ -85,10 +77,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/hfk33xh9n2gf</link>
 <guid>https://status.redhat.com/incidents/hfk33xh9n2gf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>02:01</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>01:43</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>31</var>, <var>16:59</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 02:01:08 -0500</pubDate>
 <pubDate>Thu, 01 Feb 2024 02:01:08 -0500</pubDate>
 </item>
 <item>
@@ -96,10 +86,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/vwhbbcbtyr5m</link>
 <guid>https://status.redhat.com/incidents/vwhbbcbtyr5m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>12:41</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>10:39</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 12:41:01 -0500</pubDate>
 <pubDate>Wed, 31 Jan 2024 12:41:01 -0500</pubDate>
 </item>
 <item>
@@ -107,10 +95,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/bkbzwzlztsq3</link>
 <guid>https://status.redhat.com/incidents/bkbzwzlztsq3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>09:30</var> EST</small><br /><strong>Resolved</strong> - The system became unresponsive for 15 minutes. The service is operational and responding at this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 09:30:00 -0500</pubDate>
 <pubDate>Wed, 31 Jan 2024 09:30:00 -0500</pubDate>
 </item>
 <item>
@@ -118,10 +104,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/rgwr5cc9c5ty</link>
 <guid>https://status.redhat.com/incidents/rgwr5cc9c5ty</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>23:25</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>25</var>, <var>19:05</var> EST</small><br /><strong>Investigating</strong> - There is currently an outage that may lead to limited or no search results. The issue is being investigated and service should be restored soon.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 23:25:14 -0500</pubDate>
 <pubDate>Thu, 25 Jan 2024 23:25:14 -0500</pubDate>
 </item>
 <item>
@@ -129,10 +113,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/28dc2545k2w3</link>
 <guid>https://status.redhat.com/incidents/28dc2545k2w3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>12:00</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>17</var>, <var>11:31</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>17</var>, <var>08:52</var> EST</small><br /><strong>Investigating</strong> - There is currently an outage that may lead to limited or no search results. The issue is being investigated and service should be restored soon.</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Jan 2024 12:00:40 -0500</pubDate>
 <pubDate>Wed, 17 Jan 2024 12:00:40 -0500</pubDate>
 </item>
 <item>
@@ -140,10 +122,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/mb00m9z3tbx9</link>
 <guid>https://status.redhat.com/incidents/mb00m9z3tbx9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>15:23</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>15</var>, <var>09:24</var> EST</small><br /><strong>Investigating</strong> - There is currently an outage that may lead to limited or no results for certified hardware products. The issue is being investigated and service should be restored soon.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 15:23:35 -0500</pubDate>
 <pubDate>Mon, 15 Jan 2024 15:23:35 -0500</pubDate>
 </item>
 <item>
@@ -151,10 +131,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/j2qp5350zt1c</link>
 <guid>https://status.redhat.com/incidents/j2qp5350zt1c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 3</var>, <var>07:50</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 3</var>, <var>03:47</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 03 Jan 2024 07:50:46 -0500</pubDate>
 <pubDate>Wed, 03 Jan 2024 07:50:46 -0500</pubDate>
 </item>
 <item>
@@ -162,10 +140,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/90rqzdyskyvm</link>
 <guid>https://status.redhat.com/incidents/90rqzdyskyvm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>28</var>, <var>14:30</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>28</var>, <var>12:21</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>28</var>, <var>06:43</var> EST</small><br /><strong>Investigating</strong> - We are seeing issues provisioning HCP clusters and are actively investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Dec 2023 14:30:34 -0500</pubDate>
 <pubDate>Thu, 28 Dec 2023 14:30:34 -0500</pubDate>
 </item>
 <item>
@@ -173,10 +149,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/wqkkgyl6lc4w</link>
 <guid>https://status.redhat.com/incidents/wqkkgyl6lc4w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>27</var>, <var>02:00</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>27</var>, <var>01:55</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 6</var>, <var>14:29</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var> 5</var>, <var>14:09</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var> 5</var>, <var>13:34</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Dec 2023 02:00:19 -0500</pubDate>
 <pubDate>Wed, 27 Dec 2023 02:00:19 -0500</pubDate>
 </item>
 <item>
@@ -184,10 +158,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/q96bdrmxjcy1</link>
 <guid>https://status.redhat.com/incidents/q96bdrmxjcy1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>12:28</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>09:30</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p><p><small>Dec <var> 8</var>, <var>09:03</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 8</var>, <var>08:56</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 12:28:25 -0500</pubDate>
 <pubDate>Fri, 08 Dec 2023 12:28:25 -0500</pubDate>
 </item>
 <item>
@@ -195,10 +167,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/dc5bg2tp20h4</link>
 <guid>https://status.redhat.com/incidents/dc5bg2tp20h4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>15:15</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 5</var>, <var>14:14</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 15:15:28 -0500</pubDate>
 <pubDate>Tue, 05 Dec 2023 15:15:28 -0500</pubDate>
 </item>
 <item>
@@ -206,10 +176,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/01f892dgzzhc</link>
 <guid>https://status.redhat.com/incidents/01f892dgzzhc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>10:38</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 1</var>, <var>10:04</var> EST</small><br /><strong>Investigating</strong> - Team is aware of issues and is currently working through them.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 10:38:15 -0500</pubDate>
 <pubDate>Fri, 01 Dec 2023 10:38:15 -0500</pubDate>
 </item>
 <item>
@@ -217,10 +185,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/9v105bj7ry31</link>
 <guid>https://status.redhat.com/incidents/9v105bj7ry31</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>30</var>, <var>15:42</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>30</var>, <var>15:38</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>30</var>, <var>14:49</var> EST</small><br /><strong>Investigating</strong> - quay.io is experiencing issues and the team is investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Nov 2023 15:42:33 -0500</pubDate>
 <pubDate>Thu, 30 Nov 2023 15:42:33 -0500</pubDate>
 </item>
 <item>
@@ -228,10 +194,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/2xr57v7qg207</link>
 <guid>https://status.redhat.com/incidents/2xr57v7qg207</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>16:52</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>16:51</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 16:52:43 -0500</pubDate>
 <pubDate>Wed, 29 Nov 2023 16:52:43 -0500</pubDate>
 </item>
 <item>
@@ -239,10 +203,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/f1mmglmjr85d</link>
 <guid>https://status.redhat.com/incidents/f1mmglmjr85d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>10:34</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>10:16</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 10:34:29 -0500</pubDate>
 <pubDate>Wed, 29 Nov 2023 10:34:29 -0500</pubDate>
 </item>
 <item>
@@ -250,10 +212,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/tnq2dpj8kfyw</link>
 <guid>https://status.redhat.com/incidents/tnq2dpj8kfyw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>28</var>, <var>11:00</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>28</var>, <var>09:00</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>17</var>, <var>12:43</var> EST</small><br /><strong>Update</strong> - Red Hat SSO is scheduled for maintenance on November 28, 2023 from 14:00 UTC to 16:00 UTC. Re-authentication will be required. No other impact is expected.</p><p><small>Nov <var> 6</var>, <var>11:46</var> EST</small><br /><strong>Scheduled</strong> - Red Hat SSO is scheduled for maintenance on Dec 04, 2023 from 14:00 UTC to 16:00 UTC. Re-authentication will be required. No other impact is expected.</p>
 ]]></content:encoded>
-<pubDate>Tue, 28 Nov 2023 11:00:16 -0500</pubDate>
 <pubDate>Tue, 28 Nov 2023 11:00:16 -0500</pubDate>
 </item>
 <item>
@@ -261,10 +221,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/9n38tjn53lpk</link>
 <guid>https://status.redhat.com/incidents/9n38tjn53lpk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>27</var>, <var>10:54</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>27</var>, <var>09:29</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>27</var>, <var>09:25</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 10:54:13 -0500</pubDate>
 <pubDate>Mon, 27 Nov 2023 10:54:13 -0500</pubDate>
 </item>
 <item>
@@ -272,10 +230,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/8ly6n3bp0s2h</link>
 <guid>https://status.redhat.com/incidents/8ly6n3bp0s2h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>25</var>, <var>20:55</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>25</var>, <var>20:33</var> EST</small><br /><strong>Monitoring</strong> - quay.io has stabalized. We will continue to monitor.</p><p><small>Nov <var>25</var>, <var>20:14</var> EST</small><br /><strong>Investigating</strong> - quay.io is currently experiencing issues and pulls from Red Hat container registries may be affected.</p>
 ]]></content:encoded>
-<pubDate>Sat, 25 Nov 2023 20:55:45 -0500</pubDate>
 <pubDate>Sat, 25 Nov 2023 20:55:45 -0500</pubDate>
 </item>
 <item>
@@ -283,10 +239,8 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/tk414d30khmf</link>
 <guid>https://status.redhat.com/incidents/tk414d30khmf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>18</var>, <var>02:30</var> EST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>17</var>, <var>22:30</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 2</var>, <var>06:47</var> EDT</small><br /><strong>Scheduled</strong> - Hi Team,<br /><br />The Red Hat’s Jira (issues.redhat.com) will be unavailable for 4 Hr for scheduled maintenance starting at 3:30 AM UTC On Nov 18, 2023, for the database upgrade.<br /><br />You can submit a ticket with us by sending an email to rh-issues@redhat.com if you have any questions.<br /><br />Thanks<br />Sagar</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Nov 2023 02:30:03 -0500</pubDate>
 <pubDate>Sat, 18 Nov 2023 02:30:03 -0500</pubDate>
 </item>
 <item>
@@ -294,12 +248,9 @@ Summary: This incident has been resolved.
 <link>https://status.redhat.com/incidents/gsjz9ly5y2gv</link>
 <guid>https://status.redhat.com/incidents/gsjz9ly5y2gv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>01:50</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>15</var>, <var>01:50</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>15</var>, <var>01:50</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>15</var>, <var>00:59</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Nov 2023 01:50:58 -0500</pubDate>
-<pubDate>Wed, 15 Nov 2023 01:50:58 -0500</pubDate>
 </item>
-
 </channel>
 </rss>

@@ -4,16 +4,16 @@
 <title>Aisera Status - Incident History</title>
 <link>https://status.aisera.com</link>
 
+
 <item>
 <title>Aisera Scheduled Maintenance Notification</title>
 <link>https://status.aisera.com/incidents/pzrxrby39xkz</link>
 <guid>https://status.aisera.com/incidents/pzrxrby39xkz</guid>
 <content:encoded><![CDATA[
 <div> Here is the output in the correct format:
-[Low] - Scheduled Maintenance <br><br> Summary: Scheduled maintenance is underway for the Aisera Platform from 17:00 to 19:00 PDT. Some services may be impacted, and users could encounter "under maintenance" messages during this time. <div>
+[Low] - Scheduled Maintenance <br /><br /> Summary: Scheduled maintenance is underway for the Aisera Platform from 17:00 to 19:00 PDT. Some services may be impacted, and users could encounter "under maintenance" messages during this time. <div>
 <p><small>Feb <var>20</var>, <var>18:37</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>13:53</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>20</var>, <var>17:00</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />February 20 from 17:00 to 19:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 18:37:46 -0800</pubDate>
 <pubDate>Tue, 20 Feb 2024 18:37:46 -0800</pubDate>
 </item>
 <item>
@@ -21,10 +21,8 @@
 <link>https://status.aisera.com/incidents/rmk60n08q8ct</link>
 <guid>https://status.aisera.com/incidents/rmk60n08q8ct</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>10:53</var> PST</small><br /><strong>Resolved</strong> - The issue has been resolved. We will provide RCA soon.</p><p><small>Feb <var> 9</var>, <var>10:52</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 9</var>, <var>10:44</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 9</var>, <var>10:43</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 10:53:27 -0800</pubDate>
 <pubDate>Fri, 09 Feb 2024 10:53:27 -0800</pubDate>
 </item>
 <item>
@@ -32,10 +30,8 @@
 <link>https://status.aisera.com/incidents/ccbt1zjqvmyx</link>
 <guid>https://status.aisera.com/incidents/ccbt1zjqvmyx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 6</var>, <var>12:28</var> PST</small><br /><strong>Resolved</strong> - We have resolved the incident and we are monitoring.</p><p><small>Feb <var> 6</var>, <var>12:02</var> PST</small><br /><strong>Investigating</strong> - Some Aisera customers are experiencing a timeout error when accessing the Aisera admin webpage. We are aware of this issue and are working to solve it.</p>
 ]]></content:encoded>
-<pubDate>Tue, 06 Feb 2024 12:28:55 -0800</pubDate>
 <pubDate>Tue, 06 Feb 2024 12:28:55 -0800</pubDate>
 </item>
 <item>
@@ -43,10 +39,8 @@
 <link>https://status.aisera.com/incidents/fc40cjkxddw9</link>
 <guid>https://status.aisera.com/incidents/fc40cjkxddw9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 2</var>, <var>20:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 2</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>25</var>, <var>11:09</var> PST</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var> 2</var>, <var>17:00</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />February 2 from 17:00 to 20:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 20:00:30 -0800</pubDate>
 <pubDate>Fri, 02 Feb 2024 20:00:30 -0800</pubDate>
 </item>
 <item>
@@ -54,10 +48,8 @@
 <link>https://status.aisera.com/incidents/mkttz8zwz4qy</link>
 <guid>https://status.aisera.com/incidents/mkttz8zwz4qy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>21:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>19</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>18</var>, <var>11:55</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />January 19 from 17:00 to 20:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 21:00:54 -0800</pubDate>
 <pubDate>Fri, 19 Jan 2024 21:00:54 -0800</pubDate>
 </item>
 <item>
@@ -65,10 +57,8 @@
 <link>https://status.aisera.com/incidents/yldy3blqtgbs</link>
 <guid>https://status.aisera.com/incidents/yldy3blqtgbs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>18:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>12</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>10</var>, <var>13:42</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />January 12 from 17:00 to 18:30 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Jan 2024 18:30:13 -0800</pubDate>
 <pubDate>Fri, 12 Jan 2024 18:30:13 -0800</pubDate>
 </item>
 <item>
@@ -76,10 +66,8 @@
 <link>https://status.aisera.com/incidents/0y4sxvhh9tlw</link>
 <guid>https://status.aisera.com/incidents/0y4sxvhh9tlw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>18:23</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>15</var>, <var>17:55</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>15</var>, <var>17:52</var> PST</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 18:23:30 -0800</pubDate>
 <pubDate>Fri, 15 Dec 2023 18:23:30 -0800</pubDate>
 </item>
 <item>
@@ -87,10 +75,8 @@
 <link>https://status.aisera.com/incidents/nnbcp1cmjxq7</link>
 <guid>https://status.aisera.com/incidents/nnbcp1cmjxq7</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>17:45</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>15</var>, <var>17:02</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>12</var>, <var>12:54</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />December 15 from 17:00 to 17:45 PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 17:45:29 -0800</pubDate>
 <pubDate>Fri, 15 Dec 2023 17:45:29 -0800</pubDate>
 </item>
 <item>
@@ -98,10 +84,8 @@
 <link>https://status.aisera.com/incidents/stvsrh3yl6v4</link>
 <guid>https://status.aisera.com/incidents/stvsrh3yl6v4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 8</var>, <var>17:45</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 8</var>, <var>17:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 5</var>, <var>13:26</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />December 8 from 17:00 to 17:45 PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Dec 2023 17:45:25 -0800</pubDate>
 <pubDate>Fri, 08 Dec 2023 17:45:25 -0800</pubDate>
 </item>
 <item>
@@ -109,10 +93,8 @@
 <link>https://status.aisera.com/incidents/59j7bbcbmywt</link>
 <guid>https://status.aisera.com/incidents/59j7bbcbmywt</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 3</var>, <var>09:25</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 3</var>, <var>09:23</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 3</var>, <var>09:22</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />[INSERT DATE "FULLMONTH DD" e.g. September 25] from [START_TIME 24 HOUR SCALE] to [END_TIME 24 HOUR SCALE] PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Dec 2023 09:25:08 -0800</pubDate>
 <pubDate>Sun, 03 Dec 2023 09:25:08 -0800</pubDate>
 </item>
 <item>
@@ -120,10 +102,8 @@
 <link>https://status.aisera.com/incidents/trqh83479f88</link>
 <guid>https://status.aisera.com/incidents/trqh83479f88</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 2</var>, <var>17:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 2</var>, <var>14:16</var> PST</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Dec <var> 2</var>, <var>09:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>20</var>, <var>21:46</var> PST</small><br /><strong>Scheduled</strong> - We have a planned Infrastructure upgrade for Aisera Platform scheduled for:<br /><br />December 02 from 9 AM to 3 PM PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Sat, 02 Dec 2023 17:00:35 -0800</pubDate>
 <pubDate>Sat, 02 Dec 2023 17:00:35 -0800</pubDate>
 </item>
 <item>
@@ -131,10 +111,8 @@
 <link>https://status.aisera.com/incidents/3pq8mp1mnp4m</link>
 <guid>https://status.aisera.com/incidents/3pq8mp1mnp4m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>29</var>, <var>16:12</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>29</var>, <var>16:09</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>29</var>, <var>16:05</var> PST</small><br /><strong>Investigating</strong> - We are investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 29 Nov 2023 16:12:35 -0800</pubDate>
 <pubDate>Wed, 29 Nov 2023 16:12:35 -0800</pubDate>
 </item>
 <item>
@@ -142,10 +120,8 @@
 <link>https://status.aisera.com/incidents/rbqn6fhzjkwx</link>
 <guid>https://status.aisera.com/incidents/rbqn6fhzjkwx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>27</var>, <var>21:48</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>27</var>, <var>21:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>27</var>, <var>21:19</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />November 27 from 21:30 to 22:15 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Mon, 27 Nov 2023 21:48:47 -0800</pubDate>
 <pubDate>Mon, 27 Nov 2023 21:48:47 -0800</pubDate>
 </item>
 <item>
@@ -153,10 +129,8 @@
 <link>https://status.aisera.com/incidents/6qwcbv56j4th</link>
 <guid>https://status.aisera.com/incidents/6qwcbv56j4th</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>15</var>, <var>22:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>15</var>, <var>20:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>15</var>, <var>20:00</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />November 15 from 20:00 PST to 22:00 PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 Nov 2023 22:00:30 -0800</pubDate>
 <pubDate>Wed, 15 Nov 2023 22:00:30 -0800</pubDate>
 </item>
 <item>
@@ -164,10 +138,8 @@
 <link>https://status.aisera.com/incidents/j31ccd20thxj</link>
 <guid>https://status.aisera.com/incidents/j31ccd20thxj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>10</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>10</var>, <var>21:52</var> PST</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Nov <var>10</var>, <var>20:07</var> PST</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Nov <var>10</var>, <var>20:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 6</var>, <var>13:48</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />November 10 from 20:00 to 22:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Nov 2023 23:00:24 -0800</pubDate>
 <pubDate>Fri, 10 Nov 2023 23:00:24 -0800</pubDate>
 </item>
 <item>
@@ -175,10 +147,8 @@
 <link>https://status.aisera.com/incidents/3hk6knllq1lx</link>
 <guid>https://status.aisera.com/incidents/3hk6knllq1lx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>27</var>, <var>17:45</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>27</var>, <var>17:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>25</var>, <var>16:34</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />October 27 from 17:00 to 17:45 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 27 Oct 2023 17:45:11 -0700</pubDate>
 <pubDate>Fri, 27 Oct 2023 17:45:11 -0700</pubDate>
 </item>
 <item>
@@ -186,10 +156,8 @@
 <link>https://status.aisera.com/incidents/14lbsvpq9n4v</link>
 <guid>https://status.aisera.com/incidents/14lbsvpq9n4v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>20</var>, <var>17:45</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>20</var>, <var>17:01</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>20</var>, <var>17:00</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />October 20 from 17:00 to 17:45 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 20 Oct 2023 17:45:12 -0700</pubDate>
 <pubDate>Fri, 20 Oct 2023 17:45:12 -0700</pubDate>
 </item>
 <item>
@@ -197,10 +165,8 @@
 <link>https://status.aisera.com/incidents/58lyjb92dqch</link>
 <guid>https://status.aisera.com/incidents/58lyjb92dqch</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>13</var>, <var>17:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>13</var>, <var>17:28</var> PDT</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Oct <var>13</var>, <var>17:27</var> PDT</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Oct <var>13</var>, <var>17:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>10</var>, <var>16:06</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />October 13 from 17:00 to 17:30 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 13 Oct 2023 17:30:10 -0700</pubDate>
 <pubDate>Fri, 13 Oct 2023 17:30:10 -0700</pubDate>
 </item>
 <item>
@@ -208,10 +174,8 @@
 <link>https://status.aisera.com/incidents/jfw7s7n6mb37</link>
 <guid>https://status.aisera.com/incidents/jfw7s7n6mb37</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 7</var>, <var>00:18</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 6</var>, <var>23:19</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 6</var>, <var>23:17</var> PDT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Sat, 07 Oct 2023 00:18:20 -0700</pubDate>
 <pubDate>Sat, 07 Oct 2023 00:18:20 -0700</pubDate>
 </item>
 <item>
@@ -219,10 +183,8 @@
 <link>https://status.aisera.com/incidents/xzksp2b56jn9</link>
 <guid>https://status.aisera.com/incidents/xzksp2b56jn9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var> 6</var>, <var>23:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var> 6</var>, <var>20:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 3</var>, <var>17:53</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />October 6 from 20:00 to 23:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 06 Oct 2023 23:00:08 -0700</pubDate>
 <pubDate>Fri, 06 Oct 2023 23:00:08 -0700</pubDate>
 </item>
 <item>
@@ -230,10 +192,8 @@
 <link>https://status.aisera.com/incidents/qr17d26z1bk0</link>
 <guid>https://status.aisera.com/incidents/qr17d26z1bk0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>21:53</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>29</var>, <var>21:51</var> PDT</small><br /><strong>Update</strong> - Scheduled maintenance is still in progress. We will provide updates as necessary.</p><p><small>Sep <var>29</var>, <var>20:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>29</var>, <var>20:00</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />September 29 from 20:00 to 23:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 21:53:16 -0700</pubDate>
 <pubDate>Fri, 29 Sep 2023 21:53:16 -0700</pubDate>
 </item>
 <item>
@@ -241,10 +201,8 @@
 <link>https://status.aisera.com/incidents/j5nf57kjts6c</link>
 <guid>https://status.aisera.com/incidents/j5nf57kjts6c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>24</var>, <var>12:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>24</var>, <var>10:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>23</var>, <var>09:41</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>22</var>, <var>20:13</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />September 24 from 10:00 to 12:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Sep 2023 12:00:26 -0700</pubDate>
 <pubDate>Sun, 24 Sep 2023 12:00:26 -0700</pubDate>
 </item>
 <item>
@@ -252,10 +210,8 @@
 <link>https://status.aisera.com/incidents/k7j2tlhqw778</link>
 <guid>https://status.aisera.com/incidents/k7j2tlhqw778</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>22</var>, <var>20:24</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>22</var>, <var>20:21</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>22</var>, <var>20:20</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />[INSERT DATE "FULLMONTH DD" e.g. September 25] from [START_TIME 24 HOUR SCALE] to [END_TIME 24 HOUR SCALE] PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Sep 2023 20:24:02 -0700</pubDate>
 <pubDate>Fri, 22 Sep 2023 20:24:02 -0700</pubDate>
 </item>
 <item>
@@ -263,10 +219,8 @@
 <link>https://status.aisera.com/incidents/y0snhlwdx8gr</link>
 <guid>https://status.aisera.com/incidents/y0snhlwdx8gr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>15</var>, <var>21:16</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>15</var>, <var>20:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>15</var>, <var>13:36</var> PDT</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Sep <var>15</var>, <var>16:19</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />September 15 from 20:00 to 22:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Sep 2023 21:16:24 -0700</pubDate>
 <pubDate>Fri, 15 Sep 2023 21:16:24 -0700</pubDate>
 </item>
 <item>
@@ -274,12 +228,9 @@
 <link>https://status.aisera.com/incidents/w275j3c6c10z</link>
 <guid>https://status.aisera.com/incidents/w275j3c6c10z</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var> 8</var>, <var>19:31</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var> 8</var>, <var>17:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>25</var>, <var>15:02</var> PDT</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />September 8 from 17:00 to 20:00 PDT.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Sep 2023 19:31:16 -0700</pubDate>
-<pubDate>Fri, 08 Sep 2023 19:31:16 -0700</pubDate>
 </item>
-
 </channel>
 </rss>

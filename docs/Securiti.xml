@@ -4,15 +4,15 @@
 <title>Securiti US Status - Incident History</title>
 <link>https://status.securiti.ai</link>
 
+
 <item>
 <title>Release 1.112 Upgrade</title>
 <link>https://status.securiti.ai/incidents/cxvk8pb56ksv</link>
 <guid>https://status.securiti.ai/incidents/cxvk8pb56ksv</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Securiti Upgrade to Release 1.112 <br><br> Securiti will be upgraded to Release 1.112 with an in-service upgrade scheduled. Users are advised to log into the portal after the upgrade for more information. Summary: Scheduled upgrade to Release 1.112 with no expected disruption. <div>
+<div> [Medium] - Securiti Upgrade to Release 1.112 <br /><br /> Securiti will be upgraded to Release 1.112 with an in-service upgrade scheduled. Users are advised to log into the portal after the upgrade for more information. Summary: Scheduled upgrade to Release 1.112 with no expected disruption. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>21</var>, <var>21:00</var> UTC &nbsp;-&nbsp; Mar <var>22</var>, <var>01:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>00:47</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.112. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 21:00:00 +0000</pubDate>
 <pubDate>Thu, 21 Mar 2024 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,8 @@
 <link>https://status.securiti.ai/incidents/z14nrsbh2lwf</link>
 <guid>https://status.securiti.ai/incidents/z14nrsbh2lwf</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>22:00</var> UTC &nbsp;-&nbsp; Mar <var>8</var>, <var>02:00</var> UTC</strong></p><p><small>Jan <var>31</var>, <var>02:05</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.111. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 22:00:00 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 22:00:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +29,8 @@
 <link>https://status.securiti.ai/incidents/30rkk29365vx</link>
 <guid>https://status.securiti.ai/incidents/30rkk29365vx</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>22:00</var> UTC &nbsp;-&nbsp; Feb <var>23</var>, <var>02:00</var> UTC</strong></p><p><small>Jan <var>17</var>, <var>01:23</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.110. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 22:00:00 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 22:00:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +38,8 @@
 <link>https://status.securiti.ai/incidents/fg3q1rp0ps5x</link>
 <guid>https://status.securiti.ai/incidents/fg3q1rp0ps5x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 7</var>, <var>01:20</var> UTC</small><br /><strong>Resolved</strong> - Dear Securiti Customer,<br /><br />We are writing to let you know about the following updates to the Third-Party Sub-processors we engage for Securiti’s Data Command Center.<br /><br />In addition to our existing sub-processors, we are utilizing the services of the following entity to enhance the functionality offered by the Data Command Center:  Microsoft Azure.<br /><br />We are using Microsoft Azure to assist in the natural language processing of users’ questions in Securiti Copilot. Customers have the option of disabling the Copilot feature, or not using it, in which case Microsoft Azure will not serve as a sub-processor for that customer.<br /><br />No action is required on your part. <br /><br />You can find information about our sub-processors in the Schedule 2 section at this link: https://securiti.ai/terms/#data-processing-agreement-addendum<br /><br />Thank you for choosing Securiti.</p>
 ]]></content:encoded>
-<pubDate>Wed, 07 Feb 2024 01:20:21 +0000</pubDate>
 <pubDate>Wed, 07 Feb 2024 01:20:21 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +47,8 @@
 <link>https://status.securiti.ai/incidents/cpd7bd25hr0q</link>
 <guid>https://status.securiti.ai/incidents/cpd7bd25hr0q</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 2</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 1</var>, <var>22:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>03:37</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.109. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 02:00:02 +0000</pubDate>
 <pubDate>Fri, 02 Feb 2024 02:00:02 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +56,8 @@
 <link>https://status.securiti.ai/incidents/7ygn39m5g14t</link>
 <guid>https://status.securiti.ai/incidents/7ygn39m5g14t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>18</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 3</var>, <var>03:37</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.108. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 02:00:24 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 02:00:24 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +65,8 @@
 <link>https://status.securiti.ai/incidents/31l8lv7yjhbv</link>
 <guid>https://status.securiti.ai/incidents/31l8lv7yjhbv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 5</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var> 4</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>29</var>, <var>04:44</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.107. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Fri, 05 Jan 2024 02:00:06 +0000</pubDate>
 <pubDate>Fri, 05 Jan 2024 02:00:06 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +74,8 @@
 <link>https://status.securiti.ai/incidents/lm4sswv9ynsh</link>
 <guid>https://status.securiti.ai/incidents/lm4sswv9ynsh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>15</var>, <var>02:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>14</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 7</var>, <var>11:36</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.106. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Dec 2023 02:01:01 +0000</pubDate>
 <pubDate>Fri, 15 Dec 2023 02:01:01 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +83,8 @@
 <link>https://status.securiti.ai/incidents/nf3dsdd50v6r</link>
 <guid>https://status.securiti.ai/incidents/nf3dsdd50v6r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 1</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>30</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>25</var>, <var>14:40</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.105. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Dec 2023 02:00:00 +0000</pubDate>
 <pubDate>Fri, 01 Dec 2023 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +92,8 @@
 <link>https://status.securiti.ai/incidents/dbl5knd3j60h</link>
 <guid>https://status.securiti.ai/incidents/dbl5knd3j60h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>18</var>, <var>08:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>18</var>, <var>04:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>16</var>, <var>21:56</var> UTC</small><br /><strong>Scheduled</strong> - We will be upgrading our container infrastructure during this time. All services will continue to be functional. Some background tasks may be delayed but held in queue.</p>
 ]]></content:encoded>
-<pubDate>Sat, 18 Nov 2023 08:00:31 +0000</pubDate>
 <pubDate>Sat, 18 Nov 2023 08:00:31 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +101,8 @@
 <link>https://status.securiti.ai/incidents/9gntbs6rm76w</link>
 <guid>https://status.securiti.ai/incidents/9gntbs6rm76w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>10</var>, <var>02:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var> 9</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>27</var>, <var>18:30</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.104. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 10 Nov 2023 02:01:06 +0000</pubDate>
 <pubDate>Fri, 10 Nov 2023 02:01:06 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +110,8 @@
 <link>https://status.securiti.ai/incidents/ws8y0gzxdv4x</link>
 <guid>https://status.securiti.ai/incidents/ws8y0gzxdv4x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>27</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>26</var>, <var>21:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>27</var>, <var>18:28</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.103. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 27 Oct 2023 01:00:03 +0000</pubDate>
 <pubDate>Fri, 27 Oct 2023 01:00:03 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +119,8 @@
 <link>https://status.securiti.ai/incidents/t4ghs0c47r7d</link>
 <guid>https://status.securiti.ai/incidents/t4ghs0c47r7d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>13</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>12</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>11</var>, <var>20:25</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.102. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 13 Oct 2023 01:00:04 +0000</pubDate>
 <pubDate>Fri, 13 Oct 2023 01:00:04 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +128,8 @@
 <link>https://status.securiti.ai/incidents/3nkybv3ny7q5</link>
 <guid>https://status.securiti.ai/incidents/3nkybv3ny7q5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>29</var>, <var>05:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>29</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var>24</var>, <var>23:03</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.101. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 29 Sep 2023 05:00:06 +0000</pubDate>
 <pubDate>Fri, 29 Sep 2023 05:00:06 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +137,8 @@
 <link>https://status.securiti.ai/incidents/qwjmzhjbdqbh</link>
 <guid>https://status.securiti.ai/incidents/qwjmzhjbdqbh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>19</var>, <var>05:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>19</var>, <var>03:43</var> UTC</small><br /><strong>Monitoring</strong> - As per AWS, the situation has improved but the incident hasn't yet been marked as resolved. Securiti team is continuing to monitor.</p><p><small>Sep <var>18</var>, <var>23:32</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor the updates from AWS with respect to this incident. AWS is expecting the issue to be completely resolved in the next 60 to 90 minutes.</p><p><small>Sep <var>18</var>, <var>19:44</var> UTC</small><br /><strong>Identified</strong> - Some AWS services are currently experiencing network related performance issues. As a result, some functions of the Securiti platform are affected.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Sep 2023 05:09:16 +0000</pubDate>
 <pubDate>Tue, 19 Sep 2023 05:09:16 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +146,8 @@
 <link>https://status.securiti.ai/incidents/gv4z2km5vdv5</link>
 <guid>https://status.securiti.ai/incidents/gv4z2km5vdv5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>10</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var> 9</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>15</var>, <var>19:54</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.98. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 10 Aug 2023 01:00:00 +0000</pubDate>
 <pubDate>Thu, 10 Aug 2023 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +155,8 @@
 <link>https://status.securiti.ai/incidents/m4kl6vwzhk2h</link>
 <guid>https://status.securiti.ai/incidents/m4kl6vwzhk2h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>27</var>, <var>02:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var>26</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var> 2</var>, <var>17:07</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.97. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jul 2023 02:30:01 +0000</pubDate>
 <pubDate>Thu, 27 Jul 2023 02:30:01 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +164,8 @@
 <link>https://status.securiti.ai/incidents/ky7nz4k45mwq</link>
 <guid>https://status.securiti.ai/incidents/ky7nz4k45mwq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 7</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jul <var> 6</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>18</var>, <var>16:27</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.96. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Fri, 07 Jul 2023 01:00:01 +0000</pubDate>
 <pubDate>Fri, 07 Jul 2023 01:00:01 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +173,8 @@
 <link>https://status.securiti.ai/incidents/g1xg7gcp5p9r</link>
 <guid>https://status.securiti.ai/incidents/g1xg7gcp5p9r</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>15</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>14</var>, <var>21:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>18</var>, <var>16:26</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.95. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Jun 2023 01:00:59 +0000</pubDate>
 <pubDate>Thu, 15 Jun 2023 01:00:59 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +182,8 @@
 <link>https://status.securiti.ai/incidents/8h3lbjshzqxz</link>
 <guid>https://status.securiti.ai/incidents/8h3lbjshzqxz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 3</var>, <var>03:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var> 3</var>, <var>00:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var> 2</var>, <var>19:53</var> UTC</small><br /><strong>Scheduled</strong> - We will be upgrading the Kubernetes infrastructure. This is an in-service upgrade and will not cause any functionality impact. Please reach out to customer support if you notice any issues.</p>
 ]]></content:encoded>
-<pubDate>Sat, 03 Jun 2023 03:30:11 +0000</pubDate>
 <pubDate>Sat, 03 Jun 2023 03:30:11 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +191,8 @@
 <link>https://status.securiti.ai/incidents/p4nf6wxf4lvd</link>
 <guid>https://status.securiti.ai/incidents/p4nf6wxf4lvd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 1</var>, <var>01:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>31</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var> 4</var>, <var>02:33</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.94. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Jun 2023 01:00:07 +0000</pubDate>
 <pubDate>Thu, 01 Jun 2023 01:00:07 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +200,8 @@
 <link>https://status.securiti.ai/incidents/klysktgglww6</link>
 <guid>https://status.securiti.ai/incidents/klysktgglww6</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>18</var>, <var>02:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var>17</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>13</var>, <var>01:27</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.93. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 May 2023 02:01:05 +0000</pubDate>
 <pubDate>Thu, 18 May 2023 02:01:05 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +209,8 @@
 <link>https://status.securiti.ai/incidents/zksbjxws9gn7</link>
 <guid>https://status.securiti.ai/incidents/zksbjxws9gn7</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var> 4</var>, <var>01:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>May <var> 3</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>30</var>, <var>00:48</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.92. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 04 May 2023 01:01:04 +0000</pubDate>
 <pubDate>Thu, 04 May 2023 01:01:04 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +218,8 @@
 <link>https://status.securiti.ai/incidents/ftzwrm37g12t</link>
 <guid>https://status.securiti.ai/incidents/ftzwrm37g12t</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var>13</var>, <var>00:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>12</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>16</var>, <var>01:00</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.91. This is an in-service upgrade and is designed to not cause any disruption.</p>
 ]]></content:encoded>
-<pubDate>Thu, 13 Apr 2023 00:00:01 +0000</pubDate>
 <pubDate>Thu, 13 Apr 2023 00:00:01 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +227,9 @@
 <link>https://status.securiti.ai/incidents/1zqkb283nlkn</link>
 <guid>https://status.securiti.ai/incidents/1zqkb283nlkn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Apr <var> 4</var>, <var>04:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var> 4</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>31</var>, <var>19:04</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing routine maintenance on consent database for some performance improvements. During this maintenance window, consent recording will be paused (and held in a queue). Once the maintenance is completed, the consent recording will be resumed and dashboards will reflect the data. No data loss will occur.</p>
 ]]></content:encoded>
 <pubDate>Tue, 04 Apr 2023 04:00:23 +0000</pubDate>
-<pubDate>Tue, 04 Apr 2023 04:00:23 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
