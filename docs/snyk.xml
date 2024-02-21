@@ -4,6 +4,21 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Degradation of Outbound Webhooks</title>
+<link>https://status.snyk.io/incidents/drsg75k4y69q</link>
+<guid>https://status.snyk.io/incidents/drsg75k4y69q</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating <br><br> Summary: Users have experienced failures with Snyk emails since February 17th. The issue has been identified, and a fix is being implemented. Monitoring is ongoing.
+
+[Low] - Monitoring <br><br> Summary: A fix has been implemented for the issue, and the team is currently monitoring the results.
+
+[Low] - Resolved <br><br> Summary: The incident has been resolved following the implementation of a fix. <div>
+<p><small>Feb <var>21</var>, <var>11:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>10:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>10:40</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>21</var>, <var>10:40</var> UTC</small><br /><strong>Investigating</strong> - Users will have seen failures in their <a href="https://docs.snyk.io/snyk-api/snyk-webhooks">outbound webhooks</a> from Snyk starting February 17th.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 11:54:47 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 11:54:47 +0000</pubDate>
+</item>
 
 <item>
 <title>Snyk Code analysis times increased leading to timeouts</title>
