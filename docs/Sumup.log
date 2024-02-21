@@ -1,49 +1,7 @@
 ------------------------------------------------------
-Started: 2024-02-21 13:27:45.749667
+Started: 2024-02-21 16:23:50.335866
 Existing_entries: 0
-Fetching from https://status.thegoodtill.com/history.rss
-Token length: 756
-Summarized using GPT-3.5-turbo-1106
-Append: [Database upgrades and maintenance](https://status.thegoodtill.com/incidents/yfwnjxbr3rqs)
-Append: [Platform Update](https://status.thegoodtill.com/incidents/7gbfrg4jwjn8)
-Append: [Intermittent service unavailability](https://status.thegoodtill.com/incidents/6ztm8l37544l)
-Append: [Card payment unavailable](https://status.thegoodtill.com/incidents/vy8hlwhw3zbd)
-Append: [Facebook login unavailable](https://status.thegoodtill.com/incidents/xw6c85xvrlv8)
-append_entries: 5
-Finish: 2024-02-21 13:27:47.686596
-------------------------------------------------------
-Started: 2024-02-21 13:29:00.503595
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 13:29:01.045680
-------------------------------------------------------
-Started: 2024-02-21 13:39:58.138341
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
-append_entries: 0
-Finish: 2024-02-21 13:39:58.447047
-------------------------------------------------------
-Started: 2024-02-21 13:51:17.690498
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
-append_entries: 0
-Finish: 2024-02-21 13:51:17.915243
-------------------------------------------------------
-Started: 2024-02-21 14:14:21.540310
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
-append_entries: 0
-Finish: 2024-02-21 14:14:21.867301
-------------------------------------------------------
-Started: 2024-02-21 14:51:32.560237
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
-append_entries: 0
-Finish: 2024-02-21 14:51:32.825920
-------------------------------------------------------
-Started: 2024-02-21 16:23:42.563403
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
-append_entries: 0
-Finish: 2024-02-21 16:23:42.826798
+error when rendering xml, skip docs/SumUp
