@@ -24,3 +24,4 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - https://status.supermetrics.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Supermetrics.xml
 - https://status.bubble.io/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Bubble.xml
 - https://status.asana.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Asana.xml
+- https://status.monese.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Monese.xml
