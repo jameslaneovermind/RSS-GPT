@@ -4,6 +4,17 @@
 <title>Slack System Status</title>
 <link>https://status.slack.com/</link>
 
+<item>
+<title>Incident: Trouble with password resets</title>
+<link>https://status.slack.com//2024-02/e04276624660caf9</link>
+<guid>https://status.slack.com//2024-02/e04276624660caf9</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Password Reset and Two-Factor Authentication Issue <br><br> Summary: Some users are encountering difficulties resetting passwords and setting up two-factor authentication. The company is investigating the issue and apologizes for the inconvenience. <div>
+Some users may be experiencing issues resetting their passwords, particularly when trying to set up two-factor authentication. We're investigating and we're very sorry for the disruption.
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:46:24 -0800</pubDate>
+<pubDate>Wed, 21 Feb 2024 23:46:24 -0800</pubDate>
+</item>
 
 <item>
 <title>Incident: Screen readers are not announcing unread messages when using the Ctrl + K command on Windows.</title>

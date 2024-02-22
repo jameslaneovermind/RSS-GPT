@@ -4,6 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Ciel Données Mobiles for Sage 50 FR - Major Outage</title>
+<link>https://status.sage.com/incidents/k8schmk53h26</link>
+<guid>https://status.sage.com/incidents/k8schmk53h26</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption in France
+Summary: Customers in France are unable to access Sage 50 FR. The issue is currently being investigated, and an update is expected within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>08:10</var> UTC</small><br /><strong>Update</strong> - We have identified an issue preventing customers in France from accessing Sage 50 FR.<br /> <br />We are currently investigating.</p><p><small>Feb <var>22</var>, <var>07:55</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 08:10:11 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 08:10:11 +0000</pubDate>
+</item>
 
 <item>
 <title>Brightpearl - Partial Outage</title>
