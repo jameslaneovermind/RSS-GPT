@@ -4,6 +4,17 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+<item>
+<title>Familystream - Adding Account Issue</title>
+<link>https://status.sonos.com/incidents/pbd4qd4pghl2</link>
+<guid>https://status.sonos.com/incidents/pbd4qd4pghl2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Familystream Issue on Sonos <br><br> Summary: Familystream on Sonos is experiencing a problem that prevents users from adding or signing in to their accounts. The company is working on a fix, and the issue is ongoing. <div>
+<p><small>Feb <var>22</var>, <var>10:58</var> UTC</small><br /><strong>Monitoring</strong> - We've identified a problem with Familystream on Sonos and are working with them on a fix. You may not be able to add or sign in to your Familystream account on Sonos until it’s resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 10:58:27 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 10:58:27 +0000</pubDate>
+</item>
 
 <item>
 <title>TuneIn - - Playback issues</title>

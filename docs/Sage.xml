@@ -4,19 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Cloud Services - Degraded Performance</title>
 <link>https://status.sage.com/incidents/ljtc2y4rhpjn</link>
 <guid>https://status.sage.com/incidents/ljtc2y4rhpjn</guid>
 <content:encoded><![CDATA[
-<div> [High] - Identified Issue with Sage Customer Support <br><br> We identified an issue preventing Sage Customer Support from reading and sending chat messages to global customers for multiple products. Engaged with third-party for updates.
+<div> [High] - Identified Issue with Sage Customer Support <br /><br /> We identified an issue preventing Sage Customer Support from reading and sending chat messages to global customers for multiple products. Engaged with third-party for updates.
  <div>
 <p><small>Feb <var>22</var>, <var>09:37</var> UTC</small><br /><strong>Identified</strong> - We identified an issue preventing Sage Customer Support from reading and sending chat messages to our global customers, when using the products listed below:<br /><br />Sage HR<br />AutoEntry<br />GoProposal<br />Sage Earth<br />Sage Inventory Planner<br />Futrli<br />Sage Business Cloud Payroll International<br />Sage Network Inbox<br /><br />We are engaged with our third-party, Intercom, waiting for updates.</p><p><small>Feb <var>22</var>, <var>09:24</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 09:37:14 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 09:37:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Business Cloud Payroll Professional - Degraded Performance</title>
 <link>https://status.sage.com/incidents/d09xh6kvwl5g</link>

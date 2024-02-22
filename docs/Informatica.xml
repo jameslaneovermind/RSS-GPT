@@ -4,17 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Upcoming Maintenance on GCP1, OCI, EMSE1, GCP-EMW2, EMC1 for Cloud Application Integration</title>
 <link>https://status.informatica.com/incidents/3ntx9j53yn6b</link>
 <guid>https://status.informatica.com/incidents/3ntx9j53yn6b</guid>
 <content:encoded><![CDATA[
 <div> [Low] - Deployment of Patch to Address User Interface Issues
-<br><br>
+<br /><br />
 Summary: Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Cloud Application Integration. This is a zero downtime update and has no impact on running processes or services. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>22:00</var> PST &nbsp;-&nbsp; Feb <var>23</var>, <var>01:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>02:05</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Cloud Application Integration.<br /><br />This is a zero downtime update and has no impact on running processes or services.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 22:00:00 -0800</pubDate>
 <pubDate>Thu, 22 Feb 2024 22:00:00 -0800</pubDate>
 </item>
 <item>
@@ -22,13 +22,11 @@ Summary: Informatica Cloud Operations will be deploying a patch to address User 
 <link>https://status.informatica.com/incidents/b7dqgzq4bxsy</link>
 <guid>https://status.informatica.com/incidents/b7dqgzq4bxsy</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Informatica Cloud Operations Patch Deployment <br><br> Summary: Informatica Cloud Operations will be deploying a patch to address user interface issues encountered as part of the February release in Taskflow and Cloud Application Integration. This is a zero downtime update and has no impact on running jobs or services. <div>
+<div> [Low] - Informatica Cloud Operations Patch Deployment <br /><br /> Summary: Informatica Cloud Operations will be deploying a patch to address user interface issues encountered as part of the February release in Taskflow and Cloud Application Integration. This is a zero downtime update and has no impact on running jobs or services. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>02:30</var> - <var>05:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>01:58</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Taskflow and Cloud Application Integration.<br /><br />This is a zero downtime update and has no impact on running jobs or services.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 02:30:00 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 02:30:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for a profile failure due to 0 size mapping metadata XML.</title>
 <link>https://status.informatica.com/incidents/v8dk70dn9gyn</link>
