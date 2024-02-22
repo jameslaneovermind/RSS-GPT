@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Delivery Delays to Telnor Pakistan</title>
+<link>https://status.twilio.com/incidents/7dr18hk8p1tb</link>
+<guid>https://status.twilio.com/incidents/7dr18hk8p1tb</guid>
+<content:encoded><![CDATA[
+<div> [High] - SMS Delivery Delays to Telnor network in Pakistan <br><br> Engineers are investigating SMS delivery delays to Telnor network in Pakistan and working to resolve the issue. Another update will be provided in 1 hour. <div>
+<p><small>Feb <var>22</var>, <var>00:42</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to the Telnor network in Pakistan. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour, or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 00:42:27 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 00:42:27 -0800</pubDate>
+</item>
 
 <item>
 <title>SMS Delivery Delays to Movistar Network in Peru</title>

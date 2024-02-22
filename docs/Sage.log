@@ -145,3 +145,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ciel Données Mobiles for Sage 50 FR - Major Outage](https://status.sage.com/incidents/k8schmk53h26)
 append_entries: 1
 Finish: 2024-02-22 08:11:45.851128
+------------------------------------------------------
+Started: 2024-02-22 09:09:45.378895
+Existing_entries: 27
+Fetching from https://status.sage.com/history.rss
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage Business Cloud Payroll Professional - Degraded Performance](https://status.sage.com/incidents/d09xh6kvwl5g)
+append_entries: 1
+Finish: 2024-02-22 09:09:46.466935

@@ -4,6 +4,19 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+<item>
+<title>Bitbucket workflows are failing</title>
+<link>https://status.circleci.com/incidents/8cv6xnv9th2w</link>
+<guid>https://status.circleci.com/incidents/8cv6xnv9th2w</guid>
+<content:encoded><![CDATA[
+<div> Output: 
+[High] - Bitbucket Workflow Failures <br><br> 
+Summary: Customers using Bitbucket may experience workflow failures due to issues with contexts. <div>
+<p><small>Feb <var>22</var>, <var>09:05</var> UTC</small><br /><strong>Identified</strong> - We are experiencing an issue where customer using Bitbucket may see failures for workflows that use contexts.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 09:05:04 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 09:05:04 +0000</pubDate>
+</item>
 
 <item>
 <title>Brownout: Deprecating Android Images</title>

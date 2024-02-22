@@ -4,18 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for a profile failure due to 0 size mapping metadata XML.</title>
 <link>https://status.informatica.com/incidents/v8dk70dn9gyn</link>
 <guid>https://status.informatica.com/incidents/v8dk70dn9gyn</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure. Zero Downtime deployment; no impact on running jobs or services. Action Required: None. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure. Zero Downtime deployment; no impact on running jobs or services. Action Required: None. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>01:30</var> - <var>03:30</var> PST</strong></p><p><small>Feb <var>21</var>, <var>23:40</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure due to 0 size mapping metadata XML. This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b> Action Required:</b> None.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 01:30:00 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 01:30:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Azure DB Maintenance affecting all services on EM Central 1 Azure</title>
 <link>https://status.informatica.com/incidents/dkz8cgh384zh</link>
