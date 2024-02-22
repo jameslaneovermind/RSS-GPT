@@ -228,3 +228,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SMS Delivery Delays to Etisalat Afghanistan](https://status.twilio.com/incidents/c89r190rxhjj)
 append_entries: 1
 Finish: 2024-02-22 12:14:19.245519
+------------------------------------------------------
+Started: 2024-02-22 13:10:21.000544
+Existing_entries: 36
+Fetching from https://status.twilio.com/history.rss
+Token length: 295
+Summarized using GPT-3.5-turbo-1106
+Append: [MM/SMS Delivery Delays to AT&T USA](https://status.twilio.com/incidents/2v1vwpg28slg)
+append_entries: 1
+Finish: 2024-02-22 13:10:22.289969
