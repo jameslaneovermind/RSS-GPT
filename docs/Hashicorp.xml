@@ -4,18 +4,17 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+
 <item>
 <title>HCP portal experiencing instability</title>
 <link>https://status.hashicorp.com/incidents/2c9lfrc898tb</link>
 <guid>https://status.hashicorp.com/incidents/2c9lfrc898tb</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Impacting Services <br><br> Summary: An upstream provider's major outage is affecting the HCP portal and other HashiCorp services. The provider has resolved the issue, and services should be operating normally, but monitoring is ongoing. <div>
+<div> [High] - Major Outage Impacting Services <br /><br /> Summary: An upstream provider's major outage is affecting the HCP portal and other HashiCorp services. The provider has resolved the issue, and services should be operating normally, but monitoring is ongoing. <div>
 <p><small>Feb <var>22</var>, <var>01:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>01:36</var> UTC</small><br /><strong>Update</strong> - The upstream provider has resolved their major outage. The HashiCorp Cloud Platform and other HashiCorp services should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Feb <var>22</var>, <var>00:50</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />The HCP portal is being affected by an upstream provider that is having a major outage.<br /><br />Once we have additional information, we will share another update.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 01:39:31 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 01:39:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Creation of HCP Organizations and Projects is degraded</title>
 <link>https://status.hashicorp.com/incidents/fppvbtmknl8k</link>
