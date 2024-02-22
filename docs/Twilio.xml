@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>MM/SMS Delivery Delays to AT&amp;T USA</title>
 <link>https://status.twilio.com/incidents/2v1vwpg28slg</link>
 <guid>https://status.twilio.com/incidents/2v1vwpg28slg</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - MMS/SMS Delivery Delays to AT&T Network in USA <br><br> Engineers are working with the carrier to resolve the issue causing delivery delays for MMS/SMS messages to the AT&T network in the USA. An update will be provided in 1 hour. <div>
+<div> [Medium] - MMS/SMS Delivery Delays to AT&amp;T Network in USA <br /><br /> Engineers are working with the carrier to resolve the issue causing delivery delays for MMS/SMS messages to the AT&amp;T network in the USA. An update will be provided in 1 hour. <div>
 <p><small>Feb <var>22</var>, <var>05:05</var> PST</small><br /><strong>Investigating</strong> - We are experiencing MMS/SMS delivery delays when sending messages to the AT&amp;T network in the USA. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour, or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 05:05:38 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 05:05:38 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to Etisalat Afghanistan</title>
 <link>https://status.twilio.com/incidents/c89r190rxhjj</link>

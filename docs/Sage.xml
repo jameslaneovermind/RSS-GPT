@@ -4,6 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage 200 Standard (UKI) - Degraded Performance</title>
+<link>https://status.sage.com/incidents/h4l82gfg7c6q</link>
+<guid>https://status.sage.com/incidents/h4l82gfg7c6q</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential Service Issue
+Summary: The company is investigating a potential issue with the service and will provide an update within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>14:05</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 14:05:06 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 14:05:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Cloud Services - Degraded Performance</title>
