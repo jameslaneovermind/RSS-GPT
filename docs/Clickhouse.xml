@@ -4,6 +4,17 @@
 <title>ClickHouse Cloud Status - Incident History</title>
 <link>https://status.clickhouse.com</link>
 
+<item>
+<title>Issues with the AWS IAM service are causing failures in ClickHouse service creation for AWS regions.</title>
+<link>https://status.clickhouse.com/incidents/t7749hp5x909</link>
+<guid>https://status.clickhouse.com/incidents/t7749hp5x909</guid>
+<content:encoded><![CDATA[
+<div> [High] - AWS IAM Service Issue <br><br> Summary: AWS IAM service is experiencing a persistent problem, leading to an inability to provision new ClickHouse services in AWS regions. The company is collaborating with AWS to resolve the issue as soon as possible. <div>
+<p><small>Feb <var>22</var>, <var>02:44</var> UTC</small><br /><strong>Investigating</strong> - We have just been informed about a persistent problem affecting the AWS IAM service. Currently, it is not possible to provision new ClickHouse services for AWS regions. Our team is collaborating with AWS to resolve this issue at the earliest opportunity.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 02:49:20 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 02:49:20 +0000</pubDate>
+</item>
 
 <item>
 <title>SendGrid Mail Sending Delays</title>
