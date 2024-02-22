@@ -4,18 +4,17 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+
 <item>
 <title>Users Unable To Create New Orgs Or Projects</title>
 <link>https://status.circleci.com/incidents/4m9rhw7m3xkg</link>
 <guid>https://status.circleci.com/incidents/4m9rhw7m3xkg</guid>
 <content:encoded><![CDATA[
-<div> [High] - Organization and Project Creation Issue <br><br> Summary: Users are currently unable to create new organizations or projects in CircleCI. The company is actively investigating the cause of this issue. <div>
+<div> [High] - Organization and Project Creation Issue <br /><br /> Summary: Users are currently unable to create new organizations or projects in CircleCI. The company is actively investigating the cause of this issue. <div>
 <p><small>Feb <var>22</var>, <var>18:10</var> UTC</small><br /><strong>Investigating</strong> - We are currently seeing an issue where users are unable to create new organizations or projects in CircleCI. We are investigating the cause of this issue</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 18:10:48 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 18:10:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Bitbucket workflows are failing</title>
 <link>https://status.circleci.com/incidents/8cv6xnv9th2w</link>
