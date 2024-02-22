@@ -5,6 +5,56 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/z6f09rxmp4fk</link>
+<guid>https://status.twilio.com/incidents/z6f09rxmp4fk</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - AT&T Network Planned Maintenance
+Summary:
+AT&T network in the US will undergo planned maintenance from 18 March 2024 19:00 PDT until 19 March 2024 at 04:00 PDT. Intermittent delays in SMS delivery to and from AT&T US handsets may occur during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>19:00</var> PDT &nbsp;-&nbsp; Mar <var>19</var>, <var>04:00</var> PDT</strong></p><p><small>Feb <var>22</var>, <var>08:45</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 18 March 2024 19:00 PDT until 19 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T US handsets.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 19:00:00 -0700</pubDate>
+<pubDate>Mon, 18 Mar 2024 19:00:00 -0700</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/c16l9v9mvg8s</link>
+<guid>https://status.twilio.com/incidents/c16l9v9mvg8s</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - AT&T Planned Maintenance 
+Summary:
+AT&T network in the US is conducting planned maintenance from 13 March 2024 21:00 PDT until 14 March 2024 at 05:00 PDT. Intermittent delays delivering SMS to and from AT&T US handsets may occur. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>21:00</var> PDT &nbsp;-&nbsp; Mar <var>14</var>, <var>05:00</var> PDT</strong></p><p><small>Feb <var>22</var>, <var>08:43</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 13 March 2024 21:00 PDT until 14 March 2024 at 05:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T US handsets.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 21:00:00 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 21:00:00 -0700</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - T-Mobile</title>
+<link>https://status.twilio.com/incidents/r03zs8jz31tj</link>
+<guid>https://status.twilio.com/incidents/r03zs8jz31tj</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - T-Mobile Planned Maintenance
+Summary: T-Mobile US will undergo maintenance from Feb 22, 22:00 PST until Feb 23, 04:00 PST, causing intermittent delays for SMS delivery. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>22:00</var> PST &nbsp;-&nbsp; Feb <var>23</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>08:35</var> PST</small><br /><strong>Scheduled</strong> - The T-Mobile network in the US is conducting a planned maintenance from 22 February 2024 at 22:00 PST until 23 February 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from T-Mobile US handsets.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 22:00:00 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 22:00:00 -0800</pubDate>
+</item>
+<item>
+<title>SMS Delivery Failures to Telefonica Mexico</title>
+<link>https://status.twilio.com/incidents/y4lmshgcw9fg</link>
+<guid>https://status.twilio.com/incidents/y4lmshgcw9fg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>09:01</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery failures sending to Telefonica Network in Mexico. Our engineers are working with our carrier partner to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 09:01:18 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 09:01:18 -0800</pubDate>
+</item>
+
+<item>
 <title>On Call Engineers are Investigating an issue with Super SIM</title>
 <link>https://status.twilio.com/incidents/n1ggfq1zlj9h</link>
 <guid>https://status.twilio.com/incidents/n1ggfq1zlj9h</guid>
@@ -14,9 +64,7 @@ Summary: Our monitoring systems have detected a potential issue affecting Super 
 <p><small>Feb <var>22</var>, <var>07:23</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue affecting Super SIM. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 07:23:39 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 07:23:39 -0800</pubDate>
 </item>
-
 <item>
 <title>MM/SMS Delivery Delays to AT&amp;T USA</title>
 <link>https://status.twilio.com/incidents/2v1vwpg28slg</link>

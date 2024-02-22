@@ -258,3 +258,19 @@ Summarized using GPT-3.5-turbo-1106
 Append: [On Call Engineers are Investigating an issue with Super SIM](https://status.twilio.com/incidents/n1ggfq1zlj9h)
 append_entries: 1
 Finish: 2024-02-22 16:10:37.238521
+------------------------------------------------------
+Started: 2024-02-22 17:07:57.463788
+Existing_entries: 38
+Fetching from https://status.twilio.com/history.rss
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/z6f09rxmp4fk)
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/c16l9v9mvg8s)
+Token length: 347
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - T-Mobile](https://status.twilio.com/incidents/r03zs8jz31tj)
+Append: [SMS Delivery Failures to Telefonica Mexico](https://status.twilio.com/incidents/y4lmshgcw9fg)
+append_entries: 4
+Finish: 2024-02-22 17:08:01.323674
