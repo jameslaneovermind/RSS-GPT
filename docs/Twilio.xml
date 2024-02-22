@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>On Call Engineers are Investigating an issue with Super SIM</title>
+<link>https://status.twilio.com/incidents/n1ggfq1zlj9h</link>
+<guid>https://status.twilio.com/incidents/n1ggfq1zlj9h</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential issue affecting Super SIM
+Summary: Our monitoring systems have detected a potential issue affecting Super SIM. Our engineering team is actively investigating. <div>
+<p><small>Feb <var>22</var>, <var>07:23</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue affecting Super SIM. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 07:23:39 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 07:23:39 -0800</pubDate>
+</item>
 
 <item>
 <title>MM/SMS Delivery Delays to AT&amp;T USA</title>
