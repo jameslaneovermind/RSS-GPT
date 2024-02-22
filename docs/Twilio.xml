@@ -5,17 +5,38 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Russia SMS Carrier Maintenance - MegaFon/Yota</title>
+<link>https://status.twilio.com/incidents/324ygrs1nnjx</link>
+<guid>https://status.twilio.com/incidents/324ygrs1nnjx</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - MegaFon/Yota Network Maintenance <br><br> The MegaFon/Yota network in Russia will undergo planned maintenance, potentially causing intermittent delays in SMS delivery to MegaFon/Yota Russia handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>12:00</var> - <var>16:00</var> PST</strong></p><p><small>Feb <var>21</var>, <var>15:55</var> PST</small><br /><strong>Scheduled</strong> - The MegaFon/Yota network in Russia is conducting a planned maintenance from 26 February 2024 at 12:00 PST until 26 February 2024 at 4:00 PDT/PST. During the maintenance window, there could be intermittent delays delivering SMS to MegaFon/Yota Russia handsets.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 12:00:00 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 12:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Russia SMS Carrier Maintenance - MegaFon/Yota</title>
+<link>https://status.twilio.com/incidents/pq01bgykdk2p</link>
+<guid>https://status.twilio.com/incidents/pq01bgykdk2p</guid>
+<content:encoded><![CDATA[
+<div> [Low] - MegaFon/Yota Network Maintenance <br><br> Planned maintenance is underway for the MegaFon/Yota network in Russia from 19th to 21st February 2024. During this time, SMS delivery to MegaFon/Yota Russia handsets may experience intermittent delays. <div>
+<p><small>Feb <var>21</var>, <var>16:01</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>19</var>, <var>12:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>16:53</var> PST</small><br /><strong>Scheduled</strong> - The MegaFon/Yota network in Russia is conducting a series of planned maintenances from 19 February 2024 at 12:00 PST until 21 February 2024 at 16:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to MegaFon/Yota Russia handsets.<br /><br /><br /><br />Note, the maintenance will be carried out on each of the following dates and times:<br /><br /><br /><br />19 February 2024 at 12:00 PST until 19 February 2024 at 16:00 PST<br /><br />20 February 2024 at 12:00 PST until 20 February 2024 at 16:00 PST<br /><br />21 February 2024 at 12:00 PST until 21 February 2024 at 16:00 PST<br /></p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 16:01:22 -0800</pubDate>
+<pubDate>Wed, 21 Feb 2024 16:01:22 -0800</pubDate>
+</item>
+
+<item>
 <title>UK SMS Carrier Maintenance - Stour Marine</title>
 <link>https://status.twilio.com/incidents/9hqmppnk2r4j</link>
 <guid>https://status.twilio.com/incidents/9hqmppnk2r4j</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for Stour Marine Network <br><br> Summary: Stour Marine network in the UK will undergo planned maintenance on February 29, 2024, from 14:00 to 17:00 PST. Intermittent delays in SMS delivery to and from Stour Marine UK handsets are expected during this time. <div>
+<div> [Medium] - Scheduled Maintenance for Stour Marine Network <br /><br /> Summary: Stour Marine network in the UK will undergo planned maintenance on February 29, 2024, from 14:00 to 17:00 PST. Intermittent delays in SMS delivery to and from Stour Marine UK handsets are expected during this time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>14:00</var> - <var>17:00</var> PST</strong></p><p><small>Feb <var>21</var>, <var>14:32</var> PST</small><br /><strong>Scheduled</strong> - The Stour Marine network in the UK is conducting a planned maintenance from 29 February 2024 at 14:00 PST until 29 February 2024 at 17:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Stour Marine UK handsets.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 14:00:00 -0800</pubDate>
-<pubDate>Thu, 29 Feb 2024 14:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>France and Germany Voice Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/mspppjx5vs7s</link>
