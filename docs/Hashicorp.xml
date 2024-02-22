@@ -4,6 +4,19 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+<item>
+<title>Terraform Cloud degradation</title>
+<link>https://status.hashicorp.com/incidents/ctdxb961c6wy</link>
+<guid>https://status.hashicorp.com/incidents/ctdxb961c6wy</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Terraform Cloud Issue
+Summary:
+Some runs are being queued up and processed slowly in Terraform Cloud. The issue has been identified, and a fix has been implemented. Monitoring is ongoing. <div>
+<p><small>Feb <var>22</var>, <var>15:05</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been identified, a fix has been implemented, and we are monitoring the results.</p><p><small>Feb <var>22</var>, <var>14:52</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue in Terraform Cloud where some runs are being queued up and processed slowly.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 15:05:18 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 15:05:18 +0000</pubDate>
+</item>
 
 <item>
 <title>HCP portal experiencing instability</title>
