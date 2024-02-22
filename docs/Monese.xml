@@ -4,18 +4,17 @@
 <title>Monese Status Status - Incident History</title>
 <link>https://status.monese.com</link>
 
+
 <item>
 <title>Paysafe cash deposits in Ireland are not working</title>
 <link>https://status.monese.com/incidents/8ccjdvj2bm3d</link>
 <guid>https://status.monese.com/incidents/8ccjdvj2bm3d</guid>
 <content:encoded><![CDATA[
-<div> High - Paysafe Cash Top-Up Processing Issues <br><br> Investigating partner service outage affecting Paysafe cash top-ups. Significant impact on processing transactions. Working to resolve the issue. <div>
+<div> High - Paysafe Cash Top-Up Processing Issues <br /><br /> Investigating partner service outage affecting Paysafe cash top-ups. Significant impact on processing transactions. Working to resolve the issue. <div>
 <p><small>Feb <var>22</var>, <var>08:49</var> GMT</small><br /><strong>Investigating</strong> - Because of a partner service outage, we’re experiencing issues in processing Paysafe cash top-ups. <br /><br />We thank you for your patience while we resolve this issue, and we’ll update this page as soon as we can.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 08:49:48 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 08:49:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Issue with PayPoint top-ups</title>
 <link>https://status.monese.com/incidents/0yyhj4xdtcm2</link>
