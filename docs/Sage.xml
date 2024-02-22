@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>AutoEntry - Degraded Performance</title>
 <link>https://status.sage.com/incidents/ggq4vb0rskcm</link>
 <guid>https://status.sage.com/incidents/ggq4vb0rskcm</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Investigating Potential Issue <br><br> Summary: The company is investigating a potential issue with the service and will provide an update within 30 minutes. <div>
+<div> [Low] - Investigating Potential Issue <br /><br /> Summary: The company is investigating a potential issue with the service and will provide an update within 30 minutes. <div>
 <p><small>Feb <var>22</var>, <var>19:59</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service is available and performing as expected.</p><p><small>Feb <var>22</var>, <var>19:51</var> UTC</small><br /><strong>Update</strong> - We identified an issue where UKI customers would receive "An error has occurred" message when publishing. <br /><br />We are currently investigating.</p><p><small>Feb <var>22</var>, <var>19:13</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 19:59:12 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 19:59:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Online (FR) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/cr9d5zxy0fwk</link>

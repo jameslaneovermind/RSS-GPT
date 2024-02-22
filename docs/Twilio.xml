@@ -5,17 +5,42 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Service Intermittent Interruption When Accessing to Twilio.com, Twilio.org, the Twilio Blog and Sendgrid.com</title>
+<link>https://status.twilio.com/incidents/03nqcy1qrknz</link>
+<guid>https://status.twilio.com/incidents/03nqcy1qrknz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption Investigation
+Summary: Twilio.com, Twilio.org, the Twilio Blog, and Sendgrid.com are experiencing intermittent loading delays. Engineering team actively investigating.
+
+[Medium] - Potential Issue with Twilio.com
+Summary: Monitoring systems have detected a potential issue with Twilio.com and Twilio Blog. Engineering team is actively investigating. Another update expected in 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>13:00</var> PST</small><br /><strong>Update</strong> - We are investigating a service interruption with Twilio.com, Twilio.org, the Twilio Blog, and Sendgrid.com where there is an intermittent loading delay visible. We expect to provide another update in 30 minutes or as soon as more information</p><p><small>Feb <var>22</var>, <var>12:39</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue with Twilio.com and Twilio Blog. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 13:00:21 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 13:00:21 -0800</pubDate>
+</item>
+<item>
+<title>SMS Delivery Receipts Delay to Altan Redes Network in Mexico</title>
+<link>https://status.twilio.com/incidents/rkd1g93xwr8p</link>
+<guid>https://status.twilio.com/incidents/rkd1g93xwr8p</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - SMS Delivery Receipts Delay to Altan Redes Network in Mexico <br><br> Engineers are investigating delays in SMS delivery receipts to the Altan Redes network in Mexico. They are working with the carrier partner to resolve the issue and will provide an update in 1 hour. <div>
+<p><small>Feb <var>22</var>, <var>12:37</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery receipts delays when sending messages to Altan Redes network in Mexico. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 12:37:54 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 12:37:54 -0800</pubDate>
+</item>
+
+<item>
 <title>On Call Engineers are Investigating an issue with Flex</title>
 <link>https://status.twilio.com/incidents/qrxktvl0x4wt</link>
 <guid>https://status.twilio.com/incidents/qrxktvl0x4wt</guid>
 <content:encoded><![CDATA[
-<div> High - Potential Issue with Flex <br><br> Our monitoring systems have detected a potential issue with Flex. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information. <div>
+<div> High - Potential Issue with Flex <br /><br /> Our monitoring systems have detected a potential issue with Flex. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information. <div>
 <p><small>Feb <var>22</var>, <var>12:00</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue with Flex. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 12:00:31 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 12:00:31 -0800</pubDate>
 </item>
-
 <item>
 <title>Super SIM Network Connectivity Degraded in the US</title>
 <link>https://status.twilio.com/incidents/xms819p9q7c1</link>

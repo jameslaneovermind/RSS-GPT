@@ -4,6 +4,17 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+<item>
+<title>Roles Page Down for Customers</title>
+<link>https://status.vanta.com/incidents/gj04ztnzh3zn</link>
+<guid>https://status.vanta.com/incidents/gj04ztnzh3zn</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - 'Page Not Found' Error on Roles Page <br><br> Summary: An issue has been identified causing a 'page not found' error on the Roles Page for customers. The team is currently working on a fix. <div>
+<p><small>Feb <var>22</var>, <var>12:51</var> PST</small><br /><strong>Identified</strong> - An issue is causing a 'page not found' error on the Roles Page for customers has been identified. The team is working on a fix and will provide an update ASAP.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 12:51:19 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 12:51:19 -0800</pubDate>
+</item>
 
 <item>
 <title>New Okta Connection Fails During Setup</title>
