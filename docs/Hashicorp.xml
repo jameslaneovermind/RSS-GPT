@@ -4,6 +4,28 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+<item>
+<title>Vault cluster creation unavailable</title>
+<link>https://status.hashicorp.com/incidents/5sscvdfgw6m1</link>
+<guid>https://status.hashicorp.com/incidents/5sscvdfgw6m1</guid>
+<content:encoded><![CDATA[
+<div> [High] - HCP Vault Cluster Issue <br><br> Summary: Users may experience failure to create new HCP Vault clusters and admin token generation. Engineering team is investigating the issue. <div>
+<p><small>Feb <var>22</var>, <var>21:45</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with the following:<br /><br />HCP Vault cluster creation and admin token generation is degraded. <br /><br />During this time, users may experience the following:<br /><br />Failure to create new HCP Vault clusters<br />Failure to generate admin tokens<br /><br />We will share another update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:45:55 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 21:45:55 +0000</pubDate>
+</item>
+<item>
+<title>HCP Boundary Emergency Maintenance</title>
+<link>https://status.hashicorp.com/incidents/f82bb8xxw1y6</link>
+<guid>https://status.hashicorp.com/incidents/f82bb8xxw1y6</guid>
+<content:encoded><![CDATA[
+<div> [High] - Emergency Maintenance Scheduled for HCP Boundary <br><br> HCP Boundary will undergo emergency maintenance on Sunday 25th February 2024 beginning at 15:00 UTC. Sessions may disconnect unexpectedly. <div>
+<p><small>Feb <var>22</var>, <var>21:42</var> UTC</small><br /><strong>Investigating</strong> - HCP Boundary will undergo emergency maintenance on Sunday 25th February 2024 beginning at 15:00 UTC. We expect this maintenance to be complete within four hours. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:42:54 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 21:42:54 +0000</pubDate>
+</item>
 
 <item>
 <title>Terraform Cloud degradation</title>
