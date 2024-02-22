@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Delivery Delays to Etisalat Afghanistan</title>
+<link>https://status.twilio.com/incidents/c89r190rxhjj</link>
+<guid>https://status.twilio.com/incidents/c89r190rxhjj</guid>
+<content:encoded><![CDATA[
+<div> [High] - SMS Delivery Delays to Etisalat Network in Afghanistan <br><br> Our engineers are investigating SMS delivery delays to the Etisalat network in Afghanistan. This issue may have a high impact on communication with Etisalat network users. A resolution is being actively pursued. <div>
+<p><small>Feb <var>22</var>, <var>03:40</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to the Etisalat network in Afghanistan. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour, or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 03:40:27 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 03:40:27 -0800</pubDate>
+</item>
 
 <item>
 <title>Account Security Transactions to EE UK Service Failures</title>

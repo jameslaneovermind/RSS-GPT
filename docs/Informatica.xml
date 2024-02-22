@@ -4,6 +4,30 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming Maintenance patch on US East 4 POD for Cloud Data Integration Taskflow</title>
+<link>https://status.informatica.com/incidents/zzpdv5x04kk3</link>
+<guid>https://status.informatica.com/incidents/zzpdv5x04kk3</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Maintenance Patch on US East 4 POD
+Summary: Scheduled maintenance patch to address intermittent 502 Bad gateway error during Taskflow executions. Zero downtime update with no impact expected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>05:30</var> - <var>07:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>03:09</var> PST</small><br /><strong>Scheduled</strong> - We are applying maintenance patch on US East 4 POD. This is a zero down time update and there should be no impact to Task executions.<br /><br />Please note that this patch addresses intermittent 502 Bad gateway error observed during Taskflow executions.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 05:30:00 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 05:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Emergency  maintenance activity on CDGC EM SouthEast 1 Azure Services</title>
+<link>https://status.informatica.com/incidents/l064mlcxxlhk</link>
+<guid>https://status.informatica.com/incidents/l064mlcxxlhk</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Emergency Infrastructure Maintenance Activity <br><br> 
+Scheduled emergency maintenance is ongoing for CDGC EM SouthEast 1 Azure Services, potentially causing intermittent disruptions in the search service. Updates will be provided as necessary. <div>
+<p><small>Feb <var>22</var>, <var>04:10</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>22</var>, <var>04:09</var> PST</small><br /><strong>Scheduled</strong> - We are performing an emergency infrastructure maintenance activity on CDGC EM SouthEast 1 Azure Services between 4:10 to 4:20 AM PST. During this brief update period, you may experience intermittent disruptions when using our search service. Please note these interruptions will be temporary.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 04:10:56 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 04:10:56 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance on GCP1, OCI, EMSE1, GCP-EMW2, EMC1 for Cloud Application Integration</title>

@@ -4,18 +4,18 @@
 <title>BENlabs Status - Incident history</title>
 <link>https://status.benlabs.com</link>
 
+
 <item>
 <title>Web and Data API partial outage</title>
 <link>https://status.benlabs.com/incident/clsx43ewv108972hpn3tqn1p63p</link>
 <guid>https://status.benlabs.com/incident/clsx43ewv108972hpn3tqn1p63p</guid>
 <content:encoded><![CDATA[
-<div> High - Investigating Outage <br><br> Summary: A 3rd party service used by BENlabs application platform API is down, causing degraded performance. The issue is being investigated. <div>
+<div> High - Investigating Outage <br /><br /> Summary: A 3rd party service used by BENlabs application platform API is down, causing degraded performance. The issue is being investigated. <div>
 <p><small>Feb <var> 22</var>, <var>11:00:13</var> GMT+0</small><br /><strong>Investigating</strong> -
   One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
 
 This incident was created by an automated monitoring service..</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 11:00:12 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 11:00:12 +0000</pubDate>
 </item>
 <item>
@@ -23,12 +23,11 @@ This incident was created by an automated monitoring service..</p>
 <link>https://status.benlabs.com/incident/clsx435rl5636hhofb8onuy55</link>
 <guid>https://status.benlabs.com/incident/clsx435rl5636hhofb8onuy55</guid>
 <content:encoded><![CDATA[
-<div> [High] - Data API Access Issue <br><br> 
+<div> [High] - Data API Access Issue <br /><br /> 
 Summary: The Data API is currently inaccessible. This incident is being investigated. <div>
 <p><small>Feb <var> 22</var>, <var>11:00:01</var> GMT+0</small><br /><strong>Investigating</strong> -
   Data API cannot be accessed at the moment. This incident was created by an automated monitoring service..</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 11:00:01 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 11:00:01 +0000</pubDate>
 </item>
 <item>
@@ -36,11 +35,10 @@ Summary: The Data API is currently inaccessible. This incident is being investig
 <link>https://status.benlabs.com/incident/clsx43591107904hpn3omd7v7l0</link>
 <guid>https://status.benlabs.com/incident/clsx43591107904hpn3omd7v7l0</guid>
 <content:encoded><![CDATA[
-<div> [High] - Web API Outage <br><br> Summary: The Web API is currently inaccessible and is being investigated by the automated monitoring service. <div>
+<div> [High] - Web API Outage <br /><br /> Summary: The Web API is currently inaccessible and is being investigated by the automated monitoring service. <div>
 <p><small>Feb <var> 22</var>, <var>11:00:00</var> GMT+0</small><br /><strong>Investigating</strong> -
   Web API cannot be accessed at the moment. This incident was created by an automated monitoring service..</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 11:00:00 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 11:00:00 +0000</pubDate>
 </item>
 <item>
@@ -48,16 +46,13 @@ Summary: The Data API is currently inaccessible. This incident is being investig
 <link>https://status.benlabs.com/incident/clsx42676106412hqoiv8xveytr</link>
 <guid>https://status.benlabs.com/incident/clsx42676106412hqoiv8xveytr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 22</var>, <var>10:59:15</var> GMT+0</small><br /><strong>Investigating</strong> -
   One of the 3rd party services used by the Mapping Application is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
 
 This incident was created by an automated monitoring service..</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 10:59:15 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 10:59:15 +0000</pubDate>
 </item>
-
 <item>
 <title>Web and Data API partial outage</title>
 <link>https://status.benlabs.com/incident/clskpiglh945644hgof9bpy5ydr</link>
