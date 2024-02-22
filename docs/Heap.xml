@@ -4,6 +4,18 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+<item>
+<title>Infrastructure maintenance</title>
+<link>https://status.heap.io/incidents/ymxkc2j84sbv</link>
+<guid>https://status.heap.io/incidents/ymxkc2j84sbv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Routine Infrastructure Upgrade
+Summary: A routine upgrade to the infrastructure is scheduled, which may cause brief interruptions to app availability and delays in data availability. However, data collection will not be impacted. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>17:00</var> - <var>19:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>09:19</var> PST</small><br /><strong>Scheduled</strong> - We will be performing a routine upgrade to our infrastructure. There may be brief interruptions to the App availability and delays in data being available. Collection of data will not be impacted.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 17:00:00 -0800</pubDate>
+<pubDate>Sun, 25 Feb 2024 17:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Initial properties sometimes not visible</title>

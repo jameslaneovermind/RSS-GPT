@@ -4,6 +4,51 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+<item>
+<title>Scheduled maintenance - Builder service</title>
+<link>https://status.typeform.com/incidents/f9bsxvlv8t2f</link>
+<guid>https://status.typeform.com/incidents/f9bsxvlv8t2f</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary: Scheduled maintenance to improve Builder services on February 29 at 06:00 CET for approximately 1 hour. Users may experience 5-minute errors during form creation. We will closely monitor and provide updates if necessary. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>06:00</var> - <var>07:30</var> CET</strong></p><p><small>Feb <var>22</var>, <var>18:31</var> CET</small><br /><strong>Scheduled</strong> - On Thursday 29th of February at 06:00 CET, there will be a scheduled maintenance to improve our Builder services which will last about 1 hour.<br /><br />During the maintenance window, we do expect users to be affected by the following:<br /><br />- Builder/Create<br />During the change window, some customers could experience a ~5-minute window where they see errors while trying to create or making changes to their forms.<br /><br />Should you see some errors, latency, or impact of any kind making changes to or visualizing a form outside that window, feel free to reach out to us at https://www.typeform.com/help/contact/ <br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+<pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance - Builder service and Files database service</title>
+<link>https://status.typeform.com/incidents/8cjvssmknzsy</link>
+<guid>https://status.typeform.com/incidents/8cjvssmknzsy</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance <br><br> Summary: A scheduled maintenance for the Builder service and Files database service is planned for Feb 28, 06:00 - 08:00 CET. Users may experience errors and latency during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>06:00</var> - <var>08:00</var> CET</strong></p><p><small>Feb <var>22</var>, <var>18:20</var> CET</small><br /><strong>Scheduled</strong> - On Wednesday 28th of February at 06:00 CET, we’ll be performing a scheduled maintenance to improve our Builder service and Files database service which will last about 2 hours.<br /><br />During the maintenance window, we do expect users to be affected by the following:<br /><br />- Builder/Create<br />During the change window, some customers could experience a ~5-minute window where they see errors while trying to create or making changes to their forms.<br /><br />- Responses<br />1) Respondents could experience a ~5-minute window where they will not be able to view or respond to a form, or upload files to a form.<br />2) Creators will not be able to download submission files.<br /><br />Should you see some errors, latency or impact of any kind regarding the above services, after the change window, feel free to reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+<pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance - Builder service and Responses Metrics</title>
+<link>https://status.typeform.com/incidents/kcqfzzc9nkx0</link>
+<guid>https://status.typeform.com/incidents/kcqfzzc9nkx0</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Builder and Responses Metrics Services <br><br> Summary: Scheduled maintenance on February 27th from 06:00 - 08:00 CET may cause temporary errors and increased latency for form creation and viewing. Responses and insights may also be affected. If issues persist, users are encouraged to contact support. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>06:00</var> - <var>08:00</var> CET</strong></p><p><small>Feb <var>22</var>, <var>18:16</var> CET</small><br /><strong>Scheduled</strong> - On Tuesday 27th of February at 06:00 CET, we’ll be performing a scheduled maintenance to improve our Builder service and Responses Metrics service which will last about 2 hours.<br /><br />During the maintenance window, we do expect users to be affected by the following:<br /><br />- Builder/Create<br />1) During the change window, some customers could experience a ~5-minute window where they see errors while trying to create or making changes to their forms.<br />2) A small number of users could also experience some issues when trying to view or respond to a form.<br /><br />- Response/Insights<br />1) Creators will not be able to see the “Results” tab<br />2) Calls to public API Endpoint “Retrieve Form Insights” will either have increased latency or fail<br /><br />Should you see some errors, latency or impact of any kind regarding the above services, after the change window, feel free to reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 06:00:00 +0100</pubDate>
+<pubDate>Tue, 27 Feb 2024 06:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance - File service</title>
+<link>https://status.typeform.com/incidents/d6byr730q0x4</link>
+<guid>https://status.typeform.com/incidents/d6byr730q0x4</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>06:00</var> - <var>08:00</var> CET</strong></p><p><small>Feb <var>22</var>, <var>18:10</var> CET</small><br /><strong>Scheduled</strong> - On Monday the 26 of February at 06:00 CET, we'll be performing a scheduled maintenance to improve our File service which will last about 2 hours. <br /><br />During the maintenance window, we do expect users to be affected by the following:<br /><br />1) Some respondents will not be able to upload files<br />2) Creators will not be able to download submission files<br /><br />Should you see some errors, latency or impact of any kind regarding File services/file upload, after the change window, feel free to reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+<pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+</item>
 
 <item>
 <title>Scheduled maintenance - Subscription Services</title>
