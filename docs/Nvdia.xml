@@ -4,18 +4,17 @@
 <title>NGC Status - Incident History</title>
 <link>https://status.ngc.nvidia.com</link>
 
+
 <item>
 <title>Customers will not be able to deploy functions.</title>
 <link>https://status.ngc.nvidia.com/incidents/5qcs1xdxrqd3</link>
 <guid>https://status.ngc.nvidia.com/incidents/5qcs1xdxrqd3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Deployment and Function Change Issue <br><br> Investigating an issue impacting customer ability to deploy and change functions. <div>
+<div> [High] - Deployment and Function Change Issue <br /><br /> Investigating an issue impacting customer ability to deploy and change functions. <div>
 <p><small>Feb <var>21</var>, <var>15:56</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue impacting customer ability to deploy and change functions.</p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 15:56:50 -0800</pubDate>
-<pubDate>Wed, 21 Feb 2024 15:56:50 -0800</pubDate>
 </item>
-
 <item>
 <title>NVCF Service Outage: All inferences are currently failing</title>
 <link>https://status.ngc.nvidia.com/incidents/pxzhqtr016w7</link>
