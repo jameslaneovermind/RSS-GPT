@@ -4,6 +4,17 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+<item>
+<title>Increased error rate in App Services Functions using deprecated 3rd Party Services</title>
+<link>https://status.mongodb.com/incidents/j7w66zxtcm7z</link>
+<guid>https://status.mongodb.com/incidents/j7w66zxtcm7z</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Users accessing 3rd Party Services in App Services Functions <br><br> Summary: Users accessing 3rd Party Services in App Services Functions between 2:00PM EST and 4:30PM EST in Mumbai, APAC, and Europe regions may have experienced a higher rate of errors. The cause of the issue has been identified and resolved. <div>
+<p><small>Feb <var>21</var>, <var>20:00</var> UTC</small><br /><strong>Resolved</strong> - Users accessing 3rd Party Services in App Services Functions between 2:00PM EST and 4:30PM EST in Mumbai, APAC, and Europe regions may have experienced a higher rate of errors. The cause of the issue has been identified and resolved.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 20:00:00 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 20:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Chat support is currently unavailable</title>

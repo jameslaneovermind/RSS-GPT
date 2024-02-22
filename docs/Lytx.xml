@@ -4,18 +4,17 @@
 <title>Lytx Inc. Status - Incident History</title>
 <link>https://status.lytx.com</link>
 
+
 <item>
 <title>Processing Delays - AT&amp;T</title>
 <link>https://status.lytx.com/incidents/sfr0kz6p7r71</link>
 <guid>https://status.lytx.com/incidents/sfr0kz6p7r71</guid>
 <content:encoded><![CDATA[
-<div> High - AT&T Device Connections Issue <br><br> Summary: AT&T is experiencing an uptick in device connections, affecting GPS points and Event Upload speeds. They are working with the wireless carrier to resolve the issue. <div>
+<div> High - AT&amp;T Device Connections Issue <br /><br /> Summary: AT&amp;T is experiencing an uptick in device connections, affecting GPS points and Event Upload speeds. They are working with the wireless carrier to resolve the issue. <div>
 <p><small>Feb <var>22</var>, <var>10:36</var> PST</small><br /><strong>Identified</strong> - We are seeing an uptick in device connections for AT&amp;T which is affecting GPS points and Event Upload speeds.<br />We continue to work closely with our wireless carrier as they make progress towards a resolution.<br />We thank you for your patience.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 10:36:29 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 10:36:29 -0800</pubDate>
 </item>
-
 <item>
 <title>Login Page - Full Outage</title>
 <link>https://status.lytx.com/incidents/5ptw2ft1f4l4</link>

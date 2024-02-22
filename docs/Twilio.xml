@@ -5,17 +5,27 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>On Call Engineers are Investigating an issue with Flex</title>
+<link>https://status.twilio.com/incidents/qrxktvl0x4wt</link>
+<guid>https://status.twilio.com/incidents/qrxktvl0x4wt</guid>
+<content:encoded><![CDATA[
+<div> High - Potential Issue with Flex <br><br> Our monitoring systems have detected a potential issue with Flex. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information. <div>
+<p><small>Feb <var>22</var>, <var>12:00</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue with Flex. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 12:00:31 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 12:00:31 -0800</pubDate>
+</item>
+
+<item>
 <title>Super SIM Network Connectivity Degraded in the US</title>
 <link>https://status.twilio.com/incidents/xms819p9q7c1</link>
 <guid>https://status.twilio.com/incidents/xms819p9q7c1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Network Connectivity Issue in the United States <br><br> Summary: Some Super SIM users in the US are experiencing delays connecting to the network due to an AT&T service outage. Engineering team investigating. <div>
+<div> [High] - Network Connectivity Issue in the United States <br /><br /> Summary: Some Super SIM users in the US are experiencing delays connecting to the network due to an AT&amp;T service outage. Engineering team investigating. <div>
 <p><small>Feb <var>22</var>, <var>10:33</var> PST</small><br /><strong>Investigating</strong> - We are observing delays in getting connected to the network for some Super SIM users in the United States as of 08:45 UTC. Connectivity is affected by the ongoing AT&amp;T service outage. Our engineering team is actively investigating the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 10:33:13 -0800</pubDate>
-<pubDate>Thu, 22 Feb 2024 10:33:13 -0800</pubDate>
 </item>
-
 <item>
 <title>US SMS Carrier Maintenance - AT&amp;T</title>
 <link>https://status.twilio.com/incidents/z6f09rxmp4fk</link>
