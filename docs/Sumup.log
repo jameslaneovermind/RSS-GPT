@@ -13,266 +13,310 @@ Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 16:58:25.888586
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 16:58:28.162364
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 16:58:26.160973
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 17:09:44.121417
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 17:09:46.814349
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 17:09:44.466158
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 18:10:44.535871
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 18:10:47.698952
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 18:10:44.936194
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 19:06:55.470215
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 19:06:57.374668
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 19:06:55.717388
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 20:09:03.948607
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 20:09:06.567383
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 20:09:04.274467
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 21:07:50.647049
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 21:07:52.668540
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 21:07:50.932875
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 22:08:04.103173
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 22:08:06.725870
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 22:08:04.424373
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-21 23:09:40.671758
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-21 23:09:43.011542
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-21 23:09:41.016829
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 00:37:57.448392
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 00:38:00.634163
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 00:37:57.696430
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 01:39:56.587906
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 01:39:59.676100
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 01:39:56.928379
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 02:14:35.010723
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 02:14:38.152096
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 02:14:35.350315
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 03:09:32.141360
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 03:09:34.245040
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 03:09:32.443214
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 04:10:04.046062
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 04:10:08.548939
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 04:10:04.351704
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 05:08:33.695150
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 05:08:36.879584
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 05:08:33.939303
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 06:11:20.122465
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 06:11:22.173920
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 06:11:20.363053
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 07:09:19.421780
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 07:09:21.807860
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 07:09:19.720440
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 08:11:25.363212
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 08:11:28.945548
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 08:11:25.652491
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 09:09:29.506563
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 09:09:31.645269
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 09:09:29.727793
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 10:08:56.424692
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 10:08:58.845753
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 10:08:56.723639
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 11:07:09.927235
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 11:07:12.625522
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 11:07:10.321640
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 12:14:19.976474
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 12:14:22.832562
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 12:14:20.274565
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 13:10:23.248512
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 13:10:26.505923
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 13:10:23.667883
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 14:09:10.367430
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 14:09:12.735695
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 14:09:10.661157
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 15:08:37.596459
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 15:08:39.938341
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 15:08:37.884956
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 16:10:37.927075
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 16:10:39.988214
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 16:10:38.207754
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 17:08:02.163877
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 17:08:04.736887
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 17:08:02.461844
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 18:11:05.960340
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 18:11:07.800162
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 18:11:06.184550
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 19:06:38.026115
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 19:06:41.274661
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 19:06:38.438361
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 20:08:54.462931
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 20:08:56.932609
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 20:08:54.747180
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 21:07:42.398341
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 21:07:45.265134
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 21:07:42.627970
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 22:08:03.966396
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 22:08:06.167585
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 22:08:04.272956
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-22 23:10:18.574981
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-22 23:10:20.473221
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-22 23:10:18.773709
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 00:37:28.001795
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 00:37:30.650965
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 00:37:28.229319
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 01:39:40.157821
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 01:39:42.005170
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 01:39:40.430815
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 02:14:43.955311
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 02:14:47.699126
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 02:14:44.348425
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 03:09:02.838929
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 03:09:05.217290
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 03:09:03.123227
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 04:09:53.916398
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 04:09:56.937692
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 04:09:54.278204
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 05:09:19.951369
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 05:09:22.475570
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 05:09:20.205954
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 06:12:05.739497
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 06:12:07.789888
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 06:12:05.984875
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 07:09:57.148419
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 07:10:00.245780
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 07:09:57.454124
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 08:11:29.236292
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 08:11:32.881071
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 08:11:29.630157
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 09:08:37.364686
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 09:08:39.391261
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 09:08:37.584753
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 10:09:41.440142
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 10:09:43.523493
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 10:09:41.636323
+error when rendering xml, skip docs/SumUp
 ------------------------------------------------------
-Started: 2024-02-23 11:07:31.865279
-Existing_entries: 5
-Fetching from https://status.thegoodtill.com/history.rss
+Started: 2024-02-23 11:07:34.457876
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
-Finish: 2024-02-23 11:07:32.210509
+error when rendering xml, skip docs/SumUp
