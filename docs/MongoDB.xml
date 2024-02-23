@@ -4,6 +4,7 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+
 <item>
 <title>MongoDB Cloud: Unable to create new Identity Providers for Federated Authentication</title>
 <link>https://status.mongodb.com/incidents/kzm9615fb333</link>
@@ -14,9 +15,7 @@ Summary: The company is aware of reports of issues with creating new Identity Pr
 <p><small>Feb <var>23</var>, <var>16:49</var> UTC</small><br /><strong>Identified</strong> - We are currently aware of reports that creating new Identity Providers for Federated Authentication is failing. The fix has been identified and we're working with our upstream provider on implementing a fix.<br /><br />Existing federations are unaffected.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 16:49:56 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 16:49:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Increased error rate in App Services Functions using deprecated 3rd Party Services</title>
 <link>https://status.mongodb.com/incidents/j7w66zxtcm7z</link>

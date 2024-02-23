@@ -104,3 +104,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Datto SaaS Protection - Node/Application Maintenance For Germany Region](https://status.datto.com/incidents/m8whjcmmcjr6)
 append_entries: 1
 Finish: 2024-02-23 17:08:23.928988
+------------------------------------------------------
+Started: 2024-02-23 18:12:15.808436
+Existing_entries: 26
+Fetching from https://status.datto.com/history.rss
+Token length: 264
+Summarized using GPT-3.5-turbo-1106
+Append: [PSA - DE1, EU1 - Database Server Maintenance](https://status.datto.com/incidents/xrpl7k6h0n9v)
+append_entries: 1
+Finish: 2024-02-23 18:12:16.874474

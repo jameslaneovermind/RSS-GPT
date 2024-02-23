@@ -367,3 +367,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [MTD ITSA Service - Scheduled maintenance](https://status.sage.com/incidents/61xywsvbzsnm)
 append_entries: 1
 Finish: 2024-02-23 17:07:57.241715
+------------------------------------------------------
+Started: 2024-02-23 18:11:45.489446
+Existing_entries: 35
+Fetching from https://status.sage.com/history.rss
+Token length: 141
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage 100 Partner Cloud (FR) - Scheduled Maintenance](https://status.sage.com/incidents/lg52jjzwy1z7)
+Token length: 141
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage 100 Online SPP (FR) - Scheduled Maintenance](https://status.sage.com/incidents/f7r6xgw7fcqr)
+append_entries: 2
+Finish: 2024-02-23 18:11:46.781418

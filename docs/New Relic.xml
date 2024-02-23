@@ -4,6 +4,19 @@
 <title>New Relic Status - Incident History</title>
 <link>https://status.newrelic.com</link>
 
+<item>
+<title>Potential Service Interruption</title>
+<link>https://status.newrelic.com/incidents/b029vj9vfc6g</link>
+<guid>https://status.newrelic.com/incidents/b029vj9vfc6g</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Interruption in US Region <br><br> Some customers in the US region experienced errors when running NRQL queries or accessing parts of the New Relic UI between 16:15 UTC and 17:25 UTC on February 23rd. The interruption has been resolved and services have returned to normal operation.
+
+ <div>
+<p><small>Feb <var>23</var>, <var>17:45</var> UTC</small><br /><strong>Resolved</strong> - Between 16:15 UTC and 17:25 UTC on February 23rd, some customers in the US region may have experienced errors when running NRQL queries or when accessing reports or parts of the New Relic UI.<br /><br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Feb <var>23</var>, <var>17:31</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 17:45:53 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 17:45:53 +0000</pubDate>
+</item>
 
 <item>
 <title>Potential Service Interruption</title>

@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>Issue with SMS delay</title>
+<link>https://status.zoom.us/incidents/kjl924s50r0q</link>
+<guid>https://status.zoom.us/incidents/kjl924s50r0q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Delay and Undelivered SMS Messages for Zoom Phone and Contact Center <br><br> Investigating an issue causing intermittent delay and undelivered SMS messages for Zoom Phone and Zoom Contact Center. We are working with the underlying carrier to resolve the issue. <div>
+<p><small>Feb <var>23</var>, <var>10:08</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue causing an intermittent delay or undelivered SMS messages for Zoom Phone and Zoom Contact Center.  We will continue to work with the underlying carrier and provide updates as we have them.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 10:08:58 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 10:08:58 -0800</pubDate>
+</item>
 
 <item>
 <title>Zoom Phone Update: 2/25/2024 (No Operational Impact)</title>

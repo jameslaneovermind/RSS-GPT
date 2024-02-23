@@ -4,18 +4,17 @@
 <title>Spreedly Status - Incident History</title>
 <link>https://status.spreedly.com</link>
 
+
 <item>
 <title>Scheduled Maintenance: Database Cluster Version Upgrade</title>
 <link>https://status.spreedly.com/incidents/gc95f0j625fs</link>
 <guid>https://status.spreedly.com/incidents/gc95f0j625fs</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major System Maintenance and Upgrade <br><br> Our system will be undergoing maintenance on Feb 26th 2024 at 6AM EST to upgrade our Database cluster versioning. This may cause a small subset of transaction failures. If you experience any unexpected impacts during this time, please contact our support team. <div>
+<div> [High] - Major System Maintenance and Upgrade <br /><br /> Our system will be undergoing maintenance on Feb 26th 2024 at 6AM EST to upgrade our Database cluster versioning. This may cause a small subset of transaction failures. If you experience any unexpected impacts during this time, please contact our support team. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>06:00</var> - <var>07:00</var> EST</strong></p><p><small>Feb <var>23</var>, <var>11:32</var> EST</small><br /><strong>Scheduled</strong> - On Feb 26th 2024 at 6AM EST, our system will be undergoing system maintenance to perform an upgrade to our Database cluster versioning, a process that may cause a small subset of transaction failures (Error 500s) in which the failed transactions will not be retried.<br /><br />If you experience any unexpected impacts during this time, please <a href="https://support.spreedly.com/hc/en-us/requests/new">reach out</a> and our support team will be happy to assist.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 06:00:00 -0500</pubDate>
-<pubDate>Mon, 26 Feb 2024 06:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>AU Callbacks</title>
 <link>https://status.spreedly.com/incidents/051bqg99b9ph</link>

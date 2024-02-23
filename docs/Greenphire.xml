@@ -4,6 +4,19 @@
 <title>Greenphire Status - Incident History</title>
 <link>https://status.greenphire.com</link>
 
+<item>
+<title>eClinicalGPS March 2024 Production and UAT Feature Release</title>
+<link>https://status.greenphire.com/incidents/pfnljl8lmlgk</link>
+<guid>https://status.greenphire.com/incidents/pfnljl8lmlgk</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Update Scheduled
+Summary:
+On March 8th, Greenphire will apply the 2024.03.01 release in our Production and UAT environments, which may cause brief inaccessibility to Greenphire systems. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>16:00</var> - <var>17:00</var> EST</strong></p><p><small>Feb <var>23</var>, <var>12:19</var> EST</small><br /><strong>Scheduled</strong> - On March 8th, Greenphire will apply the 2024.03.01 release in our Production and UAT environments.  During this time Greenphire systems may be briefly inaccessible while systems are updated.  Release notes for this release can be found in our Knowledge Center at eclinicalgps.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 16:00:00 -0500</pubDate>
+<pubDate>Fri, 23 Feb 2024 16:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>ClinCard March 2024 Production Feature Release</title>
