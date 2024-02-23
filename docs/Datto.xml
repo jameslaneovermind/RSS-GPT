@@ -4,6 +4,7 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>PSA - DE1, EU1 - Database Server Maintenance</title>
 <link>https://status.datto.com/incidents/xrpl7k6h0n9v</link>
@@ -14,9 +15,7 @@ Summary: We will be performing maintenance on some of our database servers to en
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>21:00</var> - <var>22:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>17:49</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  There is no expected impact to our services.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto SaaS Protection - Node/Application Maintenance For Germany Region</title>
 <link>https://status.datto.com/incidents/m8whjcmmcjr6</link>

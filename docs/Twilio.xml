@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Delays to AT&amp;T US from a Subset of Twilio Short Codes and Toll Free Numbers</title>
 <link>https://status.twilio.com/incidents/q5czp7xz9cp7</link>
 <guid>https://status.twilio.com/incidents/q5czp7xz9cp7</guid>
 <content:encoded><![CDATA[
-<div> [High] - SMS Delivery Delays to AT&T Network in the US <br><br> We are experiencing SMS delivery delays when sending messages to AT&T Network in the US from a subset of Twilio short codes and toll-free numbers. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. Summary: Investigating SMS delivery delays to AT&T Network from a subset of Twilio short codes and toll-free numbers. Working with carrier partner to resolve the issue. <div>
+<div> [High] - SMS Delivery Delays to AT&amp;T Network in the US <br /><br /> We are experiencing SMS delivery delays when sending messages to AT&amp;T Network in the US from a subset of Twilio short codes and toll-free numbers. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. Summary: Investigating SMS delivery delays to AT&amp;T Network from a subset of Twilio short codes and toll-free numbers. Working with carrier partner to resolve the issue. <div>
 <p><small>Feb <var>23</var>, <var>09:35</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to AT&amp;T Network in the US from a subset of Twilio short codes and toll free numbers. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 09:35:17 -0800</pubDate>
-<pubDate>Fri, 23 Feb 2024 09:35:17 -0800</pubDate>
 </item>
-
 <item>
 <title>Asia and Africa SMS Carrier Maintenance - Airtel</title>
 <link>https://status.twilio.com/incidents/3ynsd6d10rg0</link>
