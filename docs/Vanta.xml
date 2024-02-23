@@ -4,6 +4,18 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+<item>
+<title>Security Awareness Training settings may have been changed or erased</title>
+<link>https://status.vanta.com/incidents/k0l02l0cgvpm</link>
+<guid>https://status.vanta.com/incidents/k0l02l0cgvpm</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Security Awareness Training Bug Identified and Resolved 
+Summary: A bug that may have affected Security Awareness Training preferences on checklists since January 2023 was identified and resolved on February 16, 2024. If there are any questions or concerns, contact support@vanta.com. <div>
+<p><small>Feb <var>16</var>, <var>09:00</var> PST</small><br /><strong>Resolved</strong> - Since January 2023, there was a bug that may have possibly changed or wiped Security Awareness Training preferences on checklists. On February 16, 2024 we identified this bug and resolved it. If you or your auditor have any questions or concerns, please reach out to support@vanta.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 09:00:00 -0800</pubDate>
+<pubDate>Fri, 16 Feb 2024 09:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Editing existing policies with Policy Editor reverts template</title>

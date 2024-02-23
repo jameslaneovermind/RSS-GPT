@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Taskflows with command tasks getting suspended in IDMC FedRAMP pod</title>
+<link>https://status.informatica.com/incidents/xkd3j13m1cw6</link>
+<guid>https://status.informatica.com/incidents/xkd3j13m1cw6</guid>
+<content:encoded><![CDATA[
+<div> [High] - Taskflows with Command Tasks Going into "Suspended" State
+<br><br>Summary: The company has identified an issue in the execution of Taskflows with command tasks, causing them to go into a "Suspended" state. This has led to a major platform downtime and is currently being investigated. <div>
+<p><small>Feb <var>23</var>, <var>14:47</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue in the execution of Taskflows with command tasks and such taskflows may be going to a "Suspended" state. Taskflows without command tasks are operating normally. <br /><br />All other services are operating normally.<br /> <br />We are investigating the issue and will keep the status page updated.<br /><br />Next update by 4 PM PT.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 14:47:41 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 14:47:41 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for a profile failure due to 0 size mapping metadata XML.</title>
