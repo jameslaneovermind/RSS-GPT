@@ -4,6 +4,18 @@
 <title>Schedulicity Status - Incident History</title>
 <link>https://status.schedulicity.com</link>
 
+<item>
+<title>Scheduled Database Maintenance</title>
+<link>https://status.schedulicity.com/incidents/xzc9fnq4v8r4</link>
+<guid>https://status.schedulicity.com/incidents/xzc9fnq4v8r4</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Monthly Maintenance on Database Servers 
+Summary: Monthly maintenance is scheduled on our database servers. Some users may experience very brief service interruptions, but there is no planned downtime. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>22:00</var> MST &nbsp;-&nbsp; Feb <var>25</var>, <var>02:00</var> MST</strong></p><p><small>Feb <var>23</var>, <var>07:17</var> MST</small><br /><strong>Scheduled</strong> - We are performing monthly maintenance on our database servers. There is no planned downtime during this maintenance window, but some users may experience very brief service interruptions.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 22:00:00 -0700</pubDate>
+<pubDate>Sat, 24 Feb 2024 22:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Schedulicity Service Disruption</title>

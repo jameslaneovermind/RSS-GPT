@@ -320,3 +320,9 @@ Fetching from https://status.sumup.com/history.rss
 Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/SumUp
+------------------------------------------------------
+Started: 2024-02-23 15:32:01.827621
+Existing_entries: 5
+Fetching from https://status.thegoodtill.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 15:32:02.180487

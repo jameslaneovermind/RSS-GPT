@@ -4,18 +4,17 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+
 <item>
 <title>Scheduled downtime of Instant Bank Pay and Verified Mandates</title>
 <link>https://www.gocardless-status.com/incidents/18jmktj33j1z</link>
 <guid>https://www.gocardless-status.com/incidents/18jmktj33j1z</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: The company will be migrating some functionality from Amazon Web Services to Google Cloud Platform, causing a temporary unavailability of certain open banking capabilities for Account Information Services and Payment Initiation Services. No action is required, and the impact is expected to be minimal. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: The company will be migrating some functionality from Amazon Web Services to Google Cloud Platform, causing a temporary unavailability of certain open banking capabilities for Account Information Services and Payment Initiation Services. No action is required, and the impact is expected to be minimal. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>03:00</var> - <var>06:00</var> GMT</strong></p><p><small>Feb <var>23</var>, <var>11:02</var> GMT</small><br /><strong>Scheduled</strong> - On 28th February for 1 hour between 03:00-06:00 UTC, we will be migrating part of our functionality from Amazon Web Services to Google Cloud Platform. During this hour our open banking capabilities for Account Information Services and Payment Initiation Services will be unavailable. These power our Instant Bank Pay and Verified Mandates products.<br /><br />This migration will strengthen our infrastructure by increasing efficiency, scalability and reliability. No action is required by any merchants using these products and our analysis suggests that we facilitate very few payments during this window. We appreciate your understanding during this time.<br /><br />This activity was aimed to be completed on 20th February, however, an unforeseen issue arose. All changes were reverted and all systems were tested and operational within the maintenance window.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 03:00:00 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 03:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Scheduled downtime of Instant Bank Pay and Verified Mandates</title>
 <link>https://www.gocardless-status.com/incidents/mg5v942t84lb</link>

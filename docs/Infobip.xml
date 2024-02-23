@@ -4,18 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>SSL certificate renewal of *.email-api-us.infobip.com</title>
 <link>https://status.infobip.com/incidents/srb7483lq6hm</link>
 <guid>https://status.infobip.com/incidents/srb7483lq6hm</guid>
 <content:encoded><![CDATA[
-<div> [Low] - SSL Certificate Renewal <br><br> Summary: Infobip will be performing automatic renewal of their SSL certificate *.email-api-us.infobip.com between April 29, 14:00 UTC and 20:00 UTC. No action is required unless the leaf certificate is pinned. <div>
+<div> [Low] - SSL Certificate Renewal <br /><br /> Summary: Infobip will be performing automatic renewal of their SSL certificate *.email-api-us.infobip.com between April 29, 14:00 UTC and 20:00 UTC. No action is required unless the leaf certificate is pinned. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>29</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>14:09</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate *.email-api-us.infobip.com, timeframe:<br />    - Start (UTC): 29 April 14:00<br />    - End (UTC): 29 April 20:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 14:00:00 +0000</pubDate>
-<pubDate>Mon, 29 Apr 2024 14:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>SSL certificate renewal of *.email-api-in.infobip.com</title>
 <link>https://status.infobip.com/incidents/h0q603my5hvd</link>
