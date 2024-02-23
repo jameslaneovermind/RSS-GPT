@@ -4,6 +4,7 @@
 <title>Wise Status - Incident History</title>
 <link>https://status.wise.com</link>
 
+
 <item>
 <title>Transaction information maintenance</title>
 <link>https://status.wise.com/incidents/83xflf5h9lk3</link>
@@ -15,9 +16,7 @@ Scheduled maintenance is planned on 26 February 2024 between 11:00 - 11:15 (GMT)
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>11:00</var> - <var>11:15</var> GMT</strong></p><p><small>Feb <var>23</var>, <var>14:46</var> GMT</small><br /><strong>Scheduled</strong> - Between 11:00 - 11:15 (GMT), on 26 February 2024, we’ll be performing scheduled maintenance.<br /> <br />During that time:<br />- Information about new card transactions will not be available until the end of the maintenance.<br />- This includes notifications for transactions, which will be postponed until the end of the maintenance.<br /><br />Transactions will still go ahead as normal.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 11:00:00 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 11:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance - Database upgrade</title>
 <link>https://status.wise.com/incidents/hbn506qbhwpt</link>

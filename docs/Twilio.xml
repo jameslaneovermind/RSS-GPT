@@ -4,15 +4,15 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Asia and Africa SMS Carrier Maintenance - Airtel</title>
 <link>https://status.twilio.com/incidents/3ynsd6d10rg0</link>
 <guid>https://status.twilio.com/incidents/3ynsd6d10rg0</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for Airtel Network in Asia and Africa <br><br> During the maintenance window on February 29, 2024, there could be intermittent delays delivering SMS to and from Airtel in Asia and Africa handsets. <div>
+<div> [Medium] - Planned Maintenance for Airtel Network in Asia and Africa <br /><br /> During the maintenance window on February 29, 2024, there could be intermittent delays delivering SMS to and from Airtel in Asia and Africa handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>10:29</var> - <var>17:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>06:04</var> PST</small><br /><strong>Scheduled</strong> - The Airtel network in Asia and Africa is conducting a planned maintenance from 29 February 2024 at 10:29 PST until 29 February 2024 at 17:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Airtel in Asia and Africa handsets.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 10:29:00 -0800</pubDate>
 <pubDate>Thu, 29 Feb 2024 10:29:00 -0800</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: The XL Axiata network in Indonesia will be undergoing planned maintenan
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>10:00</var> - <var>11:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>04:16</var> PST</small><br /><strong>Scheduled</strong> - The XL Axiata network in Indonesia is conducting a planned maintenance from 26 February 2024 at 10:00 PST until 26 February 2024 at 11:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to XL Axiata Indonesia handsets.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 10:00:00 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 10:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Philippines SMS Carrier Maintenance - Globe</title>
 <link>https://status.twilio.com/incidents/rpcffcj7z5yt</link>

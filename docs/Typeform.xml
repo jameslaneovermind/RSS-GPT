@@ -4,6 +4,7 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+
 <item>
 <title>Typeform Builder - Degraded - Builder not loading</title>
 <link>https://status.typeform.com/incidents/rk2xmyd3wc9c</link>
@@ -14,9 +15,7 @@ Summary: Users may experience errors impacting the Builder service, affecting Cr
 <p><small>Feb <var>23</var>, <var>13:37</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. <br /><br />If users still experience any issues, they should try refreshing/clearing the cache in their browser.<br /><br />We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Feb <var>23</var>, <var>13:26</var> CET</small><br /><strong>Update</strong> - We continue working on resolving the errors impacting our Builder service. As of now, we have identified the root cause for this incident and the fix is being applied now. <br /><br />Accept our apologies for any inconvenience this is causing. We'll share another update in ~30 minutes or as soon as it's available.</p><p><small>Feb <var>23</var>, <var>13:00</var> CET</small><br /><strong>Identified</strong> - We have identified  errors impacting our Builder. Users Create/Edit form may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 744920 | TU-9021</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 13:37:11 +0100</pubDate>
-<pubDate>Fri, 23 Feb 2024 13:37:11 +0100</pubDate>
 </item>
-
 <item>
 <title>Scheduled maintenance - Builder service</title>
 <link>https://status.typeform.com/incidents/f9bsxvlv8t2f</link>
