@@ -4,6 +4,28 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US SMS Carrier Maintenance - ClearSky Inteliquent (Onvoy)</title>
+<link>https://status.twilio.com/incidents/rpp9kjx7hlsc</link>
+<guid>https://status.twilio.com/incidents/rpp9kjx7hlsc</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - ClearSky Inteliquent (Onvoy) Network Maintenance <br><br> During the planned maintenance on February 27, 2024, from 05:00 to 09:00 PST, intermittent delays in SMS delivery to and from ClearSky Inteliquent (Onvoy) US handsets may occur. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>05:00</var> - <var>09:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>19:01</var> PST</small><br /><strong>Scheduled</strong> - The ClearSky Inteliquent (Onvoy) network in the United States is conducting a planned maintenance from 27 February 2024 at 05:00 PST until 27 February 2024 at 09:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from ClearSky Inteliquent (Onvoy) US handsets.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 05:00:00 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 05:00:00 -0800</pubDate>
+</item>
+<item>
+<title>United States SMS Carrier Partner Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/w1bfpgb6kqfr</link>
+<guid>https://status.twilio.com/incidents/w1bfpgb6kqfr</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - SMS Carrier Planned Maintenance <br><br> Summary: Scheduled maintenance by the SMS carrier partner in the United States may cause intermittent delays in delivering SMS to and from AT&T Network in the United States handsets via United States short codes from February 25, 22:00 PST to February 26, 01:00 PST. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>22:00</var> PST &nbsp;-&nbsp; Feb <var>26</var>, <var>01:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>18:43</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in the United States is conducting a planned maintenance from 25 February 2024 at 22:00 PST until 26 February 2024 at 01:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T Network in the United States handsets via United States short codes.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 22:00:00 -0800</pubDate>
+<pubDate>Sun, 25 Feb 2024 22:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>
