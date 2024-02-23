@@ -6,6 +6,18 @@
 
 
 <item>
+<title>Hosted CI Builds on MacOS are failing to initialize in all environments</title>
+<link>https://status.harness.io/incidents/c857mlspq2f2</link>
+<guid>https://status.harness.io/incidents/c857mlspq2f2</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[Medium] - Investigating <br /><br /> Summary: The company is currently investigating the issue.
+``` <div>
+<p><small>Feb <var>21</var>, <var>19:03</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 19:03:47 -0800</pubDate>
+</item>
+<item>
 <title>Quarterly DR Testing maintenance notice</title>
 <link>https://status.harness.io/incidents/j4jw2smys0f7</link>
 <guid>https://status.harness.io/incidents/j4jw2smys0f7</guid>

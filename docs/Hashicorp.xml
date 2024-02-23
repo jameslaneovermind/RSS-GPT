@@ -6,6 +6,58 @@
 
 
 <item>
+<title>Vault cluster creation unavailable</title>
+<link>https://status.hashicorp.com/incidents/5sscvdfgw6m1</link>
+<guid>https://status.hashicorp.com/incidents/5sscvdfgw6m1</guid>
+<content:encoded><![CDATA[
+<div> [High] - HCP Vault Cluster Issue <br /><br /> Summary: Users may experience failure to create new HCP Vault clusters and admin token generation. Engineering team is investigating the issue. <div>
+<p><small>Feb <var>22</var>, <var>21:45</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with the following:<br /><br />HCP Vault cluster creation and admin token generation is degraded. <br /><br />During this time, users may experience the following:<br /><br />Failure to create new HCP Vault clusters<br />Failure to generate admin tokens<br /><br />We will share another update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:45:55 +0000</pubDate>
+</item>
+<item>
+<title>HCP Boundary Emergency Maintenance</title>
+<link>https://status.hashicorp.com/incidents/f82bb8xxw1y6</link>
+<guid>https://status.hashicorp.com/incidents/f82bb8xxw1y6</guid>
+<content:encoded><![CDATA[
+<div> [High] - Emergency Maintenance Scheduled for HCP Boundary <br /><br /> HCP Boundary will undergo emergency maintenance on Sunday 25th February 2024 beginning at 15:00 UTC. Sessions may disconnect unexpectedly. <div>
+<p><small>Feb <var>22</var>, <var>21:42</var> UTC</small><br /><strong>Investigating</strong> - HCP Boundary will undergo emergency maintenance on Sunday 25th February 2024 beginning at 15:00 UTC. We expect this maintenance to be complete within four hours. During this time, HCP Boundary sessions may disconnect unexpectedly. We will post updates as necessary throughout the maintenance period.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:42:54 +0000</pubDate>
+</item>
+<item>
+<title>Terraform Cloud degradation</title>
+<link>https://status.hashicorp.com/incidents/ctdxb961c6wy</link>
+<guid>https://status.hashicorp.com/incidents/ctdxb961c6wy</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Terraform Cloud Issue
+Summary:
+Some runs are being queued up and processed slowly in Terraform Cloud. The issue has been identified, and a fix has been implemented. Monitoring is ongoing. <div>
+<p><small>Feb <var>22</var>, <var>15:05</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been identified, a fix has been implemented, and we are monitoring the results.</p><p><small>Feb <var>22</var>, <var>14:52</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue in Terraform Cloud where some runs are being queued up and processed slowly.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 15:05:18 +0000</pubDate>
+</item>
+<item>
+<title>HCP portal experiencing instability</title>
+<link>https://status.hashicorp.com/incidents/2c9lfrc898tb</link>
+<guid>https://status.hashicorp.com/incidents/2c9lfrc898tb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Impacting Services <br /><br /> Summary: An upstream provider's major outage is affecting the HCP portal and other HashiCorp services. The provider has resolved the issue, and services should be operating normally, but monitoring is ongoing. <div>
+<p><small>Feb <var>22</var>, <var>01:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>01:36</var> UTC</small><br /><strong>Update</strong> - The upstream provider has resolved their major outage. The HashiCorp Cloud Platform and other HashiCorp services should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Feb <var>22</var>, <var>00:50</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />The HCP portal is being affected by an upstream provider that is having a major outage.<br /><br />Once we have additional information, we will share another update.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 01:39:31 +0000</pubDate>
+</item>
+<item>
+<title>Creation of HCP Organizations and Projects is degraded</title>
+<link>https://status.hashicorp.com/incidents/fppvbtmknl8k</link>
+<guid>https://status.hashicorp.com/incidents/fppvbtmknl8k</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Creation of HCP Organizations and Projects Issue <br /><br /> The Engineering team has identified and is working on a fix for the issue with creation requests for HCP Organizations and Projects failing. They have implemented a fix and are closely monitoring the situation. <div>
+<p><small>Feb <var>21</var>, <var>19:40</var> UTC</small><br /><strong>Resolved</strong> - Our Engineering team has resolved the following issue: Creation of HCP Organizations and Projects failing<br /><br />These systems should now be operating normally. If you continue to experience any problems, please open a ticket with our support team.</p><p><small>Feb <var>21</var>, <var>19:33</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has implemented a fix to resolve the issue: a fix has been validated and deployed.<br /><br />We are monitoring the situation closely and will post an update as soon as the issue is fully resolved.</p><p><small>Feb <var>21</var>, <var>19:20</var> UTC</small><br /><strong>Identified</strong> - Our Engineering team has identified the cause for the following incident: <br /><br />Creation requests for HCP Organizations and Projects is currently failing.<br /><br />We are actively working on a fix. Once we have additional information, we will share another update.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 19:40:13 +0000</pubDate>
+</item>
+<item>
 <title>Monitoring an incident</title>
 <link>https://status.hashicorp.com/incidents/4wxd6rzjjfn7</link>
 <guid>https://status.hashicorp.com/incidents/4wxd6rzjjfn7</guid>

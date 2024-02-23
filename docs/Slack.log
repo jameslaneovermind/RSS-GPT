@@ -67,3 +67,584 @@ Fetching from https://status.slack.com/history.rss
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 16:58:26.736542
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 16:58:26.808167
+------------------------------------------------------
+Started: 2024-02-21 16:58:49.246507
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 17:09:45.292156
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 17:09:45.669865
+------------------------------------------------------
+Started: 2024-02-21 17:10:15.824444
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 18:10:45.837226
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 18:10:46.023209
+------------------------------------------------------
+Started: 2024-02-21 18:11:20.856733
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 19:06:56.414229
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 19:06:56.486117
+------------------------------------------------------
+Started: 2024-02-21 19:07:19.418600
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 20:09:05.037383
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 20:09:05.110565
+------------------------------------------------------
+Started: 2024-02-21 20:09:34.853637
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 21:07:51.543590
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 21:07:51.611131
+------------------------------------------------------
+Started: 2024-02-21 21:08:13.283185
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 22:08:05.158456
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 22:08:05.496891
+------------------------------------------------------
+Started: 2024-02-21 22:08:34.246146
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-21 23:09:41.809952
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-21 23:09:41.885452
+------------------------------------------------------
+Started: 2024-02-21 23:10:12.211941
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 00:37:59.239908
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 00:37:59.318245
+------------------------------------------------------
+Started: 2024-02-22 00:38:23.746957
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 01:39:57.849330
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 01:39:57.931221
+------------------------------------------------------
+Started: 2024-02-22 01:40:26.850624
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 02:14:36.346120
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 02:14:36.426762
+------------------------------------------------------
+Started: 2024-02-22 02:15:05.732643
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 03:09:33.037002
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 03:09:33.128697
+------------------------------------------------------
+Started: 2024-02-22 03:09:57.736165
+Existing_entries: 41
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 04:10:04.996369
+Existing_entries: 41
+Fetching from https://status.slack.com/feed/rss
+Token length: 281
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident: Screen readers are not announcing unread messages when using the Ctrl + K command on Windows.](https://status.slack.com//2024-02/83f4c18fc4d11c93)
+append_entries: 1
+Finish: 2024-02-22 04:10:05.916339
+------------------------------------------------------
+Started: 2024-02-22 04:10:32.192191
+Existing_entries: 42
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 05:08:34.554615
+Existing_entries: 42
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 05:08:34.645297
+------------------------------------------------------
+Started: 2024-02-22 05:09:00.215242
+Existing_entries: 42
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 06:11:21.024185
+Existing_entries: 42
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 06:11:21.108995
+------------------------------------------------------
+Started: 2024-02-22 06:11:45.310415
+Existing_entries: 42
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 07:09:20.511504
+Existing_entries: 42
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 07:09:20.581023
+------------------------------------------------------
+Started: 2024-02-22 07:09:49.945189
+Existing_entries: 42
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 08:11:26.318845
+Existing_entries: 42
+Fetching from https://status.slack.com/feed/rss
+Token length: 187
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident: Trouble with password resets](https://status.slack.com//2024-02/e04276624660caf9)
+append_entries: 1
+Finish: 2024-02-22 08:11:27.671282
+------------------------------------------------------
+Started: 2024-02-22 08:11:53.420122
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 09:09:30.380709
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 09:09:30.465253
+------------------------------------------------------
+Started: 2024-02-22 09:09:54.995794
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 10:08:57.431935
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 10:08:57.686495
+------------------------------------------------------
+Started: 2024-02-22 10:09:26.282456
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 11:07:11.191466
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 11:07:11.262107
+------------------------------------------------------
+Started: 2024-02-22 11:07:47.815637
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 12:14:21.104969
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 12:14:21.265063
+------------------------------------------------------
+Started: 2024-02-22 12:14:55.026913
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 13:10:24.530363
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 13:10:24.816078
+------------------------------------------------------
+Started: 2024-02-22 13:10:58.015178
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 14:09:11.432032
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 14:09:11.493299
+------------------------------------------------------
+Started: 2024-02-22 14:09:40.753349
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 15:08:38.688990
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 15:08:38.750531
+------------------------------------------------------
+Started: 2024-02-22 15:09:07.522060
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 16:10:38.861788
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 16:10:38.945884
+------------------------------------------------------
+Started: 2024-02-22 16:11:03.151954
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 17:08:03.261019
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 17:08:03.310968
+------------------------------------------------------
+Started: 2024-02-22 17:08:30.707667
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 18:11:06.733367
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 18:11:06.810020
+------------------------------------------------------
+Started: 2024-02-22 18:11:35.960727
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 19:06:39.333343
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 19:06:39.541091
+------------------------------------------------------
+Started: 2024-02-22 19:07:13.776334
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 20:08:55.583527
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 20:08:55.698085
+------------------------------------------------------
+Started: 2024-02-22 20:09:28.382142
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 21:07:43.244025
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 21:07:43.321537
+------------------------------------------------------
+Started: 2024-02-22 21:08:09.014999
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 22:08:04.948314
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 22:08:05.033642
+------------------------------------------------------
+Started: 2024-02-22 22:08:29.644103
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-22 23:10:19.433234
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-22 23:10:19.499815
+------------------------------------------------------
+Started: 2024-02-22 23:10:42.134438
+Existing_entries: 43
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 00:37:28.816412
+Existing_entries: 43
+Fetching from https://status.slack.com/feed/rss
+Token length: 125
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident: Threads aren't loading for some users](https://status.slack.com//2024-02/548b72776056c03b)
+append_entries: 1
+Finish: 2024-02-23 00:37:29.504521
+------------------------------------------------------
+Started: 2024-02-23 00:37:56.632758
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 01:39:41.058534
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 01:39:41.121197
+------------------------------------------------------
+Started: 2024-02-23 01:40:03.141291
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 02:14:45.065381
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 02:14:45.128926
+------------------------------------------------------
+Started: 2024-02-23 02:15:15.640225
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 03:09:03.866755
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 03:09:03.962113
+------------------------------------------------------
+Started: 2024-02-23 03:09:29.548317
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 04:09:55.080096
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 04:09:55.556990
+------------------------------------------------------
+Started: 2024-02-23 04:10:26.052502
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 05:09:20.909582
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 05:09:20.997639
+------------------------------------------------------
+Started: 2024-02-23 05:09:45.386311
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 06:12:06.678427
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 06:12:06.751999
+------------------------------------------------------
+Started: 2024-02-23 06:12:31.059252
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 07:09:58.396099
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 07:09:58.472878
+------------------------------------------------------
+Started: 2024-02-23 07:10:28.176517
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 08:11:30.696176
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 08:11:30.946470
+------------------------------------------------------
+Started: 2024-02-23 08:12:04.555909
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 09:08:38.258441
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 09:08:38.342951
+------------------------------------------------------
+Started: 2024-02-23 09:09:01.110385
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 10:09:42.240975
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 10:09:42.310977
+------------------------------------------------------
+Started: 2024-02-23 10:10:06.696967
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-23 11:07:32.974695
+Existing_entries: 44
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-23 11:07:33.041823
+------------------------------------------------------
+Started: 2024-02-23 11:08:03.563216
+Existing_entries: 44
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack

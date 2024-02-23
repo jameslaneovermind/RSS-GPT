@@ -78,3 +78,338 @@ Existing_entries: 28
 Fetching from https://status.twilio.com/history.rss
 append_entries: 0
 Finish: 2024-02-21 16:44:09.754433
+------------------------------------------------------
+Started: 2024-02-21 16:58:25.086796
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:58:25.283614
+------------------------------------------------------
+Started: 2024-02-21 17:09:43.028456
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 17:09:43.306762
+------------------------------------------------------
+Started: 2024-02-21 18:10:43.252530
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 18:10:43.626485
+------------------------------------------------------
+Started: 2024-02-21 19:06:54.728003
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 19:06:54.833487
+------------------------------------------------------
+Started: 2024-02-21 20:09:02.926752
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 20:09:03.202300
+------------------------------------------------------
+Started: 2024-02-21 21:07:49.049257
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 21:07:49.280311
+------------------------------------------------------
+Started: 2024-02-21 22:08:03.047232
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 22:08:03.350297
+------------------------------------------------------
+Started: 2024-02-21 23:09:38.310914
+Existing_entries: 28
+Fetching from https://status.twilio.com/history.rss
+Token length: 341
+Summarized using GPT-3.5-turbo-1106
+Append: [UK SMS Carrier Maintenance - Stour Marine](https://status.twilio.com/incidents/9hqmppnk2r4j)
+append_entries: 1
+Finish: 2024-02-21 23:09:39.763583
+------------------------------------------------------
+Started: 2024-02-22 00:37:54.619845
+Existing_entries: 29
+Fetching from https://status.twilio.com/history.rss
+Token length: 339
+Summarized using GPT-3.5-turbo-1106
+Append: [Russia SMS Carrier Maintenance - MegaFon/Yota](https://status.twilio.com/incidents/324ygrs1nnjx)
+Token length: 764
+Summarized using GPT-3.5-turbo-1106
+Append: [Russia SMS Carrier Maintenance - MegaFon/Yota](https://status.twilio.com/incidents/pq01bgykdk2p)
+append_entries: 2
+Finish: 2024-02-22 00:37:56.720430
+------------------------------------------------------
+Started: 2024-02-22 01:39:55.478773
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 01:39:55.776370
+------------------------------------------------------
+Started: 2024-02-22 02:14:33.984553
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 02:14:34.263296
+------------------------------------------------------
+Started: 2024-02-22 03:09:31.217728
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 03:09:31.507864
+------------------------------------------------------
+Started: 2024-02-22 04:10:03.202464
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 04:10:03.420842
+------------------------------------------------------
+Started: 2024-02-22 05:08:32.890364
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 05:08:32.998301
+------------------------------------------------------
+Started: 2024-02-22 06:11:19.232279
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 06:11:19.428841
+------------------------------------------------------
+Started: 2024-02-22 07:09:15.561155
+Existing_entries: 31
+Fetching from https://status.twilio.com/history.rss
+Token length: 289
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delays to Movistar Network in Peru](https://status.twilio.com/incidents/xj8xjttp8dr3)
+Token length: 603
+Summarized using GPT-3.5-turbo-1106
+Append: [Decrease reservations in Flex service](https://status.twilio.com/incidents/48sl3blz08g6)
+append_entries: 2
+Finish: 2024-02-22 07:09:18.753570
+------------------------------------------------------
+Started: 2024-02-22 08:11:24.678833
+Existing_entries: 33
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 08:11:24.766385
+------------------------------------------------------
+Started: 2024-02-22 09:09:27.787511
+Existing_entries: 33
+Fetching from https://status.twilio.com/history.rss
+Token length: 294
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delays to Telnor Pakistan](https://status.twilio.com/incidents/7dr18hk8p1tb)
+append_entries: 1
+Finish: 2024-02-22 09:09:28.906628
+------------------------------------------------------
+Started: 2024-02-22 10:08:54.392938
+Existing_entries: 34
+Fetching from https://status.twilio.com/history.rss
+Token length: 465
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Transactions to EE UK Service Failures](https://status.twilio.com/incidents/cg91r7bj41hb)
+append_entries: 1
+Finish: 2024-02-22 10:08:55.842385
+------------------------------------------------------
+Started: 2024-02-22 11:07:08.875109
+Existing_entries: 35
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 11:07:09.066630
+------------------------------------------------------
+Started: 2024-02-22 12:14:17.928726
+Existing_entries: 35
+Fetching from https://status.twilio.com/history.rss
+Token length: 299
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delays to Etisalat Afghanistan](https://status.twilio.com/incidents/c89r190rxhjj)
+append_entries: 1
+Finish: 2024-02-22 12:14:19.245519
+------------------------------------------------------
+Started: 2024-02-22 13:10:21.000544
+Existing_entries: 36
+Fetching from https://status.twilio.com/history.rss
+Token length: 295
+Summarized using GPT-3.5-turbo-1106
+Append: [MM/SMS Delivery Delays to AT&T USA](https://status.twilio.com/incidents/2v1vwpg28slg)
+append_entries: 1
+Finish: 2024-02-22 13:10:22.289969
+------------------------------------------------------
+Started: 2024-02-22 14:09:09.302254
+Existing_entries: 37
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 14:09:09.592226
+------------------------------------------------------
+Started: 2024-02-22 15:08:36.556041
+Existing_entries: 37
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 15:08:36.798970
+------------------------------------------------------
+Started: 2024-02-22 16:10:36.283070
+Existing_entries: 37
+Fetching from https://status.twilio.com/history.rss
+Token length: 229
+Summarized using GPT-3.5-turbo-1106
+Append: [On Call Engineers are Investigating an issue with Super SIM](https://status.twilio.com/incidents/n1ggfq1zlj9h)
+append_entries: 1
+Finish: 2024-02-22 16:10:37.238521
+------------------------------------------------------
+Started: 2024-02-22 17:07:57.463788
+Existing_entries: 38
+Fetching from https://status.twilio.com/history.rss
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/z6f09rxmp4fk)
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/c16l9v9mvg8s)
+Token length: 347
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - T-Mobile](https://status.twilio.com/incidents/r03zs8jz31tj)
+Append: [SMS Delivery Failures to Telefonica Mexico](https://status.twilio.com/incidents/y4lmshgcw9fg)
+append_entries: 4
+Finish: 2024-02-22 17:08:01.323674
+------------------------------------------------------
+Started: 2024-02-22 18:11:05.238952
+Existing_entries: 42
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 18:11:05.336867
+------------------------------------------------------
+Started: 2024-02-22 19:06:36.032769
+Existing_entries: 42
+Fetching from https://status.twilio.com/history.rss
+Token length: 365
+Summarized using GPT-3.5-turbo-1106
+Append: [Super SIM Network Connectivity Degraded in the US](https://status.twilio.com/incidents/xms819p9q7c1)
+append_entries: 1
+Finish: 2024-02-22 19:06:37.142032
+------------------------------------------------------
+Started: 2024-02-22 20:08:52.720294
+Existing_entries: 43
+Fetching from https://status.twilio.com/history.rss
+Token length: 219
+Summarized using GPT-3.5-turbo-1106
+Append: [On Call Engineers are Investigating an issue with Flex](https://status.twilio.com/incidents/qrxktvl0x4wt)
+append_entries: 1
+Finish: 2024-02-22 20:08:53.677174
+------------------------------------------------------
+Started: 2024-02-22 21:07:39.375023
+Existing_entries: 44
+Fetching from https://status.twilio.com/history.rss
+Token length: 508
+Summarized using GPT-3.5-turbo-1106
+Append: [Service Intermittent Interruption When Accessing to Twilio.com, Twilio.org, the Twilio Blog and Sendgrid.com](https://status.twilio.com/incidents/03nqcy1qrknz)
+Token length: 298
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Receipts Delay to Altan Redes Network in Mexico](https://status.twilio.com/incidents/rkd1g93xwr8p)
+append_entries: 2
+Finish: 2024-02-22 21:07:41.805810
+------------------------------------------------------
+Started: 2024-02-22 22:08:03.200160
+Existing_entries: 46
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 22:08:03.323373
+------------------------------------------------------
+Started: 2024-02-22 23:10:17.940779
+Existing_entries: 46
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 23:10:18.032572
+------------------------------------------------------
+Started: 2024-02-23 00:37:23.829073
+Existing_entries: 46
+Fetching from https://status.twilio.com/history.rss
+Token length: 461
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - Wind Tre (3) Italy](https://status.twilio.com/incidents/w615bfl0mm1h)
+Token length: 387
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - H3G Austria](https://status.twilio.com/incidents/46scm8pdj1pt)
+Token length: 441
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - Three UK](https://status.twilio.com/incidents/rzkjyncwk2k1)
+Append: [SMS Delivery Delays to Orange Network in Cameroon](https://status.twilio.com/incidents/r32my3c4c8bg)
+append_entries: 4
+Finish: 2024-02-23 00:37:27.392972
+------------------------------------------------------
+Started: 2024-02-23 01:39:39.422715
+Existing_entries: 50
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 01:39:39.509082
+------------------------------------------------------
+Started: 2024-02-23 02:14:42.809254
+Existing_entries: 50
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 02:14:43.036250
+------------------------------------------------------
+Started: 2024-02-23 03:08:59.602811
+Existing_entries: 50
+Fetching from https://status.twilio.com/history.rss
+Token length: 384
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - ClearSky Inteliquent (Onvoy)](https://status.twilio.com/incidents/rpp9kjx7hlsc)
+Token length: 413
+Summarized using GPT-3.5-turbo-1106
+Append: [United States SMS Carrier Partner Maintenance - AT&T](https://status.twilio.com/incidents/w1bfpgb6kqfr)
+append_entries: 2
+Finish: 2024-02-23 03:09:02.188012
+------------------------------------------------------
+Started: 2024-02-23 04:09:52.947761
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 04:09:53.114519
+------------------------------------------------------
+Started: 2024-02-23 05:09:18.930286
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 05:09:19.191514
+------------------------------------------------------
+Started: 2024-02-23 06:12:04.899155
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 06:12:05.094093
+------------------------------------------------------
+Started: 2024-02-23 07:09:56.216298
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 07:09:56.379537
+------------------------------------------------------
+Started: 2024-02-23 08:11:28.165170
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 08:11:28.379970
+------------------------------------------------------
+Started: 2024-02-23 09:08:36.418033
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 09:08:36.728248
+------------------------------------------------------
+Started: 2024-02-23 10:09:40.613064
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 10:09:40.767853
+------------------------------------------------------
+Started: 2024-02-23 11:07:29.751049
+Existing_entries: 52
+Fetching from https://status.twilio.com/history.rss
+Token length: 344
+Summarized using GPT-3.5-turbo-1106
+Append: [Philippines SMS Carrier Maintenance - Globe](https://status.twilio.com/incidents/rpcffcj7z5yt)
+append_entries: 1
+Finish: 2024-02-23 11:07:31.091670

@@ -6,6 +6,16 @@
 
 
 <item>
+<title>OAuth App degradation</title>
+<link>https://status.asana.com/incidents/5kqxkkct9hjd</link>
+<guid>https://status.asana.com/incidents/5kqxkkct9hjd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - API Issue with OAuth Apps <br /><br /> We've identified a code change causing issues with the API for OAuth apps and are working on a fix. <div>
+<p><small>Feb <var>22</var>, <var>01:38</var> UTC</small><br /><strong>Identified</strong> - We've traced down the issue to a code change and are in the process of integrating a fix.</p><p><small>Feb <var>22</var>, <var>01:09</var> UTC</small><br /><strong>Investigating</strong> - We're currently looking into an issue affecting the API related to OAuth apps.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 01:38:04 +0000</pubDate>
+</item>
+<item>
 <title>Delayed automations and background actions</title>
 <link>https://status.asana.com/incidents/hyxc8h484hb0</link>
 <guid>https://status.asana.com/incidents/hyxc8h484hb0</guid>

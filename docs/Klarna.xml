@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Merchant Portal degradation</title>
+<link>https://status.klarna.com/incidents/wqpk3qfrd3b2</link>
+<guid>https://status.klarna.com/incidents/wqpk3qfrd3b2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Merchant Portal Disputes App Issue <br /><br /> We are experiencing issues with the Merchant Portal Disputes App in the US. Restoration is in progress. Thank you for your patience. <div>
+<p><small>Feb <var>21</var>, <var>21:55</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Merchant Portal Disputes App in the US. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 21:55:22 +0100</pubDate>
+</item>
+<item>
 <title>TLS v1 deprecation</title>
 <link>https://status.klarna.com/incidents/lj8fdmsw92l6</link>
 <guid>https://status.klarna.com/incidents/lj8fdmsw92l6</guid>

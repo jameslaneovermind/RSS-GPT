@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Service Intermittent Interruption When Accessing SendGrid.com and SendGrid Blog posts</title>
+<link>https://status.sendgrid.com/incidents/4xgk62f7jm8r</link>
+<guid>https://status.sendgrid.com/incidents/4xgk62f7jm8r</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential Issue with SendGrid.com and SendGrid Blog Posts <br /><br /> Our monitoring systems have detected a potential issue with access to SendGrid.com and SendGrid Blog Posts, causing errors for users. This does not impact mail send. Further updates will be provided. <div>
+<p><small>Feb <var>22</var>, <var>13:19</var> PST</small><br /><strong>Investigating</strong> - Starting around 12:06 PM Pacific Time on Thursday, February 22nd, Our monitoring systems have detected a potential issue with access to SendGrid.com and SendGrid Blog Posts. Users may experience issues with accessing the websites and receive errors. This does not impact mail send. We will provide another update in one hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 13:19:49 -0800</pubDate>
+</item>
+<item>
 <title>SendGrid Mail Sending Delays</title>
 <link>https://status.sendgrid.com/incidents/1n3yjyh3w89d</link>
 <guid>https://status.sendgrid.com/incidents/1n3yjyh3w89d</guid>

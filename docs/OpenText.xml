@@ -6,6 +6,26 @@
 
 
 <item>
+<title>Alloy North America System Maintenance scheduled for 24 March 2024</title>
+<link>https://status.opentext.com/incidents/5fzcx90r7knb</link>
+<guid>https://status.opentext.com/incidents/5fzcx90r7knb</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Maintenance Scheduled <br /><br /> Alloy North America will be undergoing maintenance on 24 March 2024 from 02:00 UTC to 06:00 UTC. Intermittent service interruptions are expected. Tracking Number: C2019982. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>02:00</var> - <var>06:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>04:11</var> UTC</small><br /><strong>Scheduled</strong> - Alloy North America will be undergoing maintenance on 24 March 2024 from 02:00 UTC to 06:00 UTC. Intermittent service interruptions are expected to occur throughout this timeframe. We appreciate your patience.<br /><br />Tracking Number: C2019982</p>
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Alloy North America Database Maintenance scheduled for 24 March 2024</title>
+<link>https://status.opentext.com/incidents/gjltlpw0jf6t</link>
+<guid>https://status.opentext.com/incidents/gjltlpw0jf6t</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Maintenance for Alloy North America <br /><br /> Alloy North America will be undergoing maintenance on 24 March 2024 from 09:00 UTC to 13:00 UTC. The service will be degraded during this timeframe. Prepare to reprocess transactions in case of any failures. We appreciate your patience. Tracking Number: C2017081 <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>09:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>04:08</var> UTC</small><br /><strong>Scheduled</strong> - Alloy North America will be undergoing maintenance on 24 March 2024 from 09:00 UTC to 13:00 UTC.  The service will be degraded during this timeframe. Prepare to reprocess transactions in case of any failures. We appreciate your patience.<br /><br />Tracking Number: C2017081</p>
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Cloud Fax services EMEA System Maintenance scheduled for 16 March 2024</title>
 <link>https://status.opentext.com/incidents/s2m211wk509c</link>
 <guid>https://status.opentext.com/incidents/s2m211wk509c</guid>

@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Snyk UI experiencing intermittent slow response</title>
+<link>https://status.snyk.io/incidents/vtzlqcpg9flw</link>
+<guid>https://status.snyk.io/incidents/vtzlqcpg9flw</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Intermittent Latency Issue <br /><br /> Summary: Snyk's monitoring systems have detected intermittent latency affecting the User Interface, leading to slow response times. The technical teams are currently investigating the issue to resolve it. <div>
+<p><small>Feb <var>21</var>, <var>17:26</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Technical Teams have confirmed response times have stabilized and are monitoring the environment to ensure stability.</p><p><small>Feb <var>21</var>, <var>17:19</var> UTC</small><br /><strong>Update</strong> - Snyk monitoring systems have identified intermittent latency affecting the Snyk User Interface.  Customers may see intermittent slow response when using the Snyk User Interface. The Snyk Incident Response process has been evoked. Technical Teams have been engaged and are investigating the issue.</p><p><small>Feb <var>21</var>, <var>17:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 17:26:37 +0000</pubDate>
+</item>
+<item>
 <title>Degradation of Outbound Webhooks</title>
 <link>https://status.snyk.io/incidents/drsg75k4y69q</link>
 <guid>https://status.snyk.io/incidents/drsg75k4y69q</guid>

@@ -6,6 +6,102 @@
 
 
 <item>
+<title>Sage 100 Partner Cloud (FR) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/h7qrzks23nbd</link>
+<guid>https://status.sage.com/incidents/h7qrzks23nbd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Sage 100 Partner Cloud (FR) Maintenance <br /><br /> Sage 100 Partner Cloud (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET. Some service unavailability may occur during this time. We apologize for any inconvenience. Thank you. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>15:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>09:36</var> UTC</small><br /><strong>Scheduled</strong> - Sage 100 Partner Cloud (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET.<br /> <br />The service may be unavailable during this scheduled time.<br /> <br />We apologize for any inconvenience this may cause.<br /> <br />Thank you. The Sage Team<br /><br />----------------------------------------------------------------------------------<br /><br />Sage 100 Partner Cloud (FR) fera l'objet d'une maintenance système importante le Samedi 24 février 2024, pendant 3 heures entre 16:00 CET et 19:00 CET.<br /><br />Veuillez noter que vous ne pourrez peut-être pas accéder au service pendant cette période.<br /><br />Nous nous excusons pour les inconvénients que cela pourrait causer.<br /><br />Merci L'équipe Sage.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sage Business Cloud Paie (FR) - Partial Outage</title>
+<link>https://status.sage.com/incidents/3pscbk8scctm</link>
+<guid>https://status.sage.com/incidents/3pscbk8scctm</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Synchronization Issue in France
+Summary: A subset of customers in France are experiencing synchronization issues between Sage Business Cloud Paie and Azuneed (SEE). The company is currently investigating the issue. <div>
+<p><small>Feb <var>23</var>, <var>09:56</var> UTC</small><br /><strong>Update</strong> - We identified an issue preventing a subset of customers in France from synchronising between Sage Business Cloud Paie and Azuneed (SEE). All other product functionality is working as expected.<br /><br />We are currently investigating.</p><p><small>Feb <var>23</var>, <var>09:42</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 09:56:01 +0000</pubDate>
+</item>
+<item>
+<title>AutoEntry - Degraded Performance</title>
+<link>https://status.sage.com/incidents/ggq4vb0rskcm</link>
+<guid>https://status.sage.com/incidents/ggq4vb0rskcm</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Potential Issue <br /><br /> Summary: The company is investigating a potential issue with the service and will provide an update within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>19:59</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service is available and performing as expected.</p><p><small>Feb <var>22</var>, <var>19:51</var> UTC</small><br /><strong>Update</strong> - We identified an issue where UKI customers would receive "An error has occurred" message when publishing. <br /><br />We are currently investigating.</p><p><small>Feb <var>22</var>, <var>19:13</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 19:59:12 +0000</pubDate>
+</item>
+<item>
+<title>Sage Online (FR) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/cr9d5zxy0fwk</link>
+<guid>https://status.sage.com/incidents/cr9d5zxy0fwk</guid>
+<content:encoded><![CDATA[
+<div> High - Sage Online Maintenance
+Summary: Sage Online (FR) will undergo 3-hour maintenance on Feb 24, 2024, between 16:00 CET and 19:00 CET, potentially causing service unavailability. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>15:00</var> - <var>18:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>17:09</var> UTC</small><br /><strong>Scheduled</strong> - Sage Online (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET.<br /> <br />The service may be unavailable during this scheduled time.<br /> <br />We apologize for any inconvenience this may cause.<br /> <br />Thank you. The Sage Team<br /><br />----------------------------------------------------------------------------------<br /><br />Sage Online (FR) fera l'objet d'une maintenance système importante le Samedi 24 février 2024, pendant 3 heures entre 16:00 CET et 19:00 CET.<br /><br />Veuillez noter que vous ne pourrez peut-être pas accéder au service pendant cette période.<br /><br />Nous nous excusons pour les inconvénients que cela pourrait causer.<br /><br />Merci L'équipe Sage.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sage 200 Standard (UKI) - Degraded Performance</title>
+<link>https://status.sage.com/incidents/h4l82gfg7c6q</link>
+<guid>https://status.sage.com/incidents/h4l82gfg7c6q</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential Service Issue
+Summary: The company is investigating a potential issue with the service and will provide an update within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>14:05</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 14:05:06 +0000</pubDate>
+</item>
+<item>
+<title>Cloud Services - Degraded Performance</title>
+<link>https://status.sage.com/incidents/ljtc2y4rhpjn</link>
+<guid>https://status.sage.com/incidents/ljtc2y4rhpjn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Identified Issue with Sage Customer Support <br /><br /> We identified an issue preventing Sage Customer Support from reading and sending chat messages to global customers for multiple products. Engaged with third-party for updates.
+ <div>
+<p><small>Feb <var>22</var>, <var>09:37</var> UTC</small><br /><strong>Identified</strong> - We identified an issue preventing Sage Customer Support from reading and sending chat messages to our global customers, when using the products listed below:<br /><br />Sage HR<br />AutoEntry<br />GoProposal<br />Sage Earth<br />Sage Inventory Planner<br />Futrli<br />Sage Business Cloud Payroll International<br />Sage Network Inbox<br /><br />We are engaged with our third-party, Intercom, waiting for updates.</p><p><small>Feb <var>22</var>, <var>09:24</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 09:37:14 +0000</pubDate>
+</item>
+<item>
+<title>Sage Business Cloud Payroll Professional - Degraded Performance</title>
+<link>https://status.sage.com/incidents/d09xh6kvwl5g</link>
+<guid>https://status.sage.com/incidents/d09xh6kvwl5g</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential Service Issue <br /><br /> We are currently investigating a potential issue with the service and will provide an update within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>09:07</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 09:07:06 +0000</pubDate>
+</item>
+<item>
+<title>Ciel Données Mobiles for Sage 50 FR - Major Outage</title>
+<link>https://status.sage.com/incidents/k8schmk53h26</link>
+<guid>https://status.sage.com/incidents/k8schmk53h26</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption in France
+Summary: Customers in France are unable to access Sage 50 FR. The issue is currently being investigated, and an update is expected within 30 minutes. <div>
+<p><small>Feb <var>22</var>, <var>08:10</var> UTC</small><br /><strong>Update</strong> - We have identified an issue preventing customers in France from accessing Sage 50 FR.<br /> <br />We are currently investigating.</p><p><small>Feb <var>22</var>, <var>07:55</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 08:10:11 +0000</pubDate>
+</item>
+<item>
+<title>Brightpearl - Partial Outage</title>
+<link>https://status.sage.com/incidents/4lyrfwfsc838</link>
+<guid>https://status.sage.com/incidents/4lyrfwfsc838</guid>
+<content:encoded><![CDATA[
+<div> [High] - Order Data Processing Issue <br /><br /> Summary: Shopify order data for US customers is not syncing to Brightpearl. The issue is under investigation.
+ <div>
+<p><small>Feb <var>21</var>, <var>21:49</var> UTC</small><br /><strong>Update</strong> - We identified an issue where US customers' Shopify order data has not been processed to Brightpearl. All other product functionality is performing as expected.<br /> <br />We are currently investigating.</p><p><small>Feb <var>21</var>, <var>21:29</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 21:55:46 +0000</pubDate>
+</item>
+<item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/ydc28gfhfdpf</link>
 <guid>https://status.sage.com/incidents/ydc28gfhfdpf</guid>

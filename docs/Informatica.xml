@@ -6,6 +6,60 @@
 
 
 <item>
+<title>Upcoming Maintenance patch on US East 4 POD for Cloud Data Integration Taskflow</title>
+<link>https://status.informatica.com/incidents/zzpdv5x04kk3</link>
+<guid>https://status.informatica.com/incidents/zzpdv5x04kk3</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Maintenance Patch on US East 4 POD
+Summary: Scheduled maintenance patch to address intermittent 502 Bad gateway error during Taskflow executions. Zero downtime update with no impact expected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>05:30</var> - <var>07:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>03:09</var> PST</small><br /><strong>Scheduled</strong> - We are applying maintenance patch on US East 4 POD. This is a zero down time update and there should be no impact to Task executions.<br /><br />Please note that this patch addresses intermittent 502 Bad gateway error observed during Taskflow executions.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 05:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Emergency  maintenance activity on CDGC EM SouthEast 1 Azure Services</title>
+<link>https://status.informatica.com/incidents/l064mlcxxlhk</link>
+<guid>https://status.informatica.com/incidents/l064mlcxxlhk</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Emergency Infrastructure Maintenance Activity <br /><br /> 
+Scheduled emergency maintenance is ongoing for CDGC EM SouthEast 1 Azure Services, potentially causing intermittent disruptions in the search service. Updates will be provided as necessary. <div>
+<p><small>Feb <var>22</var>, <var>04:10</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>22</var>, <var>04:09</var> PST</small><br /><strong>Scheduled</strong> - We are performing an emergency infrastructure maintenance activity on CDGC EM SouthEast 1 Azure Services between 4:10 to 4:20 AM PST. During this brief update period, you may experience intermittent disruptions when using our search service. Please note these interruptions will be temporary.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 04:10:56 -0800</pubDate>
+</item>
+<item>
+<title>Upcoming Maintenance on GCP1, OCI, EMSE1, GCP-EMW2, EMC1 for Cloud Application Integration</title>
+<link>https://status.informatica.com/incidents/3ntx9j53yn6b</link>
+<guid>https://status.informatica.com/incidents/3ntx9j53yn6b</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Deployment of Patch to Address User Interface Issues
+<br /><br />
+Summary: Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Cloud Application Integration. This is a zero downtime update and has no impact on running processes or services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>22:00</var> PST &nbsp;-&nbsp; Feb <var>23</var>, <var>01:00</var> PST</strong></p><p><small>Feb <var>22</var>, <var>02:05</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Cloud Application Integration.<br /><br />This is a zero downtime update and has no impact on running processes or services.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 22:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Upcoming Maintenance on UK Services, Prerelease(Sandbox), Azure Canada1 POD for Cloud Application Integration and Cloud Data Integration Taskflows</title>
+<link>https://status.informatica.com/incidents/b7dqgzq4bxsy</link>
+<guid>https://status.informatica.com/incidents/b7dqgzq4bxsy</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Informatica Cloud Operations Patch Deployment <br /><br /> Summary: Informatica Cloud Operations will be deploying a patch to address user interface issues encountered as part of the February release in Taskflow and Cloud Application Integration. This is a zero downtime update and has no impact on running jobs or services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>02:30</var> - <var>05:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>01:58</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch to address User Interface issues encountered as part of the February Release in Taskflow and Cloud Application Integration.<br /><br />This is a zero downtime update and has no impact on running jobs or services.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 02:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Upcoming Maintenance on February Upgraded PODs for a profile failure due to 0 size mapping metadata XML.</title>
+<link>https://status.informatica.com/incidents/v8dk70dn9gyn</link>
+<guid>https://status.informatica.com/incidents/v8dk70dn9gyn</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure. Zero Downtime deployment; no impact on running jobs or services. Action Required: None. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>22</var>, <var>01:30</var> - <var>03:30</var> PST</strong></p><p><small>Feb <var>21</var>, <var>23:40</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure due to 0 size mapping metadata XML. This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b> Action Required:</b> None.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 01:30:00 -0800</pubDate>
+</item>
+<item>
 <title>Azure DB Maintenance affecting all services on EM Central 1 Azure</title>
 <link>https://status.informatica.com/incidents/dkz8cgh384zh</link>
 <guid>https://status.informatica.com/incidents/dkz8cgh384zh</guid>

@@ -6,6 +6,16 @@
 
 
 <item>
+<title>DOWN - catalog.redhat.com</title>
+<link>https://status.redhat.com/incidents/5njpjw06n46l</link>
+<guid>https://status.redhat.com/incidents/5njpjw06n46l</guid>
+<content:encoded><![CDATA[
+<div> [High] - Catalog App Investigation <br /><br /> Summary: The company is still investigating the issue with the catalog app affecting catalog.redhat.com. No resolution has been reported yet. <div>
+<p><small>Feb <var>22</var>, <var>03:04</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>22</var>, <var>03:03</var> EST</small><br /><strong>Investigating</strong> - This incident affected: catalog.redhat.com (Catalog App).</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 03:04:32 -0500</pubDate>
+</item>
+<item>
 <title>Access.redhat.com DOWN</title>
 <link>https://status.redhat.com/incidents/9678k00hdjj8</link>
 <guid>https://status.redhat.com/incidents/9678k00hdjj8</guid>

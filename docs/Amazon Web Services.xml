@@ -5,5 +5,15 @@
 <link>https://status.aws.amazon.com/</link>
 
 
+<item>
+<title>Informational message: Increased API Error Rates</title>
+<link>https://status.aws.amazon.com/</link>
+<guid>https://status.aws.amazon.com/</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Increased Error Rates for AWS IAM <br /><br /> Summary: Authentication and authorization for existing users are unaffected, but there are elevated error rates in AWS IAM. <div>
+We are investigating increased error rates for AWS Identity and Access Management (IAM). Authentication and authorization of existing users, credentials, roles, policies are not impacted.
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 17:49:40 PST</pubDate>
+</item>
 </channel>
 </rss>

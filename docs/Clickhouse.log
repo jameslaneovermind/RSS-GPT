@@ -253,3 +253,270 @@ Existing_entries: 49
 Fetching from https://status.clickhouse.com/history.rss
 append_entries: 0
 Finish: 2024-02-21 16:44:06.270024
+------------------------------------------------------
+Started: 2024-02-21 16:58:21.419450
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 16:58:21.659223
+------------------------------------------------------
+Started: 2024-02-21 17:09:38.386737
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 17:09:38.608115
+------------------------------------------------------
+Started: 2024-02-21 18:10:38.136363
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 18:10:38.595283
+------------------------------------------------------
+Started: 2024-02-21 19:06:50.705176
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 19:06:51.038836
+------------------------------------------------------
+Started: 2024-02-21 20:08:56.844844
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 20:08:57.215401
+------------------------------------------------------
+Started: 2024-02-21 21:07:45.272539
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 21:07:45.610097
+------------------------------------------------------
+Started: 2024-02-21 22:07:58.540102
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 22:07:58.875091
+------------------------------------------------------
+Started: 2024-02-21 23:09:33.253049
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-21 23:09:33.616212
+------------------------------------------------------
+Started: 2024-02-22 00:37:49.258129
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 00:37:49.567518
+------------------------------------------------------
+Started: 2024-02-22 01:39:48.453943
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 01:39:48.872667
+------------------------------------------------------
+Started: 2024-02-22 02:14:29.233878
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 02:14:29.579090
+------------------------------------------------------
+Started: 2024-02-22 03:09:26.217914
+Existing_entries: 49
+Fetching from https://status.clickhouse.com/history.rss
+Token length: 287
+Summarized using GPT-3.5-turbo-1106
+Append: [Issues with the AWS IAM service are causing failures in ClickHouse service creation for AWS regions.](https://status.clickhouse.com/incidents/t7749hp5x909)
+append_entries: 1
+Finish: 2024-02-22 03:09:27.414368
+------------------------------------------------------
+Started: 2024-02-22 04:09:58.767819
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 04:09:59.103041
+------------------------------------------------------
+Started: 2024-02-22 05:08:29.182381
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 05:08:29.456845
+------------------------------------------------------
+Started: 2024-02-22 06:11:15.366625
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 06:11:15.649851
+------------------------------------------------------
+Started: 2024-02-22 07:09:10.935592
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 07:09:11.316490
+------------------------------------------------------
+Started: 2024-02-22 08:11:20.922548
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 08:11:21.195962
+------------------------------------------------------
+Started: 2024-02-22 09:09:23.104369
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 09:09:23.447009
+------------------------------------------------------
+Started: 2024-02-22 10:08:49.990097
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 10:08:50.197562
+------------------------------------------------------
+Started: 2024-02-22 11:07:03.207985
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 11:07:03.545681
+------------------------------------------------------
+Started: 2024-02-22 12:14:13.017796
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 12:14:13.357006
+------------------------------------------------------
+Started: 2024-02-22 13:10:15.503457
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 13:10:15.956937
+------------------------------------------------------
+Started: 2024-02-22 14:09:04.719934
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 14:09:05.111472
+------------------------------------------------------
+Started: 2024-02-22 15:08:29.513123
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 15:08:29.937400
+------------------------------------------------------
+Started: 2024-02-22 16:10:32.474126
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 16:10:32.840261
+------------------------------------------------------
+Started: 2024-02-22 17:07:52.774984
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 17:07:53.083255
+------------------------------------------------------
+Started: 2024-02-22 18:11:00.270224
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 18:11:00.590243
+------------------------------------------------------
+Started: 2024-02-22 19:06:30.199109
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 19:06:30.666495
+------------------------------------------------------
+Started: 2024-02-22 20:08:47.829810
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 20:08:48.206334
+------------------------------------------------------
+Started: 2024-02-22 21:07:35.159310
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 21:07:35.392620
+------------------------------------------------------
+Started: 2024-02-22 22:07:56.846743
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 22:07:57.169818
+------------------------------------------------------
+Started: 2024-02-22 23:10:14.311288
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-22 23:10:14.556527
+------------------------------------------------------
+Started: 2024-02-23 00:37:20.036239
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 00:37:20.357769
+------------------------------------------------------
+Started: 2024-02-23 01:39:35.569190
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 01:39:35.883454
+------------------------------------------------------
+Started: 2024-02-23 02:14:37.366466
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 02:14:37.721211
+------------------------------------------------------
+Started: 2024-02-23 03:08:55.629803
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 03:08:55.943439
+------------------------------------------------------
+Started: 2024-02-23 04:09:48.396671
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 04:09:48.767303
+------------------------------------------------------
+Started: 2024-02-23 05:09:14.910385
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 05:09:15.176124
+------------------------------------------------------
+Started: 2024-02-23 06:12:01.301555
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 06:12:01.593795
+------------------------------------------------------
+Started: 2024-02-23 07:09:51.234945
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 07:09:51.593170
+------------------------------------------------------
+Started: 2024-02-23 08:11:22.170735
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 08:11:22.575250
+------------------------------------------------------
+Started: 2024-02-23 09:08:32.232680
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 09:08:32.494363
+------------------------------------------------------
+Started: 2024-02-23 10:09:37.154897
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 10:09:37.447235
+------------------------------------------------------
+Started: 2024-02-23 11:07:25.213590
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 11:07:25.615404
