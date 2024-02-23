@@ -4,6 +4,7 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>JCDS Partial Outage</title>
 <link>https://status.jamf.com/incidents/zq2gs81dkvp6</link>
@@ -14,9 +15,7 @@ Summary: A fix has been implemented, and the situation is being monitored for an
 <p><small>Feb <var>23</var>, <var>07:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>23</var>, <var>07:46</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>23</var>, <var>07:46</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>23</var>, <var>07:20</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 07:46:53 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 07:46:53 +0000</pubDate>
 </item>
-
 <item>
 <title>JAMF Pro - Standard: 11.2.1 Upgrade for us-west-2</title>
 <link>https://status.jamf.com/incidents/fjldrc716r07</link>
