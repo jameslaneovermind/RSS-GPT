@@ -116,13 +116,7 @@ def truncate_entries(entries, max_entries):
 def gpt_summary(query, model):
     messages = [
         {"role": "user", "content": query},
-        {"role": "assistant", "content": f"Your task given a company's status report is to determine the relevancy of a status update given the following criteria and then create a tag. For the relevancy tag to be 'high' it should incidcate that it was a major / large scale outage indicating platform downtime. It has to be caused by a configuration change to a system. Such as a deploy to production. To help decide here is some criteria
-         - Look for keywords in the text that indicates the scale of an outage such as 'critical', 'major', 'outage', 'incident', these increase the relevancy. 
-         - In contrast, keywords like 'minor', 'scheduled maintenance', or 'resolved' will have a much lower impact and minimise relavancy (medium/ low only). 
-         - Incidents that are caused external or third partys should always be tagged low.
-         - Similar for network or Connectivity issues. These should always be tagged low. 
-         Then summarise and create a Status Title and Summary body around 250 characters long.
-         Your output absolutely must be outputted in order by points, and output in the following format '[Tag(High/Medium/Low)] - Status Title <br><br> Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the words 'Summary:'"} 
+        {"role": "assistant", "content": f"Your task given a company's status report is to determine the relevancy of a status update given the following criteria and then create a tag. For the relevancy tag to be 'high' it should incidcate that it was a major / large scale outage indicating platform downtime. It has to be caused by a configuration change to a system. Such as a deploy to production. To help decide here is some criteria: - Look for keywords in the text that indicates the scale of an outage such as 'critical', 'major', 'outage', 'incident', these increase the relevancy. - In contrast, keywords like 'minor', 'scheduled maintenance', or 'resolved' will have a much lower impact and minimise relavancy (medium/ low only). - Incidents that are caused external or third partys should always be tagged low. - Similar for network or Connectivity issues. These should always be tagged low. Then summarise and create a Status Title and Summary body around 250 characters long. Your output absolutely must be outputted in order by points, and output in the following format '[Tag(High/Medium/Low)] - Status Title <br><br> Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the words 'Summary:'"} 
         ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
