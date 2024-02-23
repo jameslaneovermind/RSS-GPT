@@ -4,18 +4,17 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Logs and Metrics Failing to show in Monitoring</title>
 <link>https://status.mulesoft.com/incidents/4p83kx76cy7m</link>
 <guid>https://status.mulesoft.com/incidents/4p83kx76cy7m</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Potential Impact on VPN Traffic for Some 4.6 and Cloud Hub 2 Customers Identified <br><br> We have identified an issue where some 4.6 and Cloud Hub 2 customers also have VPN traffic that does not allow sending traffic to new ingestion endpoints and may not see logs and metrics in their monitoring. Summary: Feb 23, 11:40 PST - We have identified an issue where some 4.6 and Cloud Hub 2 customers also have VPN traffic that does not allow sending traffic to new ingestion endpoints and may not see logs and metrics in their monitoring. <div>
+<div> [Medium] - Potential Impact on VPN Traffic for Some 4.6 and Cloud Hub 2 Customers Identified <br /><br /> We have identified an issue where some 4.6 and Cloud Hub 2 customers also have VPN traffic that does not allow sending traffic to new ingestion endpoints and may not see logs and metrics in their monitoring. Summary: Feb 23, 11:40 PST - We have identified an issue where some 4.6 and Cloud Hub 2 customers also have VPN traffic that does not allow sending traffic to new ingestion endpoints and may not see logs and metrics in their monitoring. <div>
 <p><small>Feb <var>23</var>, <var>11:40</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where some 4.6 and Cloud Hub 2 customers also have VPN traffic that does not allow sending traffic to new ingestion endpoints and may not see logs and metrics in their monitoring.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 11:40:55 -0800</pubDate>
-<pubDate>Fri, 23 Feb 2024 11:40:55 -0800</pubDate>
 </item>
-
 <item>
 <title>Anypoint Platform Release and Maintenance Window</title>
 <link>https://status.mulesoft.com/incidents/c98nwc3x1nn0</link>

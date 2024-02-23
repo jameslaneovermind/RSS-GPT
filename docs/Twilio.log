@@ -476,3 +476,15 @@ Existing_entries: 56
 Fetching from https://status.twilio.com/history.rss
 append_entries: 0
 Finish: 2024-02-23 20:10:39.074740
+------------------------------------------------------
+Started: 2024-02-23 21:07:33.724623
+Existing_entries: 56
+Fetching from https://status.twilio.com/history.rss
+Token length: 275
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delays to SMS Delivery Receipts Delay to CTBC Cellular network in Brazil](https://status.twilio.com/incidents/2kvjlvz71x12)
+Token length: 232
+Summarized using GPT-3.5-turbo-1106
+Append: [Our Engineers are Investigating an Issue with SMS delivery Delays to T-Mobile in the US](https://status.twilio.com/incidents/0nqmc108hnd1)
+append_entries: 2
+Finish: 2024-02-23 21:07:35.966703

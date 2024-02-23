@@ -103,3 +103,10 @@ Fetching from https://status.cloud.com/history.rss
 Feed error: <unknown>:2:11: not well-formed (invalid token)
 append_entries: 0
 error when rendering xml, skip docs/Cloud
+------------------------------------------------------
+Started: 2024-02-23 21:08:13.137466
+Existing_entries: 0
+Fetching from https://status.cloud.com/history.rss
+Feed error: <unknown>:2:11: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/Cloud

@@ -5,6 +5,19 @@
 <link>https://status.zoom.us</link>
 
 <item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for Zoom Conference Room Connector (No operational impact)</title>
+<link>https://status.zoom.us/incidents/srcsq4jwcs9t</link>
+<guid>https://status.zoom.us/incidents/srcsq4jwcs9t</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Zoom Maintenance for CRC SIP URI Domains
+Summary: Zoom will be performing maintenance to replace the current SIP TLS certificate with a new certificate for certain CRC SIP URI domains. There is no expected downtime for this change. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>12:28</var> PST</small><br /><strong>Scheduled</strong> - Zoom will be performing maintenance service on the Zoom CRC service to replace the current SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains, listed below:<br /><br />* tj.zmvc.us, tj.zmcn.us (China)<br />* zmhk.us (Hong Kong SAR)<br />* zmin.us (India)<br />* mb.zmin.us (India, Mumbai)<br />* zmjp.us (Japan, Tokyo)<br />* os.zmjp.us (Japan, Osaka)<br />* sg.zmvc.us (Singapore)<br /><br />There is no expected downtime for this change.  For more information see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 22:00:00 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 22:00:00 -0800</pubDate>
+</item>
+
+<item>
 <title>Mac, Windows, Android, iOS, &amp; Linux Client Update: 2/26/24 (No Operational Impact)</title>
 <link>https://status.zoom.us/incidents/qr2y2smg7sxy</link>
 <guid>https://status.zoom.us/incidents/qr2y2smg7sxy</guid>
@@ -14,21 +27,18 @@ Summary: Zoom will be providing a new version of their Mac, Windows, and Linux c
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>00:00</var> - <var>05:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>11:33</var> PST</small><br /><strong>Scheduled</strong> - We will be providing a new version of our Mac, Windows, and Linux clients. They will be available for download at https://zoom.us/download. We will also be performing a staggered release for iOS and Android on applicable app stores. This update will include all-screens mode, sorting chats at the folder-level, and support for automatically moving participants to/from the waiting room when the host leaves/returns. <br /><br />Windows - https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0068823<br />Mac - https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0068891<br />Linux - https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0068973<br />Android - https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0069088<br />iOS - https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0069041<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 00:00:00 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 00:00:00 -0800</pubDate>
 </item>
 <item>
 <title>Web Backend Update: 2/24/2024 (No Operational Impact)</title>
 <link>https://status.zoom.us/incidents/gt9m526f6b1p</link>
 <guid>https://status.zoom.us/incidents/gt9m526f6b1p</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Routine Maintenance on Web Backend<br><br> 
+<div> [Medium] - Routine Maintenance on Web Backend<br /><br /> 
 We will be performing routine maintenance on our Web Backend. Please refer to the provided link for more details. This update includes the web setting for AI Companion Meeting Summary emails. There is no operational impact. All services will be available during this scheduled update. Summary: No major impact expected as routine maintenance is being performed. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>17:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>11:39</var> PST</small><br /><strong>Scheduled</strong> - We will be performing routine maintenance on our Web Backend. Please refer to https://support.zoom.us/hc/en-us/articles/204758419 for more details. This update includes the web setting for AI Companion Meeting Summary emails.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 17:00:00 -0800</pubDate>
-<pubDate>Sat, 24 Feb 2024 17:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Issue with SMS delay</title>
 <link>https://status.zoom.us/incidents/kjl924s50r0q</link>

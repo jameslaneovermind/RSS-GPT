@@ -4,6 +4,28 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Delivery Delays to SMS Delivery Receipts Delay to CTBC Cellular network in Brazil</title>
+<link>https://status.twilio.com/incidents/2kvjlvz71x12</link>
+<guid>https://status.twilio.com/incidents/2kvjlvz71x12</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - SMS Delivery Receipts Delay to CTBC Cellular Network in Brazil <br><br> Investigating delay in SMS delivery receipts to CTBC Cellular network in Brazil. Engineers are working to resolve the issue. An update will be provided in 1 hour or as soon as more information becomes available. <div>
+<p><small>Feb <var>23</var>, <var>12:48</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery receipts delay to CTBC Cellular network in Brazil. Our engineers are working with our carrier partner to resolve the issue. We will provide an update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 12:48:29 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 12:48:29 -0800</pubDate>
+</item>
+<item>
+<title>Our Engineers are Investigating an Issue with SMS delivery Delays to T-Mobile in the US</title>
+<link>https://status.twilio.com/incidents/0nqmc108hnd1</link>
+<guid>https://status.twilio.com/incidents/0nqmc108hnd1</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - SMS Delivery Delays Investigation <br><br> Our engineers are investigating a retroactive issue with SMS delivery delays to T-Mobile in the US. We will provide customer impact details within 2 hours. Summary: Engineers are looking into the impact of SMS delivery delays to T-Mobile in the US and will update customers within 2 hours. <div>
+<p><small>Feb <var>23</var>, <var>12:38</var> PST</small><br /><strong>Monitoring</strong> - Our engineers are currently investigating the customer impact of a retroactive issue with SMS delivery delays to T-Mobile in the US. We will follow up and provide customer impact details within 2 hours.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 12:38:32 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 12:38:32 -0800</pubDate>
+</item>
 
 <item>
 <title>SMS Delivery Delays to AT&amp;T US from a Subset of Twilio Short Codes and Toll Free Numbers</title>

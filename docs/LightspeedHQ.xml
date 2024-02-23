@@ -4,6 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+<item>
+<title>Lightspeed Retail (R-Series) scheduled database maintenance</title>
+<link>https://status.lightspeedhq.com/incidents/4qm6r1kdvhmk</link>
+<guid>https://status.lightspeedhq.com/incidents/4qm6r1kdvhmk</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Database Maintenance <br><br> During this time, vendor catalogs will be unavailable for use. Other R-series functionality will not be affected. Summary: We will be conducting scheduled database maintenance on Tuesday February 27th from 10:30 PM EST to 10:45 EST. This maintenance is essential to ensure the continued performance, reliability, and security of our systems. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>22:30</var> - <var>22:45</var> EST</strong></p><p><small>Feb <var>23</var>, <var>15:47</var> EST</small><br /><strong>Scheduled</strong> - We will be conducting scheduled database maintenance on Tuesday February 27th from 10:30 PM EST to 10:45 EST. This maintenance is essential to ensure the continued performance, reliability and security of our systems. During this time, vendor catalogs will be unavailable for use. Other R-series functionality will not be affected.<br />We understand the importance of our services to your operations and apologize for any inconvenience this maintenance may cause. Your patience and understanding are greatly appreciated as we work to enhance our systems.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 22:30:00 -0500</pubDate>
+<pubDate>Tue, 27 Feb 2024 22:30:00 -0500</pubDate>
+</item>
 
 <item>
 <title>C-Series is experiencing slowness</title>

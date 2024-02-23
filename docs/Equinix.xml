@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Network Edge)</title>
 <link>https://status.equinix.com/incidents/b9mjkyq7546k</link>
 <guid>https://status.equinix.com/incidents/b9mjkyq7546k</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident with Equinix Internet Access/Connect <br><br> Network issue identified and fix being implemented for platform downtime caused by configuration change. <div>
+<div> [High] - Major Incident with Equinix Internet Access/Connect <br /><br /> Network issue identified and fix being implemented for platform downtime caused by configuration change. <div>
 <p><small>Feb <var>23</var>, <var>20:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">ltjfjs3ld59k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028946</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SE); Network Edge - Americas (SE)]</div></p><p><small>Feb <var>16</var>, <var>12:41</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ltjfjs3ld59k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028946</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SE); Network Edge - Americas (SE)]</div></p><p><small>Feb <var>16</var>, <var>12:24</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ltjfjs3ld59k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028946</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SE); Network Edge - Americas (SE)]</div></p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 20:03:50 +0000</pubDate>
 <pubDate>Fri, 23 Feb 2024 20:03:50 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: The Equinix Fabric backbone provider link between EMEA and AMER was fla
 <p><small>Feb <var>23</var>, <var>20:03</var> UTC</small><br /><strong>Resolved</strong> - SMC monitored that one of Equinix Fabric backbone provider links between EMEA and AMER is flapping. No service impact as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">6lmk06mvy5dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029120</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD) & Americas (TR); Network Edge - Americas (TR) & EMEA (LD)]</div></p><p><small>Feb <var>19</var>, <var>03:46</var> UTC</small><br /><strong>Update</strong> - SMC monitored that one of Equinix Fabric backbone provider links between EMEA and AMER is flapping. No service impact as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">6lmk06mvy5dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029120</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD) & Americas (TR); Network Edge - EMEA (LD) & Americas (TR)]</div></p><p><small>Feb <var>19</var>, <var>03:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">6lmk06mvy5dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029120</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (LD) & Americas (TR); Equinix Fabric - EMEA (LD) & Americas (TR)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 20:03:26 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 20:03:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/77xqmw2ndnvb</link>

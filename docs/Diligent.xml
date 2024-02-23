@@ -4,18 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Maintenance Advisory - Boards application in All Regions</title>
 <link>https://status.diligent.com/incidents/mrxk84c9g5rm</link>
 <guid>https://status.diligent.com/incidents/mrxk84c9g5rm</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Routine Maintenance for Boards Application in All Regions <br><br>  Maintenance will be performed on the Boards application, blocking new user logins for a short period. Users already logged in will not be affected. <div>
+<div> [Low] - Routine Maintenance for Boards Application in All Regions <br /><br />  Maintenance will be performed on the Boards application, blocking new user logins for a short period. Users already logged in will not be affected. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>03:00</var> - <var>04:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>19:50</var> UTC</small><br /><strong>Scheduled</strong> - <br /><b>Services/Location:</b><br />Boards application in All Regions<br /><br /><b>Impact:</b><br />Please be advised that we will be performing routine maintenance on our systems. As a result, this will block all new Boards user logins for 5-10 Mins. Users already logged into the system will be able to continue working. <br /><br /><b>What do you need to do?:</b><br />Plan to perform items requiring Boards login in the impacted regions outside of the scheduled maintenance window timeline.<br /><br /><b>Contact:</b><br />For any questions or if you experience a disruption other than above, please contact Diligent Support: https://community.diligent.com/grc/s/contactsupport</p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 03:00:00 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 03:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Secure File Sharing - Our service is experiencing an interruption in the Australia region</title>
 <link>https://status.diligent.com/incidents/mfzd78lpr8l6</link>
