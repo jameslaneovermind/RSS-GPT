@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:50.961780
+Existing_entries: 0
+Fetching from https://status.paloaltonetworks.com/history.rss
+Token length: 427
+Summarized using GPT-3.5-turbo-1106
+Append: [Advanced Threat Prevention (ATP) - Scheduled Maintenance - Global / All Regions](https://status.paloaltonetworks.com/incidents/kl8jr4jv8pyq)
+Token length: 524
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government Region](https://status.paloaltonetworks.com/incidents/cg1s5s7y7ffq)
+Token length: 586
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe, Germany, Switzerland, Poland, Qatar and United Kingdom Regions](https://status.paloaltonetworks.com/incidents/v9ky4vkjk5yw)
+Append: [Prisma Cloud Compute Scheduled Release - O’Neal Update 3 (32.03)](https://status.paloaltonetworks.com/incidents/zxmtzynz8r78)
+Append: [Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America, Canada, Singapore, India, Australia, Taiwan and Japan Region](https://status.paloaltonetworks.com/incidents/j7v2cfz0v94t)
+Append: [WildFire Issue](https://status.paloaltonetworks.com/incidents/56lrg2lmt9ns)
+Append: [WildFire Issue](https://status.paloaltonetworks.com/incidents/6qnq8pkr0hcv)
+Append: [Cloud Application Security impacted](https://status.paloaltonetworks.com/incidents/45rsbkdp2qyz)
+Append: [Best Practices Analyzer errors](https://status.paloaltonetworks.com/incidents/2glvxcv84dhr)
+Append: [Best Practices Analyzer errors](https://status.paloaltonetworks.com/incidents/bjkpnrw4z90w)
+Append: [Login service is down and customers are not able to create new users in CSP](https://status.paloaltonetworks.com/incidents/v0zf4cfn13n5)
+Append: [Possible app-cn login issues](https://status.paloaltonetworks.com/incidents/tptmgzqwvk87)
+Append: [WildFire Japan Cloud Service Scheduled Maintenance](https://status.paloaltonetworks.com/incidents/jvms4dgq8nrg)
+Append: [WildFire EU Cloud Service Scheduled Maintenance](https://status.paloaltonetworks.com/incidents/03f8cdrnz9n6)
+Append: [Prisma Cloud 24.2.1 Scheduled Release](https://status.paloaltonetworks.com/incidents/n5m66vnthh59)
+Append: [Prisma Cloud 24.2.1 Scheduled Release](https://status.paloaltonetworks.com/incidents/j3rztdkmhr7k)
+Append: [Cortex - Intermittent login Issues in all regions](https://status.paloaltonetworks.com/incidents/f5b70189kk35)
+Append: [app-cn UI is not loading/multiple services are impacted](https://status.paloaltonetworks.com/incidents/2lwd4zmv16jl)
+Append: [Prisma Cloud 24.2.1 Scheduled Release](https://status.paloaltonetworks.com/incidents/88rd6b1kkhnn)
+Append: [Prisma Cloud 24.2.1 Scheduled Release](https://status.paloaltonetworks.com/incidents/qjr9991jlmlh)
+Append: [WildFire Australia Cloud Service Scheduled Maintenance](https://status.paloaltonetworks.com/incidents/f2bzm8dvd60m)
+Append: [DB Maintenance](https://status.paloaltonetworks.com/incidents/nfpvvkvrml74)
+Append: [WildFire Issue](https://status.paloaltonetworks.com/incidents/j57bjzv48dy9)
+Append: [app2 intermittent login failures](https://status.paloaltonetworks.com/incidents/7w39xqh1gttv)
+Append: [Registration Process is broken in Live Community](https://status.paloaltonetworks.com/incidents/f95t4jvdfgfq)
+append_entries: 25
+Finish: 2024-02-23 11:36:54.239531

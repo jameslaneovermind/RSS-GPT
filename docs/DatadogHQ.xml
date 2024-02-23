@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Datadog US1 Status - Incident History</title>
+<link>https://status.datadoghq.com</link>
+
+<item>
+<title>Elevated Error Rates for Metrics Submission</title>
+<link>https://status.datadoghq.com/incidents/hwcvcr129sks</link>
+<guid>https://status.datadoghq.com/incidents/hwcvcr129sks</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[High] - Elevated Error Rates for Metrics Submission APIs
+Summary: The company is currently investigating elevated error rates for Metrics Submission APIs, which may cause temporary failures in submitting new metric data through the API.
+``` <div>
+<p><small>Jan <var>31</var>, <var>03:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>02:59</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring recovery. Metric monitor evaluations still might be delayed; we will post an update when this recovers.</p><p><small>Jan <var>31</var>, <var>02:40</var> EST</small><br /><strong>Identified</strong> - We are still investigating elevated error rates for Metrics Submission APIs and delays processing metrics monitors.</p><p><small>Jan <var>31</var>, <var>02:18</var> EST</small><br /><strong>Investigating</strong> - We are investigating elevated error rates for Metrics Submission APIs.<br />As a result of this issue, submitting new metric data through the API might fail temporarily.<br /><br />Please note that the Datadog Agent and Client Libraries will buffer data or retry to avoid data loss.</p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 03:14:25 -0500</pubDate>
+<pubDate>Wed, 31 Jan 2024 03:14:25 -0500</pubDate>
+</item>
+<item>
+<title>Logs Status Elevated Error Rates</title>
+<link>https://status.datadoghq.com/incidents/12bh9ls36gp1</link>
+<guid>https://status.datadoghq.com/incidents/12bh9ls36gp1</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[Medium] - Elevated Error Rates for Log Management
+Summary: Logs from AWS Lambda were incorrectly categorized as errors from 18:30 UTC to 20:50 UTC on 2024-01-22. A fix has been implemented and the situation is being monitored.
+``` <div>
+<p><small>Jan <var>22</var>, <var>16:31</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. As a result of this incident, logs from AWS Lambda (specifically, those tagged with source:lambda) were incorrectly categorized as errors from 18:30 UTC to 20:50 UTC on 2024-01-22.<br />All logs after this date are being processed as normal.</p><p><small>Jan <var>22</var>, <var>16:24</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>22</var>, <var>15:31</var> EST</small><br /><strong>Identified</strong> - We have identified the underlying issues for elevated error rates for Log Management<br />As a result of this issue, some users may see incorrect statuses for logs from AWS Lambda</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 16:31:34 -0500</pubDate>
+<pubDate>Mon, 22 Jan 2024 16:31:34 -0500</pubDate>
+</item>
+<item>
+<title>Delayed Infrastructure Updates</title>
+<link>https://status.datadoghq.com/incidents/7r6br9vsyynf</link>
+<guid>https://status.datadoghq.com/incidents/7r6br9vsyynf</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Latency Issue
+Summary: The company is investigating increased latency processing host updates, which may cause delays in host activity status updates. <div>
+<p><small>Jan <var>22</var>, <var>15:38</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>14:46</var> EST</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results.<br />We will provide another update in 30 minutes once the service is fully operational.</p><p><small>Jan <var>22</var>, <var>14:04</var> EST</small><br /><strong>Investigating</strong> - We are investigating increased latency processing host updates.<br />As a result of this issue, some users may see delays in host activity status updates on the infrastructure list.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 15:38:02 -0500</pubDate>
+<pubDate>Mon, 22 Jan 2024 15:38:02 -0500</pubDate>
+</item>
+<item>
+<title>Elevated error rate for metrics and delayed metric monitors</title>
+<link>https://status.datadoghq.com/incidents/8vb1cy5ctz0p</link>
+<guid>https://status.datadoghq.com/incidents/8vb1cy5ctz0p</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 4</var>, <var>12:19</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 4</var>, <var>11:56</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 4</var>, <var>11:49</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var> 4</var>, <var>11:37</var> EST</small><br /><strong>Investigating</strong> - We are actively investigating elevated errors and slow queries for metrics data. As a result of this issue, some users may see errors when trying to load data on dashboards and metrics monitors evaluation may be delayed.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jan 2024 12:19:59 -0500</pubDate>
+<pubDate>Thu, 04 Jan 2024 12:19:59 -0500</pubDate>
+</item>
+<item>
+<title>Delayed Monitors Notifications</title>
+<link>https://status.datadoghq.com/incidents/c06ylbjp3pn2</link>
+<guid>https://status.datadoghq.com/incidents/c06ylbjp3pn2</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>22</var>, <var>19:57</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>22</var>, <var>19:42</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>22</var>, <var>19:40</var> EST</small><br /><strong>Update</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.</p><p><small>Dec <var>22</var>, <var>19:34</var> EST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var>22</var>, <var>19:23</var> EST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var>22</var>, <var>19:13</var> EST</small><br /><strong>Identified</strong> - We have identified the underlying issue and are working on a fix.</p><p><small>Dec <var>22</var>, <var>19:08</var> EST</small><br /><strong>Investigating</strong> - We are investigating delays in the processing of Metrics and corresponding Monitor Notifications, which began at 22:30 UTC.</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Dec 2023 19:57:30 -0500</pubDate>
+<pubDate>Fri, 22 Dec 2023 19:57:30 -0500</pubDate>
+</item>
+<item>
+<title>Delayed Monitors Notifications</title>
+<link>https://status.datadoghq.com/incidents/ps16mtk8zlwm</link>
+<guid>https://status.datadoghq.com/incidents/ps16mtk8zlwm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>27</var>, <var>13:14</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>27</var>, <var>13:06</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.</p><p><small>Oct <var>27</var>, <var>12:36</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Oct <var>27</var>, <var>12:14</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Monitors Notifications, which began at 15:16 UTC]</p>
+]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 13:14:00 -0400</pubDate>
+<pubDate>Fri, 27 Oct 2023 13:14:00 -0400</pubDate>
+</item>
+<item>
+<title>Degraded Web Application Performance</title>
+<link>https://status.datadoghq.com/incidents/dn8jvrbwffbs</link>
+<guid>https://status.datadoghq.com/incidents/dn8jvrbwffbs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>24</var>, <var>13:38</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>24</var>, <var>13:32</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>24</var>, <var>13:17</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and we are working on a fix. Note that this  only affects Monitors, SLOs and Incident Management web apis.</p><p><small>Oct <var>24</var>, <var>13:11</var> EDT</small><br /><strong>Investigating</strong> - We are investigating degraded performance with the web application.</p>
+]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 13:38:42 -0400</pubDate>
+<pubDate>Tue, 24 Oct 2023 13:38:42 -0400</pubDate>
+</item>
+<item>
+<title>Elevated Error Rates for Log Queries and Monitors</title>
+<link>https://status.datadoghq.com/incidents/77q96kyzhv9f</link>
+<guid>https://status.datadoghq.com/incidents/77q96kyzhv9f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 4</var>, <var>11:44</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var> 4</var>, <var>11:44</var> EDT</small><br /><strong>Update</strong> - Fix rollout has now been completed.</p><p><small>Oct <var> 4</var>, <var>10:50</var> EDT</small><br /><strong>Update</strong> - The fix rollout is currently ongoing. Once completed we will confirm resolution.</p><p><small>Oct <var> 4</var>, <var>09:54</var> EDT</small><br /><strong>Update</strong> - The fix rollout is currently ongoing. Once completed we will confirm resolution.</p><p><small>Oct <var> 4</var>, <var>09:04</var> EDT</small><br /><strong>Update</strong> - We have successfully tested a fix for this issue and are currently deploying it to resolve this incident.</p><p><small>Oct <var> 4</var>, <var>08:18</var> EDT</small><br /><strong>Update</strong> - We're still working on a fix for historical data impacted by this incident.</p><p><small>Oct <var> 4</var>, <var>07:41</var> EDT</small><br /><strong>Update</strong> - We're still working on a fix for historical data impacted by this incident.</p><p><small>Oct <var> 4</var>, <var>07:07</var> EDT</small><br /><strong>Update</strong> - We're still working on a fix for historical data impacted by this incident.</p><p><small>Oct <var> 4</var>, <var>06:26</var> EDT</small><br /><strong>Update</strong> - We're still working on a fix for historical data impacted by this incident.</p><p><small>Oct <var> 4</var>, <var>05:19</var> EDT</small><br /><strong>Update</strong> - We're still working on a fix for historical data impacted by this incident.</p><p><small>Oct <var> 3</var>, <var>16:47</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.<br /><br />At this time, newly ingested data is properly queryable, and monitors targeting Logs sent from 2023-10-03 20:40 UTC onwards are valid.<br /><br />Queries targeting logs between 2023-10-02 11:40 UTC and 2023-10-03 20:40 UTC may return erroneous data.  We are evaluating a fix that will restore query correctness for this time-window.</p><p><small>Oct <var> 3</var>, <var>15:32</var> EDT</small><br /><strong>Identified</strong> - We have identified the underlying issue and are working on a fix.</p><p><small>Oct <var> 3</var>, <var>14:49</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate these issues, and will provide an update as soon as possible.</p><p><small>Oct <var> 3</var>, <var>13:30</var> EDT</small><br /><strong>Investigating</strong> - We are actively investigating issues with Log Queries returning unexpected results.<br />As a result of this issue, some users may experience issues querying logs on the web application or API, and with Logs based Monitors and Log-Based Metrics.</p>
+]]></content:encoded>
+<pubDate>Wed, 04 Oct 2023 11:44:56 -0400</pubDate>
+<pubDate>Wed, 04 Oct 2023 11:44:56 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Metric Monitor Notifications</title>
+<link>https://status.datadoghq.com/incidents/x9md0z2m80y7</link>
+<guid>https://status.datadoghq.com/incidents/x9md0z2m80y7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>26</var>, <var>00:25</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>25</var>, <var>23:55</var> EDT</small><br /><strong>Identified</strong> - We have identified the underlying issue and are working on a fix.<br /><br />It is important to note that no data has been lost, and notifications will be caught up once the service is operational again.</p><p><small>Sep <var>25</var>, <var>22:56</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Metrics Monitors Notifications, which began at 02:35 UTC.</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Sep 2023 00:25:18 -0400</pubDate>
+<pubDate>Tue, 26 Sep 2023 00:25:18 -0400</pubDate>
+</item>
+<item>
+<title>Monitors Notifications Delayed</title>
+<link>https://status.datadoghq.com/incidents/l2l8q7wlbzzs</link>
+<guid>https://status.datadoghq.com/incidents/l2l8q7wlbzzs</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>25</var>, <var>17:55</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>25</var>, <var>17:48</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>25</var>, <var>17:14</var> EDT</small><br /><strong>Identified</strong> - We are aware of delays in Metric Monitors Notifications, which began at 20:55 UTC.  We have identified the underlying issue and are working on a fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Sep 2023 17:55:20 -0400</pubDate>
+<pubDate>Mon, 25 Sep 2023 17:55:20 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Processing for a Subset of Metrics</title>
+<link>https://status.datadoghq.com/incidents/y0br2tgt7pcv</link>
+<guid>https://status.datadoghq.com/incidents/y0br2tgt7pcv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>22</var>, <var>12:07</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>22</var>, <var>11:50</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue.<br />To prevent spurious alerts, we have temporarily disabled affected monitors based on this data.</p><p><small>Sep <var>22</var>, <var>11:48</var> EDT</small><br /><strong>Investigating</strong> - We are investigating increased latency processing Processing for a Subset of Metrics.<br />As a result of this issue, some users may see delays or gaps for a subset of their metrics on graphs.</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Sep 2023 12:07:31 -0400</pubDate>
+<pubDate>Fri, 22 Sep 2023 12:07:31 -0400</pubDate>
+</item>
+<item>
+<title>Delayed monitor notifications &amp; metrics graphing issues</title>
+<link>https://status.datadoghq.com/incidents/767nqf71jn93</link>
+<guid>https://status.datadoghq.com/incidents/767nqf71jn93</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>11</var>, <var>22:13</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>11</var>, <var>21:16</var> EDT</small><br /><strong>Update</strong> - Users may still be experiencing some issues with graphs not loading in the web application.  We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>20:07</var> EDT</small><br /><strong>Update</strong> - Users may still be experiencing some issues with graphs not loading in the web application.  We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>19:01</var> EDT</small><br /><strong>Update</strong> - Users may still be experiencing some issues with graphs not loading in the web application.  We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>17:59</var> EDT</small><br /><strong>Update</strong> - Issues with monitor notifications have been resolved.<br /><br />Users may still be experiencing some issues with graphs not loading in the web application.  We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>17:30</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.</p><p><small>Sep <var>11</var>, <var>16:42</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Sep <var>11</var>, <var>15:36</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Sep <var>11</var>, <var>14:47</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Monitors Notifications for monitors which rely on distribution metrics, which began at 17:58 UTC.<br /><br />Users may also experience some issues with graphs not loading in the web application.<br /><br />Please note that data ingest is not affected by this incident.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Sep 2023 22:13:31 -0400</pubDate>
+<pubDate>Mon, 11 Sep 2023 22:13:31 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Monitors Notifications</title>
+<link>https://status.datadoghq.com/incidents/hwmbb5xl84l3</link>
+<guid>https://status.datadoghq.com/incidents/hwmbb5xl84l3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 1</var>, <var>11:31</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var> 1</var>, <var>11:18</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results. We will provide another update once the issue is fully resolved.</p><p><small>Sep <var> 1</var>, <var>11:00</var> EDT</small><br /><strong>Identified</strong> - We have identified the underlying issue and are working on a fix.</p><p><small>Sep <var> 1</var>, <var>10:55</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Monitors Notifications affecting, which began at 13:53 UTC.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Sep 2023 11:31:20 -0400</pubDate>
+<pubDate>Fri, 01 Sep 2023 11:31:20 -0400</pubDate>
+</item>
+<item>
+<title>Delayed monitor notifications</title>
+<link>https://status.datadoghq.com/incidents/tb24q35zw7g3</link>
+<guid>https://status.datadoghq.com/incidents/tb24q35zw7g3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>24</var>, <var>14:18</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var>24</var>, <var>14:04</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Monitors Notifications, which began at 17:15 UTC.<br /><br />We have identified the underlying issue and are working on a fix.</p>
+]]></content:encoded>
+<pubDate>Thu, 24 Aug 2023 14:18:07 -0400</pubDate>
+<pubDate>Thu, 24 Aug 2023 14:18:07 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Synthetic Browser Test Results</title>
+<link>https://status.datadoghq.com/incidents/3f54lbrzjt0n</link>
+<guid>https://status.datadoghq.com/incidents/3f54lbrzjt0n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>23</var>, <var>14:26</var> EDT</small><br /><strong>Resolved</strong> - We have scaled up the underlying system and we no longer observe latency in synthetic browser test results.</p><p><small>Aug <var>23</var>, <var>13:47</var> EDT</small><br /><strong>Investigating</strong> - We have identified an issue that resulted in an increased latency executing Synthetics browser tests. As a result of this issue, some users may experience delays in receiving test results and notifications.</p>
+]]></content:encoded>
+<pubDate>Wed, 23 Aug 2023 14:26:43 -0400</pubDate>
+<pubDate>Wed, 23 Aug 2023 14:26:43 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Processing for a Subset of Metrics</title>
+<link>https://status.datadoghq.com/incidents/2pxctvjw64zh</link>
+<guid>https://status.datadoghq.com/incidents/2pxctvjw64zh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 2</var>, <var>01:45</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Aug <var> 1</var>, <var>23:08</var> EDT</small><br /><strong>Update</strong> - Distribution metrics lag has been resolved. As a result of the issue, some users may see gaps for distribution metrics on graphs. Monitors evaluation is now re-enabled for monitors based on this data.</p><p><small>Aug <var> 1</var>, <var>20:43</var> EDT</small><br /><strong>Update</strong> - We continue to make progress on processing the lag on distribution metrics and are monitoring any further issues.</p><p><small>Aug <var> 1</var>, <var>18:57</var> EDT</small><br /><strong>Update</strong> - We continue to process the lag on distribution metrics</p><p><small>Aug <var> 1</var>, <var>17:42</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var> 1</var>, <var>17:37</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Aug <var> 1</var>, <var>17:37</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var> 1</var>, <var>17:07</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var> 1</var>, <var>17:05</var> EDT</small><br /><strong>Investigating</strong> - We are investigating increased latency processing Processing for Distribution Metrics coming from the agent.<br />As a result of this issue, some users may see delays or gaps for a subset of their metrics on graphs.<br />RUM/Synthetics/Logs/Processes measures that depend on distribution metrics will also see delays.<br />To prevent spurious alerts, we have temporarily disabled monitors based on this data.</p>
+]]></content:encoded>
+<pubDate>Wed, 02 Aug 2023 01:45:33 -0400</pubDate>
+<pubDate>Wed, 02 Aug 2023 01:45:33 -0400</pubDate>
+</item>
+<item>
+<title>User actions like user creation/user edits intermittently failing/slow</title>
+<link>https://status.datadoghq.com/incidents/wmfnhxx39m8b</link>
+<guid>https://status.datadoghq.com/incidents/wmfnhxx39m8b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jul <var>28</var>, <var>14:59</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>28</var>, <var>14:57</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>28</var>, <var>14:53</var> EDT</small><br /><strong>Investigating</strong> - User specific actions like user creation or edits to users are intermittently slow/failing</p>
+]]></content:encoded>
+<pubDate>Fri, 28 Jul 2023 14:59:09 -0400</pubDate>
+<pubDate>Fri, 28 Jul 2023 14:59:09 -0400</pubDate>
+</item>
+<item>
+<title>Delays Ingesting Custom Metrics Generated from Logs, Spans, and RUM events</title>
+<link>https://status.datadoghq.com/incidents/n2mb140nmk38</link>
+<guid>https://status.datadoghq.com/incidents/n2mb140nmk38</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>22</var>, <var>17:38</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>22</var>, <var>17:28</var> EDT</small><br /><strong>Monitoring</strong> - We are continuing to monitor the results of the mitigations and expect the incident to be resolved shortly.</p><p><small>Jun <var>22</var>, <var>17:12</var> EDT</small><br /><strong>Identified</strong> - We have applied several mitigations and are beginning to see early signs of recovery.</p><p><small>Jun <var>22</var>, <var>16:13</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Jun <var>22</var>, <var>15:42</var> EDT</small><br /><strong>Investigating</strong> - We are investigating an issue resulting in delays for the ingestion of custom metrics generated from logs, spans, and RUM events.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Jun 2023 17:38:41 -0400</pubDate>
+<pubDate>Thu, 22 Jun 2023 17:38:41 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Monitor Notifications</title>
+<link>https://status.datadoghq.com/incidents/8mn4lzv7rlbj</link>
+<guid>https://status.datadoghq.com/incidents/8mn4lzv7rlbj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>17</var>, <var>13:51</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>17</var>, <var>13:36</var> EDT</small><br /><strong>Monitoring</strong> - The issue has been identified and a fix has been rolled out. Monitor notifications are now current again</p><p><small>Apr <var>17</var>, <var>13:25</var> EDT</small><br /><strong>Investigating</strong> - We are investigating delays in Monitors Notifications, which began at 16:27 UTC</p>
+]]></content:encoded>
+<pubDate>Mon, 17 Apr 2023 13:51:25 -0400</pubDate>
+<pubDate>Mon, 17 Apr 2023 13:51:25 -0400</pubDate>
+</item>
+<item>
+<title>Monitors - UI</title>
+<link>https://status.datadoghq.com/incidents/b50r6spb516k</link>
+<guid>https://status.datadoghq.com/incidents/b50r6spb516k</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>17</var>, <var>10:19</var> EDT</small><br /><strong>Resolved</strong> - Backfill of monitor data has been done. Monitors are fully operational.<br />This incident has been resolved.</p><p><small>Apr <var>17</var>, <var>06:53</var> EDT</small><br /><strong>Update</strong> - All monitors are fully operational, and we are processing monitor data in real time. Muted monitors state may be stale while viewed on the "Manage Monitor" page, but up to date when viewed on the monitor status page.<br />Backfilling is in progress. We will provide another update once the backfill is fully done.</p><p><small>Apr <var>17</var>, <var>06:41</var> EDT</small><br /><strong>Update</strong> - All monitors are fully operational, and we are processing monitor data in real time. Muted monitors state may be inconsistent while backfilling is in progress.<br />We will provide another update once the backfill is fully done.</p><p><small>Apr <var>17</var>, <var>04:06</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>17</var>, <var>02:16</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>17</var>, <var>00:03</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>22:10</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>20:08</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>18:16</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>16:36</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>15:20</var> EDT</small><br /><strong>Update</strong> - Muted monitors state is stale in search pages and new monitor suggestions are unavailable. All monitors are fully operational while we continue working on the remaining issues.</p><p><small>Apr <var>16</var>, <var>13:42</var> EDT</small><br /><strong>Update</strong> - Monitors, Monitor groups and Synthetics UI are fully operational.<br /><br />Muted monitors state will remain out-of-date in search pages without that affecting their operation while backfilling is in progress. New monitor suggestions remain unavailable. We will continue to provide regular updates while resolving these remaining issues.</p><p><small>Apr <var>16</var>, <var>12:59</var> EDT</small><br /><strong>Monitoring</strong> - Monitors and Synthetics UI search pages are now fully operational.<br />We continue to backfill the Monitor groups state and expect this activity to complete within the next one hour. Muted monitors state will remain out-of-date in search pages without that affecting their operation while backfilling is in progress. New monitor suggestions remain unavailable.</p><p><small>Apr <var>16</var>, <var>12:18</var> EDT</small><br /><strong>Update</strong> - The fix for the Monitors and Synthetics UIs is now deployed and we are in the process of re-enabling the search pages functionality. Monitor groups are being backfilled with a completion ETA of 90 minutes. Muted monitor state and monitor suggestions will remain out-of-date in search pages. This only affects the status reported in the UI.</p><p><small>Apr <var>16</var>, <var>11:17</var> EDT</small><br /><strong>Update</strong> - Fixes for the issue affecting the Monitors and Synthetics UIs are undergoing verifications and we will share additional details and a resolution timeline in our next update.<br />Monitor and Synthetic test states are reported accurately via the individual monitors and synthetic test status pages.</p><p><small>Apr <var>16</var>, <var>10:32</var> EDT</small><br /><strong>Update</strong> - We continue to work on the resolution of the problem affecting the Monitors and Synthetics UIs.<br />Monitor and Synthetic test states are reported accurately via the individual monitors and synthetic test status pages.</p><p><small>Apr <var>16</var>, <var>09:15</var> EDT</small><br /><strong>Update</strong> - We have confirmed that the issue impacts the Monitors UI and the Synthetics UI and is limited to the display of state in the UI.  We are working on a resolution and will provide an ETA once available.<br />Monitor and synthetics creation, updates, evaluation and alerting are operating normally.</p><p><small>Apr <var>16</var>, <var>08:45</var> EDT</small><br /><strong>Update</strong> - The issue is currently affecting the display of monitors, monitor groups and monitor state in the Monitoring UI for all types of monitors. Fixes are still in progress.<br />Monitor evaluation, creation, updates and alerting are unaffected.</p><p><small>Apr <var>16</var>, <var>08:02</var> EDT</small><br /><strong>Update</strong> - Monitor search functionality has been restored. Fixes for updating monitor state and monitor groups are still in progress.</p><p><small>Apr <var>16</var>, <var>06:17</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Apr <var>16</var>, <var>03:10</var> EDT</small><br /><strong>Investigating</strong> - We are investigating issues with creating and updating monitors in the Monitoring UI, which began at 5:10 UTC.</p>
+]]></content:encoded>
+<pubDate>Mon, 17 Apr 2023 10:19:56 -0400</pubDate>
+<pubDate>Mon, 17 Apr 2023 10:19:56 -0400</pubDate>
+</item>
+<item>
+<title>Delayed Synthetics tests results</title>
+<link>https://status.datadoghq.com/incidents/173kpgxhcmsy</link>
+<guid>https://status.datadoghq.com/incidents/173kpgxhcmsy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>17</var>, <var>09:55</var> EDT</small><br /><strong>Resolved</strong> - Backfill is finished.<br />This incident has been resolved.</p><p><small>Apr <var>17</var>, <var>08:34</var> EDT</small><br /><strong>Update</strong> - All services are fully operational and processing live data.<br /><br />We have started to backfill Synthetics tests results and will provide another update once the backfills are finished.</p><p><small>Apr <var>17</var>, <var>06:25</var> EDT</small><br /><strong>Monitoring</strong> - We have deployed a fix and we are monitoring the results.<br />It is important to note that no data has been lost, and it will be backfilled and available once the service is operational again.	<br /><br />We will provide another update once the issue is fully resolved.</p><p><small>Apr <var>17</var>, <var>06:04</var> EDT</small><br /><strong>Identified</strong> - We have identified an issue that resulted in an increased latency processing Synthetics tests results and are working on a fix.<br />As a result of this issue, some users may see delays with test results and in notifications based on this test data.</p>
+]]></content:encoded>
+<pubDate>Mon, 17 Apr 2023 09:55:48 -0400</pubDate>
+<pubDate>Mon, 17 Apr 2023 09:55:48 -0400</pubDate>
+</item>
+<item>
+<title>A subset of metrics based monitors are not being evaluated</title>
+<link>https://status.datadoghq.com/incidents/0jnz53cz1ztp</link>
+<guid>https://status.datadoghq.com/incidents/0jnz53cz1ztp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>11</var>, <var>14:42</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>11</var>, <var>14:32</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Apr <var>11</var>, <var>14:17</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 11 Apr 2023 14:42:29 -0400</pubDate>
+<pubDate>Tue, 11 Apr 2023 14:42:29 -0400</pubDate>
+</item>
+<item>
+<title>Delayed AWS Metrics and Logs</title>
+<link>https://status.datadoghq.com/incidents/ylzw0j4d49q5</link>
+<guid>https://status.datadoghq.com/incidents/ylzw0j4d49q5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var> 3</var>, <var>16:58</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved and all data has been backfilled.</p><p><small>Apr <var> 3</var>, <var>16:52</var> EDT</small><br /><strong>Monitoring</strong> - The mitigation has been rolled out and we are monitoring the backfill of affected AWS metrics and logs.</p><p><small>Apr <var> 3</var>, <var>16:44</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a mitigation is being rolled out.</p><p><small>Apr <var> 3</var>, <var>16:42</var> EDT</small><br /><strong>Investigating</strong> - We are investigating increased latency processing AWS Metrics and Logs.<br />As a result of this issue, some users may see delays or gaps in graphs that contain these metrics or in their log streams.<br />This may result in some spurious alerts on affected metrics and log streams.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Apr 2023 16:58:42 -0400</pubDate>
+<pubDate>Mon, 03 Apr 2023 16:58:42 -0400</pubDate>
+</item>
+<item>
+<title>Backfilling historical data for March 8, 2023 incident</title>
+<link>https://status.datadoghq.com/incidents/nhrdzp86vqtp</link>
+<guid>https://status.datadoghq.com/incidents/nhrdzp86vqtp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>10</var>, <var>00:25</var> EST</small><br /><strong>Resolved</strong> - We have finished backfilling data across all products: all data received during the incident that had been successfully buffered but unprocessed, is now fully accessible on the platform. Due to the nature of this outage, you may see some residual gaps in the data we received within the first few hours after the start of the incident. <br /><br />We truly appreciate your patience and understanding during this incident.</p><p><small>Mar <var> 9</var>, <var>21:10</var> EST</small><br /><strong>Update</strong> - We have completed backfill of data for the following products<br /><br />* Real User Monitoring<br />* Database Monitoring<br />* Network Performance Monitoring<br />* Network Device Monitoring<br /><br />We are now in the process of validating and verifying data across all customers in those products.<br /><br />For other products, we are actively working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>18:04</var> EST</small><br /><strong>Update</strong> - We have also completed backfilling data for the following products:<br /><br />Log Management<br /><br />We are now in the process of validating and verifying data across all customers in those products.<br /><br />For other products, we are actively working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>15:15</var> EST</small><br /><strong>Update</strong> - We have completed backfill of data for APM traces and services, and CI Visibility and are now in the process of validating and verifying data across all customers in those products.<br />For other products, we are actively working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>12:11</var> EST</small><br /><strong>Update</strong> - We've finished monitoring the recovery. All Datadog systems continue to receive, query, and evaluate monitors on live data as normal, while backfill operations continue for historical data.</p><p><small>Mar <var> 9</var>, <var>10:55</var> EST</small><br /><strong>Update</strong> - During the recovery operations, users might have experienced temporary elevated latency and error rates on the web application between 15:30 and 15:46 UTC , specifically for metric queries and APM. We are monitoring recovery now and we are continuing with the backfilling operations.</p><p><small>Mar <var> 9</var>, <var>08:00</var> EST</small><br /><strong>Update</strong> - All Datadog services are now available and able to receive, query, and report on live data. Monitors continue to be evaluated correctly since live data has been restored. Some customers may still observe gaps in historical data for parts of the last 24 hours.<br /><br />We are now working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>07:26</var> EST</small><br /><strong>Update</strong> - Network Performance Management is operational again.<br />Logs Management are generally working, but some users may see transient errors when querying recent data.<br />Monitors continue to be evaluated correctly since live data has been restored.<br /><br />Unless noted otherwise, all Datadog services are now available and able to receive and query live data. Some customers may still observe gaps in historical data for certain products for parts of the last 24 hours. We are now working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>07:08</var> EST</small><br /><strong>Update</strong> - Logs Management and Network Performance Management are generally working, but some users may see transient errors when querying recent data.<br />Monitors continue to be evaluated correctly since live data has been restored.<br /><br />Unless noted otherwise, all Datadog services are now available and able to receive and query live data. Some customers may still observe gaps in historical data for certain products for parts of the last 24 hours. We are now working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>05:09</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Mar <var> 9</var>, <var>04:48</var> EST</small><br /><strong>Update</strong> - Logs Management and Network Performance Management are generally working, but some users may see transient errors when querying recent data.<br />Monitors continue to be evaluated correctly since live data has been restored.<br /><br />Unless noted otherwise, all Datadog services are now available and able to receive and query live data. Some customers may still observe gaps in historical data for certain products for parts of the last 24 hours. We are now working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>03:58</var> EST</small><br /><strong>Monitoring</strong> - Unless noted otherwise, all Datadog services are now available and able to receive and query live data. Some customers may still observe gaps in historical data for certain products for parts of the last 24 hours. We are now working on backfilling data and will provide updates every 2 - 3 hours until the backfill effort is complete and the incident is fully resolved.</p><p><small>Mar <var> 9</var>, <var>03:27</var> EST</small><br /><strong>Update</strong> - A subset of customers might experience transient errors while loading Network Performance Monitoring and Logs Management. The underlying data is still being processed and will be available query once queries are fully operational again. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 9</var>, <var>02:04</var> EST</small><br /><strong>Update</strong> - SLOs are operational. CI Visibility is operational. Profiling recent data is available for queries. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 9</var>, <var>01:31</var> EST</small><br /><strong>Update</strong> - Logs Management is operational, live data and alerting are back to normal. External Archives and Log Forwarding are still delayed. Serverless monitoring is operational. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 9</var>, <var>01:26</var> EST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Mar <var> 9</var>, <var>01:03</var> EST</small><br /><strong>Update</strong> - APM Traces is fully operational. RUM is fully operational. Security Monitoring is fully operational. Database Monitoring is fully operational. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 9</var>, <var>00:19</var> EST</small><br /><strong>Update</strong> - Serverless monitoring is fully operational. Synthetic Monitoring is fully operational. Network Device Monitoring is fully operational. Database Monitoring is fully operational. APM Services is fully operational. Metrics from our cloud provider integrations are available, and Metrics generated from Logs are available. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 8</var>, <var>23:28</var> EST</small><br /><strong>Update</strong> - Live data for Metrics is now available for all customers. We're in the process of enabling metric alerts for some customers for time windows less than 1 hour.<br /><br />We're seeing partial recovery for Network Performance Monitoring. Error Tracking is seeing partial availability, and we're investigating. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 8</var>, <var>22:17</var> EST</small><br /><strong>Update</strong> - We're seeing partial recovery for the Profiling product, as well as metrics from our cloud provider integrations. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 8</var>, <var>21:15</var> EST</small><br /><strong>Update</strong> - Live data for Metrics is now available for most customers. Historical search for APM Traces is operational. Monitors for Logs and Service Checks are operational. We will continue to monitor progress towards recovering the remaining services.</p><p><small>Mar <var> 8</var>, <var>19:54</var> EST</small><br /><strong>Update</strong> - Live data is now available for Logs. We're seeing partial recovery for Security Monitoring. We will continue to monitor progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>18:49</var> EST</small><br /><strong>Update</strong> - Live Search on last 15 mins for APM Traces, and Live Processes is recovered. We will continue to monitor progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>18:21</var> EST</small><br /><strong>Update</strong> - Incident Management is fully operational. We're seeing partial recovery across several products including Serverless and Network Performance Monitoring. These products may have gaps in data and partial limitations based on data available to monitors. We will continue to monitor progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>18:04</var> EST</small><br /><strong>Update</strong> - Logs have live data available on US1 for about 33% of customers. We will continue to monitor progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>17:49</var> EST</small><br /><strong>Update</strong> - We're seeing partial recovery across several products including SLOs, Profiling, WatchDog, Logs. These products may have gaps in data and partial limitations based on data available to monitors. We will continue to monitor progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>17:06</var> EST</small><br /><strong>Update</strong> - Database Monitoring is operational in US1. There may be gaps in historical data. We continue progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>16:21</var> EST</small><br /><strong>Update</strong> - Processes Monitors are operational in US1. There may be gaps in historical metric data. We continue progress towards recovering the remaining services. Data ingestion and monitor notifications remain delayed across non-metric data types.</p><p><small>Mar <var> 8</var>, <var>15:39</var> EST</small><br /><strong>Update</strong> - At 06:00 UTC on March 8th, 2023 the Datadog platform started experiencing widespread issues across multiple products and regions . The web application was unavailable or intermittently loading, and data ingestion & monitor evaluation were delayed. <br /><br />We will share a more detailed analysis post-recovery, but at a very high level:<br />A system update on a number of hosts controlling our compute clusters caused a subset of these hosts to lose network connectivity<br />As a result a number of the corresponding clusters entered unhealthy states and caused failures in a number of the internal services, datastores and applications hosted on these clusters.<br /><br />Our current status is:<br />We identified and mitigated the initial issue, and rebuilt our clusters<br />We also have recovered a number of our applications and services, including our web portals<br />We are now working on recovering and catching-up the rest of our data systems for metrics, traces and logs across the regions that are still affected (see region-specific status pages). The recovery work is currently constrained by the number and large scale of the systems involved.<br /><br />What to expect next:<br />We are focusing on bringing back live data for all customers and all products before catching-up on any historical data we may have stored during the outage<br />We expect live data recovery in a matter of hours (not minutes, and not days)<br />We will continue to issue regular updates as the situation unfolds<br /><br />We understand how critical Datadog is to your business, we sincerely apologize for the inconvenience and we are working hard to resolve this issue.</p><p><small>Mar <var> 8</var>, <var>15:12</var> EST</small><br /><strong>Update</strong> - We are continuing to make progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>14:26</var> EST</small><br /><strong>Update</strong> - We are continuing to make progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>13:42</var> EST</small><br /><strong>Update</strong> - We are continuing to make progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>13:14</var> EST</small><br /><strong>Update</strong> - We are continuing to make progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>12:29</var> EST</small><br /><strong>Update</strong> - We continue progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>11:46</var> EST</small><br /><strong>Update</strong> - We continue progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>11:04</var> EST</small><br /><strong>Update</strong> - We continue progress towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>10:34</var> EST</small><br /><strong>Update</strong> - We are still progressing towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>09:49</var> EST</small><br /><strong>Update</strong> - We are still progressing towards recovering all services. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>09:07</var> EST</small><br /><strong>Update</strong> - Some products are recovering and we are still progressing towards a complete recovery. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>08:30</var> EST</small><br /><strong>Update</strong> - Some products are recovering and we are still progressing towards a complete recovery. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>07:45</var> EST</small><br /><strong>Update</strong> - We are still working on the identified issue and are making continued progress towards recovery. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>07:08</var> EST</small><br /><strong>Update</strong> - We have identified the issue, and are making continued progress towards recovery. Data ingestion and monitor notifications remain delayed across all data types.</p><p><small>Mar <var> 8</var>, <var>06:20</var> EST</small><br /><strong>Identified</strong> - We are seeing reduced error rates for the web application. We are continuing to work on mitigating and investigating the issue causing delayed data ingestion across all data types. Monitor notifications are delayed, and you may observe delayed data throughout the app.</p><p><small>Mar <var> 8</var>, <var>05:31</var> EST</small><br /><strong>Update</strong> - We are seeing reduced error rates for the web application. We are continuing to work on mitigating and investigating the issue causing delayed data ingestion across all data types. Monitor notifications are delayed, and you may observe delayed data throughout the app.</p><p><small>Mar <var> 8</var>, <var>04:39</var> EST</small><br /><strong>Update</strong> - We are continuing to work on mitigating and investigating the issue causing delayed data ingestion across all data types. Monitor notifications are delayed, and you may observe delayed data throughout the app. Additionally, the web application continues to have elevated error rates.</p><p><small>Mar <var> 8</var>, <var>03:52</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 8</var>, <var>03:40</var> EST</small><br /><strong>Update</strong> - We are still investigating issues causing delayed data ingestion across all data types. Monitor notifications may be delayed, and you may observe delayed data throughout the web app.</p><p><small>Mar <var> 8</var>, <var>03:05</var> EST</small><br /><strong>Update</strong> - We are still investigating issues causing delayed data ingestion across all data types. Monitor notifications may be delayed, and you may observe delayed data throughout the web app.</p><p><small>Mar <var> 8</var>, <var>02:23</var> EST</small><br /><strong>Update</strong> - We are investigating issues causing delayed data ingestion across all data types. As a result monitor notifications may be delayed, and you may observe delayed data throughout the web app.</p><p><small>Mar <var> 8</var>, <var>01:31</var> EST</small><br /><strong>Investigating</strong> - We are investigating loading issues on our web application. As a result, some users might be getting errors or increased latency when loading the web application.</p>
+]]></content:encoded>
+<pubDate>Fri, 10 Mar 2023 00:25:54 -0500</pubDate>
+<pubDate>Fri, 10 Mar 2023 00:25:54 -0500</pubDate>
+</item>
+<item>
+<title>GCP metrics delayed</title>
+<link>https://status.datadoghq.com/incidents/7h8cxzqk8s6l</link>
+<guid>https://status.datadoghq.com/incidents/7h8cxzqk8s6l</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 2</var>, <var>07:03</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 2</var>, <var>06:28</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var> 2</var>, <var>05:59</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 2</var>, <var>05:56</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with our metrics collection from Google Cloud Platform.<br />Metrics collected from the Google Cloud Platform may be delayed.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Mar 2023 07:03:58 -0500</pubDate>
+<pubDate>Thu, 02 Mar 2023 07:03:58 -0500</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -103,3 +103,36 @@ Using GitHub Actions to run a simple Python script repeatedly: Calling OpenAI AP
 - https://status.shopify.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Shopify.xml
 - https://status.aws.amazon.com/rss/all.rss -> https://jameslaneovermind.github.io/RSS-GPT/Amazon Web Services.xml
 - https://status.slack.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Slack.xml
+- https://status.datadoghq.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/DatadogHQ.xml
+- https://status.equinix.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Equinix.xml
+- https://status.cloud.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Cloud.xml
+- https://status.adobe.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Adobe.xml
+- https://status.diligent.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Diligent.xml
+- https://status.unity.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Unity.xml
+- https://status.xero.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Xero.xml
+- https://status.infobip.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Infobip.xml
+- https://status.guidewire.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Guidewire.xml
+- https://status.aa.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/AA.xml
+- https://status.elastic.co/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Elastic.xml
+- https://status.adyen.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Adyen.xml
+- https://status.broadcom.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Broadcom.xml
+- https://status.ptc.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/PTC.xml
+- https://status.newrelic.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/New Relic.xml
+- https://status.cloudera.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Cloudera.xml
+- https://status.optum.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Optum.xml
+- https://status.outsystems.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/OutSystems.xml
+- https://status.lightspeedhq.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/LightspeedHQ.xml
+- https://status.ncr.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/NCR.xml
+- https://status.paloaltonetworks.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Palo Alto Networks.xml
+- https://status.robinhood.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Robinhood.xml
+- https://status.morningstar.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Morningstar.xml
+- https://status.salesforce.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Salesforce.xml
+- https://status.atlassian.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Atlassian.xml
+- https://status.meltwater.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Meltwater.xml
+- https://status.nutanix.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Nutanix.xml
+- https://status.bullhorn.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Bullhorn.xml
+- https://status.onepeloton.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Peloton.xml
+- https://status.resideo.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Resideo.xml
+- https://status.rapid7.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Rapid7.xml
+- https://status.datto.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/Datto.xml
+- https://status.payplug.com/history.rss -> https://jameslaneovermind.github.io/RSS-GPT/PayPlug.xml

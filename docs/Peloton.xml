@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Peloton Status - Incident History</title>
+<link>https://status.onepeloton.com</link>
+
+<item>
+<title>no metrics on here now leaderboard</title>
+<link>https://status.onepeloton.com/incidents/402d6fbtynkh</link>
+<guid>https://status.onepeloton.com/incidents/402d6fbtynkh</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue <br><br> Summary: The company is currently investigating an issue and has not yet determined the severity or impact. <div>
+<p><small>Feb <var>22</var>, <var>14:03</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 14:03:08 -0500</pubDate>
+<pubDate>Thu, 22 Feb 2024 14:03:08 -0500</pubDate>
+</item>
+<item>
+<title>Degraded Apple Watch Performance</title>
+<link>https://status.onepeloton.com/incidents/t8k23m0yt4l2</link>
+<guid>https://status.onepeloton.com/incidents/t8k23m0yt4l2</guid>
+<content:encoded><![CDATA[
+<div> [Low] - iOS Update Released <br><br> Summary: The team has released a fix for an issue and advises users to update to the latest version of iOS. They will continue to monitor the situation over the next few days. <div>
+<p><small>Feb <var>21</var>, <var>17:03</var> EST</small><br /><strong>Monitoring</strong> - Team has released a fix for this issue, please update to the latest version of iOS.  Team will monitor over the next few days.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 17:03:55 -0500</pubDate>
+<pubDate>Wed, 21 Feb 2024 17:03:55 -0500</pubDate>
+</item>
+<item>
+<title>Degraded functionality for cadence sensor on iPhone/iPad</title>
+<link>https://status.onepeloton.com/incidents/65fk7n4zd8gl</link>
+<guid>https://status.onepeloton.com/incidents/65fk7n4zd8gl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - iOS Update Released
+Summary: The team has released a fix for an issue and advises users to update to the latest version of iOS. Ongoing monitoring will be conducted over the next few days. <div>
+<p><small>Feb <var>21</var>, <var>17:02</var> EST</small><br /><strong>Monitoring</strong> - Team has released a fix for this issue, please update to the latest version of iOS.  Team will monitor over the next few days.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 17:02:15 -0500</pubDate>
+<pubDate>Wed, 21 Feb 2024 17:02:15 -0500</pubDate>
+</item>
+<item>
+<title>Class Details having issues</title>
+<link>https://status.onepeloton.com/incidents/56fwl4hn6lcq</link>
+<guid>https://status.onepeloton.com/incidents/56fwl4hn6lcq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>14:01</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>13:17</var> EST</small><br /><strong>Update</strong> - Members were unable to join classes from Class Details page from ~1:00pm-1:15pm.  Issue has been resolved, team is monitoring.</p><p><small>Feb <var>21</var>, <var>13:16</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>13:15</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 14:01:26 -0500</pubDate>
+<pubDate>Wed, 21 Feb 2024 14:01:26 -0500</pubDate>
+</item>
+<item>
+<title>Unable to Connect to Facebook to Find Friends and Share Workouts</title>
+<link>https://status.onepeloton.com/incidents/kl9tc4rcnwh3</link>
+<guid>https://status.onepeloton.com/incidents/kl9tc4rcnwh3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>16</var>, <var>10:57</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 17:05:24 -0500</pubDate>
+<pubDate>Wed, 21 Feb 2024 17:05:24 -0500</pubDate>
+</item>
+<item>
+<title>Unable to start a workout</title>
+<link>https://status.onepeloton.com/incidents/04bs6f6fk0tt</link>
+<guid>https://status.onepeloton.com/incidents/04bs6f6fk0tt</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 9</var>, <var>15:22</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>15:22</var> EST</small><br /><strong>Monitoring</strong> - There was an outage for a short duration and we are currently mitigated</p><p><small>Feb <var> 9</var>, <var>15:17</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Fri, 09 Feb 2024 15:22:28 -0500</pubDate>
+<pubDate>Fri, 09 Feb 2024 15:22:28 -0500</pubDate>
+</item>
+<item>
+<title>'Force show error codes disabled!' error cannot be dismissed</title>
+<link>https://status.onepeloton.com/incidents/c26g31wyws1b</link>
+<guid>https://status.onepeloton.com/incidents/c26g31wyws1b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>15:24</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>30</var>, <var>11:21</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix will rollout the week of 2/5. The error does not have any impact on the behavior of the device, and it can be cleared with a power cycle.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 15:24:59 -0500</pubDate>
+<pubDate>Thu, 08 Feb 2024 15:24:59 -0500</pubDate>
+</item>
+<item>
+<title>Row Metrics Delayed</title>
+<link>https://status.onepeloton.com/incidents/42b80pxzv248</link>
+<guid>https://status.onepeloton.com/incidents/42b80pxzv248</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 8</var>, <var>15:23</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>16:54</var> EST</small><br /><strong>Identified</strong> - A fix is under evaluation and expected to roll out the week of 2/5  The team will continue to monitor the issue closely until the issue is resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 15:23:54 -0500</pubDate>
+<pubDate>Thu, 08 Feb 2024 15:23:54 -0500</pubDate>
+</item>
+<item>
+<title>Tread+ | Class Start Problem</title>
+<link>https://status.onepeloton.com/incidents/kxptft6wfngz</link>
+<guid>https://status.onepeloton.com/incidents/kxptft6wfngz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 1</var>, <var>16:53</var> EST</small><br /><strong>Monitoring</strong> - This issue remains mitigated, and the team will be rolling out additional improvements over the course of the next 2 weeks. We will continue to monitor the issue closely until the issue is resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 16:53:00 -0500</pubDate>
+<pubDate>Thu, 01 Feb 2024 16:53:00 -0500</pubDate>
+</item>
+<item>
+<title>LG TV Members Unable to Login</title>
+<link>https://status.onepeloton.com/incidents/7n42hh8rxfqz</link>
+<guid>https://status.onepeloton.com/incidents/7n42hh8rxfqz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 1</var>, <var>15:18</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>15:06</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 1</var>, <var>12:38</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 15:18:07 -0500</pubDate>
+<pubDate>Thu, 01 Feb 2024 15:18:07 -0500</pubDate>
+</item>
+<item>
+<title>Members facing login issue</title>
+<link>https://status.onepeloton.com/incidents/5ynsyd96qmlv</link>
+<guid>https://status.onepeloton.com/incidents/5ynsyd96qmlv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 1</var>, <var>10:18</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>21:39</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>31</var>, <var>21:02</var> EST</small><br /><strong>Update</strong> - We are currently addressing a cascading impact affecting multiple features, resulting from the initial issue with our service provider. Our team is diligently working alongside the provider to implement a fix as swiftly as possible.</p><p><small>Jan <var>31</var>, <var>20:55</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>31</var>, <var>20:49</var> EST</small><br /><strong>Update</strong> - We have identified an issue originating from one of our service providers. Our team is actively working on resolving this as quickly and efficiently as possible.</p><p><small>Jan <var>31</var>, <var>20:40</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 10:18:01 -0500</pubDate>
+<pubDate>Thu, 01 Feb 2024 10:18:01 -0500</pubDate>
+</item>
+<item>
+<title>Member Experience Impacted Across Apps</title>
+<link>https://status.onepeloton.com/incidents/cvh9kh01rbhp</link>
+<guid>https://status.onepeloton.com/incidents/cvh9kh01rbhp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>14:04</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>30</var>, <var>14:04</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>30</var>, <var>13:57</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>30</var>, <var>13:57</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>30</var>, <var>13:49</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 14:04:57 -0500</pubDate>
+<pubDate>Tue, 30 Jan 2024 14:04:57 -0500</pubDate>
+</item>
+<item>
+<title>incorrect-ftp-for-manually-entered-values</title>
+<link>https://status.onepeloton.com/incidents/bc92qmy8st7n</link>
+<guid>https://status.onepeloton.com/incidents/bc92qmy8st7n</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>29</var>, <var>12:30</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>26</var>, <var>08:12</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented for an issue that members saw after manually entering their FTP leading to incorrect FTP values. We are monitoring the results.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 12:30:05 -0500</pubDate>
+<pubDate>Mon, 29 Jan 2024 12:30:05 -0500</pubDate>
+</item>
+<item>
+<title>Android App Issue with OnePlus devices</title>
+<link>https://status.onepeloton.com/incidents/0t4qzg69zldl</link>
+<guid>https://status.onepeloton.com/incidents/0t4qzg69zldl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>16:54</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>23</var>, <var>10:24</var> EST</small><br /><strong>Update</strong> - A new version of the App has begun to roll out to members, please update to the latest version. We will continue to monitor closely.</p><p><small>Jan <var>22</var>, <var>18:13</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>22</var>, <var>17:27</var> EST</small><br /><strong>Update</strong> - The team has identified a fix to the issue that is preventing App Members on OnePlus devices from logging into the App and is planning to rollout of an update tomorrow 1/23</p><p><small>Jan <var>22</var>, <var>17:24</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 16:54:58 -0500</pubDate>
+<pubDate>Tue, 23 Jan 2024 16:54:58 -0500</pubDate>
+</item>
+<item>
+<title>Some members unable to start workout</title>
+<link>https://status.onepeloton.com/incidents/m0fr817kbz8y</link>
+<guid>https://status.onepeloton.com/incidents/m0fr817kbz8y</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>22</var>, <var>20:51</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>22</var>, <var>20:47</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>22</var>, <var>20:29</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jan <var>22</var>, <var>20:25</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 20:51:42 -0500</pubDate>
+<pubDate>Mon, 22 Jan 2024 20:51:42 -0500</pubDate>
+</item>
+<item>
+<title>Tread Touchscreen Sleep Issue</title>
+<link>https://status.onepeloton.com/incidents/kyj2xjymrgqh</link>
+<guid>https://status.onepeloton.com/incidents/kyj2xjymrgqh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>19</var>, <var>13:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 8</var>, <var>14:30</var> EST</small><br /><strong>Update</strong> - A fix for this issue has started rolling out to members. The update will be available to all members on 1/10.</p><p><small>Jan <var> 8</var>, <var>14:29</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>15</var>, <var>14:58</var> EST</small><br /><strong>Update</strong> - Reports of some Tread touchscreens not able to be put to sleep. The cause has been identified and we are testing out a fix. We are targeting a release in early Jan 2024. In the meantime, users may turn off the Tread via the switch on the bottom of the unit as a workaround.</p><p><small>Dec <var>15</var>, <var>14:58</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Jan 2024 13:14:10 -0500</pubDate>
+<pubDate>Fri, 19 Jan 2024 13:14:10 -0500</pubDate>
+</item>
+<item>
+<title>Bike+ FW update getting stuck at 2%</title>
+<link>https://status.onepeloton.com/incidents/q1b58cxp6kjk</link>
+<guid>https://status.onepeloton.com/incidents/q1b58cxp6kjk</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>14:27</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>13:51</var> EST</small><br /><strong>Update</strong> - This issue has been mitigated. A restart of the device will resolve any remaining members who encounter a stuck FW update on their Bike+.</p><p><small>Jan <var> 5</var>, <var>13:49</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var> 5</var>, <var>13:02</var> EST</small><br /><strong>Update</strong> - Reports of some Bike+ seeing SW update stuck at 2%. The team is investigating. If you encounter this issue, please restart the bike. When the update prompt appears, dismiss the prompt. A factory reset will resolve the prompt from reappearing. Note: Your workout data will not be impacted by a factory reset.</p><p><small>Jan <var> 5</var>, <var>13:02</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 14:27:58 -0500</pubDate>
+<pubDate>Mon, 08 Jan 2024 14:27:58 -0500</pubDate>
+</item>
+<item>
+<title>V1 Bike Metrics Reporting Issue</title>
+<link>https://status.onepeloton.com/incidents/mcfwx4kz8hwn</link>
+<guid>https://status.onepeloton.com/incidents/mcfwx4kz8hwn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 4</var>, <var>12:52</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>11:23</var> EST</small><br /><strong>Update</strong> - Reports of some V1 Bike metrics being sensitive and overshooting. Fix is currently being deployed and will be fully deployed on December 21st.</p><p><small>Dec <var>19</var>, <var>11:16</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jan 2024 12:52:04 -0500</pubDate>
+<pubDate>Thu, 04 Jan 2024 12:52:04 -0500</pubDate>
+</item>
+<item>
+<title>iOS App Incident</title>
+<link>https://status.onepeloton.com/incidents/71cks5rpxxrq</link>
+<guid>https://status.onepeloton.com/incidents/71cks5rpxxrq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>19:40</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Dec <var>19</var>, <var>18:57</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>19</var>, <var>18:46</var> EST</small><br /><strong>Update</strong> - We are currently investigating an issue that is preventing members from using the iOS app</p><p><small>Dec <var>19</var>, <var>18:46</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 19:40:06 -0500</pubDate>
+<pubDate>Tue, 19 Dec 2023 19:40:06 -0500</pubDate>
+</item>
+<item>
+<title>Elevated errors with Peloton-Profile/Workout-History-(members.onepeloton.com)---Member-Facing</title>
+<link>https://status.onepeloton.com/incidents/cdqb5pxthc18</link>
+<guid>https://status.onepeloton.com/incidents/cdqb5pxthc18</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>09:41</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>09:39</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>19</var>, <var>09:32</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Peloton-Profile/Workout-History-(members.onepeloton.com)---Member-Facing</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 09:41:07 -0500</pubDate>
+<pubDate>Tue, 19 Dec 2023 09:41:07 -0500</pubDate>
+</item>
+<item>
+<title>Elevated errors with Peloton-Profile/Workout-History-(members.onepeloton.com)---Member-Facing</title>
+<link>https://status.onepeloton.com/incidents/fwj6p3g8jm0j</link>
+<guid>https://status.onepeloton.com/incidents/fwj6p3g8jm0j</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>13</var>, <var>16:41</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. We apologize for any interruption to your workout.</p><p><small>Dec <var>13</var>, <var>14:42</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p><p><small>Dec <var>13</var>, <var>14:28</var> EST</small><br /><strong>Update</strong> - All services are healthy and operational across all platforms. Incident is considered resolved.</p><p><small>Dec <var>13</var>, <var>14:13</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>13</var>, <var>14:00</var> EST</small><br /><strong>Update</strong> - Recovery in progress. Will continue to monitor.</p><p><small>Dec <var>13</var>, <var>13:43</var> EST</small><br /><strong>Update</strong> - Seeing reoccurrence of underlying issue across platforms - investigation in progress.</p><p><small>Dec <var>13</var>, <var>13:26</var> EST</small><br /><strong>Update</strong> - Cause identified - starting to see recovery across all platforms. Will continue to monitor.</p><p><small>Dec <var>13</var>, <var>13:15</var> EST</small><br /><strong>Update</strong> - Currently seeing degraded experiences across App, Bike, Tread and Row. Investigation in progress.</p><p><small>Dec <var>13</var>, <var>12:48</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Peloton-Profile/Workout-History-(members.onepeloton.com)---Member-Facing</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Dec 2023 16:41:02 -0500</pubDate>
+<pubDate>Wed, 13 Dec 2023 16:41:02 -0500</pubDate>
+</item>
+<item>
+<title>Elevated errors with Live-Classes---Member-Facing</title>
+<link>https://status.onepeloton.com/incidents/b9wcx4m6t3kv</link>
+<guid>https://status.onepeloton.com/incidents/b9wcx4m6t3kv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>23</var>, <var>11:07</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. We apologize for any interruption to your workout.</p><p><small>Nov <var>23</var>, <var>11:07</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>23</var>, <var>11:04</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p><p><small>Nov <var>23</var>, <var>10:50</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var>23</var>, <var>10:33</var> EST</small><br /><strong>Identified</strong> - We are seeing improvements to Live Classes allowing Members to join the live class and are investigating issues with the live leaderboard. We apologize for any interruption to your workout.</p><p><small>Nov <var>23</var>, <var>10:24</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p><p><small>Nov <var>23</var>, <var>10:22</var> EST</small><br /><strong>Identified</strong> - We are seeing improvements to Live Classes allowing Members to join the live class. We are continuing to monitor.</p><p><small>Nov <var>23</var>, <var>10:08</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Live-Classes---Member-Facing</p>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 11:07:43 -0500</pubDate>
+<pubDate>Thu, 23 Nov 2023 11:07:43 -0500</pubDate>
+</item>
+<item>
+<title>Elevated errors with Home page</title>
+<link>https://status.onepeloton.com/incidents/37cs7q5fyt63</link>
+<guid>https://status.onepeloton.com/incidents/37cs7q5fyt63</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 4</var>, <var>12:29</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 4</var>, <var>12:05</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 4</var>, <var>11:33</var> EDT</small><br /><strong>Update</strong> - We are now seeing a recovery on majority of our critical services and are working on the rest.</p><p><small>Nov <var> 4</var>, <var>11:20</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var> 4</var>, <var>10:38</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Home page</p>
+]]></content:encoded>
+<pubDate>Sat, 04 Nov 2023 12:29:17 -0400</pubDate>
+<pubDate>Sat, 04 Nov 2023 12:29:17 -0400</pubDate>
+</item>
+<item>
+<title>Mitigated: Slowness on Devices &amp; App</title>
+<link>https://status.onepeloton.com/incidents/rkr7h77g0n4w</link>
+<guid>https://status.onepeloton.com/incidents/rkr7h77g0n4w</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 2</var>, <var>17:43</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 2</var>, <var>16:35</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Nov <var> 2</var>, <var>15:52</var> EDT</small><br /><strong>Update</strong> - We are continuing to work on recovering our services</p><p><small>Nov <var> 2</var>, <var>14:49</var> EDT</small><br /><strong>Update</strong> - We have reverted a change and are seeing a partial recovery. Continuing to monitor the systems.</p><p><small>Nov <var> 2</var>, <var>13:52</var> EDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 2</var>, <var>13:31</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Nov 2023 17:43:56 -0400</pubDate>
+<pubDate>Thu, 02 Nov 2023 17:43:56 -0400</pubDate>
+</item>
+<item>
+<title>Elevated errors with Authentication - All Clients: Member-Facing</title>
+<link>https://status.onepeloton.com/incidents/ychp557rnrvh</link>
+<guid>https://status.onepeloton.com/incidents/ychp557rnrvh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>30</var>, <var>18:08</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Oct <var>30</var>, <var>16:39</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Oct <var>30</var>, <var>16:23</var> EDT</small><br /><strong>Identified</strong> - The issue has been identified and a path to resolution is being worked on.</p><p><small>Oct <var>30</var>, <var>16:22</var> EDT</small><br /><strong>Update</strong> - We have pinpointed an issue associated with one of our service providers and are currently collaborating with them to implement a solution.</p><p><small>Oct <var>30</var>, <var>16:09</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating an issue with All Clients: Member-Facing</p>
+]]></content:encoded>
+<pubDate>Mon, 30 Oct 2023 18:08:51 -0400</pubDate>
+<pubDate>Mon, 30 Oct 2023 18:08:51 -0400</pubDate>
+</item>
+
+</channel>
+</rss>

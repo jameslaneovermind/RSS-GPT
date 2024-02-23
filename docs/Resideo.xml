@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Resideo Status - Incident History</title>
+<link>https://status.resideo.com</link>
+
+<item>
+<title>Cellular Communicators &amp; TC2 Services</title>
+<link>https://status.resideo.com/incidents/lkhkd8wmx9ls</link>
+<guid>https://status.resideo.com/incidents/lkhkd8wmx9ls</guid>
+<content:encoded><![CDATA[
+<div> High - Service Outage
+Summary: All services have been restored after a critical outage caused disruption to our systems. <div>
+<p><small>Feb <var>22</var>, <var>23:10</var> UTC</small><br /><strong>Investigating</strong> - All Services have been restored</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 23:10:20 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 23:10:20 +0000</pubDate>
+</item>
+<item>
+<title>Cellular Communicators &amp; TC2 Services</title>
+<link>https://status.resideo.com/incidents/nv57g1c8y8jb</link>
+<guid>https://status.resideo.com/incidents/nv57g1c8y8jb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Cellular Outage in the United States <br><br> Summary: Cellular outage with major US carriers may impact AlarmNet and TC2 Remote connections.
+[Medium] - Service Restoration <br><br> Summary: All services have been restored following the cellular outage. <div>
+<p><small>Feb <var>22</var>, <var>23:03</var> UTC</small><br /><strong>Resolved</strong> - All Services have now been restored.</p><p><small>Feb <var>22</var>, <var>15:52</var> UTC</small><br /><strong>Update</strong> - A cellular outage in the United States was reported by AT&amp;T users early on February 22nd, 2024 which potentially will affect AlarmNet Cellular Communicators and Services.</p><p><small>Feb <var>22</var>, <var>12:00</var> UTC</small><br /><strong>Investigating</strong> - A cellular outage in the United States was reported by AT&amp;T, T-Mobile, Verizon and other network users early on February 22nd, 2024 which potentially will affect AlarmNet Cellular Communicators, TC2 Remote connections and PSD status messages.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 23:03:27 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 23:03:27 +0000</pubDate>
+</item>
+<item>
+<title>AlarmNet/TC2</title>
+<link>https://status.resideo.com/incidents/950x7c9k8w25</link>
+<guid>https://status.resideo.com/incidents/950x7c9k8w25</guid>
+<content:encoded><![CDATA[
+<div> [High] - AlarmNet Issue impacting Network Connectivity and Total Connect 2.0 Functionality <br><br> Summary: Some ProSeries & LTEMP LTE AT&T communicators may experience signaling issues impacting Central Station communication. This issue is being worked on for immediate resolution.
+
+[Medium] - AlarmNet Issue impacting Network Connectivity and Total Connect 2.0 Functionality <br><br> Summary: A small number of ProSeries & LTEMP LTE AT&T communicators may experience signaling issues which could result in a communication failure message generated to Central Station. This issue is being worked w/ AT&T for immediate resolution.
+
+[Low] - AlarmNet Issue impacting Network Connectivity and Total Connect 2.0 Functionality <br><br> Summary: All services are running normally. <div>
+<p><small>Feb <var>14</var>, <var>21:32</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally.</p><p><small>Feb <var>14</var>, <var>20:21</var> UTC</small><br /><strong>Update</strong> - A small number of ProSeries & LTEMP LTE AT&amp;T communicators may experience signaling issues which could result in a communication failure message generated to Central Station.<br />This issue is being worked w/ AT&amp;T for immediate resolution.</p><p><small>Feb <var>14</var>, <var>17:41</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting network connectivity and Total Connect 2.0 functionality. This may impact end user's remote capability. We appreciate your patience while we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 21:32:57 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 21:32:57 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/8ydsnxchczw9</link>
+<guid>https://status.resideo.com/incidents/8ydsnxchczw9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 1</var>, <var>08:10</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Feb <var> 1</var>, <var>05:35</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 08:10:44 +0000</pubDate>
+<pubDate>Thu, 01 Feb 2024 08:10:44 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/6yyf59bz3n3s</link>
+<guid>https://status.resideo.com/incidents/6yyf59bz3n3s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>06:36</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var>30</var>, <var>04:45</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 06:36:42 +0000</pubDate>
+<pubDate>Tue, 30 Jan 2024 06:36:42 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/btg8ytt49q26</link>
+<guid>https://status.resideo.com/incidents/btg8ytt49q26</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>29</var>, <var>08:38</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var>29</var>, <var>04:55</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 08:38:45 +0000</pubDate>
+<pubDate>Mon, 29 Jan 2024 08:38:45 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/446fclv3d5t4</link>
+<guid>https://status.resideo.com/incidents/446fclv3d5t4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>23</var>, <var>07:22</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var>23</var>, <var>04:50</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jan 2024 07:22:39 +0000</pubDate>
+<pubDate>Tue, 23 Jan 2024 07:22:39 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/c7cs5rs5kyvf</link>
+<guid>https://status.resideo.com/incidents/c7cs5rs5kyvf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>22</var>, <var>07:01</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var>22</var>, <var>05:01</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 07:01:41 +0000</pubDate>
+<pubDate>Mon, 22 Jan 2024 07:01:41 +0000</pubDate>
+</item>
+<item>
+<title>Total Connect 2.0</title>
+<link>https://status.resideo.com/incidents/xq52dymbd55f</link>
+<guid>https://status.resideo.com/incidents/xq52dymbd55f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>16</var>, <var>00:04</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally.</p><p><small>Jan <var>15</var>, <var>16:00</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting the Total Connect 2.0 functionality. We appreciate your patience while we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 16 Jan 2024 00:04:58 +0000</pubDate>
+<pubDate>Tue, 16 Jan 2024 00:04:58 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/9qqczynz372m</link>
+<guid>https://status.resideo.com/incidents/9qqczynz372m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>06:12</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var> 8</var>, <var>04:51</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 06:12:06 +0000</pubDate>
+<pubDate>Mon, 08 Jan 2024 06:12:06 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/y6mctktx6mn5</link>
+<guid>https://status.resideo.com/incidents/y6mctktx6mn5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 4</var>, <var>09:02</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var> 4</var>, <var>04:47</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jan 2024 09:02:30 +0000</pubDate>
+<pubDate>Thu, 04 Jan 2024 09:02:30 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/52f3vgl90yyb</link>
+<guid>https://status.resideo.com/incidents/52f3vgl90yyb</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 3</var>, <var>06:17</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Jan <var> 3</var>, <var>04:57</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Jan 2024 06:17:32 +0000</pubDate>
+<pubDate>Wed, 03 Jan 2024 06:17:32 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/qynfrqpzlfml</link>
+<guid>https://status.resideo.com/incidents/qynfrqpzlfml</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>21</var>, <var>09:08</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Dec <var>21</var>, <var>04:46</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Dec 2023 09:08:54 +0000</pubDate>
+<pubDate>Thu, 21 Dec 2023 09:08:54 +0000</pubDate>
+</item>
+<item>
+<title>Total Connect 2.0</title>
+<link>https://status.resideo.com/incidents/t96vfh0z2jtv</link>
+<guid>https://status.resideo.com/incidents/t96vfh0z2jtv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>20</var>, <var>22:51</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally</p><p><small>Dec <var>20</var>, <var>20:45</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting the Total Connect 2.0 functionality. This may impact end user's remote capability. Please log into the AN360 web site for more details. We appreciate your patience while we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Dec 2023 22:51:33 +0000</pubDate>
+<pubDate>Wed, 20 Dec 2023 22:51:33 +0000</pubDate>
+</item>
+<item>
+<title>AlarmNet 360</title>
+<link>https://status.resideo.com/incidents/w4vpjg94xxy3</link>
+<guid>https://status.resideo.com/incidents/w4vpjg94xxy3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>16:47</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally</p><p><small>Dec <var>19</var>, <var>15:23</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting AN360 functionality. Please log into the AN360 web site for more details. We appreciate your patience as we work to resolve this issue.<br />ALARM DELIVERY SERVICES ARE NOT IMPACTED.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 16:47:22 +0000</pubDate>
+<pubDate>Tue, 19 Dec 2023 16:47:22 +0000</pubDate>
+</item>
+<item>
+<title>Total Connect Comfort (TCC) Mobile app</title>
+<link>https://status.resideo.com/incidents/pnvycvbhmykd</link>
+<guid>https://status.resideo.com/incidents/pnvycvbhmykd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>16:26</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally.</p><p><small>Dec <var>19</var>, <var>15:52</var> UTC</small><br /><strong>Investigating</strong> - We are aware some of our customers are experiencing issues with our application. Your device can still be controlled via the TCC web portal (mytotalconnectcomfort.com), or used directly. We apologize for any inconvenience this may have caused.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 16:26:49 +0000</pubDate>
+<pubDate>Tue, 19 Dec 2023 16:26:49 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/5w6k0p8n170h</link>
+<guid>https://status.resideo.com/incidents/5w6k0p8n170h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>19</var>, <var>07:19</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Dec <var>19</var>, <var>04:48</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 07:19:55 +0000</pubDate>
+<pubDate>Tue, 19 Dec 2023 07:19:55 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/3mzgynb0y3px</link>
+<guid>https://status.resideo.com/incidents/3mzgynb0y3px</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>18</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Dec <var>18</var>, <var>10:59</var> UTC</small><br /><strong>Update</strong> - All services are running normally.</p><p><small>Dec <var>18</var>, <var>09:44</var> UTC</small><br /><strong>Update</strong> - We are aware some of our customers are experiencing issues with our application. Your device can still be used directly. We apologize for any inconvenience this may have caused.</p><p><small>Dec <var>18</var>, <var>05:43</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 11:00:00 +0000</pubDate>
+<pubDate>Mon, 18 Dec 2023 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Total Connect 2.0</title>
+<link>https://status.resideo.com/incidents/mgrnx338r589</link>
+<guid>https://status.resideo.com/incidents/mgrnx338r589</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>14</var>, <var>19:18</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally</p><p><small>Dec <var>14</var>, <var>18:44</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting the Total Connect 2.0 functionality. This may impact end user's remote capability. Please log into the AN360 web site for more details. We appreciate your patience while we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Dec 2023 19:18:55 +0000</pubDate>
+<pubDate>Thu, 14 Dec 2023 19:18:55 +0000</pubDate>
+</item>
+<item>
+<title>AlarmNet 360</title>
+<link>https://status.resideo.com/incidents/wgg77g32n4b5</link>
+<guid>https://status.resideo.com/incidents/wgg77g32n4b5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>14</var>, <var>15:07</var> UTC</small><br /><strong>Resolved</strong> - All services are operational.</p><p><small>Dec <var>14</var>, <var>14:31</var> UTC</small><br /><strong>Update</strong> - All services are running normally</p><p><small>Dec <var>13</var>, <var>16:47</var> UTC</small><br /><strong>Identified</strong> - AlarmNet is experiencing some issues impacting AN360 functionality. Please log into the AN360 web site for more details. We appreciate your patience as we work to resolve this issue.<br />ALARM DELIVERY SERVICES ARE NOT IMPACTED.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Dec 2023 15:07:40 +0000</pubDate>
+<pubDate>Thu, 14 Dec 2023 15:07:40 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/wtd7swjpymrf</link>
+<guid>https://status.resideo.com/incidents/wtd7swjpymrf</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>11</var>, <var>19:54</var> UTC</small><br /><strong>Resolved</strong> - All services are running normally.</p><p><small>Dec <var>11</var>, <var>16:21</var> UTC</small><br /><strong>Investigating</strong> - We are aware some of our customers are experiencing issues with our application. Your device can still be used directly. We apologize for any inconvenience this may have caused.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Dec 2023 19:54:45 +0000</pubDate>
+<pubDate>Mon, 11 Dec 2023 19:54:45 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/7g4x6q4zmdlr</link>
+<guid>https://status.resideo.com/incidents/7g4x6q4zmdlr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 6</var>, <var>08:24</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Dec <var> 6</var>, <var>04:47</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Dec 2023 08:24:27 +0000</pubDate>
+<pubDate>Wed, 06 Dec 2023 08:24:27 +0000</pubDate>
+</item>
+<item>
+<title>Total Connect 2.0</title>
+<link>https://status.resideo.com/incidents/5vnndr6zltpy</link>
+<guid>https://status.resideo.com/incidents/5vnndr6zltpy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>16:23</var> UTC</small><br /><strong>Resolved</strong> - Systems are operational.</p><p><small>Dec <var> 5</var>, <var>16:14</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting the Total Connect 2.0 functionality. This may affect your end user's remote capability. Ability to connect/control via TC2 impacted.<br />ALARM DELIVERY SERVICES ARE NOT IMPACTED.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 16:23:06 +0000</pubDate>
+<pubDate>Tue, 05 Dec 2023 16:23:06 +0000</pubDate>
+</item>
+<item>
+<title>AlarmNet 360</title>
+<link>https://status.resideo.com/incidents/7x3yzhf7kj34</link>
+<guid>https://status.resideo.com/incidents/7x3yzhf7kj34</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>15:19</var> UTC</small><br /><strong>Resolved</strong> - AN360 operational.<br />This outage posted as AN360 in error, was TC2.</p><p><small>Dec <var> 5</var>, <var>14:52</var> UTC</small><br /><strong>Investigating</strong> - AlarmNet is experiencing some issues impacting AN360 functionality. Please log into the AN360 web site for more details at https://services.alarmnet.com. We appreciate your patience as we work to resolve this issue.<br />Arm/Disarm affected.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 15:19:35 +0000</pubDate>
+<pubDate>Tue, 05 Dec 2023 15:19:35 +0000</pubDate>
+</item>
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/g8p7fqgs42j0</link>
+<guid>https://status.resideo.com/incidents/g8p7fqgs42j0</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>09:09</var> UTC</small><br /><strong>Completed</strong> - All services are running normally.</p><p><small>Dec <var> 5</var>, <var>04:52</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 09:09:13 +0000</pubDate>
+<pubDate>Tue, 05 Dec 2023 09:09:13 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

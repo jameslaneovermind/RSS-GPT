@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:00.753376
+Existing_entries: 0
+Fetching from https://status.xero.com/history.rss
+Token length: 730
+Summarized using GPT-3.5-turbo-1106
+Append: [Global: Reports - Customers are unable to load Reports](https://status.xero.com/incidents/c6y8rpgtqt2y)
+Token length: 633
+Summarized using GPT-3.5-turbo-1106
+Append: [NZ and AU: Xero Tax - Customers may be experiencing intermittent errors](https://status.xero.com/incidents/7ms13cw0x3s9)
+Token length: 584
+Summarized using GPT-3.5-turbo-1106
+Append: [Global: XPM - Customers may be unable to access XPM](https://status.xero.com/incidents/48hjd39t1lxz)
+Append: [AU: AU Tax - Customers unable to access PLS/ELS Management](https://status.xero.com/incidents/r101cgf3gx55)
+Append: [HMRC system maintenance](https://status.xero.com/incidents/tgyjrd4f27sj)
+Append: [Global: Xero Practice Manager - Performance issues](https://status.xero.com/incidents/km4mg4r86dj5)
+Append: [Hubdoc - some customers currently experiencing issues](https://status.xero.com/incidents/xggz299781zn)
+Append: [Global: XPM & Xero HQ - Degraded Performance](https://status.xero.com/incidents/mmvrxq65yxk5)
+Append: [Xero HQ - changes to client access are delayed](https://status.xero.com/incidents/p8qw5nmy6yky)
+Append: [AU: BAS - Activity Statement Issues](https://status.xero.com/incidents/c5qnrjk3935y)
+Append: [Expenses System Maintenance](https://status.xero.com/incidents/svpm6mnvrfwf)
+Append: [Global: Fixed Assets - Errors when running depreciation](https://status.xero.com/incidents/yjb4t3c6vmr6)
+Append: [Global: Fixed Assets - Some users may experience performance issues](https://status.xero.com/incidents/dv7038y40cpn)
+Append: [Global: XPM - Customers may experience a delay in receiving XPM email invites](https://status.xero.com/incidents/rbhjhbg9s1vy)
+Append: [Global: Reporting - some users are experiencing performance issues](https://status.xero.com/incidents/913kly8r5348)
+Append: [WorkflowMax: Some customers unable to use global search](https://status.xero.com/incidents/w5r7qjzhmyh1)
+Append: [Global: Xero - Some customers may be experiencing errors and slowness across Xero](https://status.xero.com/incidents/sdhmcjx7d5qh)
+Append: [Customers may be experiencing errors and slowness across Xero](https://status.xero.com/incidents/thz6brbv9q03)
+Append: [Global: Xero - Some customers may be receiving errors messages](https://status.xero.com/incidents/5b9n1msrp1vn)
+Append: [Xero Billing - Payment details: Some users unable to update](https://status.xero.com/incidents/yjnltz6m6skd)
+Append: [Hubdoc system maintenance](https://status.xero.com/incidents/mhkb0v8fjxql)
+Append: [AU: AU Tax returns stuck in submitted state](https://status.xero.com/incidents/37g547kkk7tk)
+Append: [Global: Xero Central - Some customers are unable to raise cases](https://status.xero.com/incidents/sl6wvt8z27yc)
+Append: [Expenses - Some users are unable to create new expense claims](https://status.xero.com/incidents/5pwmfnxnvh23)
+Append: [Global: Reporting - Customers unable to access reporting in Xero](https://status.xero.com/incidents/j8hjmdymnvn2)
+append_entries: 25
+Finish: 2024-02-23 11:36:04.444312

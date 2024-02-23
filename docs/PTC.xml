@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Atlas Status Page Status - Incident History</title>
+<link>https://status.ptc.com</link>
+
+<item>
+<title>Blank page after login to ptc atlas portal</title>
+<link>https://status.ptc.com/incidents/gmcbncln3j58</link>
+<guid>https://status.ptc.com/incidents/gmcbncln3j58</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Blank Page Issue <br><br> Summary: The company is currently investigating an issue causing a blank page to appear after logging into the PTC Atlas portal. A fix has been implemented and they are monitoring the results. <div>
+<p><small>Jan <var>25</var>, <var>15:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>25</var>, <var>15:06</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results</p><p><small>Jan <var>25</var>, <var>14:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue which is causing a blank page to appear after logging into the ptc atlas portal.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 Jan 2024 15:11:20 +0000</pubDate>
+<pubDate>Thu, 25 Jan 2024 15:11:20 +0000</pubDate>
+</item>
+<item>
+<title>Planned PTC platform maintenance</title>
+<link>https://status.ptc.com/incidents/g1p25808p853</link>
+<guid>https://status.ptc.com/incidents/g1p25808p853</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br><br> Summary: The scheduled maintenance has been completed.
+[Low] - Scheduled Maintenance <br><br> Summary: Scheduled maintenance is currently in progress.
+[Low] - Scheduled Maintenance <br><br> Summary: We will be undergoing scheduled maintenance during this time.
+
+ <div>
+<p><small>Aug <var>30</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>30</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var> 8</var>, <var>13:03</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time. Affected components will be unavailable during this window of time.</p><p><small>Aug <var> 8</var>, <var>12:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance on our system during this time. Affected components will be unavailable during this window of time.</p>
+]]></content:encoded>
+<pubDate>Wed, 30 Aug 2023 10:00:08 +0000</pubDate>
+<pubDate>Wed, 30 Aug 2023 10:00:08 +0000</pubDate>
+</item>
+<item>
+<title>Planned Creo+ maintenance</title>
+<link>https://status.ptc.com/incidents/g9s6kd7mrh5n</link>
+<guid>https://status.ptc.com/incidents/g9s6kd7mrh5n</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br><br> Summary: The scheduled maintenance has been completed. <div>
+<p><small>Apr <var>20</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>20</var>, <var>10:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>11</var>, <var>08:29</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Apr 2023 11:00:10 +0000</pubDate>
+<pubDate>Thu, 20 Apr 2023 11:00:10 +0000</pubDate>
+</item>
+<item>
+<title>Planned ptc atlas platform maintenance</title>
+<link>https://status.ptc.com/incidents/l0ww4wmzph56</link>
+<guid>https://status.ptc.com/incidents/l0ww4wmzph56</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>20</var>, <var>10:15</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>20</var>, <var>10:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var>19</var>, <var>15:15</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time to modify our identity provider configuration. Users may need to refresh their browser window during this time; no downtime is expected.</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Apr 2023 10:15:12 +0000</pubDate>
+<pubDate>Thu, 20 Apr 2023 10:15:12 +0000</pubDate>
+</item>
+<item>
+<title>dev test environment UI currently down</title>
+<link>https://status.ptc.com/incidents/3jshgh6hm52x</link>
+<guid>https://status.ptc.com/incidents/3jshgh6hm52x</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 8</var>, <var>14:36</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>14:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Dec <var> 8</var>, <var>14:20</var> UTC</small><br /><strong>Identified</strong> - we are currently working on this</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Dec 2022 14:36:02 +0000</pubDate>
+<pubDate>Thu, 08 Dec 2022 14:36:02 +0000</pubDate>
+</item>
+<item>
+<title>EC-CORE and UI down</title>
+<link>https://status.ptc.com/incidents/qqxn2qjpl571</link>
+<guid>https://status.ptc.com/incidents/qqxn2qjpl571</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>18</var>, <var>20:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>18</var>, <var>19:29</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Nov <var>18</var>, <var>19:28</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Nov 2022 20:28:18 +0000</pubDate>
+<pubDate>Fri, 18 Nov 2022 20:28:18 +0000</pubDate>
+</item>
+<item>
+<title>EC CORE AND UI DOWN</title>
+<link>https://status.ptc.com/incidents/wg77skh7kc0b</link>
+<guid>https://status.ptc.com/incidents/wg77skh7kc0b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>19</var>, <var>19:23</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>19</var>, <var>19:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>19</var>, <var>19:18</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Sep 2022 19:23:51 +0000</pubDate>
+<pubDate>Mon, 19 Sep 2022 19:23:51 +0000</pubDate>
+</item>
+<item>
+<title>Visualization Content Services - Not processing jobs</title>
+<link>https://status.ptc.com/incidents/89l22bx9bjjq</link>
+<guid>https://status.ptc.com/incidents/89l22bx9bjjq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>21</var>, <var>13:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>21</var>, <var>13:10</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>21</var>, <var>12:55</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 21 Mar 2022 13:27:36 +0000</pubDate>
+<pubDate>Mon, 21 Mar 2022 13:27:36 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

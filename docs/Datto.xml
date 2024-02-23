@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Datto Status - Incident History</title>
+<link>https://status.datto.com</link>
+
+<item>
+<title>Datto RMM - Pinotage (EU1) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/zl68g8rbk4j2</link>
+<guid>https://status.datto.com/incidents/zl68g8rbk4j2</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Datto RMM 12.8.0 Release <br><br> Summary: Datto RMM 12.8.0 Release is scheduled, expect disconnection of the agent during the update window. For full details, check the release notes on the provided link. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>18:00</var> - <var>21:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 18:00:00 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto RMM - Vidal (US East) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/ftry2r42ccwh</link>
+<guid>https://status.datto.com/incidents/ftry2r42ccwh</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Datto RMM 12.8.0 Release
+Summary: Datto RMM 12.8.0 Release is scheduled, and partners should expect agent disconnection during the update window. For full details, refer to the release notes provided. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>09:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AU01 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/jk35fbhmxphc</link>
+<guid>https://status.datto.com/incidents/jk35fbhmxphc</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Database Server Maintenance <br><br> Summary: Scheduled maintenance on database servers will cause up to 5 minute interruptions in service. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>14:00</var> - <var>14:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:56</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 14:00:00 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AE01, AE02, AE03, AW01, AW02, AW03 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/dyst5qm4pvhy</link>
+<guid>https://status.datto.com/incidents/dyst5qm4pvhy</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>03:00</var> - <var>03:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:55</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 03:00:00 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - EU1 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/cq64xr0s85g1</link>
+<guid>https://status.datto.com/incidents/cq64xr0s85g1</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>21:00</var> - <var>21:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:54</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 21:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto RMM - Merlot (EU2) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/49f617xscxqw</link>
+<guid>https://status.datto.com/incidents/49f617xscxqw</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>18:00</var> - <var>21:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 18:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AU01, AU02 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/ycs0hskkbpgc</link>
+<guid>https://status.datto.com/incidents/ycs0hskkbpgc</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>14:00</var> - <var>14:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:52</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 14:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto RMM - Concord (US East) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/ly6xdjl3k9mn</link>
+<guid>https://status.datto.com/incidents/ly6xdjl3k9mn</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>09:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 09:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AE01, AE02, AE03, AW01, AW02, LR01, - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/mnsnx9hq434q</link>
+<guid>https://status.datto.com/incidents/mnsnx9hq434q</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>03:00</var> - <var>03:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:51</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 03:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - EU1 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/6dwnkqwn5r5j</link>
+<guid>https://status.datto.com/incidents/6dwnkqwn5r5j</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:00</var> - <var>21:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:49</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AU01 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/q628lnppps4q</link>
+<guid>https://status.datto.com/incidents/q628lnppps4q</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>14:00</var> - <var>14:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:48</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 14:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto RMM - Zinfandel (US West) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/bmmvwhr2y783</link>
+<guid>https://status.datto.com/incidents/bmmvwhr2y783</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>09:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:46</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 09:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AE01, AE02, AW01, AW02, AW03 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/1hhyfs9krxmg</link>
+<guid>https://status.datto.com/incidents/1hhyfs9krxmg</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>03:00</var> - <var>03:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:47</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 03:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - DE1, EU1 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/trmjnjxhn6w0</link>
+<guid>https://status.datto.com/incidents/trmjnjxhn6w0</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>21:00</var> - <var>21:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:45</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto SaaS Protection - Application Maintenance For Singapore Region</title>
+<link>https://status.datto.com/incidents/jr1vsr2rflg4</link>
+<guid>https://status.datto.com/incidents/jr1vsr2rflg4</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>15:29</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection in the Singapore region on February 27th 2024, starting at 2:00PM UTC for an estimated 6 hours.<br /><br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 14:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AU01 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/pgfqg71fg0md</link>
+<guid>https://status.datto.com/incidents/pgfqg71fg0md</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>14:00</var> - <var>14:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:44</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 14:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - AE01, AE02, AW01, AW02, ES01, LR01 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/gvgznvp9mf6y</link>
+<guid>https://status.datto.com/incidents/gvgznvp9mf6y</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>03:00</var> - <var>03:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:42</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 03:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - DE1, EU1 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/nw98xmg3drm4</link>
+<guid>https://status.datto.com/incidents/nw98xmg3drm4</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>21:00</var> - <var>21:05</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:40</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect up to 5 minute interruptions in service.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 21:00:00 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto RMM - Syrah (APAC) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/9mkbqm50sskv</link>
+<guid>https://status.datto.com/incidents/9mkbqm50sskv</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>10:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>10:44</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 10:00:00 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - EU1 - Database Server Maintenance</title>
+<link>https://status.datto.com/incidents/rpkqnxnh0n9n</link>
+<guid>https://status.datto.com/incidents/rpkqnxnh0n9n</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>14:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>21:44</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our database servers.<br /><br />Impact:  Customers can expect a brief (up to 5 minute) interruption in service.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 14:00:00 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto Cloud Storage Server Maintenance</title>
+<link>https://status.datto.com/incidents/5s54p5nkw8km</link>
+<guid>https://status.datto.com/incidents/5s54p5nkw8km</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>04:00</var> UTC &nbsp;-&nbsp; Feb <var>26</var>, <var>04:00</var> UTC</strong></p><p><small>Feb <var> 6</var>, <var>14:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to the Datto Cloud Storage Nodes starting on Saturday 02/24 - Sunday 02/25<br /><br /> <br /><br />During this downtime you may experience an impact to systems and related services to Off-site Synchronization and Cloud Restore options<br /><br /> <br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 04:00:00 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 04:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - UK2 - Outage for Migration</title>
+<link>https://status.datto.com/incidents/91wqgyqnc4cg</link>
+<guid>https://status.datto.com/incidents/91wqgyqnc4cg</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>21:00</var> UTC &nbsp;-&nbsp; Feb <var>24</var>, <var>03:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>07:57</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: Autotask will be migrating to a new data center during the month of February 2024. We are excited to announce that this is a proactive move to upgrade to the latest infrastructure which will allow us to provide you with faster, more secure, and more reliable service.<br /><br />Impact:  When the zone in which your tenant is hosted is being migrated, the Autotask platform will be unavailable and you will not be able to access any of the services provided by Autotask including LiveMobile, API access (including integrations built by third-party vendors), data warehouse, as well as any other auxiliary components.<br /><br />Please refer to the following community link for more details:<br />https://community.kaseya.com/help-learning/discussion/69108/notice-for-upcoming-autotask-uk-data-center-migration</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 21:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 21:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - All Zones - Data Warehouse Server Maintenance</title>
+<link>https://status.datto.com/incidents/0dyt3jnpc43n</link>
+<guid>https://status.datto.com/incidents/0dyt3jnpc43n</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>19:00</var> - <var>23:00</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>12:39</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: In order to provide you with the best possible service, we will be performing maintenance on some of our Data Warehouse servers.<br /><br />Impact:  Data Warehouses may be unavailable during maintenance period.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 19:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - UK1 (LON) - Outage for Migration</title>
+<link>https://status.datto.com/incidents/5f401svm0slj</link>
+<guid>https://status.datto.com/incidents/5f401svm0slj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>23</var>, <var>00:15</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>07:57</var> UTC</small><br /><strong>Scheduled</strong> - Purpose: Autotask will be migrating to a new data center during the month of February 2024. We are excited to announce that this is a proactive move to upgrade to the latest infrastructure which will allow us to provide you with faster, more secure, and more reliable service.<br /><br />Impact:  When the zone in which your tenant is hosted is being migrated, the Autotask platform will be unavailable and you will not be able to access any of the services provided by Autotask including LiveMobile, API access (including integrations built by third-party vendors), data warehouse, as well as any other auxiliary components.<br /><br />Please refer to the following community link for more details:<br />https://community.kaseya.com/help-learning/discussion/69108/notice-for-upcoming-autotask-uk-data-center-migration</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 00:15:56 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 00:15:56 +0000</pubDate>
+</item>
+<item>
+<title>Datto SaaS Protection - Application Maintenance For Canada East Region</title>
+<link>https://status.datto.com/incidents/pnbvtw89h0mm</link>
+<guid>https://status.datto.com/incidents/pnbvtw89h0mm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>21:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>22</var>, <var>20:40</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing routine application maintenance to Datto SaaS Protection on February 22 2024 starting at 9:00PM UTC until February 27 2024.<br /><br /><br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br /><br />Affected Pod : 1. cae1-bfyii-308<br /><br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod: https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored<br /><br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:01:23 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 21:01:23 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

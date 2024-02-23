@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Cloudera Status - Incident History</title>
+<link>https://status.cloudera.com</link>
+
+<item>
+<title>https://archive.cloudera.com/ is temporarily unavailable.</title>
+<link>https://status.cloudera.com/incidents/c0h4vb6nj7dw</link>
+<guid>https://status.cloudera.com/incidents/c0h4vb6nj7dw</guid>
+<content:encoded><![CDATA[
+<div> [High] - Investigating Status Update
+Summary: The company is currently investigating an issue with its https://archive.cloudera.com/, impacting customers trying to pull workload artifacts and upgrades. An update is expected within the hour. Incident began at 12:30 AM UTC.
+
+[Medium] - Resolved Status Update
+Summary: The company has confirmed that the implemented solution has addressed the issue. Customers are advised to raise a support case if they continue to experience problems. A root cause analysis will be published within seven business days. <div>
+<p><small>Feb <var>22</var>, <var>03:51</var> UTC</small><br /><strong>Resolved</strong> - Current Status: Our teams have confirmed that the solution implemented has addressed the issue. If you continue to experience issues please raise a support case with us. <br /><br />A root cause analysis (RCA) will be published within seven business days.</p><p><small>Feb <var>22</var>, <var>03:35</var> UTC</small><br /><strong>Investigating</strong> - Current Status: We are currently investigating a https://archive.cloudera.com/  where in Customers who are trying to pull workload artifacts like CDH, CFM and CM would be impacted and also all workload upgrades are impacted. We will have an update within 60 mins. <br />Incident Start time:  12:30 AM UTC February, 2024.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 03:51:11 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 03:51:11 +0000</pubDate>
+</item>
+<item>
+<title>FreeIPA clusters are in an unreachable state</title>
+<link>https://status.cloudera.com/incidents/5vy1yfdw7qjc</link>
+<guid>https://status.cloudera.com/incidents/5vy1yfdw7qjc</guid>
+<content:encoded><![CDATA[
+<div> [High] - FreeIPA Service Unreachable <br><br> Summary: Customers may observe FreeIPA service in an unreachable status. The issue was identified at approximately 10:53 UTC on February 14th, 2024. A solution has been implemented but is still under monitoring. <div>
+<p><small>Feb <var>14</var>, <var>17:50</var> UTC</small><br /><strong>Resolved</strong> - Current Status: Our teams have confirmation that the solution implemented has addressed the issue. If you continue to experience issues please raise a support case with us. <br /><br />A root cause analysis (RCA) will be published within seven business days.<br /><br />Customer Experience: Customers may observe FreeIPA service in an unreachable status.<br /><br />Incident Start time: ~10:53 UTC Feburary 14th, 2024</p><p><small>Feb <var>14</var>, <var>16:54</var> UTC</small><br /><strong>Monitoring</strong> - Current Status: Our teams have identified the source of the issue and have implemented a solution which is under monitoring. <br />We will have another update within 60 mins. <br />Customer Experience: Customer may observe FreeIPA service in an unreachable status.<br />Incident Start time: ~10:53 UTC Feburary 14th, 2024</p><p><small>Feb <var>14</var>, <var>16:26</var> UTC</small><br /><strong>Identified</strong> - Current Status: Our teams have identified the source of the issue. <br />We are working on developing and implementing a solution to restore the service(s). <br />We will have another update within 60 mins. <br /><br />Customer Experience: Customer may observe FreeIPA service in an unreachable status.<br /><br />Incident Start time: ~10:53 UTC Feburary 14th, 2024</p><p><small>Feb <var>14</var>, <var>16:19</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>14</var>, <var>16:05</var> UTC</small><br /><strong>Investigating</strong> - Current Status: We are currently investigating a potential issue with the FreeIPA service.<br />Customer Experience: Customer may observe FreeIPA service in an unreachable status.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 17:50:15 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 17:50:15 +0000</pubDate>
+</item>
+<item>
+<title>FreeIPA clusters went into unreachable state momentarily.</title>
+<link>https://status.cloudera.com/incidents/4cn8l6hxpkhp</link>
+<guid>https://status.cloudera.com/incidents/4cn8l6hxpkhp</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - FreeIPA Unreachable State <br><br> Summary: FreeIPA experienced intermittent unreachable states, impacting administrative operations. The system has been stabilized, and the root cause is under investigation. <div>
+<p><small>Feb <var>14</var>, <var>11:00</var> UTC</small><br /><strong>Resolved</strong> - We received reports of FreeIPA going into unreachable state for a few of our customers.On investigating we found that the issue was intermittent. This impacted administrative operations for the workload. For now we have worked around the issue and the system has been stable.<br />The teams are investigating the issue further to determine the root cause.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 11:00:00 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Degraded connectivity issues between Control plane and workload clusters</title>
+<link>https://status.cloudera.com/incidents/yyjl9bhps70f</link>
+<guid>https://status.cloudera.com/incidents/yyjl9bhps70f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>31</var>, <var>10:00</var> UTC</small><br /><strong>Resolved</strong> - We observed degraded connectivity issues between control plane and workload for a subset of customers. <br />This impacted operations like orchestration, auto-scaling and administration of workloads from control plane. <br />The incident has been resolved now and no action is needed from customers. <br />A root cause analysis (RCA) will be published within seven business days.</p>
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 10:00:00 +0000</pubDate>
+<pubDate>Wed, 31 Jan 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Clusters on the US Control Plane in an unreachable state</title>
+<link>https://status.cloudera.com/incidents/k3rqxvkldqmh</link>
+<guid>https://status.cloudera.com/incidents/k3rqxvkldqmh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>10</var>, <var>22:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>10</var>, <var>22:04</var> UTC</small><br /><strong>Update</strong> - Current Status: Our teams have successfully deployed a fix for the issue and confirmed that the issue has been resolved. If you are still experiencing issues or have any questions please raise a support case with us. A root cause analysis (RCA) will be published within 7 Business days.<br /><br />Customer Experience: Customers on the US control plan may observe DataLake & DataHub cluster displaying an unreachable state<br /><br />Incident Start time: ~20:00 UTC November 10th, 2023<br />Incident End time: ~21:40 UTC November 10th, 2023</p><p><small>Nov <var>10</var>, <var>21:13</var> UTC</small><br /><strong>Investigating</strong> - Current Status: We are currently investigating an issue with our US Control Plane. <br />We will have another update within 60 mins. <br />Customer Experience: Customers on the US control plan may observe DataLake & DataHub cluster displaying an unreachable state<br />Incident Start time: ~20:00 UTC November 10th, 2023</p>
+]]></content:encoded>
+<pubDate>Fri, 10 Nov 2023 22:06:00 +0000</pubDate>
+<pubDate>Fri, 10 Nov 2023 22:06:00 +0000</pubDate>
+</item>
+<item>
+<title>EU Control plane has issues accessing workload UIs</title>
+<link>https://status.cloudera.com/incidents/mky3389p6dz7</link>
+<guid>https://status.cloudera.com/incidents/mky3389p6dz7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 3</var>, <var>11:29</var> UTC</small><br /><strong>Resolved</strong> - Our teams have successfully deployed a fix for the issue and confirmed that the issue has been resolved. If you are still experiencing issues or have any questions please raise a support case with us.<br /><br />A root cause analysis (RCA) will be published within seven business days.<br /><br />Incident Start Time: 09:40 AM UTC November 3rd, 2023<br />Incident End Time:   11:00 AM UTC November 3rd, 2023</p><p><small>Nov <var> 3</var>, <var>10:32</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Nov <var> 3</var>, <var>10:28</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating a potential issue with  EU Control Plane down(workload logins/UI are not working). We will have an update within 60 mins. <br />Customer Experience: Customers may observe issues while logging in to the atlas URL, Ranger URL, and resource manager URL are not accessible.</p>
+]]></content:encoded>
+<pubDate>Fri, 03 Nov 2023 11:29:10 +0000</pubDate>
+<pubDate>Fri, 03 Nov 2023 11:29:10 +0000</pubDate>
+</item>
+<item>
+<title>cdp login not useable against EU and AP control planes</title>
+<link>https://status.cloudera.com/incidents/2f0cvf19pkq4</link>
+<guid>https://status.cloudera.com/incidents/2f0cvf19pkq4</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 3</var>, <var>07:50</var> UTC</small><br /><strong>Resolved</strong> - The cdp cli login was not working in EU and AP.  It was remediated at about 11:40am PST Mon Nov 6</p>
+]]></content:encoded>
+<pubDate>Fri, 03 Nov 2023 07:50:00 +0000</pubDate>
+<pubDate>Fri, 03 Nov 2023 07:50:00 +0000</pubDate>
+</item>
+<item>
+<title>Control Plane Issues</title>
+<link>https://status.cloudera.com/incidents/t0m2blzqrpsx</link>
+<guid>https://status.cloudera.com/incidents/t0m2blzqrpsx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var> 5</var>, <var>23:07</var> UTC</small><br /><strong>Resolved</strong> - The fix implemented has seen positive results, resolving connectivity issues.</p><p><small>Oct <var> 5</var>, <var>22:34</var> UTC</small><br /><strong>Update</strong> - The overall control plane has stabilized. We're investigating connectivity issues that are impacting some number of customers. A potential fix is being implemented to resolve the connectivity issues.</p><p><small>Oct <var> 5</var>, <var>21:26</var> UTC</small><br /><strong>Monitoring</strong> - We've implemented a fix to our control plane service. We're seeing services recover albeit with higher latency.</p><p><small>Oct <var> 5</var>, <var>20:49</var> UTC</small><br /><strong>Identified</strong> - Issues have been identified in an internal control plane service. Multiple services are currently impacted.</p><p><small>Oct <var> 5</var>, <var>19:27</var> UTC</small><br /><strong>Investigating</strong> - We are investigating problems affecting the US control plane.</p>
+]]></content:encoded>
+<pubDate>Thu, 05 Oct 2023 23:07:00 +0000</pubDate>
+<pubDate>Thu, 05 Oct 2023 23:07:00 +0000</pubDate>
+</item>
+<item>
+<title>CDP Public Cloud Control Plane (EU-1) will be under maintenance</title>
+<link>https://status.cloudera.com/incidents/zc6y539k4lby</link>
+<guid>https://status.cloudera.com/incidents/zc6y539k4lby</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var> 8</var>, <var>05:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var> 8</var>, <var>03:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var> 4</var>, <var>15:18</var> UTC</small><br /><strong>Scheduled</strong> - Control Plane Internet ingress maintenance will involve temporary re-routing of Control Plane traffic through a replacement internet-ingress for the duration of the maintenance. Temporary routing will result in different IP addresses being used for access to the Control Plane for the duration of the maintenance window.The temporary IP addresses are within the existing IP range (3.65.246.128/27) published in the public documentation. Customers who have constructed their firewall rulesets in accordance with the documentation will be unaffected by the maintenance<br /><br />Interfaces affected :<br />Web console access https://console.eu-1.cdp.cloudera.com <br />API and `cdp` CLI calls https://api.eu-1.cdp.cloudera.com<br /><br />Customer Action/Impact :<br />Customers who have constructed their firewall rulesets in accordance with the documentation will be unaffected; no action required.<br />Any customer that has firewall policies locking the above two hostnames to the 3 current IP addresses (rather than the documented block of 32 IP addresses) will be affected for the duration of the maintenance window.  <br />These customers and their CDP environments will not be able to access the CDP Control Plane during that window.  This will likely affect automation from the CDP API/CLI and/or auto-scaling of Data Hub Clusters.<br />We recommend that firewall policies are reviewed and updated to match documented requirements.<br /><br />For more information, contact https://support.cloudera.com.</p>
+]]></content:encoded>
+<pubDate>Tue, 08 Aug 2023 05:01:19 +0000</pubDate>
+<pubDate>Tue, 08 Aug 2023 05:01:19 +0000</pubDate>
+</item>
+<item>
+<title>Possible failures with workloads in AWS us-east-1.</title>
+<link>https://status.cloudera.com/incidents/vk7q7l9gfmkx</link>
+<guid>https://status.cloudera.com/incidents/vk7q7l9gfmkx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jun <var>13</var>, <var>22:49</var> UTC</small><br /><strong>Resolved</strong> - AWS confirms that the issues in us-east-1 are resolved. For full details, refer to https://health.aws.amazon.com/health/status.</p><p><small>Jun <var>13</var>, <var>20:50</var> UTC</small><br /><strong>Monitoring</strong> - AWS is having issues with multiple services in us-east-1. CDP components are not affected, however customer workloads may be affected. Follow https://health.aws.amazon.com/health/status for updates. Amazon is seeing services recover at this point.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Jun 2023 22:49:49 +0000</pubDate>
+<pubDate>Tue, 13 Jun 2023 22:49:49 +0000</pubDate>
+</item>
+<item>
+<title>CDP landing page is not working. SSO continues to work.</title>
+<link>https://status.cloudera.com/incidents/443ky9j7qlnn</link>
+<guid>https://status.cloudera.com/incidents/443ky9j7qlnn</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>31</var>, <var>12:45</var> UTC</small><br /><strong>Resolved</strong> - CDP landing page is working now. The issue has been resolved.</p><p><small>May <var>31</var>, <var>12:33</var> UTC</small><br /><strong>Monitoring</strong> - Fix deployed. Service is currently being monitored.</p><p><small>May <var>31</var>, <var>10:25</var> UTC</small><br /><strong>Update</strong> - Note: https://console.cdp.cloudera.com/#/ is working as expected and customers can continue to use it.</p><p><small>May <var>31</var>, <var>10:08</var> UTC</small><br /><strong>Identified</strong> - Issue identified and a fix is in progress.</p><p><small>May <var>31</var>, <var>08:35</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating a potential issue with CDP landing page https://cdp.cloudera.com. Customers accessing this page directly would not be to access the CDP Management Console. Customers using SSO continue to work without any disruption. In case you are affected please reach out to Cloudera Support for further assistance.<br /><br />Note: https://console.cdp.cloudera.com/#/ is working as expected and customers can continue to use it</p>
+]]></content:encoded>
+<pubDate>Wed, 31 May 2023 12:45:54 +0000</pubDate>
+<pubDate>Wed, 31 May 2023 12:45:54 +0000</pubDate>
+</item>
+<item>
+<title>Urgent maintenance impacting CML, CDF, CDE</title>
+<link>https://status.cloudera.com/incidents/wwr68bkhd615</link>
+<guid>https://status.cloudera.com/incidents/wwr68bkhd615</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var>22</var>, <var>21:01</var> UTC</small><br /><strong>Completed</strong> - Completed with no interruption of the service in question.</p><p><small>May <var>22</var>, <var>20:45</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>May <var>22</var>, <var>20:29</var> UTC</small><br /><strong>Scheduled</strong> - A short maintenance is required for a supporting service. There will be a very short outage which will impact the following products: CML, CDF, CDE. During this outage, modifications to existing Kubernetes clusters will fail. This includes the creation of new clusters as well as the modification, upgrade, or removal of existing clusters.</p>
+]]></content:encoded>
+<pubDate>Mon, 22 May 2023 21:01:10 +0000</pubDate>
+<pubDate>Mon, 22 May 2023 21:01:10 +0000</pubDate>
+</item>
+<item>
+<title>CDW virtual warehouse running in Azure cloud are experiencing issues</title>
+<link>https://status.cloudera.com/incidents/dpkmj7cjgjm7</link>
+<guid>https://status.cloudera.com/incidents/dpkmj7cjgjm7</guid>
+<content:encoded><![CDATA[
+
+<p><small>May <var> 3</var>, <var>18:53</var> UTC</small><br /><strong>Resolved</strong> - A fix has been released and to upgrade refer https://my.cloudera.com/knowledge/TSB-2023-670-Hue-frontend-may-become-stuck-in-CrashLoopBackoff?id=370122</p><p><small>May <var> 3</var>, <var>13:25</var> UTC</small><br /><strong>Identified</strong> - Issue identified.</p><p><small>May <var> 3</var>, <var>12:57</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>May <var> 3</var>, <var>12:57</var> UTC</small><br /><strong>Investigating</strong> - Due to new image published by AKS, CDW virtual warehouses running on Azure might be impacted. Currently the issue is being investigated.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 May 2023 18:53:54 +0000</pubDate>
+<pubDate>Wed, 03 May 2023 18:53:54 +0000</pubDate>
+</item>
+<item>
+<title>Customer workloads in Azure cloud experiencing degraded performance</title>
+<link>https://status.cloudera.com/incidents/vctp4hk89zvj</link>
+<guid>https://status.cloudera.com/incidents/vctp4hk89zvj</guid>
+<content:encoded><![CDATA[
+
+<p><small>Apr <var>18</var>, <var>12:29</var> UTC</small><br /><strong>Resolved</strong> - Datahub and Datalake services are fully operational now. Incident is now resolved</p><p><small>Apr <var>18</var>, <var>12:12</var> UTC</small><br /><strong>Monitoring</strong> - Rollback complete. Services are currently being monitored.</p><p><small>Apr <var>18</var>, <var>11:45</var> UTC</small><br /><strong>Update</strong> - Rollback complete. Services are currently being monitored.</p><p><small>Apr <var>18</var>, <var>10:33</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Apr <var>18</var>, <var>09:47</var> UTC</small><br /><strong>Identified</strong> - Issue has been identified and rollback is in progress</p><p><small>Apr <var>18</var>, <var>08:32</var> UTC</small><br /><strong>Investigating</strong> - Datalake and DataHub workload management is in degraded state for few customers in Azure cloud</p>
+]]></content:encoded>
+<pubDate>Tue, 18 Apr 2023 12:29:22 +0000</pubDate>
+<pubDate>Tue, 18 Apr 2023 12:29:22 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control plane operations are impacted</title>
+<link>https://status.cloudera.com/incidents/6rgpwl242r14</link>
+<guid>https://status.cloudera.com/incidents/6rgpwl242r14</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>21</var>, <var>20:15</var> UTC</small><br /><strong>Resolved</strong> - Error rate has subsided and services are operating normally.</p><p><small>Mar <var>21</var>, <var>18:27</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been put in place, we're seeing an improvement.</p><p><small>Mar <var>21</var>, <var>18:00</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>21</var>, <var>17:47</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors on the CDP Control plane and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Mar 2023 20:15:14 +0000</pubDate>
+<pubDate>Tue, 21 Mar 2023 20:15:14 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control plane experiencing issues with CDW UI</title>
+<link>https://status.cloudera.com/incidents/sh9n2ldcl12b</link>
+<guid>https://status.cloudera.com/incidents/sh9n2ldcl12b</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 2</var>, <var>17:28</var> UTC</small><br /><strong>Resolved</strong> - The system is now stable.</p><p><small>Mar <var> 2</var>, <var>16:24</var> UTC</small><br /><strong>Monitoring</strong> - The system is stable. We are continuing to monitor for anomalies.</p><p><small>Mar <var> 2</var>, <var>15:51</var> UTC</small><br /><strong>Update</strong> - The system has been stable for the past hour without any failures. However, we are continuing to investigate.</p><p><small>Mar <var> 2</var>, <var>14:01</var> UTC</small><br /><strong>Investigating</strong> - Still seeing intermittent issues. Currently investigating.</p><p><small>Mar <var> 2</var>, <var>13:15</var> UTC</small><br /><strong>Monitoring</strong> - Issue identified, service restored and currently being monitored.</p><p><small>Mar <var> 2</var>, <var>13:00</var> UTC</small><br /><strong>Investigating</strong> - We're currently experiencing issues with CDW UI. This may impact creation of new virtual warehouse. The issue is currently being investigated</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Mar 2023 17:28:09 +0000</pubDate>
+<pubDate>Thu, 02 Mar 2023 17:28:09 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control plane experiencing issues with CDW UI</title>
+<link>https://status.cloudera.com/incidents/8nt6mw8z710t</link>
+<guid>https://status.cloudera.com/incidents/8nt6mw8z710t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 1</var>, <var>17:35</var> UTC</small><br /><strong>Resolved</strong> - The CDW UI was not responding.  The service has been recovered.  The root-cause investigation is ongoing, along with monitoring for anomalies.</p>
+]]></content:encoded>
+<pubDate>Wed, 01 Mar 2023 17:35:00 +0000</pubDate>
+<pubDate>Wed, 01 Mar 2023 17:35:00 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control plane experiencing some problem</title>
+<link>https://status.cloudera.com/incidents/2zft9lkggqwr</link>
+<guid>https://status.cloudera.com/incidents/2zft9lkggqwr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>17</var>, <var>10:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved and the CDP Control plane is working as expected.<br />we will publish the RCA as soon as possible.</p><p><small>Feb <var>17</var>, <var>08:31</var> UTC</small><br /><strong>Update</strong> - The incident is resolved. We are closely monitoring for any anomalies.<br /><br />Thanks.</p><p><small>Feb <var>17</var>, <var>08:27</var> UTC</small><br /><strong>Monitoring</strong> - We are monitoring this till we get confirmation on the resolution.</p><p><small>Feb <var>17</var>, <var>07:41</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors on the CDP Control plane and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Feb 2023 10:51:40 +0000</pubDate>
+<pubDate>Fri, 17 Feb 2023 10:51:40 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control plane operations are impacted</title>
+<link>https://status.cloudera.com/incidents/88j17b0r7ql3</link>
+<guid>https://status.cloudera.com/incidents/88j17b0r7ql3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>06:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved and the CDP Control plane is working as expected.<br />we will publish the RCA as soon as possible.</p><p><small>Feb <var>13</var>, <var>05:50</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>13</var>, <var>05:43</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>13</var>, <var>05:42</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>13</var>, <var>05:08</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate the issue. Please note this impacts the management operations of the workload clusters.</p><p><small>Feb <var>13</var>, <var>04:18</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors on CDP Control plane and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 13 Feb 2023 06:20:37 +0000</pubDate>
+<pubDate>Mon, 13 Feb 2023 06:20:37 +0000</pubDate>
+</item>
+<item>
+<title>Potential downtime to CML experience</title>
+<link>https://status.cloudera.com/incidents/5dt77c7r9144</link>
+<guid>https://status.cloudera.com/incidents/5dt77c7r9144</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var> 6</var>, <var>11:49</var> UTC</small><br /><strong>Resolved</strong> - CML service is back up and operating as expected in all the regions.</p><p><small>Feb <var> 6</var>, <var>11:12</var> UTC</small><br /><strong>Investigating</strong> - We are undergoing an Emergency update with CML experience in all the regions. Though we do not anticipate any outages, there could be issues pertaining to accessing the CML control plane web UI and API calls.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 Feb 2023 11:49:42 +0000</pubDate>
+<pubDate>Mon, 06 Feb 2023 11:49:42 +0000</pubDate>
+</item>
+<item>
+<title>Workload orchestration for Azure impacted due to Azure networking Outage</title>
+<link>https://status.cloudera.com/incidents/mqyncw8vh4t5</link>
+<guid>https://status.cloudera.com/incidents/mqyncw8vh4t5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>25</var>, <var>02:00</var> UTC</small><br /><strong>Resolved</strong> - Orchestration of CDP workload clusters on Azure was impaired due to Azure networking outage. This would have resulted in errors during the creation of Environment, Datalake, and Datahub. Also, the existing workloads might have experienced a loss of connectivity. Please do note control plane operations were not impacted due to this. For the underlying root cause please refer to: https://azure.status.microsoft/en-us/status/history/.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Jan 2023 02:00:00 +0000</pubDate>
+<pubDate>Wed, 25 Jan 2023 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Intermittent issues with the US Control plane.</title>
+<link>https://status.cloudera.com/incidents/ttxcx3zk2s38</link>
+<guid>https://status.cloudera.com/incidents/ttxcx3zk2s38</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>16:40</var> UTC</small><br /><strong>Resolved</strong> - All services are back up and operating as expected.</p><p><small>Jan <var>18</var>, <var>15:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>18</var>, <var>15:12</var> UTC</small><br /><strong>Update</strong> - Issue seems to be partially resolved.</p><p><small>Jan <var>18</var>, <var>15:10</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>18</var>, <var>14:00</var> UTC</small><br /><strong>Investigating</strong> - SRE team is currently investigating an issue with us-west control plane. This impacts all the management operations including ability to launch clusters, modify users etc. However please do note customer workloads are not impacted due to this</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Jan 2023 16:40:51 +0000</pubDate>
+<pubDate>Wed, 18 Jan 2023 16:40:51 +0000</pubDate>
+</item>
+<item>
+<title>Intermittent availability issues with Cloudera Data Warehouse service [CDW]</title>
+<link>https://status.cloudera.com/incidents/2m5vppx6wbjn</link>
+<guid>https://status.cloudera.com/incidents/2m5vppx6wbjn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>18</var>, <var>03:00</var> UTC</small><br /><strong>Resolved</strong> - The CDW service had intermittent availability issues due to which operations like orchestration and administration were impacted for Data Warehouse clusters. This incident lasted for an hour. The team is actively investigating and fixing the root cause. Sorry for the inconvenience caused.</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Jan 2023 03:00:00 +0000</pubDate>
+<pubDate>Wed, 18 Jan 2023 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CDP Control Plane: Maintenance: Dec 10th - 3 hours</title>
+<link>https://status.cloudera.com/incidents/ws00ppb6yw8f</link>
+<guid>https://status.cloudera.com/incidents/ws00ppb6yw8f</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var>10</var>, <var>18:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed in all regions.</p><p><small>Dec <var>10</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>29</var>, <var>17:49</var> UTC</small><br /><strong>Scheduled</strong> - A planned maintenance is coming, starting 2022-12-10 17:00:00 PM UTC, through 2022-12-10 20:00:00 PM UTC. During this maintenance window, interactive workloads, API and CLI based integration and automation and DataHub autoscaling may be affected.</p>
+]]></content:encoded>
+<pubDate>Sat, 10 Dec 2022 18:01:54 +0000</pubDate>
+<pubDate>Sat, 10 Dec 2022 18:01:54 +0000</pubDate>
+</item>
+<item>
+<title>We are investigating issues with the Data Warehouse web UI</title>
+<link>https://status.cloudera.com/incidents/f438vj5pf67s</link>
+<guid>https://status.cloudera.com/incidents/f438vj5pf67s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>22</var>, <var>03:46</var> UTC</small><br /><strong>Resolved</strong> - The issue has been resolved after resolving issues in an application load balancer.</p><p><small>Nov <var>22</var>, <var>03:13</var> UTC</small><br /><strong>Investigating</strong> - We are investigating issues with the "Data Warehouse" web UI. The API does not appear to be impacted.</p>
+]]></content:encoded>
+<pubDate>Tue, 22 Nov 2022 03:46:49 +0000</pubDate>
+<pubDate>Tue, 22 Nov 2022 03:46:49 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

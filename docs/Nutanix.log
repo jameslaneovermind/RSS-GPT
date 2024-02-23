@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:37:06.575582
+Existing_entries: 0
+Fetching from https://status.nutanix.com/history.rss
+Token length: 264
+Summarized using GPT-3.5-turbo-1106
+Append: [Outage](https://status.nutanix.com/incidents/3yr4jyps76p6)
+Token length: 290
+Summarized using GPT-3.5-turbo-1106
+Append: [Intermittent issues with logging into the Frame console](https://status.nutanix.com/incidents/jmvcrd241w04)
+Token length: 648
+Summarized using GPT-3.5-turbo-1106
+Append: [Intermittent Issues Accessing Frame Console](https://status.nutanix.com/incidents/xkdm64gf2w29)
+Append: [Scheduled Maintenance for Nutanix Frame (Commercial Platform)](https://status.nutanix.com/incidents/phsc9997jp5m)
+Append: [Users are unable to start sessions when using older versions of Frame Enterprise Profile Driver](https://status.nutanix.com/incidents/866vx71c9p0g)
+Append: [Intermittent issues with Frame services](https://status.nutanix.com/incidents/0mfs5109l1zg)
+Append: [Scheduled Maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2) (Commercial Platform)](https://status.nutanix.com/incidents/5ghj3fw49g1l)
+Append: [Frame Platform Service Issues](https://status.nutanix.com/incidents/f5cqvg7kvwl1)
+Append: [Nutanix Supplied Azure IaaS - Unable to create new Azure accounts or start sessions](https://status.nutanix.com/incidents/817cy4gqhr0x)
+Append: [Keyboard Input Issue When Using Certain CTRL Hotkeys](https://status.nutanix.com/incidents/ffx2rh3yj3kq)
+Append: [Azure AD Users May Be Unable to Authenticate to Frame or Receive New Persistent Desktop / User Volume](https://status.nutanix.com/incidents/g0cfhpq4qfjz)
+Append: [Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)](https://status.nutanix.com/incidents/wgqyz82lkckw)
+Append: [Degradation in Flow logs Ingestion](https://status.nutanix.com/incidents/fw1fjzy2pwsb)
+Append: [Google Cloud Platform - intermittent issues starting VMs](https://status.nutanix.com/incidents/lnr6ptpvqjp0)
+Append: [Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)](https://status.nutanix.com/incidents/w2hn9bsv6m02)
+Append: [Government Platform Connectivity](https://status.nutanix.com/incidents/12fk811kh07b)
+Append: [AWS Internet Connectivity Issues](https://status.nutanix.com/incidents/qzfyl6y27hnm)
+Append: [AWS Service Issues](https://status.nutanix.com/incidents/zqnf7kt592ll)
+Append: [Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)](https://status.nutanix.com/incidents/439k3s10yvpq)
+Append: [Frame service outage across multiple regions](https://status.nutanix.com/incidents/cgkc17hfl9v6)
+Append: [AWS GovCloud US-West Connectivity Issue](https://status.nutanix.com/incidents/v7p413mhjr70)
+Append: [Unable to list accounts on the Frame Platform](https://status.nutanix.com/incidents/sb9pkdkgjljy)
+Append: [Intermittent Performance Issues](https://status.nutanix.com/incidents/vhctdzfdtcz9)
+Append: [Unable to Access the Frame Platform](https://status.nutanix.com/incidents/n2jhd1vymdmb)
+Append: [Unable to Access the Frame Platform](https://status.nutanix.com/incidents/14432nqk97nn)
+append_entries: 25
+Finish: 2024-02-23 11:37:09.977105

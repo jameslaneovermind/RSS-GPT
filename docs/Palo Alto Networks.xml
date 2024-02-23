@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Palo Alto Networks Cloud Services Status - Incident History</title>
+<link>https://status.paloaltonetworks.com</link>
+
+<item>
+<title>Advanced Threat Prevention (ATP) - Scheduled Maintenance - Global / All Regions</title>
+<link>https://status.paloaltonetworks.com/incidents/kl8jr4jv8pyq</link>
+<guid>https://status.paloaltonetworks.com/incidents/kl8jr4jv8pyq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Service Maintenance <br><br> Summary: Advanced Threat Prevention service will undergo maintenance on March 14th, 2024, potentially causing intermittent disconnects across all regions. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>15</var>, <var>03:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>05:43</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Advanced Threat Prevention on March 14th, 2024 from 23:00 UTC to March 15th, 2024 03:00 UTC. The service maintenance will affect globally / all regions.<br /><br />Customer Impact: During this scheduled maintenance, customers may experience intermittent disconnects across services as they get upgraded.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 23:00:00 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 23:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government Region</title>
+<link>https://status.paloaltonetworks.com/incidents/cg1s5s7y7ffq</link>
+<guid>https://status.paloaltonetworks.com/incidents/cg1s5s7y7ffq</guid>
+<content:encoded><![CDATA[
+<div> High - Service Maintenance Scheduled for Cortex XDR, XSIAM, XSOAR 8, XPANSE
+Summary: Maintenance scheduled for March 3rd, 2024 from 08:00 AM to 03:00 PM UTC in America Government region. Service may be unavailable for a maximum of 30 minutes. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>08:00</var> - <var>15:00</var> UTC</strong></p><p><small>Feb <var>18</var>, <var>10:24</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government region. The maintenance is scheduled for March 3rd 2024 from 08:00 AM UTC to 03:00 PM UTC March 3rd 2024. During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 08:00:00 +0000</pubDate>
+<pubDate>Sun, 03 Mar 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe, Germany, Switzerland, Poland, Qatar and United Kingdom Regions</title>
+<link>https://status.paloaltonetworks.com/incidents/v9ky4vkjk5yw</link>
+<guid>https://status.paloaltonetworks.com/incidents/v9ky4vkjk5yw</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Service Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe <br><br>Summary: Scheduled maintenance is planned for various regions in Europe, with a potential maximum 30-minute service unavailability window during the specified time frame. If unusual activity is experienced, users are advised to contact support. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>15:00</var> UTC &nbsp;-&nbsp; Feb <var>26</var>, <var>00:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>10:14</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe, Germany, Switzerland, Poland, Qatar and United Kingdom regions. The maintenance is scheduled for February 25th 2024 from 15:00 UTC to 00:00 UTC February 26th 2024. During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 15:00:00 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud Compute Scheduled Release - O’Neal Update 3 (32.03)</title>
+<link>https://status.paloaltonetworks.com/incidents/zxmtzynz8r78</link>
+<guid>https://status.paloaltonetworks.com/incidents/zxmtzynz8r78</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>07:00</var> - <var>11:00</var> UTC</strong></p><p><small>Feb <var>13</var>, <var>09:32</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned minor upgrade for Prisma Cloud Compute to O’Neal Update 3 (32.03) version in the following regions, scheduled for February 25, 2024 from 07:00AM UTC to 11:00AM UTC.<br /><br />Customers may experience intermittent failures in the Compute feature set during this scheduled maintenance. No other Prisma Cloud Services will be affected. <br /><br />For more information about the release, please refer to the <br /><a href="https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-release-notes/prisma-cloud-compute-release-information/look-ahead-planned-updates-prisma-cloud-compute">Look Ahead—Planned Updates on Prisma Cloud Compute</a></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America, Canada, Singapore, India, Australia, Taiwan and Japan Region</title>
+<link>https://status.paloaltonetworks.com/incidents/j7v2cfz0v94t</link>
+<guid>https://status.paloaltonetworks.com/incidents/j7v2cfz0v94t</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>07:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>10:12</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America, Canada, Singapore, India, Australia, Taiwan and Japan region. The maintenance is scheduled for February 25th 2024 from 07:00 AM UTC to 04:00 PM UTC February 25th 2024 . During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Issue</title>
+<link>https://status.paloaltonetworks.com/incidents/56lrg2lmt9ns</link>
+<guid>https://status.paloaltonetworks.com/incidents/56lrg2lmt9ns</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>23</var>, <var>10:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>23</var>, <var>09:04</var> UTC</small><br /><strong>Investigating</strong> - WildFire is currently experiencing an issue in Europe Cloud. We are actively working on this issue and will provide another update by 11:00 UTC with further details. <br /><br />Customer Impact:  Delay in sample processing<br /><br />Workaround: NA</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 10:47:58 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 10:47:58 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Issue</title>
+<link>https://status.paloaltonetworks.com/incidents/6qnq8pkr0hcv</link>
+<guid>https://status.paloaltonetworks.com/incidents/6qnq8pkr0hcv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>23</var>, <var>10:48</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>23</var>, <var>08:41</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>23</var>, <var>08:40</var> UTC</small><br /><strong>Investigating</strong> - WildFire is currently experiencing an issue in US Cloud. We are actively working on this issue and will provide another update by 12:00 UTC with further details. <br /><br />Customer Impact:  Delay in sample processing<br /><br />Workaround: N/A</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 10:48:24 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 10:48:24 +0000</pubDate>
+</item>
+<item>
+<title>Cloud Application Security impacted</title>
+<link>https://status.paloaltonetworks.com/incidents/45rsbkdp2qyz</link>
+<guid>https://status.paloaltonetworks.com/incidents/45rsbkdp2qyz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>21:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>19:22</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>22</var>, <var>19:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we monitoring the results.</p><p><small>Feb <var>22</var>, <var>17:50</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 21:24:49 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 21:24:49 +0000</pubDate>
+</item>
+<item>
+<title>Best Practices Analyzer errors</title>
+<link>https://status.paloaltonetworks.com/incidents/2glvxcv84dhr</link>
+<guid>https://status.paloaltonetworks.com/incidents/2glvxcv84dhr</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>17:14</var> UTC</small><br /><strong>Resolved</strong> - This issue has been resolved.</p><p><small>Feb <var>14</var>, <var>18:54</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with the Best Practices Analyzer(BPA) tool.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 17:14:56 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 17:14:56 +0000</pubDate>
+</item>
+<item>
+<title>Best Practices Analyzer errors</title>
+<link>https://status.paloaltonetworks.com/incidents/bjkpnrw4z90w</link>
+<guid>https://status.paloaltonetworks.com/incidents/bjkpnrw4z90w</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>17:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>18:57</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with the Best Practices Analyzer(BPA) tool.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 17:14:20 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 17:14:20 +0000</pubDate>
+</item>
+<item>
+<title>Login service is down and customers are not able to create new users in CSP</title>
+<link>https://status.paloaltonetworks.com/incidents/v0zf4cfn13n5</link>
+<guid>https://status.paloaltonetworks.com/incidents/v0zf4cfn13n5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>13:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>13:27</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>22</var>, <var>12:42</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 13:39:30 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 13:39:30 +0000</pubDate>
+</item>
+<item>
+<title>Possible app-cn login issues</title>
+<link>https://status.paloaltonetworks.com/incidents/tptmgzqwvk87</link>
+<guid>https://status.paloaltonetworks.com/incidents/tptmgzqwvk87</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>04:58</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>04:24</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>22</var>, <var>03:28</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>22</var>, <var>03:13</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate the issue.</p><p><small>Feb <var>22</var>, <var>02:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 04:58:28 +0000</pubDate>
+<pubDate>Thu, 22 Feb 2024 04:58:28 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Japan Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/jvms4dgq8nrg</link>
+<guid>https://status.paloaltonetworks.com/incidents/jvms4dgq8nrg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>13:15</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>12:15</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>21</var>, <var>12:14</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Japan Cloud on February 21st, 2023 from 12:15 UTC to 13:15 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 13:15:56 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 13:15:56 +0000</pubDate>
+</item>
+<item>
+<title>WildFire EU Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/03f8cdrnz9n6</link>
+<guid>https://status.paloaltonetworks.com/incidents/03f8cdrnz9n6</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>10:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>09:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>21</var>, <var>09:20</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire EU Cloud on February 21st, 2024 from 09:30 UTC to 10:30 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:30:56 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:30:56 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.2.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/n5m66vnthh59</link>
+<guid>https://status.paloaltonetworks.com/incidents/n5m66vnthh59</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>10:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>07:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>05:01</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app2 scheduled at<br /><br />Feb 21 from 07:30 to 10:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 10:30:56 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 10:30:56 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.2.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/j3rztdkmhr7k</link>
+<guid>https://status.paloaltonetworks.com/incidents/j3rztdkmhr7k</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>06:06</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>04:41</var> UTC</small><br /><strong>Update</strong> - We are the extending the maintenance window by additional one hour.</p><p><small>Feb <var>21</var>, <var>02:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>05:01</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.gov scheduled at<br /><br />Feb 21 from 02:00 to 04:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 06:06:54 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 06:06:54 +0000</pubDate>
+</item>
+<item>
+<title>Cortex - Intermittent login Issues in all regions</title>
+<link>https://status.paloaltonetworks.com/incidents/f5b70189kk35</link>
+<guid>https://status.paloaltonetworks.com/incidents/f5b70189kk35</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>21</var>, <var>03:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>20:30</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>20</var>, <var>20:10</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>20</var>, <var>20:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing login issues with Cortex Products in all regions.<br /><br />The current impact is that the Cortex console is not available intermittently.<br /><br />Cortex XDR agents' local protection continues to function normally.<br />All data ingestion is unaffected as well.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 03:12:59 +0000</pubDate>
+<pubDate>Wed, 21 Feb 2024 03:12:59 +0000</pubDate>
+</item>
+<item>
+<title>app-cn UI is not loading/multiple services are impacted</title>
+<link>https://status.paloaltonetworks.com/incidents/2lwd4zmv16jl</link>
+<guid>https://status.paloaltonetworks.com/incidents/2lwd4zmv16jl</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>20</var>, <var>23:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>20</var>, <var>21:27</var> UTC</small><br /><strong>Monitoring</strong> - UI is now up and running. We are continuing to monitor other fixes to the backend services.</p><p><small>Feb <var>20</var>, <var>20:32</var> UTC</small><br /><strong>Update</strong> - We have fixed multiple backend services. We are actively looking into the UI issue.</p><p><small>Feb <var>20</var>, <var>19:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>20</var>, <var>16:11</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 23:05:38 +0000</pubDate>
+<pubDate>Tue, 20 Feb 2024 23:05:38 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.2.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/88rd6b1kkhnn</link>
+<guid>https://status.paloaltonetworks.com/incidents/88rd6b1kkhnn</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>20</var>, <var>14:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>12:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>05:01</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.cn scheduled at<br /><br />Feb 20 from 12:00 to 14:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 14:00:56 +0000</pubDate>
+<pubDate>Tue, 20 Feb 2024 14:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.2.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/qjr9991jlmlh</link>
+<guid>https://status.paloaltonetworks.com/incidents/qjr9991jlmlh</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>20</var>, <var>09:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>07:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>05:01</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app3 scheduled at<br /><br />Feb 20 from 07:30 to 09:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 09:30:56 +0000</pubDate>
+<pubDate>Tue, 20 Feb 2024 09:30:56 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Australia Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/f2bzm8dvd60m</link>
+<guid>https://status.paloaltonetworks.com/incidents/f2bzm8dvd60m</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>19</var>, <var>09:40</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>19</var>, <var>08:40</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>08:35</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Australia Cloud on Feb 19th, 2024 from 08:40 UTC to 9:40 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Feb 2024 09:40:57 +0000</pubDate>
+<pubDate>Mon, 19 Feb 2024 09:40:57 +0000</pubDate>
+</item>
+<item>
+<title>DB Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/nfpvvkvrml74</link>
+<guid>https://status.paloaltonetworks.com/incidents/nfpvvkvrml74</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>18</var>, <var>11:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>18</var>, <var>09:04</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>18</var>, <var>09:04</var> UTC</small><br /><strong>Identified</strong> - Database maintenance is currently underway.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Feb 2024 11:13:11 +0000</pubDate>
+<pubDate>Sun, 18 Feb 2024 11:13:11 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Issue</title>
+<link>https://status.paloaltonetworks.com/incidents/j57bjzv48dy9</link>
+<guid>https://status.paloaltonetworks.com/incidents/j57bjzv48dy9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>17</var>, <var>01:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>17</var>, <var>00:10</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>16</var>, <var>21:18</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>16</var>, <var>20:08</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>16</var>, <var>18:05</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>16</var>, <var>16:24</var> UTC</small><br /><strong>Investigating</strong> - WildFire is currently experiencing an issue in Wildfire Global and EU Cloud. We are actively working on this issue and will provide another update by 18:00 UTC with further details. <br /><br />Customer Impact:  Partial delay of sample processing and verdict availability.<br /><br />Workaround: N/A</p>
+]]></content:encoded>
+<pubDate>Sat, 17 Feb 2024 01:33:01 +0000</pubDate>
+<pubDate>Sat, 17 Feb 2024 01:33:01 +0000</pubDate>
+</item>
+<item>
+<title>app2 intermittent login failures</title>
+<link>https://status.paloaltonetworks.com/incidents/7w39xqh1gttv</link>
+<guid>https://status.paloaltonetworks.com/incidents/7w39xqh1gttv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>16</var>, <var>23:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>21:37</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>16</var>, <var>21:35</var> UTC</small><br /><strong>Monitoring</strong> - Logins are back in operation. We will continue to monitor.</p><p><small>Feb <var>16</var>, <var>20:57</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 23:54:02 +0000</pubDate>
+<pubDate>Fri, 16 Feb 2024 23:54:02 +0000</pubDate>
+</item>
+<item>
+<title>Registration Process is broken in Live Community</title>
+<link>https://status.paloaltonetworks.com/incidents/f95t4jvdfgfq</link>
+<guid>https://status.paloaltonetworks.com/incidents/f95t4jvdfgfq</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>16</var>, <var>22:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>22:29</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>16</var>, <var>22:12</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 22:46:22 +0000</pubDate>
+<pubDate>Fri, 16 Feb 2024 22:46:22 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

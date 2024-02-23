@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:27.879397
+Existing_entries: 0
+Fetching from https://status.newrelic.com/history.rss
+Token length: 412
+Summarized using GPT-3.5-turbo-1106
+Append: [Potential Service Interruption](https://status.newrelic.com/incidents/x33z8rf4gvt9)
+Token length: 594
+Summarized using GPT-3.5-turbo-1106
+Append: [New Relic UI Delays and Irregularities in the EU and US Regions](https://status.newrelic.com/incidents/kx8q9p85j737)
+Token length: 1168
+Summarized using GPT-3.5-turbo-1106
+Append: [Alert Delays in US Region](https://status.newrelic.com/incidents/d8ldj5ktl5vd)
+Append: [Potential Service Interruption](https://status.newrelic.com/incidents/cwclx9t8ysdv)
+Append: [Scheduled Maintenance for Support Center - February 10th from 06:00 UTC](https://status.newrelic.com/incidents/yxvm2h9tzknm)
+Append: [Login and UI Irregularities in US Region](https://status.newrelic.com/incidents/8yf6bsryqw5p)
+Append: [Entity Data Delayed for US/EU Region](https://status.newrelic.com/incidents/vnzwx0460yt8)
+Append: [Azure Integrations Data and Alerts Missing or Delayed in US and EU Regions](https://status.newrelic.com/incidents/1fmnt05g7vqd)
+Append: [Alerts Irregularities in the EU Region](https://status.newrelic.com/incidents/pyfhxs9mzkr7)
+Append: [Data and Alert Delays in the US Region](https://status.newrelic.com/incidents/kl7f7pzg5l1t)
+Append: [Data Irregularities in the EU Region](https://status.newrelic.com/incidents/n8z3pb2ty51h)
+Append: [Scheduled Maintenance for Support Center - December 3rd from 03:00 - 06:00 UTC](https://status.newrelic.com/incidents/85jwz9c3p55v)
+Append: [Scheduled Maintenance for the US/EU Regions - November 12th from 06:00 UTC to 06:30 UTC](https://status.newrelic.com/incidents/92p40jjlmmcy)
+Append: [Data Ingest Irregularities in EU and US Regions](https://status.newrelic.com/incidents/9s4yrv36x7g8)
+Append: [Data Irregularities in the EU Region](https://status.newrelic.com/incidents/4nf332w58y8w)
+Append: [Alerts Delays in US Region](https://status.newrelic.com/incidents/0jr8gbnk9zrx)
+Append: [Browser Data and Alert Irregularities in the US Region](https://status.newrelic.com/incidents/yl6lh7m50757)
+Append: [Scheduled Maintenance for the  Support Center - October 14th from 05:00 - 05:05 UTC](https://status.newrelic.com/incidents/4t5p9zh64m56)
+Append: [Data and Alert Irregularities in the US Region](https://status.newrelic.com/incidents/clqpsypvknq1)
+Append: [Scheduled Maintenance for the US and EU Region - Synthetics - September 24th](https://status.newrelic.com/incidents/tjx22dw1vmw9)
+Append: [Delays for Data Processing in US Region](https://status.newrelic.com/incidents/mx0wyn600bvz)
+Append: [Alert Irregularities in US and EU Regions](https://status.newrelic.com/incidents/scgjv6ld3f0s)
+Append: [Data Ingest and Alert Delays in US Region](https://status.newrelic.com/incidents/8z3tkdptn326)
+Append: [Trace UI Errors in US and EU Regions](https://status.newrelic.com/incidents/5zhsjd9y966q)
+Append: [Alert Delays in US Region](https://status.newrelic.com/incidents/bh9kdyrlfc1t)
+append_entries: 25
+Finish: 2024-02-23 11:36:32.555456

@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:35:49.452503
+Existing_entries: 0
+Fetching from https://status.equinix.com/history.rss
+Token length: 441
+Summarized using GPT-3.5-turbo-1106
+Append: [Link Failure (Internet Exchange)](https://status.equinix.com/incidents/w47gbdmj5c2v)
+Token length: 398
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Fabric, Network Edge)](https://status.equinix.com/incidents/9118wv7rbh7z)
+Token length: 432
+Summarized using GPT-3.5-turbo-1106
+Append: [Link Failure (Equinix Fabric)](https://status.equinix.com/incidents/lx5yb8l4m98g)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/0thlpdjw83w4)
+Append: [Link Failure (Equinix Internet Access / Equinix Connect)](https://status.equinix.com/incidents/3tyl4ndn8q15)
+Append: [Network Component Issue (Equinix Fabric)](https://status.equinix.com/incidents/dkp6gtz5hh91)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/wcdzg6rpfl3m)
+Append: [Network Service Issue (Metro Connect)](https://status.equinix.com/incidents/4bq4xdqxncp4)
+Append: [Link Failure (Equinix Internet Access / Equinix Connect)](https://status.equinix.com/incidents/4128zjm0vh2r)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/63xmyjtdsf56)
+Append: [Network Service Issue (Equinix Fabric)](https://status.equinix.com/incidents/p5r14t3vb4qg)
+Append: [Link Failure (Equinix Fabric)](https://status.equinix.com/incidents/byczcspjrdxy)
+Append: [Switchover (Metro Connect)](https://status.equinix.com/incidents/6jz7vp4s7mx6)
+Append: [Link Failure (Equinix Fabric)](https://status.equinix.com/incidents/njgx28zfchpx)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/vbsyh29bm8nl)
+Append: [Network Component Issue (Equinix Fabric, Network Edge)](https://status.equinix.com/incidents/q67xxv5x3bz0)
+Append: [Link Failure (Equinix Fabric, Network Edge)](https://status.equinix.com/incidents/6q5xr5v9vz2n)
+Append: [Link Failure (Network Edge)](https://status.equinix.com/incidents/t86pycqbkxl4)
+Append: [Link Failure (Metro Connect)](https://status.equinix.com/incidents/00mlz8tgmk9g)
+Append: [Link Failure (Metro Connect)](https://status.equinix.com/incidents/jtslk0p8b6pg)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/s9bwkqx70b3b)
+Append: [Power Issue (Equinix Fabric)](https://status.equinix.com/incidents/jjqkj11dm091)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/6n74dbd2pzvp)
+Append: [Link Failure (Metro Connect)](https://status.equinix.com/incidents/7klpb56z98zf)
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/s5cb1mfqdr9b)
+append_entries: 25
+Finish: 2024-02-23 11:35:53.508492

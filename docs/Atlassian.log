@@ -1,0 +1,37 @@
+------------------------------------------------------
+Started: 2024-02-23 11:37:00.876655
+Existing_entries: 0
+Fetching from https://status.atlassian.com/history.rss
+Token length: 922
+Summarized using GPT-3.5-turbo-1106
+Append: [Service Disruptions Affecting Atlassian Products](https://status.atlassian.com/incidents/gg9z8g8xsxc7)
+Token length: 763
+Summarized using GPT-3.5-turbo-1106
+Append: [User searches failing](https://status.atlassian.com/incidents/5187qzxv1zvg)
+Token length: 1673
+Summarized using GPT-3.5-turbo-1106
+Append: [Delayed SCIM provisioning syncs of users and groups from Identity Providers](https://status.atlassian.com/incidents/71sdcbz9gy53)
+Append: [Atlassian's cross product user search service is currently degraded.](https://status.atlassian.com/incidents/lvq7pq0zbgvr)
+Append: [Org admins unable to access User Management](https://status.atlassian.com/incidents/httczs7wslz8)
+Append: [Email domain unverified](https://status.atlassian.com/incidents/3sf6vg9v8nqm)
+Append: [For a limited number of customers, activation for new products on some tenants is blocked](https://status.atlassian.com/incidents/b2lqb2yxry16)
+Append: [We are experiencing intermittent issues on Atlassian.com and Bitbucket Marketing pages](https://status.atlassian.com/incidents/lgl84rzhxd0d)
+Append: [Infrastructure outage affecting attachments and Bitbucket Pipelines in all regions](https://status.atlassian.com/incidents/4jkh49j0jjh6)
+Append: [Sign-ups, Product Activation, and Billing not working](https://status.atlassian.com/incidents/vk4mksp2hvj8)
+Append: [Performance issues and outages with Cloud products](https://status.atlassian.com/incidents/pzh5b8cvfk2g)
+Append: [Sign-up is failing](https://status.atlassian.com/incidents/fthwx4svyskf)
+Append: [Partial app outage across multiple regions](https://status.atlassian.com/incidents/wpphfps5ffpj)
+Append: [Atlassian account session invalidations](https://status.atlassian.com/incidents/yz4mkc6j501q)
+Append: [User Management Syncs are affected across all products](https://status.atlassian.com/incidents/r021q1l6nr1r)
+Append: [Login / Signup with Microsoft not working](https://status.atlassian.com/incidents/wkg98r6wc1b5)
+Append: [Increased latency in user searches](https://status.atlassian.com/incidents/85fh4cc7749r)
+Append: [Intermittent DNS Resolution Errors](https://status.atlassian.com/incidents/kw28xr3wyxmq)
+Append: [Major outage affecting all purchasing systems](https://status.atlassian.com/incidents/skl1wrm8z4yd)
+Append: [Atlassian billing systems will be undergoing maintenance](https://status.atlassian.com/incidents/vt7d9280ckr4)
+Append: [Issues displaying avatars](https://status.atlassian.com/incidents/dd0svkqq6dwg)
+Append: [Increased error rate in US East for Atlassian Jira, Confluence and Access customers](https://status.atlassian.com/incidents/gzrclxcqvdsp)
+Append: [App switcher not loading in Jira and Confluence for some customers](https://status.atlassian.com/incidents/w81fyrpz5qcl)
+Append: [Atlassian Cloud email notifications issue](https://status.atlassian.com/incidents/sqq15l5bd34s)
+Append: [Marketplace - Disaster Recovery Test](https://status.atlassian.com/incidents/fdgqykggz4sw)
+append_entries: 25
+Finish: 2024-02-23 11:37:03.829873

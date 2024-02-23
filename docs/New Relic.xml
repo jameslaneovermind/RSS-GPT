@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>New Relic Status - Incident History</title>
+<link>https://status.newrelic.com</link>
+
+<item>
+<title>Potential Service Interruption</title>
+<link>https://status.newrelic.com/incidents/x33z8rf4gvt9</link>
+<guid>https://status.newrelic.com/incidents/x33z8rf4gvt9</guid>
+<content:encoded><![CDATA[
+<div> ```html
+High - Potential Service Interruption <br><br> Summary:
+The company is currently investigating a potential service interruption that may impact some customers. Further updates are expected.
+``` <div>
+<p><small>Feb <var>14</var>, <var>23:48</var> UTC</small><br /><strong>Resolved</strong> - After investigation, our teams have determined that there has not been a service interruption and services should be operating normally. We strive to balance customer notification speed and investigation into events.</p><p><small>Feb <var>14</var>, <var>23:41</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 23:48:32 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 23:48:32 +0000</pubDate>
+</item>
+<item>
+<title>New Relic UI Delays and Irregularities in the EU and US Regions</title>
+<link>https://status.newrelic.com/incidents/kx8q9p85j737</link>
+<guid>https://status.newrelic.com/incidents/kx8q9p85j737</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Potential Service Interruption <br><br>Some customers in the US and EU regions may have experienced New Relic UI Delays and Irregularities. The company is currently investigating the issue that may impact customer accounts in these regions.
+
+Note: The summary is 195 characters long and meets the limit of 250 characters. <div>
+<p><small>Feb <var>14</var>, <var>18:50</var> UTC</small><br /><strong>Resolved</strong> - Between 16:47 UTC and 17:57 UTC on February 14, some customers in the US and EU regions may have experienced New Relic UI Delays and Irregularities <br /> <br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p><p><small>Feb <var>14</var>, <var>18:18</var> UTC</small><br /><strong>Update</strong> - We are investigating an issue that may impact New Relic UI for customer accounts in the US and EU regions.</p><p><small>Feb <var>14</var>, <var>18:07</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 18:50:10 +0000</pubDate>
+<pubDate>Wed, 14 Feb 2024 18:50:10 +0000</pubDate>
+</item>
+<item>
+<title>Alert Delays in US Region</title>
+<link>https://status.newrelic.com/incidents/d8ldj5ktl5vd</link>
+<guid>https://status.newrelic.com/incidents/d8ldj5ktl5vd</guid>
+<content:encoded><![CDATA[
+<div> High - Alert Processing Latency in US Region <br><br> Summary: Some customers in the US region experienced delayed or false alert notifications for all data types between 15:30 UTC and 17:52 UTC on February 13th. The issue has been investigated and resolved.
+
+Medium - Recovery and Monitoring of Impacted Services <br><br> Summary: Some recovery has been observed for impacted services in the US region. Monitoring for stability continues, and improvement in alert notification performance may be seen by some customers.
+
+Low - Service Interruption Investigation <br><br> Summary: The company is investigating potential service interruption that may impact some customers in the US region. Please continue to monitor for updates. <div>
+<p><small>Feb <var>13</var>, <var>18:20</var> UTC</small><br /><strong>Resolved</strong> - Between 15:30 UTC and 17:52 UTC on February 13th, some customers in the US region may have experienced delayed or false alert notifications for all data types.<br /> <br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Feb <var>13</var>, <var>17:58</var> UTC</small><br /><strong>Monitoring</strong> - We are seeing some recovery for impacted services and are monitoring for stability. Some customers in the US region may see improved alert notification performance at this time.</p><p><small>Feb <var>13</var>, <var>17:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate alert processing latency contributing to some customers in the US region experiencing delayed or false alert notifications for all data types.</p><p><small>Feb <var>13</var>, <var>16:51</var> UTC</small><br /><strong>Update</strong> - We are investigating alert processing latency contributing to some US customers experiencing delayed or false alert notifications for all data types.</p><p><small>Feb <var>13</var>, <var>16:20</var> UTC</small><br /><strong>Update</strong> - Some customers in the US region may experience delayed alert notifications for all data types.</p><p><small>Feb <var>13</var>, <var>16:17</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 18:20:48 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 18:20:48 +0000</pubDate>
+</item>
+<item>
+<title>Potential Service Interruption</title>
+<link>https://status.newrelic.com/incidents/cwclx9t8ysdv</link>
+<guid>https://status.newrelic.com/incidents/cwclx9t8ysdv</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>13</var>, <var>07:44</var> UTC</small><br /><strong>Resolved</strong> - Between 06:07 UTC and 06:35 UTC on February 13th, some customers in the US region may have experienced the New Relic One UI returning errors or not loading as expected.<br /><br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p><p><small>Feb <var>13</var>, <var>06:58</var> UTC</small><br /><strong>Monitoring</strong> - We are seeing recovery of impacted services and monitoring for stability of the environment.</p><p><small>Feb <var>13</var>, <var>06:46</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>13</var>, <var>06:37</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>13</var>, <var>06:33</var> UTC</small><br /><strong>Investigating</strong> - Some customers in the US region may be experiencing the New Relic One UI returning errors or not loading as expected.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 07:44:19 +0000</pubDate>
+<pubDate>Tue, 13 Feb 2024 07:44:19 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Support Center - February 10th from 06:00 UTC</title>
+<link>https://status.newrelic.com/incidents/yxvm2h9tzknm</link>
+<guid>https://status.newrelic.com/incidents/yxvm2h9tzknm</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>10</var>, <var>06:05</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>10</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>30</var>, <var>18:25</var> UTC</small><br /><strong>Scheduled</strong> - Our Support Center at support.newrelic.com is undergoing maintenance February 9th from 10:00PM PST - 10:05PM PST New Relic documentation can be accessed at docs.newrelic.com. For updates visit status.newrelic.com.</p>
+]]></content:encoded>
+<pubDate>Sat, 10 Feb 2024 06:05:56 +0000</pubDate>
+<pubDate>Sat, 10 Feb 2024 06:05:56 +0000</pubDate>
+</item>
+<item>
+<title>Login and UI Irregularities in US Region</title>
+<link>https://status.newrelic.com/incidents/8yf6bsryqw5p</link>
+<guid>https://status.newrelic.com/incidents/8yf6bsryqw5p</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>30</var>, <var>17:15</var> UTC</small><br /><strong>Resolved</strong> - Between 15:55 UTC and 16:22 UTC on January 30th, some customers in the US region may have experienced errors during login and intermittent permissions or account-related errors when navigating the UI. <br /><br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Jan <var>30</var>, <var>16:41</var> UTC</small><br /><strong>Identified</strong> - We are continuing to investigate issues contributing to login and UI errors. Some customers in the US region may experience errors when attempting to login and intermittent permissions or account-related errors when navigating the UI. <br /><br />We are seeing recovery for affected services at this time and will continue to provide updates as they become available.</p><p><small>Jan <var>30</var>, <var>16:24</var> UTC</small><br /><strong>Update</strong> - We are investigating issues contributing to login and UI errors. Some customers in the US region may experience errors when attempting to login as well as intermittent errors when navigating the UI.</p><p><small>Jan <var>30</var>, <var>16:17</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jan 2024 17:15:09 +0000</pubDate>
+<pubDate>Tue, 30 Jan 2024 17:15:09 +0000</pubDate>
+</item>
+<item>
+<title>Entity Data Delayed for US/EU Region</title>
+<link>https://status.newrelic.com/incidents/vnzwx0460yt8</link>
+<guid>https://status.newrelic.com/incidents/vnzwx0460yt8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>24</var>, <var>14:42</var> UTC</small><br /><strong>Resolved</strong> - Between 11:50 UTC - 13:24 UTC on January 24th, some customers in the US and EU regions may have experienced a delay in the display of data for new Entities reporting data to New Relic for the first time.<br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p><p><small>Jan <var>24</var>, <var>14:24</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>24</var>, <var>14:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor the recovery.</p><p><small>Jan <var>24</var>, <var>14:05</var> UTC</small><br /><strong>Monitoring</strong> - We are continuing to monitor the recovery.</p><p><small>Jan <var>24</var>, <var>13:39</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue and working to resolve</p><p><small>Jan <var>24</var>, <var>13:36</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 24 Jan 2024 14:42:46 +0000</pubDate>
+<pubDate>Wed, 24 Jan 2024 14:42:46 +0000</pubDate>
+</item>
+<item>
+<title>Azure Integrations Data and Alerts Missing or Delayed in US and EU Regions</title>
+<link>https://status.newrelic.com/incidents/1fmnt05g7vqd</link>
+<guid>https://status.newrelic.com/incidents/1fmnt05g7vqd</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>21</var>, <var>08:00</var> UTC</small><br /><strong>Resolved</strong> - Between 01:00 UTC and 08:00 UTC on January 21st, some customers in the US and EU regions may have experienced missing or delayed infra-metrics for Azure integrations as well as delayed or missing alert notifications for related data. <br /><br />To prevent our customers from receiving a high volume of false positive alert notifications, notifications for affected data were temporarily suppressed during this time.</p><p><small>Jan <var>21</var>, <var>07:20</var> UTC</small><br /><strong>Update</strong> - Azure integration data and alerts have recovered for the EU region. The US region is recovering.</p><p><small>Jan <var>21</var>, <var>06:56</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor the recovery. Alert notifications for infra-metrics are still impacted.</p><p><small>Jan <var>21</var>, <var>06:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor the recovery. Alert notifications for infra-metrics are still impacted.</p><p><small>Jan <var>21</var>, <var>05:44</var> UTC</small><br /><strong>Monitoring</strong> - Azure integrations are recovering, alert notifications still impacted.</p><p><small>Jan <var>21</var>, <var>05:34</var> UTC</small><br /><strong>Update</strong> - Some customers in the US and EU regions may experience delayed alert notifications and missing or delayed infra-metrics from Azure integrations.</p><p><small>Jan <var>21</var>, <var>05:29</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Sun, 21 Jan 2024 08:00:10 +0000</pubDate>
+<pubDate>Sun, 21 Jan 2024 08:00:10 +0000</pubDate>
+</item>
+<item>
+<title>Alerts Irregularities in the EU Region</title>
+<link>https://status.newrelic.com/incidents/pyfhxs9mzkr7</link>
+<guid>https://status.newrelic.com/incidents/pyfhxs9mzkr7</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var>11</var>, <var>07:30</var> UTC</small><br /><strong>Resolved</strong> - Between 08:23 UTC and 13:44 UTC on January 11th, some customers in the EU region may have experienced delayed, false-positive, or missing alert notifications for all alertable data types. We have investigated and resolved this interruption and the above services have returned to normal operation.</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Jan 2024 07:30:00 +0000</pubDate>
+<pubDate>Thu, 11 Jan 2024 07:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Data and Alert Delays in the US Region</title>
+<link>https://status.newrelic.com/incidents/kl7f7pzg5l1t</link>
+<guid>https://status.newrelic.com/incidents/kl7f7pzg5l1t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Jan <var> 8</var>, <var>20:38</var> UTC</small><br /><strong>Resolved</strong> - Between 19:17 UTC and 20:37 UTC on January 8th, some customers in the US region may have experienced delays for multiple data types in queries, charts, and dashboards as well as delayed or missing alert notifications for related data. <br /><br />To prevent our customers from receiving a high volume of false positive alert notifications, notifications for affected data were temporarily suppressed during this time.</p><p><small>Jan <var> 8</var>, <var>20:32</var> UTC</small><br /><strong>Monitoring</strong> - Data and alert processing has largely recovered for customers in the US region. Some customers may still be experiencing delays for infrastructure metric data only at this time, as well as delayed or missing alert notifications for this data.</p><p><small>Jan <var> 8</var>, <var>20:09</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate issues contributing to data and alerts delays. Some customers in the US region may be experiencing delayed data in queries, charts, and dashboards as well as delayed or missing alert notifications for related data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.</p><p><small>Jan <var> 8</var>, <var>19:38</var> UTC</small><br /><strong>Update</strong> - Some customers in the US region may be experiencing delayed data in queries, charts, and dashboards as well as delayed or missing alert notifications for related data.</p><p><small>Jan <var> 8</var>, <var>19:35</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Jan 2024 20:38:29 +0000</pubDate>
+<pubDate>Mon, 08 Jan 2024 20:38:29 +0000</pubDate>
+</item>
+<item>
+<title>Data Irregularities in the EU Region</title>
+<link>https://status.newrelic.com/incidents/n8z3pb2ty51h</link>
+<guid>https://status.newrelic.com/incidents/n8z3pb2ty51h</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 5</var>, <var>22:48</var> UTC</small><br /><strong>Resolved</strong> - Between 15:23 UTC and 22:07 UTC on December 5th, some customers in the EU region may have experienced errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. To prevent our customers from receiving a high volume of false positive alert notifications, we temporarily suppressed notifications for affected data intermittently during this timeframe. <br /><br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p><p><small>Dec <var> 5</var>, <var>22:08</var> UTC</small><br /><strong>Monitoring</strong> - Our teams are continuing to investigate issues with data ingest for multiple data types. Some customers in the EU region may experience intermittent errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. <br /><br />We are seeing recovery of affected services at this time and have disabled alert notification suppression as a result. We're monitoring as services recover and will provide an additional update once we've fully validated that all affected services have returned to normal operation.</p><p><small>Dec <var> 5</var>, <var>21:28</var> UTC</small><br /><strong>Update</strong> - Our teams are continuing to investigate issues with data ingest for multiple data types. Some customers in the EU region may experience intermittent errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.<br /><br />Updates for this interruption are suspended for one hour pending significant change in status as our teams continue their investigation.</p><p><small>Dec <var> 5</var>, <var>20:28</var> UTC</small><br /><strong>Update</strong> - Customers may continue to see improvement of impacted services as we work to investigate issues impacting ingested infrastructure data in the EU region. To prevent our customers from receiving a high volume of false positive alert notifications, notifications for impacted data will remain temporarily suppressed. Updates for this interruption are suspended for one hour pending significant change in status as our teams continue their investigation.</p><p><small>Dec <var> 5</var>, <var>19:15</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for infrastructure data. Updates for this interruption are suspended for one hour pending significant change in status as our teams continue their investigation. <br /><br />Some customers in the EU region may continue to experience errors when sending infrastructure data to New Relic, issues viewing real time infrastructure data, and delayed or missing alert notifications related to real time infrastructure data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.</p><p><small>Dec <var> 5</var>, <var>18:42</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for infrastructure data. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time infrastructure data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.<br /><br />Customers may continue to see improvement as we work to recover impacted services.</p><p><small>Dec <var> 5</var>, <var>18:00</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for infrastructure data. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time infrastructure data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.</p><p><small>Dec <var> 5</var>, <var>17:28</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for multiple data types. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.<br /><br />Infrastructure and metric data remain impacted, but customers may now see recovery for all other ingested data types.</p><p><small>Dec <var> 5</var>, <var>17:10</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for multiple data types. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.<br /><br />Some customers may begin seeing the recovery of impacted services as we continue working to resolve this interruption.</p><p><small>Dec <var> 5</var>, <var>16:40</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue with data ingest for multiple data types. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.</p><p><small>Dec <var> 5</var>, <var>16:09</var> UTC</small><br /><strong>Update</strong> - We are investigating an issue with data ingest for multiple data types. Some customers in the EU region may experience errors when sending data to New Relic, issues viewing real time data, and delayed or missing alert notifications related to real time data.</p><p><small>Dec <var> 5</var>, <var>16:03</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Dec 2023 22:48:28 +0000</pubDate>
+<pubDate>Tue, 05 Dec 2023 22:48:28 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Support Center - December 3rd from 03:00 - 06:00 UTC</title>
+<link>https://status.newrelic.com/incidents/85jwz9c3p55v</link>
+<guid>https://status.newrelic.com/incidents/85jwz9c3p55v</guid>
+<content:encoded><![CDATA[
+
+<p><small>Dec <var> 3</var>, <var>06:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 3</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>21</var>, <var>00:19</var> UTC</small><br /><strong>Scheduled</strong> - Our Support Center at support.newrelic.com is undergoing maintenance December 3rd from 03:00 - 06:00 UTC (Dec 2 7:00PM PST - 10:00PM PST). New Relic documentation can be accessed at docs.newrelic.com. For updates visit status.newrelic.com.</p>
+]]></content:encoded>
+<pubDate>Sun, 03 Dec 2023 06:00:01 +0000</pubDate>
+<pubDate>Sun, 03 Dec 2023 06:00:01 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for the US/EU Regions - November 12th from 06:00 UTC to 06:30 UTC</title>
+<link>https://status.newrelic.com/incidents/92p40jjlmmcy</link>
+<guid>https://status.newrelic.com/incidents/92p40jjlmmcy</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var>12</var>, <var>06:36</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>12</var>, <var>06:31</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Nov <var>12</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 1</var>, <var>18:13</var> UTC</small><br /><strong>Scheduled</strong> - We intend to perform maintenance for New Relic sign-up services on Sunday, November 12th from 06:00 UTC to 06:30 UTC (or Saturday, November 11th from 22:00 PST to 22:30 PST). During this maintenance, customers in the US and EU regions may experience issues creating new organizations, authentication domains, users, and grants.  <br /><br />All further updates will be posted here on our status page.</p>
+]]></content:encoded>
+<pubDate>Sun, 12 Nov 2023 06:36:47 +0000</pubDate>
+<pubDate>Sun, 12 Nov 2023 06:36:47 +0000</pubDate>
+</item>
+<item>
+<title>Data Ingest Irregularities in EU and US Regions</title>
+<link>https://status.newrelic.com/incidents/9s4yrv36x7g8</link>
+<guid>https://status.newrelic.com/incidents/9s4yrv36x7g8</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 8</var>, <var>17:03</var> UTC</small><br /><strong>Resolved</strong> - Between 16:05 UTC and 16:47 UTC on November 8th, some customers in the EU region as well as a small percentage of US customers may have experienced errors when sending data to New Relic, issues in viewing data in real time, and delayed or missing alert notifications related to real time data. <br /><br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Nov <var> 8</var>, <var>16:52</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue affecting data ingest for all data types. Some customers in the EU region as well as a small percentage of US customers may experience errors when sending data to New Relic, issues in viewing data in real time, and delayed or missing alert notifications related to real time data.</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 17:03:07 +0000</pubDate>
+<pubDate>Wed, 08 Nov 2023 17:03:07 +0000</pubDate>
+</item>
+<item>
+<title>Data Irregularities in the EU Region</title>
+<link>https://status.newrelic.com/incidents/4nf332w58y8w</link>
+<guid>https://status.newrelic.com/incidents/4nf332w58y8w</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 8</var>, <var>05:13</var> UTC</small><br /><strong>Resolved</strong> - Between 04:15 UTC and 04:20 UTC on November 8, some customers in the EU region may have experienced errors when sending data to New Relic, issues in viewing data in real time, and delayed or missing alert notifications related to real time data.<br /><br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Nov <var> 8</var>, <var>05:08</var> UTC</small><br /><strong>Identified</strong> - Some customers in the EU region may experience errors when sending data to New Relic, issues in viewing data in real time, and delayed or missing alert notifications related to real time data.</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Nov 2023 05:13:01 +0000</pubDate>
+<pubDate>Wed, 08 Nov 2023 05:13:01 +0000</pubDate>
+</item>
+<item>
+<title>Alerts Delays in US Region</title>
+<link>https://status.newrelic.com/incidents/0jr8gbnk9zrx</link>
+<guid>https://status.newrelic.com/incidents/0jr8gbnk9zrx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Nov <var> 6</var>, <var>19:00</var> UTC</small><br /><strong>Resolved</strong> - Between 20:05 UTC and 21:02 UTC on November 6th, some customers in the US region may have experienced delayed or missing alert notifications related for all data types. <br /><br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p>
+]]></content:encoded>
+<pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
+<pubDate>Mon, 06 Nov 2023 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Browser Data and Alert Irregularities in the US Region</title>
+<link>https://status.newrelic.com/incidents/yl6lh7m50757</link>
+<guid>https://status.newrelic.com/incidents/yl6lh7m50757</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>18</var>, <var>20:23</var> UTC</small><br /><strong>Resolved</strong> - Between 18:04 UTC and 18:20 UTC and again from 19:04 UTC to 19:36 UTC on October 18th, some customers in the US regions may have experienced delayed browser data in queries, charts, and dashboards as well as delayed or missing alert notifications for related data. To prevent our customers from receiving a high volume of false positive alert notifications, notifications for affected data were temporarily suppressed between 19:49 UTC and 20:01 UTC. <br /> <br />We have investigated and resolved this interruption and the above services have returned to normal operation.</p><p><small>Oct <var>18</var>, <var>19:49</var> UTC</small><br /><strong>Investigating</strong> - Some customers in the US region may be experiencing delayed browser data in queries, charts, and dashboards as well as delayed or missing alert notifications for related data. To prevent our customers from receiving a high volume of false positive alert notifications, we have temporarily suppressed notifications for affected data.</p>
+]]></content:encoded>
+<pubDate>Wed, 18 Oct 2023 20:23:13 +0000</pubDate>
+<pubDate>Wed, 18 Oct 2023 20:23:13 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for the  Support Center - October 14th from 05:00 - 05:05 UTC</title>
+<link>https://status.newrelic.com/incidents/4t5p9zh64m56</link>
+<guid>https://status.newrelic.com/incidents/4t5p9zh64m56</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>14</var>, <var>05:05</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>14</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 6</var>, <var>15:13</var> UTC</small><br /><strong>Scheduled</strong> - Our Support Center at support.newrelic.com is undergoing maintenance October 14th from 05:00 - 05:05 UTC (October 13th from 10:00PM PDT - 10:05PM PDT). New Relic documentation can be accessed at docs.newrelic.com. For updates visit status.newrelic.com.</p>
+]]></content:encoded>
+<pubDate>Sat, 14 Oct 2023 05:05:08 +0000</pubDate>
+<pubDate>Sat, 14 Oct 2023 05:05:08 +0000</pubDate>
+</item>
+<item>
+<title>Data and Alert Irregularities in the US Region</title>
+<link>https://status.newrelic.com/incidents/clqpsypvknq1</link>
+<guid>https://status.newrelic.com/incidents/clqpsypvknq1</guid>
+<content:encoded><![CDATA[
+
+<p><small>Oct <var>11</var>, <var>01:16</var> UTC</small><br /><strong>Resolved</strong> - Between 22:00 UTC October 10 and 00:55 October 11 UTC, some customers experienced irregularities in query results and dashboards. Notifications were impacted for some customers between 00:05 UTC and 00:55 October 11 UTC.<br />We’ve resolved the issue in the US region. Services have returned to their normal operation.</p><p><small>Oct <var>11</var>, <var>00:53</var> UTC</small><br /><strong>Investigating</strong> - Some customers in the US region may be experiencing delayed data in queries, charts, and dashboards as well as delayed or missing alert notifications for related data.<br /><br />We have identified an issue with Alerts in the US region that may cause false-positive alert notifications. To reduce noise, alert notifications are being temporarily suppressed for applicable customers. We are working to resolve the underlying issue and will re-enable alert notifications upon resolution.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Oct 2023 01:16:43 +0000</pubDate>
+<pubDate>Wed, 11 Oct 2023 01:16:43 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for the US and EU Region - Synthetics - September 24th</title>
+<link>https://status.newrelic.com/incidents/tjx22dw1vmw9</link>
+<guid>https://status.newrelic.com/incidents/tjx22dw1vmw9</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>24</var>, <var>06:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>24</var>, <var>05:51</var> UTC</small><br /><strong>Verifying</strong> - Verification is currently underway for the maintenance items.</p><p><small>Sep <var>24</var>, <var>05:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>18</var>, <var>21:26</var> UTC</small><br /><strong>Scheduled</strong> - We intend to perform maintenance on Sunday, September 24th from 05:00 UTC to 06:00 UTC (or Saturday, September 23rd from 22:00 PDT to 23:00 PDT). Customers in the US and EU regions may experience delayed or missing synthetics checks during this maintenance. Please note, we do not anticipate impact to alert notifications except those that rely on synthetics checks during the outlined window.</p>
+]]></content:encoded>
+<pubDate>Sun, 24 Sep 2023 06:00:59 +0000</pubDate>
+<pubDate>Sun, 24 Sep 2023 06:00:59 +0000</pubDate>
+</item>
+<item>
+<title>Delays for Data Processing in US Region</title>
+<link>https://status.newrelic.com/incidents/mx0wyn600bvz</link>
+<guid>https://status.newrelic.com/incidents/mx0wyn600bvz</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>20</var>, <var>22:40</var> UTC</small><br /><strong>Resolved</strong> - Between 21:08 UTC to 22:12 UTC on September 20th, some customers in the US region may have experienced delays for data and for related alert notifications. <br /><br />The service interruption has been resolved and impacted services have returned to normal operations.</p><p><small>Sep <var>20</var>, <var>21:48</var> UTC</small><br /><strong>Update</strong> - We are investigating delays for data processing related to multiple data types. Some customers in the US region may be experiencing delays for data and for related alert notifications.</p><p><small>Sep <var>20</var>, <var>21:40</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Sep 2023 22:40:52 +0000</pubDate>
+<pubDate>Wed, 20 Sep 2023 22:40:52 +0000</pubDate>
+</item>
+<item>
+<title>Alert Irregularities in US and EU Regions</title>
+<link>https://status.newrelic.com/incidents/scgjv6ld3f0s</link>
+<guid>https://status.newrelic.com/incidents/scgjv6ld3f0s</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var>11</var>, <var>22:29</var> UTC</small><br /><strong>Resolved</strong> - Between 17:48 UTC and 22:27 UTC on Monday, September 11, 2023, some customers in the US and EU region may have experienced missing alert notifications and errors accessing the Alerts UI. We have investigated and resolved a service interruption and impacted services have returned to normal operations.</p><p><small>Sep <var>11</var>, <var>22:18</var> UTC</small><br /><strong>Monitoring</strong> - Alert notifications and errors in the UI are recovering. We will notify once all services have completely returned to normal operation.</p><p><small>Sep <var>11</var>, <var>22:01</var> UTC</small><br /><strong>Update</strong> - New Relic is continuing to work to restore services to normal operation.</p><p><small>Sep <var>11</var>, <var>21:31</var> UTC</small><br /><strong>Update</strong> - New Relic is continuing to work to restore services to normal operation.</p><p><small>Sep <var>11</var>, <var>21:03</var> UTC</small><br /><strong>Update</strong> - New Relic is continuing to work to restore services to normal operation.</p><p><small>Sep <var>11</var>, <var>20:29</var> UTC</small><br /><strong>Update</strong> - New Relic has concluded the investigation with our cloud provider and are now working and investigating on how to return our services back to normal operation.</p><p><small>Sep <var>11</var>, <var>19:36</var> UTC</small><br /><strong>Update</strong> - New Relic teams are continuing to investigate the issue with our cloud provider.</p><p><small>Sep <var>11</var>, <var>19:07</var> UTC</small><br /><strong>Identified</strong> - New Relic teams are continuing to investigate this issue with our cloud provider. We have identified the root cause and are working to resolve the issue. <br /><br />Customers in the US and EU region may be experiencing issues accessing various portions of the New Relic UI and missing alert notifications. Data ingest does not appear to be impacted at this time</p><p><small>Sep <var>11</var>, <var>18:48</var> UTC</small><br /><strong>Update</strong> - We are investigating an issue impacting alerting. Some customers in the US and EU regions may experience missing alert notifications for all data sources. Additionally customers may experience errors accessing the Alerts UI.</p><p><small>Sep <var>11</var>, <var>18:32</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var>11</var>, <var>18:30</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Sep 2023 22:29:25 +0000</pubDate>
+<pubDate>Mon, 11 Sep 2023 22:29:25 +0000</pubDate>
+</item>
+<item>
+<title>Data Ingest and Alert Delays in US Region</title>
+<link>https://status.newrelic.com/incidents/8z3tkdptn326</link>
+<guid>https://status.newrelic.com/incidents/8z3tkdptn326</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 6</var>, <var>06:37</var> UTC</small><br /><strong>Resolved</strong> - Between 02:03 UTC and 05:45 UTC on Wednesday, September 6, 2023, some customers in the US region may have experienced an impact to data collection and delayed or missing alert notifications. To prevent our customers from receiving a high volume of false-positive alert notifications during this interruption, alerts were temporarily suppressed for applicable customers between 02:20 UTC and 04:52 UTC.<br /><br />We have investigated and resolved a service interruption with our Cloud Service Provider and impacted services have returned to normal operations.</p><p><small>Sep <var> 6</var>, <var>05:57</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Sep <var> 6</var>, <var>04:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. Some customers in the US region have reported recovery from the impact to data collection and delayed or missing alert notifications.</p><p><small>Sep <var> 6</var>, <var>04:20</var> UTC</small><br /><strong>Update</strong> - We have engaged our Cloud provider to assist with further investigation and are evaluating additional mitigation efforts. Some customers in the US region may experience impact to data collection and delayed or missing alert notifications.</p><p><small>Sep <var> 6</var>, <var>03:49</var> UTC</small><br /><strong>Update</strong> - We have engaged our Cloud provider to assist with further investigation and are evaluating additional mitigation efforts. Some customers in the US region may experience impact to data collection and delayed or missing alert notifications.</p><p><small>Sep <var> 6</var>, <var>03:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate an issue. Some customers in the US region may experience impact to data collection and delayed or missing alert notifications.</p><p><small>Sep <var> 6</var>, <var>02:31</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var> 6</var>, <var>02:24</var> UTC</small><br /><strong>Investigating</strong> - Some customers in the US region may be experiencing  delayed or missing alert notifications. We have engaged all necessary resources as we investigate this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Sep 2023 06:37:13 +0000</pubDate>
+<pubDate>Wed, 06 Sep 2023 06:37:13 +0000</pubDate>
+</item>
+<item>
+<title>Trace UI Errors in US and EU Regions</title>
+<link>https://status.newrelic.com/incidents/5zhsjd9y966q</link>
+<guid>https://status.newrelic.com/incidents/5zhsjd9y966q</guid>
+<content:encoded><![CDATA[
+
+<p><small>Sep <var> 5</var>, <var>18:37</var> UTC</small><br /><strong>Resolved</strong> - Between 17:00 UTC and 18:34 UTC on September 5th, some customers in the US and EU regions may have experienced receiving errors when attempting to view trace details within the UI. <br /><br />We have investigated and resolved this service interruption and impacted services have returned to normal operations.</p><p><small>Sep <var> 5</var>, <var>18:08</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue where some customers in the US and EU regions may be receiving errors when attempting to view trace details in the UI.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Sep 2023 18:37:17 +0000</pubDate>
+<pubDate>Tue, 05 Sep 2023 18:37:17 +0000</pubDate>
+</item>
+<item>
+<title>Alert Delays in US Region</title>
+<link>https://status.newrelic.com/incidents/bh9kdyrlfc1t</link>
+<guid>https://status.newrelic.com/incidents/bh9kdyrlfc1t</guid>
+<content:encoded><![CDATA[
+
+<p><small>Aug <var>27</var>, <var>04:46</var> UTC</small><br /><strong>Resolved</strong> - Between approximately 14:30 UTC on August 26th and 03:59 UTC on August 27th, some customers in the US region may have experienced missing, delayed, or false alert notifications.<br /><br />We investigated and resolved this interruption. Impacted services have returned to normal operation.</p><p><small>Aug <var>27</var>, <var>04:17</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>27</var>, <var>03:20</var> UTC</small><br /><strong>Update</strong> - We are continuing to work toward resolution on this issue.</p><p><small>Aug <var>27</var>, <var>01:45</var> UTC</small><br /><strong>Update</strong> - We are continuing to work toward resolution on this issue.</p><p><small>Aug <var>27</var>, <var>00:23</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Aug <var>26</var>, <var>23:10</var> UTC</small><br /><strong>Update</strong> - Some customers in the US region may be experiencing delayed or missing alert notifications, as well as intermittent false positive alerts.<br />We are still actively engaged on this issue. Our teams have scaled the system and tried to reduce traffic where appropriate, as well as implemented additional targeted monitoring to assist with the investigation.</p><p><small>Aug <var>26</var>, <var>22:00</var> UTC</small><br /><strong>Update</strong> - We are still investigating this interruption. Some customers in the US region may be experiencing delayed or missing alert notifications, as well as intermittent false positive alerts.</p><p><small>Aug <var>26</var>, <var>20:49</var> UTC</small><br /><strong>Identified</strong> - We are continuing to investigate an issue with alerts. Some customers in the US region may be experiencing delayed or missing alert notifications, as well as intermittent false positive alerts.<br />We have engaged all necessary resources and have completed various actions to reduce or mitigate impact while we work to identify the root cause for the interruption.</p><p><small>Aug <var>26</var>, <var>20:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>19:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>19:17</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>18:45</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>18:10</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>17:39</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>17:06</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p><p><small>Aug <var>26</var>, <var>16:58</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Aug <var>26</var>, <var>16:10</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Aug <var>26</var>, <var>15:56</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Aug <var>26</var>, <var>15:48</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Aug <var>26</var>, <var>15:31</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Sun, 27 Aug 2023 04:46:31 +0000</pubDate>
+<pubDate>Sun, 27 Aug 2023 04:46:31 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

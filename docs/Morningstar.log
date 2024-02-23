@@ -1,0 +1,35 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:54.545260
+Existing_entries: 0
+Fetching from https://status.morningstar.com/history.rss
+Token length: 767
+Summarized using GPT-3.5-turbo-1106
+Append: [Retirement Manager User Experience Intermittent SSO Failure](https://status.morningstar.com/incidents/3r43tnvvxx9b)
+Token length: 886
+Summarized using GPT-3.5-turbo-1106
+Append: [Morningstar Direct Web Services is experiencing an issue delaying the calculation of daily and monthly trailing performance .](https://status.morningstar.com/incidents/3z5lynnzmf47)
+Token length: 780
+Summarized using GPT-3.5-turbo-1106
+Append: [Morningstar Service Notification: Analytics Lab Notebooks Unavailable](https://status.morningstar.com/incidents/zdz6lwj841q2)
+Append: [Retirement Manager User Experience Outage](https://status.morningstar.com/incidents/zk6ghsvg9nlw)
+Append: [Retirement Manager User Experience Outage](https://status.morningstar.com/incidents/vgflf7ly7jlv)
+Append: [Morningstar Service Notification: Presentation Studio Custom Data Not Populating](https://status.morningstar.com/incidents/0d6dy3gzx5xj)
+Append: [Retirement Manager User Experience Outage](https://status.morningstar.com/incidents/4wwh6vkj7qkm)
+Append: [Retirement Manager Outage](https://status.morningstar.com/incidents/rgjbh5m23mfg)
+Append: [Morningstar Service Notification: Morningstar Dynamic Services API Outage](https://status.morningstar.com/incidents/qwrj4sw9tzym)
+Append: [Retirement Manager: EZ Enroll API Slowness](https://status.morningstar.com/incidents/vv5636t6bbgs)
+Append: [Retirement Manager: Express API Slowness](https://status.morningstar.com/incidents/3bylshkn763b)
+Append: [Morningstar Service Notification: Morningstar Chicago Internet Outage](https://status.morningstar.com/incidents/3vr30k5hzfjw)
+Append: [Morningstar Service Notification: Morningstar Outages Due to Amazon Web Services Degradation](https://status.morningstar.com/incidents/7qm6pzn309m3)
+Append: [Morningstar Service Notification: Excel Add-In Performance Unavailable](https://status.morningstar.com/incidents/xxjy0sndfv03)
+Append: [Morningstar Service Notification: Morningstar Data Delay Issue](https://status.morningstar.com/incidents/9l8f7yw6hh76)
+Append: [Morningstar Service Notification: Bloomberg Index Data Delay](https://status.morningstar.com/incidents/jqz89q07dh9r)
+Append: [Morningstar Service Notification: Morningstar Direct Web Hosted Tools Issue](https://status.morningstar.com/incidents/wb6nm5tw4ytf)
+Append: [Morningstar Service Notification: Morningstar Direct Slowness](https://status.morningstar.com/incidents/24xqxkc9vxsn)
+Append: [Morningstar Service Notification: Morningstar Direct Disaster Recovery](https://status.morningstar.com/incidents/2rtmjrgbh8pt)
+Append: [Morningstar Direct Disaster Recovery](https://status.morningstar.com/incidents/7nwdt2vm28ps)
+Append: [Morningstar Service Notification: Morningstar Presentation Studio Outage](https://status.morningstar.com/incidents/k1j3t5rf08dh)
+Append: [Morningstar Service Notification: Morningstar Direct Data Delay](https://status.morningstar.com/incidents/0dwy64ptm6qq)
+Append: [Morningstar Service Notification: Morningstar Direct Slowness](https://status.morningstar.com/incidents/h07rd5v597dw)
+append_entries: 23
+Finish: 2024-02-23 11:37:00.414204
