@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Indonesia SMS Carrier Maintenance - XL Axiata</title>
+<link>https://status.twilio.com/incidents/cj8zl26n3g6z</link>
+<guid>https://status.twilio.com/incidents/cj8zl26n3g6z</guid>
+<content:encoded><![CDATA[
+<div> High - Network Maintenance in Indonesia <br><br> Summary: XL Axiata network in Indonesia will undergo planned maintenance on February 26th from 10:00 - 11:00 PST, potentially causing intermittent delays in SMS delivery to XL Axiata Indonesia handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>10:00</var> - <var>11:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>04:16</var> PST</small><br /><strong>Scheduled</strong> - The XL Axiata network in Indonesia is conducting a planned maintenance from 26 February 2024 at 10:00 PST until 26 February 2024 at 11:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to XL Axiata Indonesia handsets.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 10:00:00 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 10:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Philippines SMS Carrier Maintenance - Globe</title>

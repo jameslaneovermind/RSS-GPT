@@ -652,3 +652,18 @@ Existing_entries: 26
 Fetching from https://status.klarna.com/history.rss
 append_entries: 0
 Finish: 2024-02-23 12:14:48.873963
+------------------------------------------------------
+Started: 2024-02-23 13:09:10.758570
+Existing_entries: 26
+Fetching from https://status.klarna.com/history.rss
+Token length: 238
+Summarized using GPT-3.5-turbo-1106
+Append: [ID Scan option unavailable on Google Chrome browser for android users](https://status.klarna.com/incidents/p6wm0swpxf6m)
+append_entries: 1
+Finish: 2024-02-23 13:09:11.988595
+------------------------------------------------------
+Started: 2024-02-23 13:09:15.177209
+Existing_entries: 27
+Fetching from https://status.klarna.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 13:09:15.451043
