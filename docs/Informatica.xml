@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Intermittent Performance degradation on EM West 1 POD for Cloud Application Integration</title>
+<link>https://status.informatica.com/incidents/y2s5ghpwbgt2</link>
+<guid>https://status.informatica.com/incidents/y2s5ghpwbgt2</guid>
+<content:encoded><![CDATA[
+<div> <High> - Performance Degradation on EM West 1 POD
+Summary: Performance degradation is impacting Cloud Application Integration on the EM West 1 POD, causing slower process executions and process designer performance. Investigation is priority. <div>
+<p><small>Feb <var>23</var>, <var>07:06</var> PST</small><br /><strong>Investigating</strong> - We are noticing performance degradation on EM West 1 POD for Cloud Application Integration. This might result in slower process executions and performance within the process designer. We are investigating the issue on priority.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 07:06:15 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 07:06:15 -0800</pubDate>
+</item>
 
 <item>
 <title>Intermittent Performance degradation on EM West 1 POD for Cloud Application Integration</title>

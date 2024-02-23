@@ -4,6 +4,21 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/77xqmw2ndnvb</link>
+<guid>https://status.equinix.com/incidents/77xqmw2ndnvb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Failure on dark fiber link on SP Metro <br><br> Summary: Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, while Protected Metro Connect circuits experienced a 50ms switching hit.
+
+[Medium] - Failure on dark fiber link on SP Metro <br><br> Summary: Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, while Protected Metro Connect circuits experienced a 50ms switching hit. Equinix engineers are investigating the issue.
+
+[Medium] - Identified - We are currently investigating this issue. <br><br> Summary: Equinix engineers are investigating the issue with the dark fiber link on SP Metro. <div>
+<p><small>Feb <var>23</var>, <var>14:55</var> UTC</small><br /><strong>Resolved</strong> - Failure on dark fiber link on SP Metro.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, while Protected Metro Connect circuits experienced a 50ms switching hit. Equinix engineers are investigating the issue..<br /><div style="display: none;">wjgz9k3hzljv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029760</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p><p><small>Feb <var>23</var>, <var>14:30</var> UTC</small><br /><strong>Update</strong> - Failure on dark fiber link on SP Metro.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, while Protected Metro Connect circuits experienced a 50ms switching hit. Equinix engineers are investigating the issue..<br /><div style="display: none;">wjgz9k3hzljv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029760</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p><p><small>Feb <var>23</var>, <var>14:15</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wjgz9k3hzljv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029760</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 14:55:56 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 14:55:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Internet Exchange)</title>

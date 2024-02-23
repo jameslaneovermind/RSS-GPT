@@ -4,18 +4,17 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>Scheduled Maintenance - Onboarding365</title>
 <link>https://status.bullhorn.com/incidents/zydyy69d2r7t</link>
 <guid>https://status.bullhorn.com/incidents/zydyy69d2r7t</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Onboarding365 Maintenance <br><br> Summary: Bullhorn Technical Operations team will be performing standard maintenance which may cause intermittent latency and/or errors. <div>
+<div> [Medium] - Onboarding365 Maintenance <br /><br /> Summary: Bullhorn Technical Operations team will be performing standard maintenance which may cause intermittent latency and/or errors. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>02:00</var> - <var>04:00</var> EST</strong></p><p><small>Feb <var>23</var>, <var>08:57</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: Users may experience intermittent latency and/or errors during this maintenance.</b><br />System: Onboarding365<br />Cluster(s): Production<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. Additional updates will be posted here if necessary.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 02:00:00 -0500</pubDate>
-<pubDate>Tue, 27 Feb 2024 02:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance - Bullhorn for Salesforce</title>
 <link>https://status.bullhorn.com/incidents/n3j349tmd19m</link>
