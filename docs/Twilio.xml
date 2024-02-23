@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Philippines SMS Carrier Maintenance - Globe</title>
+<link>https://status.twilio.com/incidents/rpcffcj7z5yt</link>
+<guid>https://status.twilio.com/incidents/rpcffcj7z5yt</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Emergency Maintenance for Globe Network in Philippines <br><br> During the maintenance window from 08:00 to 09:00 PST on February 24, 2024, intermittent delays delivering SMS to and from Globe Philippines handsets may occur. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>08:00</var> - <var>09:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>02:48</var> PST</small><br /><strong>Scheduled</strong> - The Globe network in Philippines is conducting an emergency maintenance from 24 February 2024 at 08:00 PST until 24 February 2024 at 09:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Globe Philippines handsets.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 08:00:00 -0800</pubDate>
+<pubDate>Sat, 24 Feb 2024 08:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Maintenance - ClearSky Inteliquent (Onvoy)</title>

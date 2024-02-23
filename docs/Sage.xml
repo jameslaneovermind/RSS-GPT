@@ -4,15 +4,15 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage 100 Partner Cloud (FR) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/h7qrzks23nbd</link>
 <guid>https://status.sage.com/incidents/h7qrzks23nbd</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Sage 100 Partner Cloud (FR) Maintenance <br><br> Sage 100 Partner Cloud (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET. Some service unavailability may occur during this time. We apologize for any inconvenience. Thank you. <div>
+<div> [Medium] - Sage 100 Partner Cloud (FR) Maintenance <br /><br /> Sage 100 Partner Cloud (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET. Some service unavailability may occur during this time. We apologize for any inconvenience. Thank you. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>24</var>, <var>15:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>23</var>, <var>09:36</var> UTC</small><br /><strong>Scheduled</strong> - Sage 100 Partner Cloud (FR) will be undergoing maintenance on Saturday, February 24th, 2024, for 3 hours, between 16:00 CET and 19:00 CET.<br /> <br />The service may be unavailable during this scheduled time.<br /> <br />We apologize for any inconvenience this may cause.<br /> <br />Thank you. The Sage Team<br /><br />----------------------------------------------------------------------------------<br /><br />Sage 100 Partner Cloud (FR) fera l'objet d'une maintenance système importante le Samedi 24 février 2024, pendant 3 heures entre 16:00 CET et 19:00 CET.<br /><br />Veuillez noter que vous ne pourrez peut-être pas accéder au service pendant cette période.<br /><br />Nous nous excusons pour les inconvénients que cela pourrait causer.<br /><br />Merci L'équipe Sage.</p>
 ]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
 <pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: A subset of customers in France are experiencing synchronization issues
 <p><small>Feb <var>23</var>, <var>09:56</var> UTC</small><br /><strong>Update</strong> - We identified an issue preventing a subset of customers in France from synchronising between Sage Business Cloud Paie and Azuneed (SEE). All other product functionality is working as expected.<br /><br />We are currently investigating.</p><p><small>Feb <var>23</var>, <var>09:42</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 09:56:01 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 09:56:01 +0000</pubDate>
 </item>
-
 <item>
 <title>AutoEntry - Degraded Performance</title>
 <link>https://status.sage.com/incidents/ggq4vb0rskcm</link>
