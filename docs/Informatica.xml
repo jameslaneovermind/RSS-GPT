@@ -4,6 +4,30 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming Maintenance on February Upgraded PODs for a profile failure due to 0 size mapping metadata XML.</title>
+<link>https://status.informatica.com/incidents/6k334jhshy9k</link>
+<guid>https://status.informatica.com/incidents/6k334jhshy9k</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Informatica Cloud Operations Patch Application
+Summary: Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure due to 0 size mapping metadata XML. This is a Zero Downtime deployment and will not impact running jobs or services. Action Required: None. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>01:30</var> - <var>03:30</var> PST</strong></p><p><small>Feb <var>23</var>, <var>08:21</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on all February Upgraded PODs for Cloud Data Integration and Cloud Data Quality services to resolve a profile failure due to 0 size mapping metadata XML. This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b> Action Required:</b> None.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 01:30:00 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 01:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Cloud Data Quality service experiencing Gateway Timeout error for IICS Canada Central 1 Services</title>
+<link>https://status.informatica.com/incidents/cyfjr27c6561</link>
+<guid>https://status.informatica.com/incidents/cyfjr27c6561</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage of Cloud Data Quality Services <br><br> 
+Users may have experienced HTTP 503 service unavailable or HTTP 502 gateway timeout errors while accessing Cloud Data Quality services between the specified times. This indicates a major impact on the platform's availability and functionality, likely caused by a configuration change or deployment to the production system. <div>
+<p><small>Feb <var>22</var>, <var>13:30</var> PST</small><br /><strong>Resolved</strong> - Between the following times, users may have experienced HTTP 503 service unavailable or HTTP 502 gateway timeout errors while accessing Cloud Data Quality services.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 13:30:00 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 13:30:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Intermittent Performance degradation on EM West 1 POD for Cloud Application Integration</title>

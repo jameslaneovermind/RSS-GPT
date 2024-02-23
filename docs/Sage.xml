@@ -4,6 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>MTD ITSA Service - Scheduled maintenance</title>
+<link>https://status.sage.com/incidents/61xywsvbzsnm</link>
+<guid>https://status.sage.com/incidents/61xywsvbzsnm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance at MTD ITSA Service
+<br><br> Summary: Scheduled maintenance is taking place at MTD ITSA Service this weekend from February 23rd to February 26th, 2024. Users will be unable to view their Making Tax Digital for Income Tax calculations. <div>
+<p><small>Feb <var>23</var>, <var>17:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>23</var>, <var>16:24</var> UTC</small><br /><strong>Scheduled</strong> - Scheduled maintenance is taking place at MTD ITSA Service this weekend.<br /><br />MTD ITSA – from 17:00 BST on Friday, February 23rd to 09:00 BST on Monday, February 26th 2024<br /><br />Due to scheduled maintenance, you will be unable to view your Making Tax Digital for Income Tax calculations.<br /><br />We apologise for any inconvenience this may cause. <br /><br />Thank you,<br /><br />The Sage Team</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 17:01:21 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 17:01:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage 100 Partner Cloud (FR) - Scheduled Maintenance</title>

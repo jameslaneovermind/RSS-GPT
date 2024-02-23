@@ -4,6 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto SaaS Protection - Node/Application Maintenance For Germany Region</title>
+<link>https://status.datto.com/incidents/m8whjcmmcjr6</link>
+<guid>https://status.datto.com/incidents/m8whjcmmcjr6</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance for Datto SaaS Protection  <br><br> Summary: Datto SaaS Protection is undergoing a major scheduled maintenance that may cause a significant impact on systems and related services. Affected Pod: des1-bfyii-597. Users are advised to stay informed about future maintenance periods by visiting status.datto.com. <div>
+<p><small>Feb <var>23</var>, <var>17:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>17:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>20</var>, <var>16:30</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection on 2-20-2024 starting at 5:00PM UTC for an estimated 72 hours.<br /><br /><br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br /><br />Affected Pod :<br /><br />des1-bfyii-597<br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod:<br /><br /><br /><br />https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored<br /><br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 17:00:56 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 17:00:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Pinotage (EU1) - 12.8.0 Release</title>
