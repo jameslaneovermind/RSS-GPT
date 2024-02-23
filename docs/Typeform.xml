@@ -4,18 +4,17 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+
 <item>
 <title>Typeform Builder - Degraded - Builder not loading</title>
 <link>https://status.typeform.com/incidents/rk2xmyd3wc9c</link>
 <guid>https://status.typeform.com/incidents/rk2xmyd3wc9c</guid>
 <content:encoded><![CDATA[
-<div> [High] - Identified Builder Errors Impacting Form Creation/Edit <br><br> Summary: Errors in the Builder may impact user form creation/editing. Resolution in progress with high priority. Next update in ~30 minutes. REF: ZD 744920 | TU-9021. <div>
+<div> [High] - Identified Builder Errors Impacting Form Creation/Edit <br /><br /> Summary: Errors in the Builder may impact user form creation/editing. Resolution in progress with high priority. Next update in ~30 minutes. REF: ZD 744920 | TU-9021. <div>
 <p><small>Feb <var>23</var>, <var>13:00</var> CET</small><br /><strong>Identified</strong> - We have identified  errors impacting our Builder. Users Create/Edit form may be impacted. We are working on resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 744920 | TU-9021</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 13:00:37 +0100</pubDate>
-<pubDate>Fri, 23 Feb 2024 13:00:37 +0100</pubDate>
 </item>
-
 <item>
 <title>Scheduled maintenance - Builder service</title>
 <link>https://status.typeform.com/incidents/f9bsxvlv8t2f</link>
