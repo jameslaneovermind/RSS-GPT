@@ -381,3 +381,9 @@ Existing_entries: 31
 Fetching from https://status.hashicorp.com/history.rss
 append_entries: 0
 Finish: 2024-02-23 01:39:36.568396
+------------------------------------------------------
+Started: 2024-02-23 02:14:38.481771
+Existing_entries: 31
+Fetching from https://status.hashicorp.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 02:14:38.810048

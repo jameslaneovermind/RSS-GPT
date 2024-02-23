@@ -4,6 +4,17 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+<item>
+<title>Editing existing policies with Policy Editor reverts template</title>
+<link>https://status.vanta.com/incidents/nh1cfkx76qyx</link>
+<guid>https://status.vanta.com/incidents/nh1cfkx76qyx</guid>
+<content:encoded><![CDATA[
+<div> Low - Policy Editor Issue <br><br> Summary: An issue has been identified with the policy editor impacting the ability to update existing policies. The team is investigating the root cause and working to recover policy editor data. <div>
+<p><small>Feb <var>22</var>, <var>17:48</var> PST</small><br /><strong>Investigating</strong> - We have identified an issue impacting the ability to update exisiting policies using the policy editor, where edits will revert the policy back to the original template. This occurred as part of an upgrade to support multiple language. <br /><br />Our team is investigating the root cause and are working to recover policy editor data. We will continue to provide updates as they occur.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 17:48:40 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 17:48:40 -0800</pubDate>
+</item>
 
 <item>
 <title>Roles Page Down for Customers</title>
