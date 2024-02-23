@@ -4,6 +4,18 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Delays affecting data retrieval in Snyk Reporting</title>
+<link>https://status.snyk.io/incidents/bmv20wjk3hzb</link>
+<guid>https://status.snyk.io/incidents/bmv20wjk3hzb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Data Retrieval Delays Impacting Snyk Reporting
+Summary: Snyk Monitoring tools have identified significant delays impacting data retrieval for approximately 2% of projects, invoking the Snyk incident response process. <div>
+<p><small>Feb <var>23</var>, <var>15:53</var> UTC</small><br /><strong>Investigating</strong> - Snyk Monitoring tools have identified that there are currently delays impacting data retrieval affecting Snyk reporting for approximately 2% of projects. Some Customers may observe significant delays affecting reporting data.<br /><br />The Snyk incident response process has been invoked.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 15:53:27 +0000</pubDate>
+<pubDate>Fri, 23 Feb 2024 15:53:27 +0000</pubDate>
+</item>
 
 <item>
 <title>Snyk UI experiencing intermittent slow response</title>
