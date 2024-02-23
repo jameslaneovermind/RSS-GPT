@@ -4,18 +4,17 @@
 <title>HubSpot Status - Incident History</title>
 <link>https://status.hubspot.com</link>
 
+
 <item>
 <title>Installing Google Search Console integration is unavailable for all customers</title>
 <link>https://status.hubspot.com/incidents/7nd15gs349mt</link>
 <guid>https://status.hubspot.com/incidents/7nd15gs349mt</guid>
 <content:encoded><![CDATA[
-<div> [Tag: High] - Google Search Console Integration Unavailable <br><br> Summary: Google Search Console integration installation is currently not available. The issue is being investigated, and further updates will be provided. <div>
+<div> [Tag: High] - Google Search Console Integration Unavailable <br /><br /> Summary: Google Search Console integration installation is currently not available. The issue is being investigated, and further updates will be provided. <div>
 <p><small>Feb <var>22</var>, <var>17:24</var> EST</small><br /><strong>Investigating</strong> - Installing Google Search Console integration isn't available right now. We're investigating what's causing this issue and will update this page when we have more information.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 17:24:43 -0500</pubDate>
-<pubDate>Thu, 22 Feb 2024 17:24:43 -0500</pubDate>
 </item>
-
 <item>
 <title>HubSpot is currently unavailable for some customers.</title>
 <link>https://status.hubspot.com/incidents/fy5mzxcl499k</link>

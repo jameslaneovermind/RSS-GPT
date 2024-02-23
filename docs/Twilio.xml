@@ -4,6 +4,50 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>
+<link>https://status.twilio.com/incidents/w615bfl0mm1h</link>
+<guid>https://status.twilio.com/incidents/w615bfl0mm1h</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Wind Tre (3) Italy Planned Maintenance <br><br> Wind Tre (3) Italy is conducting planned maintenance that may result in intermittent API request failures for certain services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:30</var> - <var>23:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>15:41</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner Wind Tre (3) Italy is conducting a planned maintenance from 28 February 2024 at 21:30 PST until 28 February 2024 at 23:30 PST.  During the maintenance window, there could be intermittent API request failures for Wind Tre (3) Italy customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Account Security Carrier Partner Maintenance - H3G Austria</title>
+<link>https://status.twilio.com/incidents/46scm8pdj1pt</link>
+<guid>https://status.twilio.com/incidents/46scm8pdj1pt</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - H3G Austria Planned Maintenance <br><br> Carrier partner H3G Austria will undergo maintenance from Feb 28, 21:30 to Feb 28, 23:30 PST. Intermittent API request failures are expected for H3G Austria customers for products Verify Silent Network Auth and Lookup SIM Swap. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:30</var> - <var>23:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>15:40</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner H3G Austria is conducting a planned maintenance from 28 February 2024 at 21:30 PST until 28 February 2024 at 23:30 PST. During the maintenance window, there could be intermittent API request failures for H3G Austria customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth, Lookup SIM Swap</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+</item>
+<item>
+<title>Account Security Carrier Partner Maintenance - Three UK</title>
+<link>https://status.twilio.com/incidents/rzkjyncwk2k1</link>
+<guid>https://status.twilio.com/incidents/rzkjyncwk2k1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Maintenance for Three UK <br><br> Summary: Three UK will be conducting planned maintenance from 21:30 PST to 23:30 PST on February 28, 2024. During this time, there may be intermittent API request failures for Three UK customers. The impacted products include Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, and Legacy Identity Match. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:30</var> - <var>23:30</var> PST</strong></p><p><small>Feb <var>22</var>, <var>15:39</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner Three UK is conducting a planned maintenance from 28 February 2024 at 21:30 PST until 28 February 2024 at 23:30 PST. During the maintenance window, there could be intermittent API request failures for Three UK customers.<br /><br /><br />Impacted Products: <br /><br />Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0800</pubDate>
+</item>
+<item>
+<title>SMS Delivery Delays to Orange Network in Cameroon</title>
+<link>https://status.twilio.com/incidents/r32my3c4c8bg</link>
+<guid>https://status.twilio.com/incidents/r32my3c4c8bg</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>22</var>, <var>15:45</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to Orange network in Cameroon. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 15:45:26 -0800</pubDate>
+<pubDate>Thu, 22 Feb 2024 15:45:26 -0800</pubDate>
+</item>
 
 <item>
 <title>Service Intermittent Interruption When Accessing to Twilio.com, Twilio.org, the Twilio Blog and Sendgrid.com</title>
