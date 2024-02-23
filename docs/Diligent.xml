@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Diligent Status - Incident History</title>
+<link>https://status.diligent.com</link>
+
+
+<item>
+<title>Secure File Sharing - Our service is experiencing an interruption in the Australia region</title>
+<link>https://status.diligent.com/incidents/mfzd78lpr8l6</link>
+<guid>https://status.diligent.com/incidents/mfzd78lpr8l6</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Outage in Australia <br /><br /> Summary: The company is currently experiencing a service outage in Australia, causing inconvenience for customers. They are actively working to restore services as quickly as possible. <div>
+<p><small>Feb <var>23</var>, <var>12:02</var> UTC</small><br /><strong>Investigating</strong> - We are currently facing an outage that is affecting our service in Australia, causing inconvenience for our customers. We apologize for the disruption and are actively working to restore services as quickly as possible.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 12:02:15 +0000</pubDate>
+</item>
+<item>
+<title>Community - Canadian sites not loading.</title>
+<link>https://status.diligent.com/incidents/jl9w0v5rvdzb</link>
+<guid>https://status.diligent.com/incidents/jl9w0v5rvdzb</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Community Site Accessibility Issue <br /><br /> Summary: Users are encountering issues accessing the community sites, and the team is currently investigating the issue.
+ <div>
+<p><small>Feb <var>22</var>, <var>22:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>21:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>22</var>, <var>20:00</var> UTC</small><br /><strong>Investigating</strong> - Users encountering issues in accessing the community sites they are not loading.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 22:55:50 +0000</pubDate>
+</item>
+<item>
+<title>Maintenance Advisory - HighBond Robots Service in highbond-gov1.com, highbond-gov2.com and GovCloud US 3 region</title>
+<link>https://status.diligent.com/incidents/7txcf99kbxpb</link>
+<guid>https://status.diligent.com/incidents/7txcf99kbxpb</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - HighBond Robots Maintenance <br /><br /> Summary: Scheduled maintenance for HighBond Robots in highbond-gov1.com, highbond-gov2.com, and GovCloud US 3 region. Users advised to plan activities outside the maintenance window. <div>
+<p><small>Feb <var>22</var>, <var>04:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>02:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>21</var>, <var>16:05</var> UTC</small><br /><strong>Scheduled</strong> - <br /><b>Services/Location:</b><br />HighBond Robots Service in highbond-gov1.com, highbond-gov2.com and GovCloud US 3 region<br /><br /><b>Impact:</b><br />Please be advised that we will be performing routine maintenance on our systems. As a result, HighBond Robots become unavailable during this time window. We apologize for any inconvenience this may cause.<br /><br /><b>What do you need to do?:</b><br />Plan to perform items requiring HighBond Robots in the impacted regions outside of the scheduled maintenance window timeline.<br /><br /><b>Contact:</b><br />For any questions or if you experience a disruption other than above, please contact Diligent Support: https://community.diligent.com/grc/s/contactsupport</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 04:30:56 +0000</pubDate>
+</item>
+<item>
+<title>HighBond - Some users may have issues navigating within the service</title>
+<link>https://status.diligent.com/incidents/7ld82xkcd6kq</link>
+<guid>https://status.diligent.com/incidents/7ld82xkcd6kq</guid>
+<content:encoded><![CDATA[
+<div> Output:
+
+[Low] - Navigational issue in Highbond
+Summary:
+Some users may be unable to navigate within Highbond, but direct links (bookmarks) to an APP or Module will still work. The incident is being investigated. <div>
+<p><small>Feb <var>21</var>, <var>21:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>21:49</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>21:21</var> UTC</small><br /><strong>Investigating</strong> - Some users may be unable to navigate within Highbond.  Direct links (bookmarks) to an APP or Module will still work.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 21:54:34 +0000</pubDate>
+</item>
+<item>
+<title>Activity Center - Users might not able to edit Issues &amp; Actions</title>
+<link>https://status.diligent.com/incidents/rrrm8v7ln1hg</link>
+<guid>https://status.diligent.com/incidents/rrrm8v7ln1hg</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>16</var>, <var>19:12</var> UTC</small><br /><strong>Resolved</strong> - We are currently working to resolve this issue and have reclassified it as a defect. In the meantime, please note that there are workarounds available including creating custom reports, navigating to issues separately in the Projects app, or accessing issues through the Assessments app.<br /><br />Please contact our support team if you require assistance while we address this issue.</p><p><small>Feb <var>16</var>, <var>16:58</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>16</var>, <var>12:51</var> UTC</small><br /><strong>Investigating</strong> - Some features on our application are not working as expected and may cause issues for customers.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 19:12:04 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager - Users might facing an error upon using Hits Review</title>
+<link>https://status.diligent.com/incidents/8nhfxr1xx2lb</link>
+<guid>https://status.diligent.com/incidents/8nhfxr1xx2lb</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>16</var>, <var>11:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>16</var>, <var>09:19</var> UTC</small><br /><strong>Investigating</strong> - Users might facing an error upon using hits review function in the application.</p>
+]]></content:encoded>
+<pubDate>Fri, 16 Feb 2024 11:14:08 +0000</pubDate>
+</item>
+<item>
+<title>iCompass - Some users may experience issues trying to interact with Action Tracking items in the US Region.</title>
+<link>https://status.diligent.com/incidents/95qmjqjf9j99</link>
+<guid>https://status.diligent.com/incidents/95qmjqjf9j99</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>15</var>, <var>20:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>20:06</var> UTC</small><br /><strong>Investigating</strong> - Some users may not have the ability to edit/attach/delete some Action tracking items.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 20:27:44 +0000</pubDate>
+</item>
+<item>
+<title>VirtualBoardroom - Some users may experience issues when uploading or generating packs</title>
+<link>https://status.diligent.com/incidents/4mcklwgwbx66</link>
+<guid>https://status.diligent.com/incidents/4mcklwgwbx66</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>15</var>, <var>13:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>15</var>, <var>13:43</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>13</var>, <var>15:58</var> UTC</small><br /><strong>Investigating</strong> - Some users may experience issues uploading and generating pack.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 13:57:05 +0000</pubDate>
+</item>
+<item>
+<title>BoadDocs - Some users may have an issue loading the OSBA Console.</title>
+<link>https://status.diligent.com/incidents/9z67083yn5cc</link>
+<guid>https://status.diligent.com/incidents/9z67083yn5cc</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>13</var>, <var>20:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>20:00</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>13</var>, <var>18:07</var> UTC</small><br /><strong>Investigating</strong> - Some users may experience extended load times and blank screens when trying load the OSBA console.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 20:01:17 +0000</pubDate>
+</item>
+<item>
+<title>BoardEffect - Some users may receive an error when trying to log on in the US Region</title>
+<link>https://status.diligent.com/incidents/6pwcvk616t4m</link>
+<guid>https://status.diligent.com/incidents/6pwcvk616t4m</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>12</var>, <var>22:18</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>21:38</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>12</var>, <var>21:32</var> UTC</small><br /><strong>Investigating</strong> - Some users get an error when trying to log into BoardEffect.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 22:18:04 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager - Some users may encoutner issues in accessing PowerBI reports</title>
+<link>https://status.diligent.com/incidents/k0zg2rzlmvl4</link>
+<guid>https://status.diligent.com/incidents/k0zg2rzlmvl4</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>12</var>, <var>17:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>12</var>, <var>17:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>12</var>, <var>16:58</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>12</var>, <var>16:27</var> UTC</small><br /><strong>Investigating</strong> - Users are experiencing issues in accessing PowerBI reports and getting an error when accessing Diligent Corporation Insights.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 17:22:15 +0000</pubDate>
+</item>
+<item>
+<title>Highbond Reports  - Users might experience issues while trying to access Reports in all Non-US Regions.</title>
+<link>https://status.diligent.com/incidents/6f4zswyrstgk</link>
+<guid>https://status.diligent.com/incidents/6f4zswyrstgk</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 8</var>, <var>10:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>10:17</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 8</var>, <var>08:44</var> UTC</small><br /><strong>Update</strong> - We apologize for the inconvenience. Our team is actively working on resolving the issue with the highest priority. <br /><br />In the meantime, if you need to access Reports, you can use the following workaround. Should you require assistance, please don't hesitate to contact our Customer Support, and they will be happy to help.<br /><br />Workaround:<br />1.) In Launchpad, hover your mouse cursor over the Reports tile.<br />2.) Right click and select "Copy Link Address"<br />3.) Open a new tab in your browser and paste the link that you have just copied in the address bar.<br />4.) Add a "-" and your region code after https://reports in the URL.  <br /><br />The region code is the two letters of the URL. For example, if your URL is https://reports.highbond.com/?loginOrg=123&amp;orgRegion=eu, your region code would be "eu", and you would change the first part of the URL to https://reports-eu.highbond.com/.....</p><p><small>Feb <var> 8</var>, <var>06:06</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 8</var>, <var>05:45</var> UTC</small><br /><strong>Investigating</strong> - Users might experience issues while trying to access Reports in all Non-US Regions. We are working on the solution with priority. Apologies for the inconvenience caused.</p>
+]]></content:encoded>
+<pubDate>Thu, 08 Feb 2024 10:28:30 +0000</pubDate>
+</item>
+<item>
+<title>Accuvio - Some users may receive an error when trying to log into the service</title>
+<link>https://status.diligent.com/incidents/nwt2vn9krxpm</link>
+<guid>https://status.diligent.com/incidents/nwt2vn9krxpm</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 7</var>, <var>23:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 7</var>, <var>23:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 7</var>, <var>22:10</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 7</var>, <var>22:09</var> UTC</small><br /><strong>Investigating</strong> - Some users may receive an error when trying to log into the service.  We are aware of this issue are working to restore the service as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 23:05:51 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager - Some users may see blank custom reports in the US Region</title>
+<link>https://status.diligent.com/incidents/g2c3l4b01y2k</link>
+<guid>https://status.diligent.com/incidents/g2c3l4b01y2k</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 7</var>, <var>04:23</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>18:06</var> UTC</small><br /><strong>Investigating</strong> - Some users in the US region may see blank custom reports when opening existing or new custom reports.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 04:23:58 +0000</pubDate>
+</item>
+<item>
+<title>CGI/CGLytics - Some users may experience impacted performance</title>
+<link>https://status.diligent.com/incidents/c4znz8rvw4c0</link>
+<guid>https://status.diligent.com/incidents/c4znz8rvw4c0</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 6</var>, <var>22:43</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>18:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 6</var>, <var>17:43</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 6</var>, <var>17:43</var> UTC</small><br /><strong>Investigating</strong> - Some users may experience service speed and feature performance degradation.</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 22:43:54 +0000</pubDate>
+</item>
+<item>
+<title>Maintenance Advisory - HighBond Toolkits in Africa Region</title>
+<link>https://status.diligent.com/incidents/q3sy8phrsc8v</link>
+<guid>https://status.diligent.com/incidents/q3sy8phrsc8v</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 6</var>, <var>22:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 6</var>, <var>17:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>30</var>, <var>14:22</var> UTC</small><br /><strong>Scheduled</strong> - <br /><b>Services/Location:</b><br />HighBond Toolkits in Africa Region<br /><br /><b>Impact:</b><br />Please be advised that we will be performing routine maintenance on our systems. As a result, HighBond Toolkits become unavailable during this time window. We apologize for any inconvenience this may cause.<br /><br /><b>What do you need to do?:</b><br />Plan to perform items requiring HighBond Toolkits in the impacted regions outside of the scheduled maintenance window timeline.<br /><br /><b>Contact:</b><br />For any questions or if you experience a disruption other than above, please contact Diligent Support: https://community.diligent.com/grc/s/contactsupport</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 22:00:57 +0000</pubDate>
+</item>
+<item>
+<title>Highbond Asset Manager - Some users may have trouble accessing the service in the US Region.</title>
+<link>https://status.diligent.com/incidents/fvz7dk74td4b</link>
+<guid>https://status.diligent.com/incidents/fvz7dk74td4b</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 6</var>, <var>21:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 6</var>, <var>20:07</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 6</var>, <var>17:51</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 6</var>, <var>17:50</var> UTC</small><br /><strong>Investigating</strong> - Some users in the US region may not be able to access the Highbond Asset Manager Service.</p>
+]]></content:encoded>
+<pubDate>Tue, 06 Feb 2024 21:09:26 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager -  Empty reports may be generated in the Custom Report Builder within the US region.</title>
+<link>https://status.diligent.com/incidents/23s9k10nfnl3</link>
+<guid>https://status.diligent.com/incidents/23s9k10nfnl3</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 5</var>, <var>11:38</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 5</var>, <var>11:38</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var> 5</var>, <var>11:34</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 5</var>, <var>10:51</var> UTC</small><br /><strong>Investigating</strong> - Some features on our application are not working as expected and may cause issues for customers.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 11:38:56 +0000</pubDate>
+</item>
+<item>
+<title>COI Risk Manager - Users are not able to login in US region</title>
+<link>https://status.diligent.com/incidents/x498zpggqfx3</link>
+<guid>https://status.diligent.com/incidents/x498zpggqfx3</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 5</var>, <var>10:52</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 5</var>, <var>10:43</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 5</var>, <var>10:26</var> UTC</small><br /><strong>Investigating</strong> - Our service is experiencing an interruption that is preventing customer login.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 10:52:50 +0000</pubDate>
+</item>
+<item>
+<title>BoardEfect US Region: Emergency Maintenance</title>
+<link>https://status.diligent.com/incidents/12ttssv6xffl</link>
+<guid>https://status.diligent.com/incidents/12ttssv6xffl</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 5</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 4</var>, <var>22:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 4</var>, <var>21:48</var> UTC</small><br /><strong>Scheduled</strong> - The BoardEffect US Region will be undergoing an emergency failover. During this time, the BoardEffect application maybe inaccessible.</p>
+]]></content:encoded>
+<pubDate>Mon, 05 Feb 2024 02:00:11 +0000</pubDate>
+</item>
+<item>
+<title>BoardEffect - All BoardEffect environments is DOWN in US except NIST</title>
+<link>https://status.diligent.com/incidents/qr5xr8ctvw9m</link>
+<guid>https://status.diligent.com/incidents/qr5xr8ctvw9m</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 4</var>, <var>21:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 4</var>, <var>20:39</var> UTC</small><br /><strong>Identified</strong> - BoardEffect - Prod02<br />https://prodopstest-prod02-us.boardeffect.com/login<br />https://prodopstest-prod02-legacy.boardeffect.com/login<br />https://prodopstest-prod02-hipaa.boardeffect.com/login<br />https://www.site24x7.com/app/client#/home/monitors/159142000147231593/Summary<br />Incident Reason : Read timeout- Response wasn't received within 30 seconds.<br />Incident Time : February 4, 2024, 14:50 EST<br />Failed Locations : NewYork-US,Frankfurt-DE,London-UK,SaoPaulo-BR,Sydney-AUS,Auckland-NZ,HongKong-HK,Johannesburg-ZA,Toronto-CA,SanFrancisco-US,Manchester-UK,Bengaluru-IN,Montreal-CA<br /><br />Add Firehydrant</p>
+]]></content:encoded>
+<pubDate>Sun, 04 Feb 2024 21:25:02 +0000</pubDate>
+</item>
+<item>
+<title>Boardeffect - Sites in U.S. are unaccessible for all sites other than NIST</title>
+<link>https://status.diligent.com/incidents/snkb372f4xrn</link>
+<guid>https://status.diligent.com/incidents/snkb372f4xrn</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>13:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>13:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 3</var>, <var>13:03</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 3</var>, <var>12:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 3</var>, <var>12:27</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 3</var>, <var>11:43</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 13:14:53 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager - Necessary Maintenance</title>
+<link>https://status.diligent.com/incidents/fr3f7ktk4lgh</link>
+<guid>https://status.diligent.com/incidents/fr3f7ktk4lgh</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>10:35</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var> 3</var>, <var>02:35</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 3</var>, <var>02:33</var> UTC</small><br /><strong>Scheduled</strong> - We are performing necessary maintenance on our backend systems.  We apologize for the inconvenience and hope to be completed as quickly as possible. We expect the application will not be available for some or all of our maintenance window.</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 10:35:19 +0000</pubDate>
+</item>
+<item>
+<title>3PM - US Securimate Sites are not accessible</title>
+<link>https://status.diligent.com/incidents/j45f2kks7c42</link>
+<guid>https://status.diligent.com/incidents/j45f2kks7c42</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>02:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 3</var>, <var>02:07</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 3</var>, <var>00:18</var> UTC</small><br /><strong>Identified</strong> - US Customers cannot access Securimate sites<br />Support teams are investigating</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 02:11:55 +0000</pubDate>
+</item>
+<item>
+<title>3PM - US Securimate Sites are not accessible</title>
+<link>https://status.diligent.com/incidents/j6d1z1vh1kkh</link>
+<guid>https://status.diligent.com/incidents/j6d1z1vh1kkh</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>00:14</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 2</var>, <var>22:36</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var> 2</var>, <var>22:30</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Sat, 03 Feb 2024 00:14:58 +0000</pubDate>
+</item>
+<item>
+<title>Third Party Manager - Email Notifications May Not Reach Some Client's Customers in the EU Region</title>
+<link>https://status.diligent.com/incidents/hlyj31yz1cvn</link>
+<guid>https://status.diligent.com/incidents/hlyj31yz1cvn</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 1</var>, <var>10:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 1</var>, <var>07:51</var> UTC</small><br /><strong>Investigating</strong> - Some email recipients in the EU region may not receive email notifications. We are actively working on the solution. Sorry for any inconvenience caused.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 10:50:14 +0000</pubDate>
+</item>
+</channel>
+</rss>

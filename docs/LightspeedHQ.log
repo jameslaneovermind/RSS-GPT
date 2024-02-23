@@ -1,0 +1,67 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:43.437516
+Existing_entries: 0
+Fetching from https://status.lightspeedhq.com/history.rss
+Token length: 576
+Summarized using GPT-3.5-turbo-1106
+Append: [C-Series is experiencing slowness](https://status.lightspeedhq.com/incidents/z6rdjl94f5zc)
+Token length: 526
+Summarized using GPT-3.5-turbo-1106
+Append: [C-Series is experiencing slowness](https://status.lightspeedhq.com/incidents/149yfvphlcwl)
+Token length: 343
+Summarized using GPT-3.5-turbo-1106
+Append: [Lightspeed Restaurant (K-Series)](https://status.lightspeedhq.com/incidents/ncr4r9pfd52q)
+Append: [Merchants may be experiencing degraded performance when processing payments](https://status.lightspeedhq.com/incidents/0l1d3vzxk2xg)
+Append: [Payment reporting not updated for some Hospitality accounts since February 9th](https://status.lightspeedhq.com/incidents/xhs947btnz6h)
+Append: [Some R -Series  customer are unable to login](https://status.lightspeedhq.com/incidents/y8qhv9zzbf1d)
+Append: [Increased error rate in payment processing](https://status.lightspeedhq.com/incidents/bflkdx17dqfp)
+Append: [Increased latency authenticating requests](https://status.lightspeedhq.com/incidents/22ff8b0ckbhk)
+Append: [Lightspeed Restaurant (K-Series) - Online ordering](https://status.lightspeedhq.com/incidents/dhypjt88462w)
+Append: [Phone Issues - (K-Series)](https://status.lightspeedhq.com/incidents/t6vyf2tw3xy2)
+Append: [Error in authentication requests](https://status.lightspeedhq.com/incidents/26dnlkrk1wjp)
+Append: [Issues reported with Wise Pos E terminals](https://status.lightspeedhq.com/incidents/1mxsdqtwl209)
+Append: [Analytics Data Syncing Degraded Performance](https://status.lightspeedhq.com/incidents/cpx6sry3nsy3)
+Append: [Delays in inventory and product counts](https://status.lightspeedhq.com/incidents/54mj5cfxl83v)
+Append: [Lightspeed Retail (R-Series)](https://status.lightspeedhq.com/incidents/qs7v8gd3lkyk)
+Append: [Visa/Mastercard Processing Degradation of Service](https://status.lightspeedhq.com/incidents/nhdgr1wlz7wf)
+Append: [Hospitality Payments v3 reporting delayed](https://status.lightspeedhq.com/incidents/xz80ydmpqm5d)
+Append: [X-Series Reporting Dashboard Error](https://status.lightspeedhq.com/incidents/wgctbnkfx2c9)
+Append: [Lightspeed Retail (R-Series)](https://status.lightspeedhq.com/incidents/z90cnb3cggrk)
+Append: [Delays in inventory and product counts](https://status.lightspeedhq.com/incidents/kktyk3rv01qx)
+Append: [Some retailers are being rate limited](https://status.lightspeedhq.com/incidents/mww8t8tpy66n)
+Append: [Delays - Inventory Results Outdated / Lagging](https://status.lightspeedhq.com/incidents/cdvvssdqm9yh)
+Append: [Partial Settlement/Payout Delay for Payouts on December 19th, 2023](https://status.lightspeedhq.com/incidents/4db5c0yd0kpb)
+Append: [Lightspeed Retail (R-Series)](https://status.lightspeedhq.com/incidents/g3kvg5v1b7vd)
+Append: [Delays on Sell Screen](https://status.lightspeedhq.com/incidents/x4n5j2614t97)
+append_entries: 25
+Finish: 2024-02-23 11:36:47.892367
+------------------------------------------------------
+Started: 2024-02-23 12:11:41.174955
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:41.553151
+------------------------------------------------------
+Started: 2024-02-23 12:15:24.313235
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:15:24.634772
+------------------------------------------------------
+Started: 2024-02-23 13:09:53.251255
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 13:09:53.559280
+------------------------------------------------------
+Started: 2024-02-23 14:08:43.503416
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 14:08:43.813356
+------------------------------------------------------
+Started: 2024-02-23 15:10:11.228608
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 15:10:11.545977

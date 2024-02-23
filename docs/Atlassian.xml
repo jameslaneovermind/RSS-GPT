@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Atlassian Status - Incident History</title>
+<link>https://status.atlassian.com</link>
+
+
+<item>
+<title>Service Disruptions Affecting Atlassian Products</title>
+<link>https://status.atlassian.com/incidents/gg9z8g8xsxc7</link>
+<guid>https://status.atlassian.com/incidents/gg9z8g8xsxc7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Disruptions Across All Atlassian Products
+Summary: Increased errors were experienced on various Atlassian products, impacting all Cloud Customers. The root cause has been identified and mitigated, and the services are now operating normally. <div>
+<p><small>Feb <var>14</var>, <var>23:32</var> UTC</small><br /><strong>Resolved</strong> - We experienced increased errors on Confluence, Jira Work Management, Jira Service Management, Jira Software, Opsgenie, Trello, Atlassian Bitbucket, Atlassian Access, Jira Align, Jira Product Discovery, Atlas, Compass, and Atlassian Analytics. The issue has been resolved and the services are operating normally.</p><p><small>Feb <var>14</var>, <var>22:55</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause of the Service Disruptions affecting all Atlassian products and have mitigated the problem. We are now monitoring this closely.</p><p><small>Feb <var>14</var>, <var>22:31</var> UTC</small><br /><strong>Identified</strong> - We have identified the root cause of the increased errors and have mitigated the problem. We continue to work on resolving the issue and monitoring this closely.</p><p><small>Feb <var>14</var>, <var>21:57</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports of intermittent errors for all Cloud Customers across all Atlassian products. We will provide more details once we identify the root cause.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 23:32:18 +0000</pubDate>
+</item>
+<item>
+<title>User searches failing</title>
+<link>https://status.atlassian.com/incidents/5187qzxv1zvg</link>
+<guid>https://status.atlassian.com/incidents/5187qzxv1zvg</guid>
+<content:encoded><![CDATA[
+<div> High - User Search Service Issue <br /><br /> Summary: Customers experienced intermittent failures when searching for users in Atlassian cloud services between 15:40 UTC to 15:57 UTC. The issue has been resolved, and the service is now operating normally. <div>
+<p><small>Feb <var> 7</var>, <var>17:44</var> UTC</small><br /><strong>Resolved</strong> - Between 15:40 UTC to 15:57 UTC customers experienced intermittent failures when searching for users in Atlassian cloud services: Confluence, Jira Work Management, Jira Service Management, Jira Software, Atlassian Bitbucket, Jira Product Discovery, and Compass. The issue has been resolved and the service is operating normally.</p><p><small>Feb <var> 7</var>, <var>17:05</var> UTC</small><br /><strong>Monitoring</strong> - We have mitigated the problem. We are now monitoring closely.</p><p><small>Feb <var> 7</var>, <var>16:40</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with our user search service that is impacting Atlassian cloud service: Confluence, Jira Work Management, Jira Service Management, Jira Software, Atlassian Bitbucket, Jira Product Discovery, and Compass. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Feb 2024 17:44:38 +0000</pubDate>
+</item>
+<item>
+<title>Delayed SCIM provisioning syncs of users and groups from Identity Providers</title>
+<link>https://status.atlassian.com/incidents/71sdcbz9gy53</link>
+<guid>https://status.atlassian.com/incidents/71sdcbz9gy53</guid>
+<content:encoded><![CDATA[
+<div> [Low] - SCIM Provisioning Degraded Performance  <br /><br /> Summary: The company experienced degraded SCIM provisioning from external Identity Providers for several products, but the issue has been resolved and the service is operating normally. <div>
+<p><small>Jan <var>12</var>, <var>17:13</var> UTC</small><br /><strong>Resolved</strong> - We experienced degraded SCIM provisioning from external Identity Providers for Confluence, Jira Work Management, Jira Service Management, Jira Software, and Atlassian Access. The issue has been resolved and the service is operating normally.</p><p><small>Jan <var>12</var>, <var>06:55</var> UTC</small><br /><strong>Update</strong> - A fix for the bottleneck identified in the Group synchronization process for SCIM Provisioning has been made. We are seeing processing start to return to normal levels and will be monitoring over the next few hours. The team is all hands on deck to keep improving the situation.</p><p><small>Jan <var>11</var>, <var>22:36</var> UTC</small><br /><strong>Update</strong> - The bottleneck in the Group synchronization process for SCIM Provisioning has seen considerable improvement due to recent changes, but it is still under work. The team is all hands on deck to keep improving the situation.</p><p><small>Jan <var>11</var>, <var>18:54</var> UTC</small><br /><strong>Update</strong> - The bottleneck in the Group synchronization process for SCIM Provisioning is still under work. The team is all hands on deck to improve the situation.</p><p><small>Jan <var>10</var>, <var>19:56</var> UTC</small><br /><strong>Update</strong> - The bottleneck in the Group synchronization process for SCIM Provisioning is still under work. We are closely monitoring the service.</p><p><small>Jan <var>10</var>, <var>03:17</var> UTC</small><br /><strong>Monitoring</strong> - We have identified a bottleneck in the Group synchronisation process for SCIM Provisioning. We have increased the resources allocated to the process in order to mitigate the issue. We are now monitoring the service.</p><p><small>Jan <var> 9</var>, <var>22:03</var> UTC</small><br /><strong>Investigating</strong> - We are investigating cases of degraded performance when SCIM provisioning users/groups for Confluence, Jira Work Management, Jira Service Management, Jira Software, and Atlassian Access Cloud customers. <br />We will provide more details shortly.</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 17:13:28 +0000</pubDate>
+</item>
+<item>
+<title>Atlassian's cross product user search service is currently degraded.</title>
+<link>https://status.atlassian.com/incidents/lvq7pq0zbgvr</link>
+<guid>https://status.atlassian.com/incidents/lvq7pq0zbgvr</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>19</var>, <var>03:28</var> UTC</small><br /><strong>Resolved</strong> - It has been resolved. Atlassian's cross product user search is working.</p><p><small>Dec <var>18</var>, <var>16:23</var> UTC</small><br /><strong>Update</strong> - Atlassian's cross product user search service is currently healthy. Searches for users within Atlassian products are working as expected.<br />We are in the process of investigating the root cause of this incident.</p><p><small>Dec <var>18</var>, <var>16:06</var> UTC</small><br /><strong>Update</strong> - Atlassian's cross product user search service is recovering. Searches for users within Atlassian products are returning to normal.</p><p><small>Dec <var>18</var>, <var>16:02</var> UTC</small><br /><strong>Update</strong> - Atlassian's cross product user search service is recovering. Searches for users within Atlassian products are returning to normal.</p><p><small>Dec <var>18</var>, <var>16:01</var> UTC</small><br /><strong>Update</strong> - Atlassian's cross product user search service is recovering. Searches for users within Atlassian products are returning to normal.</p><p><small>Dec <var>18</var>, <var>15:04</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports of intermittent errors for ALL> Atlassian, Confluence, Jira Work Management, Jira Service Management, Jira Software, Atlassian Bitbucket, Jira Align, Jira Product Discovery, Atlas, and Compass Cloud customers. We will provide more details once we identify the root cause.<p>
+]]></content:encoded>
+<pubDate>Tue, 19 Dec 2023 03:28:15 +0000</pubDate>
+</item>
+<item>
+<title>Org admins unable to access User Management</title>
+<link>https://status.atlassian.com/incidents/httczs7wslz8</link>
+<guid>https://status.atlassian.com/incidents/httczs7wslz8</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var>22</var>, <var>04:27</var> UTC</small><br /><strong>Resolved</strong> - Between 01:18 AM UTC to 03:31 AM UTC, we encountered a problem where some organisation admins were not able to access User Management on the Admin hub. We have identified the root cause of this issue and fixed it. Admin hub is functioning as expected now.</p>
+]]></content:encoded>
+<pubDate>Wed, 22 Nov 2023 04:27:42 +0000</pubDate>
+</item>
+<item>
+<title>Email domain unverified</title>
+<link>https://status.atlassian.com/incidents/3sf6vg9v8nqm</link>
+<guid>https://status.atlassian.com/incidents/3sf6vg9v8nqm</guid>
+<content:encoded><![CDATA[
+<p><small>Oct <var>24</var>, <var>10:00</var> UTC</small><br /><strong>Resolved</strong> - Between 22:00 UTC 23rd October and 07:45 UTC 24th October, we experienced an issue with custom domain validation, this resulted in Jira Software, Jira Work Management, Jira Service management, Atlassian Access notification emails for some customers to be sent from generic Atlassian email domains rather than the custom domain email address. The issue has been resolved and the service is operating normally.</p><p><small>Oct <var>24</var>, <var>07:49</var> UTC</small><br /><strong>Update</strong> - We have identified the issue and a fix is currently being implemented. We expect this issue to be resolved shortly.</p><p><small>Oct <var>24</var>, <var>06:48</var> UTC</small><br /><strong>Identified</strong> - We identified that the mitigation method doesn't fix the issue in some affected Cloud instances. We are continuing with the investigation.</p><p><small>Oct <var>24</var>, <var>06:14</var> UTC</small><br /><strong>Monitoring</strong> - We have mitigated the problem. We are now monitoring this closely.<br /><br />Please contact us at https://support.atlassian.com/contact/ if you are still facing issues with email domain verification.</p><p><small>Oct <var>24</var>, <var>05:04</var> UTC</small><br /><strong>Identified</strong> - We continue to work on resolving the issue with domain verification. We have identified the root cause and expect recovery shortly.</p><p><small>Oct <var>24</var>, <var>02:43</var> UTC</small><br /><strong>Update</strong> - The investigation is still ongoing. We are working on a mitigation.</p><p><small>Oct <var>24</var>, <var>01:49</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue. We are aware that this incident is impacting custom email configuration and some Jira notifications are being sent with the default email address instead of the configured custom email.<br /><br />We will provide more details in the next hour.</p><p><small>Oct <var>24</var>, <var>00:22</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with emails that have been sent out to admins stating domain verification is failing. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 10:00:52 +0000</pubDate>
+</item>
+<item>
+<title>For a limited number of customers, activation for new products on some tenants is blocked</title>
+<link>https://status.atlassian.com/incidents/b2lqb2yxry16</link>
+<guid>https://status.atlassian.com/incidents/b2lqb2yxry16</guid>
+<content:encoded><![CDATA[
+<p><small>Oct <var> 4</var>, <var>17:20</var> UTC</small><br /><strong>Resolved</strong> - 100% resolved and services running normally</p><p><small>Oct <var> 4</var>, <var>17:01</var> UTC</small><br /><strong>Update</strong> - 99% of issues fixed and services are back to normal. Last 1% are manually begin fixed</p><p><small>Oct <var> 4</var>, <var>16:20</var> UTC</small><br /><strong>Update</strong> - We've solved 52% of the issues and are still on track to recover 100% within the original timeframe</p><p><small>Oct <var> 4</var>, <var>15:47</var> UTC</small><br /><strong>Monitoring</strong> - We've solved 15% of the issues and have a plan to recover 100% exponentially within the hour</p><p><small>Oct <var> 4</var>, <var>15:01</var> UTC</small><br /><strong>Update</strong> - We started fixing the affected tenants, we will post an update on the estimated time to resolve all tenants in the next hour</p><p><small>Oct <var> 4</var>, <var>14:28</var> UTC</small><br /><strong>Identified</strong> - We identified an issue with the product provisioning service. We identified the issue and we are working on a fix. <br />We will post an update in the next hour with estimated fix time</p>
+]]></content:encoded>
+<pubDate>Wed, 04 Oct 2023 17:20:32 +0000</pubDate>
+</item>
+<item>
+<title>We are experiencing intermittent issues on Atlassian.com and Bitbucket Marketing pages</title>
+<link>https://status.atlassian.com/incidents/lgl84rzhxd0d</link>
+<guid>https://status.atlassian.com/incidents/lgl84rzhxd0d</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>29</var>, <var>20:27</var> UTC</small><br /><strong>Resolved</strong> - Between 04:36 UTC to 17:50 UTC, we experienced intermittent issues on Atlassian.com and Bitbucket Marketing pages. The issue has been resolved and the service is operating normally.</p><p><small>Sep <var>29</var>, <var>18:42</var> UTC</small><br /><strong>Update</strong> - We are still investigating intermittent issues with these two domains. We will provide more details within the next hour.</p><p><small>Sep <var>29</var>, <var>17:44</var> UTC</small><br /><strong>Update</strong> - We are still investigating intermittent issues with these two domains. We will provide more details within the next hour.</p><p><small>Sep <var>29</var>, <var>16:26</var> UTC</small><br /><strong>Investigating</strong> - We are investigating cases of degraded performance for Atlassian Cloud customers. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Sep 2023 20:27:18 +0000</pubDate>
+</item>
+<item>
+<title>Infrastructure outage affecting attachments and Bitbucket Pipelines in all regions</title>
+<link>https://status.atlassian.com/incidents/4jkh49j0jjh6</link>
+<guid>https://status.atlassian.com/incidents/4jkh49j0jjh6</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>15</var>, <var>05:19</var> UTC</small><br /><strong>Resolved</strong> - Between 04:00 UTC to 05:00 UTC, we experienced a partial outage for Bitbucket Pipelines, issues viewing in-product attachments; and degraded performance across all products. The issue has been resolved and all services are operating normally.</p><p><small>Sep <var>15</var>, <var>04:47</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause, initiated mitigation actions, and are seeing a reduction in errors when scaling up in response to customer traffic. We are still monitoring closely and will continue to provide updates.</p><p><small>Sep <var>15</var>, <var>04:12</var> UTC</small><br /><strong>Update</strong> - A major infrastructure outage is affecting our ability to scale up in response to customer traffic. We are pre-emptively disabling any downscaling to minimize future impact. This is primarily affecting Bitbucket Pipelines, and attachment storage for all products. All regions are affected. We will provide more details in the next hour.</p><p><small>Sep <var>15</var>, <var>04:02</var> UTC</small><br /><strong>Identified</strong> - A major infrastructure outage is affecting our ability to scale up in response to customer traffic. We are pre-emptively disabling any downscaling to minimize future impact. This is primarily affecting Bitbucket Pipelines, and attachment storage for all products. All regions are affected. We will provide more details in the next hour.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Sep 2023 05:19:25 +0000</pubDate>
+</item>
+<item>
+<title>Sign-ups, Product Activation, and Billing not working</title>
+<link>https://status.atlassian.com/incidents/vk4mksp2hvj8</link>
+<guid>https://status.atlassian.com/incidents/vk4mksp2hvj8</guid>
+<content:encoded><![CDATA[
+<p><small>Aug <var> 2</var>, <var>15:59</var> UTC</small><br /><strong>Resolved</strong> - We mitigated the issue with Sign-ups, Product Activation, and Billing, and the systems are back to BAU, and all functionality is restored.</p><p><small>Aug <var> 2</var>, <var>14:25</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause of the Sign-ups, Product Activation, and Billing not working and have mitigated the problem. We are now monitoring closely.</p>
+]]></content:encoded>
+<pubDate>Wed, 02 Aug 2023 15:59:20 +0000</pubDate>
+</item>
+<item>
+<title>Performance issues and outages with Cloud products</title>
+<link>https://status.atlassian.com/incidents/pzh5b8cvfk2g</link>
+<guid>https://status.atlassian.com/incidents/pzh5b8cvfk2g</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var> 6</var>, <var>15:37</var> UTC</small><br /><strong>Resolved</strong> - We experienced performance issues and outages for several Atlassian Cloud Products. The issue has been resolved and the service is operating normally.</p><p><small>Jul <var> 6</var>, <var>13:17</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause of an issue with an internal infrastructure component that has been impacting multiple Cloud products, including Jira Software, Jira Service Management and Confluence, and customers. This issue had lead to a performance impact and, in some cases, outages.<br /><br />We have implemented a fix to resolve the issue and recovery is in progress.</p><p><small>Jul <var> 6</var>, <var>11:18</var> UTC</small><br /><strong>Identified</strong> - We are investigating an issue with an internal infrastructure component that is impacting multiple Cloud products, including Jira Software, Bitbucket, Jira Service Management and Confluence, and customers. These issues include performance impact and, in some cases, outages.<br /><br />Users may experience slow loading and uploading of attachments, login issues or inability for new customers to sign up. We have identified the root cause and are actively working on the service recovery.</p>
+]]></content:encoded>
+<pubDate>Thu, 06 Jul 2023 15:37:19 +0000</pubDate>
+</item>
+<item>
+<title>Sign-up is failing</title>
+<link>https://status.atlassian.com/incidents/fthwx4svyskf</link>
+<guid>https://status.atlassian.com/incidents/fthwx4svyskf</guid>
+<content:encoded><![CDATA[
+<p><small>Aug <var> 5</var>, <var>06:41</var> UTC</small><br /><strong>Resolved</strong> - Between 05:15 UTC to 05:55 UTC, we experienced user registration failing. The issue has been resolved and the service is operating normally.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Aug 2022 06:41:46 +0000</pubDate>
+</item>
+<item>
+<title>Partial app outage across multiple regions</title>
+<link>https://status.atlassian.com/incidents/wpphfps5ffpj</link>
+<guid>https://status.atlassian.com/incidents/wpphfps5ffpj</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>22</var>, <var>03:33</var> UTC</small><br /><strong>Resolved</strong> - Between 2:05 UTC and 2:42 UTC, we experienced failures to load some marketplace apps for customers tenanted in the apse, eu-west and eu-central regions. The issue has been resolved and the service is operating normally.</p><p><small>Jun <var>22</var>, <var>03:17</var> UTC</small><br /><strong>Monitoring</strong> - We are investigating reports of intermittent errors for some marketplace apps across the following regions: apse, eu west and eu central. Service has now been restored to each of the affected regions. We are continuing to monitor, but believe there is no further impact to customers and Atlassian developers.</p>
+]]></content:encoded>
+<pubDate>Wed, 22 Jun 2022 03:33:33 +0000</pubDate>
+</item>
+<item>
+<title>Atlassian account session invalidations</title>
+<link>https://status.atlassian.com/incidents/yz4mkc6j501q</link>
+<guid>https://status.atlassian.com/incidents/yz4mkc6j501q</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var>30</var>, <var>01:34</var> UTC</small><br /><strong>Resolved</strong> - Between 15/Apr/21 17:20 AM PDT to 27/Apr/21 10:00 PM PDT, we experienced some cloud customers of Atlassian Support, Confluence, Jira Work Management, Jira Service Management, Jira Software, Opsgenie, Atlassian Developer, Trello, Atlassian Bitbucket, Atlassian Access, and Jira Align were logged out of there account. The issue has been resolved and the service is operating normally.</p><p><small>Apr <var>19</var>, <var>04:32</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an incident impacting Jira Cloud, Confluence Cloud, Bitbucket Cloud, and Statuspage. During our investigation, users may be logged out of their accounts as we work towards a resolution. We are continuing to investigate and will update this incident with more details as they are available.</p>
+]]></content:encoded>
+<pubDate>Fri, 30 Apr 2021 01:34:05 +0000</pubDate>
+</item>
+<item>
+<title>User Management Syncs are affected across all products</title>
+<link>https://status.atlassian.com/incidents/r021q1l6nr1r</link>
+<guid>https://status.atlassian.com/incidents/r021q1l6nr1r</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>12</var>, <var>03:13</var> UTC</small><br /><strong>Resolved</strong> - Impact on User Management Syncs has been mitigated.</p><p><small>Feb <var>12</var>, <var>02:28</var> UTC</small><br /><strong>Investigating</strong> - We continue investigating issues with syncing User Management changes to products. We will provide more details in an hour.</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Feb 2021 03:13:32 +0000</pubDate>
+</item>
+<item>
+<title>Login / Signup with Microsoft not working</title>
+<link>https://status.atlassian.com/incidents/wkg98r6wc1b5</link>
+<guid>https://status.atlassian.com/incidents/wkg98r6wc1b5</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>29</var>, <var>01:03</var> UTC</small><br /><strong>Resolved</strong> - Between 2020-09-28 21:32 UTC to 2020-09-29 00:09 UTC, we experienced a degradation in functionality for users attempting to authenticate using Microsoft. This affected Confluence, Jira Core, Jira Service Desk, Jira Software, Opsgenie, Atlassian Developer, Trello, and Atlassian Bitbucket. The issue has been resolved and the service is operating normally.</p><p><small>Sep <var>28</var>, <var>23:39</var> UTC</small><br /><strong>Identified</strong> - We are investigating reports of intermittent errors for some Atlassian, Confluence, Jira Core, Jira Service Desk, Jira Software, Opsgenie, Atlassian Developer, Trello, and Atlassian Bitbucket Cloud customers. We will provide more details once we identify the root cause.</p>
+]]></content:encoded>
+<pubDate>Tue, 29 Sep 2020 01:03:24 +0000</pubDate>
+</item>
+<item>
+<title>Increased latency in user searches</title>
+<link>https://status.atlassian.com/incidents/85fh4cc7749r</link>
+<guid>https://status.atlassian.com/incidents/85fh4cc7749r</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var>22</var>, <var>23:11</var> UTC</small><br /><strong>Resolved</strong> - Between 20:20 UTC to 22:00 UTC, we experienced failures in user searches for Confluence, Jira Core, Jira Service Desk, Jira Software, and Bitbucket due to significantly elevated latencies, action has been taken and latencies have returned to an acceptable level.</p><p><small>Jan <var>22</var>, <var>22:19</var> UTC</small><br /><strong>Identified</strong> - We are investigating cases of degraded performance for the user search component affecting Confluence, Jira Core, Jira Service Desk, Jira Software, and Bitbucket Cloud customers. Some customers may experience delays and elevated latencies when making user searches.</p>
+]]></content:encoded>
+<pubDate>Wed, 22 Jan 2020 23:11:44 +0000</pubDate>
+</item>
+<item>
+<title>Intermittent DNS Resolution Errors</title>
+<link>https://status.atlassian.com/incidents/kw28xr3wyxmq</link>
+<guid>https://status.atlassian.com/incidents/kw28xr3wyxmq</guid>
+<content:encoded><![CDATA[
+<p><small>Oct <var>23</var>, <var>04:02</var> UTC</small><br /><strong>Resolved</strong> - Between 23:45 UTC to 02:19 UTC, some customers experienced intermittent failure connecting to Atlassian Cloud. The root cause was an increased DNS error rate from our infrastructure supplier. The supplier fixed the upstream issue and we have verified that the services have recovered. The conditions that caused the issue have been addressed and we are actively working on a permanent fix. The issue has been resolved and the service is operating normally.</p><p><small>Oct <var>23</var>, <var>01:32</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.</p><p><small>Oct <var>23</var>, <var>01:32</var> UTC</small><br /><strong>Update</strong> - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.</p><p><small>Oct <var>23</var>, <var>01:08</var> UTC</small><br /><strong>Update</strong> - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.</p><p><small>Oct <var>23</var>, <var>00:12</var> UTC</small><br /><strong>Identified</strong> - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.</p><p><small>Oct <var>22</var>, <var>22:32</var> UTC</small><br /><strong>Investigating</strong> - We are aware that some customers may be experiencing intermittent failure connecting to Atlassian Cloud. We are working with our cloud hosting provider (AWS) to resolve the DNS related errors. We will provide hourly updates.</p>
+]]></content:encoded>
+<pubDate>Wed, 23 Oct 2019 04:02:08 +0000</pubDate>
+</item>
+<item>
+<title>Major outage affecting all purchasing systems</title>
+<link>https://status.atlassian.com/incidents/skl1wrm8z4yd</link>
+<guid>https://status.atlassian.com/incidents/skl1wrm8z4yd</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>30</var>, <var>19:37</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Sep <var>30</var>, <var>19:23</var> UTC</small><br /><strong>Monitoring</strong> - Service has been restored, we are continuing to monitor the situation for any regression.</p><p><small>Sep <var>30</var>, <var>17:40</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an incident involving all purchasing systems.
+<br />
+<br />Currently all customers will be unable to:
+<br />- sign up for new products.
+<br />- receive quotes on or purchase market place add-ons.
+<br />- provision new products or in some cases deactivate users.</p>
+]]></content:encoded>
+<pubDate>Mon, 30 Sep 2019 19:37:26 +0000</pubDate>
+</item>
+<item>
+<title>Atlassian billing systems will be undergoing maintenance</title>
+<link>https://status.atlassian.com/incidents/vt7d9280ckr4</link>
+<guid>https://status.atlassian.com/incidents/vt7d9280ckr4</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>16</var>, <var>03:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>16</var>, <var>02:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>12</var>, <var>00:07</var> UTC</small><br /><strong>Scheduled</strong> - Atlassian billing systems will be unavailable temporarily from 02:00 to 03:00 UTC.<br /><br />During this time customers will be unable to view or update their billing and license details, make payments, or sign up for new products and apps. Vendors will be unable to create new apps or update pricing for apps.</p>
+]]></content:encoded>
+<pubDate>Mon, 16 Sep 2019 03:00:45 +0000</pubDate>
+</item>
+<item>
+<title>Issues displaying avatars</title>
+<link>https://status.atlassian.com/incidents/dd0svkqq6dwg</link>
+<guid>https://status.atlassian.com/incidents/dd0svkqq6dwg</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>10</var>, <var>11:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>10</var>, <var>10:05</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with our avatar storage system that is impacting visibility of avatars across multiple services. We will provide more details as they're discovered.</p>
+]]></content:encoded>
+<pubDate>Tue, 10 Sep 2019 11:45:48 +0000</pubDate>
+</item>
+<item>
+<title>Increased error rate in US East for Atlassian Jira, Confluence and Access customers</title>
+<link>https://status.atlassian.com/incidents/gzrclxcqvdsp</link>
+<guid>https://status.atlassian.com/incidents/gzrclxcqvdsp</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>15</var>, <var>17:08</var> UTC</small><br /><strong>Resolved</strong> - Between 14:12 UTC to 16:13 UTC, we experienced increased errors rates for Access, Confluence and Jira customers connecting to our US east API endpoints. The issue has been resolved and the service is operating normally.</p><p><small>Jul <var>15</var>, <var>15:42</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with Atlassians API Gateway in US East that is impacting some Access, Jira and Confluence Cloud customers. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Mon, 15 Jul 2019 17:08:58 +0000</pubDate>
+</item>
+<item>
+<title>App switcher not loading in Jira and Confluence for some customers</title>
+<link>https://status.atlassian.com/incidents/w81fyrpz5qcl</link>
+<guid>https://status.atlassian.com/incidents/w81fyrpz5qcl</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var> 1</var>, <var>11:03</var> UTC</small><br /><strong>Resolved</strong> - The issue has been resolved and the service is operating normally.</p><p><small>Jul <var> 1</var>, <var>10:04</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jul <var> 1</var>, <var>09:03</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with app switcher that is impacting some Atlassian Cloud customers. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Mon, 01 Jul 2019 11:03:40 +0000</pubDate>
+</item>
+<item>
+<title>Atlassian Cloud email notifications issue</title>
+<link>https://status.atlassian.com/incidents/sqq15l5bd34s</link>
+<guid>https://status.atlassian.com/incidents/sqq15l5bd34s</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>20</var>, <var>12:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>19</var>, <var>13:27</var> UTC</small><br /><strong>Identified</strong> - We continue to work on resolving the outgoing emails for Atlassian Cloud. We have identified the root cause.</p><p><small>Jun <var>19</var>, <var>12:00</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue with outgoing email that is impacting some Atlassian Cloud customers. We will provide more details within the next hour.</p>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2019 12:39:11 +0000</pubDate>
+</item>
+<item>
+<title>Marketplace - Disaster Recovery Test</title>
+<link>https://status.atlassian.com/incidents/fdgqykggz4sw</link>
+<guid>https://status.atlassian.com/incidents/fdgqykggz4sw</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>14</var>, <var>05:31</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>14</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>11</var>, <var>03:28</var> UTC</small><br /><strong>Scheduled</strong> - Will will be performing a periodic Disaster Recovery test for Atlassian Marketplace. We don't expect any disruption to service during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2019 05:31:00 +0000</pubDate>
+</item>
+</channel>
+</rss>

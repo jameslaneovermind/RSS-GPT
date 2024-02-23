@@ -1,0 +1,67 @@
+------------------------------------------------------
+Started: 2024-02-23 11:36:32.555706
+Existing_entries: 0
+Fetching from https://status.cloudera.com/history.rss
+Token length: 618
+Summarized using GPT-3.5-turbo-1106
+Append: [https://archive.cloudera.com/ is temporarily unavailable.](https://status.cloudera.com/incidents/c0h4vb6nj7dw)
+Token length: 1377
+Summarized using GPT-3.5-turbo-1106
+Append: [FreeIPA clusters are in an unreachable state](https://status.cloudera.com/incidents/5vy1yfdw7qjc)
+Token length: 377
+Summarized using GPT-3.5-turbo-1106
+Append: [FreeIPA clusters went into unreachable state momentarily.](https://status.cloudera.com/incidents/4cn8l6hxpkhp)
+Append: [Degraded connectivity issues between Control plane and workload clusters](https://status.cloudera.com/incidents/yyjl9bhps70f)
+Append: [Clusters on the US Control Plane in an unreachable state](https://status.cloudera.com/incidents/k3rqxvkldqmh)
+Append: [EU Control plane has issues accessing workload UIs](https://status.cloudera.com/incidents/mky3389p6dz7)
+Append: [cdp login not useable against EU and AP control planes](https://status.cloudera.com/incidents/2f0cvf19pkq4)
+Append: [Control Plane Issues](https://status.cloudera.com/incidents/t0m2blzqrpsx)
+Append: [CDP Public Cloud Control Plane (EU-1) will be under maintenance](https://status.cloudera.com/incidents/zc6y539k4lby)
+Append: [Possible failures with workloads in AWS us-east-1.](https://status.cloudera.com/incidents/vk7q7l9gfmkx)
+Append: [CDP landing page is not working. SSO continues to work.](https://status.cloudera.com/incidents/443ky9j7qlnn)
+Append: [Urgent maintenance impacting CML, CDF, CDE](https://status.cloudera.com/incidents/wwr68bkhd615)
+Append: [CDW virtual warehouse running in Azure cloud are experiencing issues](https://status.cloudera.com/incidents/dpkmj7cjgjm7)
+Append: [Customer workloads in Azure cloud experiencing degraded performance](https://status.cloudera.com/incidents/vctp4hk89zvj)
+Append: [CDP Control plane operations are impacted](https://status.cloudera.com/incidents/6rgpwl242r14)
+Append: [CDP Control plane experiencing issues with CDW UI](https://status.cloudera.com/incidents/sh9n2ldcl12b)
+Append: [CDP Control plane experiencing issues with CDW UI](https://status.cloudera.com/incidents/8nt6mw8z710t)
+Append: [CDP Control plane experiencing some problem](https://status.cloudera.com/incidents/2zft9lkggqwr)
+Append: [CDP Control plane operations are impacted](https://status.cloudera.com/incidents/88j17b0r7ql3)
+Append: [Potential downtime to CML experience](https://status.cloudera.com/incidents/5dt77c7r9144)
+Append: [Workload orchestration for Azure impacted due to Azure networking Outage](https://status.cloudera.com/incidents/mqyncw8vh4t5)
+Append: [Intermittent issues with the US Control plane.](https://status.cloudera.com/incidents/ttxcx3zk2s38)
+Append: [Intermittent availability issues with Cloudera Data Warehouse service [CDW]](https://status.cloudera.com/incidents/2m5vppx6wbjn)
+Append: [CDP Control Plane: Maintenance: Dec 10th - 3 hours](https://status.cloudera.com/incidents/ws00ppb6yw8f)
+Append: [We are investigating issues with the Data Warehouse web UI](https://status.cloudera.com/incidents/f438vj5pf67s)
+append_entries: 25
+Finish: 2024-02-23 11:36:36.271707
+------------------------------------------------------
+Started: 2024-02-23 12:11:39.889939
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:40.201186
+------------------------------------------------------
+Started: 2024-02-23 12:15:23.187208
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:15:23.514360
+------------------------------------------------------
+Started: 2024-02-23 13:09:52.095018
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 13:09:52.465871
+------------------------------------------------------
+Started: 2024-02-23 14:08:42.577852
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 14:08:42.866152
+------------------------------------------------------
+Started: 2024-02-23 15:10:10.002323
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 15:10:10.342910

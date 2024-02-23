@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Rapid7 Status - Incident History</title>
+<link>https://status.rapid7.com</link>
+
+
+<item>
+<title>AppSpider and InsightAppSec Licensing - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/lqjxgp5ks39k</link>
+<guid>https://status.rapid7.com/incidents/lqjxgp5ks39k</guid>
+<content:encoded><![CDATA[
+<div> High - System Maintenance <br /><br /> Summary: There will be scheduled maintenance of the licensing infrastructure, potentially causing disruption in setting up new on-premise engines. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>14:00</var> - <var>18:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>16:37</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our licensing infrastructure during this time. There may be some disruption when setting up new on-premise engines.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (US1) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/cr52632rkdbl</link>
+<guid>https://status.rapid7.com/incidents/cr52632rkdbl</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance in US1 Region <br /><br /> Summary: Insight Agent Platform services in the US1 region will undergo scheduled maintenance, potentially causing short delays in various agent-related functions. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>21:28</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the US1 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (CA) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/rrkl8mymck66</link>
+<guid>https://status.rapid7.com/incidents/rrkl8mymck66</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance in CA Region <br /><br /> Summary: Insight Agent Platform services in the CA region will undergo scheduled maintenance, leading to potential short delays in agent configurations and log retrieval. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>01:00</var> - <var>02:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>21:27</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the CA region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 01:00:00 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US1) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/r10ywybgln2d</link>
+<guid>https://status.rapid7.com/incidents/r10ywybgln2d</guid>
+<content:encoded><![CDATA[
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>11:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>09:35</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (EU) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/vj8jq53sn1qc</link>
+<guid>https://status.rapid7.com/incidents/vj8jq53sn1qc</guid>
+<content:encoded><![CDATA[
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>09:00</var> - <var>11:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>09:35</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (EU) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/84y6jnm86g35</link>
+<guid>https://status.rapid7.com/incidents/84y6jnm86g35</guid>
+<content:encoded><![CDATA[
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>20:00</var> - <var>21:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>21:26</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the EU region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (AU) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/64mxh47tb0sw</link>
+<guid>https://status.rapid7.com/incidents/64mxh47tb0sw</guid>
+<content:encoded><![CDATA[
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>16:00</var> - <var>17:00</var> UTC</strong></p><p><small>Feb <var>22</var>, <var>21:21</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the AU region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (US3) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/rc2hvf9qbf46</link>
+<guid>https://status.rapid7.com/incidents/rc2hvf9qbf46</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>23</var>, <var>03:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>23</var>, <var>02:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>22</var>, <var>21:20</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the US3 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 03:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent (US2) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/lwqjtyb07gy6</link>
+<guid>https://status.rapid7.com/incidents/lwqjtyb07gy6</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>23</var>, <var>02:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>23</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>22</var>, <var>21:18</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the US2 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 02:00:56 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (AP) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/jxc010psdq9w</link>
+<guid>https://status.rapid7.com/incidents/jxc010psdq9w</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>22</var>, <var>15:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>14:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>09:34</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 15:30:58 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US3) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/mm6mp5wmhs4s</link>
+<guid>https://status.rapid7.com/incidents/mm6mp5wmhs4s</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>22</var>, <var>13:31</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>12:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>09:33</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 13:31:00 +0000</pubDate>
+</item>
+<item>
+<title>Platform Agent Management US3 - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/qz1105fwdksp</link>
+<guid>https://status.rapid7.com/incidents/qz1105fwdksp</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>22</var>, <var>12:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>10:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>19</var>, <var>14:20</var> UTC</small><br /><strong>Scheduled</strong> - Agent Management will undergo maintenance in US3 region. During that time, Agents may appear offline on the Agent Management page. This does not impact the data collection on existing Agents or Collectors.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 12:01:23 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US2) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/bbl74gz2s77r</link>
+<guid>https://status.rapid7.com/incidents/bbl74gz2s77r</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>22</var>, <var>12:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>10:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>09:32</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 12:01:15 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (CA) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/59d3sncc0gr8</link>
+<guid>https://status.rapid7.com/incidents/59d3sncc0gr8</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>22</var>, <var>10:31</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>22</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>16</var>, <var>09:31</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 10:31:27 +0000</pubDate>
+</item>
+<item>
+<title>Insight Agent - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/t0sk7n5p0csh</link>
+<guid>https://status.rapid7.com/incidents/t0sk7n5p0csh</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>18:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>21</var>, <var>16:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>20</var>, <var>21:39</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the AP region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 18:00:57 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (AU) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/rmcw9dn6xbx2</link>
+<guid>https://status.rapid7.com/incidents/rmcw9dn6xbx2</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>20</var>, <var>11:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>20</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>13</var>, <var>17:23</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our authentication infrastructure during this time. There may be some disruption accessing exposure analytics during this time.</p>
+]]></content:encoded>
+<pubDate>Tue, 20 Feb 2024 11:00:56 +0000</pubDate>
+</item>
+<item>
+<title>InsightAppSec - CA Region - Scheduled maintenance</title>
+<link>https://status.rapid7.com/incidents/dh35snxdvdrt</link>
+<guid>https://status.rapid7.com/incidents/dh35snxdvdrt</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>15</var>, <var>12:14</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>15</var>, <var>09:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 5</var>, <var>09:37</var> UTC</small><br /><strong>Scheduled</strong> - Maintenance for InsightAppSec is scheduled at 9am UTC Thursday, February 15th. Access to the product will be significantly disrupted during these hours. Additionally there will be a system wide blackout in place, this will pause all running scans and prevent new or scheduled scans from running. We expect the maintenance will be completed by 1pm UTC on Thursday, February 15th.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Feb 2024 12:14:56 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US3) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/p6jnw31j4vs0</link>
+<guid>https://status.rapid7.com/incidents/p6jnw31j4vs0</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>14</var>, <var>15:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>12:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:10</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 15:00:56 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/jj1w48rphk6m</link>
+<guid>https://status.rapid7.com/incidents/jj1w48rphk6m</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>14</var>, <var>12:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>14</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:08</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 12:30:58 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (EU) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/skj6cfnkrws0</link>
+<guid>https://status.rapid7.com/incidents/skj6cfnkrws0</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>13</var>, <var>18:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>15:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:07</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 18:00:56 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (US2) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/878qkrks2ncs</link>
+<guid>https://status.rapid7.com/incidents/878qkrks2ncs</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>13</var>, <var>15:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>12:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:05</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 15:00:57 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (CA) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/b9mtvqthdd61</link>
+<guid>https://status.rapid7.com/incidents/b9mtvqthdd61</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>13</var>, <var>12:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>13</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:04</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 12:01:24 +0000</pubDate>
+</item>
+<item>
+<title>InsightConnect - Cloud Actions</title>
+<link>https://status.rapid7.com/incidents/qk88dmf82sf8</link>
+<guid>https://status.rapid7.com/incidents/qk88dmf82sf8</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>13</var>, <var>00:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>13</var>, <var>00:14</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>12</var>, <var>23:13</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>12</var>, <var>22:59</var> UTC</small><br /><strong>Identified</strong> - Cloud data collection and actions may be delayed. Users may be unable to update integrations or actions.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Feb 2024 00:34:13 +0000</pubDate>
+</item>
+<item>
+<title>InsightVM (AP) - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/04gskb3mfn1g</link>
+<guid>https://status.rapid7.com/incidents/04gskb3mfn1g</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>12</var>, <var>17:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>12</var>, <var>14:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 2</var>, <var>16:02</var> UTC</small><br /><strong>Scheduled</strong> - The system will be undergoing scheduled maintenance of our search infrastructure during this time. Any feature that makes use of search queries e.g. API, dashboards, remediation projects may experience some disruption.</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 17:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Single Sign On degradation</title>
+<link>https://status.rapid7.com/incidents/l88467vm1lr2</link>
+<guid>https://status.rapid7.com/incidents/l88467vm1lr2</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>12</var>, <var>09:25</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 9</var>, <var>19:19</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 8</var>, <var>14:55</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified. Customers creating new SSO integrations on the platform are affected</p>
+]]></content:encoded>
+<pubDate>Mon, 12 Feb 2024 09:25:37 +0000</pubDate>
+</item>
+</channel>
+</rss>

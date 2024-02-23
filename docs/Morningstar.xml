@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Morningstar Product Status Status - Incident History</title>
+<link>https://status.morningstar.com</link>
+
+
+<item>
+<title>Retirement Manager User Experience Intermittent SSO Failure</title>
+<link>https://status.morningstar.com/incidents/3r43tnvvxx9b</link>
+<guid>https://status.morningstar.com/incidents/3r43tnvvxx9b</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Intermittent SSO Login Issue in Retirement Manager
+Summary: A user experience issue with Retirement Manager's SSO login feature is being intermittently experienced. The company is actively working on resolving the problem and apologizes for any inconvenience. Users can contact the Relationship Manager for further assistance. <div>
+<p><small>Feb <var> 1</var>, <var>09:57</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the Intermittent SSO Failure of Retirement Manager User.<br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Relationship Manager.</p><p><small>Feb <var> 1</var>, <var>08:26</var> CST</small><br /><strong>Investigating</strong> - Retirement Manager User Experience is currently experiencing an intermittent issue for SSO login to the application. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Relationship Manager.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Feb 2024 09:57:08 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Direct Web Services is experiencing an issue delaying the calculation of daily and monthly trailing performance .</title>
+<link>https://status.morningstar.com/incidents/3z5lynnzmf47</link>
+<guid>https://status.morningstar.com/incidents/3z5lynnzmf47</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[High] - Investigating <br /><br /> Summary: Morningstar Direct Web Services is experiencing an issue delaying the calculation of daily and monthly trailing performance. The process is running and updates are coming through with a delay. The bulk of the performance calculation is expected to be completed over the next hours.
+[Low] - Monitoring <br /><br /> Summary: Infrastructure has been scaled up to ensure processing continues uninterrupted, the process will be closely monitored to completion.
+[Low] - Monitoring <br /><br /> Summary: We are continuing to monitor for any further issues.
+[Low] - Monitoring <br /><br /> Summary: We are continuing to monitor for any further issues.
+[Low] - Update <br /><br /> Summary: Daily trailing performance data has completed, we will continue to monitor month-end data
+[Low] - Update <br /><br /> Summary: We are continuing to monitor for any further issues.
+[Low] - Resolved <br /><br /> Summary: All data has now been processed
+``` <div>
+<p><small>Jan <var>13</var>, <var>04:45</var> CST</small><br /><strong>Resolved</strong> - All data has now been processed</p><p><small>Jan <var>12</var>, <var>15:53</var> CST</small><br /><strong>Update</strong> - Daily trailing performance data has completed, we will continue to monitor month end data</p><p><small>Jan <var>12</var>, <var>11:24</var> CST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>12</var>, <var>05:14</var> CST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Jan <var>12</var>, <var>03:09</var> CST</small><br /><strong>Monitoring</strong> - Infrastructure has been scaled up to ensure processing continues uninterrupted, the process will be closely monitored to completion.</p><p><small>Jan <var>12</var>, <var>02:30</var> CST</small><br /><strong>Investigating</strong> - Morningstar Direct Web Services is experiencing an issue delaying the calculation of daily and monthly trailing performance .<br /> <br />The process is running and updates are coming through with a delay. The bulk of the performance calculation is expected to be completed over the next hours.<br /> <br />When the calculation processing completed a new notification will be sent out.</p>
+]]></content:encoded>
+<pubDate>Sat, 13 Jan 2024 04:45:05 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Analytics Lab Notebooks Unavailable</title>
+<link>https://status.morningstar.com/incidents/zdz6lwj841q2</link>
+<guid>https://status.morningstar.com/incidents/zdz6lwj841q2</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Morningstar Analytics Lab Availability Issue <br /><br /> Identified issue with Morningstar Direct's Analytics Lab Notebooks where names are not appearing and unable to open. Working to resolve the problem. <div>
+<p><small>Jan <var>12</var>, <var>17:00</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that affected the availability of Morningstar Analytics Lab and service is now restored.<br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Jan <var>12</var>, <var>08:32</var> CST</small><br /><strong>Identified</strong> - Morningstar Direct is experiencing an availability issue with Analytics Lab Notebooks where the Notebook names are not appearing and are unable to open. Our team is working to fix the problem as quickly as possible. We apologize for the inconvenience and will update you as we work to resolve the issue. Contact Morningstar Support with any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Jan 2024 17:00:25 -0600</pubDate>
+</item>
+<item>
+<title>Retirement Manager User Experience Outage</title>
+<link>https://status.morningstar.com/incidents/zk6ghsvg9nlw</link>
+<guid>https://status.morningstar.com/incidents/zk6ghsvg9nlw</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var>10</var>, <var>13:03</var> CST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>10</var>, <var>12:56</var> CST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>10</var>, <var>12:56</var> CST</small><br /><strong>Investigating</strong> - Retirement Manager User Experience is currently experiencing an outage. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Relationship Manager.</p>
+]]></content:encoded>
+<pubDate>Wed, 10 Jan 2024 13:03:46 -0600</pubDate>
+</item>
+<item>
+<title>Retirement Manager User Experience Outage</title>
+<link>https://status.morningstar.com/incidents/vgflf7ly7jlv</link>
+<guid>https://status.morningstar.com/incidents/vgflf7ly7jlv</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var> 9</var>, <var>13:57</var> CST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 9</var>, <var>13:33</var> CST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var> 9</var>, <var>12:55</var> CST</small><br /><strong>Investigating</strong> - Retirement Manager User Experience is currently experiencing an outage. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Relationship Manager.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 13:57:02 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Presentation Studio Custom Data Not Populating</title>
+<link>https://status.morningstar.com/incidents/0d6dy3gzx5xj</link>
+<guid>https://status.morningstar.com/incidents/0d6dy3gzx5xj</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var> 9</var>, <var>12:27</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the custom model data to not populate in Presentation Studio in Morningstar Direct. The problem occurred because of a storage issue and the data is now restored.<br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Jan <var> 9</var>, <var>09:17</var> CST</small><br /><strong>Identified</strong> - Morningstar Direct is experiencing an availability issue where custom model data is not populating in Presentation Studio. Our team is working to fix the problem as quickly as possible. We apologize for the inconvenience and will update you as we work to resolve the issue. Contact Morningstar Support with any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jan 2024 12:27:12 -0600</pubDate>
+</item>
+<item>
+<title>Retirement Manager User Experience Outage</title>
+<link>https://status.morningstar.com/incidents/4wwh6vkj7qkm</link>
+<guid>https://status.morningstar.com/incidents/4wwh6vkj7qkm</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>18</var>, <var>16:29</var> CST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>12:06</var> CST</small><br /><strong>Investigating</strong> - Retirement Manager User Experience is currently experiencing an outage. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Relationship Manager.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Dec 2023 16:29:52 -0600</pubDate>
+</item>
+<item>
+<title>Retirement Manager Outage</title>
+<link>https://status.morningstar.com/incidents/rgjbh5m23mfg</link>
+<guid>https://status.morningstar.com/incidents/rgjbh5m23mfg</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>14</var>, <var>12:59</var> CST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>14</var>, <var>12:58</var> CST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>14</var>, <var>11:28</var> CST</small><br /><strong>Investigating</strong> - Retirement Manager is currently experiencing an outage. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Relationship Manager.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Dec 2023 12:59:53 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Dynamic Services API Outage</title>
+<link>https://status.morningstar.com/incidents/qwrj4sw9tzym</link>
+<guid>https://status.morningstar.com/incidents/qwrj4sw9tzym</guid>
+<content:encoded><![CDATA[
+<p><small>Aug <var>28</var>, <var>19:46</var> CDT</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the outage of Morningstar Dynamic Services APIs (previously known as Enterprise Components). The problem occurred because of a server issue and service is now restored.<br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business.<br /><br />Contact your local Morningstar Support team if you have any questions or additional needs</p><p><small>Aug <var>28</var>, <var>18:00</var> CDT</small><br /><strong>Investigating</strong> - Morningstar Dynamic Services APIs (previously known as Enterprise Components) are currently experiencing an outage where users are receiving an error message when trying to access the tools or APIs. <br /><br />Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available.<br /><br />Contact your local Morningstar Support team if you have any questions or additional needs.</p>
+]]></content:encoded>
+<pubDate>Mon, 28 Aug 2023 19:46:25 -0500</pubDate>
+</item>
+<item>
+<title>Retirement Manager: EZ Enroll API Slowness</title>
+<link>https://status.morningstar.com/incidents/vv5636t6bbgs</link>
+<guid>https://status.morningstar.com/incidents/vv5636t6bbgs</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>22</var>, <var>03:22</var> CDT</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the outage of Morningstar EZ Enroll API. The problem occurred because of deadlock in database and service is now restored.<br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business.  If you have any further questions or needs, please email RM-IncidentResponseTeam@morningstar.com.</p><p><small>Jul <var>21</var>, <var>23:57</var> CDT</small><br /><strong>Investigating</strong> - Retirement Manager - EZ Enroll API is currently experiencing slowness. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please email RM-IncidentResponseTeam@morningstar.com.</p>
+]]></content:encoded>
+<pubDate>Sat, 22 Jul 2023 03:22:18 -0500</pubDate>
+</item>
+<item>
+<title>Retirement Manager: Express API Slowness</title>
+<link>https://status.morningstar.com/incidents/3bylshkn763b</link>
+<guid>https://status.morningstar.com/incidents/3bylshkn763b</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>22</var>, <var>03:20</var> CDT</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the slowness of Morningstar Express API. The problem occurred because of deadlock in database and service is now restored. <br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business.<br />If you have any further questions or needs, please email RM-IncidentResponseTeam@morningstar.com.</p><p><small>Jul <var>21</var>, <var>23:59</var> CDT</small><br /><strong>Investigating</strong> - Retirement Manager - Express API is currently experiencing slowness. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please email RM-IncidentResponseTeam@morningstar.com.</p>
+]]></content:encoded>
+<pubDate>Sat, 22 Jul 2023 03:20:17 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Chicago Internet Outage</title>
+<link>https://status.morningstar.com/incidents/3vr30k5hzfjw</link>
+<guid>https://status.morningstar.com/incidents/3vr30k5hzfjw</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>22</var>, <var>20:45</var> CDT</small><br /><strong>Resolved</strong> - We notified you this morning that our data center and network providers resolved the internet outage impacting Morningstar.<br /><br />The outage impacted one of our databases which caused a delay for updated performance, pricing, and index data. We have cleared the backlog of data, and products containing this data should now display the most recent data.<br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. Contact Morningstar Support if you have any additional questions or needs.</p><p><small>Jun <var>22</var>, <var>07:30</var> CDT</small><br /><strong>Update</strong> - Our data center and network providers have resolved the internet outage impacting Morningstar.<br /><br />Specifically, this issue impacted one of our databases, causing a delay for updated performance, pricing, and index data. The database is now back online, and we are processing the backlog of data. <br /><br />Due to this issue, products containing this data will have a delay in displaying the most recent data until we clear the backlog.<br /><br />We apologize for the inconvenience and will update you as we work to resolve the data delay from this issue.<br /><br />Contact Morningstar Support if you have any additional questions or needs.</p><p><small>Jun <var>21</var>, <var>21:00</var> CDT</small><br /><strong>Monitoring</strong> - Morningstar is continuing to experience an internet outage at our headquarters in Chicago.<br /><br />Specifically, this outage impacts one of our databases, causing a delay for index and performance data. Due to this issue, products containing this data will not display the most recent data until the issue is resolved.<br /><br />We’re working with our internet provider to restore service as quickly as possible. We apologize for the inconvenience and will update you as we work to resolve the issue. <br /><br />Contact Morningstar Support if you have any additional questions or needs.</p><p><small>Jun <var>21</var>, <var>15:00</var> CDT</small><br /><strong>Identified</strong> - Morningstar Service Notification: Morningstar Chicago Internet Outage</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Jun 2023 20:45:46 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Outages Due to Amazon Web Services Degradation</title>
+<link>https://status.morningstar.com/incidents/7qm6pzn309m3</link>
+<guid>https://status.morningstar.com/incidents/7qm6pzn309m3</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>14</var>, <var>16:30</var> CDT</small><br /><strong>Resolved</strong> - Amazon Web Services fixed the degradation issue that caused the functionality and product outages for Morningstar. The problem occurred because Amazon Web Services experienced error rates and latencies with their services in the US-EAST-1 Region that Morningstar relies on.<br /><br />Due to this issue, Morningstar data feeds or APIs scheduled to run during this time may have failed or been delayed. We are working on rerunning and redelivering any failed feeds or APIs to ensure our clients receive the latest data.<br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business. Contact Morningstar Support if you have any additional questions or needs.</p><p><small>Jun <var>13</var>, <var>15:20</var> CDT</small><br /><strong>Identified</strong> - Morningstar is experiencing functionality or product outages due to Amazon Web Services experiencing degradation. Our team is working with Amazon Web Services to resolve the problem as quickly as possible.<br /><br />We apologize for any inconvenience and will provide further updates as they become available. Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Wed, 14 Jun 2023 16:30:32 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Excel Add-In Performance Unavailable</title>
+<link>https://status.morningstar.com/incidents/xxjy0sndfv03</link>
+<guid>https://status.morningstar.com/incidents/xxjy0sndfv03</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>26</var>, <var>11:07</var> CDT</small><br /><strong>Resolved</strong> - Morningstar has fixed the issue that affected the performance availability of Excel Add-In and service is now restored. For any clients impacted by this issue, we recommend you re-run your impacted items to ensure you have the latest data. We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. Contact Morningstar Support if you have any additional questions or needs.</p><p><small>May <var>26</var>, <var>09:00</var> CDT</small><br /><strong>Identified</strong> - Morningstar Excel Add-In is experiencing a functionality issue where performance is unavailable. Our team is working to fix the problem as quickly as possible, but we recommend clients try clearing cache and cookies to address the issue. We apologize for the inconvenience and will update you as we work to resolve the issue. Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Fri, 26 May 2023 11:07:23 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Data Delay Issue</title>
+<link>https://status.morningstar.com/incidents/9l8f7yw6hh76</link>
+<guid>https://status.morningstar.com/incidents/9l8f7yw6hh76</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>25</var>, <var>02:15</var> CDT</small><br /><strong>Resolved</strong> - Morningstar has fixed the database issue that caused a delay for index and performance data for May 23rd, and the updated data is now available. We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. Contact Morningstar Support if you have any additional questions or needs.</p><p><small>May <var>24</var>, <var>11:58</var> CDT</small><br /><strong>Monitoring</strong> - As we shared with you earlier, Morningstar  is experiencing a database issue which is causing a delay for index and performance data. Our team is continuing to work on the problem. We will update you as we work to resolve the issue. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>May <var>24</var>, <var>08:49</var> CDT</small><br /><strong>Identified</strong> - Morningstar is experiencing a database issue which is causing a delay for index and performance data. Our team is working to fix the problem as quickly as possible. We apologize for the inconvenience and will update you as we work to resolve the issue. Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Thu, 25 May 2023 02:15:35 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Bloomberg Index Data Delay</title>
+<link>https://status.morningstar.com/incidents/jqz89q07dh9r</link>
+<guid>https://status.morningstar.com/incidents/jqz89q07dh9r</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>17</var>, <var>20:15</var> CDT</small><br /><strong>Resolved</strong> - Morningstar resolved the delayed data issue for the impacted 6,811 Bloomberg Indexes and they are now reflecting the latest data. We apologize for the inconvenience and contact Morningstar Support if you have any additional questions or needs.</p><p><small>May <var>17</var>, <var>15:36</var> CDT</small><br /><strong>Monitoring</strong> - As we shared with you earlier, Morningstar is experiencing a delay data issue for 6,811 Bloomberg Indexes, where their data is still as of May 15. Our team is continuing to work on the problem. We will update you as we work to resolve the issue.</p><p><small>May <var>17</var>, <var>02:50</var> CDT</small><br /><strong>Identified</strong> - Morningstar is experiencing a delayed data issue for 6,811 Bloomberg Indexes, where their data is still as of May 15. Our team is working to fix the problem as quickly as possible. We apologize for the inconvenience and will update you as we work to resolve the issue. Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Wed, 17 May 2023 20:15:47 -0500</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Direct Web Hosted Tools Issue</title>
+<link>https://status.morningstar.com/incidents/wb6nm5tw4ytf</link>
+<guid>https://status.morningstar.com/incidents/wb6nm5tw4ytf</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 7</var>, <var>11:15</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that affected the functionality issues of Morningstar Direct's web hosted tools and service is now restored. <br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Feb <var> 7</var>, <var>10:45</var> CST</small><br /><strong>Identified</strong> - Morningstar Direct is experiencing intermittent functionality issues with it's web hosted tools, including charts. Our team is working to fix the problem as quickly as possible. <br /><br />We apologize for the inconvenience and will update you as we work to resolve the issue. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Feb 2023 11:15:16 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Direct Slowness</title>
+<link>https://status.morningstar.com/incidents/24xqxkc9vxsn</link>
+<guid>https://status.morningstar.com/incidents/24xqxkc9vxsn</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>19</var>, <var>10:07</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the slowness of Morningstar Direct. The problem occurred because of a degraded server and service is now restored. <br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Dec <var>19</var>, <var>09:04</var> CST</small><br /><strong>Investigating</strong> - Morningstar Direct is currently experiencing slowness with certain functionality including, but not limited to, Performance Reporting, Presentation Studio, and Portfolio Analysis. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Support.</p>
+]]></content:encoded>
+<pubDate>Mon, 19 Dec 2022 10:07:06 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Direct Disaster Recovery</title>
+<link>https://status.morningstar.com/incidents/2rtmjrgbh8pt</link>
+<guid>https://status.morningstar.com/incidents/2rtmjrgbh8pt</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>11</var>, <var>02:01</var> CST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var> 8</var>, <var>07:33</var> CST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var> 8</var>, <var>07:32</var> CST</small><br /><strong>Scheduled</strong> - Morningstar Direct will be conducting a disaster recovery test this Saturday, Dec. 10, 2022, from 6:00 p.m. to 2:00 a.m. CT on Sunday, Dec. 11, 2022.<br /><br />This test may cause intermittent outages during this time frame and some modules or tools accessed during this window may experience a delay.<br /><br />Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Sun, 11 Dec 2022 02:01:37 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Direct Disaster Recovery</title>
+<link>https://status.morningstar.com/incidents/7nwdt2vm28ps</link>
+<guid>https://status.morningstar.com/incidents/7nwdt2vm28ps</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var>13</var>, <var>00:00</var> CST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>12</var>, <var>18:00</var> CST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var> 9</var>, <var>09:46</var> CST</small><br /><strong>Scheduled</strong> - Morningstar Direct will be conducting a disaster recovery test this Saturday, Nov. 12, 2022, from 6:00 p.m. CDT to 2:00 a.m. CT on Sunday, Nov. 7, 2022.<br /><br />This test may cause intermittent outages during this time frame and some modules or tools accessed during this window may experience a delay. <br /><br />Contact Morningstar Support if you have any additional questions or needs.</p>
+]]></content:encoded>
+<pubDate>Sun, 13 Nov 2022 00:00:31 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Presentation Studio Outage</title>
+<link>https://status.morningstar.com/incidents/k1j3t5rf08dh</link>
+<guid>https://status.morningstar.com/incidents/k1j3t5rf08dh</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var> 9</var>, <var>11:30</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that affected the availability of Presentation Studio. The problem occurred because of a large batch process leading to downtime and service is now restored. <br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Nov <var> 9</var>, <var>09:23</var> CST</small><br /><strong>Investigating</strong> - Morningstar Presentation Studio is currently experiencing an outage. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Support.</p>
+]]></content:encoded>
+<pubDate>Wed, 09 Nov 2022 11:30:42 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Direct Data Delay</title>
+<link>https://status.morningstar.com/incidents/0dwy64ptm6qq</link>
+<guid>https://status.morningstar.com/incidents/0dwy64ptm6qq</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var> 9</var>, <var>09:40</var> CST</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the data delay in Morningstar Direct. The problem occurred because of a domain server issue and service is now restored. <br /><br />We always want to deliver the highest quality service and apologize for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Nov <var> 9</var>, <var>03:54</var> CST</small><br /><strong>Identified</strong> - Morningstar Direct is experiencing issues with retrieving data. Our team is working to fix the problem as quickly as possible. <br /><br />We apologize for the inconvenience and will update you as we work to resolve the issue. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p>
+]]></content:encoded>
+<pubDate>Wed, 09 Nov 2022 09:40:55 -0600</pubDate>
+</item>
+<item>
+<title>Morningstar Service Notification: Morningstar Direct Slowness</title>
+<link>https://status.morningstar.com/incidents/h07rd5v597dw</link>
+<guid>https://status.morningstar.com/incidents/h07rd5v597dw</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var> 4</var>, <var>11:00</var> CDT</small><br /><strong>Resolved</strong> - We have fixed the issue that caused the slowness of Morningstar Direct. The problem occurred because high server usage and service is now restored. <br /><br />We always want to deliver the highest quality service and are sorry for any inconvenience this may have caused you or your business. If you have any questions or if you continue to experience any issues, please contact Morningstar Support.</p><p><small>Nov <var> 4</var>, <var>10:00</var> CDT</small><br /><strong>Investigating</strong> - Morningstar Direct is currently experiencing slowness. Our team is working to resolve the problem as quickly as possible. We apologize for any inconvenience and will provide you further updates as they become available. If you have any further questions or needs, please contact Morningstar Support.</p>
+]]></content:encoded>
+<pubDate>Fri, 04 Nov 2022 11:00:38 -0500</pubDate>
+</item>
+</channel>
+</rss>

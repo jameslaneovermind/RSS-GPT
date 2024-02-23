@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>OutSystems Status - Incident History</title>
+<link>https://status.outsystems.com</link>
+
+
+<item>
+<title>MABS Incident on 2023-07-18 16:05 UTC</title>
+<link>https://status.outsystems.com/incidents/5qvzf42c6b7z</link>
+<guid>https://status.outsystems.com/incidents/5qvzf42c6b7z</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Performance Issue on GitHub <br /><br /> Some Android and iOS builds are experiencing performance issues and may fail due to timeouts when downloading resources from GitHub. The issue has been identified, and a fix is being implemented. GitHub Operations has resumed nominal performance and is being monitored. <div>
+<p><small>Jul <var>18</var>, <var>20:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>18</var>, <var>16:46</var> UTC</small><br /><strong>Monitoring</strong> - GitHub Operations has resumed nominal performance.<br /><br />We will keep monitoring the service.</p><p><small>Jul <var>18</var>, <var>16:41</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>18</var>, <var>16:40</var> UTC</small><br /><strong>Investigating</strong> - <h5>RPM-4197</h5><br /><br />Both Android and iOS builds are getting their performance affected because of an ongoing <a href="https://www.githubstatus.com/incidents/shbq71s0g00z">GitHub incident</a>.<br /><br />Some builds might end up failing due to timeouts when downloading resources from GitHub.</p>
+]]></content:encoded>
+<pubDate>Tue, 18 Jul 2023 20:45:55 +0000</pubDate>
+</item>
+<item>
+<title>Support Portal</title>
+<link>https://status.outsystems.com/incidents/lt1z8sbl7c0f</link>
+<guid>https://status.outsystems.com/incidents/lt1z8sbl7c0f</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance <br /><br /> Summary: The company will be undergoing scheduled maintenance on June 18 from 03:00 UTC to 05:00 UTC. The Support Portal may be temporarily unavailable during this time, and alternative support channels are encouraged. <div>
+<p><small>Jun <var>18</var>, <var>05:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>18</var>, <var>03:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>16</var>, <var>09:41</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Jun <var>16</var>, <var>09:39</var> UTC</small><br /><strong>Scheduled</strong> - Our Support Portal will be temporarily unavailable due to a scheduled maintenance on June 18, from 03.00 UTC to 05.00 UTC. During the maintenance window, we encourage you to reach out to our support team through alternative channels (https://www.outsystems.com/legal/success/support-terms-and-service-level-agreements-sla-of-the-outsystems-software/#contact-channels).<br /><br />We apologize for any inconvenience this may cause and appreciate your understanding.</p>
+]]></content:encoded>
+<pubDate>Sun, 18 Jun 2023 05:00:24 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/384vkby731cw</link>
+<guid>https://status.outsystems.com/incidents/384vkby731cw</guid>
+<content:encoded><![CDATA[
+<div> High - Partial Outage of Forge Service <br /><br /> Summary: A partial outage of the Forge Service occurred for one hour, impacting user access. The issue has been identified and fixed, with apologies for any inconvenience caused. <div>
+<p><small>Mar <var>17</var>, <var>10:30</var> UTC</small><br /><strong>Resolved</strong> - We experienced a partial outage that affected our Forge Service. Our team was able to identify the cause and quickly fixed it. This partial outage lasted for one hour and during this period, our users were unable to access the service.<br />Please accept our apologies for any inconvenience caused.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Mar 2023 10:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Identity provider issues</title>
+<link>https://status.outsystems.com/incidents/jqgcn351np8k</link>
+<guid>https://status.outsystems.com/incidents/jqgcn351np8k</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>16:46</var> UTC</small><br /><strong>Resolved</strong> - We are happy to inform that the incident has been resolved and the communications with our identity provider are reestablish at 100%.<br />The OutSystems Community is up and running again.<br />Sorry for the inconvenience.<br />Kind regards.</p><p><small>Feb <var> 3</var>, <var>16:01</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var> 3</var>, <var>12:15</var> UTC</small><br /><strong>Monitoring</strong> - We are experiencing some isses on our identity provider consider possible errors when loging in some OutSystems properties.<br />The foloing actions can be affected:<br />Signup<br />Changes on the profile<br />Change password<br />Change email<br />Move certifications<br />Merge activity<br />Logout<br /><br />Our Team is working to recover the full operation we will keep you posted on the situation status.<br /><br />Best regards</p>
+]]></content:encoded>
+<pubDate>Fri, 03 Feb 2023 16:46:09 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/qfnb346rgsxs</link>
+<guid>https://status.outsystems.com/incidents/qfnb346rgsxs</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var>31</var>, <var>22:50</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>31</var>, <var>22:23</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.<br /><br />The following documentation pages are unavailable at the moment:<br />- https://success.outsystems.com/documentation/how-to_guides/<br />- https://success.outsystems.com/support/<br /><br />To get support, please access directly via https://success.outsystems.com/support/home/<br /><br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Tue, 31 Jan 2023 22:50:57 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2023-01-19 16:20 UTC</title>
+<link>https://status.outsystems.com/incidents/g66ts76zqqfc</link>
+<guid>https://status.outsystems.com/incidents/g66ts76zqqfc</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var>19</var>, <var>21:40</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>19</var>, <var>17:12</var> UTC</small><br /><strong>Monitoring</strong> - GitHub Operations has resumed his performance.<br /><br />We will keep monitoring the service.</p><p><small>Jan <var>19</var>, <var>16:43</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jan <var>19</var>, <var>16:31</var> UTC</small><br /><strong>Identified</strong> - <h5>RPM-3564</h5><br /><br />Both Android and iOS builds are getting its performance affected because of an ongoing <a href="https://www.githubstatus.com/incidents/n18j5g7wpg0s">GitHub incident</a>.<br /><br />Some builds might end up failing due to timeouts when downloading resources from GitHub.</p>
+]]></content:encoded>
+<pubDate>Thu, 19 Jan 2023 21:40:54 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/74qtp51vj09m</link>
+<guid>https://status.outsystems.com/incidents/74qtp51vj09m</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var>16</var>, <var>12:43</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>16</var>, <var>12:28</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.
+<br />
+<br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Wed, 16 Nov 2022 12:43:52 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2022-09-22 21:00 UTC</title>
+<link>https://status.outsystems.com/incidents/gmrnfr60qfsz</link>
+<guid>https://status.outsystems.com/incidents/gmrnfr60qfsz</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>23</var>, <var>08:48</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>22</var>, <var>22:00</var> UTC</small><br /><strong>Update</strong> - The service is back to the normal. The pattern where some iOS builds were failing when fetching external dependencies is no longer observed.</p><p><small>Sep <var>22</var>, <var>21:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues on some iOS builds</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Sep 2022 08:48:30 +0000</pubDate>
+</item>
+<item>
+<title>Database Update</title>
+<link>https://status.outsystems.com/incidents/msngccbqxvrd</link>
+<guid>https://status.outsystems.com/incidents/msngccbqxvrd</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>17</var>, <var>09:31</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>17</var>, <var>08:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>14</var>, <var>09:13</var> UTC</small><br /><strong>Scheduled</strong> - OutSystems will be updating our database for enhanced security. During this 90 minute upgrade, the following applications will be unavailable:<br /><br />Community, Forge, Training & Documentation, Customer Portal, Customer Onboarding, Intellectual Property Protection Portal, ISV Portal, Partner Center, Website Search, Sizing Tool, Support Portal, Architecture Dashboard (login).<br /><br />If you need support during this downtime, please visit our Support contacts page: https://www.outsystems.com/legal/success/support-terms-and-service-level-agreements-sla-of-the-outsystems-software/</p>
+]]></content:encoded>
+<pubDate>Sat, 17 Sep 2022 09:31:39 +0000</pubDate>
+</item>
+<item>
+<title>AppShield Incident on 2022-06-30 00:03 UTC</title>
+<link>https://status.outsystems.com/incidents/zzlc3wlmmmm2</link>
+<guid>https://status.outsystems.com/incidents/zzlc3wlmmmm2</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var> 5</var>, <var>12:58</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var> 4</var>, <var>19:25</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. <br /><br />Customers must update their AppShield Plugin version to <a href="https://www.outsystems.com/forge/component-versions/9379">1.5.1 from the Forge</a> to be able to have a successful build on Android, when using AppShield.</p><p><small>Jul <var> 4</var>, <var>08:39</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jul <var> 2</var>, <var>00:16</var> UTC</small><br /><strong>Update</strong> - Although the problem is identified, we haven't yet been able to overcome the problem with a satisfactory solution without causing a greater impact.<br /><br />This incident is only affecting Android builds making use of the AppShield Plugin.</p><p><small>Jul <var> 1</var>, <var>17:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jun <var>30</var>, <var>15:50</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Jun <var>30</var>, <var>12:36</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jun <var>30</var>, <var>10:50</var> UTC</small><br /><strong>Investigating</strong> - <h5>RPM-2747</h5><br />We are currently investigating an issue that is affecting all Android builds using AppShield, preventing these builds to complete successfully. This is independent of MABS Version and of AppShield Plugin Version</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Jul 2022 12:58:34 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/9yrjjzh8r2rw</link>
+<guid>https://status.outsystems.com/incidents/9yrjjzh8r2rw</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>13</var>, <var>20:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>13</var>, <var>02:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>13</var>, <var>02:49</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>13</var>, <var>01:29</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>May <var>13</var>, <var>00:41</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.
+<br />
+<br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Fri, 13 May 2022 20:06:35 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2022-05-13 13:30 UTC</title>
+<link>https://status.outsystems.com/incidents/kb7hlsn38b08</link>
+<guid>https://status.outsystems.com/incidents/kb7hlsn38b08</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>13</var>, <var>16:38</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>13</var>, <var>16:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>May <var>13</var>, <var>15:48</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>May <var>13</var>, <var>14:47</var> UTC</small><br /><strong>Investigating</strong> - All Android Builds and some iOS builds are failing in the build phase. We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Fri, 13 May 2022 16:38:54 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2022-05-11 09:00 UTC</title>
+<link>https://status.outsystems.com/incidents/0qq3ym6wgczq</link>
+<guid>https://status.outsystems.com/incidents/0qq3ym6wgczq</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>11</var>, <var>17:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>11</var>, <var>12:02</var> UTC</small><br /><strong>Monitoring</strong> - A workaround has been implemented and we are monitoring the results.</p><p><small>May <var>11</var>, <var>11:42</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>May <var>11</var>, <var>11:27</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.<br />More information here: https://status.cocoapods.org/</p><p><small>May <var>11</var>, <var>10:13</var> UTC</small><br /><strong>Investigating</strong> - All iOS Builds are failing due to an issue with the Cocoapods CDN. We are currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 May 2022 17:03:42 +0000</pubDate>
+</item>
+<item>
+<title>2621129 COMMUNITY @EXTRANET</title>
+<link>https://status.outsystems.com/incidents/cyjgnqm0yr79</link>
+<guid>https://status.outsystems.com/incidents/cyjgnqm0yr79</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var> 7</var>, <var>15:26</var> UTC</small><br /><strong>Resolved</strong> - We are happy to inform everyone that the issues we were facing are now solved and everything is up and running again.<br /><br />We would like to thank everyone for your patience and understanding while we were solving these issues.</p><p><small>Apr <var> 7</var>, <var>14:09</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.
+<br />
+<br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Apr 2022 15:26:43 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/hq7bv86pqfwv</link>
+<guid>https://status.outsystems.com/incidents/hq7bv86pqfwv</guid>
+<content:encoded><![CDATA[
+<p><small>Oct <var>16</var>, <var>11:07</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved and the customer synchronizations are back to normal</p><p><small>Oct <var>15</var>, <var>14:00</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. The synchronizations are now recovering and everything should get back to normal in a few hours.</p><p><small>Oct <var>15</var>, <var>10:53</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing delays on Architecture Dashboard synchronization analysis.<br /><br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Oct 2021 11:07:40 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2021-09-10 09:30 UTC</title>
+<link>https://status.outsystems.com/incidents/1hr3tvcbgkdd</link>
+<guid>https://status.outsystems.com/incidents/1hr3tvcbgkdd</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>14</var>, <var>15:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Sep <var>14</var>, <var>15:05</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Sep <var>14</var>, <var>14:58</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Sep <var>14</var>, <var>14:48</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep <var>13</var>, <var>09:55</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and we are working on a mitigation</p><p><small>Sep <var>10</var>, <var>11:49</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue that is causing some MABS builds to fail or timeout, indiscriminately.<br /><br />This means that, if your build was previously working and now failed, retrying might fix the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 14 Sep 2021 15:06:01 +0000</pubDate>
+</item>
+<item>
+<title>2519714 COMMUNITY @EXTRANET is Down</title>
+<link>https://status.outsystems.com/incidents/vsyqk6v3kc3l</link>
+<guid>https://status.outsystems.com/incidents/vsyqk6v3kc3l</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var> 2</var>, <var>09:24</var> UTC</small><br /><strong>Resolved</strong> - We've released a fix for this issue, and all OutSystems pages are up and running once again.<br />Our sincere apologies for the inconvenience this may have caused.<br />We are available for any insight through our official channels.</p><p><small>Sep <var> 2</var>, <var>08:56</var> UTC</small><br /><strong>Monitoring</strong> - After some analysis on this, we have verified that the issue and all our tools are back online.<br /><br />If you have some issues with our tools please contact us through the official channels available to you.<br /><br />Our sincerely apologies for the inconvenience.</p><p><small>Sep <var> 2</var>, <var>08:32</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Sep <var> 2</var>, <var>08:20</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 02 Sep 2021 09:24:43 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/632wwxjv6l38</link>
+<guid>https://status.outsystems.com/incidents/632wwxjv6l38</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>30</var>, <var>09:08</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>30</var>, <var>09:01</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>30</var>, <var>08:54</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>30</var>, <var>08:51</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial outage which is causing connection issues with some of our online tools.<br /><br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Fri, 30 Jul 2021 09:08:29 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/y59b0sq9lyw2</link>
+<guid>https://status.outsystems.com/incidents/y59b0sq9lyw2</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>24</var>, <var>22:30</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>24</var>, <var>19:31</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>24</var>, <var>19:07</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var>24</var>, <var>18:55</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.
+<br />
+<br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Jul 2021 22:30:35 +0000</pubDate>
+</item>
+<item>
+<title>IPP PORTAL @EXTRANET is Down</title>
+<link>https://status.outsystems.com/incidents/193vkzpqcmxf</link>
+<guid>https://status.outsystems.com/incidents/193vkzpqcmxf</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var>22</var>, <var>17:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var>22</var>, <var>15:26</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var>22</var>, <var>14:53</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Jul 2021 17:49:45 +0000</pubDate>
+</item>
+<item>
+<title>Partial System outage</title>
+<link>https://status.outsystems.com/incidents/k5m6n8s23rvd</link>
+<guid>https://status.outsystems.com/incidents/k5m6n8s23rvd</guid>
+<content:encoded><![CDATA[
+<p><small>Jul <var> 7</var>, <var>13:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jul <var> 7</var>, <var>13:42</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jul <var> 7</var>, <var>13:36</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Jul <var> 7</var>, <var>13:36</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing some partial infrastructure outage which is causing connection issues with some of our online tools.
+<br />
+<br />We will update you as soon as we have the website up and running.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 Jul 2021 13:45:35 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2021-06-02 08:45 UTC</title>
+<link>https://status.outsystems.com/incidents/r1137h71jhn6</link>
+<guid>https://status.outsystems.com/incidents/r1137h71jhn6</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var> 2</var>, <var>12:48</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var> 2</var>, <var>09:43</var> UTC</small><br /><strong>Monitoring</strong> - GitHub services were recovered and we are monitoring the results.</p><p><small>Jun <var> 2</var>, <var>08:53</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and it's related to a partial outage in GitHub (https://www.githubstatus.com/incidents/76nv9h8pmkv4)</p><p><small>Jun <var> 2</var>, <var>08:50</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with GitHub integrations.</p>
+]]></content:encoded>
+<pubDate>Wed, 02 Jun 2021 12:48:42 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2021-05-04 19:10 UTC</title>
+<link>https://status.outsystems.com/incidents/pnslqmryvz9g</link>
+<guid>https://status.outsystems.com/incidents/pnslqmryvz9g</guid>
+<content:encoded><![CDATA[
+<p><small>May <var> 5</var>, <var>08:35</var> UTC</small><br /><strong>Resolved</strong> - All services nominal. This incident has been resolved.</p><p><small>May <var> 5</var>, <var>08:04</var> UTC</small><br /><strong>Monitoring</strong> - JitPack is now back up. We will be monitoring the service, but do not expect any issues building Android applications.</p><p><small>May <var> 5</var>, <var>01:26</var> UTC</small><br /><strong>Update</strong> - We have further restored Android building capability in the service. Android builds performed using MABS 6 should now succeed unless there are some custom dependencies still hosted in JitPack, which is still facing downtime issues. We will be monitoring JitPack's recovery progress closely and react accordingly.</p><p><small>May <var> 5</var>, <var>00:40</var> UTC</small><br /><strong>Update</strong> - We have migrated several core dependencies hosted on JitPack in order to restore some Android building capability in the service. Android builds performed in MABS 7 should succeed unless there are some custom dependencies still hosted in JitPack, which is still facing downtime issues. We are now attempting to restore Android building capability to older MABS versions.</p><p><small>May <var> 4</var>, <var>22:34</var> UTC</small><br /><strong>Update</strong> - We are working on a fix to mitigate the effects of the JitPack outage.</p><p><small>May <var> 4</var>, <var>19:42</var> UTC</small><br /><strong>Identified</strong> - One of our third party providers, Jitpack, is down. This only affects Android builds. We are investigating possible workarounds.</p><p><small>May <var> 4</var>, <var>19:29</var> UTC</small><br /><strong>Investigating</strong> - We have detected an issue which is affecting most Android builds.</p>
+]]></content:encoded>
+<pubDate>Wed, 05 May 2021 08:35:04 +0000</pubDate>
+</item>
+<item>
+<title>Outsystems Community</title>
+<link>https://status.outsystems.com/incidents/tkpct663x119</link>
+<guid>https://status.outsystems.com/incidents/tkpct663x119</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var>15</var>, <var>08:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>15</var>, <var>08:09</var> UTC</small><br /><strong>Monitoring</strong> - All systems are back up. We are monitoring the site.</p><p><small>Apr <var>15</var>, <var>07:59</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Apr <var>15</var>, <var>07:00</var> UTC</small><br /><strong>Investigating</strong> - We are having a degradation on Outsystems Community. We are currently investigating.</p>
+]]></content:encoded>
+<pubDate>Thu, 15 Apr 2021 08:39:41 +0000</pubDate>
+</item>
+<item>
+<title>MABS Incident on 2021-04-13 07:50 UTC</title>
+<link>https://status.outsystems.com/incidents/1zgykkgj2dqd</link>
+<guid>https://status.outsystems.com/incidents/1zgykkgj2dqd</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var>13</var>, <var>12:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Apr <var>13</var>, <var>11:10</var> UTC</small><br /><strong>Monitoring</strong> - We're not experiencing the issue of fetching dependencies from CocoaPods CDN anymore. We are monitoring the results on MABS.</p><p><small>Apr <var>13</var>, <var>08:04</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and is related to CocoaPods CDN fetching dependencies.<br /><br />Builds failing with messages mentioning it failed to install some plugin might be related to this issue:<br />Build error message example:<br />"Error installing Cordova plugin: com.outsystems.plugins.logger."<br /><br />We are investigating a possible workaround</p><p><small>Apr <var>13</var>, <var>07:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating affecting most iOS builds.</p>
+]]></content:encoded>
+<pubDate>Tue, 13 Apr 2021 12:24:42 +0000</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>NCR Status - Incident History</title>
+<link>https://status.ncr.com</link>
+
+
+<item>
+<title>BSP Maintenance Event</title>
+<link>https://status.ncr.com/incidents/g83yn7hzxddm</link>
+<guid>https://status.ncr.com/incidents/g83yn7hzxddm</guid>
+<content:encoded><![CDATA[
+<div> High - Internal Connectivity Issue <br /><br /> Summary: The company faced an internal connectivity issue with their service mesh, causing potential service disruption. A fix has been applied, with services expected to return to normal operation shortly. <div>
+<p><small>Feb <var>22</var>, <var>03:24</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>03:04</var> EST</small><br /><strong>Update</strong> - We believe the incident is resolved and will continue to monitor.</p><p><small>Feb <var>21</var>, <var>21:00</var> EST</small><br /><strong>Monitoring</strong> - Tonight we faced an internal connectivity issue with our service mesh. A fix has been applied and services should be returning to normal operation. This could take up to a few hours to fully resolve, but we expect most use cases to return to normal operation shortly.</p>
+]]></content:encoded>
+<pubDate>Thu, 22 Feb 2024 03:24:20 -0500</pubDate>
+</item>
+<item>
+<title>Promotion Execution - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/lxy4rp7bjjzj</link>
+<guid>https://status.ncr.com/incidents/lxy4rp7bjjzj</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Component Issues <br /><br />Summary: The company is currently investigating issues with a component, but no major outage or incident has been reported.
+
+[Low] - Resolved Incident <br /><br />Summary: The incident has been resolved, and services should be back to normal. No major impact reported. <div>
+<p><small>Feb <var>21</var>, <var>23:25</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:51</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:25:13 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/rfkbdc6fkrtn</link>
+<guid>https://status.ncr.com/incidents/rfkbdc6fkrtn</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[Medium] - Investigating Component Issues <br /><br /> Summary: The company is currently investigating issues with a particular component.
+``` <div>
+<p><small>Feb <var>21</var>, <var>23:25</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:46</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:25:08 -0500</pubDate>
+</item>
+<item>
+<title>Stored Value - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/r1tyn8hptdsn</link>
+<guid>https://status.ncr.com/incidents/r1tyn8hptdsn</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:22</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:58</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:22:14 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/8ft3d9zpyzrp</link>
+<guid>https://status.ncr.com/incidents/8ft3d9zpyzrp</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:21</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:51</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:21:36 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/1vjyz9g1hn5v</link>
+<guid>https://status.ncr.com/incidents/1vjyz9g1hn5v</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:20</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:51</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:20:50 -0500</pubDate>
+</item>
+<item>
+<title>Stored Value - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/h3n952dc3wvq</link>
+<guid>https://status.ncr.com/incidents/h3n952dc3wvq</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:20</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:15</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:20:31 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/xhkq7r9n95ry</link>
+<guid>https://status.ncr.com/incidents/xhkq7r9n95ry</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:19</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>19:58</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:19:56 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/ccx1tb5vz9zv</link>
+<guid>https://status.ncr.com/incidents/ccx1tb5vz9zv</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:19</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:16</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:19:36 -0500</pubDate>
+</item>
+<item>
+<title>Menu - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/d8qzp0n0hkht</link>
+<guid>https://status.ncr.com/incidents/d8qzp0n0hkht</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:19</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:12</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:19:16 -0500</pubDate>
+</item>
+<item>
+<title>Stored Value - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/gdh79hrzpv0m</link>
+<guid>https://status.ncr.com/incidents/gdh79hrzpv0m</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:18</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:20</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:18:51 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/rjwh94br18mx</link>
+<guid>https://status.ncr.com/incidents/rjwh94br18mx</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:18</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:22</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:18:04 -0500</pubDate>
+</item>
+<item>
+<title>Menu - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/4g6zgpk2g01l</link>
+<guid>https://status.ncr.com/incidents/4g6zgpk2g01l</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:17</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:33</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:17:21 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/k519y7yst8c3</link>
+<guid>https://status.ncr.com/incidents/k519y7yst8c3</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:17</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:24</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:17:06 -0500</pubDate>
+</item>
+<item>
+<title>Stored Value - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/9dg71g8jm872</link>
+<guid>https://status.ncr.com/incidents/9dg71g8jm872</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:16</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:35</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:16:29 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/dbqbnf18tz8s</link>
+<guid>https://status.ncr.com/incidents/dbqbnf18tz8s</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:16</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:37</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:16:13 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/17k5080z1vc9</link>
+<guid>https://status.ncr.com/incidents/17k5080z1vc9</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:15</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:34</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:15:28 -0500</pubDate>
+</item>
+<item>
+<title>TDM Export-US - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/p54w4vqssmqq</link>
+<guid>https://status.ncr.com/incidents/p54w4vqssmqq</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:15</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:48</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:15:22 -0500</pubDate>
+</item>
+<item>
+<title>Menu - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/ymjnr2gqys4p</link>
+<guid>https://status.ncr.com/incidents/ymjnr2gqys4p</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:38</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:14:55 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management-APAC - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/bdv6glxmgdvw</link>
+<guid>https://status.ncr.com/incidents/bdv6glxmgdvw</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:57</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:14:51 -0500</pubDate>
+</item>
+<item>
+<title>Transaction Data Management - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/hrcbtty3myv1</link>
+<guid>https://status.ncr.com/incidents/hrcbtty3myv1</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:59</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:14:25 -0500</pubDate>
+</item>
+<item>
+<title>Promotion Execution - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/n3yhpdvgdxl7</link>
+<guid>https://status.ncr.com/incidents/n3yhpdvgdxl7</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:16</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:14:15 -0500</pubDate>
+</item>
+<item>
+<title>Stored Value - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/mw4hlnhnng8f</link>
+<guid>https://status.ncr.com/incidents/mw4hlnhnng8f</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:13</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:09</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:13:50 -0500</pubDate>
+</item>
+<item>
+<title>TDM Export-US - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/m1pv2m1try4x</link>
+<guid>https://status.ncr.com/incidents/m1pv2m1try4x</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:13</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>20:53</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:13:43 -0500</pubDate>
+</item>
+<item>
+<title>TDM Export-US - Investigating Issues</title>
+<link>https://status.ncr.com/incidents/qnj5bhx55qh5</link>
+<guid>https://status.ncr.com/incidents/qnj5bhx55qh5</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>21</var>, <var>23:13</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>21:03</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues for the following component(s) and are looking into them.</p>
+]]></content:encoded>
+<pubDate>Wed, 21 Feb 2024 23:13:07 -0500</pubDate>
+</item>
+</channel>
+</rss>

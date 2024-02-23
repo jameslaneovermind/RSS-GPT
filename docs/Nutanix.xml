@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Nutanix Status - Incident History</title>
+<link>https://status.nutanix.com</link>
+
+
+<item>
+<title>Outage</title>
+<link>https://status.nutanix.com/incidents/3yr4jyps76p6</link>
+<guid>https://status.nutanix.com/incidents/3yr4jyps76p6</guid>
+<content:encoded><![CDATA[
+<div> High - Incident in Progress
+Summary: We are currently investigating a critical incident that is causing service disruption. We are working on resolving the issue.
+
+Medium - Issue Identified
+Summary: The issue has been identified, and our team is working on resolving it to restore normal service as soon as possible.
+
+Low - Issue Resolved
+Summary: The incident has been resolved, and all services are back to normal. <div>
+<p><small>Dec <var>20</var>, <var>14:05</var> PST</small><br /><strong>Resolved</strong> - The incident has been resolved and all services are back to normal</p><p><small>Dec <var>20</var>, <var>13:40</var> PST</small><br /><strong>Identified</strong> - The issue has been identified and we are working on the resolution.</p><p><small>Dec <var>20</var>, <var>12:45</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating the issue</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Dec 2023 14:05:29 -0800</pubDate>
+</item>
+<item>
+<title>Intermittent issues with logging into the Frame console</title>
+<link>https://status.nutanix.com/incidents/jmvcrd241w04</link>
+<guid>https://status.nutanix.com/incidents/jmvcrd241w04</guid>
+<content:encoded><![CDATA[
+<div> ```html
+High - Intermittent Login Issues <br /><br /> Summary: Users are experiencing intermittent issues logging into the Frame console. The team is working on stabilizing the authentication process.
+``` <div>
+<p><small>Jun <var>29</var>, <var>03:10</var> PDT</small><br /><strong>Resolved</strong> - The incident has been resolved. Please log out from the Frame Console and log back in.</p><p><small>Jun <var>29</var>, <var>02:22</var> PDT</small><br /><strong>Identified</strong> - We have identified intermittent issues with end users logging into the Frame console. We are working on stabilizing the process of authenticating.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Jun 2023 03:10:37 -0700</pubDate>
+</item>
+<item>
+<title>Intermittent Issues Accessing Frame Console</title>
+<link>https://status.nutanix.com/incidents/xkdm64gf2w29</link>
+<guid>https://status.nutanix.com/incidents/xkdm64gf2w29</guid>
+<content:encoded><![CDATA[
+<div> ```html
+[Low] - Intermittent login and navigation issues
+Summary: Users are experiencing intermittent issues logging in and navigating the Frame Admin Console and accessing end-user Launchpads. The issue is being investigated.
+``` <div>
+<p><small>May <var>18</var>, <var>08:08</var> PDT</small><br /><strong>Resolved</strong> - The issue has been resolved. The Platform is working as expected.</p><p><small>May <var>18</var>, <var>07:17</var> PDT</small><br /><strong>Monitoring</strong> - We have identified the issue, and a fix has been put in place. The Frame Admin Console, as well as accessing end-user Launchpads, should be functioning as expected.<br /><br />We will continue to monitor the situation and provide relevant updates at status.nutanix.com</p><p><small>May <var>18</var>, <var>06:50</var> PDT</small><br /><strong>Investigating</strong> - We are seeing intermittent issues logging in and navigating the Frame Admin Console as well as accessing end-user Launchpads. We are investigating the issue and will post updates here.<br /><br />Please check back at status.nutanix.com for updates.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 May 2023 08:08:09 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Nutanix Frame (Commercial Platform)</title>
+<link>https://status.nutanix.com/incidents/phsc9997jp5m</link>
+<guid>https://status.nutanix.com/incidents/phsc9997jp5m</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var> 8</var>, <var>23:30</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var> 8</var>, <var>22:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>28</var>, <var>11:39</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for Nutanix Frame. The 1.5 hour maintenance window will begin at 10:00PM PDT on April 8th, 2023 (7:00AM CET on April 9th, 2023).<br /><br />During the maintenance window:<br /><br />- Frame users/administrators will be unable to log in to the Frame Console<br />- Frame users/administrators will be unable to start new sessions<br />- Frame administrators will be unable to make configuration changes<br /><br />Any Frame users/administrators who are already in a session at the start of the maintenance window will not be affected.</p>
+]]></content:encoded>
+<pubDate>Sat, 08 Apr 2023 23:30:11 -0700</pubDate>
+</item>
+<item>
+<title>Users are unable to start sessions when using older versions of Frame Enterprise Profile Driver</title>
+<link>https://status.nutanix.com/incidents/866vx71c9p0g</link>
+<guid>https://status.nutanix.com/incidents/866vx71c9p0g</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>27</var>, <var>12:34</var> PST</small><br /><strong>Resolved</strong> - The update has been applied to all affected accounts with Enterprise Profiles.  All instances should have received an update and are functioning as intended. <br /><br />If you are still experiencing an issue, please create a support ticket so our support team can assist you further.</p><p><small>Feb <var>27</var>, <var>10:45</var> PST</small><br /><strong>Monitoring</strong> - The update has been rolled out to all Accounts on the Frame Commercial Platform using affected versions of Frame Enterprise Profiles. <br /><br />We will continue to monitor the situation, and any additional updates will be posted on status.nutanix.com</p><p><small>Feb <var>27</var>, <var>09:18</var> PST</small><br /><strong>Update</strong> - We have deployed the update to all Accounts using affected versions of Frame Enterprise Profiles . All instances already on must be rebooted for the update to take effect. If you have instances running, please lower the min and buffer settings to 0 and the max set to the number of instances with a current user in a session, allow the instances to turn off, and then return their values to the original numbers. Alternatively, if you wish, you can go to the "Status" page of your Account Dashboard and manually reboot any running instances.  Any instances that are not powered on will get the update when they are powered on.<br /><br />Please note that instances could take longer to boot/power on after the update. This is normal, and subsequent attempts will return to regular times.<br /><br />We will continue to monitor the situation, and any additional updates will be posted on status.nutanix.com</p><p><small>Feb <var>27</var>, <var>08:45</var> PST</small><br /><strong>Update</strong> - We are preparing to deploy a update for accounts affected by the certificate expiring on older versions of Enterprise Profiles.   This will update instances to the latest version of Enterprise Profiles.  Please note that VMs could take longer to boot/power on after the update.  This is normal, and subsequent attempts will return to regular times. <br /><br />We will continue to monitor the situation, and any additional updates will be posted on status.nutanix.com</p><p><small>Feb <var>27</var>, <var>08:43</var> PST</small><br /><strong>Update</strong> - We are preparing to deploy a update for accounts affected by the certificate expiring on older versions of Enterprise Profiles.   This will update instances to the latest version of Enterprise Profiles.  Please note that VMs could take longer to boot/power on after the update.  This is normal, and subsequent attempts will return to regular times. <br /><br />We will continue to monitor the situation, and any additional updates will be posted on status.nutanix.com</p><p><small>Feb <var>27</var>, <var>06:12</var> PST</small><br /><strong>Update</strong> - Customers using Frame Enterprise Profiles versions prior to 6.8.4.8008 are impacted by this issue. Affected customers should update their Frame Enterprise Profile Driver on their Sandbox by running the Frame Agent Setup Tool utility, which can be found under C:\ProgramData\Nutanix\Frame\Tools\FrameAgentSetupTool.exe or you can download via portal.nutanix.com (Downloads > Frame > Frame Agent Setup Tool). A Publish is required after the update is complete. We are also working on releasing an update to automatically force an update of the driver to the latest version.</p><p><small>Feb <var>27</var>, <var>01:39</var> PST</small><br /><strong>Identified</strong> - Users are unable to start new sessions to Accounts with Enterprise Profiles enabled if it is using older versions of the Enterprise Profile driver (prior to 6.8.4.8008). This is due to an expired driver certificate. Users already in session are not affected.<br /><br />The solution is to update the Frame Enterprise Profile Driver to version 6.8.4.8008 using our Frame Agent Setup Tool (https://docs.frame.nutanix.com/platform/admin/frame-agent-setup-tool/#updater-view) on the Sandbox and run a Publish on affected Accounts.</p>
+]]></content:encoded>
+<pubDate>Mon, 27 Feb 2023 12:34:04 -0800</pubDate>
+</item>
+<item>
+<title>Intermittent issues with Frame services</title>
+<link>https://status.nutanix.com/incidents/0mfs5109l1zg</link>
+<guid>https://status.nutanix.com/incidents/0mfs5109l1zg</guid>
+<content:encoded><![CDATA[
+<p><small>Jan <var>25</var>, <var>15:41</var> PST</small><br /><strong>Resolved</strong> - The issue is resolved and the Frame Platform is operating as expected.</p><p><small>Jan <var>25</var>, <var>15:24</var> PST</small><br /><strong>Update</strong> - We are no longer seeing intermittent issues, and the Platform is working as expected.  We are continuing to monitor the Platform.<br /><br />Additional updates will be posted on status.nutanix.com</p><p><small>Jan <var>25</var>, <var>15:12</var> PST</small><br /><strong>Monitoring</strong> - We are starting to see the Frame Platform stabilize, and operations are returning to normal.  We will continue to monitor the situation, and any additional updates will be posted on status.nutanix.com</p><p><small>Jan <var>25</var>, <var>14:47</var> PST</small><br /><strong>Investigating</strong> - We are currently seeing that access to Frame services are being impacted across multiple regions.  Symptoms include the inability to start new Frame sessions, accounts not appearing correctly in the admin UI, and incorrect status of VMs.  Users in existing sessions are not affected. We are investigating the situation and will post updates here.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Jan 2023 15:41:32 -0800</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2) (Commercial Platform)</title>
+<link>https://status.nutanix.com/incidents/5ghj3fw49g1l</link>
+<guid>https://status.nutanix.com/incidents/5ghj3fw49g1l</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>24</var>, <var>23:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Sep <var>24</var>, <var>22:30</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Sep <var>23</var>, <var>14:04</var> PDT</small><br /><strong>Update</strong> - As a reminder, we will be performing scheduled maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2). The 1-hour maintenance window will begin at 10:30PM PDT on September 24rd, 2022 (7:30AM CET on September 25th, 2022).<br /><br />During the maintenance window:<br /><br />- Frame users/administrators will be unable to start new sessions<br />- Frame administrators will be unable to make configuration changes<br />- Clusters administrators will be unable to start, stop, or create a new Cluster<br />- Clusters administrators will be unable to make configuration changes<br /><br />Any Frame users/administrators already in a session at the start of the maintenance window will not be affected. Similarly, any Clusters and associated workloads that are already running will not be affected.</p><p><small>Sep <var> 2</var>, <var>09:40</var> PDT</small><br /><strong>Update</strong> - Our previously scheduled maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2) has been rescheduled from 10:30PM PDT on September 3rd, 2022 (7:30AM CET on September 4th, 2022) to 10:30PM PDT on September 24rd, 2022 (7:30AM CET on September 25th, 2022).</p><p><small>Aug <var>26</var>, <var>17:36</var> PDT</small><br /><strong>Update</strong> - As a reminder, we will be performing scheduled maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2). The 1-hour maintenance window will begin at 10:30 PM PDT on September 3rd, 2022 (7:30 AM CET on September 4th, 2022).<br /><br />During the maintenance window:<br /><br />- Frame users/administrators will be unable to start new sessions<br />- Frame administrators will be unable to make configuration changes<br />- Clusters administrators will be unable to start, stop, or create a new Cluster<br />- Clusters administrators will be unable to make configuration changes<br /><br />Any Frame users/administrators already in a session at the start of the maintenance window will not be affected. Similarly, any Clusters and associated workloads that are already running will not be affected.</p><p><small>Aug <var>19</var>, <var>14:07</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for Nutanix Frame and Nutanix Cloud Clusters (NC2). The 1 hour maintenance window will begin at 10:30PM PDT on September 3rd, 2022 (7:30AM CET on September 4th, 2022).<br /><br />During the maintenance window:<br /><br />- Frame users/administrators will be unable to start new sessions<br />- Frame administrators will be unable to make configuration changes<br />- Clusters administrators will be unable to start, stop, or create a new Cluster<br />- Clusters administrators will be unable to make configuration changes<br /><br />Any Frame users/administrators that are already in a session at the start of the maintenance window will not be affected. Similarly, any Clusters and associated workloads that are already running will not be affected.</p>
+]]></content:encoded>
+<pubDate>Sat, 24 Sep 2022 23:00:10 -0700</pubDate>
+</item>
+<item>
+<title>Frame Platform Service Issues</title>
+<link>https://status.nutanix.com/incidents/f5cqvg7kvwl1</link>
+<guid>https://status.nutanix.com/incidents/f5cqvg7kvwl1</guid>
+<content:encoded><![CDATA[
+<p><small>Jun <var>18</var>, <var>08:47</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jun <var>18</var>, <var>08:47</var> PDT</small><br /><strong>Update</strong> - The issue has been resolved. The Platform is working as expected.</p><p><small>Jun <var>18</var>, <var>08:08</var> PDT</small><br /><strong>Monitoring</strong> - Queued tasks are processing normally, and instances should now operate as expected. Any backlog tasks should be processed shortly. Instances and sessions should power up and start as expected.<br /><br />Please check back at status.nutanix.com for updates.</p><p><small>Jun <var>18</var>, <var>07:42</var> PDT</small><br /><strong>Update</strong> - We are starting to see Queued tasks processing and are seeing some users be able to start instances and get sessions .  We are continuing to work on the issue and get it resolved as fast as possible. <br /><br />Please check back at status.nutanix.com for updates.</p><p><small>Jun <var>18</var>, <var>03:00</var> PDT</small><br /><strong>Identified</strong> - We are currently seeing that access to Frame services are being impacted across multiple regions.  Symptoms include the inability to start new Frame sessions, unavailable Cloud Accounts, and publishing failing.  <br /><br />We have identified the issue and are working to resolve it as soon as possible. Please check back at status.nutanix.com for updates.</p>
+]]></content:encoded>
+<pubDate>Sat, 18 Jun 2022 08:47:17 -0700</pubDate>
+</item>
+<item>
+<title>Nutanix Supplied Azure IaaS - Unable to create new Azure accounts or start sessions</title>
+<link>https://status.nutanix.com/incidents/817cy4gqhr0x</link>
+<guid>https://status.nutanix.com/incidents/817cy4gqhr0x</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>27</var>, <var>15:52</var> PDT</small><br /><strong>Resolved</strong> - We have confirmed that the issue has been resolved.</p><p><small>May <var>27</var>, <var>15:22</var> PDT</small><br /><strong>Monitoring</strong> - Microsoft has resolved the underlying issue and creation of new accounts and sessions starts should begin to succeed again. However, as the changes propagate through Azure AD, there may still be intermittent issues. We will continue to monitor.</p><p><small>May <var>27</var>, <var>12:07</var> PDT</small><br /><strong>Update</strong> - Microsoft has confirmed the issue originated with changes made on their side, which they are in the process of reverting now.</p><p><small>May <var>27</var>, <var>11:28</var> PDT</small><br /><strong>Identified</strong> - We are currently experiencing an issue with Nutanix Azure IaaS which is causing any account using the Nutanix Azure IaaS to not be able to create new accounts or start sessions. We have identified the issue and are working with Microsoft to resolve it.<br /><br />Note: This does not apply to any accounts using BYO Azure.</p>
+]]></content:encoded>
+<pubDate>Fri, 27 May 2022 15:52:23 -0700</pubDate>
+</item>
+<item>
+<title>Keyboard Input Issue When Using Certain CTRL Hotkeys</title>
+<link>https://status.nutanix.com/incidents/ffx2rh3yj3kq</link>
+<guid>https://status.nutanix.com/incidents/ffx2rh3yj3kq</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>26</var>, <var>10:12</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May <var>26</var>, <var>09:33</var> PDT</small><br /><strong>Monitoring</strong> - We have identified the issue and implemented a fix. Affected users should only need to refresh their browser page or reload Frame App and then resume their Frame session to apply the fix. We will continue to monitor this issue closely while customers validate that the issue is resolved.</p><p><small>May <var>26</var>, <var>09:05</var> PDT</small><br /><strong>Investigating</strong> - We are receiving reports that keyboard input within a Frame session stops working after a user presses Left CTRL+V or Left CTRL+ALT. After using the hotkey the Left CTRL key can become stuck (requiring the user to click Left CTRL again to unstick the key) or the application window that the user is using loses focus (requiring the user to click on the application window).<br /><br />This issue seems to be intermittent and is affecting users accessing from Windows and Linux endpoints (macOS does not seem to be affected) using either a browser or Frame App.<br /><br />We are investigating this issue and will provide updates as soon as they become available.</p>
+]]></content:encoded>
+<pubDate>Thu, 26 May 2022 10:12:07 -0700</pubDate>
+</item>
+<item>
+<title>Azure AD Users May Be Unable to Authenticate to Frame or Receive New Persistent Desktop / User Volume</title>
+<link>https://status.nutanix.com/incidents/g0cfhpq4qfjz</link>
+<guid>https://status.nutanix.com/incidents/g0cfhpq4qfjz</guid>
+<content:encoded><![CDATA[
+<p><small>May <var>12</var>, <var>01:15</var> PDT</small><br /><strong>Resolved</strong> - An update to a backend SAML2 library resulted in XML Namespaces being improperly stripped from Azure AD SAML2 claims. This resulted in some users being unable to authenticate as Frame was unable to properly match these claims in order to establish user identify. Users who were able to authenticate may have improperly received a new Persistent Desktop and/or User Volume (Enterprise Profile or Personal Drive) upon starting a session. This issue seems to only affect customers on our Frame Commercial Platform using Azure AD via SAML2 integration with Frame. This issue was first reported at 1:15AM PDT and was resolved by 5:15AM PDT on Thursday, May 12, 2022.</p>
+]]></content:encoded>
+<pubDate>Thu, 12 May 2022 01:15:00 -0700</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)</title>
+<link>https://status.nutanix.com/incidents/wgqyz82lkckw</link>
+<guid>https://status.nutanix.com/incidents/wgqyz82lkckw</guid>
+<content:encoded><![CDATA[
+<p><small>Apr <var>17</var>, <var>00:00</var> PDT</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Apr <var>16</var>, <var>23:00</var> PDT</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Apr <var> 6</var>, <var>11:04</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for the Nutanix Frame and Nutanix Clusters platform. The 1 hour maintenance window will begin at 11PM PDT on April 16, 2022 (8AM CET on April 17, 2022). <br /><br />During the maintenance window:<br /><br />- Frame users/admins will be unable to start new sessions<br />- Frame admins will be unable to make configuration changes<br />- Clusters admins will be unable to start, stop, or create a new Cluster<br />- Clusters admins will be unable to make configuration changes<br /><br />However, any Frame users/admins that are already in a session at the start of the maintenance window will not be affected. Similarly, any Clusters and associated workloads that are already running will not be affected.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Apr 2022 00:00:23 -0700</pubDate>
+</item>
+<item>
+<title>Degradation in Flow logs Ingestion</title>
+<link>https://status.nutanix.com/incidents/fw1fjzy2pwsb</link>
+<guid>https://status.nutanix.com/incidents/fw1fjzy2pwsb</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var>18</var>, <var>11:41</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>18</var>, <var>11:03</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>18</var>, <var>11:02</var> PST</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>17</var>, <var>20:30</var> PST</small><br /><strong>Identified</strong> - The system is experiencing  some delay in ingestion of flow logs. Customer's might not see traffic data for the past few hours. <br /><br />Features Impacted are:<br />1. Network threat Detection Audits<br />2. Security Planning</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Feb 2022 11:41:03 -0800</pubDate>
+</item>
+<item>
+<title>Google Cloud Platform - intermittent issues starting VMs</title>
+<link>https://status.nutanix.com/incidents/lnr6ptpvqjp0</link>
+<guid>https://status.nutanix.com/incidents/lnr6ptpvqjp0</guid>
+<content:encoded><![CDATA[
+<p><small>Feb <var> 3</var>, <var>17:33</var> PST</small><br /><strong>Resolved</strong> - Those accounts affected by this issue have been manually addressed earlier today. Any future occurrences will be mitigated with the upcoming update, so we will close this incident. In case of any new issues related to GCP VM starts please report via a Nutanix Support ticket.</p><p><small>Feb <var> 3</var>, <var>16:54</var> PST</small><br /><strong>Identified</strong> - We have determined that this issue is a result of a change in GCP behavior for VM starts that coincide with setting a label for the VM. A workaround is in development to accommodate this change and we expect to deploy this on Feb 4. We will update this incident once the workaround has been deployed and confirmed.</p><p><small>Feb <var> 3</var>, <var>09:53</var> PST</small><br /><strong>Investigating</strong> - We are seeing cases where VM starts are failing on Google Cloud Platform for a limited percentage of VMs. We are investigating, but at this point in time the issue appears to be limited to only some GCP regions. If you are experiencing any issues with your accounts using GCP, please stay tuned for updates here.</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Feb 2022 17:33:09 -0800</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)</title>
+<link>https://status.nutanix.com/incidents/w2hn9bsv6m02</link>
+<guid>https://status.nutanix.com/incidents/w2hn9bsv6m02</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>24</var>, <var>23:00</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>24</var>, <var>22:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>13</var>, <var>12:20</var> PST</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance for the Nutanix Frame and Nutanix Clusters platform. During the 1 hour maintenance window (Friday evening PST, Saturday morning CET), Frame users will not be able to start new sessions and Clusters admins will not be able to start, stop or create a new Cluster. However, any Frame users that are already in a session at the start of the maintenance window will be unaffected. Similarly, any running Clusters and associated workloads will not be affected. Also, administrative features in the console related to infrastructure orchestration will not accept changes during the window (e.g. Frame capacity settings).</p>
+]]></content:encoded>
+<pubDate>Fri, 24 Dec 2021 23:00:30 -0800</pubDate>
+</item>
+<item>
+<title>Government Platform Connectivity</title>
+<link>https://status.nutanix.com/incidents/12fk811kh07b</link>
+<guid>https://status.nutanix.com/incidents/12fk811kh07b</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>15</var>, <var>08:53</var> PST</small><br /><strong>Resolved</strong> - AWS reports internet connectivity to their US-GOV-WEST-1 region is restored.  We see all services stable for the past hour.</p><p><small>Dec <var>15</var>, <var>08:28</var> PST</small><br /><strong>Identified</strong> - Nutanix Government Cloud services are impacted by an internet connectivity outage in the AWS GovCloud GOV-WEST-1 region. Starting at 10:15am ET we observed increased failures with logins on Frame, Beam, Flow Central, and Clusters in the GovCloud region. We also see issues with session starts and session disconnects for Frame Government users.<br /><br />As of 11:00am ET it appears connectivity is restored and all Nutanix Government Cloud services are back to normal. We will continue to monitor. <br /><br />Please see AWS GovCloud status page for latest updates... https://status.aws.amazon.com/govcloud</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Dec 2021 08:53:29 -0800</pubDate>
+</item>
+<item>
+<title>AWS Internet Connectivity Issues</title>
+<link>https://status.nutanix.com/incidents/qzfyl6y27hnm</link>
+<guid>https://status.nutanix.com/incidents/qzfyl6y27hnm</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var>15</var>, <var>08:26</var> PST</small><br /><strong>Resolved</strong> - AWS is reporting the issue is now resolved. All Data Centers are now Operational. <br /><br />For more information please see https://status.aws.amazon.com/</p><p><small>Dec <var>15</var>, <var>08:17</var> PST</small><br /><strong>Identified</strong> - AWS is currently experiencing internet connectivity issues in both California and Oregon Datacenters.  They are investigating the issue.<br /><br />For more information please see https://status.aws.amazon.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Dec 2021 08:26:02 -0800</pubDate>
+</item>
+<item>
+<title>AWS Service Issues</title>
+<link>https://status.nutanix.com/incidents/zqnf7kt592ll</link>
+<guid>https://status.nutanix.com/incidents/zqnf7kt592ll</guid>
+<content:encoded><![CDATA[
+<p><small>Dec <var> 8</var>, <var>03:26</var> PST</small><br /><strong>Resolved</strong> - Update from AWS:<br />With the network device issues resolved, we are now working towards the recovery of any impaired services. We will provide additional updates for impaired services within the appropriate entry in the Service Health Dashboard.<br /><br />For more information please see https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>18:09</var> PST</small><br /><strong>Monitoring</strong> - AWS is reporting that many services have already recovered, however they are working towards full recovery across all services. <br /><br />For more information please see https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>14:11</var> PST</small><br /><strong>Update</strong> - AWS has executed a mitigation which is showing significant recovery in the US-EAST-1 Region. They are continuing to closely monitor the situation and expect to continue to make progress towards full recovery. They still do not have an ETA for full recovery at this time.<br /><br />For more information please see https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>13:49</var> PST</small><br /><strong>Update</strong> - AWS reporting some early signs of recovery but is still experiencing increased error rates and is working to fully resolve the issue.<br /><br />We will continue to monitor the situation and post updates here, but you can also refer to the AWS status page for more information. https://status.aws.amazon.com/<br /><br />Azure, GCP, and AHV sessions are working as expected.</p><p><small>Dec <var> 7</var>, <var>12:57</var> PST</small><br /><strong>Update</strong> - AWS reporting some early signs of recovery but is still experiencing increased error rates and is working to fully resolve the issue.<br /><br />Azure, GCP, and AHV sessions are working as expected. <br /><br />We will continue to monitor the situation and post updates here, but you can also refer to the AWS status page for more information. https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>12:03</var> PST</small><br /><strong>Update</strong> - AWS is still experiencing increased error rates and is working to address the issue. <br /><br />We will continue to monitor the situation and post updates here, but you can also refer to the AWS status page for more information. https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>11:09</var> PST</small><br /><strong>Update</strong> - AWS is still experiencing increased error rates and is working to address the issue. <br /><br />We will continue to monitor the situation and post updates here, but you can also refer to the AWS status page for more information. https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>09:18</var> PST</small><br /><strong>Update</strong> - We are starting to see increased failure rates on sessions starts on all infrastructures due to the AWS Route 53 issues.  <br /><br />For more information please see https://status.aws.amazon.com/</p><p><small>Dec <var> 7</var>, <var>09:03</var> PST</small><br /><strong>Identified</strong> - AWS is currently experiencing increased errors on multiple services. Which is impacting the ability to start new sessions on AWS.  Amazon Route 53 is one of these services that is currently experiencing increased propagation times.  This can cause the Frame Platform to be delayed in processing requests. <br /><br />Amazon has identified the issue and they are working to resolve it.<br /><br />For more information please see https://status.aws.amazon.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Dec 2021 03:26:07 -0800</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance for Nutanix Frame and Clusters (Commercial Platform)</title>
+<link>https://status.nutanix.com/incidents/439k3s10yvpq</link>
+<guid>https://status.nutanix.com/incidents/439k3s10yvpq</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var>27</var>, <var>22:30</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Nov <var>27</var>, <var>22:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Nov <var>22</var>, <var>14:38</var> PST</small><br /><strong>Update</strong> - IMPORTANT:  Please note that we have updated the scheduled time for this maintenance window. It will take place Saturday evening (US Pacific Time) / Sunday morning (Central European Time).</p><p><small>Nov <var>22</var>, <var>10:00</var> PST</small><br /><strong>Update</strong> - [UPDATED - ADDED CLUSTERS] We will be performing scheduled maintenance including a security update for the Nutanix Frame and Nutanix Clusters platform. During the 30 minute maintenance window (Saturday evening PST, Sunday morning CET), Frame users will not be able to start new sessions and Clusters admins will not be able to start, stop or create a new Cluster. However, any Frame users that are already in a session at the start of the maintenance window will be unaffected. Similarly, any running Clusters and associated workloads will not be affected. Also, administrative features in the console related to infrastructure orchestration will not accept changes during the window (e.g. Frame capacity settings).</p><p><small>Nov <var>19</var>, <var>16:47</var> PST</small><br /><strong>Scheduled</strong> - [UPDATED TIME] We will be performing scheduled maintenance including a security update for the Nutanix Frame and Nutanix Clusters platform. During the 30 minute maintenance window (Saturday evening PST, Sunday morning CET), Frame users will not be able to start new sessions and Clusters admins will not be able to start, stop or create a new Cluster. However, any Frame users that are already in a session at the start of the maintenance window will be unaffected. Similarly, any running Clusters and associated workloads will not be affected. Also, administrative features in the console related to infrastructure orchestration will not accept changes during the window (e.g. Frame capacity settings).</p>
+]]></content:encoded>
+<pubDate>Sat, 27 Nov 2021 22:30:35 -0800</pubDate>
+</item>
+<item>
+<title>Frame service outage across multiple regions</title>
+<link>https://status.nutanix.com/incidents/cgkc17hfl9v6</link>
+<guid>https://status.nutanix.com/incidents/cgkc17hfl9v6</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var> 7</var>, <var>02:25</var> PST</small><br /><strong>Resolved</strong> - We have resolved the issue and users can now start new sessions again and admin access to the affected Frame Dashboard pages has been restored. The root cause was related to how some of our more recently updated backend services were affected by the US daylight savings time change. Note, that users already in sessions at the start of the incident were not affected by this issue.</p><p><small>Nov <var> 7</var>, <var>01:46</var> PST</small><br /><strong>Investigating</strong> - We are currently seeing that access to Frame services are being impacted across multiple regions.  Symptoms include inability to start new Frame sessions, view the Status page in the Frame Dashboard, or access the Sandbox page.  Users in existing sessions are not affected. We are investigating the situation and will post updates here.</p>
+]]></content:encoded>
+<pubDate>Sun, 07 Nov 2021 02:25:53 -0800</pubDate>
+</item>
+<item>
+<title>AWS GovCloud US-West Connectivity Issue</title>
+<link>https://status.nutanix.com/incidents/v7p413mhjr70</link>
+<guid>https://status.nutanix.com/incidents/v7p413mhjr70</guid>
+<content:encoded><![CDATA[
+<p><small>Nov <var> 2</var>, <var>14:11</var> PDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var> 2</var>, <var>14:11</var> PDT</small><br /><strong>Update</strong> - AWS resolved the issue and Frame GovCloud accounts are operating normally again. We will continue to monitor the situation in case any new issues arise and will post updates here.</p><p><small>Nov <var> 2</var>, <var>10:52</var> PDT</small><br /><strong>Investigating</strong> - AWS has reported network connectivity issues in the US-GOV-WEST1 region which affects Frame GovCloud customer accounts using this region. Please refer to the AWS status page for the latest information:  https://status.aws.amazon.com/govcloud</p>
+]]></content:encoded>
+<pubDate>Tue, 02 Nov 2021 14:11:51 -0700</pubDate>
+</item>
+<item>
+<title>Unable to list accounts on the Frame Platform</title>
+<link>https://status.nutanix.com/incidents/sb9pkdkgjljy</link>
+<guid>https://status.nutanix.com/incidents/sb9pkdkgjljy</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>30</var>, <var>03:56</var> PDT</small><br /><strong>Resolved</strong> - The issue with listing accounts in the Admin UI is resolved. We will continue to monitor the situation and post any updates in case of any new issues.</p><p><small>Sep <var>30</var>, <var>03:41</var> PDT</small><br /><strong>Investigating</strong> - We are seeing issues with listing Frame accounts on the admin UI. Ongoing sessions are not being interrupted.<br />We are investigating the issue and will post updates here.</p>
+]]></content:encoded>
+<pubDate>Thu, 30 Sep 2021 03:56:45 -0700</pubDate>
+</item>
+<item>
+<title>Intermittent Performance Issues</title>
+<link>https://status.nutanix.com/incidents/vhctdzfdtcz9</link>
+<guid>https://status.nutanix.com/incidents/vhctdzfdtcz9</guid>
+<content:encoded><![CDATA[
+<p><small>Sep <var>29</var>, <var>15:20</var> PDT</small><br /><strong>Resolved</strong> - The issue which was causing intermittent performance has been mitigated.  The Nutanix Frame Platform is working as expected.</p><p><small>Sep <var>29</var>, <var>09:16</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing intermittent performance issues due to an outage at one of our service providers, Akamai.  This is causing some requests to take a very long time and can cause some actions to time out.  In some cases, this can make starting a session take longer than usual, which may cause the session to fail to start. In these cases, please try to start the session again.  Once in a session, everything should perform as expected. <br /><br />For more information, please refer to the Akamai Status page.  https://etp.status.akamai.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 29 Sep 2021 15:20:19 -0700</pubDate>
+</item>
+<item>
+<title>Unable to Access the Frame Platform</title>
+<link>https://status.nutanix.com/incidents/n2jhd1vymdmb</link>
+<guid>https://status.nutanix.com/incidents/n2jhd1vymdmb</guid>
+<content:encoded><![CDATA[
+<p><small>Aug <var>28</var>, <var>00:30</var> PDT</small><br /><strong>Resolved</strong> - The Nutanix Systems team executed the MPR (Master Password Rotation) procedure in order to rotate the master password as required for security compliance. The process was completed but a few components of the process were reported as failed. Following the processing of the procedure, customers were unable to access the Frame Platform.</p>
+]]></content:encoded>
+<pubDate>Sat, 28 Aug 2021 00:30:49 -0700</pubDate>
+</item>
+<item>
+<title>Unable to Access the Frame Platform</title>
+<link>https://status.nutanix.com/incidents/14432nqk97nn</link>
+<guid>https://status.nutanix.com/incidents/14432nqk97nn</guid>
+<content:encoded><![CDATA[
+<p><small>Aug <var>28</var>, <var>00:30</var> PDT</small><br /><strong>Resolved</strong> - The Nutanix Systems team executed the MPR (Master Password Rotation) procedure in order to rotate the master password as required for security compliance.  The process was completed but a few components of the process were reported as failed. Following the processing of the procedure, customers were unable to access the Frame Platform.</p>
+]]></content:encoded>
+<pubDate>Sat, 28 Aug 2021 00:30:00 -0700</pubDate>
+</item>
+</channel>
+</rss>

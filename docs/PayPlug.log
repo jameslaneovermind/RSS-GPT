@@ -1,0 +1,67 @@
+------------------------------------------------------
+Started: 2024-02-23 11:37:25.763715
+Existing_entries: 0
+Fetching from https://status.payplug.com/history.rss
+Token length: 1344
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident sur le traitement des paiements](https://status.payplug.com/incidents/sc0y4xwt4rl7)
+Token length: 1612
+Summarized using GPT-3.5-turbo-1106
+Append: [Incident terminaux de paiement NEXO / Payment terminal incident NEXO](https://status.payplug.com/incidents/22g9ytqwwv6y)
+Token length: 755
+Summarized using GPT-3.5-turbo-1106
+Append: [Perturbations en cours concernant l'authentification 3-D Secure](https://status.payplug.com/incidents/8pdtmf0j60bn)
+Append: [Incident impactant l'affichage des paiements sur le portail](https://status.payplug.com/incidents/qdxhwjw7v38v)
+Append: [Perturbations en cours concernant les paiements 3x 4x Oney](https://status.payplug.com/incidents/0zt1kc9rv77d)
+Append: [Problème sur le réseau Nexo - Pax](https://status.payplug.com/incidents/3lcd313ddvnc)
+Append: [Perturbations en cours concernant l'authentification 3-D Secure](https://status.payplug.com/incidents/mjg5kzn9jtpr)
+Append: [Incident affecting payment processing](https://status.payplug.com/incidents/k55y4kpn6svv)
+Append: [Incident sur le traitement des paiements et sur l'accès au portail](https://status.payplug.com/incidents/kc7xsb2ddy9d)
+Append: [Authentification 3DS indisponible / 3DS Authentication unavailable](https://status.payplug.com/incidents/cp4g5g94rq9d)
+Append: [Perturbations en cours concernant les paiements 3x 4x Oney](https://status.payplug.com/incidents/wycn3v838rym)
+Append: [INCIDENT PROCESSING - Erreurs sur les authentification 3D Secure VISA](https://status.payplug.com/incidents/r90d5jlz5h72)
+Append: [Retard à prévoir sur vos virements du 2 Mai 2023](https://status.payplug.com/incidents/zfq8n6my7c9l)
+Append: [Incident en cours impactant les paiements](https://status.payplug.com/incidents/ft3yqc766rgt)
+Append: [Payment notifications partially impacted](https://status.payplug.com/incidents/5vzrypnxwj3h)
+Append: [Incident sur le traitement des paiements](https://status.payplug.com/incidents/z5556czb2d6c)
+Append: [Incident sur le traitement des paiements](https://status.payplug.com/incidents/cktgt8pl4xmg)
+Append: [Certaines opérations du 17 janvier ont été débitées deux fois](https://status.payplug.com/incidents/fmz2nv1ysmqs)
+Append: [Dysfonctionnement en cours sur les terminaux pax A80, A920 pro, S920](https://status.payplug.com/incidents/kk1d69cc2lhf)
+Append: [Dysfonctionnements en cours concernant l'authentification 3D Secure](https://status.payplug.com/incidents/w0hrg6mw2blc)
+Append: [Dysfonctionnements en cours concernant l'authentification 3D Secure](https://status.payplug.com/incidents/0cd2bfth749q)
+Append: [Retard dans le reversement des transactions POS Ingenico du 25/11](https://status.payplug.com/incidents/5fgkwtm78l46)
+Append: [Non remontée des transactions pour la journée du 17/11 sur les terminaux Ingenico](https://status.payplug.com/incidents/25m3z4b8r5jn)
+Append: [Dysfonctionnements en cours concernant l'authentification 3-D Secure](https://status.payplug.com/incidents/t0zj7vy4kh36)
+Append: [Perturbations en cours concernant les paiements 3x 4x Oney](https://status.payplug.com/incidents/71p67bd310cq)
+append_entries: 25
+Finish: 2024-02-23 11:37:30.468049
+------------------------------------------------------
+Started: 2024-02-23 12:11:45.960365
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:46.295489
+------------------------------------------------------
+Started: 2024-02-23 12:15:28.940748
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:15:29.446148
+------------------------------------------------------
+Started: 2024-02-23 13:09:58.224222
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 13:09:58.669333
+------------------------------------------------------
+Started: 2024-02-23 14:08:48.637887
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 14:08:48.912756
+------------------------------------------------------
+Started: 2024-02-23 15:10:15.988808
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 15:10:16.348633
