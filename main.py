@@ -120,8 +120,9 @@ def gpt_summary(query, model):
          - Look for keywords in the text that indicates the scale of an outage such as 'critical', 'major', 'outage', 'incident', these increase the relevancy. 
          - In contrast, keywords like 'minor', 'scheduled maintenance', or 'resolved' will have a much lower impact and minimise relavancy (medium/ low only). 
          - Incidents that are caused external or third partys should always be tagged low.
-         - Similar for network or Connectivity issues. These should always be tagged low. Then summarise and craeted a Status Title and summary in under 250 characters.
-         Your output absolutely must be Outputed in order by points, and output in the following format '[Tag(High/Medium/Low)] - Status Title <br><br> Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the words 'Summary:'"} 
+         - Similar for network or Connectivity issues. These should always be tagged low. 
+         Then summarise and create a Status Title and Summary body around 250 characters long.
+         Your output absolutely must be outputted in order by points, and output in the following format '[Tag(High/Medium/Low)] - Status Title <br><br> Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the words 'Summary:'"} 
         ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
