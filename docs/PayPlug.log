@@ -35,3 +35,9 @@ Append: [Dysfonctionnements en cours concernant l'authentification 3-D Secure](h
 Append: [Perturbations en cours concernant les paiements 3x 4x Oney](https://status.payplug.com/incidents/71p67bd310cq)
 append_entries: 25
 Finish: 2024-02-23 11:37:30.468049
+------------------------------------------------------
+Started: 2024-02-23 12:11:45.960365
+Existing_entries: 25
+Fetching from https://status.payplug.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:46.295489

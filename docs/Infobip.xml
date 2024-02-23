@@ -4,15 +4,15 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>SSL certificate renewal of api-br.infobip.com and *.api-br.infobip.com endpoints</title>
 <link>https://status.infobip.com/incidents/vkrq40qmbdt2</link>
 <guid>https://status.infobip.com/incidents/vkrq40qmbdt2</guid>
 <content:encoded><![CDATA[
-<div> [Low] - SSL Certificate Renewal<br><br> Summary: Infobip will be performing a renewal of the api-br.infobip.com and *.api-br.infobip.com endpoint SSL certificates. The renewals will be performed separately for each endpoint during specific timeframes. Customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted CA certificates. <div>
+<div> [Low] - SSL Certificate Renewal<br /><br /> Summary: Infobip will be performing a renewal of the api-br.infobip.com and *.api-br.infobip.com endpoint SSL certificates. The renewals will be performed separately for each endpoint during specific timeframes. Customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted CA certificates. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>22</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>11:25</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the api-br.infobip.com and *.api-br.infobip.com endpoint SSL certificates. The renewals will be performed separately for each endpoint, during the following timeframes:<br /><br />api-br.infobip.com<br /> Start (UTC): 04 March 2024 14:00<br /> End (UTC): 04 March 2024 15:00<br /><br />*.api-br.infobip.com<br /> Start (UTC): 22 March 2024 12:00<br /> End (UTC): 22 March 2024 13:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Fri, 22 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.infobip.com/incidents/6pt9s95jkr3r</link>
 <guid>https://status.infobip.com/incidents/6pt9s95jkr3r</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Database Patching Maintenance <br><br>Summary: Scheduled maintenance for database patching on the Global (Germany) data center on March 18, 2024, may cause a few minutes of downtime or degraded performance for various services. <div>
+<div> [Medium] - Database Patching Maintenance <br /><br />Summary: Scheduled maintenance for database patching on the Global (Germany) data center on March 18, 2024, may cause a few minutes of downtime or degraded performance for various services. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>08:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted on our Global (Germany) data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a varied range of services hosted on the data center.<br /><br />Start: 18 March 2024. 09:00 UTC<br />End: 18 March 2024. 10:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Mon, 18 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +30,9 @@
 <link>https://status.infobip.com/incidents/w3h080jzgprz</link>
 <guid>https://status.infobip.com/incidents/w3h080jzgprz</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SSL Certificate Renewal <br><br> Summary: Infobip will be performing a renewal of the api-in.infobip.com and *.api-in.infobip.com SSL certificates, with an updated intermediate certificate. Customers who manually import Certificate Authorities may need to update their collection of trusted CA certificates. <div>
+<div> [Medium] - SSL Certificate Renewal <br /><br /> Summary: Infobip will be performing a renewal of the api-in.infobip.com and *.api-in.infobip.com SSL certificates, with an updated intermediate certificate. Customers who manually import Certificate Authorities may need to update their collection of trusted CA certificates. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>12:30</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the api-in.infobip.com and *.api-in.infobip.com endpoint SSL certificates.<br />The renewals will be performed separately for each endpoint, during the following timeframes:<br /><br />api-in.infobip.com<br /> Start (UTC): 04 March 2024 13:00<br /> End (UTC): 04 March 2024 14:00<br /><br />*.api-in.infobip.com<br /> Start (UTC): 15 March 2024 09:00<br /> End (UTC): 15 March 2024 10:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Fri, 15 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +40,8 @@
 <link>https://status.infobip.com/incidents/5n7rkbww20t2</link>
 <guid>https://status.infobip.com/incidents/5n7rkbww20t2</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>21:00</var> - <var>23:00</var> UTC</strong></p><p><small>Feb <var>21</var>, <var>10:41</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing an upgrade of database clusters used by the Live Chat service hosted on multiple data centers during the mentioned time period. Due to the nature of the activity and the availability of redundant nodes, customers should not experience any major disruptions of the service, however customers may experience temporary irregularities in widget loading.<br /><br />Start (UTC): 11 March 2024 21:00<br />End (UTC): 11 March 2024 23:00<br />Purpose:  Live Chat service upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 21:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +49,8 @@
 <link>https://status.infobip.com/incidents/52hx9hp3dh0b</link>
 <guid>https://status.infobip.com/incidents/52hx9hp3dh0b</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>12:52</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the *.api-hk2.infobip.com endpoint SSL certificate during the following timeframe:<br /><br />Start (UTC): 11 March 2024 12:00<br />End (UTC): 11 March 2024 13:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +58,8 @@
 <link>https://status.infobip.com/incidents/sb5qf8h0n5s2</link>
 <guid>https://status.infobip.com/incidents/sb5qf8h0n5s2</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>01:00</var> - <var>02:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>09:25</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of USSD databases hosted on our Global (Germany) data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a USSD service hosted on the data center.<br /><br />Start: 08 March 2024. 01:00 UTC<br />End: 08 March 2024. 02:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Mar 2024 01:00:00 +0000</pubDate>
 <pubDate>Fri, 08 Mar 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +67,8 @@
 <link>https://status.infobip.com/incidents/pc5y9xx0bxfj</link>
 <guid>https://status.infobip.com/incidents/pc5y9xx0bxfj</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>11:14</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted on our Global (Germany) data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a varied range of services hosted on the data center.<br /><br />Start: 06 March 2024. 09:00 UTC<br />End: 06 March 2024. 10:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Wed, 06 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +76,8 @@
 <link>https://status.infobip.com/incidents/tsntbq9dq9bm</link>
 <guid>https://status.infobip.com/incidents/tsntbq9dq9bm</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>6</var>, <var>00:00</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>12:22</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing an upgrade of database clusters used by the Voice service at our Global (Germany) and other locations during the mentioned time period. Customers utilizing the Voice service may experience difficulties creating and selecting voice components in the Flow (Moments), creating IVR scenarios over Broadcast module, Flow and HTTP API endpoints.<br /><br />Start (UTC): 05 March 2024 23:00<br />End (UTC): 06 March 2024 00:00<br />Purpose: Voice service upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 23:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +85,8 @@
 <link>https://status.infobip.com/incidents/4b0zw7yt6fzm</link>
 <guid>https://status.infobip.com/incidents/4b0zw7yt6fzm</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>14:28</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of a database utilized by the Billing service at our Global (Germany) data center.<br />Within the maintenance window, a brief service interruption lasting approximately a couple of minutes during which some services at this location might not process requests is possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +94,8 @@
 <link>https://status.infobip.com/incidents/cympz4tt0vtn</link>
 <guid>https://status.infobip.com/incidents/cympz4tt0vtn</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>12:43</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted at our Global (Germany) data center.<br />Within the maintenance window, a brief service interruption lasting approximately a couple of minutes during which services at this location might not process incoming requests is possible.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +103,8 @@
 <link>https://status.infobip.com/incidents/b405wkwgm9pc</link>
 <guid>https://status.infobip.com/incidents/b405wkwgm9pc</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>07:00</var> - <var>07:30</var> UTC</strong></p><p><small>Feb <var>20</var>, <var>08:06</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted on our Global (Germany) data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a specific Customer Portal Settings sections hosted on the data center.<br /><br />Start: 05 March 2024. 07:00 UTC<br />End: 05 March 2024. 07:30 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +112,8 @@
 <link>https://status.infobip.com/incidents/q3dgy1hqwlwj</link>
 <guid>https://status.infobip.com/incidents/q3dgy1hqwlwj</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>11:37</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted at our Global (Germany) data center.<br />Within the maintenance window, a brief service interruption lasting approximately a couple of minutes during which services at this location might not process incoming requests is possible.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +121,8 @@
 <link>https://status.infobip.com/incidents/bfd8x021qjpm</link>
 <guid>https://status.infobip.com/incidents/bfd8x021qjpm</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>13:05</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the *.api-id.infobip.com endpoint SSL certificate during the following timeframe:<br /><br />Start (UTC): 04 March 2024 12:00<br />End (UTC): 04 March 2024 13:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +130,8 @@
 <link>https://status.infobip.com/incidents/hrwmryw5qnhb</link>
 <guid>https://status.infobip.com/incidents/hrwmryw5qnhb</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>12:00</var> - <var>13:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>10:30</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the api-sg.infobip.com and *.api-sg.infobip.com endpoint SSL certificates during the following timeframe:<br /><br />Start (UTC): 04 March 2024 12:00<br />End (UTC): 04 March 2024 13:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +139,8 @@
 <link>https://status.infobip.com/incidents/vdwy3nrcq3mk</link>
 <guid>https://status.infobip.com/incidents/vdwy3nrcq3mk</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>11:57</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted on our Turkey data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a varied range of services hosted on the data center.<br /><br />Start: 04 March 2024. 09:00 UTC<br />End: 04 March 2024. 10:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +148,8 @@
 <link>https://status.infobip.com/incidents/4rz627vzbbsr</link>
 <guid>https://status.infobip.com/incidents/4rz627vzbbsr</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Jan <var>29</var>, <var>10:15</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the api-hk.infobip.com and *.api-hk.infobip.com endpoint SSL certificates during the following timeframe:<br /><br />Start (UTC): 04 March 2024 09:00<br />End (UTC): 04 March 2024 10:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +157,8 @@
 <link>https://status.infobip.com/incidents/05pmhxr7c2wr</link>
 <guid>https://status.infobip.com/incidents/05pmhxr7c2wr</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>08:00</var> - <var>09:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>12:21</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of multiple databases hosted on our Saudi Arabia data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a varied range of services hosted on the data center.<br /><br />Start: 04 March 2024. 08:00 UTC<br />End: 04 March 2024. 09:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 08:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +166,8 @@
 <link>https://status.infobip.com/incidents/k3p9k2lmtrkb</link>
 <guid>https://status.infobip.com/incidents/k3p9k2lmtrkb</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>06:00</var> - <var>10:00</var> UTC</strong></p><p><small>Feb <var>19</var>, <var>14:00</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of Moments and Live Chat databases hosted on our Global (Germany) data center. During the maintenance window, a few minutes of downtime or degraded performance is expected for a Moments and Live Chat services hosted on the data center.<br /><br />Start: 04 March 2024. 06:00 UTC<br />End: 04 March 2024. 10:00 UTC<br />Purpose: Upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 06:00:00 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +175,8 @@
 <link>https://status.infobip.com/incidents/7cpc8m6lq3bj</link>
 <guid>https://status.infobip.com/incidents/7cpc8m6lq3bj</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>2</var>, <var>07:00</var> UTC</strong></p><p><small>Feb <var>16</var>, <var>11:04</var> UTC</small><br /><strong>Update</strong> - This is a reminder regarding the upcoming planned maintenance scheduled for the 01 of March at 23:00 UTC. <br />As previously communicated, this maintenance activity is expected to entail multiple periods of up to 30 minutes during which access to certain services or systems, along with responses from our platform, might be slower than expected or even temporarily unavailable.<br />To ensure minimal disruption to your workflow, we advise you to plan accordingly and we appreciate your cooperation and understanding as we strive to enhance the performance and reliability of our systems.</p><p><small>Feb <var> 8</var>, <var>12:56</var> UTC</small><br /><strong>Update</strong> - UPDATE: During planning, we have determined that, as opposed to the initial notification, short periods of downtime will be expected for services hosted on the Global (Germany) Data Center within the maintenance timeframe.<br /><br />In preparation for this activity, we will be following up periodically with additional reminder notifications, which will contain further updates if needed.</p><p><small>Feb <var> 2</var>, <var>10:35</var> UTC</small><br /><strong>Scheduled</strong> - We will undergo the second of two planned maintenance activities consisting of restructuring the Global (Germany) data center's infrastructure, with the goal of ensuring optimal performance of our platform. <br /><br />Start (UTC): 01 March 2024 23:00<br />End (UTC): 02 March 2024 07:00<br />Purpose: Data center restructuring<br /><br />During the maintenance timeframe, downtime is not expected, however, services hosted on the data center may experience short intermittent periods of degraded performance.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Mar 2024 23:00:00 +0000</pubDate>
 <pubDate>Fri, 01 Mar 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +184,8 @@
 <link>https://status.infobip.com/incidents/dl82c0g9kdgc</link>
 <guid>https://status.infobip.com/incidents/dl82c0g9kdgc</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Feb <var>28</var>, <var>07:00</var> UTC</strong></p><p><small>Feb <var>13</var>, <var>11:30</var> UTC</small><br /><strong>Update</strong> - This is a reminder regarding the upcoming planned maintenance scheduled for the 27 of February at 23:00 UTC. <br />As previously communicated, this maintenance activity is expected to entail multiple periods of up to 30 minutes during which access to certain services or systems, along with responses from our platform, might be slower than expected or even temporarily unavailable.<br />To ensure minimal disruption to your workflow, we advise you to plan accordingly and we appreciate your cooperation and understanding as we strive to enhance the performance and reliability of our systems.</p><p><small>Feb <var> 8</var>, <var>12:51</var> UTC</small><br /><strong>Update</strong> - UPDATE: During planning, we have determined that, as opposed to the initial notification, short periods of downtime will be expected for services hosted on the Global (Germany) Data Center within the maintenance timeframe.<br /><br />In preparation for this activity, we will be following up periodically with additional reminder notifications, which will contain further updates if needed.</p><p><small>Feb <var> 2</var>, <var>08:15</var> UTC</small><br /><strong>Scheduled</strong> - We will undergo the first of two planned maintenance activities consisting of restructuring the Global (Germany) data center's infrastructure, with the goal of ensuring optimal performance of our platform. <br /><br />Start (UTC): 27 February 2024 23:00<br />End (UTC): 28 February 2024 07:00<br />Purpose: Data center restructuring<br /><br />During the maintenance timeframe, downtime is not expected, however, services hosted on the data center may experience short intermittent periods of degraded performance.</p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Feb 2024 23:00:00 +0000</pubDate>
 <pubDate>Tue, 27 Feb 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +193,8 @@
 <link>https://status.infobip.com/incidents/v46b04xdpgq9</link>
 <guid>https://status.infobip.com/incidents/v46b04xdpgq9</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>21:00</var> - <var>23:00</var> UTC</strong></p><p><small>Feb <var> 9</var>, <var>16:41</var> UTC</small><br /><strong>Scheduled</strong> - To enhance the performance of our platform, we have scheduled maintenance for our Global (Germany) Data Center. This maintenance involves the migration of our 2FA service databases to new clusters with the aim of optimizing their performance. Our objective is to ensure that our infrastructure operates at its highest efficiency.<br /><br />Start (UTC): 27 February 2024 21:00<br />End (UTC): 27 February 2024 23:00<br />Purpose: Optimizing performance of the 2FA service<br /><br />During the maintenance window, the generation and delivery of 2FA pin codes (used by our Customer Portal during login and exposed as a 2FA API) might sporadically produce unforeseen outcomes.</p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
 <pubDate>Tue, 27 Feb 2024 21:00:00 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +202,8 @@
 <link>https://status.infobip.com/incidents/s8jr29sd5v1m</link>
 <guid>https://status.infobip.com/incidents/s8jr29sd5v1m</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>26</var>, <var>09:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>12</var>, <var>13:50</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing an upgrade of database clusters used by the Conversation service at our EU Region-locked (Germany) and Global (Germany) locations during the mentioned time period. Due to the nature of the activity and the availability of redundant nodes, customers should not experience any major disruptions of the service and only a few short interruptions of up to a minute are possible.<br /><br />Start (UTC): 26 February 2024 09:00<br />End (UTC): 26 February 2024 12:00<br />Purpose: Conversations service upgrade and optimization</p>
 ]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 09:00:00 +0000</pubDate>
 <pubDate>Mon, 26 Feb 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +211,8 @@
 <link>https://status.infobip.com/incidents/0wm9jcg1t2vg</link>
 <guid>https://status.infobip.com/incidents/0wm9jcg1t2vg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>10:00</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>23</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>29</var>, <var>13:38</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a renewal of the *.messaging-service.com endpoint SSL certificate during the following timeframe:<br /><br />Start (UTC): 23 February 2024 09:00<br />End (UTC): 23 February 2024 10:00<br /><br />The new certificate will have an updated intermediate certificate in its chain of trust, therefore, customers who manually import Certificate Authorities (CA) or pin leaf certificates might be required to update their collection of trusted certificate authority (CA) certificates to trust certificates signed by "RapidSSL TLS RSA CA G1" (serial number: 14816627491795588044059060260691382010).<br /><br />Should you need the certificate or any additional assistance in regard to this activity, please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 10:00:57 +0000</pubDate>
 <pubDate>Fri, 23 Feb 2024 10:00:57 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +220,8 @@
 <link>https://status.infobip.com/incidents/1tvc0y3ns3rg</link>
 <guid>https://status.infobip.com/incidents/1tvc0y3ns3rg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>23</var>, <var>08:47</var> UTC</small><br /><strong>Resolved</strong> - The issue has been successfully resolved and the service is once again operational.<br />Despite not being present for everyone, certain accounts may have encountered sporadic issues with online payments during the specified timeframe.<br />Start (UTC): 22 February 2024 00:00<br />End (UTC): 22 February 2024 18:36<br />Impact: Intermittent issues with online payments</p><p><small>Feb <var>22</var>, <var>18:10</var> UTC</small><br /><strong>Update</strong> - Our team is still working on fixing the situation, once we have more details, we will update you accordingly</p><p><small>Feb <var>22</var>, <var>16:35</var> UTC</small><br /><strong>Update</strong> - The dedicated team continues to work in a resolution for this issue.</p><p><small>Feb <var>22</var>, <var>15:59</var> UTC</small><br /><strong>Identified</strong> - We are currently experiencing issues with the Online Payments through Portal. Our internal team is actively investigating the extent of this issue, and further details will be provided shortly.</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 08:47:25 +0000</pubDate>
 <pubDate>Fri, 23 Feb 2024 08:47:25 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +229,9 @@
 <link>https://status.infobip.com/incidents/klp429slmymx</link>
 <guid>https://status.infobip.com/incidents/klp429slmymx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>13:58</var> UTC</small><br /><strong>Resolved</strong> - The issue has been successfully resolved and the service is once again operational.<br />During the specified time below, you may encounter difficulties with logging into the Customer Portal.<br /><br />Start (UTC): 20 February 13:30<br />End (UTC): 20 February 13:42<br /><br />Impact: Difficulties with logging into the Customer Portal.</p><p><small>Feb <var>20</var>, <var>13:38</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the Customer Portal login. Our internal team is actively investigating the extent of this issue, and further details will be provided shortly.</p>
 ]]></content:encoded>
 <pubDate>Tue, 20 Feb 2024 13:58:19 +0000</pubDate>
-<pubDate>Tue, 20 Feb 2024 13:58:19 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

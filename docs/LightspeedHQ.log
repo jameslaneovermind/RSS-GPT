@@ -35,3 +35,9 @@ Append: [Lightspeed Retail (R-Series)](https://status.lightspeedhq.com/incidents
 Append: [Delays on Sell Screen](https://status.lightspeedhq.com/incidents/x4n5j2614t97)
 append_entries: 25
 Finish: 2024-02-23 11:36:47.892367
+------------------------------------------------------
+Started: 2024-02-23 12:11:41.174955
+Existing_entries: 25
+Fetching from https://status.lightspeedhq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:41.553151

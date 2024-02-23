@@ -4,15 +4,15 @@
 <title>ESS (Public) Status - Incident History</title>
 <link>https://status.elastic.co</link>
 
+
 <item>
 <title>AWS N. Virginia (us-east-1) IP Additions</title>
 <link>https://status.elastic.co/incidents/1xs411x77wgh</link>
 <guid>https://status.elastic.co/incidents/1xs411x77wgh</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Elastic Cloud IP Address Update <br><br> Summary: Elastic Cloud is reserving additional ingress and egress public IP addresses to the AWS N. Virginia region. Additional IP addresses will be added for outbound and inbound communication from March 12, 2024. Customers may need to update firewall rules for inbound and outbound network traffic. <div>
+<div> [Medium] - Elastic Cloud IP Address Update <br /><br /> Summary: Elastic Cloud is reserving additional ingress and egress public IP addresses to the AWS N. Virginia region. Additional IP addresses will be added for outbound and inbound communication from March 12, 2024. Customers may need to update firewall rules for inbound and outbound network traffic. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>10:00</var> - <var>10:05</var> UTC</strong></p><p><small>Dec <var>13</var>, <var>15:10</var> UTC</small><br /><strong>Scheduled</strong> - Elastic Cloud is reserving additional ingress and egress public IP addresses to the AWS N. Virginia (us-east-1) region. These IP addresses will be used for public communication over the Internet with Elastic Cloud after March 12, 2024.<br /><br />What’s Changing:<br /><br />Outbound communication<br />Starting from March 12, 2024, we will be adding the below-mentioned set of IP addresses used for outbound communication from the Elastic Cloud AWS N. Virginia (us-east-1) region towards the public Internet:<br /><br />3.93.116.88/32<br />3.214.231.41/32<br />34.199.113.58/32<br /><br />The full list of outbound IP addresses for AWS us-east-1 region will include:<br /><br />3.93.116.88/32<br />3.214.231.41/32<br />3.218.187.232/32<br />3.220.12.171/32<br />3.223.37.231/32<br />18.214.168.74/32<br />34.199.113.58/32<br />34.205.88.186/32<br />34.237.57.214/32<br />35.168.128.28/32<br />35.171.109.44/32<br />44.210.37.226/32<br />52.202.72.126/32<br />54.161.173.12/32<br />54.173.213.121/32<br />174.129.140.127/32<br /><br />Inbound communication<br />Starting from March 12, 2024, we will be adding the below-mentioned set of IP addresses used for inbound communication from the public Internet towards the Elastic Cloud AWS N. Virginia (us-east-1) region:<br /><br />3.212.44.6/32<br />34.198.138.2/32<br />44.195.226.190/32<br /><br />The full list of inbound IP addresses for AWS us-east-1 region will include:<br /><br />3.212.44.6/32<br />3.215.12.84/32<br />3.234.152.120/32<br />18.204.141.221/32<br />34.198.138.2/32<br />34.231.108.253/32<br />34.234.143.15/32<br />44.195.226.190/32<br />44.213.199.140/32<br />52.204.179.207/32<br />54.80.119.44/32<br />54.160.25.132/32<br /><br />How does this impact you? <br />If your organization does not restrict network traffic from or towards Elastic Cloud, there is no impact to you and you do not need to make any changes.<br /><br />If your organization does restrict inbound or outbound network traffic, you will need to update any relevant IP-based rules or firewall rules in your environments to include the above IPs before March 12, 2024. Failure to do so may result in traffic being blocked by your firewalls.<br /><br />If you have any questions, please feel free to contact our support team (support@elastic.co) for guidance or assistance.</p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Mar 2024 10:00:00 +0000</pubDate>
 <pubDate>Tue, 12 Mar 2024 10:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.elastic.co/incidents/ryc9rk5dxctr</link>
 <guid>https://status.elastic.co/incidents/ryc9rk5dxctr</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scaling Deployment Issue <br><br> Summary: The service had an issue preventing customer attempts to scale deployments in GCP us-central1, but it has been resolved and is being monitored. <div>
+<div> [Low] - Scaling Deployment Issue <br /><br /> Summary: The service had an issue preventing customer attempts to scale deployments in GCP us-central1, but it has been resolved and is being monitored. <div>
 <p><small>Feb <var>15</var>, <var>00:18</var> UTC</small><br /><strong>Resolved</strong> - The service has returned to an operational state and customers should be able to scale deployments without interruption.</p><p><small>Feb <var>14</var>, <var>22:50</var> UTC</small><br /><strong>Monitoring</strong> - We are aware of an issue that, in certain scenarios, may have prevented customer attempts to scale deployments in GCP us-central1. The issue has been resolved and we are monitoring for any additional impact. We will post an update within an hour.</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 00:18:20 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 00:18:20 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +30,9 @@
 <link>https://status.elastic.co/incidents/4lh36zdzzrvr</link>
 <guid>https://status.elastic.co/incidents/4lh36zdzzrvr</guid>
 <content:encoded><![CDATA[
-<div> Medium - Login Issues for Cloud.elastic.co <br><br> Summary: Customers are experiencing issues with login to cloud.elastic.co. The company is aware of the problem and is currently investigating. <div>
+<div> Medium - Login Issues for Cloud.elastic.co <br /><br /> Summary: Customers are experiencing issues with login to cloud.elastic.co. The company is aware of the problem and is currently investigating. <div>
 <p><small>Feb <var> 8</var>, <var>16:12</var> UTC</small><br /><strong>Resolved</strong> - Our teams have completed their investigation and as a result the incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>15:49</var> UTC</small><br /><strong>Investigating</strong> - We are aware of customers experiencing issues with login to cloud.elastic.co. Our teams are investigating.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 16:12:22 +0000</pubDate>
 <pubDate>Thu, 08 Feb 2024 16:12:22 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +40,8 @@
 <link>https://status.elastic.co/incidents/vb5dyy7639zs</link>
 <guid>https://status.elastic.co/incidents/vb5dyy7639zs</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>00:22</var> UTC</small><br /><strong>Resolved</strong> - We have completed our work to restore access to the deployment metrics service in AWS Sydney (ap-southeast-2)</p><p><small>Jan <var>29</var>, <var>23:03</var> UTC</small><br /><strong>Monitoring</strong> - We have identified the cause of the deployment metrics service outage and have implemented a fix to our backend metrics cluster. We will continue monitoring for further impact and provide an update in one hour, or sooner if there is a change in status.</p><p><small>Jan <var>29</var>, <var>21:52</var> UTC</small><br /><strong>Identified</strong> - We are experiencing a service outage with deployment metrics in our AWS Sydney (ap-southeast-2) region. Our team is currently working to restore the service. Disk and CPU/memory metrics for deployments in the AWS Sydney region may be unavailable in the Elastic Cloud console. Our next update will be in one hour.</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 00:22:38 +0000</pubDate>
 <pubDate>Tue, 30 Jan 2024 00:22:38 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +49,8 @@
 <link>https://status.elastic.co/incidents/2l311jzg02w3</link>
 <guid>https://status.elastic.co/incidents/2l311jzg02w3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>02:41</var> UTC</small><br /><strong>Resolved</strong> - Microsoft informed us that they have resolved the issue. We have confirmed that we are now able to add capacity as needed.</p><p><small>Jan <var>25</var>, <var>00:12</var> UTC</small><br /><strong>Update</strong> - Microsoft is continuing its investigation into the issue. We will provide further updates as we get them.</p><p><small>Jan <var>24</var>, <var>23:03</var> UTC</small><br /><strong>Identified</strong> - An incident in Azure South Africa North may prevent the creation of new deployments or scaling up existing deployments in this region. Microsoft acknowledged the issue and confirmed it is impacting multiple customers in the region. We will provide further updates as we get them.<br /><br />There is no impact on availability or connectivity for existing deployments.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 02:41:53 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 02:41:53 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +58,8 @@
 <link>https://status.elastic.co/incidents/l0zsmcvm9mdp</link>
 <guid>https://status.elastic.co/incidents/l0zsmcvm9mdp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>19</var>, <var>05:19</var> UTC</small><br /><strong>Resolved</strong> - The issue has been resolved by Azure. Operations are back to normal in Azure Central US.</p><p><small>Jan <var>18</var>, <var>23:54</var> UTC</small><br /><strong>Monitoring</strong> - We're continuing to monitor for updates from Azure in regards to connectivity issues affecting users in the Central US region. No updates from Azure as of the last update.</p><p><small>Jan <var>18</var>, <var>22:38</var> UTC</small><br /><strong>Investigating</strong> - We've been alerted by Azure that they are experiencing connectivity issues in the Central US region starting at 19:04 UTC. Some of our infrastructure has been affected, and we will monitor and update as the situation progresses.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Jan 2024 05:19:27 +0000</pubDate>
 <pubDate>Fri, 19 Jan 2024 05:19:27 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +67,8 @@
 <link>https://status.elastic.co/incidents/n9skdn1tnpls</link>
 <guid>https://status.elastic.co/incidents/n9skdn1tnpls</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>21:44</var> UTC</small><br /><strong>Resolved</strong> - Azure has reported the incident as resolved. We have seen no further impact.</p><p><small>Jan <var>18</var>, <var>19:45</var> UTC</small><br /><strong>Monitoring</strong> - We are monitoring the region and will resolve the incident when Azure has updated their status page as resolved.</p><p><small>Jan <var>18</var>, <var>19:44</var> UTC</small><br /><strong>Investigating</strong> - Due to an incident reported by Azure on their status page, several reboots on our platform occurred. All affected instances have since recovered. Our alerting notified us of the incident at approximately 6PM UTC time, and our instances reported back as being healthy at approximately 7:15PM UTC. We will continue to monitor the Azure Status Page and update here accordingly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 21:44:03 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 21:44:03 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +76,8 @@
 <link>https://status.elastic.co/incidents/bddptkmr5ybk</link>
 <guid>https://status.elastic.co/incidents/bddptkmr5ybk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>26</var>, <var>17:01</var> UTC</small><br /><strong>Resolved</strong> - This Incident has been resolved.</p><p><small>Dec <var>26</var>, <var>16:04</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and and we are monitoring the results<br /><br /> Our next update will be in one hour.</p><p><small>Dec <var>26</var>, <var>15:31</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified, and a fix for the problem has been deployed.</p><p><small>Dec <var>26</var>, <var>15:04</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.<br />Our next update will be in one hour.</p><p><small>Dec <var>26</var>, <var>15:01</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Dec <var>26</var>, <var>14:07</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.<br /><br /> Our next update will be in one hour.</p><p><small>Dec <var>26</var>, <var>13:00</var> UTC</small><br /><strong>Investigating</strong> - We are investigating delays with deployment logs and metrics ingestion in Azure Virginia (azure-eastus2). The delay can also potentially cause failures allocating new capacity in this region affecting deployment creation and topology changes.<br /><br />Our next update will be in one hour.</p>
 ]]></content:encoded>
-<pubDate>Tue, 26 Dec 2023 17:01:46 +0000</pubDate>
 <pubDate>Tue, 26 Dec 2023 17:01:46 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +85,8 @@
 <link>https://status.elastic.co/incidents/4r2xrsz3q79l</link>
 <guid>https://status.elastic.co/incidents/4r2xrsz3q79l</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>09:42</var> UTC</small><br /><strong>Resolved</strong> - There are no delays for usage reports in the user console and APIs for more than 2 hours. The service is fully operational.</p><p><small>Dec <var>20</var>, <var>09:18</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>20</var>, <var>01:06</var> UTC</small><br /><strong>Monitoring</strong> - We've deployed a fix to correct the delays. It will take some time for processing to catch up. We are monitoring closely and will provide another update when complete.</p><p><small>Dec <var>19</var>, <var>23:59</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of delays and are working on a fix. An update will be provided once deployed.</p><p><small>Dec <var>19</var>, <var>23:10</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue that is causing some customers to experience minor delays to their usage reports in the user console and APIs.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 09:42:24 +0000</pubDate>
 <pubDate>Wed, 20 Dec 2023 09:42:24 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +94,8 @@
 <link>https://status.elastic.co/incidents/y45gbw015c6c</link>
 <guid>https://status.elastic.co/incidents/y45gbw015c6c</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>16:01</var> UTC</small><br /><strong>Resolved</strong> - We have identified and resolved the issue causing delays in deployment log ingestion and no more delays are observed.</p><p><small>Dec <var>18</var>, <var>15:45</var> UTC</small><br /><strong>Investigating</strong> - We are investigating potential delays with deployment log ingestion in Azure Virginia (azure-eastus2). The delay in log ingestion can also potentially cause failures allocating new capacity in this region affecting deployment creation and topology changes. Our next update will be in one hour.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 16:01:58 +0000</pubDate>
 <pubDate>Mon, 18 Dec 2023 16:01:58 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +103,8 @@
 <link>https://status.elastic.co/incidents/lj8tsvds3vbm</link>
 <guid>https://status.elastic.co/incidents/lj8tsvds3vbm</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>15:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved by engineers.</p><p><small>Dec <var> 5</var>, <var>14:27</var> UTC</small><br /><strong>Investigating</strong> - We are seeing a reoccurrence of the issues that may result in difficulties with scaling up deployments in gcp-us-west2. Our engineers are investigating. Our next up will be posted in 1 hour.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 15:01:19 +0000</pubDate>
 <pubDate>Tue, 05 Dec 2023 15:01:19 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +112,8 @@
 <link>https://status.elastic.co/incidents/dhn20qp44844</link>
 <guid>https://status.elastic.co/incidents/dhn20qp44844</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>13:22</var> UTC</small><br /><strong>Resolved</strong> - Our engineers have resolved the issue with possible difficulties with scaling up deployments in gcp-us-west2</p><p><small>Dec <var> 5</var>, <var>12:33</var> UTC</small><br /><strong>Investigating</strong> - We have identified that some customers may encounter difficulties with scaling up deployments in the region gcp-us-west2. Our engineers are tackling this issue and are working towards resolution. Our next update will be posted in 1 hour.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 13:22:56 +0000</pubDate>
 <pubDate>Tue, 05 Dec 2023 13:22:56 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +121,8 @@
 <link>https://status.elastic.co/incidents/1n4dk8knl9n1</link>
 <guid>https://status.elastic.co/incidents/1n4dk8knl9n1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>30</var>, <var>06:26</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>30</var>, <var>03:40</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Nov <var>30</var>, <var>03:28</var> UTC</small><br /><strong>Monitoring</strong> - We are aware of an issue that impacted Elastic Cloud users ability to create new deployments with most versions of 7.17 beginning at 14:03 UTC on November 29th. Specifically, users were unable to create new deployments with versions between 7.17.1 and 7.17.15. Existing deployments were not impacted in any way. A fix for the issue has been implemented, and deployment creation for all 7.17 versions is now working. We will continue to monitor the situation before resolving this incident.</p>
 ]]></content:encoded>
-<pubDate>Thu, 30 Nov 2023 06:26:42 +0000</pubDate>
 <pubDate>Thu, 30 Nov 2023 06:26:42 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +130,8 @@
 <link>https://status.elastic.co/incidents/3320zz37d0gl</link>
 <guid>https://status.elastic.co/incidents/3320zz37d0gl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>26</var>, <var>17:54</var> UTC</small><br /><strong>Resolved</strong> - The incident has been resolved.</p><p><small>Nov <var>26</var>, <var>17:27</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented. Deployment topology and configuration updates as well as creation of new deployments is working properly again.<br /><br />We are continuing to monitor the situation before resolving this incident.</p><p><small>Nov <var>26</var>, <var>16:47</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue with deployment topology and configuration updates as well as the creation of new deployments in the AWS Sydney (ap-southeast-2) region. Availability of deployments in the region is not impacted. <br /><br />We will provide an update within 1 hour.</p>
 ]]></content:encoded>
-<pubDate>Sun, 26 Nov 2023 17:54:31 +0000</pubDate>
 <pubDate>Sun, 26 Nov 2023 17:54:31 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +139,8 @@
 <link>https://status.elastic.co/incidents/gxcsfgjljrfy</link>
 <guid>https://status.elastic.co/incidents/gxcsfgjljrfy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>18:32</var> UTC</small><br /><strong>Resolved</strong> - No new MFA failures observed in the past hour. Resolving the incident.</p><p><small>Nov <var>16</var>, <var>17:29</var> UTC</small><br /><strong>Monitoring</strong> - We've fixed the MFA challenge and have confirmed logins using MFA are working again. You may need to refresh your browser if you are still experiencing the problem. We'll continue to monitor for 1h and close the incident if no new failures are reported.</p><p><small>Nov <var>16</var>, <var>16:29</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue with our MFA challenge verification process and we are actively working on mitigating the issue, we will post another update in an hour.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 18:32:46 +0000</pubDate>
 <pubDate>Thu, 16 Nov 2023 18:32:46 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +148,8 @@
 <link>https://status.elastic.co/incidents/nzsvdk1x99jb</link>
 <guid>https://status.elastic.co/incidents/nzsvdk1x99jb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>16</var>, <var>13:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>16</var>, <var>07:23</var> UTC</small><br /><strong>Monitoring</strong> - Capacity to move affected deployments has been provided by Azure. Instance migration to new nodes is almost complete. We are monitoring the recovery of the last remaining deployments.<br /><br />We'll provide an update in 2 hours.</p><p><small>Nov <var>16</var>, <var>05:39</var> UTC</small><br /><strong>Identified</strong> - The cloud service provider has identified the issue and working on remediation. Some of the deployments are still pending migration to the new nodes. We will provide and update in one hour.</p><p><small>Nov <var>16</var>, <var>04:40</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with deployments in azure-centralindia-1. Single zone deployments in this zone may be unavailable, while deployments spanning more than 1 zone, will still operate but with degraded performance. We are currently working to mitigate the problem by moving deployments to other instances in the affected zone.  We will provide another update in an hour.</p>
 ]]></content:encoded>
-<pubDate>Thu, 16 Nov 2023 13:19:19 +0000</pubDate>
 <pubDate>Thu, 16 Nov 2023 13:19:19 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +157,8 @@
 <link>https://status.elastic.co/incidents/fyh6hr0nswtf</link>
 <guid>https://status.elastic.co/incidents/fyh6hr0nswtf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>14</var>, <var>15:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>14</var>, <var>12:04</var> UTC</small><br /><strong>Monitoring</strong> - The issue has been mitigated on all the affected hosts. We will be monitoring the situation for the next two hours</p><p><small>Nov <var>14</var>, <var>10:28</var> UTC</small><br /><strong>Update</strong> - After deeper investigation, we determined that the impacted hosts were closer to 3%. The mitigation is on-going and affected deployments may see a brief drop in cross service communication, such as Kibana, Enterprise Search, APM Server to Elasticsearch</p><p><small>Nov <var>14</var>, <var>09:58</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Nov <var>14</var>, <var>09:49</var> UTC</small><br /><strong>Identified</strong> - We have identified an anomaly with high CPU usage of one of our components which affects 40% of hosts in AWS us-east-1. Our engineering team is mitigating the problem. We will post an update in 2 hours</p>
 ]]></content:encoded>
-<pubDate>Tue, 14 Nov 2023 15:13:32 +0000</pubDate>
 <pubDate>Tue, 14 Nov 2023 15:13:32 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +166,8 @@
 <link>https://status.elastic.co/incidents/db383lspzw12</link>
 <guid>https://status.elastic.co/incidents/db383lspzw12</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var>11</var>, <var>12:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Nov <var>10</var>, <var>15:22</var> UTC</small><br /><strong>Monitoring</strong> - A remediation has been applied and deployment topology updates should be working properly again for the affected deployments.<br /><br />We'll monitor the situation for one more hour before resolving this incident.</p><p><small>Nov <var>10</var>, <var>14:13</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on fixing the issue.<br /><br />We will provide an update within the next 2 hours.</p><p><small>Nov <var>10</var>, <var>12:16</var> UTC</small><br /><strong>Identified</strong> - Deployment topology updates (scale in and scale out) in the Cloud console UI is currently impaired for a limited number of deployments due to a recent change. Availability of deployments is not impacted.<br /><br />The issue has been identified and corrective measures are being implemented.<br /><br />We will provide an update within the next 2 hours.</p>
 ]]></content:encoded>
-<pubDate>Sat, 11 Nov 2023 12:46:15 +0000</pubDate>
 <pubDate>Sat, 11 Nov 2023 12:46:15 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +175,8 @@
 <link>https://status.elastic.co/incidents/p7h02k7hssp1</link>
 <guid>https://status.elastic.co/incidents/p7h02k7hssp1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 9</var>, <var>08:00</var> UTC</small><br /><strong>Resolved</strong> - Between 8:00 and 8:20 UTC, we experienced degraded connectivity for a small percent of requests in AWS us-east-1. It has already been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
 <pubDate>Thu, 09 Nov 2023 08:00:00 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +184,8 @@
 <link>https://status.elastic.co/incidents/6gsc44j3m2c8</link>
 <guid>https://status.elastic.co/incidents/6gsc44j3m2c8</guid>
 <content:encoded><![CDATA[
-
 <p><small>Nov <var> 2</var>, <var>16:00</var> UTC</small><br /><strong>Resolved</strong> - We are aware of some circumstances where Synthetics monitors would result in `down` status due to the website being tested having uncaught JavaScript errors or promise rejections. A new version has been released to all Synthetics managed locations to resolve the same.</p>
 ]]></content:encoded>
-<pubDate>Thu, 02 Nov 2023 16:00:00 +0000</pubDate>
 <pubDate>Thu, 02 Nov 2023 16:00:00 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +193,8 @@
 <link>https://status.elastic.co/incidents/gqn8wwcrjxlp</link>
 <guid>https://status.elastic.co/incidents/gqn8wwcrjxlp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>30</var>, <var>01:40</var> UTC</small><br /><strong>Completed</strong> - Verification has been completed & we're happy with the results. We're closing this maintenance window now, as normal if you notice any issues please contact Support (via support@elastic.co).</p><p><small>Oct <var>30</var>, <var>01:06</var> UTC</small><br /><strong>Verifying</strong> - Upgrade has been completed. We're verifying the upgrade now & making sure all our internal services have reconnected as expected.</p><p><small>Oct <var>30</var>, <var>00:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var> 9</var>, <var>00:09</var> UTC</small><br /><strong>Scheduled</strong> - We will be upgrading our primary administrative data store during this window.<br /><br />We've thoroughly tested our upgrade procedure across our deployment pipeline, and against copies of our production stores. We expect this procedure to take less than 3 hours to complete.<br /><br />During the maintenance window, customers will see delayed updates to their billing information & may not be able to access the Cloud Console (https://cloud.elastic.co/)<br /><br />We're not expecting any impact on connectivity to customer deployments during this maintenance window, you should contact Support (via support@elastic.co) as usual if you notice any impact.</p>
 ]]></content:encoded>
-<pubDate>Mon, 30 Oct 2023 01:40:08 +0000</pubDate>
 <pubDate>Mon, 30 Oct 2023 01:40:08 +0000</pubDate>
 </item>
 <item>
@@ -240,10 +202,8 @@
 <link>https://status.elastic.co/incidents/lgrbbbs8cvnf</link>
 <guid>https://status.elastic.co/incidents/lgrbbbs8cvnf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>26</var>, <var>10:46</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Oct <var>26</var>, <var>09:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Oct <var>19</var>, <var>15:35</var> UTC</small><br /><strong>Scheduled</strong> - We previously communicated that additional egress public IP addresses were planned to be added in the Elastic Cloud AWS us-east-1 region. These IP addresses are now deployed and active.<br /><br />Starting on October 26th, we will begin to shift larger portions of network traffic to use these new egress public IP addresses.<br /><br />What's Changing?<br /><br />Starting on October 26th, we will begin sending network traffic from the Elastic Cloud AWS us-east-1 region towards the public internet through this full list of outbound IP addresses:<br /><br />174.129.140.127/32<br />3.223.37.231/32<br />34.237.57.214/32<br />35.168.128.28/32<br />44.210.37.226/32<br />54.161.173.12/32<br />54.173.213.121/32<br />3.218.187.232/32<br />34.205.88.186/32<br />35.171.109.44/32<br /><br />How does this impact you? <br /><br />If your organization does not restrict inbound network traffic from Elastic Cloud towards your environment, there is no impact to you and you do not need to make any changes.<br /><br />If your organization does restrict inbound network traffic and has not yet allowed the above IP addresses after our previous announcement, you will need to update any relevant IP-based rules or firewall rules in your environments to include the above IPs before October 26th. Failure to do so may result in traffic from Elastic Cloud towards your environments being blocked by your firewalls.<br /><br />If you have any questions, please feel free to contact our support team (support@elastic.co) for guidance or assistance.</p>
 ]]></content:encoded>
-<pubDate>Thu, 26 Oct 2023 10:46:45 +0000</pubDate>
 <pubDate>Thu, 26 Oct 2023 10:46:45 +0000</pubDate>
 </item>
 <item>
@@ -251,10 +211,8 @@
 <link>https://status.elastic.co/incidents/gwhwyyxhmmqb</link>
 <guid>https://status.elastic.co/incidents/gwhwyyxhmmqb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>25</var>, <var>10:49</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved. All functionality has been restored and deployment orchestration (create/edit/restart/delete) is fully operational again in the Azure Johannesburg (azure-southafricanorth) Region.</p><p><small>Oct <var>25</var>, <var>10:20</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been put in place and all connectivity has been restored successfully. <br />Deployment topology and configuration updates as well as creation of new deployments is working properly again.<br /><br />We are continuing to monitor the situation before resolving this incident.</p><p><small>Oct <var>25</var>, <var>09:00</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and corrective measures are being implemented.<br /><br />The next update will follow within 1 hour.</p><p><small>Oct <var>25</var>, <var>08:17</var> UTC</small><br /><strong>Investigating</strong> - Deployment topology and configuration updates as well as creation of new deployments currently impaired in Azure johannesburg (azure-southafricanorth) region.<br /><br />Availability of deployments in that region is not impacted.<br />Our team has identified a connection issue in the administration component towards one of its state stores and is working on restoring connectivity.<br /><br />We will provide an update within 1 hour.</p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Oct 2023 10:49:47 +0000</pubDate>
 <pubDate>Wed, 25 Oct 2023 10:49:47 +0000</pubDate>
 </item>
 <item>
@@ -262,10 +220,8 @@
 <link>https://status.elastic.co/incidents/0tdfkhyfprvq</link>
 <guid>https://status.elastic.co/incidents/0tdfkhyfprvq</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>24</var>, <var>12:49</var> UTC</small><br /><strong>Resolved</strong> - Currently, no Kibana instances are affected by this incident across our fleet.<br />This incident has been resolved.</p><p><small>Oct <var>24</var>, <var>12:04</var> UTC</small><br /><strong>Monitoring</strong> - The team has applied a patch to mitigate the connectivity issue. Affected deployments returned to a healthy state. <br /><br />We are currently monitoring the situation.</p><p><small>Oct <var>24</var>, <var>10:08</var> UTC</small><br /><strong>Update</strong> - The team remains working on patching the affected hosts, impacting a small subset of Kibana instances hosted in Azure regions. <br /><br />We will update this issue over the next hour.</p><p><small>Oct <var>24</var>, <var>09:10</var> UTC</small><br /><strong>Update</strong> - The team remains working on patching the affected hosts, impacting a small subset of Kibana instances hosted in Azure regions. <br /><br />We will update this issue over the next hour.</p><p><small>Oct <var>24</var>, <var>00:04</var> UTC</small><br /><strong>Identified</strong> - We've identified why some deployments may be unable to connect to Kibana. <br /><br />We're currently working on patching the affected hosts.<br /><br />We'll update this issue when patching is complete.</p><p><small>Oct <var>23</var>, <var>19:47</var> UTC</small><br /><strong>Investigating</strong> - A few customers are having issues with connecting to Kibana. Customers may experience errors attempting to login.<br /><br />We're currently investigating this issue and will provide a further update over the next hour.</p>
 ]]></content:encoded>
-<pubDate>Tue, 24 Oct 2023 12:49:02 +0000</pubDate>
 <pubDate>Tue, 24 Oct 2023 12:49:02 +0000</pubDate>
 </item>
 <item>
@@ -273,12 +229,9 @@
 <link>https://status.elastic.co/incidents/j899d8wk2wrn</link>
 <guid>https://status.elastic.co/incidents/j899d8wk2wrn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>18</var>, <var>13:49</var> UTC</small><br /><strong>Resolved</strong> - Problem solved and the API and pages are working fine. A fix to prevent this incident from happening again will be done by the owning team.</p><p><small>Oct <var>18</var>, <var>13:11</var> UTC</small><br /><strong>Identified</strong> - The billing API and billing usage pages within the user console are currently unavailable. We are working to mitigate the underlying issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 18 Oct 2023 13:49:31 +0000</pubDate>
-<pubDate>Wed, 18 Oct 2023 13:49:31 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

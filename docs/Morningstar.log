@@ -33,3 +33,9 @@ Append: [Morningstar Service Notification: Morningstar Direct Data Delay](https:
 Append: [Morningstar Service Notification: Morningstar Direct Slowness](https://status.morningstar.com/incidents/h07rd5v597dw)
 append_entries: 23
 Finish: 2024-02-23 11:37:00.414204
+------------------------------------------------------
+Started: 2024-02-23 12:11:42.546723
+Existing_entries: 23
+Fetching from https://status.morningstar.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:42.928740

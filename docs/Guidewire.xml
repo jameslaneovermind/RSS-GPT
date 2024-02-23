@@ -4,15 +4,15 @@
 <title>Guidewire Status - Incident History</title>
 <link>https://status.guidewire.com</link>
 
+
 <item>
 <title>GWCP Production AMER/CAN Tenant (v.1.76)</title>
 <link>https://status.guidewire.com/incidents/4rdxqb6m9lsf</link>
 <guid>https://status.guidewire.com/incidents/4rdxqb6m9lsf</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - General Platform Maintenance <br><br>Summary: Guidewire will be conducting general platform and tenant maintenance to production environments, which may cause brief service interruptions with certain applications. If any availability issues last beyond the maintenance window, customers are advised to log an incident using Guidewire Community. <div>
+<div> [Medium] - General Platform Maintenance <br /><br />Summary: Guidewire will be conducting general platform and tenant maintenance to production environments, which may cause brief service interruptions with certain applications. If any availability issues last beyond the maintenance window, customers are advised to log an incident using Guidewire Community. <div>
 <p><strong>THIS IS A SCHEDULED EVENT May <var>26</var>, <var>06:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:26</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 06:00:00 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
@@ -25,17 +25,15 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <p><strong>THIS IS A SCHEDULED EVENT May <var>25</var>, <var>23:00</var> UTC &nbsp;-&nbsp; May <var>26</var>, <var>05:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:25</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 23:00:00 +0000</pubDate>
-<pubDate>Sat, 25 May 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GWCP Production APAC Tenant (v.1.76)</title>
 <link>https://status.guidewire.com/incidents/3f2q3zjr8542</link>
 <guid>https://status.guidewire.com/incidents/3f2q3zjr8542</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - General Platform Maintenance <br><br> Summary: Guidewire will be conducting maintenance on production environments, which may result in brief service interruptions for certain applications. If customers experience any availability issues beyond the maintenance window, they are advised to log an incident using Guidewire Community. <div>
+<div> [Medium] - General Platform Maintenance <br /><br /> Summary: Guidewire will be conducting maintenance on production environments, which may result in brief service interruptions for certain applications. If customers experience any availability issues beyond the maintenance window, they are advised to log an incident using Guidewire Community. <div>
 <p><strong>THIS IS A SCHEDULED EVENT May <var>25</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:25</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 14:00:00 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -43,10 +41,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/4mxrcrwrk3g6</link>
 <guid>https://status.guidewire.com/incidents/4mxrcrwrk3g6</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>15</var>, <var>13:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:24</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 13:00:00 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -54,10 +50,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/twql6p3p87zk</link>
 <guid>https://status.guidewire.com/incidents/twql6p3p87zk</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>15</var>, <var>01:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:23</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 01:00:00 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -65,10 +59,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/6m6hp2249bpk</link>
 <guid>https://status.guidewire.com/incidents/6m6hp2249bpk</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>13</var>, <var>19:00</var> - <var>22:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:22</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 May 2024 19:00:00 +0000</pubDate>
 <pubDate>Mon, 13 May 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -76,10 +68,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/d39vf7ys7j6x</link>
 <guid>https://status.guidewire.com/incidents/d39vf7ys7j6x</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>13</var>, <var>03:00</var> - <var>06:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:22</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 May 2024 03:00:00 +0000</pubDate>
 <pubDate>Mon, 13 May 2024 03:00:00 +0000</pubDate>
 </item>
 <item>
@@ -87,10 +77,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/7wbtkvqr62z7</link>
 <guid>https://status.guidewire.com/incidents/7wbtkvqr62z7</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>12</var>, <var>06:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:20</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 06:00:00 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
@@ -98,10 +86,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/5ckk56lsnqpt</link>
 <guid>https://status.guidewire.com/incidents/5ckk56lsnqpt</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>11</var>, <var>23:00</var> UTC &nbsp;-&nbsp; May <var>12</var>, <var>05:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:19</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 23:00:00 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -109,10 +95,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/rfq1tl0vvyv0</link>
 <guid>https://status.guidewire.com/incidents/rfq1tl0vvyv0</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>11</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:18</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 14:00:00 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -120,10 +104,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/bjx9k88ts3dp</link>
 <guid>https://status.guidewire.com/incidents/bjx9k88ts3dp</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>1</var>, <var>13:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:17</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to nonproduction and pre-production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 13:00:00 +0000</pubDate>
 <pubDate>Wed, 01 May 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -131,10 +113,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/nc0vmsbn236d</link>
 <guid>https://status.guidewire.com/incidents/nc0vmsbn236d</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT May <var>1</var>, <var>01:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:16</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to nonproduction and pre-production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 01:00:00 +0000</pubDate>
 <pubDate>Wed, 01 May 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -142,10 +122,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/0lqr1s9sfkby</link>
 <guid>https://status.guidewire.com/incidents/0lqr1s9sfkby</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>29</var>, <var>19:00</var> - <var>22:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:15</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to nonproduction and pre-production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 19:00:00 +0000</pubDate>
 <pubDate>Mon, 29 Apr 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -153,10 +131,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/sdmp986jmd5f</link>
 <guid>https://status.guidewire.com/incidents/sdmp986jmd5f</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>29</var>, <var>03:00</var> - <var>06:00</var> UTC</strong></p><p><small>Feb <var>15</var>, <var>21:14</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to nonproduction and pre-production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 03:00:00 +0000</pubDate>
 <pubDate>Mon, 29 Apr 2024 03:00:00 +0000</pubDate>
 </item>
 <item>
@@ -164,10 +140,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/7pj8zjjx7jhg</link>
 <guid>https://status.guidewire.com/incidents/7pj8zjjx7jhg</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>28</var>, <var>06:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:59</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 06:00:00 +0000</pubDate>
 <pubDate>Sun, 28 Apr 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
@@ -175,10 +149,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/pmfh61cd1sc6</link>
 <guid>https://status.guidewire.com/incidents/pmfh61cd1sc6</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>27</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Apr <var>28</var>, <var>05:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:54</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 23:00:00 +0000</pubDate>
 <pubDate>Sat, 27 Apr 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -186,10 +158,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/38gv8r1bbg30</link>
 <guid>https://status.guidewire.com/incidents/38gv8r1bbg30</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>27</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:20</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to production environments during this time. While not expected, customers may experience brief service interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues lasting beyond the maintenance window, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 14:00:00 +0000</pubDate>
 <pubDate>Sat, 27 Apr 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -197,10 +167,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/9zfkx90162ww</link>
 <guid>https://status.guidewire.com/incidents/9zfkx90162ww</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>17</var>, <var>13:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:18</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
 <pubDate>Wed, 17 Apr 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -208,10 +176,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/vnw5vbc4vk7p</link>
 <guid>https://status.guidewire.com/incidents/vnw5vbc4vk7p</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>17</var>, <var>01:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:17</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Apr 2024 01:00:00 +0000</pubDate>
 <pubDate>Wed, 17 Apr 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -219,10 +185,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/qmnc55qlmgx2</link>
 <guid>https://status.guidewire.com/incidents/qmnc55qlmgx2</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>15</var>, <var>19:00</var> - <var>22:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:22</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 19:00:00 +0000</pubDate>
 <pubDate>Mon, 15 Apr 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -230,10 +194,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/pldzsly6kvqm</link>
 <guid>https://status.guidewire.com/incidents/pldzsly6kvqm</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>15</var>, <var>03:00</var> - <var>06:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:14</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting general platform and tenant maintenance to nonproduction environments during this time. While not expected, customers may experience brief connectivity interruptions with InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 03:00:00 +0000</pubDate>
 <pubDate>Mon, 15 Apr 2024 03:00:00 +0000</pubDate>
 </item>
 <item>
@@ -241,10 +203,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/jh434gftddyk</link>
 <guid>https://status.guidewire.com/incidents/jh434gftddyk</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>14</var>, <var>06:00</var> - <var>12:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:52</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 06:00:00 +0000</pubDate>
 <pubDate>Sun, 14 Apr 2024 06:00:00 +0000</pubDate>
 </item>
 <item>
@@ -252,10 +212,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/7pw3q7z8ggsl</link>
 <guid>https://status.guidewire.com/incidents/7pw3q7z8ggsl</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>13</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Apr <var>14</var>, <var>05:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:51</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 23:00:00 +0000</pubDate>
 <pubDate>Sat, 13 Apr 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -263,10 +221,8 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/jwv9mh11jjvs</link>
 <guid>https://status.guidewire.com/incidents/jwv9mh11jjvs</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>13</var>, <var>14:00</var> - <var>17:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:04</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH), source code management, and build management remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 14:00:00 +0000</pubDate>
 <pubDate>Sat, 13 Apr 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -274,12 +230,9 @@ Summary: Guidewire will be conducting general platform and tenant maintenance to
 <link>https://status.guidewire.com/incidents/pzylrx8f0ffk</link>
 <guid>https://status.guidewire.com/incidents/pzylrx8f0ffk</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>3</var>, <var>13:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var> 8</var>, <var>00:03</var> UTC</small><br /><strong>Scheduled</strong> - Guidewire will be conducting extensive platform and tenant maintenance to nonproduction and pre-production environments during this time. It is reasonable for customers to expect brief losses of availability to their InsuranceSuite, xEngage applications, and/or CDA/Explore/DHIC within the specified maintenance window. Additionally, source code management and build management tools may go offline and restart during the maintenance window. Tools such as Guidewire Cloud Console (GCC) and Guidewire Cloud Home (GCH) remain unaffected by this maintenance.<br /><br />If customers experience any availability issues once the maintenance window is completed, please log an incident using Guidewire Community.</p>
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 13:00:00 +0000</pubDate>
-<pubDate>Wed, 03 Apr 2024 13:00:00 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

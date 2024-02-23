@@ -35,3 +35,9 @@ Append: [Unable to Access the Frame Platform](https://status.nutanix.com/inciden
 Append: [Unable to Access the Frame Platform](https://status.nutanix.com/incidents/14432nqk97nn)
 append_entries: 25
 Finish: 2024-02-23 11:37:09.977105
+------------------------------------------------------
+Started: 2024-02-23 12:11:43.828416
+Existing_entries: 25
+Fetching from https://status.nutanix.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:44.151845

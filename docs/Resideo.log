@@ -35,3 +35,9 @@ Append: [AlarmNet 360](https://status.resideo.com/incidents/7x3yzhf7kj34)
 Append: [Resideo Smart Home](https://status.resideo.com/incidents/g8p7fqgs42j0)
 append_entries: 25
 Finish: 2024-02-23 11:37:19.749611
+------------------------------------------------------
+Started: 2024-02-23 12:11:44.991636
+Existing_entries: 25
+Fetching from https://status.resideo.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:45.311778

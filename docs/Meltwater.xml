@@ -4,6 +4,7 @@
 <title>Meltwater Media Intelligence Platform Status - Incident History</title>
 <link>https://status.meltwater.com</link>
 
+
 <item>
 <title>Monitored Social Connection Issue - Instagram</title>
 <link>https://status.meltwater.com/incidents/5ccjjlp1n880</link>
@@ -14,17 +15,15 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <p><small>Feb <var>22</var>, <var>20:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>09:32</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has resolved the issue affecting Monitored Social Connections. Users should now be able to reconnect their Instagram profiles.<br /><br />We will continue to monitor the system. Thank you for your patience.</p><p><small>Feb <var>19</var>, <var>14:52</var> UTC</small><br /><strong>Update</strong> - Our Engineering team continues to work with Meta Support toward a resolution. Users may encounter issues reconnecting their Instagram profiles in Monitored Social Connections.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Feb <var>16</var>, <var>23:00</var> UTC</small><br /><strong>Update</strong> - Our engineering team continues to work with Meta to resolve this issue. During this time some users may be unable to add or reconnect their Instagram profiles in Monitored Social Connections.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Feb <var>16</var>, <var>16:19</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with Instagram under Monitored Social Connections. Some users may be unable to add or reconnect Instagram profiles. Engineering is aware of the issue and is working with Meta to get this resolved.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 20:46:59 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 20:46:59 +0000</pubDate>
 </item>
 <item>
 <title>Issues Saving and Sending Newsletters</title>
 <link>https://status.meltwater.com/incidents/prd18p875pfz</link>
 <guid>https://status.meltwater.com/incidents/prd18p875pfz</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Newsletters Issue <br><br> Some users may experience issues saving and sending Newsletters. Engineering teams are working on resolving the issue as quickly as possible. <div>
+<div> [Medium] - Newsletters Issue <br /><br /> Some users may experience issues saving and sending Newsletters. Engineering teams are working on resolving the issue as quickly as possible. <div>
 <p><small>Feb <var>22</var>, <var>20:36</var> UTC</small><br /><strong>Monitoring</strong> - Newsletters continue to save and send as expected. <br /><br />We will continue to monitor this issue and provide updates accordingly.</p><p><small>Feb <var>22</var>, <var>18:28</var> UTC</small><br /><strong>Update</strong> - Engineering has resolved this issue and Newsletters are saving and sending as expected. We will continue to monitor the application.</p><p><small>Feb <var>22</var>, <var>17:31</var> UTC</small><br /><strong>Investigating</strong> - Some users may experience issues saving and sending Newsletters, including previews. Our Engineering teams are working to resolve this as quickly as possible.<br /><br />We apologize for any inconvenience caused and will keep you updated.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 20:36:58 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 20:36:58 +0000</pubDate>
 </item>
 <item>
@@ -32,10 +31,9 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/5lkhkptmy4nc</link>
 <guid>https://status.meltwater.com/incidents/5lkhkptmy4nc</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: The Engineering team will be performing maintenance on Meltwater Engage Conversations on February 9, lasting approximately one hour. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: The Engineering team will be performing maintenance on Meltwater Engage Conversations on February 9, lasting approximately one hour. <div>
 <p><small>Feb <var>10</var>, <var>01:54</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>10</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 7</var>, <var>19:04</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on Meltwater Engage Conversations this Friday, February 9, beginning at 8:00 PM ET (1:00 AM UTC Saturday). This maintenance is expected to last approximately one hour.</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 01:54:57 +0000</pubDate>
 <pubDate>Sat, 10 Feb 2024 01:54:57 +0000</pubDate>
 </item>
 <item>
@@ -43,10 +41,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/0jn4c5gvng10</link>
 <guid>https://status.meltwater.com/incidents/0jn4c5gvng10</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>20:04</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Newsletters continue to deliver as expected.</p><p><small>Jan <var>30</var>, <var>12:18</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has resolved the issue causing the non-delivery of Newsletters earlier in the day. All Newsletters are getting delivered as expected. We will continue to monitor the application.<br /><br />Thank you for your patience.</p><p><small>Jan <var>30</var>, <var>07:16</var> UTC</small><br /><strong>Investigating</strong> - Some users may experience issues sending Newsletters, including previews. Our Engineering teams are working to resolve this as quickly as possible.<br /><br />We apologize for the inconvenience caused and will keep you updated.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 20:04:59 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 20:04:59 +0000</pubDate>
 </item>
 <item>
@@ -54,10 +50,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/vbkrp81m9ggr</link>
 <guid>https://status.meltwater.com/incidents/vbkrp81m9ggr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>29</var>, <var>20:11</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Instagram Story and Feeds continue to post as expected.</p><p><small>Jan <var>27</var>, <var>21:46</var> UTC</small><br /><strong>Monitoring</strong> - Instagram publishing should now be working as expected in Meltwater Engage.<br /><br />We will continue to monitor this issue closely and provide updates accordingly.</p><p><small>Jan <var>26</var>, <var>21:34</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing post failures with Instagram Stories and Feed Post publishing containing images (excluding Reels). Engineering is aware of the issue and is working with Meta to resolve the issue.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Mon, 29 Jan 2024 20:11:58 +0000</pubDate>
 <pubDate>Mon, 29 Jan 2024 20:11:58 +0000</pubDate>
 </item>
 <item>
@@ -65,10 +59,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/6scp2j2ryly4</link>
 <guid>https://status.meltwater.com/incidents/6scp2j2ryly4</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>13</var>, <var>01:33</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>13</var>, <var>01:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var> 9</var>, <var>20:12</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on Engage Owned Social Connections this Saturday, January 13th 2024, beginning at 1:00am UTC (8:00pm ET). This maintenance is expected to last approximately 30 minutes.<br /><br />During this maintenance window customers may be unable to add or modify existing Owned Social Connections.<br /><br />Thank you for your patience during this maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sat, 13 Jan 2024 01:33:31 +0000</pubDate>
 <pubDate>Sat, 13 Jan 2024 01:33:31 +0000</pubDate>
 </item>
 <item>
@@ -76,10 +68,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/1p739xj9fcms</link>
 <guid>https://status.meltwater.com/incidents/1p739xj9fcms</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>22</var>, <var>15:32</var> UTC</small><br /><strong>Resolved</strong> - Meltwater was recently notified of a LinkedIn API change that impacts all owned LinkedIn connections in Meltwater Engage. To prevent further interruptions, please reconnect any of your LinkedIn social connections in the application. Reconnecting is essential for maintaining your Engage Conversations and Social Analytics data.<br /><br />For detailed steps on how to reconnect your account, please refer to the following Help article: https://help.meltwater.com/en/articles/4723230-why-your-social-accounts-disconnect#h_022c613b5f</p><p><small>Dec <var>19</var>, <var>21:58</var> UTC</small><br /><strong>Investigating</strong> - Meltwater was recently notified of a LinkedIn API change that impacts all owned LinkedIn connections in Meltwater Engage. To prevent further interruptions, please reconnect any of your LinkedIn social connections in the application. Reconnecting is essential for maintaining your Engage Conversations and Social Analytics data. <br /><br />For detailed steps on how to reconnect your account, please refer to the following Help article: [https://help.meltwater.com/en/articles/4723230-why-your-social-accounts-disconnect#h_022c613b5f|https://help.meltwater.com/en/articles/4723230-why-your-social-accounts-disconnect#h_022c613b5f]</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Dec 2023 15:32:58 +0000</pubDate>
 <pubDate>Fri, 22 Dec 2023 15:32:58 +0000</pubDate>
 </item>
 <item>
@@ -87,10 +77,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/y84kgflrbz1x</link>
 <guid>https://status.meltwater.com/incidents/y84kgflrbz1x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>21:14</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Twitter content continues to flow in as expected.</p><p><small>Dec <var>21</var>, <var>10:40</var> UTC</small><br /><strong>Monitoring</strong> - Twitter ingestion has been restored to its normal state. We are closely monitoring the system and will keep you updated on the status.<br /><br />We apologize for any inconvenience caused and thank you for your patience.</p><p><small>Dec <var>21</var>, <var>06:40</var> UTC</small><br /><strong>Investigating</strong> - We have an ongoing service disruption at Twitter, which is causing a delay in receiving tweets.<br />We will continue to monitor and keep you updated on their progress.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 21:14:59 +0000</pubDate>
 <pubDate>Thu, 21 Dec 2023 21:14:59 +0000</pubDate>
 </item>
 <item>
@@ -98,10 +86,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/0vmkw5j4x1yz</link>
 <guid>https://status.meltwater.com/incidents/0vmkw5j4x1yz</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>16</var>, <var>15:45</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Dec <var>16</var>, <var>14:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Dec <var>13</var>, <var>15:42</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on Impact Reports this Saturday, December 16, beginning at 14:00 UTC (09:00 ET). This maintenance is expected to last approximately three hours.<br /><br />During this maintenance window customers may be unable to create Impact Reports successfully.<br /><br />Thank you for your patience during this maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sat, 16 Dec 2023 15:45:38 +0000</pubDate>
 <pubDate>Sat, 16 Dec 2023 15:45:38 +0000</pubDate>
 </item>
 <item>
@@ -109,10 +95,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/fgb8phz1gb2h</link>
 <guid>https://status.meltwater.com/incidents/fgb8phz1gb2h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>11</var>, <var>00:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var> 8</var>, <var>21:58</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var> 8</var>, <var>21:58</var> UTC</small><br /><strong>Update</strong> - Engineering has reported our third-party provider has resolved the Instagram publishing issue. Customers will be able to post Instagram Reels and Instagram Feed Posts.  <br /><br /> We'll continue to monitor the application and provide updates accordingly.</p><p><small>Dec <var> 8</var>, <var>17:38</var> UTC</small><br /><strong>Investigating</strong> - MI Engage is currently experiencing issues with Instagram video publishing, this is only affecting Instagram Reels and Instagram Feed posts. Engineering is aware of the issue and is working with Meta to resolve this issue.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Dec 2023 00:56:58 +0000</pubDate>
 <pubDate>Mon, 11 Dec 2023 00:56:58 +0000</pubDate>
 </item>
 <item>
@@ -120,10 +104,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/64xzqswptnkl</link>
 <guid>https://status.meltwater.com/incidents/64xzqswptnkl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var> 5</var>, <var>18:54</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. The login function continues to operate as expected.</p><p><small>Dec <var> 5</var>, <var>05:30</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has worked with the service provider to resolve the issue. All users should be able to log in successfully now. We will continue to monitor the application.<br /><br />We thank you for your patience and apologize for the inconvenience.</p><p><small>Dec <var> 5</var>, <var>01:29</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the Login page. Some users may be unable to log into the platform. Our Engineering team is currently investigating.<br /><br /><br />We apologize for the inconvenience and will continue to provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Dec 2023 18:54:59 +0000</pubDate>
 <pubDate>Tue, 05 Dec 2023 18:54:59 +0000</pubDate>
 </item>
 <item>
@@ -131,10 +113,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/3yx1x4b9jnvf</link>
 <guid>https://status.meltwater.com/incidents/3yx1x4b9jnvf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>31</var>, <var>12:48</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. The login function continues to operate as expected.</p><p><small>Oct <var>30</var>, <var>22:58</var> UTC</small><br /><strong>Monitoring</strong> - Login continues to function as expected. <br /><br />We'll continue monitoring the application and provide updates accordingly.</p><p><small>Oct <var>30</var>, <var>21:16</var> UTC</small><br /><strong>Update</strong> - Engineering has reported our third-party provider has resolved the login issue. <br /><br />We'll continue to monitor the application and provide updates accordingly.</p><p><small>Oct <var>30</var>, <var>20:32</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the login page. Some users may be unable to log into our Media Intelligence, Klear, and Radarly applications. Our Engineering team is currently investigating.<br /><br />We apologize for the inconvenience and will continue to provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 31 Oct 2023 12:48:00 +0000</pubDate>
 <pubDate>Tue, 31 Oct 2023 12:48:00 +0000</pubDate>
 </item>
 <item>
@@ -142,10 +122,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/p6fjyl9p5qtj</link>
 <guid>https://status.meltwater.com/incidents/p6fjyl9p5qtj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>19</var>, <var>09:30</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Explore searches continue to function as expected.<br /><br />Thank you for your patience.</p><p><small>Oct <var>18</var>, <var>14:20</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has implemented a fix and we are no longer seeing the error message on Explore while performing longer date-range searches.<br />We will monitor and provide updates accordingly.<br /><br />Thank you for your patience.</p><p><small>Oct <var>18</var>, <var>12:12</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue where users may see an error message on Explore while performing longer date-range searches.<br />Engineering is aware of the issue and is currently investigating. We will provide updates accordingly.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Thu, 19 Oct 2023 09:30:59 +0000</pubDate>
 <pubDate>Thu, 19 Oct 2023 09:30:59 +0000</pubDate>
 </item>
 <item>
@@ -153,10 +131,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/4khr9lz1hlnx</link>
 <guid>https://status.meltwater.com/incidents/4khr9lz1hlnx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Oct <var>12</var>, <var>14:54</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. The Newswires tab continues to load as expected.</p><p><small>Oct <var>11</var>, <var>20:04</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has implemented a fix and the Newswire tab should now be loading as expected. <br /><br />We will continue to monitor and provide updates accordingly.</p><p><small>Oct <var>11</var>, <var>19:13</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with the Newswire tab not loading. Engineering is currently investigating the issue. <br /><br />We apologize for the inconvenience and will provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Thu, 12 Oct 2023 14:54:59 +0000</pubDate>
 <pubDate>Thu, 12 Oct 2023 14:54:59 +0000</pubDate>
 </item>
 <item>
@@ -164,10 +140,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/kyy8r9ybvypd</link>
 <guid>https://status.meltwater.com/incidents/kyy8r9ybvypd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Sep <var>19</var>, <var>16:57</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Facebook and Instagram authentication is functioning as expected.<br /><br />Thank you for your patience.</p><p><small>Sep <var>18</var>, <var>16:49</var> UTC</small><br /><strong>Monitoring</strong> - The Engineering team has fixed the issue. Facebook and Instagram authentication is functioning as expected. <br />We will closely monitor the system and continue to provide updates. Thank you for your patience.</p><p><small>Sep <var>15</var>, <var>13:49</var> UTC</small><br /><strong>Update</strong> - Engineering continues to work towards a resolution for the Facebook and Instagram authentication issue.<br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Sep <var>14</var>, <var>20:58</var> UTC</small><br /><strong>Update</strong> - Our Engineering team continues to investigate the issue with authenticating Facebook and Instagram accounts in Klear.<br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Sep <var>14</var>, <var>13:52</var> UTC</small><br /><strong>Investigating</strong> - Klear users are currently experiencing issues with authenticating Facebook and Instagram accounts due to an API change by our third-party vendors. Accounts which are already connected are not affected. <br /><br />Our engineers are aware of it and are working to resolve this issue. We apologize for the inconvenience and we will provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Sep 2023 16:57:01 +0000</pubDate>
 <pubDate>Tue, 19 Sep 2023 16:57:01 +0000</pubDate>
 </item>
 <item>
@@ -175,10 +149,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/qyln6cf81ztc</link>
 <guid>https://status.meltwater.com/incidents/qyln6cf81ztc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>30</var>, <var>20:25</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Explore searches continue to function as expected.</p><p><small>Aug <var>29</var>, <var>14:51</var> UTC</small><br /><strong>Monitoring</strong> - The Engineering team has fixed the issue and Explore is functioning as expected.<br /><br />We will closely monitor the system and continue to provide updates.<br /><br />Thank you for your patience.</p><p><small>Aug <var>25</var>, <var>19:47</var> UTC</small><br /><strong>Update</strong> - Engineering continues to work to resolve this issue. Some users may experience intermittent errors while performing Explore searches.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Aug <var>24</var>, <var>07:56</var> UTC</small><br /><strong>Investigating</strong> - Our Engineering team continues to investigate performance issues with Explore. Users may see error messages while performing searches. <br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Aug <var>23</var>, <var>11:09</var> UTC</small><br /><strong>Monitoring</strong> - The Engineering team has fixed the issue and Explore is functioning as expected.<br />We will closely monitor the system and continue to provide updates.<br /><br />Thank you for your patience.</p><p><small>Aug <var>23</var>, <var>09:06</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing issues where users may see error messages while performing Explore searches.<br />We will provide updates accordingly. <br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Wed, 30 Aug 2023 20:25:59 +0000</pubDate>
 <pubDate>Wed, 30 Aug 2023 20:25:59 +0000</pubDate>
 </item>
 <item>
@@ -186,10 +158,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/p1bnlmnjj52b</link>
 <guid>https://status.meltwater.com/incidents/p1bnlmnjj52b</guid>
 <content:encoded><![CDATA[
-
 <p><small>Aug <var>12</var>, <var>02:02</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Aug <var>12</var>, <var>00:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Aug <var> 8</var>, <var>20:37</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on the Media Intelligence Engage database this Saturday, August 12th beginning at 12:00am UTC (8:00pm EDT Friday). The maintenance is expected to last three hours. During this time period, users will not be able to access the Owned or Paid connections page(s) within Social Connections.<br /><br />Thank you for your patience while we improve our platform.</p>
 ]]></content:encoded>
-<pubDate>Sat, 12 Aug 2023 02:02:34 +0000</pubDate>
 <pubDate>Sat, 12 Aug 2023 02:02:34 +0000</pubDate>
 </item>
 <item>
@@ -197,10 +167,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/zglc2qg75wyv</link>
 <guid>https://status.meltwater.com/incidents/zglc2qg75wyv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var>26</var>, <var>13:42</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Instagram and Facebook profiles continue to work as expected. <br /><br />Thank you for your patience.</p><p><small>Jul <var>25</var>, <var>20:59</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has corrected the issue affecting Instagram and Facebook Klear profiles. Users should also be able to authenticate their profiles without issue now. <br /><br />We will continue to monitor the platform.</p><p><small>Jul <var>25</var>, <var>19:54</var> UTC</small><br /><strong>Update</strong> - The engineering team continues to investigate issues affecting Instagram and Facebook profiles in the Klear platform. We will continue to provide updates accordingly.<br /><br />Thank you for your patience.</p><p><small>Jul <var>25</var>, <var>11:34</var> UTC</small><br /><strong>Update</strong> - Klear users may also experience issues with opening some profiles within the platform.<br /><br />Our engineers are currently working on a resolution. We will continue to provide updates accordingly.<br /><br />Thank you for your patience.</p><p><small>Jul <var>25</var>, <var>10:21</var> UTC</small><br /><strong>Investigating</strong> - Klear users are experiencing issues with (re) authenticating Instagram and accessing Instagram content. Users will receive the following errors:<br /><br />https://gyazo.com/b18a442aebfc59230a0d05ba222f3269<br /><br />https://gyazo.com/92380d452821be8fc08f1af577756c0f<br /><br />Klear engineers are aware of this issue and are investigating. <br /><br />We apologize for the inconvenience and we will provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jul 2023 13:42:00 +0000</pubDate>
 <pubDate>Wed, 26 Jul 2023 13:42:00 +0000</pubDate>
 </item>
 <item>
@@ -208,10 +176,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/4qv80fsjbszv</link>
 <guid>https://status.meltwater.com/incidents/4qv80fsjbszv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jul <var> 6</var>, <var>19:00</var> UTC</small><br /><strong>Resolved</strong> - This issue is now resolved. Monitored Social Connections continues to function as expected.</p><p><small>Jul <var> 5</var>, <var>18:28</var> UTC</small><br /><strong>Monitoring</strong> - Our Engineering team has resolved the issue affecting Monitored Social Connections. Users should now be able to reconnect their Instagram profiles.<br /><br />We will continue to monitor the system. Thank you for your patience.</p><p><small>Jun <var>30</var>, <var>19:35</var> UTC</small><br /><strong>Update</strong> - Our engineering team continues to work with Facebook Support toward a resolution. Users may encounter issues reconnecting their Instagram profiles in Monitored Social Connections.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>27</var>, <var>14:03</var> UTC</small><br /><strong>Update</strong> - Our engineering team continues to work with Facebook Support to resolve this issue. Users may be unable to reconnect Instagram profiles in Monitored Social Connections.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>22</var>, <var>11:46</var> UTC</small><br /><strong>Update</strong> - Our engineering team continues to work with Facebook Support toward a resolution. During this time users may encounter issues reconnecting their Instagram profiles in Monitored Social Connections.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>20</var>, <var>12:11</var> UTC</small><br /><strong>Update</strong> - Our engineering team continues to work with Facebook Support to resolve this issue. During this time users may be unable to reconnect their Instagram profiles in Monitored Social Connections. <br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>16</var>, <var>19:37</var> UTC</small><br /><strong>Update</strong> - We continue to work with Facebook Support to resolve this issue. During this time users may be unable to reconnect their Instagram profiles in Monitored Social Connections. <br /><br />Thank you for your patience.</p><p><small>Jun <var>16</var>, <var>12:58</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with Monitored Social Connections. Users may be unable to reconnect Instagram profiles. Engineering is aware of the issue and is working with Facebook to get this resolved.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Thu, 06 Jul 2023 19:00:02 +0000</pubDate>
 <pubDate>Thu, 06 Jul 2023 19:00:02 +0000</pubDate>
 </item>
 <item>
@@ -219,10 +185,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/nhxr06jrj3cg</link>
 <guid>https://status.meltwater.com/incidents/nhxr06jrj3cg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>21</var>, <var>20:00</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Insight Reports continue to generate as expected.</p><p><small>Jun <var>21</var>, <var>12:42</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has resolved the issue affecting Insight Reports generation. We will continue to monitor the application. <br /><br />Thank you for your patience.</p><p><small>Jun <var>20</var>, <var>11:58</var> UTC</small><br /><strong>Update</strong> - Our Engineering team continues to work on resolving this issue affecting Insight Reports generation. <br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>16</var>, <var>20:13</var> UTC</small><br /><strong>Update</strong> - Engineering continues to work towards resolving this issue. Users may experience delays or errors when generating Insight Reports.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>15</var>, <var>19:14</var> UTC</small><br /><strong>Update</strong> - Our Engineering team continues to investigate the issue affecting Insight Reports generation. We will continue to provide updates accordingly. <br /><br />Thank you for your patience.</p><p><small>Jun <var>15</var>, <var>06:45</var> UTC</small><br /><strong>Update</strong> - Engineering continues to work towards resolving this issue. Users may experience delays or errors when generating Insight Reports.<br /><br />We will continue to provide updates accordingly. Thank you for your patience.</p><p><small>Jun <var>14</var>, <var>19:50</var> UTC</small><br /><strong>Investigating</strong> - Users may experience delays or errors when generating Insight Reports. Engineering is currently investigating and we'll continue to provide updates accordingly.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Jun 2023 20:00:01 +0000</pubDate>
 <pubDate>Wed, 21 Jun 2023 20:00:01 +0000</pubDate>
 </item>
 <item>
@@ -230,10 +194,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/srwswx61469y</link>
 <guid>https://status.meltwater.com/incidents/srwswx61469y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var>17</var>, <var>10:12</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jun <var>17</var>, <var>08:31</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jun <var>13</var>, <var>14:08</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on the Media Intelligence platform this Saturday, June 17th, beginning at 08:30 UTC (04:30 ET). This maintenance is expected to last approximately one hour.<br /><br />During this maintenance window customers may not be able to run in-app CSV exports.<br /><br />Thank you for your patience during this maintenance.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Jun 2023 10:12:58 +0000</pubDate>
 <pubDate>Sat, 17 Jun 2023 10:12:58 +0000</pubDate>
 </item>
 <item>
@@ -241,10 +203,8 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/sr6h6t6pd306</link>
 <guid>https://status.meltwater.com/incidents/sr6h6t6pd306</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 8</var>, <var>15:28</var> UTC</small><br /><strong>Completed</strong> - We will be rescheduling this maintenance window at a later date.</p><p><small>Jun <var> 6</var>, <var>15:27</var> UTC</small><br /><strong>Scheduled</strong> - Our Engineering team will be performing maintenance on the Media Intelligence platform this Saturday, June 10, beginning at 08:30 UTC (04:30 ET). This maintenance is expected to last approximately one hour.<br /><br />During this maintenance window customers may not be able to run in-app CSV exports.<br /><br />Thank you for your patience during this maintenance.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Jun 2023 15:28:12 +0000</pubDate>
 <pubDate>Thu, 08 Jun 2023 15:28:12 +0000</pubDate>
 </item>
 <item>
@@ -252,12 +212,10 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/zjrq3sm289pv</link>
 <guid>https://status.meltwater.com/incidents/zjrq3sm289pv</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jun <var> 1</var>, <var>15:15</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. The Engage Conversations tab continues to work as expected. 
 <br />
 <br />Thank you for your patience.</p><p><small>May <var>31</var>, <var>11:56</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has resolved the issue and Engage Conversations tab is now functioning as expected. We will continue to monitor the status of the application.<br /><br />Thank you for your patience.</p><p><small>May <var>31</var>, <var>09:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with the Engage Conversation not loading in the application. Mobile users will also experience this issue. Engineering is currently investigating. <br /><br />We apologize for the inconvenience and will continue to provide updates.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Jun 2023 15:15:58 +0000</pubDate>
 <pubDate>Thu, 01 Jun 2023 15:15:58 +0000</pubDate>
 </item>
 <item>
@@ -265,12 +223,10 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/08s87dz5mbds</link>
 <guid>https://status.meltwater.com/incidents/08s87dz5mbds</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>24</var>, <var>19:09</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Daily Digest Reports continue to generate and send as expected.</p><p><small>May <var>24</var>, <var>10:04</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has resolved the issue and Daily Digest Reports are now sending as expected. We will continue to monitor the status of the application.
 <br />
 <br />Thank you for your patience.</p><p><small>May <var>24</var>, <var>09:26</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue where users are not receiving their daily digest reports.<br />Our engineering team is currently investigating this issue.<br /><br />We apologize for any inconvenience caused and we will continue to provide updates accordingly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 24 May 2023 19:09:01 +0000</pubDate>
 <pubDate>Wed, 24 May 2023 19:09:01 +0000</pubDate>
 </item>
 <item>
@@ -278,7 +234,6 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <link>https://status.meltwater.com/incidents/pk38vt4tq5ty</link>
 <guid>https://status.meltwater.com/incidents/pk38vt4tq5ty</guid>
 <content:encoded><![CDATA[
-
 <p><small>May <var>23</var>, <var>14:25</var> UTC</small><br /><strong>Resolved</strong> - After a period of monitoring, this issue is now resolved. Engage connections continue to function as expected.
 <br />
 <br />Thank you for your patience.</p><p><small>May <var>22</var>, <var>19:11</var> UTC</small><br /><strong>Monitoring</strong> - Engineering has resolved the issue and Engage is now functioning as expected. We will continue to monitor the status of the application.
@@ -286,8 +241,6 @@ Summary: Users may experience issues connecting or reconnecting their Instagram 
 <br />Thank you for your patience.</p><p><small>May <var>22</var>, <var>16:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an intermittent issue with the Engage application. Users may be unable to load Owned/Paid Social Connections, Conversations, Publish and Social Analytics. Engineering is currently investigating. Mobile users may also experience this issue.<br /><br />We apologize for the inconvenience and will continue to provide updates.</p>
 ]]></content:encoded>
 <pubDate>Tue, 23 May 2023 14:25:01 +0000</pubDate>
-<pubDate>Tue, 23 May 2023 14:25:01 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

@@ -35,3 +35,9 @@ Append: [InsightVM (AP) - Scheduled Maintenance](https://status.rapid7.com/incid
 Append: [Single Sign On degradation](https://status.rapid7.com/incidents/l88467vm1lr2)
 append_entries: 25
 Finish: 2024-02-23 11:37:22.431006
+------------------------------------------------------
+Started: 2024-02-23 12:11:45.332652
+Existing_entries: 25
+Fetching from https://status.rapid7.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:45.569411

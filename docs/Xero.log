@@ -35,3 +35,9 @@ Append: [Expenses - Some users are unable to create new expense claims](https://
 Append: [Global: Reporting - Customers unable to access reporting in Xero](https://status.xero.com/incidents/j8hjmdymnvn2)
 append_entries: 25
 Finish: 2024-02-23 11:36:04.444312
+------------------------------------------------------
+Started: 2024-02-23 12:11:32.619729
+Existing_entries: 25
+Fetching from https://status.xero.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:33.036925

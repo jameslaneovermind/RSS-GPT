@@ -35,3 +35,9 @@ Append: [CDP Control Plane: Maintenance: Dec 10th - 3 hours](https://status.clou
 Append: [We are investigating issues with the Data Warehouse web UI](https://status.cloudera.com/incidents/f438vj5pf67s)
 append_entries: 25
 Finish: 2024-02-23 11:36:36.271707
+------------------------------------------------------
+Started: 2024-02-23 12:11:39.889939
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:40.201186

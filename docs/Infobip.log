@@ -35,3 +35,9 @@ Append: [Multiple Locations - Online payments degradation](https://status.infobi
 Append: [Global (Germany) - Customer Portal login degradation](https://status.infobip.com/incidents/klp429slmymx)
 append_entries: 25
 Finish: 2024-02-23 11:36:08.255075
+------------------------------------------------------
+Started: 2024-02-23 12:11:33.058900
+Existing_entries: 25
+Fetching from https://status.infobip.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:33.364290

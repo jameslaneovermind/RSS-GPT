@@ -4,6 +4,29 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Intermittent Performance degradation on EM West 1 POD for Cloud Application Integration</title>
+<link>https://status.informatica.com/incidents/p10857lrvn59</link>
+<guid>https://status.informatica.com/incidents/p10857lrvn59</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Performance Degradation on EM West 1 POD <br><br> Summary: Performance degradation observed on EM West 1 POD for Cloud Application Integration, resulting in slower process executions and performance within the process designer. Currently being investigated as a top priority. <div>
+<p><small>Feb <var>23</var>, <var>04:04</var> PST</small><br /><strong>Investigating</strong> - We are observing performance degradation on EM West 1 POD for Cloud Application Integration. This can result in slower process executions and performance within the process designer. Our team is currently investigating this issue as a top priority.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 04:04:42 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 04:04:42 -0800</pubDate>
+</item>
+<item>
+<title>Intermittent issues with Taskflows on US east 4</title>
+<link>https://status.informatica.com/incidents/x2km6bbnvryg</link>
+<guid>https://status.informatica.com/incidents/x2km6bbnvryg</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Taskflows Intermittent Issues
+Summary: Intermittent issues with Taskflows observed on US east 4, impacting both runtime and design-time. Active resolution in progress. <div>
+<p><small>Feb <var>23</var>, <var>03:57</var> PST</small><br /><strong>Investigating</strong> - We are observing intermittent issues with Taskflows on US east 4. Both runtime and design-time is impacted. We are actively working on resolving this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 03:57:54 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 03:57:54 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance patch on US East 4 POD for Cloud Data Integration Taskflow</title>

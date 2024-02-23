@@ -4,17 +4,17 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+
 <item>
 <title>System Incident - Optum LYNX Outpatient Charge Capture Cloud - Production</title>
 <link>https://status.optum.com/incidents/lz48z5yg01vp</link>
 <guid>https://status.optum.com/incidents/lz48z5yg01vp</guid>
 <content:encoded><![CDATA[
 <div> ```html
-[High] - Connectivity Issues with Outpatient Charge Capture <br><br> Summary: Outpatient Charge Capture (LYNX) systems are operating as expected, but there are reports of connectivity issues impacting outbound charge data. Support teams are investigating the issue.
+[High] - Connectivity Issues with Outpatient Charge Capture <br /><br /> Summary: Outpatient Charge Capture (LYNX) systems are operating as expected, but there are reports of connectivity issues impacting outbound charge data. Support teams are investigating the issue.
 ``` <div>
 <p><small>Feb <var>22</var>, <var>09:02</var> CST</small><br /><strong>Resolved</strong> - Our teams have investigated reports of connectivity issues impacting outbound charge data. We have identified that Outpatient Charge Capture (LYNX) systems are operating as expected.  Please contact our support department if you are experiencing connectivity concerns related to your interfaces. Thank you for your patience as we worked to resolve this system incident.</p><p><small>Feb <var>22</var>, <var>07:13</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the Optum LYNX Outpatient Charge Capture Cloud product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 09:02:21 -0600</pubDate>
 <pubDate>Thu, 22 Feb 2024 09:02:21 -0600</pubDate>
 </item>
 <item>
@@ -30,7 +30,6 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <p><small>Feb <var>19</var>, <var>10:08</var> CST</small><br /><strong>Resolved</strong> - Our teams have restored full application functionality. The issue is resolved, thank you for your patience as we worked to resolve this system incident.</p><p><small>Feb <var>19</var>, <var>09:23</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the Optum LYNX Outpatient Charge Capture product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 19 Feb 2024 10:08:35 -0600</pubDate>
-<pubDate>Mon, 19 Feb 2024 10:08:35 -0600</pubDate>
 </item>
 <item>
 <title>System Incident - GNOSIS - Production</title>
@@ -38,11 +37,10 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <guid>https://status.optum.com/incidents/jt964tgctkw6</guid>
 <content:encoded><![CDATA[
 <div> ```html
-[Medium] - Potential GNOSIS Product Issue <br><br> Summary: The technology teams are currently investigating a potential issue with the GNOSIS product. Internal support teams are engaged to determine and resolve any impact.
+[Medium] - Potential GNOSIS Product Issue <br /><br /> Summary: The technology teams are currently investigating a potential issue with the GNOSIS product. Internal support teams are engaged to determine and resolve any impact.
 ``` <div>
 <p><small>Feb <var>17</var>, <var>17:25</var> CST</small><br /><strong>Resolved</strong> - Technology teams have restored access. Thank you for your patience as our teams worked to resolve this incident.</p><p><small>Feb <var>17</var>, <var>17:12</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the GNOSIS product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Sat, 17 Feb 2024 17:25:27 -0600</pubDate>
 <pubDate>Sat, 17 Feb 2024 17:25:27 -0600</pubDate>
 </item>
 <item>
@@ -50,10 +48,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/4gd5qtpt1b19</link>
 <guid>https://status.optum.com/incidents/4gd5qtpt1b19</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>17:29</var> CST</small><br /><strong>Resolved</strong> - ODX Engineering support aborted messages and restarted services on the Primary server to restore service.</p><p><small>Feb <var>16</var>, <var>15:51</var> CST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>16</var>, <var>15:45</var> CST</small><br /><strong>Update</strong> - ODX : Team has engaged InterSystems to determine why message processing stopped after failed back server A . We will provide our next update in approximately one hour.</p><p><small>Feb <var>16</var>, <var>12:39</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the OPTUM DATA EXCHANGE product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 17:29:27 -0600</pubDate>
 <pubDate>Fri, 16 Feb 2024 17:29:27 -0600</pubDate>
 </item>
 <item>
@@ -61,10 +57,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/v2yx9fcnksy9</link>
 <guid>https://status.optum.com/incidents/v2yx9fcnksy9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>13:57</var> CST</small><br /><strong>Resolved</strong> - Our teams have restored full application functionality. The issue is resolved, thank you for your patience as we worked to resolve this system incident.</p><p><small>Feb <var>14</var>, <var>12:27</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the OPTUM LYNX OUTPATIENT CHARGE CAPTURE CLOUD product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 13:57:29 -0600</pubDate>
 <pubDate>Wed, 14 Feb 2024 13:57:29 -0600</pubDate>
 </item>
 <item>
@@ -72,10 +66,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/dnn0wkvzg1wg</link>
 <guid>https://status.optum.com/incidents/dnn0wkvzg1wg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>23:41</var> CST</small><br /><strong>Resolved</strong> - This was manually shut down as part of CHG2133268 as they have moved to the cloud. The server should be powered off and will be decommissioned in the future.</p><p><small>Feb <var> 9</var>, <var>23:36</var> CST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 9</var>, <var>23:12</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the GNOSIS product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 23:41:15 -0600</pubDate>
 <pubDate>Fri, 09 Feb 2024 23:41:15 -0600</pubDate>
 </item>
 <item>
@@ -83,10 +75,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/d4d5t7gs48pj</link>
 <guid>https://status.optum.com/incidents/d4d5t7gs48pj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>17:45</var> CST</small><br /><strong>Resolved</strong> - Support teams executed a maintenance activity restart to the impacted section of the database environment to resolve the lock and restore service for users.</p><p><small>Feb <var> 8</var>, <var>15:30</var> CST</small><br /><strong>Update</strong> - Support teams are investigating why clinical data messaging is queuing for several tenants.</p><p><small>Feb <var> 8</var>, <var>15:15</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the multiple products.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 17:45:57 -0600</pubDate>
 <pubDate>Thu, 08 Feb 2024 17:45:57 -0600</pubDate>
 </item>
 <item>
@@ -94,10 +84,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/wz1k1ss3mm6d</link>
 <guid>https://status.optum.com/incidents/wz1k1ss3mm6d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>16:43</var> CST</small><br /><strong>Resolved</strong> - Optum technical teams have resolved the latency that was occurring for some users within the Enterprise Computer-Assisted Coding application. Thank you for your patience as our teams worked to resolve this issue.</p><p><small>Feb <var> 7</var>, <var>17:45</var> CST</small><br /><strong>Update</strong> - Optum technical teams have continued to investigate the latency that was occurring for some users within the Enterprise Computer-Assisted Coding application.  At this time the system is performing as expected and the reported latency has subsided.  We will continue to monitor through the night and provide another update tomorrow morning. Thank you for your patience as we continue to investigate.</p><p><small>Feb <var> 7</var>, <var>10:24</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the Enterprise CAC product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 16:43:37 -0600</pubDate>
 <pubDate>Thu, 08 Feb 2024 16:43:37 -0600</pubDate>
 </item>
 <item>
@@ -105,10 +93,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/p4y0kp8cryz5</link>
 <guid>https://status.optum.com/incidents/p4y0kp8cryz5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>11:45</var> CST</small><br /><strong>Resolved</strong> - The application support team disabled the affected permissions to restore service to the Optum Care Coordination Platform.</p><p><small>Feb <var> 1</var>, <var>11:40</var> CST</small><br /><strong>Update</strong> - Optum Care Coordination Platform continuity of care documents are not being displayed for some clinicians.  Support team is reviewing code and certificate for issues.</p><p><small>Feb <var> 1</var>, <var>11:35</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the Optum Care Coordination Platform product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 11:45:19 -0600</pubDate>
 <pubDate>Thu, 01 Feb 2024 11:45:19 -0600</pubDate>
 </item>
 <item>
@@ -116,10 +102,8 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/lg4hf2dgrs5m</link>
 <guid>https://status.optum.com/incidents/lg4hf2dgrs5m</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>05:00</var> CST</small><br /><strong>Resolved</strong> - Optum technical teams have resolved the issues impacting PIC and have validated the availability of the application. Thank you for your patience as our teams worked to resolve this issue.</p><p><small>Feb <var> 1</var>, <var>03:56</var> CST</small><br /><strong>Investigating</strong> - We have identified an issue with Payment Integrity Compass (PIC) rendering the application unavailable. We will provide updates as more information becomes available.<br />Impact: PIC application unavailable</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 05:00:16 -0600</pubDate>
 <pubDate>Thu, 01 Feb 2024 05:00:16 -0600</pubDate>
 </item>
 <item>
@@ -127,12 +111,9 @@ Summary: There is a potential issue with the Optum LYNX Outpatient Charge Captur
 <link>https://status.optum.com/incidents/yl1ss5y5h8b3</link>
 <guid>https://status.optum.com/incidents/yl1ss5y5h8b3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>29</var>, <var>08:47</var> CST</small><br /><strong>Resolved</strong> - Optum technical teams restarted the affected instance and have validated that the service is restored. We will be investigating with our 3rd party vendor to help prevent this from happening again. . Thank you for your patience as our teams worked to resolve this issue.</p><p><small>Jan <var>29</var>, <var>08:12</var> CST</small><br /><strong>Investigating</strong> - We are aware of an issue occurring within the Enterprise Computer-Assisted Coding application that is causing issues with the logic encoder, latency, and incorrect Patient Demographics.<br />Technical teams are engaged to resolve the issue and we will provide updates as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jan 2024 08:47:36 -0600</pubDate>
-<pubDate>Mon, 29 Jan 2024 08:47:36 -0600</pubDate>
 </item>
-
 </channel>
 </rss>

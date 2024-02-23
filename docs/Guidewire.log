@@ -35,3 +35,9 @@ Append: [GWCP Production APAC Tenant + Atmos (v.1.73)](https://status.guidewire
 Append: [GWCP Development and PreProduction APAC Tenant + Atmos (v.1.73)](https://status.guidewire.com/incidents/pzylrx8f0ffk)
 append_entries: 25
 Finish: 2024-02-23 11:36:12.491159
+------------------------------------------------------
+Started: 2024-02-23 12:11:33.383607
+Existing_entries: 25
+Fetching from https://status.guidewire.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:33.963675

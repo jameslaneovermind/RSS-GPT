@@ -35,3 +35,9 @@ Append: [Backfilling historical data for March 8, 2023 incident](https://status.
 Append: [GCP metrics delayed](https://status.datadoghq.com/incidents/7h8cxzqk8s6l)
 append_entries: 25
 Finish: 2024-02-23 11:35:49.452287
+------------------------------------------------------
+Started: 2024-02-23 12:11:29.582241
+Existing_entries: 25
+Fetching from https://status.datadoghq.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:29.929670

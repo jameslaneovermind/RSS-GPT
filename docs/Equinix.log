@@ -35,3 +35,9 @@ Append: [Link Failure (Metro Connect)](https://status.equinix.com/incidents/7klp
 Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/s5cb1mfqdr9b)
 append_entries: 25
 Finish: 2024-02-23 11:35:53.508492
+------------------------------------------------------
+Started: 2024-02-23 12:11:29.962631
+Existing_entries: 25
+Fetching from https://status.equinix.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:30.309775

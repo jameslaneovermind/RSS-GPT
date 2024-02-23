@@ -4,18 +4,18 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Unity Distribution Portal Dashboard access limited</title>
 <link>https://status.unity.com/incidents/185776</link>
 <guid>https://status.unity.com/incidents/185776</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Unity DevOps, Unity Distribution Portal <br><br> Summary: The dashboard is experiencing issues redirecting users to UDP services. More information will be provided as it becomes available. <div>
+<div> [Low] - Unity DevOps, Unity Distribution Portal <br /><br /> Summary: The dashboard is experiencing issues redirecting users to UDP services. More information will be provided as it becomes available. <div>
 <p><strong>Minor incident</strong> - Unity DevOps, Unity Distribution Portal</p><p><small>February 22, 2024 · 20:32 UTC</small><br /><strong>Issue</strong></p><p>
 We are investigating an issue reported by multiple users. The dashboard is no longer capable of redirecting users to UDP services. </p>
 <p>
 We will update the status when we have more information.</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 20:38:13 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 20:38:13 +0000</pubDate>
 </item>
 <item>
@@ -23,7 +23,7 @@ We will update the status when we have more information.</p>
 <link>https://status.unity.com/incidents/185597</link>
 <guid>https://status.unity.com/incidents/185597</guid>
 <content:encoded><![CDATA[
-<div> High - Parsec Signaling Service Major Incident <br><br> Summary: Parsec's signaling service experienced degraded performance for 40 minutes, but has since fully recovered. The issue was identified and investigated during the outage. <div>
+<div> High - Parsec Signaling Service Major Incident <br /><br /> Summary: Parsec's signaling service experienced degraded performance for 40 minutes, but has since fully recovered. The issue was identified and investigated during the outage. <div>
 <p><strong>Major incident</strong> - Parsec, Parsec API, Parsec Signaling Service</p><p><small>February 21, 2024 · 18:31 UTC</small><br /><strong>Resolved</strong></p><p>
 Between 2024-02-21 17:21 UTC and 2024-02-21 18:01 UTC, Parsec’s signaling service experienced a degraded performance. The service is fully recovered and the incident is resolved.</p>
 <hr /><p><small>February 21, 2024 · 18:13 UTC</small><br /><strong>Monitoring</strong></p><p>
@@ -32,20 +32,18 @@ We are seeing recovery of Parsec signaling services and are continuing to monito
 We’ve identified an issue which is currently affecting the Parsec Signaling Service. We are investigating this now.</p>
 ]]></content:encoded>
 <pubDate>Wed, 21 Feb 2024 18:38:30 +0000</pubDate>
-<pubDate>Wed, 21 Feb 2024 18:38:30 +0000</pubDate>
 </item>
 <item>
 <title>Service Unity ID/Login seems to be down</title>
 <link>https://status.unity.com/incidents/185333</link>
 <guid>https://status.unity.com/incidents/185333</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident - Websites, Unity ID/Login <br><br> Summary: The service has become unresponsive, and the company is currently investigating the issue. Service downtime impacts websites and Unity ID/Login. <div>
+<div> [High] - Major Incident - Websites, Unity ID/Login <br /><br /> Summary: The service has become unresponsive, and the company is currently investigating the issue. Service downtime impacts websites and Unity ID/Login. <div>
 <p><strong>Major incident</strong> - Websites, Unity ID/Login</p><p><small>February 20, 2024 · 16:07 UTC</small><br /><strong>Resolved</strong></p><p>
 Service is back up.</p>
 <hr /><p><small>February 20, 2024 · 16:05 UTC</small><br /><strong>Issue</strong></p><p>
 According to our monitoring system this service has become unresponsive, we’re investigating.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 16:07:20 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 16:07:20 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +51,11 @@ According to our monitoring system this service has become unresponsive, we’re
 <link>https://status.unity.com/incidents/185332</link>
 <guid>https://status.unity.com/incidents/185332</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Websites, Unity ID/Login</p><p><small>February 20, 2024 · 15:59 UTC</small><br /><strong>Resolved</strong></p><p>
 Service is back up.</p>
 <hr /><p><small>February 20, 2024 · 15:55 UTC</small><br /><strong>Issue</strong></p><p>
 According to our monitoring system this service has become unresponsive, we’re investigating.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 15:59:03 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 15:59:03 +0000</pubDate>
 </item>
 <item>
@@ -67,7 +63,6 @@ According to our monitoring system this service has become unresponsive, we’re
 <link>https://status.unity.com/incidents/184388</link>
 <guid>https://status.unity.com/incidents/184388</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Growth, User Acquisition</p><p><small>February 14, 2024 · 23:32 UTC</small><br /><strong>Resolved</strong></p><p>
 Traffic is back to normal and incident is resolved.</p>
 <hr /><p><small>February 14, 2024 · 23:19 UTC</small><br /><strong>Monitoring</strong></p><p>
@@ -76,14 +71,12 @@ Incident cause is identified and traffic is starting to return to normal.</p>
 We are currently experiencing a drop in traffic. We are investigating the issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 14 Feb 2024 23:33:12 +0000</pubDate>
-<pubDate>Wed, 14 Feb 2024 23:33:12 +0000</pubDate>
 </item>
 <item>
 <title>Source Access Maintenance</title>
 <link>https://status.unity.com/incidents/183238</link>
 <guid>https://status.unity.com/incidents/183238</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Scheduled maintenance</strong> - Unity Source Code, Source Code</p><p><small>February 12, 2024 · 09:39 UTC</small><br /><strong>Monitoring</strong></p><p>
 Upgrade complete.</p>
 <hr /><p><small>February 12, 2024 · 09:19 UTC</small><br /><strong>Update</strong></p><p>
@@ -92,20 +85,17 @@ Planned downtime extended by 30 minutes.</p>
 Access to Unity source code will be unavailable due to scheduled upgrades.</p>
 ]]></content:encoded>
 <pubDate>Mon, 12 Feb 2024 09:46:40 +0000</pubDate>
-<pubDate>Mon, 12 Feb 2024 09:46:40 +0000</pubDate>
 </item>
 <item>
 <title>Service Unity ID/Login seems to be down</title>
 <link>https://status.unity.com/incidents/183402</link>
 <guid>https://status.unity.com/incidents/183402</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Websites, Unity ID/Login</p><p><small>February  9, 2024 · 15:21 UTC</small><br /><strong>Resolved</strong></p><p>
 Service is back up.</p>
 <hr /><p><small>February  9, 2024 · 13:03 UTC</small><br /><strong>Issue</strong></p><p>
 According to our monitoring system this service has become unresponsive, we’re investigating.</p>
 ]]></content:encoded>
-<pubDate>Fri, 9 Feb 2024 15:21:04 +0000</pubDate>
 <pubDate>Fri, 9 Feb 2024 15:21:04 +0000</pubDate>
 </item>
 <item>
@@ -113,11 +103,9 @@ According to our monitoring system this service has become unresponsive, we’re
 <link>https://status.unity.com/incidents/182774</link>
 <guid>https://status.unity.com/incidents/182774</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Scheduled maintenance</strong> - Unity Source Code, Source Code</p><p><small>February  5, 2024 · 11:59 UTC</small><br /><strong>Scheduled</strong></p><p>
 Access to Unity source code will be unavailable due to scheduled upgrades.</p>
 ]]></content:encoded>
-<pubDate>Wed, 7 Feb 2024 09:30:00 +0000</pubDate>
 <pubDate>Wed, 7 Feb 2024 09:30:00 +0000</pubDate>
 </item>
 <item>
@@ -125,7 +113,6 @@ Access to Unity source code will be unavailable due to scheduled upgrades.</p>
 <link>https://status.unity.com/incidents/182973</link>
 <guid>https://status.unity.com/incidents/182973</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Multiplayer, Matchmaker</p><p><small>February  6, 2024 · 15:35 UTC</small><br /><strong>Resolved</strong></p><p>
 Matchmaker Backfills went back to normal after the fix has been applied. The incident has been resolved.</p>
 <hr /><p><small>February  6, 2024 · 15:20 UTC</small><br /><strong>Monitoring</strong></p><p>
@@ -134,20 +121,17 @@ The fix is live for Matchmaker Backfill and the timeouts are back to normal. We 
 There is an issue affecting the Matchmaker Backfill feature. The Backfills are taking more time and timing out more often than usual. The fix will be completed in the next minutes to an hour.</p>
 ]]></content:encoded>
 <pubDate>Tue, 6 Feb 2024 15:37:32 +0000</pubDate>
-<pubDate>Tue, 6 Feb 2024 15:37:32 +0000</pubDate>
 </item>
 <item>
 <title>Service Unity ID/Login seems to be down</title>
 <link>https://status.unity.com/incidents/182076</link>
 <guid>https://status.unity.com/incidents/182076</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Websites, Unity ID/Login</p><p><small>January 31, 2024 · 19:29 UTC</small><br /><strong>Resolved</strong></p><p>
 Service is back up.</p>
 <hr /><p><small>January 31, 2024 · 19:28 UTC</small><br /><strong>Issue</strong></p><p>
 According to our monitoring system this service has become unresponsive, we’re investigating.</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 19:29:04 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 19:29:04 +0000</pubDate>
 </item>
 <item>
@@ -155,7 +139,6 @@ According to our monitoring system this service has become unresponsive, we’re
 <link>https://status.unity.com/incidents/181553</link>
 <guid>https://status.unity.com/incidents/181553</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Analytics, Legacy, Data Collection</p><p><small>January 29, 2024 · 10:47 UTC</small><br /><strong>Resolved</strong></p><p>
 Legacy Analytics data injestion speed has been restored to its normal level.</p>
 <hr /><p><small>January 28, 2024 · 17:02 UTC</small><br /><strong>Investigating</strong></p><p>
@@ -166,14 +149,12 @@ We are currently experiencing slower-than-usual event ingestion speeds. Our team
 During this period, you may notice delays in the processing and ingestion of events into our system. This could result in a slight lag in updates related to your account.</p>
 ]]></content:encoded>
 <pubDate>Mon, 29 Jan 2024 10:49:48 +0000</pubDate>
-<pubDate>Mon, 29 Jan 2024 10:49:48 +0000</pubDate>
 </item>
 <item>
 <title>Parsec - Degraded services</title>
 <link>https://status.unity.com/incidents/181403</link>
 <guid>https://status.unity.com/incidents/181403</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Parsec, Parsec Signaling Service</p><p><small>January 26, 2024 · 22:02 UTC</small><br /><strong>Resolved</strong></p><p>
 Between 2024-01-26 20:49 UTC and 2024-01-26 20:56 UTC, Parsec’s signaling service experienced a false DDoS alert that blocked connections for 7 minutes. The service is fully recovered and the incident is resolved.</p>
 <hr /><p><small>January 26, 2024 · 21:39 UTC</small><br /><strong>Monitoring</strong></p><p>
@@ -182,20 +163,17 @@ Parsec signaling service is back to operational status. We will continue to moni
 Parsec signaling service is currently experiencing a degraded performance with surge in activities. Engineering team is aware of the issues and is actively working on a resolution.</p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Jan 2024 22:02:42 +0000</pubDate>
-<pubDate>Fri, 26 Jan 2024 22:02:42 +0000</pubDate>
 </item>
 <item>
 <title>Maintenance on Unity Source Code service</title>
 <link>https://status.unity.com/incidents/181197</link>
 <guid>https://status.unity.com/incidents/181197</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Scheduled maintenance</strong> - Unity Source Code, Source Code</p><p><small>January 25, 2024 · 20:51 UTC</small><br /><strong>Resolved</strong></p><p>
 This maintenance has been completed.</p>
 <hr /><p><small>January 25, 2024 · 19:41 UTC</small><br /><strong>Scheduled</strong></p><p>
 We are performing maintenance on the service providing access to Unity Source Code. The service will be intermittently unavailable.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 20:51:48 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 20:51:48 +0000</pubDate>
 </item>
 <item>
@@ -203,13 +181,11 @@ We are performing maintenance on the service providing access to Unity Source Co
 <link>https://status.unity.com/incidents/180435</link>
 <guid>https://status.unity.com/incidents/180435</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Scheduled maintenance</strong> - Editor Services, Editor Downloads</p><p><small>January 23, 2024 · 08:30 UTC</small><br /><strong>Resolved</strong></p><p>
 This maintenance has been completed.</p>
 <hr /><p><small>January 22, 2024 · 14:30 UTC</small><br /><strong>Scheduled</strong></p><p>
 We are performing maintenance on Unity’s Editor download infrastructure. Some download targets may be unavailable for up to 10 minutes.</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 08:36:24 +0000</pubDate>
 <pubDate>Tue, 23 Jan 2024 08:36:24 +0000</pubDate>
 </item>
 <item>
@@ -217,13 +193,11 @@ We are performing maintenance on Unity’s Editor download infrastructure. Some 
 <link>https://status.unity.com/incidents/178874</link>
 <guid>https://status.unity.com/incidents/178874</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Major incident</strong> - Unity Source Code, Source Code</p><p><small>January 15, 2024 · 11:36 UTC</small><br /><strong>Resolved</strong></p><p>
 Service is back up.</p>
 <hr /><p><small>January 13, 2024 · 02:05 UTC</small><br /><strong>Issue</strong></p><p>
 According to our monitoring system this service has become unresponsive, we’re investigating.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 11:36:46 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 11:36:46 +0000</pubDate>
 </item>
 <item>
@@ -231,13 +205,11 @@ According to our monitoring system this service has become unresponsive, we’re
 <link>https://status.unity.com/incidents/178873</link>
 <guid>https://status.unity.com/incidents/178873</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Unity Source Code, Source Code</p><p><small>January 15, 2024 · 12:44 UTC</small><br /><strong>Resolved</strong></p><p>
 Issue resolved. Service has been re-established.</p>
 <hr /><p><small>January 13, 2024 · 02:03 UTC</small><br /><strong>Investigating</strong></p><p>
 We’ve identified an issue which is currently affecting Unity Source Code. We are investigating this now.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 12:45:52 +0000</pubDate>
 <pubDate>Mon, 15 Jan 2024 12:45:52 +0000</pubDate>
 </item>
 <item>
@@ -245,7 +217,6 @@ We’ve identified an issue which is currently affecting Unity Source Code. We a
 <link>https://status.unity.com/incidents/178824</link>
 <guid>https://status.unity.com/incidents/178824</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Analytics, Gaming Services, Dashboards and Reporting</p><p><small>February  1, 2024 · 11:56 UTC</small><br /><strong>Resolved</strong></p><p>
 We’ve been able to resolve the issue with the assistance of our data provider, and execution times are back to the levels we would expect.</p>
 <p>
@@ -257,18 +228,15 @@ At this time we’re contact with our database provider to manage the issue.</p>
 There is no impact to data collection.</p>
 ]]></content:encoded>
 <pubDate>Thu, 1 Feb 2024 11:58:32 +0000</pubDate>
-<pubDate>Thu, 1 Feb 2024 11:58:32 +0000</pubDate>
 </item>
 <item>
 <title>Parsec - Decreased Availability</title>
 <link>https://status.unity.com/incidents/177328</link>
 <guid>https://status.unity.com/incidents/177328</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Parsec, Parsec API</p><p><small>January  5, 2024 · 21:09 UTC</small><br /><strong>Retroactive</strong></p><p>
 The primary parsec database encountered a table locking issue which resulted in decreased availability. The issue has been resolved and we apologize for any interruptions it may have caused.</p>
 ]]></content:encoded>
-<pubDate>Fri, 5 Jan 2024 21:23:49 +0000</pubDate>
 <pubDate>Fri, 5 Jan 2024 21:23:49 +0000</pubDate>
 </item>
 <item>
@@ -276,13 +244,11 @@ The primary parsec database encountered a table locking issue which resulted in 
 <link>https://status.unity.com/incidents/177010</link>
 <guid>https://status.unity.com/incidents/177010</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Growth, User Acquisition</p><p><small>January  4, 2024 · 08:33 UTC</small><br /><strong>Resolved</strong></p><p>
 Data has been fixed.</p>
 <hr /><p><small>January  3, 2024 · 08:31 UTC</small><br /><strong>Investigating</strong></p><p>
 Post-install reporting metrics are abnormal. We are aware and working on resolving this issue. Affected products are Reporting Dashboard and Report Builder. No data loss.</p>
 ]]></content:encoded>
-<pubDate>Thu, 4 Jan 2024 08:40:41 +0000</pubDate>
 <pubDate>Thu, 4 Jan 2024 08:40:41 +0000</pubDate>
 </item>
 <item>
@@ -290,7 +256,6 @@ Post-install reporting metrics are abnormal. We are aware and working on resolvi
 <link>https://status.unity.com/incidents/175491</link>
 <guid>https://status.unity.com/incidents/175491</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Multiplayer, Multiplay, Game Server Hosting (UDash)</p><p><small>December 27, 2023 · 15:08 UTC</small><br /><strong>Update</strong></p><p>
 We have noticed that users who had attempted to upload during the incident are now unable to upload to their targetted builds.</p>
 <p>
@@ -303,14 +268,12 @@ UGS Game Server Hosting Build uploads are currently experiencing issues during t
 This is not affecting live builds, only the upload of new build images.</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Dec 2023 15:10:06 +0000</pubDate>
-<pubDate>Wed, 27 Dec 2023 15:10:06 +0000</pubDate>
 </item>
 <item>
 <title>Unity ID is down, Unity Hub and Unity Cloud also affected</title>
 <link>https://status.unity.com/incidents/173846</link>
 <guid>https://status.unity.com/incidents/173846</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Websites, Unity Dashboard, Unity ID/Login</p><p><small>December 14, 2023 · 14:17 UTC</small><br /><strong>Resolved</strong></p><p>
 The issue has been resolved.</p>
 <hr /><p><small>December 14, 2023 · 12:44 UTC</small><br /><strong>De-escalate</strong></p><p>
@@ -329,14 +292,12 @@ users who are logged into Unity Cloud cannot create or update projects or organi
 We are having issues with Unity ID that is impacting login to many of our products, including Unity Hub and Unity Cloud dashboard. The team is actively working on resolving the issue. We apologize for the troubles</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Dec 2023 14:17:50 +0000</pubDate>
-<pubDate>Thu, 14 Dec 2023 14:17:50 +0000</pubDate>
 </item>
 <item>
 <title>Parsec Extended Maintenance</title>
 <link>https://status.unity.com/incidents/172269</link>
 <guid>https://status.unity.com/incidents/172269</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Parsec, Parsec API, Parsec Billing, Parsec Signaling Service</p><p><small>December  7, 2023 · 19:13 UTC</small><br /><strong>Post-mortem</strong></p><h2>
 Summary</h2>
 <p>
@@ -359,14 +320,12 @@ We’re starting to see services recover and will keep monitoring.</p>
 Parsec is extending a previously scheduled maintenance window to complete necessary changes and restore service.</p>
 ]]></content:encoded>
 <pubDate>Thu, 7 Dec 2023 19:35:29 +0000</pubDate>
-<pubDate>Thu, 7 Dec 2023 19:35:29 +0000</pubDate>
 </item>
 <item>
 <title>Parsec Maintenance</title>
 <link>https://status.unity.com/incidents/171384</link>
 <guid>https://status.unity.com/incidents/171384</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Scheduled maintenance</strong> - Parsec, Parsec API, Parsec Billing, Parsec Signaling Service</p><p><small>November 30, 2023 · 21:36 UTC</small><br /><strong>Scheduled</strong></p><p>
 Parsec will be performing scheduled maintenance on Monday, December 4th 2023. During the maintenance window we’re working on some key tasks that bring us a step closer to multi-region, fault tolerant infrastructure. This maintenance will also help lay the groundwork so future maintenance windows are shorter, more predictable, and can be planned for without disrupting the user experience. As this will be a heavier lift than previous maintenance windows we anticipate an extended period of downtime.</p>
 <p>
@@ -377,18 +336,15 @@ Central European - Tuesday, Dec 5th, 4:00 am - 8:00 am CET  <br />
 Universal - Tuesday, Dec 5th 3:00 am - 7:00 am UTC</p>
 ]]></content:encoded>
 <pubDate>Tue, 5 Dec 2023 07:00:00 +0000</pubDate>
-<pubDate>Tue, 5 Dec 2023 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Unity projects cannot be created through public APIs</title>
 <link>https://status.unity.com/incidents/173841</link>
 <guid>https://status.unity.com/incidents/173841</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Monetization, Websites, Unity Dashboard</p><p><small>December 14, 2023 · 11:31 UTC</small><br /><strong>Retroactive</strong></p><p>
 We had a faulty deployment that made it impossible for new projects to be created through the public APIs. This affected our customers in monetization. The issue is now resolved and the fix is confirmed.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Dec 2023 11:33:22 +0000</pubDate>
 <pubDate>Thu, 14 Dec 2023 11:33:22 +0000</pubDate>
 </item>
 <item>
@@ -396,13 +352,11 @@ We had a faulty deployment that made it impossible for new projects to be create
 <link>https://status.unity.com/incidents/172163</link>
 <guid>https://status.unity.com/incidents/172163</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Growth, User Acquisition</p><p><small>December  4, 2023 · 17:26 UTC</small><br /><strong>Resolved</strong></p><p>
 Data has been recovered</p>
 <hr /><p><small>December  4, 2023 · 16:39 UTC</small><br /><strong>Investigating</strong></p><p>
 Some reporting metrics are showing a delay on the dashboard. We’re aware and working on resolving this issue. No data loss.</p>
 ]]></content:encoded>
-<pubDate>Mon, 4 Dec 2023 17:27:09 +0000</pubDate>
 <pubDate>Mon, 4 Dec 2023 17:27:09 +0000</pubDate>
 </item>
 <item>
@@ -410,7 +364,6 @@ Some reporting metrics are showing a delay on the dashboard. We’re aware and w
 <link>https://status.unity.com/incidents/166581</link>
 <guid>https://status.unity.com/incidents/166581</guid>
 <content:encoded><![CDATA[
-
 <p><strong>Minor incident</strong> - Multiplayer, Multiplay, Multiplay API, Game Server Hosting (UDash), Clanforge</p><p><small>December  8, 2023 · 16:43 UTC</small><br /><strong>Resolved</strong></p><p>
 Download timeout increased and bandwidth dedicated to file downloads has also been increased in order to mitigate issues.</p>
 <hr /><p><small>November 10, 2023 · 12:54 UTC</small><br /><strong>Issue</strong></p><p>
@@ -425,8 +378,6 @@ If you are having trouble retriving filesplease contact us via the usual <a href
 Once tested and deployed this post will be updated.</p>
 ]]></content:encoded>
 <pubDate>Fri, 8 Dec 2023 16:44:12 +0000</pubDate>
-<pubDate>Fri, 8 Dec 2023 16:44:12 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

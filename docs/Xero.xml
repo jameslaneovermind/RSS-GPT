@@ -4,6 +4,7 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+
 <item>
 <title>Global: Reports - Customers are unable to load Reports</title>
 <link>https://status.xero.com/incidents/c6y8rpgtqt2y</link>
@@ -19,7 +20,6 @@ A product release caused Reports to become unavailable, impacting customer acces
 <p><small>Feb <var>23</var>, <var>03:41</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue impacting customers trying to access Reports. We apologise for any inconvenience this has caused. <br /><br />A product release caused Reports to become unavailable. We've rolled back the release and services are back to normal.</p><p><small>Feb <var>23</var>, <var>03:28</var> UTC</small><br /><strong>Identified</strong> - We have identified what is impacting customers trying to access Reports. This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 3:27am UTC</p><p><small>Feb <var>23</var>, <var>03:07</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>23</var>, <var>03:04</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers trying to access Reports are experiencing errors. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 3:03am UTC</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 03:41:08 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 03:41:08 +0000</pubDate>
 </item>
 <item>
 <title>NZ and AU: Xero Tax - Customers may be experiencing intermittent errors</title>
@@ -32,18 +32,16 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <p><small>Feb <var>22</var>, <var>02:52</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the intermittent issues impacting NZ and AU customers trying to access Xero Tax. We apologise for any inconvenience this has caused.<br /><br />This related to a third party provider that our service relies on which meant Xero customers were also impacted.</p><p><small>Feb <var>22</var>, <var>02:24</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 2:24am UTC</p><p><small>Feb <var>22</var>, <var>00:48</var> UTC</small><br /><strong>Investigating</strong> - We are aware NZ and AU customers trying to access Xero Tax are experiencing intermittent errors. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 2:09am UTC</p>
 ]]></content:encoded>
 <pubDate>Thu, 22 Feb 2024 02:52:10 +0000</pubDate>
-<pubDate>Thu, 22 Feb 2024 02:52:10 +0000</pubDate>
 </item>
 <item>
 <title>Global: XPM - Customers may be unable to access XPM</title>
 <link>https://status.xero.com/incidents/48hjd39t1lxz</link>
 <guid>https://status.xero.com/incidents/48hjd39t1lxz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigating Issue with XPM <br><br> Summary: Customers trying to access XPM may experience an error message. The team is urgently investigating the issue impacting customers. A fix has been implemented and is currently being monitored.
+<div> [High] - Investigating Issue with XPM <br /><br /> Summary: Customers trying to access XPM may experience an error message. The team is urgently investigating the issue impacting customers. A fix has been implemented and is currently being monitored.
  <div>
 <p><small>Feb <var>22</var>, <var>02:13</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue impacting customers trying to access XPM. We apologise for any inconvenience this has caused.<br /><br />This related to a third party provider that our service relies on which meant Xero customers were also impacted.</p><p><small>Feb <var>22</var>, <var>01:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 1:58am UTC</p><p><small>Feb <var>22</var>, <var>01:07</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers trying to access XPM may experience an error message. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:36am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 22 Feb 2024 02:13:48 +0000</pubDate>
 <pubDate>Thu, 22 Feb 2024 02:13:48 +0000</pubDate>
 </item>
 <item>
@@ -51,10 +49,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/r101cgf3gx55</link>
 <guid>https://status.xero.com/incidents/r101cgf3gx55</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>20</var>, <var>00:08</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing customers to be unable to access PLS/ELS Management in AU Tax. This was caused by a problem with a recent change which has now been fixed. We apologise for any inconvenience this has caused.</p><p><small>Feb <var>19</var>, <var>23:53</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 11:53 pm UTC</p><p><small>Feb <var>19</var>, <var>23:48</var> UTC</small><br /><strong>Identified</strong> - We have identified what is preventing customers from accessing PLS/ELS Management in AU Tax.<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 11:47 pm UTC</p><p><small>Feb <var>19</var>, <var>23:15</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers are receiving an error message when trying to access PLS/ELS Management in AU Tax. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 11:14 pm UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 00:08:48 +0000</pubDate>
 <pubDate>Tue, 20 Feb 2024 00:08:48 +0000</pubDate>
 </item>
 <item>
@@ -62,10 +58,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/tgyjrd4f27sj</link>
 <guid>https://status.xero.com/incidents/tgyjrd4f27sj</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>18</var>, <var>23:45</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>18</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>15</var>, <var>11:47</var> UTC</small><br /><strong>Scheduled</strong> - HMRC is undergoing scheduled system maintenance for the MTD VAT service from 6am to 11:45pm UTC on Sunday 18th of February 2024. During this time, customers may be unable to access the VAT registration, claim VAT enrolment, and VAT view and change services. Please refer to the HMRC website for further information: https://www.gov.uk/government/publications/vat-online-service-availability-and-issues/vat-online-service-availability-and-issues</p>
 ]]></content:encoded>
-<pubDate>Sun, 18 Feb 2024 23:45:56 +0000</pubDate>
 <pubDate>Sun, 18 Feb 2024 23:45:56 +0000</pubDate>
 </item>
 <item>
@@ -73,10 +67,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/km4mg4r86dj5</link>
 <guid>https://status.xero.com/incidents/km4mg4r86dj5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>18</var>, <var>22:39</var> UTC</small><br /><strong>Resolved</strong> - Our team was aware of an issue causing customers to experience degraded performance in XPM on Saturday 5:30 am UTC. This has now been resolved. We apologise for any inconvenience this has caused. <br /><br />This issue was caused due to a higher than normal amount of requests to our system which resulted in performance issues.</p>
 ]]></content:encoded>
-<pubDate>Sun, 18 Feb 2024 22:39:55 +0000</pubDate>
 <pubDate>Sun, 18 Feb 2024 22:39:55 +0000</pubDate>
 </item>
 <item>
@@ -84,10 +76,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/xggz299781zn</link>
 <guid>https://status.xero.com/incidents/xggz299781zn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>16</var>, <var>05:08</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue that has been impacting Hubdoc. This issue related to network connectivity issue which our team was able to implement a fix which resolved customer impact. We apologise for any inconvenience this has caused.</p><p><small>Feb <var>16</var>, <var>04:57</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 4.57am UTC</p><p><small>Feb <var>16</var>, <var>03:56</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of these issues impacting Hubdoc.<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 3.55am UTC</p><p><small>Feb <var>16</var>, <var>03:34</var> UTC</small><br /><strong>Investigating</strong> - We are aware that customers may be experiencing issues with Hubdoc. This relates to longer than expected document extraction times. There is also an issue that is impacting our CX team's ability to respond to customer raised cases. <br /><br />We are working on this with high priority, and we apologise for any inconvenience.</p>
 ]]></content:encoded>
-<pubDate>Fri, 16 Feb 2024 05:08:07 +0000</pubDate>
 <pubDate>Fri, 16 Feb 2024 05:08:07 +0000</pubDate>
 </item>
 <item>
@@ -95,10 +85,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/mmvrxq65yxk5</link>
 <guid>https://status.xero.com/incidents/mmvrxq65yxk5</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>04:45</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing customers to experiencing degraded performance in XPM and Xero HQ. We apologise for any inconvenience this has caused. <br /><br />This issue was caused due to a higher than normal amount of requests to our system which resulted in performance issues.</p><p><small>Feb <var>15</var>, <var>03:44</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>15</var>, <var>03:44</var> UTC</small><br /><strong>Identified</strong> - We have identified what is causing some customers to experience degraded performance in XPM & Xero HQ.<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 3:43 am UTC</p><p><small>Feb <var>15</var>, <var>02:37</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers may be experiencing degraded performance in XPM and Xero HQ. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 2:36am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 04:45:05 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 04:45:05 +0000</pubDate>
 </item>
 <item>
@@ -106,10 +94,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/p8qw5nmy6yky</link>
 <guid>https://status.xero.com/incidents/p8qw5nmy6yky</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>15</var>, <var>03:34</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue that was causing delays to client access changes in XeroHQ. This issue was caused due to a higher than normal amount of requests to our system which resulted in the delay to client access changes. <br />We apologise for any inconvenience this has caused.</p><p><small>Feb <var>15</var>, <var>03:32</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Feb <var>14</var>, <var>21:08</var> UTC</small><br /><strong>Identified</strong> - We’re currently aware that Practices that have made client access changes in Xero HQ are experiencing a delay in these changes being made.<br /><br />Our team has identified the cause of this issue and are in the process of implementing a fix. <br /><br />We apologise for the inconvenience.<br /><br /><b>Status Last Reviewed:</b> 2.02am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 15 Feb 2024 03:34:13 +0000</pubDate>
 <pubDate>Thu, 15 Feb 2024 03:34:13 +0000</pubDate>
 </item>
 <item>
@@ -117,10 +103,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/c5qnrjk3935y</link>
 <guid>https://status.xero.com/incidents/c5qnrjk3935y</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>12</var>, <var>04:22</var> UTC</small><br /><strong>Resolved</strong> - The ATO has resolved the issue where customers may have been experiencing issues with Activity Statements in Xero. We apologise for any inconvenience this has caused.</p><p><small>Feb <var>12</var>, <var>03:18</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers may be experiecing issues with Activity Statements in Xero. This appears to be an issue on the ATO's end. <br /><br /><b>Status Last Reviewed:</b> 3:17 am UTC</p>
 ]]></content:encoded>
-<pubDate>Mon, 12 Feb 2024 04:22:56 +0000</pubDate>
 <pubDate>Mon, 12 Feb 2024 04:22:56 +0000</pubDate>
 </item>
 <item>
@@ -128,10 +112,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/svpm6mnvrfwf</link>
 <guid>https://status.xero.com/incidents/svpm6mnvrfwf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>10</var>, <var>21:30</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>10</var>, <var>21:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var> 8</var>, <var>02:33</var> UTC</small><br /><strong>Scheduled</strong> - Xero will be conducting system maintenance on the Expenses feature from 9:00 pm UTC until 9:30pm UTC on Saturday, 10 February 2024. <br /><br />During this time, customers will be unable to access Expenses in Xero, including all of its services on both web and mobile apps.</p>
 ]]></content:encoded>
-<pubDate>Sat, 10 Feb 2024 21:30:56 +0000</pubDate>
 <pubDate>Sat, 10 Feb 2024 21:30:56 +0000</pubDate>
 </item>
 <item>
@@ -139,10 +121,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/yjb4t3c6vmr6</link>
 <guid>https://status.xero.com/incidents/yjb4t3c6vmr6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 9</var>, <var>01:13</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing customers to receive error messages when trying to run depreciation. This was caused by a recent change that has since been reverted to resolve the issue. We apologise for any inconvenience this has caused.</p><p><small>Feb <var> 9</var>, <var>01:08</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 1:08 am UTC</p><p><small>Feb <var> 8</var>, <var>23:58</var> UTC</small><br /><strong>Identified</strong> - We have identified what is causing some customers to receive error messages when attempting to run depreciation in Fixed Assets.<br /><br />This is our top priority and we will update you as soon as we can.<br /><br /><b>Status Last Reviewed:</b> 11:57pm UTC</p><p><small>Feb <var> 8</var>, <var>23:45</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers may be receiving error messages when attempting to run depreciation in Fixed Assets. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 11:44pm UTC</p>
 ]]></content:encoded>
-<pubDate>Fri, 09 Feb 2024 01:13:09 +0000</pubDate>
 <pubDate>Fri, 09 Feb 2024 01:13:09 +0000</pubDate>
 </item>
 <item>
@@ -150,10 +130,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/dv7038y40cpn</link>
 <guid>https://status.xero.com/incidents/dv7038y40cpn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 2</var>, <var>05:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 2</var>, <var>01:05</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to navigate in Fixed Assets are experiencing performance issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:05am UTC</p>
 ]]></content:encoded>
-<pubDate>Fri, 02 Feb 2024 05:05:08 +0000</pubDate>
 <pubDate>Fri, 02 Feb 2024 05:05:08 +0000</pubDate>
 </item>
 <item>
@@ -161,10 +139,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/rbhjhbg9s1vy</link>
 <guid>https://status.xero.com/incidents/rbhjhbg9s1vy</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 1</var>, <var>03:22</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue impacting XPM invites being received. We apologise for any inconvenience this has caused.</p><p><small>Feb <var> 1</var>, <var>02:58</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 2:57am UTC</p><p><small>Feb <var> 1</var>, <var>01:26</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var> 1</var>, <var>00:55</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers may not receive email invites in XPM. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:26am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 01 Feb 2024 03:22:34 +0000</pubDate>
 <pubDate>Thu, 01 Feb 2024 03:22:34 +0000</pubDate>
 </item>
 <item>
@@ -172,10 +148,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/913kly8r5348</link>
 <guid>https://status.xero.com/incidents/913kly8r5348</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>06:53</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing performance issues when loading reports in Xero. We apologise for any inconvenience this has caused. <br /><br />Within 24 hours we’ll update this page with a brief summary</p><p><small>Jan <var>31</var>, <var>06:39</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 6:38 am UTC</p><p><small>Jan <var>31</var>, <var>02:58</var> UTC</small><br /><strong>Identified</strong> - We have identified what is impacting customers who are experiencing performance issues when loading reports in Xero<br /><br />This is our top priority and we will update you as soon as we can.<br /><br /><b>Status Last Reviewed:</b> 6:23 am UTC</p><p><small>Jan <var>31</var>, <var>01:13</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers are experiencing performance issues when loading reports in Xero. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:13am UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 06:53:44 +0000</pubDate>
 <pubDate>Wed, 31 Jan 2024 06:53:44 +0000</pubDate>
 </item>
 <item>
@@ -183,10 +157,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/w5r7qjzhmyh1</link>
 <guid>https://status.xero.com/incidents/w5r7qjzhmyh1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>30</var>, <var>04:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>30</var>, <var>03:52</var> UTC</small><br /><strong>Identified</strong> - We have identified what is impacting some customers trying to use global search in WorkflowMax.<br /><br />This is our top priority and we will update you as soon as we can.<br /><br /><b>Status Last Reviewed:</b> 3:52 am UTC</p><p><small>Jan <var>30</var>, <var>02:09</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to use global search in WorkflowMax are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 2:09am UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jan 2024 04:33:20 +0000</pubDate>
 <pubDate>Tue, 30 Jan 2024 04:33:20 +0000</pubDate>
 </item>
 <item>
@@ -194,10 +166,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/sdhmcjx7d5qh</link>
 <guid>https://status.xero.com/incidents/sdhmcjx7d5qh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>10:29</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the performance issues some customers experienced across Xero. We apologise for any inconvenience this has caused. Our technical team identified this was caused by poor network connectivity and has restored service.</p><p><small>Jan <var>25</var>, <var>10:12</var> UTC</small><br /><strong>Identified</strong> - We have identified what is causing some customers to experience error messages and general slowness across Xero<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 10:12 UTC.</p><p><small>Jan <var>25</var>, <var>09:59</var> UTC</small><br /><strong>Investigating</strong> - We are aware that some customers may be experiencing error messages and general slowness across Xero. Our team is investigating this with urgency.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 10:29:05 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 10:29:05 +0000</pubDate>
 </item>
 <item>
@@ -205,10 +175,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/thz6brbv9q03</link>
 <guid>https://status.xero.com/incidents/thz6brbv9q03</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>25</var>, <var>04:08</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the performance issues some customers experienced across Xero. We apologise for any inconvenience this has caused.<br /><br />Our technical team identified this was caused by poor network connectivity and has restored service.</p><p><small>Jan <var>25</var>, <var>03:31</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 3.30am UTC</p><p><small>Jan <var>25</var>, <var>03:11</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers may be experiencing error messages and general slowness across Xero. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 3.10am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Jan 2024 04:08:29 +0000</pubDate>
 <pubDate>Thu, 25 Jan 2024 04:08:29 +0000</pubDate>
 </item>
 <item>
@@ -216,10 +184,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/5b9n1msrp1vn</link>
 <guid>https://status.xero.com/incidents/5b9n1msrp1vn</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>23</var>, <var>23:09</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing some customers to receiving an error message when using Xero. This was related to a recent change that was reverted to resolve the impact to customers. We apologise for any inconvenience this has caused.</p><p><small>Jan <var>23</var>, <var>22:40</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 10:40pm UTC</p><p><small>Jan <var>23</var>, <var>22:32</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers may be receiving error messages when using Xero. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 10:32pm UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 23 Jan 2024 23:09:17 +0000</pubDate>
 <pubDate>Tue, 23 Jan 2024 23:09:17 +0000</pubDate>
 </item>
 <item>
@@ -227,10 +193,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/yjnltz6m6skd</link>
 <guid>https://status.xero.com/incidents/yjnltz6m6skd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>22:43</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue customers experienced when they tried to update their payment details in Xero. We apologise for any inconvenience this has caused. <br /><br />A product release caused this feature to become unavailable. We've rolled back the release and services are back to normal.</p><p><small>Jan <var>22</var>, <var>21:03</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to update their payment details in Xero are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 9:02pm UTC</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 22:43:54 +0000</pubDate>
 <pubDate>Mon, 22 Jan 2024 22:43:54 +0000</pubDate>
 </item>
 <item>
@@ -238,10 +202,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/mhkb0v8fjxql</link>
 <guid>https://status.xero.com/incidents/mhkb0v8fjxql</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>20</var>, <var>21:01</var> UTC</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Jan <var>20</var>, <var>15:02</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Jan <var>17</var>, <var>21:26</var> UTC</small><br /><strong>Scheduled</strong> - Xero will be conducting system maintenance on Hubdoc from 3pm until 9pm UTC on Saturday, 20 January 2024.<br /><br />During this time, customers will be unable to access Hubdoc, including all of its services on both web and mobile apps.</p>
 ]]></content:encoded>
-<pubDate>Sat, 20 Jan 2024 21:01:33 +0000</pubDate>
 <pubDate>Sat, 20 Jan 2024 21:01:33 +0000</pubDate>
 </item>
 <item>
@@ -249,10 +211,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/37g547kkk7tk</link>
 <guid>https://status.xero.com/incidents/37g547kkk7tk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>18</var>, <var>06:40</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue preventing AU Tax returns from being submitted to the ATO. We apologise for any inconvenience this has caused.<br /><br />Our technical team identified this was caused by poor network connectivity and has restored service.</p><p><small>Jan <var>18</var>, <var>06:31</var> UTC</small><br /><strong>Monitoring</strong> - Our team has implemented a fix and we are currently monitoring the results.<br /><br /><b>Status Last Reviewed:</b> 6:31 am UTC</p><p><small>Jan <var>18</var>, <var>06:19</var> UTC</small><br /><strong>Identified</strong> - We have identified what is causing AU Tax returns to be stuck in a submitted state. These returns will be sent to the ATO once the issue is resolved.<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 6:19 am UTC</p><p><small>Jan <var>18</var>, <var>05:47</var> UTC</small><br /><strong>Investigating</strong> - We are aware that AU Tax returns may be currently stuck in a submitted state. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 5:46 am UTC</p>
 ]]></content:encoded>
-<pubDate>Thu, 18 Jan 2024 06:40:49 +0000</pubDate>
 <pubDate>Thu, 18 Jan 2024 06:40:49 +0000</pubDate>
 </item>
 <item>
@@ -260,10 +220,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/sl6wvt8z27yc</link>
 <guid>https://status.xero.com/incidents/sl6wvt8z27yc</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>17</var>, <var>02:32</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue customers experienced when they were unable to raise cases in Xero Central. We apologise for any inconvenience this has caused. <br /><br />A product release caused this feature to become unavailable. We've rolled back the release and services are back to normal.</p><p><small>Jan <var>17</var>, <var>01:43</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers are unable to raise a case in Xero Central. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:43am UTC</p>
 ]]></content:encoded>
-<pubDate>Wed, 17 Jan 2024 02:32:39 +0000</pubDate>
 <pubDate>Wed, 17 Jan 2024 02:32:39 +0000</pubDate>
 </item>
 <item>
@@ -271,10 +229,8 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/5pwmfnxnvh23</link>
 <guid>https://status.xero.com/incidents/5pwmfnxnvh23</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>16</var>, <var>02:15</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>16</var>, <var>01:48</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to create new expense claims are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:48am UTC</p>
 ]]></content:encoded>
-<pubDate>Tue, 16 Jan 2024 02:15:36 +0000</pubDate>
 <pubDate>Tue, 16 Jan 2024 02:15:36 +0000</pubDate>
 </item>
 <item>
@@ -282,12 +238,9 @@ Summary: Intermittent errors affecting Xero Tax access for NZ and AU customers d
 <link>https://status.xero.com/incidents/j8hjmdymnvn2</link>
 <guid>https://status.xero.com/incidents/j8hjmdymnvn2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>10</var>, <var>03:01</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue impacting customers trying to access Reporting. We apologise for any inconvenience this has caused.<br /><br /> A product release caused this feature to become unavailable. We've rolled back the release and services are back to normal.</p><p><small>Jan <var>10</var>, <var>02:40</var> UTC</small><br /><strong>Investigating</strong> - We are aware customers trying to access Reporting in Xero are experiencing errors. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 2:38am UTC</p>
 ]]></content:encoded>
 <pubDate>Wed, 10 Jan 2024 03:01:16 +0000</pubDate>
-<pubDate>Wed, 10 Jan 2024 03:01:16 +0000</pubDate>
 </item>
-
 </channel>
 </rss>

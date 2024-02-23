@@ -35,3 +35,9 @@ Append: [PSA - UK1 (LON) - Outage for Migration](https://status.datto.com/incide
 Append: [Datto SaaS Protection - Application Maintenance For Canada East Region](https://status.datto.com/incidents/pnbvtw89h0mm)
 append_entries: 25
 Finish: 2024-02-23 11:37:25.763496
+------------------------------------------------------
+Started: 2024-02-23 12:11:45.588861
+Existing_entries: 25
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:45.922794

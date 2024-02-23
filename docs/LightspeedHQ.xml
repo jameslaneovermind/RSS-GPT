@@ -4,15 +4,15 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+
 <item>
 <title>C-Series is experiencing slowness</title>
 <link>https://status.lightspeedhq.com/incidents/z6rdjl94f5zc</link>
 <guid>https://status.lightspeedhq.com/incidents/z6rdjl94f5zc</guid>
 <content:encoded><![CDATA[
-<div> Low - Investigating - We are currently investigating an issue affecting merchants using Lightspeed C-Series. A dedicated team is investigating the issue.<br><br>Summary: Lightspeed is investigating an issue affecting their C-Series merchants. <div>
+<div> Low - Investigating - We are currently investigating an issue affecting merchants using Lightspeed C-Series. A dedicated team is investigating the issue.<br /><br />Summary: Lightspeed is investigating an issue affecting their C-Series merchants. <div>
 <p><small>Feb <var>21</var>, <var>15:34</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>11:04</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>21</var>, <var>11:04</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>08:54</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>21</var>, <var>08:17</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>08:17</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting merchants using Lightspeed C-Series.  A dedicated team is investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 15:34:56 -0500</pubDate>
 <pubDate>Wed, 21 Feb 2024 15:34:56 -0500</pubDate>
 </item>
 <item>
@@ -20,20 +20,19 @@
 <link>https://status.lightspeedhq.com/incidents/149yfvphlcwl</link>
 <guid>https://status.lightspeedhq.com/incidents/149yfvphlcwl</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigating Issue with Lightspeed C-Series <br><br> A dedicated team is investigating an issue affecting merchants using Lightspeed C-Series. 
+<div> [High] - Investigating Issue with Lightspeed C-Series <br /><br /> A dedicated team is investigating an issue affecting merchants using Lightspeed C-Series. 
 
-[Low] - Update on Issue Investigation <br><br> We are continuing to investigate the issue.
+[Low] - Update on Issue Investigation <br /><br /> We are continuing to investigate the issue.
 
-[Low] - Update on Issue Investigation <br><br> We are continuing to investigate the issue.
+[Low] - Update on Issue Investigation <br /><br /> We are continuing to investigate the issue.
 
-[Low] - Update on Issue Investigation <br><br> We are continuing to investigate the issue.
+[Low] - Update on Issue Investigation <br /><br /> We are continuing to investigate the issue.
 
-[Low] - Monitoring Fix Implementation <br><br> A fix has been implemented and we are monitoring the results.
+[Low] - Monitoring Fix Implementation <br /><br /> A fix has been implemented and we are monitoring the results.
 
-[Low] - Issue Resolved <br><br> This incident has been resolved. <div>
+[Low] - Issue Resolved <br /><br /> This incident has been resolved. <div>
 <p><small>Feb <var>21</var>, <var>07:50</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>21</var>, <var>05:05</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>21</var>, <var>04:30</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>21</var>, <var>04:25</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>21</var>, <var>04:25</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>21</var>, <var>04:23</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting merchants using Lightspeed C-Series.  A dedicated team is investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 21 Feb 2024 07:50:55 -0500</pubDate>
 <pubDate>Wed, 21 Feb 2024 07:50:55 -0500</pubDate>
 </item>
 <item>
@@ -43,12 +42,11 @@
 <content:encoded><![CDATA[
 <div> ```html
 <div>
-  [Low] - Lightspeed Payments Australia Reporting Issue <br><br> Summary: An issue with reporting discrepancies for some Lightspeed Payments Australia merchants has been identified and a fix is being deployed.
+  [Low] - Lightspeed Payments Australia Reporting Issue <br /><br /> Summary: An issue with reporting discrepancies for some Lightspeed Payments Australia merchants has been identified and a fix is being deployed.
 </div>
 ``` <div>
 <p><small>Feb <var>20</var>, <var>14:23</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. The reporting for affected merchants will be whole starting the 21st and onwards</p><p><small>Feb <var>19</var>, <var>12:00</var> EST</small><br /><strong>Identified</strong> - We have identified an issue regarding fees for some Lightspeed Payments Australia Merchants. Some merchants may experience reporting discrepancies, a fix is being deployed.</p>
 ]]></content:encoded>
-<pubDate>Tue, 20 Feb 2024 14:23:17 -0500</pubDate>
 <pubDate>Tue, 20 Feb 2024 14:23:17 -0500</pubDate>
 </item>
 <item>
@@ -56,10 +54,8 @@
 <link>https://status.lightspeedhq.com/incidents/0l1d3vzxk2xg</link>
 <guid>https://status.lightspeedhq.com/incidents/0l1d3vzxk2xg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>14</var>, <var>15:52</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>14</var>, <var>15:05</var> EST</small><br /><strong>Update</strong> - The error appears to be resolved and is being monitored. Merchants please review your sales and refund any duplicate sales. There may also be sales that need to be re-entered to confirm the transaction by pressing on the "pending payment resolve" button.</p><p><small>Feb <var>14</var>, <var>15:01</var> EST</small><br /><strong>Monitoring</strong> - The error appears to be resolved and is being monitored. Merchants please review your sales and refund any duplicate sales. There may also be sales that need to be re-entered to confirm the transaction by pressing on the "pending payment resolve" button.</p><p><small>Feb <var>14</var>, <var>14:41</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>14</var>, <var>14:36</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 14 Feb 2024 15:52:03 -0500</pubDate>
 <pubDate>Wed, 14 Feb 2024 15:52:03 -0500</pubDate>
 </item>
 <item>
@@ -67,10 +63,8 @@
 <link>https://status.lightspeedhq.com/incidents/xhs947btnz6h</link>
 <guid>https://status.lightspeedhq.com/incidents/xhs947btnz6h</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>13</var>, <var>03:13</var> EST</small><br /><strong>Resolved</strong> - The issue with Lightspeed Payments has been resolved.</p><p><small>Feb <var>12</var>, <var>09:04</var> EST</small><br /><strong>Monitoring</strong> - We have implemented a fix, the reports are regenerating, this will take a couple of hours before they are visible in the back offices.</p><p><small>Feb <var>12</var>, <var>07:58</var> EST</small><br /><strong>Identified</strong> - We have identified the cause of the Lightspeed Payments issue and a dedicated team of engineers is working on a solution.</p><p><small>Feb <var>12</var>, <var>07:37</var> EST</small><br /><strong>Update</strong> - We have identified the issue affecting Payment reporting. Funding was processed as expected.</p><p><small>Feb <var>12</var>, <var>06:00</var> EST</small><br /><strong>Investigating</strong> - Payment reporting has not been updated for some Hospitality accounts since February 9th. Funding was processed as expected.</p>
 ]]></content:encoded>
-<pubDate>Tue, 13 Feb 2024 03:13:26 -0500</pubDate>
 <pubDate>Tue, 13 Feb 2024 03:13:26 -0500</pubDate>
 </item>
 <item>
@@ -78,10 +72,8 @@
 <link>https://status.lightspeedhq.com/incidents/y8qhv9zzbf1d</link>
 <guid>https://status.lightspeedhq.com/incidents/y8qhv9zzbf1d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>18:54</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>17:50</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var> 8</var>, <var>17:30</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 18:54:06 -0500</pubDate>
 <pubDate>Thu, 08 Feb 2024 18:54:06 -0500</pubDate>
 </item>
 <item>
@@ -89,10 +81,8 @@
 <link>https://status.lightspeedhq.com/incidents/bflkdx17dqfp</link>
 <guid>https://status.lightspeedhq.com/incidents/bflkdx17dqfp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var> 8</var>, <var>17:15</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var> 8</var>, <var>17:08</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p>
 ]]></content:encoded>
-<pubDate>Thu, 08 Feb 2024 17:15:18 -0500</pubDate>
 <pubDate>Thu, 08 Feb 2024 17:15:18 -0500</pubDate>
 </item>
 <item>
@@ -100,10 +90,8 @@
 <link>https://status.lightspeedhq.com/incidents/22ff8b0ckbhk</link>
 <guid>https://status.lightspeedhq.com/incidents/22ff8b0ckbhk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>31</var>, <var>15:52</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. We apologise for any inconvenience it may have caused you.</p><p><small>Jan <var>31</var>, <var>15:44</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>31</var>, <var>15:30</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing increased latency while authenticating requests. Engineers are currently investigating</p>
 ]]></content:encoded>
-<pubDate>Wed, 31 Jan 2024 15:52:18 -0500</pubDate>
 <pubDate>Wed, 31 Jan 2024 15:52:18 -0500</pubDate>
 </item>
 <item>
@@ -111,10 +99,8 @@
 <link>https://status.lightspeedhq.com/incidents/dhypjt88462w</link>
 <guid>https://status.lightspeedhq.com/incidents/dhypjt88462w</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>22</var>, <var>01:50</var> EST</small><br /><strong>Resolved</strong> - The investigation would show that there was a brief window of impact to online orders. Impact would have been limited to 5:30 am to 6:00am (UTC). The incident window has now been closed but we will continue to monitor.</p><p><small>Jan <var>22</var>, <var>00:47</var> EST</small><br /><strong>Investigating</strong> - We are investigating an issue affecting online ordering.</p>
 ]]></content:encoded>
-<pubDate>Mon, 22 Jan 2024 01:50:35 -0500</pubDate>
 <pubDate>Mon, 22 Jan 2024 01:50:35 -0500</pubDate>
 </item>
 <item>
@@ -122,10 +108,8 @@
 <link>https://status.lightspeedhq.com/incidents/t6vyf2tw3xy2</link>
 <guid>https://status.lightspeedhq.com/incidents/t6vyf2tw3xy2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>19:56</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>15</var>, <var>18:05</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting the ability to contact the support team via Phone. In the interim if you have any concerns please reach out via chat. You can do this inside the Lightspeed K series integration by selecting Settings > Support > Chat now.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 19:56:28 -0500</pubDate>
 <pubDate>Mon, 15 Jan 2024 19:56:28 -0500</pubDate>
 </item>
 <item>
@@ -133,10 +117,8 @@
 <link>https://status.lightspeedhq.com/incidents/26dnlkrk1wjp</link>
 <guid>https://status.lightspeedhq.com/incidents/26dnlkrk1wjp</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>15</var>, <var>19:34</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>15</var>, <var>19:15</var> EST</small><br /><strong>Monitoring</strong> - We identified the root cause, and will now monitor the recovery.</p><p><small>Jan <var>15</var>, <var>19:07</var> EST</small><br /><strong>Investigating</strong> - We're looking into reports of a rise in latency for authentication requests.</p>
 ]]></content:encoded>
-<pubDate>Mon, 15 Jan 2024 19:34:49 -0500</pubDate>
 <pubDate>Mon, 15 Jan 2024 19:34:49 -0500</pubDate>
 </item>
 <item>
@@ -144,10 +126,8 @@
 <link>https://status.lightspeedhq.com/incidents/1mxsdqtwl209</link>
 <guid>https://status.lightspeedhq.com/incidents/1mxsdqtwl209</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>12</var>, <var>20:24</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>12</var>, <var>17:08</var> EST</small><br /><strong>Update</strong> - We are continuing  to investigate cases reported where a subset of Lightspeed Retail merchants are receiving errors when using the Wise POS E terminal</p><p><small>Jan <var>12</var>, <var>16:10</var> EST</small><br /><strong>Update</strong> - We are continuing  to investigate cases reported where a subset of Lightspeed Retail merchants are receiving errors when using the Wise POS E terminal</p><p><small>Jan <var>12</var>, <var>15:24</var> EST</small><br /><strong>Update</strong> - We’re currently investigating cases reported where a subset of Lightspeed Retail merchants are receiving errors when using the Wise POS E terminal</p><p><small>Jan <var>12</var>, <var>15:20</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Jan <var>12</var>, <var>15:19</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Fri, 12 Jan 2024 20:24:45 -0500</pubDate>
 <pubDate>Fri, 12 Jan 2024 20:24:45 -0500</pubDate>
 </item>
 <item>
@@ -155,10 +135,8 @@
 <link>https://status.lightspeedhq.com/incidents/cpx6sry3nsy3</link>
 <guid>https://status.lightspeedhq.com/incidents/cpx6sry3nsy3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>18:20</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>11</var>, <var>16:30</var> EST</small><br /><strong>Investigating</strong> - We have noticed data stopped syncing. Our devs have identified the issue and they are working on a solution.</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 18:20:07 -0500</pubDate>
 <pubDate>Thu, 11 Jan 2024 18:20:07 -0500</pubDate>
 </item>
 <item>
@@ -166,10 +144,8 @@
 <link>https://status.lightspeedhq.com/incidents/54mj5cfxl83v</link>
 <guid>https://status.lightspeedhq.com/incidents/54mj5cfxl83v</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>17:07</var> EST</small><br /><strong>Resolved</strong> - All inventory and product delays have been remediated. Thank you for your patience</p><p><small>Jan <var>11</var>, <var>16:48</var> EST</small><br /><strong>Identified</strong> - We are experiencing delays in background processes regarding inventory and products. We have applied a fix and are monitoring the recovery</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 17:07:11 -0500</pubDate>
 <pubDate>Thu, 11 Jan 2024 17:07:11 -0500</pubDate>
 </item>
 <item>
@@ -177,10 +153,8 @@
 <link>https://status.lightspeedhq.com/incidents/qs7v8gd3lkyk</link>
 <guid>https://status.lightspeedhq.com/incidents/qs7v8gd3lkyk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>11</var>, <var>15:48</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var>11</var>, <var>15:26</var> EST</small><br /><strong>Monitoring</strong> - We have implemented a fix and will continue to monitor the situation.</p><p><small>Jan <var>11</var>, <var>14:54</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting merchants using Lightspeed Retail.  A dedicated team is investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 11 Jan 2024 15:48:34 -0500</pubDate>
 <pubDate>Thu, 11 Jan 2024 15:48:34 -0500</pubDate>
 </item>
 <item>
@@ -188,10 +162,8 @@
 <link>https://status.lightspeedhq.com/incidents/nhdgr1wlz7wf</link>
 <guid>https://status.lightspeedhq.com/incidents/nhdgr1wlz7wf</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var>10</var>, <var>10:40</var> EST</small><br /><strong>Resolved</strong> - The third-party partner has resolved the issue. Transactions are now being processed normally.</p><p><small>Jan <var>10</var>, <var>10:39</var> EST</small><br /><strong>Update</strong> - We have implemented a fix and will continue to monitor the situation.</p><p><small>Jan <var>10</var>, <var>10:38</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Jan <var>10</var>, <var>10:12</var> EST</small><br /><strong>Update</strong> - A fix has been implemented and we are monitoring the situation</p><p><small>Jan <var>10</var>, <var>09:39</var> EST</small><br /><strong>Investigating</strong> - A fix has been implemented and we are monitoring the situation</p>
 ]]></content:encoded>
-<pubDate>Wed, 10 Jan 2024 10:40:50 -0500</pubDate>
 <pubDate>Wed, 10 Jan 2024 10:40:50 -0500</pubDate>
 </item>
 <item>
@@ -199,10 +171,8 @@
 <link>https://status.lightspeedhq.com/incidents/xz80ydmpqm5d</link>
 <guid>https://status.lightspeedhq.com/incidents/xz80ydmpqm5d</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 8</var>, <var>12:09</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 5</var>, <var>14:38</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented. This degradation is only for reporting</p>
 ]]></content:encoded>
-<pubDate>Mon, 08 Jan 2024 12:09:23 -0500</pubDate>
 <pubDate>Mon, 08 Jan 2024 12:09:23 -0500</pubDate>
 </item>
 <item>
@@ -210,10 +180,8 @@
 <link>https://status.lightspeedhq.com/incidents/wgctbnkfx2c9</link>
 <guid>https://status.lightspeedhq.com/incidents/wgctbnkfx2c9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Jan <var> 1</var>, <var>01:14</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Jan <var> 1</var>, <var>00:36</var> EST</small><br /><strong>Monitoring</strong> - All reports should be up to date, we are monitoring the situation for any discrepancy</p><p><small>Dec <var>31</var>, <var>19:40</var> EST</small><br /><strong>Update</strong> - The Retailer Dashboard page is now loading, however the data in the last 24 hours may be delayed in showing on the report.<br /><br />We are working on processing the data and will provide another update once reports are up to date.</p><p><small>Dec <var>31</var>, <var>19:09</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>31</var>, <var>17:43</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where the Reporting Dashboard fails to load.</p>
 ]]></content:encoded>
-<pubDate>Mon, 01 Jan 2024 01:14:52 -0500</pubDate>
 <pubDate>Mon, 01 Jan 2024 01:14:52 -0500</pubDate>
 </item>
 <item>
@@ -221,10 +189,8 @@
 <link>https://status.lightspeedhq.com/incidents/z90cnb3cggrk</link>
 <guid>https://status.lightspeedhq.com/incidents/z90cnb3cggrk</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>27</var>, <var>15:37</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>27</var>, <var>15:09</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>27</var>, <var>10:53</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating syncing issues affecting merchants using Lightspeed Retail (R-Series) and eCom (C-Series).  A dedicated team is investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Dec 2023 15:37:05 -0500</pubDate>
 <pubDate>Wed, 27 Dec 2023 15:37:05 -0500</pubDate>
 </item>
 <item>
@@ -232,10 +198,8 @@
 <link>https://status.lightspeedhq.com/incidents/kktyk3rv01qx</link>
 <guid>https://status.lightspeedhq.com/incidents/kktyk3rv01qx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>21</var>, <var>20:49</var> EST</small><br /><strong>Resolved</strong> - All inventory and product delays have been remediated. Thank you for your patience</p><p><small>Dec <var>21</var>, <var>19:24</var> EST</small><br /><strong>Monitoring</strong> - We are experiencing delays in background processes regarding inventory and products. We have applied a fix and are monitoring the recovery<br /><br />We expect to be fully recovered within the next hour. Thank you for your patience</p><p><small>Dec <var>21</var>, <var>19:23</var> EST</small><br /><strong>Investigating</strong> - We are experiencing delays in background processes regarding inventory and products. We have applied a fix and are monitoring the recovery<br /><br />We expect to be fully recovered within the next hour. Thank you for your patience</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Dec 2023 20:49:50 -0500</pubDate>
 <pubDate>Thu, 21 Dec 2023 20:49:50 -0500</pubDate>
 </item>
 <item>
@@ -243,10 +207,8 @@
 <link>https://status.lightspeedhq.com/incidents/mww8t8tpy66n</link>
 <guid>https://status.lightspeedhq.com/incidents/mww8t8tpy66n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>23:40</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved. Sorry for any inconvenience it might have caused your.</p><p><small>Dec <var>20</var>, <var>23:22</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>20</var>, <var>23:13</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>20</var>, <var>23:02</var> EST</small><br /><strong>Investigating</strong> - We are getting reports from a few merchants being unable to load our pages properly.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 23:40:34 -0500</pubDate>
 <pubDate>Wed, 20 Dec 2023 23:40:34 -0500</pubDate>
 </item>
 <item>
@@ -254,10 +216,8 @@
 <link>https://status.lightspeedhq.com/incidents/cdvvssdqm9yh</link>
 <guid>https://status.lightspeedhq.com/incidents/cdvvssdqm9yh</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>17:56</var> EST</small><br /><strong>Resolved</strong> - Delays to inventory levels have now fully recovered for the affected (X-Series) retailers. Thank you for your patience</p><p><small>Dec <var>20</var>, <var>16:55</var> EST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Dec <var>20</var>, <var>05:59</var> EST</small><br /><strong>Update</strong> - It appears inventory levels have recovered for most of the affected (X-Series) retailers. However, there is a small portion of retailers still affected. We are monitoring and will post an update soon</p><p><small>Dec <var>20</var>, <var>04:14</var> EST</small><br /><strong>Monitoring</strong> - We have applied a fix and we are monitoring the recovery. We expect inventory level delays to be fully recovered within the next few hours.<br /><br />We will keep you posted on any updates. Thank you for your patience</p><p><small>Dec <var>20</var>, <var>03:52</var> EST</small><br /><strong>Identified</strong> - We have identified an issue related to delays in Inventory levels for some of our (X-Series) retailers. We are working on remediating this and will keep you posted with updates as they come. Thank you for your patience</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 17:56:56 -0500</pubDate>
 <pubDate>Wed, 20 Dec 2023 17:56:56 -0500</pubDate>
 </item>
 <item>
@@ -265,10 +225,8 @@
 <link>https://status.lightspeedhq.com/incidents/4db5c0yd0kpb</link>
 <guid>https://status.lightspeedhq.com/incidents/4db5c0yd0kpb</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>20</var>, <var>12:48</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>19</var>, <var>13:15</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are now monitoring the issue.</p><p><small>Dec <var>19</var>, <var>10:12</var> EST</small><br /><strong>Identified</strong> - A  partial settlement/payout delay for payouts on December 19th, 2023 has been identified for a subset of US/CA Retail merchants. The ability to process is not affected. More updates to come.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Dec 2023 12:48:21 -0500</pubDate>
 <pubDate>Wed, 20 Dec 2023 12:48:21 -0500</pubDate>
 </item>
 <item>
@@ -276,10 +234,8 @@
 <link>https://status.lightspeedhq.com/incidents/g3kvg5v1b7vd</link>
 <guid>https://status.lightspeedhq.com/incidents/g3kvg5v1b7vd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>18</var>, <var>12:26</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>18</var>, <var>12:15</var> EST</small><br /><strong>Monitoring</strong> - We have implemented a fix and will continue to monitor the situation.</p><p><small>Dec <var>18</var>, <var>11:54</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting merchants using Lightspeed Retail.  A dedicated team is investigating the issue.</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Dec 2023 12:26:43 -0500</pubDate>
 <pubDate>Mon, 18 Dec 2023 12:26:43 -0500</pubDate>
 </item>
 <item>
@@ -287,12 +243,9 @@
 <link>https://status.lightspeedhq.com/incidents/x4n5j2614t97</link>
 <guid>https://status.lightspeedhq.com/incidents/x4n5j2614t97</guid>
 <content:encoded><![CDATA[
-
 <p><small>Dec <var>16</var>, <var>12:03</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Dec <var>16</var>, <var>11:46</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Dec <var>16</var>, <var>10:55</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Dec <var>16</var>, <var>09:30</var> EST</small><br /><strong>Investigating</strong> - We are currently experiencing issues with performance on the Sell Screen and are investigating.</p>
 ]]></content:encoded>
 <pubDate>Sat, 16 Dec 2023 12:03:51 -0500</pubDate>
-<pubDate>Sat, 16 Dec 2023 12:03:51 -0500</pubDate>
 </item>
-
 </channel>
 </rss>

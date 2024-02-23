@@ -35,3 +35,9 @@ Append: [Outsystems Community](https://status.outsystems.com/incidents/tkpct663x
 Append: [MABS Incident on 2021-04-13 07:50 UTC](https://status.outsystems.com/incidents/1zgykkgj2dqd)
 append_entries: 25
 Finish: 2024-02-23 11:36:43.437270
+------------------------------------------------------
+Started: 2024-02-23 12:11:40.570262
+Existing_entries: 25
+Fetching from https://status.outsystems.com/history.rss
+append_entries: 0
+Finish: 2024-02-23 12:11:41.150340
