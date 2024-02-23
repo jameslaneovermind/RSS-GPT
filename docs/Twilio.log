@@ -440,3 +440,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Indonesia SMS Carrier Maintenance - XL Axiata](https://status.twilio.com/incidents/cj8zl26n3g6z)
 append_entries: 1
 Finish: 2024-02-23 13:09:10.348526
+------------------------------------------------------
+Started: 2024-02-23 14:08:03.538670
+Existing_entries: 54
+Fetching from https://status.twilio.com/history.rss
+Token length: 354
+Summarized using GPT-3.5-turbo-1106
+Append: [Asia and Africa SMS Carrier Maintenance - Airtel](https://status.twilio.com/incidents/3ynsd6d10rg0)
+append_entries: 1
+Finish: 2024-02-23 14:08:05.039836
