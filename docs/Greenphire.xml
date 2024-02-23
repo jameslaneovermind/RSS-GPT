@@ -4,15 +4,15 @@
 <title>Greenphire Status - Incident History</title>
 <link>https://status.greenphire.com</link>
 
+
 <item>
 <title>eClinicalGPS Production System Maintenance</title>
 <link>https://status.greenphire.com/incidents/qzn43x3k1l3f</link>
 <guid>https://status.greenphire.com/incidents/qzn43x3k1l3f</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Routine Infrastructure Maintenance <br><br> Greenphire will be performing routine infrastructure maintenance between the hours of 9:00PM and 12:00AM ET on March 8, 2024. During this time, Greenphire systems may be briefly inaccessible while updates are being applied. <br><br> Summary: Greenphire will be conducting routine infrastructure maintenance, which may result in temporary inaccessibility of their systems. <div>
+<div> [Medium] - Routine Infrastructure Maintenance <br /><br /> Greenphire will be performing routine infrastructure maintenance between the hours of 9:00PM and 12:00AM ET on March 8, 2024. During this time, Greenphire systems may be briefly inaccessible while updates are being applied. <br /><br /> Summary: Greenphire will be conducting routine infrastructure maintenance, which may result in temporary inaccessibility of their systems. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>21:00</var> EST &nbsp;-&nbsp; Mar <var>9</var>, <var>00:00</var> EST</strong></p><p><small>Feb <var>23</var>, <var>14:04</var> EST</small><br /><strong>Scheduled</strong> - On Friday March 8, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 9:00PM and 12:00AM ET.  During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Mar 2024 21:00:00 -0500</pubDate>
 <pubDate>Fri, 08 Mar 2024 21:00:00 -0500</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: Greenphire will be performing routine infrastructure maintenance betwee
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>21:00</var> EST &nbsp;-&nbsp; Mar <var>9</var>, <var>00:00</var> EST</strong></p><p><small>Feb <var>23</var>, <var>14:02</var> EST</small><br /><strong>Scheduled</strong> - On Friday March 8, 2024 Greenphire will be performing routine infrastructure maintenance between the hours of 9:00PM and 12:00AM ET. During this time Greenphire systems may be inaccessible briefly while systems are updated.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 21:00:00 -0500</pubDate>
-<pubDate>Fri, 08 Mar 2024 21:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>eClinicalGPS March 2024 Production and UAT Feature Release</title>
 <link>https://status.greenphire.com/incidents/pfnljl8lmlgk</link>
