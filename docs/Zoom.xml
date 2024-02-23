@@ -4,6 +4,7 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for Zoom Conference Room Connector (No operational impact)</title>
 <link>https://status.zoom.us/incidents/srcsq4jwcs9t</link>
@@ -14,9 +15,7 @@ Summary: Zoom will be performing maintenance to replace the current SIP TLS cert
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>23</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>12:28</var> PST</small><br /><strong>Scheduled</strong> - Zoom will be performing maintenance service on the Zoom CRC service to replace the current SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains, listed below:<br /><br />* tj.zmvc.us, tj.zmcn.us (China)<br />* zmhk.us (Hong Kong SAR)<br />* zmin.us (India)<br />* mb.zmin.us (India, Mumbai)<br />* zmjp.us (Japan, Tokyo)<br />* os.zmjp.us (Japan, Osaka)<br />* sg.zmvc.us (Singapore)<br /><br />There is no expected downtime for this change.  For more information see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 22:00:00 -0800</pubDate>
-<pubDate>Fri, 23 Feb 2024 22:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Mac, Windows, Android, iOS, &amp; Linux Client Update: 2/26/24 (No Operational Impact)</title>
 <link>https://status.zoom.us/incidents/qr2y2smg7sxy</link>

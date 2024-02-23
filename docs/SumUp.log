@@ -390,3 +390,10 @@ Fetching from https://status.sumup.com/history.rss
 Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/SumUp
+------------------------------------------------------
+Started: 2024-02-23 22:07:38.562759
+Existing_entries: 0
+Fetching from https://status.sumup.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
+append_entries: 0
+error when rendering xml, skip docs/SumUp
