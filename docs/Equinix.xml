@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/px0015nw7wfs</link>
 <guid>https://status.equinix.com/incidents/px0015nw7wfs</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage and Fix Implementation <br><br> We have identified a major issue and are currently implementing a fix for it. The incident number is INC0029843, and it pertains to the Internet Exchange in the Americas.
+<div> [High] - Major Outage and Fix Implementation <br /><br /> We have identified a major issue and are currently implementing a fix for it. The incident number is INC0029843, and it pertains to the Internet Exchange in the Americas.
 
  <div>
 <p><small>Feb <var>24</var>, <var>16:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">2d028zqvv1h8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029843</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (MI)]</div></p><p><small>Feb <var>24</var>, <var>15:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2d028zqvv1h8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029843</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (MI)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 16:08:53 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 16:08:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/f60fwd10b00m</link>
