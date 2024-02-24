@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/6mgmcgprmqk4</link>
@@ -14,9 +15,7 @@ Summary: The company is currently investigating a potential issue at the Interne
 <p><small>Feb <var>24</var>, <var>12:58</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">963ph1mq0slr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029828</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 12:58:08 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 12:58:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/c9x6km0gnms2</link>
