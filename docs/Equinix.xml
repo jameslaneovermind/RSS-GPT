@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/f60fwd10b00m</link>
+<guid>https://status.equinix.com/incidents/f60fwd10b00m</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric and Network Edge Outage in EMEA
+Summary:
+An issue has been identified within the Equinix Fabric and Network Edge services in the EMEA region. A fix is currently being implemented to address the outage. <div>
+<p><small>Feb <var>24</var>, <var>14:41</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">37gp0rb0vvj3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029835</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML); Network Edge - EMEA (IL, ML)]</div></p><p><small>Feb <var>24</var>, <var>14:26</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">37gp0rb0vvj3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029835</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML); Network Edge - EMEA (IL, ML)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 14:41:14 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 14:41:14 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Internet Exchange)</title>
