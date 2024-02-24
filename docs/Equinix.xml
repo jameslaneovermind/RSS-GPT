@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Network Edge, Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/flnrx09ms9yk</link>
+<guid>https://status.equinix.com/incidents/flnrx09ms9yk</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident Impacting Equinix Internet Access and Connect (AMER) <br><br> We are currently investigating a major incident affecting Equinix Internet Access and Connect in the Americas. A fix is being implemented to resolve the issue.
+
+Note: Since the incident was a major outage affecting Equinix Internet Access and Connect, and a fix was being implemented, the relevancy tag is high. <div>
+<p><small>Feb <var>24</var>, <var>08:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">gsvx3pmw17qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029428</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p><p><small>Feb <var>21</var>, <var>19:09</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">gsvx3pmw17qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029428</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p><p><small>Feb <var>21</var>, <var>18:52</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gsvx3pmw17qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029428</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (TR); Equinix Internet Access / Equinix Connect - AMER (TR)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 08:03:00 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 08:03:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>

@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Degraded control plane performance for app acceleration and ZTNA Connector in Switzerland region</title>
 <link>https://status.paloaltonetworks.com/incidents/2mqlhv5d0xx0</link>
 <guid>https://status.paloaltonetworks.com/incidents/2mqlhv5d0xx0</guid>
 <content:encoded><![CDATA[
-<div> [High] - Control Plane Issue Affecting App Acceleration and ZTNA Connector in Switzerland Region <br><br>Prisma Access Engineering team and SRE Team are investigating a control plane issue affecting App Acceleration and ZTNA Connector within the Switzerland region. Next update will be provided by Feb 24, 11 AM UTC. <div>
+<div> [High] - Control Plane Issue Affecting App Acceleration and ZTNA Connector in Switzerland Region <br /><br />Prisma Access Engineering team and SRE Team are investigating a control plane issue affecting App Acceleration and ZTNA Connector within the Switzerland region. Next update will be provided by Feb 24, 11 AM UTC. <div>
 <p><small>Feb <var>24</var>, <var>06:56</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>24</var>, <var>06:54</var> UTC</small><br /><strong>Investigating</strong> - Prisma Access Engineering team and SRE Team are addressing a control plane issue affecting App Acceleration and ZTNA Connector within the Switzerland region. Next update will be provided by Feb 24 2024 11 AM UTC.</p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 06:56:03 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 06:56:03 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud 24.2.2 Scheduled Release</title>
 <link>https://status.paloaltonetworks.com/incidents/14t1fc0cqjbg</link>
