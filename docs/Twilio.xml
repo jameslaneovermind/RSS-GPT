@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/2mhjwwj2y28l</link>
@@ -14,19 +15,17 @@ Summary: A subset of small US networks is conducting a planned maintenance from 
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>18:09</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US is conducting a planned maintenance from 27 February 2024 at 22:00 PST until 27 February 2024 at 23:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 22:00:00 -0800</pubDate>
-<pubDate>Tue, 27 Feb 2024 22:00:00 -0800</pubDate>
 </item>
 <item>
 <title>Inbound Messages stopped showing Messaging Service SID</title>
 <link>https://status.twilio.com/incidents/blbvd85d0zjp</link>
 <guid>https://status.twilio.com/incidents/blbvd85d0zjp</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage: Inbound messages not showing Messaging Service SID <br><br> Our monitoring systems have detected a potential issue, inbound messages stopped showing Messaging Service SID. Our engineering team is actively investigating.
+<div> [High] - Major Outage: Inbound messages not showing Messaging Service SID <br /><br /> Our monitoring systems have detected a potential issue, inbound messages stopped showing Messaging Service SID. Our engineering team is actively investigating.
 
  <div>
 <p><small>Feb <var>23</var>, <var>17:52</var> PST</small><br /><strong>Update</strong> - Inbound messages stopped showing Messaging Service SID. Our engineering team has been alerted and is actively investigating. We will provide an update in 1 hour or as soon as more information becomes available.</p><p><small>Feb <var>23</var>, <var>17:40</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue, inbound messages stopped showing Messaging Service SID. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
 ]]></content:encoded>
-<pubDate>Fri, 23 Feb 2024 17:54:11 -0800</pubDate>
 <pubDate>Fri, 23 Feb 2024 17:54:11 -0800</pubDate>
 </item>
 <item>
@@ -34,13 +33,11 @@ Summary: A subset of small US networks is conducting a planned maintenance from 
 <link>https://status.twilio.com/incidents/1q2gkr1196s9</link>
 <guid>https://status.twilio.com/incidents/1q2gkr1196s9</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SMS Delivery Delay to Entel Network in Peru <br><br> Our engineers are working with our carrier partner to resolve the issue. <div>
+<div> [Medium] - SMS Delivery Delay to Entel Network in Peru <br /><br /> Our engineers are working with our carrier partner to resolve the issue. <div>
 <p><small>Feb <var>23</var>, <var>17:38</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delay to Entel Network in Peru. Our engineers are working with our carrier partner to resolve the issue. We will provide an update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 17:38:44 -0800</pubDate>
-<pubDate>Fri, 23 Feb 2024 17:38:44 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delay to Telefonica Network in Colombia</title>
 <link>https://status.twilio.com/incidents/bqtsbwsdngfd</link>
