@@ -4,6 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/7k12pcd3h5wh</link>
+<guid>https://status.equinix.com/incidents/7k12pcd3h5wh</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric / Network Edge Outage <br><br> We are currently investigating this issue. Incident Number: INC0029808. <div>
+<p><small>Feb <var>24</var>, <var>06:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">fjy06vwmzk9f</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029808</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI); Network Edge - Americas (MI)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 06:08:47 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 06:08:47 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
