@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Issues with syncing user id and group information with Cloud Identity Engine</title>
 <link>https://status.paloaltonetworks.com/incidents/69tg3jnlbnss</link>
 <guid>https://status.paloaltonetworks.com/incidents/69tg3jnlbnss</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Prisma Access Notification Sync Issue <br><br> Prisma Access Engineering team is aware of issues in notifications impacting the sync of users and groups with Cloud Identity Engine for customers who have between Feb 23 11:55 PM UTC and Feb 24 01:20 AM UTC. The issue impacts Cortex Data Lake onboarded in Americas, causing delays in syncing user and user group information within the Prisma Access Mobile User Gateways and Remote Networks. <div>
+<div> [Medium] - Prisma Access Notification Sync Issue <br /><br /> Prisma Access Engineering team is aware of issues in notifications impacting the sync of users and groups with Cloud Identity Engine for customers who have between Feb 23 11:55 PM UTC and Feb 24 01:20 AM UTC. The issue impacts Cortex Data Lake onboarded in Americas, causing delays in syncing user and user group information within the Prisma Access Mobile User Gateways and Remote Networks. <div>
 <p><small>Feb <var>24</var>, <var>02:35</var> UTC</small><br /><strong>Identified</strong> - The Prisma Access Engineering team is aware of issues in notifications impacting the sync of users and groups with Cloud Identity Engine for customers who have between Feb 23 11:55 PM UTC  and Feb 24 01:20 AM UTC and are actively working to resolve them.<br /><br />This issue impacts customers whose Cortex Data Lake is onboarded in Americas and given this issue, the users and user group information retrieved/learnt between Feb 23 11:55 PM UTC  and Feb 24 01:20 AM UTC will have delays in syncing, within the Prisma Access Mobile User Gateways and Remote Networks.<br /><br />Our team is committed to restoring full functionality as swiftly as possible and is taking all necessary steps to address this matter.<br />The next update will be shared by Feb 24, 09:00 AM UTC</p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 02:36:04 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 02:36:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Advanced Threat Prevention (ATP) - Scheduled Maintenance - Global / All Regions</title>
 <link>https://status.paloaltonetworks.com/incidents/kl8jr4jv8pyq</link>

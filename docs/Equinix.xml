@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/2w1p92cnc7rm</link>
 <guid>https://status.equinix.com/incidents/2w1p92cnc7rm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Impacting Equinix Internet Access / Equinix Connect - EMEA (FR) <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0029807
+<div> [High] - Major Outage Impacting Equinix Internet Access / Equinix Connect - EMEA (FR) <br /><br /> The issue has been identified and a fix is being implemented. Incident Number: INC0029807
 
 Summary: The company is currently experiencing a major outage impacting Equinix Internet Access / Equinix Connect - EMEA (FR), with a fix being implemented for the identified issue. <div>
 <p><small>Feb <var>24</var>, <var>03:10</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">zqq64f6d1dr8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029807</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR)]</div></p><p><small>Feb <var>24</var>, <var>02:55</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zqq64f6d1dr8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029807</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 03:10:51 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 03:10:51 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/8b24hdp1hj1q</link>
