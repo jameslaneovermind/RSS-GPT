@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect, Network Edge)</title>
 <link>https://status.equinix.com/incidents/y5dfrn8njs45</link>
@@ -14,9 +15,7 @@ Summary: The issue has been identified and a fix is being implemented for Equini
 <p><small>Feb <var>24</var>, <var>19:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">kgk60l8flhk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029849</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p><p><small>Feb <var>24</var>, <var>19:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kgk60l8flhk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029849</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 19:48:21 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 19:48:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/wrbwk7qphpsy</link>
