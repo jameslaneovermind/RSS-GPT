@@ -518,3 +518,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SMS Delivery Delay to Telefonica Network in Colombia](https://status.twilio.com/incidents/bqtsbwsdngfd)
 append_entries: 1
 Finish: 2024-02-24 01:37:07.140354
+------------------------------------------------------
+Started: 2024-02-24 02:11:59.293756
+Existing_entries: 60
+Fetching from https://status.twilio.com/history.rss
+Token length: 339
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/2mhjwwj2y28l)
+Token length: 501
+Summarized using GPT-3.5-turbo-1106
+Append: [Inbound Messages stopped showing Messaging Service SID](https://status.twilio.com/incidents/blbvd85d0zjp)
+Token length: 256
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delay to Entel Network in Peru](https://status.twilio.com/incidents/1q2gkr1196s9)
+append_entries: 3
+Finish: 2024-02-24 02:12:02.241335

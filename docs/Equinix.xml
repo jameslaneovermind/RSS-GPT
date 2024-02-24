@@ -4,6 +4,46 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/8b24hdp1hj1q</link>
+<guid>https://status.equinix.com/incidents/8b24hdp1hj1q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect Outage
+Summary:
+We are currently investigating a major incident with Equinix Internet Access / Equinix Connect in the AMER (DC) region. <div>
+<p><small>Feb <var>24</var>, <var>02:12</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">v6jmv9bgttts</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029803</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 02:12:20 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 02:12:20 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/0dkkzq2tn3ws</link>
+<guid>https://status.equinix.com/incidents/0dkkzq2tn3ws</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Metro Connect - Asia-Pacific
+Summary: We are currently investigating an issue with Metro Connect in the Asia-Pacific region. <div>
+<p><small>Feb <var>24</var>, <var>02:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">fbfyc0xky2rj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029804</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 02:11:43 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 02:11:43 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect, Network Edge)</title>
+<link>https://status.equinix.com/incidents/lygd2w2lcsh1</link>
+<guid>https://status.equinix.com/incidents/lygd2w2lcsh1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Platform Downtime <br><br> We are currently investigating a major incident that has caused platform downtime. We are working to resolve this issue as quickly as possible.
+
+[Medium] - Performance Degradation: Network Connectivity <br><br> We are currently investigating performance degradation in network connectivity and are working to address the issue.
+
+[Low] - Scheduled Maintenance: Equinix Internet Access <br><br> We have identified the need for scheduled maintenance for Equinix Internet Access and will be performing the necessary updates. <div>
+<p><small>Feb <var>24</var>, <var>02:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">blfm3gly2jdw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029801</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC); Network Edge - Americas (DC)]</div></p><p><small>Feb <var>24</var>, <var>01:42</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">blfm3gly2jdw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029801</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC); Network Edge - Americas (DC)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 02:06:09 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 02:06:09 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
