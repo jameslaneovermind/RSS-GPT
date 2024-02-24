@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Brightpearl - Retail</title>
 <link>https://status.sage.com/incidents/f0ch2ycbb0r0</link>
 <guid>https://status.sage.com/incidents/f0ch2ycbb0r0</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major PDF Generator Service Outage in US and Europe <br><br> We identified that Brightpearl´s PDF generator service was unavailable for customers in the US and Europe. All other product functionality was performing as expected. The service is now performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service. <div>
+<div> [High] - Major PDF Generator Service Outage in US and Europe <br /><br /> We identified that Brightpearl´s PDF generator service was unavailable for customers in the US and Europe. All other product functionality was performing as expected. The service is now performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service. <div>
 <p><small>Feb <var>23</var>, <var>22:43</var> UTC</small><br /><strong>Monitoring</strong> - We identified that Brightpearl´s PDF generator service was unavailable for customers in the US and Europe. All other product functionality was performing as expected.<br /> <br />The service is now performing as expected.<br /> <br />Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>23</var>, <var>22:23</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Fri, 23 Feb 2024 22:43:39 +0000</pubDate>
-<pubDate>Fri, 23 Feb 2024 22:43:39 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage 100 Partner Cloud (FR) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/lg52jjzwy1z7</link>

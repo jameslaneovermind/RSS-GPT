@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Canada SMS Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/qs3jwyyvhsf6</link>
+<guid>https://status.twilio.com/incidents/qs3jwyyvhsf6</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for SMS Carrier Partner in Canada
+Summary: Our SMS carrier partner in Canada is conducting a planned maintenance from 25 February 2024 at 21:00 PST until 26 February 2024 at 00:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Canada handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>21:00</var> PST &nbsp;-&nbsp; Feb <var>26</var>, <var>00:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>16:11</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in Canada is conducting a planned maintenance from 25 February 2024 at 21:00 PST until 26 February 2024 at 00:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Canada handsets.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 21:00:00 -0800</pubDate>
+<pubDate>Sun, 25 Feb 2024 21:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>SMS Delivery Delays to SMS Delivery Receipts Delay to CTBC Cellular network in Brazil</title>
