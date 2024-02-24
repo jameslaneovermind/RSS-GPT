@@ -4,6 +4,29 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/c9x6km0gnms2</link>
+<guid>https://status.equinix.com/incidents/c9x6km0gnms2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Equinix Fabric and Network Edge Outage
+Summary: An incident with Equinix Fabric and Network Edge services in Asia-Pacific and EMEA regions has been identified and a fix is being implemented. This has caused a major outage affecting platform functionality. <div>
+<p><small>Feb <var>24</var>, <var>10:55</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">87f9z3nyp94v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029819</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (GV) & Asia-Pacific (SG); Network Edge - EMEA (GV) & Asia-Pacific (SG)]</div></p><p><small>Feb <var>24</var>, <var>10:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">87f9z3nyp94v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029819</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG) & EMEA (GV); Network Edge - EMEA (GV) & Asia-Pacific (SG)]</div></p><p><small>Feb <var>24</var>, <var>10:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">87f9z3nyp94v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029819</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (GV) & Asia-Pacific (SG); Network Edge - EMEA (GV) & Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 10:55:55 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 10:55:55 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/w7zj9zwdg7dr</link>
+<guid>https://status.equinix.com/incidents/w7zj9zwdg7dr</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Equinix SMC Backbone Link Down <br><br> One of Equinix Fabric backbone links between APAC and EMEA went down, but there was no impact to the service as traffic automatically rerouted to an alternate link. The issue has been reported to the provider for investigation. <div>
+<p><small>Feb <var>24</var>, <var>10:32</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of Equinix Fabric backbone links between APAC and EMEA went down. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">gk386q6x5qlr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029818</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (GV) & Asia-Pacific (SG); Network Edge - EMEA (GV) & Asia-Pacific (SG)]</div></p><p><small>Feb <var>24</var>, <var>10:16</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gk386q6x5qlr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029818</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (GV) & Asia-Pacific (SG); Network Edge - EMEA (GV) & Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 10:32:06 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 10:32:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Network Edge, Equinix Internet Access / Equinix Connect)</title>
