@@ -509,3 +509,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Canada SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/qs3jwyyvhsf6)
 append_entries: 1
 Finish: 2024-02-24 00:36:00.231400
+------------------------------------------------------
+Started: 2024-02-24 01:37:06.082763
+Existing_entries: 59
+Fetching from https://status.twilio.com/history.rss
+Token length: 536
+Summarized using GPT-3.5-turbo-1106
+Append: [SMS Delivery Delay to Telefonica Network in Colombia](https://status.twilio.com/incidents/bqtsbwsdngfd)
+append_entries: 1
+Finish: 2024-02-24 01:37:07.140354

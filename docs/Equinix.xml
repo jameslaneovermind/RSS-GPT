@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/3mnqn49r64t4</link>
 <guid>https://status.equinix.com/incidents/3mnqn49r64t4</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix SMC Encountered Line Card Flap in DC Metro <br><br> Equinix engineers are currently investigating with the hardware vendor. <div>
+<div> [High] - Equinix SMC Encountered Line Card Flap in DC Metro <br /><br /> Equinix engineers are currently investigating with the hardware vendor. <div>
 <p><small>Feb <var>24</var>, <var>00:31</var> UTC</small><br /><strong>Update</strong> - Equinix SMC encountered a line card flap in the DC Metro. Equinix engineers are currently investigating with the hardware vendor..<br /><div style="display: none;">7m8jlr9k3zc8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029797</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC)]</div></p><p><small>Feb <var>24</var>, <var>00:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">7m8jlr9k3zc8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029797</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC)]</div></p>
 ]]></content:encoded>
-<pubDate>Sat, 24 Feb 2024 00:31:35 +0000</pubDate>
 <pubDate>Sat, 24 Feb 2024 00:31:35 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: Equinix is currently investigating an issue with their internet access 
 <p><small>Feb <var>24</var>, <var>00:17</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bnk6pk1gt6w6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029793</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p><p><small>Feb <var>24</var>, <var>00:03</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bnk6pk1gt6w6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029793</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 00:17:17 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 00:17:17 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Network Edge)</title>
 <link>https://status.equinix.com/incidents/b9mjkyq7546k</link>

@@ -411,3 +411,10 @@ Fetching from https://status.shopify.com/history.rss
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/Shopify
+------------------------------------------------------
+Started: 2024-02-24 01:37:37.978009
+Existing_entries: 0
+Fetching from https://status.shopify.com/history.rss
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/Shopify

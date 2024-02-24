@@ -598,3 +598,9 @@ Existing_entries: 50
 Fetching from https://status.clickhouse.com/history.rss
 append_entries: 0
 Finish: 2024-02-24 00:35:54.228919
+------------------------------------------------------
+Started: 2024-02-24 01:37:01.020732
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-02-24 01:37:01.452078

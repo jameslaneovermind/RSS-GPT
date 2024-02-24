@@ -5,6 +5,18 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>SMS Delivery Delay to Telefonica Network in Colombia</title>
+<link>https://status.twilio.com/incidents/bqtsbwsdngfd</link>
+<guid>https://status.twilio.com/incidents/bqtsbwsdngfd</guid>
+<content:encoded><![CDATA[
+<div> [High] - SMS Delivery Delay to Telefonica Network in Colombia <br><br> There is an ongoing SMS delivery delay to Telefonica Network in Colombia. Engineers are actively working with the carrier partner to resolve the issue and ensure a full recovery. Further updates will be provided in the next hour. <div>
+<p><small>Feb <var>23</var>, <var>17:35</var> PST</small><br /><strong>Monitoring</strong> - We are observing recovery in SMS delivery delay to Telefonica Network in Colombia. We will continue monitoring the service to ensure a full recovery. We will provide another update in 2 hours or as soon as more information becomes available.</p><p><small>Feb <var>23</var>, <var>16:42</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delay to Telefonica Network in Colombia. Our engineers are working with our carrier partner to resolve the issue. We will provide an update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Fri, 23 Feb 2024 17:35:15 -0800</pubDate>
+<pubDate>Fri, 23 Feb 2024 17:35:15 -0800</pubDate>
+</item>
+
+<item>
 <title>Canada SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/qs3jwyyvhsf6</link>
 <guid>https://status.twilio.com/incidents/qs3jwyyvhsf6</guid>
@@ -14,9 +26,7 @@ Summary: Our SMS carrier partner in Canada is conducting a planned maintenance f
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>21:00</var> PST &nbsp;-&nbsp; Feb <var>26</var>, <var>00:00</var> PST</strong></p><p><small>Feb <var>23</var>, <var>16:11</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in Canada is conducting a planned maintenance from 25 February 2024 at 21:00 PST until 26 February 2024 at 00:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Canada handsets.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 21:00:00 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 21:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to SMS Delivery Receipts Delay to CTBC Cellular network in Brazil</title>
 <link>https://status.twilio.com/incidents/2kvjlvz71x12</link>
