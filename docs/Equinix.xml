@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/g3yd7ytcjswy</link>
+<guid>https://status.equinix.com/incidents/g3yd7ytcjswy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Platform Downtime Incident <br><br> We have identified a major issue with Equinix Internet Access and Connect services in the EMEA region. A fix is being implemented to address the outage.
+ <div>
+<p><small>Feb <var>24</var>, <var>17:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dvt8297q5c9l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029845</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (LD); Metro Connect - EMEA (LD)]</div></p><p><small>Feb <var>24</var>, <var>17:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dvt8297q5c9l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029845</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (LD); Metro Connect - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 17:36:01 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 17:36:01 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/2nybzz8pg79q</link>
+<guid>https://status.equinix.com/incidents/2nybzz8pg79q</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Equinix Fabric - Americas (CH, NY) <br><br> We are currently investigating this issue.
+ <div>
+<p><small>Feb <var>24</var>, <var>17:15</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">n0d2qr1t0567</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029457</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Feb <var>22</var>, <var>00:11</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n0d2qr1t0567</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029457</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Feb <var>21</var>, <var>23:55</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n0d2qr1t0567</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029457</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 17:15:55 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 17:15:55 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Internet Exchange)</title>
