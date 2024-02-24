@@ -5,18 +5,29 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect, Network Edge)</title>
+<link>https://status.equinix.com/incidents/y5dfrn8njs45</link>
+<guid>https://status.equinix.com/incidents/y5dfrn8njs45</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Network Issue
+Summary: The issue has been identified and a fix is being implemented for Equinix Internet Access and Equinix Connect in America. We are currently investigating the issue. Incident Number: INC0029849. <div>
+<p><small>Feb <var>24</var>, <var>19:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">kgk60l8flhk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029849</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p><p><small>Feb <var>24</var>, <var>19:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kgk60l8flhk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029849</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR); Network Edge - Americas (TR)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 24 Feb 2024 19:48:21 +0000</pubDate>
+<pubDate>Sat, 24 Feb 2024 19:48:21 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/wrbwk7qphpsy</link>
 <guid>https://status.equinix.com/incidents/wrbwk7qphpsy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Network Outage in EMEA (FR) <br><br> A critical issue has been identified in the Equinix Fabric and Network Edge in EMEA (FR). A fix is currently being implemented for the large-scale outage.
+<div> [High] - Major Network Outage in EMEA (FR) <br /><br /> A critical issue has been identified in the Equinix Fabric and Network Edge in EMEA (FR). A fix is currently being implemented for the large-scale outage.
  <div>
 <p><small>Feb <var>24</var>, <var>19:03</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">sn11fswjqykf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029848</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR); Network Edge - EMEA (FR)]</div></p><p><small>Feb <var>24</var>, <var>18:48</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">sn11fswjqykf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029848</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR); Network Edge - EMEA (FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 24 Feb 2024 19:03:25 +0000</pubDate>
-<pubDate>Sat, 24 Feb 2024 19:03:25 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/g3yd7ytcjswy</link>
