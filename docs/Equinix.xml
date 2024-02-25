@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/fx93ryqxlvp7</link>
 <guid>https://status.equinix.com/incidents/fx93ryqxlvp7</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Potential Issue <br><br> We are currently investigating a potential issue with Equinix Fabric in the Americas. Incident Number: INC0029876. <div>
+<div> [Medium] - Investigating Potential Issue <br /><br /> We are currently investigating a potential issue with Equinix Fabric in the Americas. Incident Number: INC0029876. <div>
 <p><small>Feb <var>25</var>, <var>08:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">t4z63kffyfcx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029876</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 08:08:58 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 08:08:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/c7b46nm92sq2</link>
