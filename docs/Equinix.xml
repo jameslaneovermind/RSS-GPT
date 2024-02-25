@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/r82j6p6518t2</link>
@@ -14,9 +15,7 @@ Summary: The issue has been identified and a fix is being implemented. This indi
 <p><small>Feb <var>25</var>, <var>03:58</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">njn4w36ttws8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029865</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p><p><small>Feb <var>25</var>, <var>03:42</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">njn4w36ttws8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029865</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 03:58:08 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 03:58:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/61tlfzl3ccph</link>
