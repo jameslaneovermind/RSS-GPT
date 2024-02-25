@@ -4,6 +4,19 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Cloud Compute emergency maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/svrk8pgmf344</link>
+<guid>https://status.paloaltonetworks.com/incidents/svrk8pgmf344</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance: Prisma Cloud Compute Console Upgrade
+<br><br>
+Summary: The Prisma Cloud Compute team will be performing an emergency maintenance patch to upgrade the Compute console to version 32.03.123. Customers may experience intermittent failures across services during the patch update, but downtime is expected to be minimal. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>25</var>, <var>22:15</var> - <var>23:45</var> UTC</strong></p><p><small>Feb <var>25</var>, <var>22:00</var> UTC</small><br /><strong>Scheduled</strong> - WHAT:<br />The Prisma Cloud Compute team will perform an emergency maintenance patch on Compute console.<br />The Compute console will be upgraded to version 32.03.123.<br /><br />WHEN:<br />Feb 25th, 2024 from 10:15 PM UTC to 11:45 PM UTC.<br /><br />IMPACT:<br />During the maintenance, customers may experience intermittent failures across services as they get patched. It's a rolling patch update, and the Prisma cloud compute consoles are expected to be down only for a few minutes.<br /><br />For any issues with the Prisma Cloud Compute, please reach out to the Palo alto networks Prisma Cloud support team.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 22:15:00 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 22:15:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud Compute (Twistlock) is experiencing partial outage for limited tenants</title>

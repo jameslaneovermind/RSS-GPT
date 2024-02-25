@@ -4,18 +4,17 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/5twyv5fj793y</link>
 <guid>https://status.bubble.io/incidents/5twyv5fj793y</guid>
 <content:encoded><![CDATA[
-<div> [High] - API Workflow Failure Investigation <br><br> Summary: Scheduled API workflows are not running to completion, causing a major impact on system functionality. <div>
+<div> [High] - API Workflow Failure Investigation <br /><br /> Summary: Scheduled API workflows are not running to completion, causing a major impact on system functionality. <div>
 <p><small>Feb <var>25</var>, <var>15:36</var> EST</small><br /><strong>Investigating</strong> - We are investigating reports of scheduled API workflows not running to completion.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 15:38:15 -0500</pubDate>
-<pubDate>Sun, 25 Feb 2024 15:38:15 -0500</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/wbynk7gh40mk</link>
