@@ -4,20 +4,19 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Intacct - Global - Degraded Performance</title>
 <link>https://status.sage.com/incidents/zqynfn80mv0d</link>
 <guid>https://status.sage.com/incidents/zqynfn80mv0d</guid>
 <content:encoded><![CDATA[
-<div> [High] - Global Service Slowness Identified <br><br> Customers globally are experiencing slowness with the service. A downtime is being performed to implement proactive improvements before the weekday customer load.
+<div> [High] - Global Service Slowness Identified <br /><br /> Customers globally are experiencing slowness with the service. A downtime is being performed to implement proactive improvements before the weekday customer load.
 
  <div>
 <p><small>Feb <var>25</var>, <var>01:04</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Feb <var>25</var>, <var>00:57</var> UTC</small><br /><strong>Investigating</strong> - We have identified customers globally would be experiencing slowness when using the service. We are performing a downtime that will allow us to implement some improvements to the services proactively before the weekday customer load.<br /> <br />Thank you for your patience as we work to resolve this issue.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 01:04:00 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 01:04:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Intacct - Australia - Partial Outage</title>
 <link>https://status.sage.com/incidents/q0ln98nrz57h</link>
