@@ -4,6 +4,28 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/frd9z6kx3r75</link>
+<guid>https://status.equinix.com/incidents/frd9z6kx3r75</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Equinix Internet Access/Connect EMEA <br><br> We are currently investigating the issue with the Equinix Internet Access/Connect EMEA. Incident Number: INC0029912. <div>
+<p><small>Feb <var>25</var>, <var>23:05</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">sm9kl0x66tn6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029912</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 23:05:26 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 23:05:26 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/2c9m6cwwgxvj</link>
+<guid>https://status.equinix.com/incidents/2c9m6cwwgxvj</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Trunk Link Flapping Incident <br><br> Equinix SMC monitored a trunk link between NY13 and NY4 that flapped and recovered within 2 seconds. No impact to service as traffic automatically rerouted to an alternate link. The issue was reported to the provider for investigation. <div>
+<p><small>Feb <var>25</var>, <var>23:05</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of trunk links between NY13  and  NY4 flapped and recovered within 2 seconds. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">90p9x9p7lv3l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029911</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (NY)]</div></p><p><small>Feb <var>25</var>, <var>22:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.<br /><div style="display: none;">90p9x9p7lv3l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029911</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 23:05:44 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 23:05:44 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
