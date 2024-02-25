@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/c7b46nm92sq2</link>
+<guid>https://status.equinix.com/incidents/c7b46nm92sq2</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Equinix Fabric and Network Edge Issue in Asia-Pacific
+Summary: We are currently investigating an issue with Equinix Fabric and Network Edge services in the Asia-Pacific region. <div>
+<p><small>Feb <var>25</var>, <var>07:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">pc3xs6vbxtty</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029874</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG); Network Edge - Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 07:04:21 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 07:04:21 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Metro Connect, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/860p6tfg1fq3</link>
+<guid>https://status.equinix.com/incidents/860p6tfg1fq3</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident - Equinix Fabric and Metro Connect Outage <br><br> We have identified a critical issue impacting Equinix Fabric and Metro Connect services in the EMEA region. A fix is currently being implemented to resolve the outage.
+
+ <div>
+<p><small>Feb <var>25</var>, <var>06:49</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">vflxtn1k2qsq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029873</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL); Metro Connect - EMEA (IL)]</div></p><p><small>Feb <var>25</var>, <var>06:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vflxtn1k2qsq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029873</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (IL); Equinix Fabric - EMEA (IL)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 06:49:07 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 06:49:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
