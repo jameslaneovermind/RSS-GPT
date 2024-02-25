@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/05lxbq5f8h22</link>
 <guid>https://status.equinix.com/incidents/05lxbq5f8h22</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Outage on Equinix Fabric and Network Edge in Americas 
-<br><br> 
+<br /><br /> 
 We are currently investigating a critical issue that is impacting Equinix Fabric and Network Edge services in the Americas (CU, NY). Incident number INC0029888 has been identified and our team is working to resolve the issue. <div>
 <p><small>Feb <var>25</var>, <var>13:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">g9drkprr4pn3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029888</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CU, NY); Network Edge - Americas (NY)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 13:53:49 +0000</pubDate>
 <pubDate>Sun, 25 Feb 2024 13:53:49 +0000</pubDate>
 </item>
 <item>
@@ -27,9 +27,7 @@ Summary: The company is currently investigating a potential issue with the Metro
 <p><small>Feb <var>25</var>, <var>13:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">rzjqgxx2kmjs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029887</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (RJ)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 13:53:31 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 13:53:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/4kj0jkmw42v2</link>

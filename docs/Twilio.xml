@@ -4,15 +4,15 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Delays to Safaricom Network in Kenya</title>
 <link>https://status.twilio.com/incidents/p6zbnl40pytt</link>
 <guid>https://status.twilio.com/incidents/p6zbnl40pytt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SMS Delivery Delays to Safaricom Network in Kenya <br><br> We are experiencing SMS delivery delays when sending messages to Safaricom Network in Kenya. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. <div>
+<div> [Medium] - SMS Delivery Delays to Safaricom Network in Kenya <br /><br /> We are experiencing SMS delivery delays when sending messages to Safaricom Network in Kenya. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. <div>
 <p><small>Feb <var>25</var>, <var>05:48</var> PST</small><br /><strong>Update</strong> - We are experiencing SMS delivery delays when sending messages to Safaricom Network in Kenya. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Feb <var>25</var>, <var>05:48</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>25</var>, <var>05:45</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to Safaricom Network in Kenya. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 05:48:36 -0800</pubDate>
 <pubDate>Sun, 25 Feb 2024 05:48:36 -0800</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.twilio.com/incidents/5f4wngk78hbl</link>
 <guid>https://status.twilio.com/incidents/5f4wngk78hbl</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SMS Delivery Failures to Evatis Network in Djibouti <br><br> Engineers are investigating SMS delivery failures to the Evatis Network in Djibouti. They are working with the carrier partner to resolve the issue and expect to provide another update in 1 hour or as soon as more information becomes available. <div>
+<div> [Medium] - SMS Delivery Failures to Evatis Network in Djibouti <br /><br /> Engineers are investigating SMS delivery failures to the Evatis Network in Djibouti. They are working with the carrier partner to resolve the issue and expect to provide another update in 1 hour or as soon as more information becomes available. <div>
 <p><small>Feb <var>25</var>, <var>05:35</var> PST</small><br /><strong>Update</strong> - We are experiencing SMS delivery failures to Evatis Network in Djibouti. Our engineers are working with our carrier partner to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Feb <var>25</var>, <var>05:34</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>25</var>, <var>05:31</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery failures to Evatis Network in Djibouti. Our engineers are working with our carrier partner to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
-<pubDate>Sun, 25 Feb 2024 05:35:05 -0800</pubDate>
 <pubDate>Sun, 25 Feb 2024 05:35:05 -0800</pubDate>
 </item>
 <item>
@@ -31,13 +30,11 @@
 <link>https://status.twilio.com/incidents/n8tww4fdzc2c</link>
 <guid>https://status.twilio.com/incidents/n8tww4fdzc2c</guid>
 <content:encoded><![CDATA[
-<div> [High] - SMS Delivery Delays to MTN Irancell Network in Iran <br><br> Our engineers are working with our carrier partner to resolve the issue. <div>
+<div> [High] - SMS Delivery Delays to MTN Irancell Network in Iran <br /><br /> Our engineers are working with our carrier partner to resolve the issue. <div>
 <p><small>Feb <var>25</var>, <var>05:24</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to MTN Irancell Network in Iran. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 05:24:01 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 05:24:01 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to Mitto Network in Afghanistan</title>
 <link>https://status.twilio.com/incidents/c35y7gr00654</link>
