@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Klarna purchase API degradation</title>
+<link>https://status.klarna.com/incidents/6kt6xtctdd1q</link>
+<guid>https://status.klarna.com/incidents/6kt6xtctdd1q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Card Payment Issues in Sweden <br /><br /> We are currently experiencing intermittent issues with card payments in Sweden. We are working to restore the service as soon as possible. Thank you for your patience. Summary: Major intermittent issues with card payments are affecting services in Sweden, and the company is actively working on resolving the problem. <div>
+<p><small>Feb <var>25</var>, <var>12:07</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing intermittent issues with card payments in Sweden. We are working to restore the service as soon as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 12:07:09 +0100</pubDate>
+</item>
+<item>
 <title>ID Scan option unavailable on Google Chrome browser for android users</title>
 <link>https://status.klarna.com/incidents/p6wm0swpxf6m</link>
 <guid>https://status.klarna.com/incidents/p6wm0swpxf6m</guid>

@@ -5,6 +5,30 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/4kj0jkmw42v2</link>
+<guid>https://status.equinix.com/incidents/4kj0jkmw42v2</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Potential Issue
+Summary: The company is currently investigating an issue and has identified the incident. Further investigation is ongoing. <div>
+<p><small>Feb <var>25</var>, <var>12:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">8mb6vxq9zn2h</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029884</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 12:04:50 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 12:04:50 +0000</pubDate>
+</item>
+<item>
+<title>Other (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/b4nfy6pytyv1</link>
+<guid>https://status.equinix.com/incidents/b4nfy6pytyv1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Platform Outage in Asia-Pacific <br><br> Summary: An issue has been identified in the Asia-Pacific region, and a fix is currently being implemented for a major incident. <div>
+<p><small>Feb <var>25</var>, <var>11:34</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">777v6hvzmj9l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029880</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (HK)]</div></p><p><small>Feb <var>25</var>, <var>11:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">777v6hvzmj9l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029880</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 25 Feb 2024 11:34:39 +0000</pubDate>
+<pubDate>Sun, 25 Feb 2024 11:34:39 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/rzjtfp5n357x</link>
 <guid>https://status.equinix.com/incidents/rzjtfp5n357x</guid>
@@ -14,9 +38,7 @@ Summary: The company is currently investigating an issue related to Equinix Fabr
 <p><small>Feb <var>25</var>, <var>11:03</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.<br /><div style="display: none;">vkm27j2mgm56</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029879</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 11:03:59 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 11:03:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/fx93ryqxlvp7</link>
