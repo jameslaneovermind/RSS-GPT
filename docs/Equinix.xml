@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/61tlfzl3ccph</link>
 <guid>https://status.equinix.com/incidents/61tlfzl3ccph</guid>
 <content:encoded><![CDATA[
-<div> High - Equinix Fabric Outage in Americas (ST) <br><br> We are currently investigating an issue that has been identified and a fix is being implemented for Equinix Fabric in the Americas (ST). Incident Number: INC0029854. <div>
+<div> High - Equinix Fabric Outage in Americas (ST) <br /><br /> We are currently investigating an issue that has been identified and a fix is being implemented for Equinix Fabric in the Americas (ST). Incident Number: INC0029854. <div>
 <p><small>Feb <var>25</var>, <var>00:15</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">y5zr3qf56kq3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029854</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p><p><small>Feb <var>24</var>, <var>23:59</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">y5zr3qf56kq3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029854</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 00:15:09 +0000</pubDate>
-<pubDate>Sun, 25 Feb 2024 00:15:09 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect, Network Edge)</title>
 <link>https://status.equinix.com/incidents/y5dfrn8njs45</link>
