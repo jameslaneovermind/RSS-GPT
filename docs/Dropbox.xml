@@ -4,6 +4,17 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+<item>
+<title>Capture may not be working as expected</title>
+<link>https://status.dropbox.com/incidents/h1y2cnf32dk4</link>
+<guid>https://status.dropbox.com/incidents/h1y2cnf32dk4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Issue with Dropbox capture files <br><br> Summary: The links to Dropbox capture files may not be working as expected. The issue has been identified, and a fix is being implemented. <div>
+<p><small>Feb <var>26</var>, <var>00:07</var> UTC</small><br /><strong>Investigating</strong> - Links to Dropbox capture files may not be working as expected</p><p><small>Feb <var>25</var>, <var>23:44</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 00:07:20 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 00:07:20 +0000</pubDate>
+</item>
 
 <item>
 <title>Scheduled maintenance</title>
