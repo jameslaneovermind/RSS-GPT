@@ -4,6 +4,17 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+<item>
+<title>HCP Consul unable to create, update, and delete clusters</title>
+<link>https://status.hashicorp.com/incidents/3g6tgp5z8164</link>
+<guid>https://status.hashicorp.com/incidents/3g6tgp5z8164</guid>
+<content:encoded><![CDATA[
+<div> [High] - HCP Consul Operations Issue <br><br> Users are currently unable to create, update, or delete clusters due to HCP Consul operations failing to complete. Engineering team is investigating the issue. <div>
+<p><small>Feb <var>26</var>, <var>13:42</var> UTC</small><br /><strong>Investigating</strong> - Our engineering team is investigating an issue with the following:<br /><br />HCP Consul operations are failing to complete.<br /><br />During this time, users may experience the following:<br /><br />Users are unable to create, update, or delete clusters.<br /><br />We will share another update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 13:42:55 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 13:42:55 +0000</pubDate>
+</item>
 
 <item>
 <title>Connectivity issues between nodes of HCP Vault clusters</title>

@@ -4,18 +4,17 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+
 <item>
 <title>EUR Webhooks and payment confirmations delayed</title>
 <link>https://www.gocardless-status.com/incidents/zm6s8t5cmn58</link>
 <guid>https://www.gocardless-status.com/incidents/zm6s8t5cmn58</guid>
 <content:encoded><![CDATA[
-<div> [High] - Delay in EUR Webhooks and Payment Confirmations <br><br> There is an ongoing issue with webhooks and payment confirmations for EUR in the dashboard, causing delays. The fix is being implemented and an update will be provided shortly. <div>
+<div> [High] - Delay in EUR Webhooks and Payment Confirmations <br /><br /> There is an ongoing issue with webhooks and payment confirmations for EUR in the dashboard, causing delays. The fix is being implemented and an update will be provided shortly. <div>
 <p><small>Feb <var>26</var>, <var>12:53</var> GMT</small><br /><strong>Investigating</strong> - We have identified an issue where webhooks and payment confirmations for EUR in the dashboard will be delayed. <br /><br />We are implementing the fix and will provide a further update shortly on its implementation.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 12:55:42 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 12:55:42 +0000</pubDate>
 </item>
-
 <item>
 <title>Scheduled downtime of Instant Bank Pay and Verified Mandates</title>
 <link>https://www.gocardless-status.com/incidents/18jmktj33j1z</link>

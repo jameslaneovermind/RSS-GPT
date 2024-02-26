@@ -4,20 +4,19 @@
 <title>Dialogue Status - Incident History</title>
 <link>https://status.dialogue.co</link>
 
+
 <item>
 <title>Filtering by reporting columns and member type broken in Dialogue prod-ca</title>
 <link>https://status.dialogue.co/incidents/w0dw96tgjp09</link>
 <guid>https://status.dialogue.co/incidents/w0dw96tgjp09</guid>
 <content:encoded><![CDATA[
 <div> [Tag(Medium)] - Bug Identified in Client Reporting Model
-<br><br>
+<br /><br />
 Summary: We have identified a bug in one of our client reporting models that is affecting filtering on reporting columns and member type in Sisense reports. The issue is not impacting partner reports or Metabase custom reports. A fix is not expected for a few weeks, and clients are advised not to use the affected filters for the time being. We apologize for the inconvenience. <div>
 <p><small>Feb <var>26</var>, <var>07:42</var> EST</small><br /><strong>Investigating</strong> - We've identified a bug in one of our client reporting models, affecting filtering on reporting columns (1-5) and member type (employee vs dependent) in Sisense reports. The other filters (as well as no filter) does not seem impacted at this time. Given these filters are only available for Dialogue Client Reports, the issue does not impact partner reports. Please restrain from using those filters for the time being. Note that the Metabase custom reports are not leveraging the same models, so are not impacted. You may still use those to pull your data.<br />We don't expect a fix for another few weeks minimum. If questioned, you can mention to clients that the accuracy of these filters is compromised, and clients who have made changes to the contents of the reporting columns are mostly impacted (ie division from finance to accounting). We apologize for the inconvenience.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 07:43:23 -0500</pubDate>
-<pubDate>Mon, 26 Feb 2024 07:43:23 -0500</pubDate>
 </item>
-
 <item>
 <title>Core Database Incident (CA)</title>
 <link>https://status.dialogue.co/incidents/1ldr1c2h82fh</link>

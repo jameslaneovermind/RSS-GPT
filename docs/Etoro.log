@@ -781,3 +781,12 @@ Existing_entries: 25
 Fetching from https://status.etoro.com/history.rss
 append_entries: 0
 Finish: 2024-02-26 13:08:50.687185
+------------------------------------------------------
+Started: 2024-02-26 14:08:55.631792
+Existing_entries: 25
+Fetching from https://status.etoro.com/history.rss
+Token length: 287
+Summarized using GPT-3.5-turbo-1106
+Append: [319 - EuroNatGas is not available for trading - Investigating](https://status.etoro.com/incidents/1qypvg8z88gh)
+append_entries: 1
+Finish: 2024-02-26 14:08:56.947547

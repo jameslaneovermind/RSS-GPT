@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Delivery Delays to T-Mobile in Montenegro</title>
+<link>https://status.twilio.com/incidents/g8wy01wmjxkw</link>
+<guid>https://status.twilio.com/incidents/g8wy01wmjxkw</guid>
+<content:encoded><![CDATA[
+<div> [High] - SMS Delivery Delays to T-Mobile Network in Montenegro
+Summary: The company is experiencing SMS delivery delays when sending messages to the T-Mobile network in Montenegro. Engineers are actively working with their carrier partner to resolve the issue and provide further updates. <div>
+<p><small>Feb <var>26</var>, <var>05:28</var> PST</small><br /><strong>Update</strong> - We are experiencing SMS delivery delays when sending messages to the T-Mobile network in Montenegro. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Feb <var>26</var>, <var>05:22</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to the T-Mobile network in Montenegro. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 05:28:37 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 05:28:37 -0800</pubDate>
+</item>
 
 <item>
 <title>SMS Delivery Delays to the Safaricom Network in Kenya</title>
