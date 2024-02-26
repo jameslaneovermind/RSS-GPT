@@ -4,6 +4,7 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Snyk Code Analysis Degradation</title>
 <link>https://status.snyk.io/incidents/60x6zfspn5d2</link>
@@ -17,9 +18,7 @@ Summary: A fix has been implemented and the team is monitoring the results. <div
 <p><small>Feb <var>26</var>, <var>13:21</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>26</var>, <var>13:11</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 13:31:18 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 13:31:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Delays affecting data retrieval in Snyk Reporting</title>
 <link>https://status.snyk.io/incidents/bmv20wjk3hzb</link>

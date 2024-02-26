@@ -4,18 +4,17 @@
 <title>eToro Status - Incident History</title>
 <link>https://status.etoro.com</link>
 
+
 <item>
 <title>319 - EuroNatGas is not available for trading - Investigating</title>
 <link>https://status.etoro.com/incidents/1qypvg8z88gh</link>
 <guid>https://status.etoro.com/incidents/1qypvg8z88gh</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - EuroNatGas Incorrect Execution Price <br><br> Our engineering team is currently working to resolve the issue of an incorrect execution price for EuroNatGas. We apologize for any inconvenience caused. Thank you for your understanding. Summary: Investigating incorrect execution price for EuroNatGas. <div>
+<div> [Medium] - EuroNatGas Incorrect Execution Price <br /><br /> Our engineering team is currently working to resolve the issue of an incorrect execution price for EuroNatGas. We apologize for any inconvenience caused. Thank you for your understanding. Summary: Investigating incorrect execution price for EuroNatGas. <div>
 <p><small>Feb <var>26</var>, <var>13:45</var> UTC</small><br /><strong>Investigating</strong> - Hello,<br />Please note that we are currently experiencing incorrect execution price for  319 - EuroNatGas. <br />Our engineering team is working hard to resolve the issue.<br />We appreciate your understanding and apologize for the inconvenience.<br /><br />Sincerely, <br />The eToro Team</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 13:45:33 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 13:45:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Customers are unable to see Home option on eToro platform</title>
 <link>https://status.etoro.com/incidents/yr4k6vp2qwnt</link>

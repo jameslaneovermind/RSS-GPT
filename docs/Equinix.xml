@@ -4,16 +4,16 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/9xdgv31366y2</link>
 <guid>https://status.equinix.com/incidents/9xdgv31366y2</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Internet Exchange Outage in EMEA (BA) <br><br> We are currently investigating a critical incident with our Internet Exchange in the EMEA region. A fix is being implemented for the identified issue.
+<div> [High] - Major Internet Exchange Outage in EMEA (BA) <br /><br /> We are currently investigating a critical incident with our Internet Exchange in the EMEA region. A fix is being implemented for the identified issue.
  <div>
 <p><small>Feb <var>26</var>, <var>14:04</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">fp67brxgy4gr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0027913</div><div class="affected-products font-small color-secondary">[Internet Exchange - EMEA (BA)]</div></p><p><small>Feb <var> 5</var>, <var>06:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">fp67brxgy4gr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0027913</div><div class="affected-products font-small color-secondary">[Internet Exchange - EMEA (BA)]</div></p><p><small>Feb <var> 5</var>, <var>06:20</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">fp67brxgy4gr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0027913</div><div class="affected-products font-small color-secondary">[Internet Exchange - EMEA (BA)]</div></p>
 ]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 14:04:25 +0000</pubDate>
 <pubDate>Mon, 26 Feb 2024 14:04:25 +0000</pubDate>
 </item>
 <item>
@@ -21,14 +21,12 @@
 <link>https://status.equinix.com/incidents/ksp3t350pm75</link>
 <guid>https://status.equinix.com/incidents/ksp3t350pm75</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Internet Access/Connect Outage in EMEA (FR) <br><br> A critical incident has caused a major outage in the Equinix Internet Access/Connect services in EMEA (FR). A fix is currently being implemented to resolve the issue.
+<div> [High] - Major Internet Access/Connect Outage in EMEA (FR) <br /><br /> A critical incident has caused a major outage in the Equinix Internet Access/Connect services in EMEA (FR). A fix is currently being implemented to resolve the issue.
  <div>
 <p><small>Feb <var>26</var>, <var>13:19</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">pmh73nznyk5m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029344</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR)]</div></p><p><small>Feb <var>21</var>, <var>09:00</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">pmh73nznyk5m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029344</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR)]</div></p><p><small>Feb <var>21</var>, <var>08:45</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">pmh73nznyk5m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029344</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 13:19:34 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 13:19:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Other (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/9lbc7gsydj9d</link>
