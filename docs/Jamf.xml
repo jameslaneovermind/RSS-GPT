@@ -4,6 +4,17 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+<item>
+<title>Changes to Connect ZTNA Access Policies are not propagated properly.</title>
+<link>https://status.jamf.com/incidents/7hhqw9t6q6jp</link>
+<guid>https://status.jamf.com/incidents/7hhqw9t6q6jp</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage <br><br> Summary: The issue has been identified and we are working on the fix. <div>
+<p><small>Feb <var>26</var>, <var>15:41</var> UTC</small><br /><strong>Investigating</strong> - The issue has been identified and we are working on the fix.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 15:41:13 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 15:41:13 +0000</pubDate>
+</item>
 
 <item>
 <title>JCDS Partial Outage</title>

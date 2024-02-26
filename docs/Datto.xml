@@ -5,17 +5,41 @@
 <link>https://status.datto.com</link>
 
 <item>
+<title>Datto RMM - Syrah (APAC) - 12.8.0 Release</title>
+<link>https://status.datto.com/incidents/z4gn8cfq82bx</link>
+<guid>https://status.datto.com/incidents/z4gn8cfq82bx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Datto RMM 12.8.0 Release
+Summary:
+This is a scheduled full platform and agent feature release for Datto RMM 12.8.0. Partners should expect disconnection of the agent during the update window. For full details, refer to the Datto RMM 12.8.0 Release Notes available on the provided link. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>10:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>15:24</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 10:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>PSA - UKLR, LON, UK2  - Outbound Email Delays</title>
+<link>https://status.datto.com/incidents/4ql5wfy9lszq</link>
+<guid>https://status.datto.com/incidents/4ql5wfy9lszq</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Outbound Email Delay Investigation <br><br> Our engineering teams are currently investigating an issue where outbound emails from our LON zones are being delayed. We apologise for any inconvenience caused. Thank you for your patience! <div>
+<p><small>Feb <var>26</var>, <var>16:02</var> UTC</small><br /><strong>Investigating</strong> - Our engineering teams are currently investigating an issue where outbound emails from our LON zones are being delayed.<br /><br />We apologise for any inconvenience caused.<br /><br />Thank you for your patience!</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 16:02:12 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 16:02:12 +0000</pubDate>
+</item>
+
+<item>
 <title>Datto SaaS Protection -Hardware Maintenance For 'use1-bfyii-2061'</title>
 <link>https://status.datto.com/incidents/5jx21sw9crym</link>
 <guid>https://status.datto.com/incidents/5jx21sw9crym</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Datto SaaS Protection Maintenance <br><br> 
+<div> [High] - Major Datto SaaS Protection Maintenance <br /><br /> 
 Scheduled maintenance to Datto SaaS Protection is currently in progress, leading to an estimated 120 hours of downtime. Affected Node: 1. use1-bfyii-2061. Users may experience an impact on systems and related services. Subscribe to receive up-to-date notifications on future maintenance periods. 
 
  <div>
 <p><small>Feb <var>26</var>, <var>15:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>26</var>, <var>14:36</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection on February 26th 2024, starting at 3:00PM UTC for an estimated 120 hours. <br /><br /> <br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br /> <br />Affected Node:  <br /><br />1. use1-bfyii-2061<br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod: https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored <br /><br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
 ]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 15:00:56 +0000</pubDate>
 <pubDate>Mon, 26 Feb 2024 15:00:56 +0000</pubDate>
 </item>
 <item>
@@ -23,14 +47,12 @@ Scheduled maintenance to Datto SaaS Protection is currently in progress, leading
 <link>https://status.datto.com/incidents/8lnpxyj19lxk</link>
 <guid>https://status.datto.com/incidents/8lnpxyj19lxk</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - M365 Teams Services Throttling Issue <br><br> Engineering team has adjusted backend configurations to mitigate Microsoft throttling impacting M365 Teams Services causing backups to fall behind. Monitoring is ongoing.
+<div> [Medium] - M365 Teams Services Throttling Issue <br /><br /> Engineering team has adjusted backend configurations to mitigate Microsoft throttling impacting M365 Teams Services causing backups to fall behind. Monitoring is ongoing.
  <div>
 <p><small>Feb <var>26</var>, <var>14:39</var> UTC</small><br /><strong>Monitoring</strong> - We are currently aware of a problem where M365 Teams Services can experience Microsoft throttling and cause backups to fall behind.<br /><br /><br /><br />Our Engineering team has identified the problem and has adjusted backend configurations to mitigate the impact of Microsoft throttling.<br /><br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod: <br /><br />https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored<br /><br /><br /><br />Subscribe to Datto SaaS Protection on the Status Page for up to date information.<br /><br /><br /><br />You can monitor the current status of this issue at https://status.datto.com/</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 14:39:50 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 14:39:50 +0000</pubDate>
 </item>
-
 <item>
 <title>PSA - DE1, EU1 - Database Server Maintenance</title>
 <link>https://status.datto.com/incidents/xrpl7k6h0n9v</link>

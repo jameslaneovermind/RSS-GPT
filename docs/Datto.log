@@ -533,3 +533,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Datto SaaS Protection - M365 Teams Backup Failures Due To API Throttling](https://status.datto.com/incidents/8lnpxyj19lxk)
 append_entries: 2
 Finish: 2024-02-26 15:09:41.458953
+------------------------------------------------------
+Started: 2024-02-26 16:11:36.525108
+Existing_entries: 29
+Fetching from https://status.datto.com/history.rss
+Token length: 471
+Summarized using GPT-3.5-turbo-1106
+Append: [Datto RMM - Syrah (APAC) - 12.8.0 Release](https://status.datto.com/incidents/z4gn8cfq82bx)
+Token length: 221
+Summarized using GPT-3.5-turbo-1106
+Append: [PSA - UKLR, LON, UK2  - Outbound Email Delays](https://status.datto.com/incidents/4ql5wfy9lszq)
+append_entries: 2
+Finish: 2024-02-26 16:11:39.437581
