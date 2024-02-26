@@ -5,6 +5,19 @@
 <link>https://status.sendgrid.com</link>
 
 <item>
+<title>Unable to create Event Webhook</title>
+<link>https://status.sendgrid.com/incidents/yhr8w9p9j6p2</link>
+<guid>https://status.sendgrid.com/incidents/yhr8w9p9j6p2</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Event Webhook Issue 
+Summary: Engineers are investigating an issue with Event Webhook causing error messages when creating new hooks. This does not impact mail send. Another update will be provided in 1 hour. <div>
+<p><small>Feb <var>26</var>, <var>13:30</var> PST</small><br /><strong>Investigating</strong> - Starting around 1:40pm PST on Feb 26th, 2024, our engineers began investigating an issue with Event Webhook. Users may experience an error message when attempting to create new Event Webhooks. This does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 13:30:15 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 13:30:15 -0800</pubDate>
+</item>
+
+<item>
 <title>Mail Send Drops and Inaccuracies in Stats</title>
 <link>https://status.sendgrid.com/incidents/29v2ym9hxgml</link>
 <guid>https://status.sendgrid.com/incidents/29v2ym9hxgml</guid>
@@ -15,9 +28,7 @@ A major mail send issue occurred, impacting new accounts and subusers created du
 <p><small>Feb <var>26</var>, <var>12:34</var> PST</small><br /><strong>Resolved</strong> - Starting around 11:06 AM PT on 02/26, our engineers have investigated some stats inaccuracies and resolved mail send drops. New accounts and subusers created between Thu 02/22 2:49 PM PT - Fri 02/23 4 PM PT that sent mail on Fri 02/23 between 8:15 AM - 4 PM PT would have been affected where about 16% of their emails were inadvertently dropped which would not be shown in the Stats page. The Mail Send issue has been resolved, and impacted services are operating normally.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 12:34:29 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 12:34:29 -0800</pubDate>
 </item>
-
 <item>
 <title>Contact SendGrid UI is not loading for users</title>
 <link>https://status.sendgrid.com/incidents/n99fncgvvk47</link>
