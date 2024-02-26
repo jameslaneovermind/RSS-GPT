@@ -4,6 +4,17 @@
 <title>Slack System Status</title>
 <link>https://status.slack.com/</link>
 
+<item>
+<title>Incident: Users are not able to create workflows</title>
+<link>https://status.slack.com//2024-02/b1389c8cd318a7d1</link>
+<guid>https://status.slack.com//2024-02/b1389c8cd318a7d1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Workflow Creation Issue <br><br> Summary: Users are currently unable to create workflows due to a system issue. We are investigating the cause and will provide updates as we have more information. <div>
+We are currently investigating an issue where users are not able to create workflows. Running existing workflows is not impacted. We will update as we have more information to share.
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 13:02:33 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 13:02:33 -0800</pubDate>
+</item>
 
 <item>
 <title>Incident: Issues sending and loading messages</title>

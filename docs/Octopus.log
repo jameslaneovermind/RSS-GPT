@@ -826,3 +826,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dynamic Worker Leases failing in WestEU](https://status.octopus.com/incidents/3pfkvpx17g0q)
 append_entries: 1
 Finish: 2024-02-26 20:08:36.166059
+------------------------------------------------------
+Started: 2024-02-26 21:09:18.672630
+Existing_entries: 26
+Fetching from https://status.octopus.com/history.rss
+append_entries: 0
+Finish: 2024-02-26 21:09:19.076213

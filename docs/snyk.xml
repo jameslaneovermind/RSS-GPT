@@ -4,6 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>CSV Failing Download From Reporting</title>
+<link>https://status.snyk.io/incidents/s1h0f2frz6zw</link>
+<guid>https://status.snyk.io/incidents/s1h0f2frz6zw</guid>
+<content:encoded><![CDATA[
+<div> [High] - Customers unable to download CSV from reporting <br><br> Snyk Technical Teams have confirmed that customers cannot download CSV from reporting. Snyk has identified the issue and is taking steps to mitigate the impact. Further updates to follow. Summary: Snyk is experiencing a critical issue where customers are unable to download CSV files from reporting, causing major disruption to their workflow. The technical teams are actively working on resolving the problem. <div>
+<p><small>Feb <var>26</var>, <var>20:39</var> UTC</small><br /><strong>Identified</strong> - Snyk Technical Teams have confirmed that customers cannot download CSV from reporting.  Snyk has identified the issue and is taking steps to mitigate the impact.  Further updates to follow.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 20:39:19 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 20:39:19 +0000</pubDate>
+</item>
 
 <item>
 <title>Reporting PDF Missing Data Incident</title>

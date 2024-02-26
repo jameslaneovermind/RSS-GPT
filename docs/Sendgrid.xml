@@ -4,6 +4,19 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+<item>
+<title>Mail Send Drops and Inaccuracies in Stats</title>
+<link>https://status.sendgrid.com/incidents/29v2ym9hxgml</link>
+<guid>https://status.sendgrid.com/incidents/29v2ym9hxgml</guid>
+<content:encoded><![CDATA[
+<div> [High] - Mail Send Drops Incident
+Summary:
+A major mail send issue occurred, impacting new accounts and subusers created during a specific timeframe. Approximately 16% of emails were dropped, and the stats inaccuracies were resolved by the engineering team. <div>
+<p><small>Feb <var>26</var>, <var>12:34</var> PST</small><br /><strong>Resolved</strong> - Starting around 11:06 AM PT on 02/26, our engineers have investigated some stats inaccuracies and resolved mail send drops. New accounts and subusers created between Thu 02/22 2:49 PM PT - Fri 02/23 4 PM PT that sent mail on Fri 02/23 between 8:15 AM - 4 PM PT would have been affected where about 16% of their emails were inadvertently dropped which would not be shown in the Stats page. The Mail Send issue has been resolved, and impacted services are operating normally.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 12:34:29 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 12:34:29 -0800</pubDate>
+</item>
 
 <item>
 <title>Contact SendGrid UI is not loading for users</title>
