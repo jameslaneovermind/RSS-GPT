@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>AU: XPM - Some customers are unable to login to XPM</title>
+<link>https://status.xero.com/incidents/fd8vzmk1bwcb</link>
+<guid>https://status.xero.com/incidents/fd8vzmk1bwcb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Login Issue Impacting XPM <br><br> We have identified what is impacting customers trying to login to XPM. This is our top priority and we will update you as soon as we can. Summary: The company has identified a major issue affecting customer login to XPM and is actively working on resolving it. <div>
+<p><small>Feb <var>26</var>, <var>03:55</var> UTC</small><br /><strong>Identified</strong> - We have identified what is impacting customers trying to login to XPM. This is our top priority and we will update you as soon as we can.<br /><br /><b>Status Last Reviewed:</b> 3:55am UTC</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 03:55:50 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 03:55:50 +0000</pubDate>
+</item>
 
 <item>
 <title>Global: Reports - Customers are unable to load Reports</title>
