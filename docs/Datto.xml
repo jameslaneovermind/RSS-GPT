@@ -4,6 +4,7 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto RMM - Syrah (APAC) - 12.8.0 Release</title>
 <link>https://status.datto.com/incidents/z4gn8cfq82bx</link>
@@ -15,20 +16,17 @@ This is a scheduled full platform and agent feature release for Datto RMM 12.8.0
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>10:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>15:24</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.8.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.8.0 Release Notes are available on the following link: https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.8.0.htm</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 10:00:00 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 10:00:00 +0000</pubDate>
 </item>
 <item>
 <title>PSA - UKLR, LON, UK2  - Outbound Email Delays</title>
 <link>https://status.datto.com/incidents/4ql5wfy9lszq</link>
 <guid>https://status.datto.com/incidents/4ql5wfy9lszq</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Outbound Email Delay Investigation <br><br> Our engineering teams are currently investigating an issue where outbound emails from our LON zones are being delayed. We apologise for any inconvenience caused. Thank you for your patience! <div>
+<div> [Medium] - Outbound Email Delay Investigation <br /><br /> Our engineering teams are currently investigating an issue where outbound emails from our LON zones are being delayed. We apologise for any inconvenience caused. Thank you for your patience! <div>
 <p><small>Feb <var>26</var>, <var>16:02</var> UTC</small><br /><strong>Investigating</strong> - Our engineering teams are currently investigating an issue where outbound emails from our LON zones are being delayed.<br /><br />We apologise for any inconvenience caused.<br /><br />Thank you for your patience!</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 16:02:12 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 16:02:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto SaaS Protection -Hardware Maintenance For 'use1-bfyii-2061'</title>
 <link>https://status.datto.com/incidents/5jx21sw9crym</link>

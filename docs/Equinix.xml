@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/z33fdyz39pm4</link>
@@ -14,20 +15,17 @@ Summary: A major issue has been identified with Equinix Fabric and Network Edge 
 <p><small>Feb <var>26</var>, <var>15:53</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">mjtxkh1mb8d8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029997</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (DB); Network Edge - EMEA (DB)]</div></p><p><small>Feb <var>26</var>, <var>15:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mjtxkh1mb8d8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029997</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (DB); Network Edge - EMEA (DB)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 15:53:35 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 15:53:35 +0000</pubDate>
 </item>
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/m90zw2zsh5d5</link>
 <guid>https://status.equinix.com/incidents/m90zw2zsh5d5</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Network Investigation Ongoing <br><br> We are currently investigating an issue with one of our CSP's port flapping. Incident Number: INC0029996. Next Action: SMC will open a ticket with the provider. <div>
+<div> [Low] - Network Investigation Ongoing <br /><br /> We are currently investigating an issue with one of our CSP's port flapping. Incident Number: INC0029996. Next Action: SMC will open a ticket with the provider. <div>
 <p><small>Feb <var>26</var>, <var>15:38</var> UTC</small><br /><strong>Update</strong> - Current Service Impact: None.<br /><br />Latest update: SMC detected that one of our CSP's port has flapped.<br /><br />Next Action: SMC will open a ticket with the provider..<br /><div style="display: none;">43gbxqhlswc5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029996</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV); Network Edge - Americas (SV)]</div></p><p><small>Feb <var>26</var>, <var>15:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">43gbxqhlswc5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029996</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV); Network Edge - Americas (SV)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 15:38:21 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 15:38:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/9xdgv31366y2</link>

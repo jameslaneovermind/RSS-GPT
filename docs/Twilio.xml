@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>On Call Engineers are Investigating an issue</title>
 <link>https://status.twilio.com/incidents/qcytfcg5b1tl</link>
 <guid>https://status.twilio.com/incidents/qcytfcg5b1tl</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Potential Connection Issue Detected <br><br> 
+<div> [Medium] - Potential Connection Issue Detected <br /><br /> 
 Our monitoring systems have detected a potential connection issue. Our engineering team is investigating. We will provide updates as soon as we have more information. Summary: Our monitoring systems have identified a potential connection issue, and our engineering team is currently investigating the matter. Further updates will be provided as the investigation progresses. <div>
 <p><small>Feb <var>26</var>, <var>07:34</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential connection issue. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 07:34:17 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 07:34:17 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to T-Mobile in Montenegro</title>
 <link>https://status.twilio.com/incidents/g8wy01wmjxkw</link>

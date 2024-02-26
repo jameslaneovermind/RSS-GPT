@@ -4,18 +4,17 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+
 <item>
 <title>System Incident - GNOSIS - Production</title>
 <link>https://status.optum.com/incidents/7zznppw4jqvy</link>
 <guid>https://status.optum.com/incidents/7zznppw4jqvy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Issue with GNOSIS Product <br><br> Internal support teams are investigating a potential issue within the GNOSIS product to determine and resolve any impact. More information will be provided as it becomes available. Summary: The company is investigating a potential issue with the GNOSIS product, and internal support teams are working to resolve any impact. <div>
+<div> [High] - Potential Issue with GNOSIS Product <br /><br /> Internal support teams are investigating a potential issue within the GNOSIS product to determine and resolve any impact. More information will be provided as it becomes available. Summary: The company is investigating a potential issue with the GNOSIS product, and internal support teams are working to resolve any impact. <div>
 <p><small>Feb <var>26</var>, <var>09:42</var> CST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the GNOSIS product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 09:42:37 -0600</pubDate>
-<pubDate>Mon, 26 Feb 2024 09:42:37 -0600</pubDate>
 </item>
-
 <item>
 <title>System Incident - Optum LYNX Outpatient Charge Capture Cloud - Production</title>
 <link>https://status.optum.com/incidents/lz48z5yg01vp</link>

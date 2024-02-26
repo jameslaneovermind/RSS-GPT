@@ -769,3 +769,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Changes to Connect ZTNA Access Policies are not propagated properly.](https://status.jamf.com/incidents/7hhqw9t6q6jp)
 append_entries: 1
 Finish: 2024-02-26 16:11:07.834428
+------------------------------------------------------
+Started: 2024-02-26 17:08:50.447409
+Existing_entries: 27
+Fetching from https://status.jamf.com/history.rss
+append_entries: 0
+Finish: 2024-02-26 17:08:50.712923

@@ -4,6 +4,17 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+<item>
+<title>Contact SendGrid UI is not loading for users</title>
+<link>https://status.sendgrid.com/incidents/n99fncgvvk47</link>
+<guid>https://status.sendgrid.com/incidents/n99fncgvvk47</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on SendGrid Website<br><br>Investigating ongoing issues with the sendgrid.com website causing customers to be unable to load Single Sends or Contacts in the UI dashboard of their accounts, as well as impacting mail send for Single Sends. Engineering team is investigating. <br><br>Summary: Customers are experiencing significant disruptions in using SendGrid's website and mail sending services, leading to a major outage. <div>
+<p><small>Feb <var>26</var>, <var>08:57</var> PST</small><br /><strong>Investigating</strong> - Starting around 8:25 AM Pacific Time on Monday 02/26. We began experiencing issues with the sendgrid.com website. Customers may be unable to load Single Sends or Contacts in the UI dashboard of their accounts. In addition, mail send for Single Sends is impacted as well. Our engineering team is investigating the issue and we will provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 08:57:18 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 08:57:18 -0800</pubDate>
+</item>
 
 <item>
 <title>Service Intermittent Interruption When Accessing SendGrid.com and SendGrid Blog posts</title>

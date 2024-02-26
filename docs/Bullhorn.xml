@@ -4,15 +4,15 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/61q6b0s6yv5n</link>
 <guid>https://status.bullhorn.com/incidents/61q6b0s6yv5n</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>01:00</var> - <var>07:00</var> EST</strong></p><p><small>Feb <var>26</var>, <var>10:32</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There should not be any user impact resulting from this maintenance.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS34<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Mar 2024 01:00:00 -0500</pubDate>
 <pubDate>Fri, 01 Mar 2024 01:00:00 -0500</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.bullhorn.com/incidents/033rwb3qt4zv</link>
 <guid>https://status.bullhorn.com/incidents/033rwb3qt4zv</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Maintenance Scheduled for Onboarding365 Cluster <br><br> The Bullhorn Technical Operations team will be performing standard maintenance during the specified time frame. Additional updates will be posted here if necessary. Summary: Users may experience intermittent latency and/or errors during this maintenance. <div>
+<div> [Medium] - Maintenance Scheduled for Onboarding365 Cluster <br /><br /> The Bullhorn Technical Operations team will be performing standard maintenance during the specified time frame. Additional updates will be posted here if necessary. Summary: Users may experience intermittent latency and/or errors during this maintenance. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>04:00</var> - <var>08:00</var> EST</strong></p><p><small>Feb <var>26</var>, <var>10:58</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: Users may experience intermittent latency and/or errors during this maintenance.</b><br />System: Onboarding365<br />Cluster(s): Production , Test<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. Additional updates will be posted here if necessary.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
-<pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance - Onboarding365</title>
 <link>https://status.bullhorn.com/incidents/zydyy69d2r7t</link>
