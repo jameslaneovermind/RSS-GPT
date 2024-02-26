@@ -4,6 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Unity source code unavailable</title>
+<link>https://status.unity.com/incidents/186407</link>
+<guid>https://status.unity.com/incidents/186407</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Unity Source Code Outage
+<br><br> 
+Access to Unity source code is currently unavailable due to a planned maintenance, causing a significant disruption to platform access. <div>
+<p><strong>Scheduled maintenance</strong> - Unity Source Code, Source Code</p><p><small>February 26, 2024 · 08:37 UTC</small><br /><strong>Scheduled</strong></p><p>
+Access to Unity source code unavailable due to planned maintenance.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 08:39:51 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 08:39:51 +0000</pubDate>
+</item>
 
 <item>
 <title>Unity Distribution Portal Dashboard access limited</title>
