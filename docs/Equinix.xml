@@ -5,18 +5,29 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/xmct0nsnv05s</link>
+<guid>https://status.equinix.com/incidents/xmct0nsnv05s</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric and Network Edge Outage
+Summary: We are currently investigating a major issue with Equinix Fabric and Network Edge in the Americas, potentially affecting a large number of users. <div>
+<p><small>Feb <var>26</var>, <var>06:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">cj7fh8y5z9xw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029943</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA); Network Edge - Americas (AT, DA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 06:11:04 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 06:11:04 +0000</pubDate>
+</item>
+
+<item>
 <title>Other (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/t6ckjrqm237q</link>
 <guid>https://status.equinix.com/incidents/t6ckjrqm237q</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Fabric Outage in Asia-Pacific Data Center
-<br><br>Summary: We are currently investigating a major incident related to Equinix Fabric in the Asia-Pacific data center. This outage is affecting critical services. <div>
+<br /><br />Summary: We are currently investigating a major incident related to Equinix Fabric in the Asia-Pacific data center. This outage is affecting critical services. <div>
 <p><small>Feb <var>26</var>, <var>05:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hyv1n07p01ys</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029940</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (TY)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 05:08:32 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 05:08:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/5mdgng9xxdhh</link>

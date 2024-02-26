@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Strata Cloud Management commits are erroring</title>
+<link>https://status.paloaltonetworks.com/incidents/y5hgnvfnyrff</link>
+<guid>https://status.paloaltonetworks.com/incidents/y5hgnvfnyrff</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Validation Errors in 'Strata Cloud Manager' <br><br> Palo Alto Engineering is investigating validation errors when committing changes using 'Strata Cloud Manager'. An update is expected by 9 AM UTC. <div>
+<p><small>Feb <var>26</var>, <var>05:52</var> UTC</small><br /><strong>Investigating</strong> - Customers may see some validation errors when committing changes using 'Strata Cloud Manager'. Palo Alto Engineering is investigating and will have an update by 9 AM UTC</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 05:53:03 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 05:53:03 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud Compute emergency maintenance</title>

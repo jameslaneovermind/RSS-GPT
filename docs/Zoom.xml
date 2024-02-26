@@ -4,18 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Issues with Zoom web pages</title>
 <link>https://status.zoom.us/incidents/ctlmrj7v0k4y</link>
 <guid>https://status.zoom.us/incidents/ctlmrj7v0k4y</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigation into Zoom Web Pages Issues <br><br> We are currently investigating the issues with Zoom web pages, indicating a major outage resulting in platform downtime. <div>
+<div> [High] - Investigation into Zoom Web Pages Issues <br /><br /> We are currently investigating the issues with Zoom web pages, indicating a major outage resulting in platform downtime. <div>
 <p><small>Feb <var>25</var>, <var>21:03</var> PST</small><br /><strong>Investigating</strong> - We are investigating the issues with Zoom web pages, we will provide updates as we have them.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 21:03:33 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 21:03:33 -0800</pubDate>
 </item>
-
 <item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for Zoom Conference Room Connector (No operational impact)</title>
 <link>https://status.zoom.us/incidents/srcsq4jwcs9t</link>

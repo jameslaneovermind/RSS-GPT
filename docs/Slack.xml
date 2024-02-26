@@ -4,6 +4,7 @@
 <title>Slack System Status</title>
 <link>https://status.slack.com/</link>
 
+
 <item>
 <title>Incident: Issues with the billing history page</title>
 <link>https://status.slack.com//2024-02/b4d41d5daac6431c</link>
@@ -16,9 +17,7 @@ We have identified the cause of the problem and we're preparing a fix. <br />
 We'll provide another update in 30 minutes or as soon as the fix goes live, whichever comes first.
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 20:57:11 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 20:57:11 -0800</pubDate>
 </item>
-
 <item>
 <title>Incident: Threads aren't loading for some users</title>
 <link>https://status.slack.com//2024-02/548b72776056c03b</link>
