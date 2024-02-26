@@ -4,6 +4,7 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>Unable to create Event Webhook</title>
 <link>https://status.sendgrid.com/incidents/yhr8w9p9j6p2</link>
@@ -14,9 +15,7 @@ Summary: Engineers are investigating an issue with Event Webhook causing error m
 <p><small>Feb <var>26</var>, <var>13:30</var> PST</small><br /><strong>Investigating</strong> - Starting around 1:40pm PST on Feb 26th, 2024, our engineers began investigating an issue with Event Webhook. Users may experience an error message when attempting to create new Event Webhooks. This does not impact mail send. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 13:30:15 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 13:30:15 -0800</pubDate>
 </item>
-
 <item>
 <title>Mail Send Drops and Inaccuracies in Stats</title>
 <link>https://status.sendgrid.com/incidents/29v2ym9hxgml</link>
