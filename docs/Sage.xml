@@ -4,20 +4,19 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Brightpearl - Degraded Performance</title>
 <link>https://status.sage.com/incidents/494hgmrd476v</link>
 <guid>https://status.sage.com/incidents/494hgmrd476v</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Service Investigation <br><br> 
+<div> [Medium] - Service Investigation <br /><br /> 
 The company is currently investigating a potential issue with the service. An update is expected within 30 minutes. 
 Summary: It is not yet confirmed whether this potential issue will result in a major outage, as the company is still in the investigation phase. <div>
 <p><small>Feb <var>26</var>, <var>10:58</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 10:58:14 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 10:58:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Online (FR) - Partial Outage</title>
 <link>https://status.sage.com/incidents/02p05jp07jsb</link>
