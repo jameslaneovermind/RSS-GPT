@@ -4,18 +4,17 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+
 <item>
 <title>Jobs via GitHub App integration are not being triggered</title>
 <link>https://status.circleci.com/incidents/122qz8p3r2rh</link>
 <guid>https://status.circleci.com/incidents/122qz8p3r2rh</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - GitHub App Integration Issue Observed <br><br> Summary: We are currently investigating an issue where pipelines via GitHub App integration are not triggering jobs. Please refer to the provided documentation page to check if you are affected. <div>
+<div> [Medium] - GitHub App Integration Issue Observed <br /><br /> Summary: We are currently investigating an issue where pipelines via GitHub App integration are not triggering jobs. Please refer to the provided documentation page to check if you are affected. <div>
 <p><small>Feb <var>26</var>, <var>18:09</var> UTC</small><br /><strong>Investigating</strong> - We are observing an issue where pipelines via GitHub App integration are not triggering jobs.<br /><br />To check if this affects you please observe this documentation page:<br />https://circleci.com/docs/github-apps-integration/</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 18:09:11 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 18:09:11 +0000</pubDate>
 </item>
-
 <item>
 <title>Users Unable To Create New Orgs Or Projects</title>
 <link>https://status.circleci.com/incidents/4m9rhw7m3xkg</link>
