@@ -4,6 +4,7 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>IoT Security (US) Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/t0tyh4h9ddzz</link>
@@ -14,20 +15,17 @@ Summary: IoT Security (US) plan to carry out an upgrade maintenance on AWS EKS s
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Feb <var>29</var>, <var>07:00</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>18:57</var> UTC</small><br /><strong>Scheduled</strong> - WHAT: IoT Security (US) plan to carry on an upgrade maintenance on AWS EKS service, which hosts the IoT Security product. <br /><br />WHEN: Wednesday, Feb 28 | 3:00 PM PST - 11:00 PM PST<br /><br />WHERE: US region<br /><br />NO ACTION REQUIRED<br /><br />IMPACT: A small fraction of US customers might have intermittent portal loading issues or temporary data delays. Please ignore inspector offline alerts during the maintenance.<br /><br />SUPPORT: We will provide status updates before and throughout the maintenance. If you have any questions or concerns, feel free to reach out to IoT Security technical support at iot-security@paloaltonetworks.com.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 23:00:00 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
 <title>IoT Security (US) Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/rrcp3r31rd4q</link>
 <guid>https://status.paloaltonetworks.com/incidents/rrcp3r31rd4q</guid>
 <content:encoded><![CDATA[
-<div> [Low] - AWS EKS Upgrade Maintenance in US Region <br><br> We plan to carry out an upgrade maintenance on the AWS EKS service hosting the IoT Security product in the US region. Some US customers may experience intermittent portal loading issues or temporary data delays. Inspector offline alerts can be ignored during the maintenance. We will provide status updates before and throughout the maintenance. If you have any concerns, reach out to IoT Security technical support. <div>
+<div> [Low] - AWS EKS Upgrade Maintenance in US Region <br /><br /> We plan to carry out an upgrade maintenance on the AWS EKS service hosting the IoT Security product in the US region. Some US customers may experience intermittent portal loading issues or temporary data delays. Inspector offline alerts can be ignored during the maintenance. We will provide status updates before and throughout the maintenance. If you have any concerns, reach out to IoT Security technical support. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Feb <var>28</var>, <var>07:00</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>18:56</var> UTC</small><br /><strong>Scheduled</strong> - WHAT: IoT Security (US) plan to carry on an upgrade maintenance on AWS EKS service, which hosts the IoT Security product. <br /><br />WHEN: Tuesday, Feb 27 | 3:00 PM PST - 11:00 PM PST<br /><br />WHERE: US region<br /><br />NO ACTION REQUIRED<br /><br />IMPACT: A small fraction of US customers might have intermittent portal loading issues or temporary data delays. Please ignore inspector offline alerts during the maintenance.<br /><br />SUPPORT: We will provide status updates before and throughout the maintenance. If you have any questions or concerns, feel free to reach out to IoT Security technical support at iot-security@paloaltonetworks.com.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 23:00:00 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 23:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Cortex XSOAR 8.5 - Intermittent degraded functionality with incidents access</title>
 <link>https://status.paloaltonetworks.com/incidents/c4sj6xrf1b10</link>

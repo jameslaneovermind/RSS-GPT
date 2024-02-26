@@ -4,18 +4,17 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+
 <item>
 <title>Frameworks page is not loading</title>
 <link>https://status.vanta.com/incidents/2vtsvpggvwfc</link>
 <guid>https://status.vanta.com/incidents/2vtsvpggvwfc</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Frameworks Page Outage <br><br> Our team has identified an issue where the Frameworks page is currently not loading for customers. A fix has been released to allow the Frameworks page to load correctly. <div>
+<div> [High] - Major Frameworks Page Outage <br /><br /> Our team has identified an issue where the Frameworks page is currently not loading for customers. A fix has been released to allow the Frameworks page to load correctly. <div>
 <p><small>Feb <var>26</var>, <var>10:58</var> PST</small><br /><strong>Resolved</strong> - Our team released a fix to allow the Frameworks page to load correctly</p><p><small>Feb <var>26</var>, <var>10:38</var> PST</small><br /><strong>Identified</strong> - We have identified an issue where the Frameworks page is currently not loading for customers.<br /><br />Our team is investigating the root cause and will provide an update as soon as possible.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 10:58:55 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 10:58:55 -0800</pubDate>
 </item>
-
 <item>
 <title>Security Awareness Training settings may have been changed or erased</title>
 <link>https://status.vanta.com/incidents/k0l02l0cgvpm</link>

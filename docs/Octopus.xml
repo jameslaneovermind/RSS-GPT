@@ -4,6 +4,20 @@
 <title>Octopus Deploy Status - Incident History</title>
 <link>https://status.octopus.com</link>
 
+<item>
+<title>Dynamic Worker Leases failing in WestEU</title>
+<link>https://status.octopus.com/incidents/3pfkvpx17g0q</link>
+<guid>https://status.octopus.com/incidents/3pfkvpx17g0q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Microsoft Azure Issue Affecting Worker Virtual Machines in WestEU
+<br><br> 
+Our upstream provider, Microsoft Azure, is currently experiencing an issue affecting our ability to provision worker virtual machines for a subset of customers in WestEU. Deployments utilizing dynamic workers will fail, and we are actively working with Azure to resolve the issue. An update will be provided at 20:00 UTC. 
+Summary: The issue with Microsoft Azure is causing deployment failures for dynamic workers in WestEU. We are working with Azure to resolve the issue. <div>
+<p><small>Feb <var>26</var>, <var>19:07</var> UTC</small><br /><strong>Investigating</strong> - Our upstream provider, Microsoft Azure, is currently experiencing an issue which is affecting our ability to provision worker virtual machines for a subset of customers in WestEU. We are working with Azure to resolve the issue.<br /><br />If you experience this problem, deployments utilising dynamic workers will fail with an error specifying that Octopus Deploy could not obtain a dynamic worker lease.<br /><br />We will provide an update in an hour, at approximately 20:00 UTC.<br /><br />We will resolve this incident once we have received confirmation the issue has been resolved from our upstream provider.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 19:07:15 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 19:07:15 +0000</pubDate>
+</item>
 
 <item>
 <title>New signups to Octopus Cloud are unavailable</title>
