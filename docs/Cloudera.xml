@@ -4,6 +4,19 @@
 <title>Cloudera Status - Incident History</title>
 <link>https://status.cloudera.com</link>
 
+<item>
+<title>CML/CDW/CDF/CDE private deployments are failing in EU Control Plane region.</title>
+<link>https://status.cloudera.com/incidents/bswht1j0vlrg</link>
+<guid>https://status.cloudera.com/incidents/bswht1j0vlrg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigation of New Deployment Failures in EU Control Plane Region
+Summary:
+There are issues with new deployments of private CML/CDW/CDF/CDE experiences in the EU Control Plane region. Existing workloads are expected to be working as normal, and the current investigation is ongoing. Further updates are expected by the end of the business day. <div>
+<p><small>Feb <var>26</var>, <var>17:50</var> UTC</small><br /><strong>Investigating</strong> - Current Status:<br />Existing workloads should be working as expected. Only new deployments of private CML/CDW/CDF/CDE experiences are failing in EU Control Plane region. <br /><br />This is currently being investigated, we expect to have further updates towards the End of Business today.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 17:50:10 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 17:50:10 +0000</pubDate>
+</item>
 
 <item>
 <title>https://archive.cloudera.com/ is temporarily unavailable.</title>

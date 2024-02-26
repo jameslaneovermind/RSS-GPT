@@ -4,6 +4,21 @@
 <title>Slack System Status</title>
 <link>https://status.slack.com/</link>
 
+<item>
+<title>Incident: Issues sending and loading messages</title>
+<link>https://status.slack.com//2024-02/4c0af99013428a7a</link>
+<guid>https://status.slack.com//2024-02/4c0af99013428a7a</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Outage <br><br> Slack experienced a significant outage starting at 9:00 AM PST on Monday, February 26, impacting message sending, loading, and access. This was caused by increased server load, eventually balanced out. Users are no longer encountering issues with the platform. If problems persist, feedback can be sent to feedback@slack.com. <div>
+Starting at 9:00 AM PST on Monday, February 26 to 9:30 AM PST, a small percentage of users encountered trouble sending messages, loading messages, and accessing Slack.<br />
+<br />
+These errors were caused by an increased load on our servers, and reduced as our servers balanced the load across our system. User should no longer be encountering issues with Slack. <br />
+<br />
+Please send a note to feedback@slack.com if you continue to have any trouble.
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 09:49:25 -0800</pubDate>
+<pubDate>Mon, 26 Feb 2024 09:49:25 -0800</pubDate>
+</item>
 
 <item>
 <title>Incident: Issues with the billing history page</title>

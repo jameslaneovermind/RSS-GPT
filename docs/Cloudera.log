@@ -533,3 +533,12 @@ Existing_entries: 25
 Fetching from https://status.cloudera.com/history.rss
 append_entries: 0
 Finish: 2024-02-26 17:09:12.066653
+------------------------------------------------------
+Started: 2024-02-26 18:11:07.814402
+Existing_entries: 25
+Fetching from https://status.cloudera.com/history.rss
+Token length: 304
+Summarized using GPT-3.5-turbo-1106
+Append: [CML/CDW/CDF/CDE private deployments are failing in EU Control Plane region.](https://status.cloudera.com/incidents/bswht1j0vlrg)
+append_entries: 1
+Finish: 2024-02-26 18:11:09.269526

@@ -4,15 +4,15 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Core Signature 24.1.2 Maintenance scheduled for 29 February 2024</title>
 <link>https://status.opentext.com/incidents/b0cyrh5xmzhb</link>
 <guid>https://status.opentext.com/incidents/b0cyrh5xmzhb</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance Scheduled for Core Signature Application <br><br> Summary: Core Signature will be undergoing maintenance on 29 February 2024 from 01:30 UTC to 03:00 UTC, which will cause intermittent unavailability of the application. <div>
+<div> [High] - Major Maintenance Scheduled for Core Signature Application <br /><br /> Summary: Core Signature will be undergoing maintenance on 29 February 2024 from 01:30 UTC to 03:00 UTC, which will cause intermittent unavailability of the application. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>01:30</var> - <var>03:00</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>16:52</var> UTC</small><br /><strong>Scheduled</strong> - Core Signature will be undergoing maintenance on 29 February 2024 from 01:30 UTC to 03:00 UTC.  The Application will be intermittently unavailable, during this time.<br />Tracking Number: C2025742</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 01:30:00 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 01:30:00 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.opentext.com/incidents/kzj5sdlkqn8p</link>
 <guid>https://status.opentext.com/incidents/kzj5sdlkqn8p</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance Outage<br><br>Core Signature will be undergoing maintenance on 28 February 2024 from 17:30 UTC to 18:30 UTC. The Application will be intermittently unavailable, during this time. Summary: Core Signature will experience a major maintenance outage causing intermittent unavailability of the application. <div>
+<div> [High] - Major Maintenance Outage<br /><br />Core Signature will be undergoing maintenance on 28 February 2024 from 17:30 UTC to 18:30 UTC. The Application will be intermittently unavailable, during this time. Summary: Core Signature will experience a major maintenance outage causing intermittent unavailability of the application. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>17:30</var> - <var>18:30</var> UTC</strong></p><p><small>Feb <var>26</var>, <var>16:49</var> UTC</small><br /><strong>Scheduled</strong> - Core Signature will be undergoing maintenance on 28 February 2024 from 17:30 UTC to 18:30 UTC.  The Application will be intermittently unavailable, during this time.<br />Tracking Number: C2025715</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 17:30:00 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 17:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Alloy North America System Maintenance scheduled for 24 March 2024</title>
 <link>https://status.opentext.com/incidents/5fzcx90r7knb</link>

@@ -4,6 +4,19 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Reporting PDF Missing Data Incident</title>
+<link>https://status.snyk.io/incidents/jr04jdr84yyc</link>
+<guid>https://status.snyk.io/incidents/jr04jdr84yyc</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Reporting PDF Data Display Issue <br><br> 
+Snyk Monitoring Systems identified a reporting issue where data was missing and displaying as zeros. The technical team has mitigated the issue and is monitoring the environment. 
+ <div>
+<p><small>Feb <var>26</var>, <var>17:25</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Monitoring Systems identified an issue with Reporting PDF missing data.  Reports are displaying zeros for data and loading indicators across all instances.  Snyk Technical Teams have now mitigated this issue and are monitoring the environment.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 17:25:18 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 17:25:18 +0000</pubDate>
+</item>
 
 <item>
 <title>Snyk Code Analysis Degradation</title>
