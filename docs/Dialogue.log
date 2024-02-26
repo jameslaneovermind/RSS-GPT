@@ -739,3 +739,12 @@ Existing_entries: 25
 Fetching from https://status.dialogue.co/history.rss
 append_entries: 0
 Finish: 2024-02-26 12:15:32.900027
+------------------------------------------------------
+Started: 2024-02-26 13:09:08.751892
+Existing_entries: 25
+Fetching from https://status.dialogue.co/history.rss
+Token length: 907
+Summarized using GPT-3.5-turbo-1106
+Append: [Filtering by reporting columns and member type broken in Dialogue prod-ca](https://status.dialogue.co/incidents/w0dw96tgjp09)
+append_entries: 1
+Finish: 2024-02-26 13:09:10.833926
