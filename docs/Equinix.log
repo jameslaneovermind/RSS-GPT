@@ -563,3 +563,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Link Failure (Equinix Internet Access / Equinix Connect)](https://status.equinix.com/incidents/5mdgng9xxdhh)
 append_entries: 1
 Finish: 2024-02-26 04:10:45.283757
+------------------------------------------------------
+Started: 2024-02-26 05:09:26.174984
+Existing_entries: 61
+Fetching from https://status.equinix.com/history.rss
+Token length: 147
+Summarized using GPT-3.5-turbo-1106
+Append: [Other (Equinix Fabric)](https://status.equinix.com/incidents/t6ckjrqm237q)
+append_entries: 1
+Finish: 2024-02-26 05:09:27.268675

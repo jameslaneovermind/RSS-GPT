@@ -5,17 +5,28 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Other (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/t6ckjrqm237q</link>
+<guid>https://status.equinix.com/incidents/t6ckjrqm237q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Asia-Pacific Data Center
+<br><br>Summary: We are currently investigating a major incident related to Equinix Fabric in the Asia-Pacific data center. This outage is affecting critical services. <div>
+<p><small>Feb <var>26</var>, <var>05:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hyv1n07p01ys</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029940</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (TY)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 05:08:32 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 05:08:32 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/5mdgng9xxdhh</link>
 <guid>https://status.equinix.com/incidents/5mdgng9xxdhh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Internet Access/Connect Outage in EMEA <br><br> We are currently investigating a critical issue that is impacting Equinix Internet Access and Equinix Connect in the EMEA region. A fix is being implemented to resolve the incident. <div>
+<div> [High] - Equinix Internet Access/Connect Outage in EMEA <br /><br /> We are currently investigating a critical issue that is impacting Equinix Internet Access and Equinix Connect in the EMEA region. A fix is being implemented to resolve the incident. <div>
 <p><small>Feb <var>26</var>, <var>03:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">d6n9rnrzs414</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029938</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (HE)]</div></p><p><small>Feb <var>26</var>, <var>03:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">d6n9rnrzs414</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029938</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (HE)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 03:36:00 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 03:36:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/12kdghgg8dfj</link>

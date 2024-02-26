@@ -458,3 +458,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [AU: XPM - Some customers are unable to login to XPM](https://status.xero.com/incidents/fd8vzmk1bwcb)
 append_entries: 1
 Finish: 2024-02-26 04:10:47.981723
+------------------------------------------------------
+Started: 2024-02-26 05:09:29.467922
+Existing_entries: 26
+Fetching from https://status.xero.com/history.rss
+append_entries: 0
+Finish: 2024-02-26 05:09:29.711960
