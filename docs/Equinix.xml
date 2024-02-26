@@ -5,17 +5,39 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/12kdghgg8dfj</link>
+<guid>https://status.equinix.com/incidents/12kdghgg8dfj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric and Network Edge Outage in Asia-Pacific (HK)
+<br><br>Summary: We are currently investigating a major incident with Equinix Fabric and Network Edge services in the Asia-Pacific (HK) region, causing significant disruption. <div>
+<p><small>Feb <var>26</var>, <var>03:05</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">p2k1rvnndj00</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029935</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK); Network Edge - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 03:05:32 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 03:05:32 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/scbfrqchsdgq</link>
+<guid>https://status.equinix.com/incidents/scbfrqchsdgq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in EMEA (HH, WA) <br><br> We are currently investigating a critical issue that has been identified and a fix is being implemented for Equinix Fabric in the EMEA (HH, WA) region. <div>
+<p><small>Feb <var>26</var>, <var>02:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n6h3ngklx2pj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029930</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA)]</div></p><p><small>Feb <var>26</var>, <var>02:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n6h3ngklx2pj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029930</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 02:51:31 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 02:51:31 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/g6xd2tpm35m5</link>
 <guid>https://status.equinix.com/incidents/g6xd2tpm35m5</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in the Americas <br><br> The issue has been identified and a fix is being implemented. We are currently investigating this issue. An incident number has been assigned: INC0029918. <div>
+<div> [High] - Equinix Fabric Outage in the Americas <br /><br /> The issue has been identified and a fix is being implemented. We are currently investigating this issue. An incident number has been assigned: INC0029918. <div>
 <p><small>Feb <var>26</var>, <var>02:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">thjgz4rd5ktv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029918</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, HO)]</div></p><p><small>Feb <var>26</var>, <var>01:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">thjgz4rd5ktv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029918</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, HO)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 02:08:01 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 02:08:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/frd9z6kx3r75</link>

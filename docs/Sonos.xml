@@ -4,18 +4,17 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+
 <item>
 <title>Sonos Radio - Audio Interruptions</title>
 <link>https://status.sonos.com/incidents/lwmf9rj8c6c6</link>
 <guid>https://status.sonos.com/incidents/lwmf9rj8c6c6</guid>
 <content:encoded><![CDATA[
-<div> [High] - Sonos Radio Service Disruption <br><br> We've identified a problem with Sonos Radio and are working towards a fix. You may experience issues playing music from Sonos Radio until it’s resolved. Summary: Sonos Radio is experiencing a major service disruption, causing issues with playing music. The team is actively working on a fix to resolve the problem. <div>
+<div> [High] - Sonos Radio Service Disruption <br /><br /> We've identified a problem with Sonos Radio and are working towards a fix. You may experience issues playing music from Sonos Radio until it’s resolved. Summary: Sonos Radio is experiencing a major service disruption, causing issues with playing music. The team is actively working on a fix to resolve the problem. <div>
 <p><small>Feb <var>26</var>, <var>02:07</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Sonos Radio and are working towards a fix. You may experience issues playing music from Sonos Radio until it’s resolved.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 02:07:03 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 02:07:03 +0000</pubDate>
 </item>
-
 <item>
 <title>Klassik Radio Select  - Adding Account Issue</title>
 <link>https://status.sonos.com/incidents/xw71ptkq8ydr</link>
