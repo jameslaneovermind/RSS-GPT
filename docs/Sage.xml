@@ -4,6 +4,19 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage Online (FR) - Partial Outage</title>
+<link>https://status.sage.com/incidents/02p05jp07jsb</link>
+<guid>https://status.sage.com/incidents/02p05jp07jsb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Service Issue
+<br><br>
+Summary: The company is currently investigating a potential issue with their service. This could indicate a major outage or significant disruption to their platform. We are waiting for further updates to determine the cause and extent of the issue. <div>
+<p><small>Feb <var>26</var>, <var>09:59</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 09:59:07 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 09:59:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Intacct - Global - Degraded Performance</title>

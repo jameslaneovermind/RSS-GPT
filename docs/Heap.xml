@@ -4,18 +4,17 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+
 <item>
 <title>Experiencing delays in data being available in the app</title>
 <link>https://status.heap.io/incidents/8lvn6dxrzz7w</link>
 <guid>https://status.heap.io/incidents/8lvn6dxrzz7w</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Delay in Data Availability <br><br> We are currently experiencing delays in data being available in the app. Data collection is unaffected, and no data has been lost. Our engineers are currently working on the issue. Summary: There is a delay in data availability in the app, but data collection is not affected, and engineers are working on resolving the issue. <div>
+<div> [Medium] - Delay in Data Availability <br /><br /> We are currently experiencing delays in data being available in the app. Data collection is unaffected, and no data has been lost. Our engineers are currently working on the issue. Summary: There is a delay in data availability in the app, but data collection is not affected, and engineers are working on resolving the issue. <div>
 <p><small>Feb <var>26</var>, <var>01:02</var> PST</small><br /><strong>Identified</strong> - We are currently experiencing delays in data being available in the app. Data collection is unaffected, and no data has been lost. Our engineers are currently working on the issue.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 01:02:53 -0800</pubDate>
-<pubDate>Mon, 26 Feb 2024 01:02:53 -0800</pubDate>
 </item>
-
 <item>
 <title>Infrastructure maintenance</title>
 <link>https://status.heap.io/incidents/ymxkc2j84sbv</link>
