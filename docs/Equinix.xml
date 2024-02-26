@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Other (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/9lbc7gsydj9d</link>
+<guid>https://status.equinix.com/incidents/9lbc7gsydj9d</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect - APAC (MB) Outage
+<br><br> 
+We are currently investigating a major issue with Equinix Internet Access and Equinix Connect in the APAC region. This indicates a large-scale outage affecting platform downtime.
+ <div>
+<p><small>Feb <var>26</var>, <var>07:59</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">l4m06ltqs9kv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029958</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 07:59:22 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 07:59:22 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/9kwrr1bxhgyw</link>
+<guid>https://status.equinix.com/incidents/9kwrr1bxhgyw</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Network Issue Investigation <br><br> We are currently investigating an issue at the Internet Exchange in the Americas data center. An incident has been identified, and a fix is being implemented. Incident Number: INC0029955. <div>
+<p><small>Feb <var>26</var>, <var>07:59</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">k05jgxb311r1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029955</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (DC)]</div></p><p><small>Feb <var>26</var>, <var>07:43</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">k05jgxb311r1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029955</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (DC)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 26 Feb 2024 07:59:45 +0000</pubDate>
+<pubDate>Mon, 26 Feb 2024 07:59:45 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
