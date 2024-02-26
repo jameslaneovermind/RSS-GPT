@@ -775,3 +775,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sage Online (FR) - Partial Outage](https://status.sage.com/incidents/02p05jp07jsb)
 append_entries: 1
 Finish: 2024-02-26 10:10:04.791926
+------------------------------------------------------
+Started: 2024-02-26 11:07:02.287993
+Existing_entries: 41
+Fetching from https://status.sage.com/history.rss
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [Brightpearl - Degraded Performance](https://status.sage.com/incidents/494hgmrd476v)
+append_entries: 1
+Finish: 2024-02-26 11:07:03.496003

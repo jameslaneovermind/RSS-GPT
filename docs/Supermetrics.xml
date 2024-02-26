@@ -4,18 +4,17 @@
 <title>Supermetrics Status - Incident History</title>
 <link>https://status.supermetrics.com</link>
 
+
 <item>
 <title>Service disruption: Google Sheets and Looker Studio, February 26, 2024</title>
 <link>https://status.supermetrics.com/incidents/gtg2fj0rmg22</link>
 <guid>https://status.supermetrics.com/incidents/gtg2fj0rmg22</guid>
 <content:encoded><![CDATA[
-<div> [High] - Google Experiencing Issues with Supermetrics and Looker Studio <br><br> Google is facing issues causing the Supermetrics sidebar not to load in Google Sheets and the home page and reports not to load in Looker Studio. Our teams are urgently working to resolve the situation with Google and return our service to normal. <div>
+<div> [High] - Google Experiencing Issues with Supermetrics and Looker Studio <br /><br /> Google is facing issues causing the Supermetrics sidebar not to load in Google Sheets and the home page and reports not to load in Looker Studio. Our teams are urgently working to resolve the situation with Google and return our service to normal. <div>
 <p><small>Feb <var>26</var>, <var>11:13</var> EET</small><br /><strong>Investigating</strong> - Google is experiencing issues that may cause the Supermetrics sidebar not to load in Google Sheets and the home page and reports not to load in Looker Studio. Our teams are urgently working to resolve the situation with Google and return our service to normal. We’ll provide an additional update in the next 6 hours.</p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 11:13:13 +0200</pubDate>
-<pubDate>Mon, 26 Feb 2024 11:13:13 +0200</pubDate>
 </item>
-
 <item>
 <title>Service Disruption: Criteo, February 14, 2024</title>
 <link>https://status.supermetrics.com/incidents/79vzm8yntlgl</link>
