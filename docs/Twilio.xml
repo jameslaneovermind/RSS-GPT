@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Receipt and Delivery Delays to AT&amp;T Network in the US</title>
 <link>https://status.twilio.com/incidents/6byhqwnyljf5</link>
 <guid>https://status.twilio.com/incidents/6byhqwnyljf5</guid>
 <content:encoded><![CDATA[
-<div> [High] - SMS Delivery Delays to AT&T Network in the US
-Summary: We are currently experiencing SMS delivery delays to the AT&T network in the US. Our engineers are actively working with our carrier partner to resolve the issue. We will provide further updates as soon as more information becomes available. <div>
+<div> [High] - SMS Delivery Delays to AT&amp;T Network in the US
+Summary: We are currently experiencing SMS delivery delays to the AT&amp;T network in the US. Our engineers are actively working with our carrier partner to resolve the issue. We will provide further updates as soon as more information becomes available. <div>
 <p><small>Feb <var>25</var>, <var>16:04</var> PST</small><br /><strong>Update</strong> - We are experiencing SMS Delivery Receipt and Delivery Delays to AT&amp;T Network in the US. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available.</p><p><small>Feb <var>25</var>, <var>15:32</var> PST</small><br /><strong>Update</strong> - We are experiencing SMS Delivery Receipt and Delivery Delays to AT&amp;T Network in the US. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Feb <var>25</var>, <var>15:11</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS Delivery Receipt Delays to AT&amp;T Network in the US from a subset of Shortcodes. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 16:04:23 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 16:04:23 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to Safaricom Network in Kenya</title>
 <link>https://status.twilio.com/incidents/p6zbnl40pytt</link>
