@@ -4,20 +4,19 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Intermittent issues with Taskflows on IICS NA East 2 Services</title>
 <link>https://status.informatica.com/incidents/kd7ym3xn86k8</link>
 <guid>https://status.informatica.com/incidents/kd7ym3xn86k8</guid>
 <content:encoded><![CDATA[
 <div> [High] - Intermittent Issues Impacting Taskflow Service
-<br><br>
+<br /><br />
 A fix has been implemented for intermittent issues in the taskflow service for IICS NA East 2 Services. Runtime execution of the taskflow was impacted, but a fix has been implemented and the situation is being monitored. <div>
 <p><small>Feb <var>25</var>, <var>17:23</var> PST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>25</var>, <var>16:49</var> PST</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Feb <var>25</var>, <var>16:49</var> PST</small><br /><strong>Monitoring</strong> - We notice some intermittent issues in taskflow service for IICS NA East 2 Services at around 3 PM PT. Runtime execution of the taskflow was impacted. A fix has been implemented at 3:17 PM PT and we are monitoring the results.</p>
 ]]></content:encoded>
 <pubDate>Sun, 25 Feb 2024 17:23:57 -0800</pubDate>
-<pubDate>Sun, 25 Feb 2024 17:23:57 -0800</pubDate>
 </item>
-
 <item>
 <title>Taskflows with command tasks getting suspended in IDMC FedRAMP pod</title>
 <link>https://status.informatica.com/incidents/xkd3j13m1cw6</link>
