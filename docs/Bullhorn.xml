@@ -5,17 +5,27 @@
 <link>https://status.bullhorn.com</link>
 
 <item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/hv2xwrrd70xp</link>
+<guid>https://status.bullhorn.com/incidents/hv2xwrrd70xp</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br><br> Summary: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>04:00</var> - <var>06:00</var> EST</strong></p><p><small>Feb <var>27</var>, <var>16:00</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There should not be any user impact resulting from this maintenance.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS40, CLS41, CLS42, CLS43, CLS44<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
+<pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
+</item>
+
+<item>
 <title>ATS/CRM - CLS70, CLS71, CLS20, CLS21, CLS22, CLS23</title>
 <link>https://status.bullhorn.com/incidents/nykrqdlrpvrd</link>
 <guid>https://status.bullhorn.com/incidents/nykrqdlrpvrd</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Release of Bullhorn ATS/CRM <br><br> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. No user impact is expected, and more details can be found at the product release portal. <div>
+<div> [Medium] - Scheduled Release of Bullhorn ATS/CRM <br /><br /> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. No user impact is expected, and more details can be found at the product release portal. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>15:00</var> - <var>17:00</var> EST</strong></p><p><small>Feb <var>27</var>, <var>15:00</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS70, CLS71, CLS20, CLS21, CLS22, CLS23<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 15:00:00 -0500</pubDate>
-<pubDate>Wed, 28 Feb 2024 15:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>ATS/CRM - CLS60, CLS66</title>
 <link>https://status.bullhorn.com/incidents/ys5skcpvkjtd</link>

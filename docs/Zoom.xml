@@ -5,17 +5,60 @@
 <link>https://status.zoom.us</link>
 
 <item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (Canada and Brazil)</title>
+<link>https://status.zoom.us/incidents/d085c754bbzq</link>
+<guid>https://status.zoom.us/incidents/d085c754bbzq</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Service Maintenance for Zoom SIP Zones <br><br> During the scheduled maintenance, Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on their infrastructure, which may cause a brief disconnection of calls. Customers are requested to ensure functionality after the certificate updates. Summary: Zoom will be performing service maintenance to update certificates in certain SIP zones, which may lead to temporary call disconnections. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>5</var>, <var>17:00</var> - <var>19:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>12:57</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following SIP zones to replace certificates used by hardware phone (including supported managed and generic non-Zoom-managed devices) with certificates that will be signed by DigiCert Global Root G2 certificate authority. Action is requested for non-Zoom-managed "other" devices. There is no action required for supported managed devices, since it already has the DigiCert Global Root G2 pushed from Zoom.<br /><br />Canada (Vancouver)<br />Brazil (Sao Paulo)<br /><br />Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on our infrastructure during this maintenance window, and this will be a permanent change. We will not be able to postpone the date any further. <br /><br />Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their generic non-Zoom-managed devices as we work through this transition. <br /><br />If you have not done so, install DigiCert Global Root G2 root certificate on your generic devices. You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by DigiCert Global Root G2 certificates. Customers are requested to test inbound and outbound calling for generic non-Zoom-managed devices to ensure that the services are functional after the certificate updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
+<pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (APAC)</title>
+<link>https://status.zoom.us/incidents/5110122tf27f</link>
+<guid>https://status.zoom.us/incidents/5110122tf27f</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance and Certificate Replacement <br><br> Zoom will be performing service maintenance to replace certificates used by hardware phones in specific sip zones with certificates signed by Digicert Global Root G2 certificate authority. This will lead to a brief disconnection of calls and customers are requested to test inbound and outbound calling for generic non-Zoom-managed devices after the update. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>5</var>, <var>09:00</var> - <var>12:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>12:58</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following sip zones to replace certificates used by hardware phone (including supported managed and generic non-Zoom-managed devices) with certificates that will be signed by Digicert Global Root G2 certificate authority. Action is requested for non-Zoom-managed "other" devices. There is no action required for supported managed devices, since it already has the DigiCert Global Root G2 pushed from Zoom.<br /><br />Asia Pacific (Sydney)<br />Asia Pacific (Tokyo)<br />Asia Pacific (Mumbai)<br /><br />Zoom will be transitioning to certificates signed by Digicert Global Root G2 certificate authority on our infrastructure during this maintenance window, and this will be a permanent change. We will not be able to postpone the date any further. <br /><br />Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their generic non-Zoom-managed devices as we work through this transition. <br /><br />If you have not done so, install DigiCert Global Root G2 root certificate on your generic devices. You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by Digicert Global Root G2 certificates. Customers are requested to test inbound and outbound calling for generic non-Zoom-managed devices to ensure that the services are functional after the certificate updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 09:00:00 -0700</pubDate>
+<pubDate>Fri, 05 Apr 2024 09:00:00 -0700</pubDate>
+</item>
+<item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (Canada And Mexico)</title>
+<link>https://status.zoom.us/incidents/h6yyl2dvw55k</link>
+<guid>https://status.zoom.us/incidents/h6yyl2dvw55k</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance for Zoom <br><br> Summary: Zoom will be performing service maintenance to replace certificates used by hardware phones in specific sip zones. This may result in a brief disconnection of calls during the TLS connection reset. Customers are requested to test inbound and outbound calling for generic non-zoom-managed devices to ensure functionality after the certificate updates. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>17:00</var> - <var>19:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>12:40</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following sip zones to replace certificates used by hardware phones (including supported managed and generic non-Zoom-managed devices) with certificates that will be signed by DigiCert Global Root G2 certificate authority. Action is requested for non-Zoom-managed "other" devices. There is no action required for supported managed devices, since it already has the DigiCert Global Root G2 pushed from Zoom.<br /><br />Canada (Toronto)<br />Mexico (Queretaro)<br /><br />Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on our infrastructure during this maintenance window, and this will be a permanent change. We will not be able to postpone the date any further. <br /><br />Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their generic non-zoom-managed devices as we work through this transition. <br /><br />If you have not done so please install DigiCert Global Root G2 root certificate on your generic devices. You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by DigiCert Global Root G2 certificates. Customers are requested to test inbound and outbound calling for generic non-zoom-managed devices to ensure that the services are functional after the certificate updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (APAC)</title>
+<link>https://status.zoom.us/incidents/31l528l7kd9p</link>
+<guid>https://status.zoom.us/incidents/31l528l7kd9p</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>09:00</var> - <var>12:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>12:41</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following SIP zones to replace certificates used by hardware phones (including supported managed and generic non-Zoom-managed devices) with certificates that will be signed by DigiCert Global Root G2 certificate authority. Action is requested for non-zoom-managed "other" devices. There is no action required for supported managed devices, since it already has the DigiCert Global Root G2 pushed from Zoom.<br /><br />Asia Pacific (Melbourne)<br />Asia Pacific (Singapore)<br />Asia Pacific (Hyderabad)<br />Asia Pacific (Osaka)<br />Asia Pacific (Hong Kong)<br /><br />Zoom will be transitioning to certificates signed by DigiCert Global Root G2 certificate authority on our infrastructure during this maintenance window, and this will be a permanent change. We will not be able to postpone the date any further. <br /><br />Customers are requested to keep both DigiCert Global Root CA and DigiCert Global Root G2 installed on their generic non-Zoom-managed devices as we work through this transition. <br /><br />If you have not done so, install DigiCert Global Root G2 root certificate on your generic devices. You can download G2 certificate here: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />During the maintenance window, a brief disconnection of calls may be experienced while the TLS connections are being reset. Once the TLS connections are reset, the devices will attempt to use Zoom’s new certificate that is signed by DigiCert Global Root G2 certificates. Customers are requested to test inbound and outbound calling for generic non-Zoom-managed devices to ensure that the services are functional after the certificate updates.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 09:00:00 -0700</pubDate>
+<pubDate>Fri, 29 Mar 2024 09:00:00 -0700</pubDate>
+</item>
+
+<item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for Zoom Conference Room Connector</title>
 <link>https://status.zoom.us/incidents/403tpkscrbmr</link>
 <guid>https://status.zoom.us/incidents/403tpkscrbmr</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Zoom Service Maintenance for CRC SIP TLS Certificate Replacement <br><br> Zoom will be performing service maintenance on Zoom CRC to replace the SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains. There is no expected downtime for this change. <div>
+<div> [Medium] - Zoom Service Maintenance for CRC SIP TLS Certificate Replacement <br /><br /> Zoom will be performing service maintenance on Zoom CRC to replace the SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains. There is no expected downtime for this change. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>12:00</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance on Zoom CRC to replace the SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains, listed below. There is no expected downtime for this change.  For more information, see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />* zoomcrc.com (US, Global)<br />* ny.zmus.us (US East)<br />* sc.zmus.us (US West)<br />* tw.zoomcrc.com (Taiwan)<br /><br />Customers impacted: Any customer using Zoom CRC services to join Zoom meetings using the listed SIP URI domains and SIP TLS as the connection protocol.  For more information, see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 22:00:00 -0800</pubDate>
-<pubDate>Fri, 01 Mar 2024 22:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Issues with Zoom web pages</title>
 <link>https://status.zoom.us/incidents/ctlmrj7v0k4y</link>

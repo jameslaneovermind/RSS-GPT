@@ -4,6 +4,19 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+<item>
+<title>System Incident - Enterprise CAC - Production</title>
+<link>https://status.optum.com/incidents/yphftvmbfdqn</link>
+<guid>https://status.optum.com/incidents/yphftvmbfdqn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Latency Issue in Enterprise CAC Product <br><br> Users are experiencing significant latency within the UI of the Enterprise CAC products, indicating a major outage that may be caused by a configuration change to the system. Teams are actively investigating the issue to restore normal functionality.
+
+ <div>
+<p><small>Feb <var>27</var>, <var>15:14</var> EST</small><br /><strong>Resolved</strong> - Technology teams have restored access. Thank you for your patience as our teams worked to resolve this incident.</p><p><small>Feb <var>27</var>, <var>15:12</var> EST</small><br /><strong>Update</strong> - Teams are experiencing latency within the UI of the Enterprise CAC products.  Teams continue to investigate.  We will provide our next update in approximately one hour.</p><p><small>Feb <var>27</var>, <var>15:11</var> EST</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the Enterprise CAC product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 15:14:07 -0500</pubDate>
+<pubDate>Tue, 27 Feb 2024 15:14:07 -0500</pubDate>
+</item>
 
 <item>
 <title>System Incident - GNOSIS - Production</title>

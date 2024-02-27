@@ -707,3 +707,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [NZ: XPM - Customers experiencing errors in XPM](https://status.xero.com/incidents/jympz5ztykc2)
 append_entries: 2
 Finish: 2024-02-27 20:09:22.086846
+------------------------------------------------------
+Started: 2024-02-27 21:08:02.066813
+Existing_entries: 29
+Fetching from https://status.xero.com/history.rss
+append_entries: 0
+Finish: 2024-02-27 21:08:02.468191
