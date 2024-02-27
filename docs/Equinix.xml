@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Precision Time Portal Availability</title>
 <link>https://status.equinix.com/incidents/sz4l19dp5gnp</link>
 <guid>https://status.equinix.com/incidents/sz4l19dp5gnp</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Precision Time™ services experiencing intermittent issues <br><br> The Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues and are being investigated. <div>
+<div> [High] - Equinix Precision Time™ services experiencing intermittent issues <br /><br /> The Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues and are being investigated. <div>
 <p><small>Feb <var>26</var>, <var>22:30</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Feb <var>26</var>, <var>22:10</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Mon, 26 Feb 2024 22:30:45 +0000</pubDate>
 <pubDate>Mon, 26 Feb 2024 22:30:45 +0000</pubDate>
 </item>
 <item>
@@ -28,9 +28,7 @@ Summary: An issue has been identified and is currently under investigation for M
 <p><small>Feb <var>26</var>, <var>22:30</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">6d6l9l7j8vj9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030005</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SV)]</div></p><p><small>Feb <var>26</var>, <var>22:15</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">6d6l9l7j8vj9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030005</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SV)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 26 Feb 2024 22:30:41 +0000</pubDate>
-<pubDate>Mon, 26 Feb 2024 22:30:41 +0000</pubDate>
 </item>
-
 <item>
 <title>Internet Exchange Portal Availability</title>
 <link>https://status.equinix.com/incidents/nwbdq3wt9cty</link>
