@@ -823,3 +823,9 @@ Existing_entries: 1
 Fetching from https://status.aws.amazon.com/rss/all.rss
 append_entries: 0
 Finish: 2024-02-27 06:11:32.929594
+------------------------------------------------------
+Started: 2024-02-27 07:10:55.085188
+Existing_entries: 1
+Fetching from https://status.aws.amazon.com/rss/all.rss
+append_entries: 0
+Finish: 2024-02-27 07:10:55.306330
