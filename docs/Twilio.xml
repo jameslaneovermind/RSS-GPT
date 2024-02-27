@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - T-Mobile</title>
 <link>https://status.twilio.com/incidents/pfm86ljry96q</link>
 <guid>https://status.twilio.com/incidents/pfm86ljry96q</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - T-Mobile Emergency Maintenance <br><br> The T-Mobile network in the US will undergo emergency maintenance from Feb 27, 23:30 PST until Feb 28, 05:30 PST. Intermittent delays delivering SMS to and from T-Mobile US handsets may occur during this time. <div>
+<div> [Medium] - T-Mobile Emergency Maintenance <br /><br /> The T-Mobile network in the US will undergo emergency maintenance from Feb 27, 23:30 PST until Feb 28, 05:30 PST. Intermittent delays delivering SMS to and from T-Mobile US handsets may occur during this time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>23:30</var> PST &nbsp;-&nbsp; Feb <var>28</var>, <var>05:30</var> PST</strong></p><p><small>Feb <var>26</var>, <var>17:39</var> PST</small><br /><strong>Scheduled</strong> - The T-Mobile network in the US is conducting an emergency maintenance from 27 February 2024 at 23:30 PST until 28 February 2024 at 05:30 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from T-Mobile US handsets.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 23:30:00 -0800</pubDate>
-<pubDate>Tue, 27 Feb 2024 23:30:00 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Carrier Partner Maintenance - Mexico</title>
 <link>https://status.twilio.com/incidents/rx9ms0ss8h8x</link>

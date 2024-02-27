@@ -5,20 +5,30 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/3pxnw95p6t8y</link>
+<guid>https://status.equinix.com/incidents/3pxnw95p6t8y</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Platform Downtime <br><br> Summary: The issue has been identified and a fix is being implemented for a large scale outage that caused platform downtime. <div>
+<p><small>Feb <var>27</var>, <var>02:20</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">c4v7s0b16260</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028891</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Feb <var>15</var>, <var>16:17</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">c4v7s0b16260</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028891</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Feb <var>15</var>, <var>16:02</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">c4v7s0b16260</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028891</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 02:20:03 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 02:20:03 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/6t338clsh7kx</link>
 <guid>https://status.equinix.com/incidents/6t338clsh7kx</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Fabric - Americas Outage 
-<br><br> 
+<br /><br /> 
 A fix is currently being implemented for an identified issue that has caused a critical incident in Equinix Fabric in the Americas region. 
 Summary: <div>
 <p><small>Feb <var>27</var>, <var>02:09</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">s92kl3gs60m1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030023</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DC)]</div></p><p><small>Feb <var>27</var>, <var>01:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">s92kl3gs60m1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030023</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DC)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 02:09:27 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 02:09:27 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/s3sl4qwmsz3g</link>
