@@ -975,3 +975,19 @@ Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phon
 Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (APAC)](https://status.zoom.us/incidents/31l528l7kd9p)
 append_entries: 4
 Finish: 2024-02-27 21:07:30.779122
+------------------------------------------------------
+Started: 2024-02-27 22:09:55.409229
+Existing_entries: 39
+Fetching from https://status.zoom.us/history.rss
+Token length: 1725
+Summarized using GPT-3.5-turbo-1106
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (United States)](https://status.zoom.us/incidents/0dqddqggrggj)
+Token length: 1621
+Summarized using GPT-3.5-turbo-1106
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (Europe)](https://status.zoom.us/incidents/rqgj3hyrr9fl)
+Token length: 1709
+Summarized using GPT-3.5-turbo-1106
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (United States)](https://status.zoom.us/incidents/xfbghqz9whbj)
+Append: [DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (Europe)](https://status.zoom.us/incidents/ybzwwjf2bgtd)
+append_entries: 4
+Finish: 2024-02-27 22:09:58.915868

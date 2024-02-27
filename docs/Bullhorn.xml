@@ -5,17 +5,27 @@
 <link>https://status.bullhorn.com</link>
 
 <item>
+<title>OTE I-9 Signing Error</title>
+<link>https://status.bullhorn.com/incidents/74xrvrcll4cb</link>
+<guid>https://status.bullhorn.com/incidents/74xrvrcll4cb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Issue with eSigning I9 Section 2 in Onboarding Talent Edition <br><br> The Bullhorn engineering team is currently investigating a critical issue with the ability to eSign I9 Section 2 in the Onboarding Talent Edition application, causing significant service disruption. <div>
+<p><small>Feb <var>27</var>, <var>16:44</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>27</var>, <var>16:29</var> EST</small><br /><strong>Investigating</strong> - Impact: We are currently experiencing an issue around the ability to eSign I9 Section 2 while using the Onboarding Talent Edition application. The Bullhorn engineering team is currently investigating the issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 16:44:32 -0500</pubDate>
+<pubDate>Tue, 27 Feb 2024 16:44:32 -0500</pubDate>
+</item>
+
+<item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/hv2xwrrd70xp</link>
 <guid>https://status.bullhorn.com/incidents/hv2xwrrd70xp</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance <br><br> Summary: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. <div>
+<div> [Low] - Scheduled Maintenance <br /><br /> Summary: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>04:00</var> - <var>06:00</var> EST</strong></p><p><small>Feb <var>27</var>, <var>16:00</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There should not be any user impact resulting from this maintenance.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS40, CLS41, CLS42, CLS43, CLS44<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
-<pubDate>Wed, 28 Feb 2024 04:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>ATS/CRM - CLS70, CLS71, CLS20, CLS21, CLS22, CLS23</title>
 <link>https://status.bullhorn.com/incidents/nykrqdlrpvrd</link>
