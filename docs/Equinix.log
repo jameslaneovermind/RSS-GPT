@@ -810,3 +810,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Network Component Issue (Equinix Fabric)](https://status.equinix.com/incidents/40tpl1v8xy6r)
 append_entries: 2
 Finish: 2024-02-27 05:10:17.728915
+------------------------------------------------------
+Started: 2024-02-27 06:11:33.447258
+Existing_entries: 112
+Fetching from https://status.equinix.com/history.rss
+Token length: 309
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/ljcx43fz1l1r)
+append_entries: 1
+Finish: 2024-02-27 06:11:35.121565
