@@ -4,6 +4,19 @@
 <title>Harness Status - Incident History</title>
 <link>https://status.harness.io</link>
 
+<item>
+<title>CI pipeline are getting failed with latest release</title>
+<link>https://status.harness.io/incidents/7ttkfy68v99g</link>
+<guid>https://status.harness.io/incidents/7ttkfy68v99g</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage
+Summary:
+The latest release caused a critical issue, resulting in a major platform outage. The team has reverted to the old release to resolve the issue. <div>
+<p><small>Feb <var>27</var>, <var>02:18</var> PST</small><br /><strong>Resolved</strong> - Issue was with latest release, reverted to old release.</p><p><small>Feb <var>27</var>, <var>02:17</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 02:18:21 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 02:18:21 -0800</pubDate>
+</item>
 
 <item>
 <title>Hosted CI Builds on MacOS are failing to initialize in all environments</title>

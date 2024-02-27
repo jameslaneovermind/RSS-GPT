@@ -4,6 +4,19 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Subset of Customers are Unable to Verify the Caller IDs via SMS</title>
+<link>https://status.twilio.com/incidents/wjm12ybzg0c4</link>
+<guid>https://status.twilio.com/incidents/wjm12ybzg0c4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Caller ID Verification Issue <br><br> A subset of customers are unable to verify the Caller IDs via SMS, indicating a major outage. Engineering team actively investigating. Another update expected in 1 hour.
+
+ <div>
+<p><small>Feb <var>27</var>, <var>02:38</var> PST</small><br /><strong>Investigating</strong> - We are observing a issue where a subset of customers are unable to verify the Caller IDs via SMS. Our engineering team has been alerted and is actively investigating. We expect to provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 02:39:40 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 02:39:40 -0800</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Maintenance - T-Mobile</title>
