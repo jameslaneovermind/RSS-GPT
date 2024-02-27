@@ -1061,3 +1061,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Subset of Customers are Unable to Verify the Caller IDs via SMS](https://status.twilio.com/incidents/wjm12ybzg0c4)
 append_entries: 1
 Finish: 2024-02-27 11:07:24.182234
+------------------------------------------------------
+Started: 2024-02-27 12:14:12.225120
+Existing_entries: 77
+Fetching from https://status.twilio.com/history.rss
+Token length: 395
+Summarized using GPT-3.5-turbo-1106
+Append: [United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK](https://status.twilio.com/incidents/wt8j7xrxlpcy)
+append_entries: 1
+Finish: 2024-02-27 12:14:13.820644

@@ -5,6 +5,30 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>WildFire Australia Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/fhcp2lgb6k4w</link>
+<guid>https://status.paloaltonetworks.com/incidents/fhcp2lgb6k4w</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance for WildFire Australia Cloud <br><br> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
+<p><small>Feb <var>27</var>, <var>11:40</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>27</var>, <var>11:37</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Australia Cloud on February 27th, 2024 from 11:40 UTC to 12:40 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 11:40:56 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 11:40:56 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Singapore Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/8zhfm5czj28y</link>
+<guid>https://status.paloaltonetworks.com/incidents/8zhfm5czj28y</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance for WildFire Singapore Cloud
+Summary: Scheduled maintenance is currently in progress for WildFire Singapore Cloud, resulting in intermittent disconnection and detection delays for customers from 11:15 UTC to 12:15 UTC. <div>
+<p><small>Feb <var>27</var>, <var>11:15</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>27</var>, <var>11:12</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Singapore Cloud on February 27th, 2024 from 11:15 UTC to 12:15 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 11:15:56 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 11:15:56 +0000</pubDate>
+</item>
+
+<item>
 <title>WildFire india Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/w1c2sfnpyskj</link>
 <guid>https://status.paloaltonetworks.com/incidents/w1c2sfnpyskj</guid>
@@ -14,9 +38,7 @@ Summary: Planned service maintenance for WildFire India Cloud on February 27th, 
 <p><small>Feb <var>27</var>, <var>11:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>27</var>, <var>10:59</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire india Cloud on February 27th, 2024 from 11:00 UTC to 12:00 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 11:00:56 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 11:00:56 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Switzerland Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/1w4ryf8nch0l</link>
