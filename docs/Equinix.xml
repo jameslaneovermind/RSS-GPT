@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/s3sl4qwmsz3g</link>
+<guid>https://status.equinix.com/incidents/s3sl4qwmsz3g</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Americas <br><br> An issue is being investigated with Equinix Fabric in the Americas region, potentially affecting a large number of users.
+
+[Medium] - Equinix Fabric Connectivity Issue <br><br> Equinix Fabric in the Americas is currently experiencing connectivity issues. Investigations are ongoing. <div>
+<p><small>Feb <var>27</var>, <var>01:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zz4sp10fv6yf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030019</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, ST)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 01:36:43 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 01:36:43 +0000</pubDate>
+</item>
+<item>
+<title>Other (Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/xpgl0lpfh11p</link>
+<guid>https://status.equinix.com/incidents/xpgl0lpfh11p</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Internet Exchange Outage in Asia-Pacific 
+Summary: A critical incident has been identified in the Asia-Pacific Internet Exchange, causing platform downtime. A fix is being implemented to resolve the issue. <div>
+<p><small>Feb <var>27</var>, <var>01:05</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bk2hr4mjrv1n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030009</div><div class="affected-products font-small color-secondary">[Internet Exchange - Asia-Pacific (HK, SG)]</div></p><p><small>Feb <var>27</var>, <var>00:49</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bk2hr4mjrv1n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030009</div><div class="affected-products font-small color-secondary">[Internet Exchange - Asia-Pacific (HK, SG)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 01:05:36 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 01:05:36 +0000</pubDate>
+</item>
 
 <item>
 <title>Precision Time Portal Availability</title>

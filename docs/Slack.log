@@ -1762,3 +1762,16 @@ Fetching from https://status.slack.com/history.rss
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-27 01:39:23.352277
+Existing_entries: 47
+Fetching from https://status.slack.com/feed/rss
+append_entries: 0
+Finish: 2024-02-27 01:39:23.893461
+------------------------------------------------------
+Started: 2024-02-27 01:39:52.808184
+Existing_entries: 47
+Fetching from https://status.slack.com/history.rss
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/Slack
