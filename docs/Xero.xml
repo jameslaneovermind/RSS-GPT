@@ -4,6 +4,28 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>Global: Files - Customers receiving errors when uploading/downloading files</title>
+<link>https://status.xero.com/incidents/yq6pmb98h0pn</link>
+<guid>https://status.xero.com/incidents/yq6pmb98h0pn</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Upload and Download Error Issue Resolved <br><br> Our team has resolved the issue causing customers to receive error messages when trying to upload or download Files in Xero. This was caused by a technical issue with one of our servers. We apologise for any inconvenience this has caused. Summary: The issue causing errors when uploading or downloading files in Xero has been resolved. This was due to a technical issue with one of our servers. We apologize for any inconvenience. <div>
+<p><small>Feb <var>27</var>, <var>19:49</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue causing customers to receive error messages when trying to upload or download Files in Xero. This was caused by a technical issue with one of our servers. We apologise for any inconvenience this has caused.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 19:49:55 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 19:49:55 +0000</pubDate>
+</item>
+<item>
+<title>NZ: XPM - Customers experiencing errors in XPM</title>
+<link>https://status.xero.com/incidents/jympz5ztykc2</link>
+<guid>https://status.xero.com/incidents/jympz5ztykc2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Error Messages in XPM <br><br> Some customers are experiencing error messages in different areas of XPM, which is our top priority. We are urgently investigating the issue. <div>
+<p><small>Feb <var>27</var>, <var>20:02</var> UTC</small><br /><strong>Identified</strong> - We have identified what is causing some customers to receive error messages in different areas of XPM.<br /><br />This is our top priority and we will update you as soon as we can.<br /><br /><b>Status Last Reviewed:</b> 8:01 pm UTC</p><p><small>Feb <var>27</var>, <var>19:22</var> UTC</small><br /><strong>Investigating</strong> - We are aware that some customers may be receiving error messages in different areas of XPM. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 7:21 pm UTC</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 20:02:42 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 20:02:42 +0000</pubDate>
+</item>
 
 <item>
 <title>Global: Invoicing - Some customers are experiencing errors</title>

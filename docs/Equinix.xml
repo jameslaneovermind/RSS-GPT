@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/3vfg4hzzydlh</link>
 <guid>https://status.equinix.com/incidents/3vfg4hzzydlh</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Issue with Equinix Fabric and Network Edge in EMEA (IL, ML) <br><br> The issue has been identified and a fix is being implemented. We are currently investigating the issue. Incident Number: INC0030088. <div>
+<div> [Medium] - Investigating Issue with Equinix Fabric and Network Edge in EMEA (IL, ML) <br /><br /> The issue has been identified and a fix is being implemented. We are currently investigating the issue. Incident Number: INC0030088. <div>
 <p><small>Feb <var>27</var>, <var>19:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">t26kxtgt5wt1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030088</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML); Network Edge - EMEA (IL, ML)]</div></p><p><small>Feb <var>27</var>, <var>18:45</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">t26kxtgt5wt1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030088</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML); Network Edge - EMEA (IL, ML)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 19:01:32 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 19:01:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/rtngd4zc62kc</link>

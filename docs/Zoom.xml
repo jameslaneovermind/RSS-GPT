@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>DigiCert Global Root G2 Transition Maintenance Notice for Zoom Conference Room Connector</title>
+<link>https://status.zoom.us/incidents/403tpkscrbmr</link>
+<guid>https://status.zoom.us/incidents/403tpkscrbmr</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Zoom Service Maintenance for CRC SIP TLS Certificate Replacement <br><br> Zoom will be performing service maintenance on Zoom CRC to replace the SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains. There is no expected downtime for this change. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>12:00</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance on Zoom CRC to replace the SIP TLS certificate with a new certificate that is signed by DigiCert Global Root G2 certificate authority for certain CRC SIP URI domains, listed below. There is no expected downtime for this change.  For more information, see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202<br /><br />* zoomcrc.com (US, Global)<br />* ny.zmus.us (US East)<br />* sc.zmus.us (US West)<br />* tw.zoomcrc.com (Taiwan)<br /><br />Customers impacted: Any customer using Zoom CRC services to join Zoom meetings using the listed SIP URI domains and SIP TLS as the connection protocol.  For more information, see: https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061202</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 22:00:00 -0800</pubDate>
+<pubDate>Fri, 01 Mar 2024 22:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Issues with Zoom web pages</title>
