@@ -701,3 +701,9 @@ Existing_entries: 31
 Fetching from https://status.datto.com/history.rss
 append_entries: 0
 Finish: 2024-02-27 18:11:49.401380
+------------------------------------------------------
+Started: 2024-02-27 19:08:09.461041
+Existing_entries: 31
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-02-27 19:08:09.803165

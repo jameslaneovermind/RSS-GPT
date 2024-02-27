@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Russia SMS Carrier Maintenance - Motiv</title>
 <link>https://status.twilio.com/incidents/x8945hsn7ff2</link>
 <guid>https://status.twilio.com/incidents/x8945hsn7ff2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Emergency Maintenance for Motiv Network in Russia <br><br> The Motiv network in Russia is conducting emergency maintenance from 28 February 2024 at 10:20 PST until 28 February 2024 at 13:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Motiv Russia handsets. Summary: Emergency maintenance is being conducted for the Motiv network in Russia, potentially causing intermittent delays in SMS delivery to handsets. <div>
+<div> [Medium] - Emergency Maintenance for Motiv Network in Russia <br /><br /> The Motiv network in Russia is conducting emergency maintenance from 28 February 2024 at 10:20 PST until 28 February 2024 at 13:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Motiv Russia handsets. Summary: Emergency maintenance is being conducted for the Motiv network in Russia, potentially causing intermittent delays in SMS delivery to handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>10:20</var> - <var>13:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>09:45</var> PST</small><br /><strong>Scheduled</strong> - The Motiv network in Russia is conducting an emergency maintenance from 28 February 2024 at 10:20 PST until 28 February 2024 at 13:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Motiv Russia handsets.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 10:20:00 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 10:20:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Twilio Programmable Messaging Service Degraded for Outbound SMS</title>
 <link>https://status.twilio.com/incidents/6cyn40bp8zn5</link>

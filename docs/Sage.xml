@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Brightpearl - Partial Outage</title>
+<link>https://status.sage.com/incidents/7np37hw99jy0</link>
+<guid>https://status.sage.com/incidents/7np37hw99jy0</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Potential Service Issue <br><br> We are currently investigating a potential issue with the service. An update will be provided within 30 minutes. <div>
+<p><small>Feb <var>27</var>, <var>18:32</var> UTC</small><br /><strong>Update</strong> - We identified an issue preventing US customers from shipping products in bulk.  Customers can ship individual items.<br /><br />We are currently investigating.</p><p><small>Feb <var>27</var>, <var>18:17</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 18:32:02 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 18:32:02 +0000</pubDate>
+</item>
 
 <item>
 <title>Compliance Service - Scheduled Maintenance</title>
