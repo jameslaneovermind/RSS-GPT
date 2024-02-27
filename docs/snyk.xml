@@ -4,18 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>SCM imports in MT-AU are degraded</title>
 <link>https://status.snyk.io/incidents/01qvqkq8mq0w</link>
 <guid>https://status.snyk.io/incidents/01qvqkq8mq0w</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SCM Imports Degradation in MT-AU Environment <br><br> We are investigating reports of degraded SCM imports (or API based imports) into Snyk in the MT-AU environment. A fix has been implemented and we are monitoring the results. <div>
+<div> [Medium] - SCM Imports Degradation in MT-AU Environment <br /><br /> We are investigating reports of degraded SCM imports (or API based imports) into Snyk in the MT-AU environment. A fix has been implemented and we are monitoring the results. <div>
 <p><small>Feb <var>27</var>, <var>01:38</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>27</var>, <var>01:04</var> UTC</small><br /><strong>Update</strong> - We are investigating reports that SCM imports (or API based imports) into Snyk in the MT-AU environment are degraded.</p><p><small>Feb <var>27</var>, <var>01:03</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 01:38:08 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 01:38:08 +0000</pubDate>
 </item>
-
 <item>
 <title>CSV Failing Download From Reporting</title>
 <link>https://status.snyk.io/incidents/s1h0f2frz6zw</link>
