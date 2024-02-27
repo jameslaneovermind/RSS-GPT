@@ -5,6 +5,18 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/rtngd4zc62kc</link>
+<guid>https://status.equinix.com/incidents/rtngd4zc62kc</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Americas (CH, NY) <br><br> An issue has been identified with Equinix Fabric in the Americas region (CH, NY) and a fix is currently being implemented. Incident Number: INC0030079. <div>
+<p><small>Feb <var>27</var>, <var>15:55</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h8ws3klcmqfn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030079</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Feb <var>27</var>, <var>15:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h8ws3klcmqfn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030079</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 15:55:57 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 15:55:57 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/0szl7wfpb3k0</link>
 <guid>https://status.equinix.com/incidents/0szl7wfpb3k0</guid>
@@ -14,9 +26,7 @@ Summary: The SMC team has identified a device reboot issue and is currently inve
 <p><small>Feb <var>27</var>, <var>14:35</var> UTC</small><br /><strong>Update</strong> - Reduce redundancy for MC customers in the DCmetro.<br /><br />Latest update: SMC noticed that one of the devices rebooted itself.<br /><br />Next Action: SMC will open a case with 3rd Party Vendor.<br /><div style="display: none;">91bmxkh5dg5b</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030074</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DC)]</div></p><p><small>Feb <var>27</var>, <var>14:18</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">91bmxkh5dg5b</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030074</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DC)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 14:35:21 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 14:35:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/cz5w0gc8ml0p</link>

@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>Catalog.redhat.com - Container Details</title>
 <link>https://status.redhat.com/incidents/3wcyrb3w5wm5</link>
@@ -23,9 +24,7 @@ The incident has been resolved. <div>
 <p><small>Feb <var>27</var>, <var>09:35</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>27</var>, <var>09:25</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>27</var>, <var>09:16</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 09:35:09 -0500</pubDate>
-<pubDate>Tue, 27 Feb 2024 09:35:09 -0500</pubDate>
 </item>
-
 <item>
 <title>DOWN - catalog.redhat.com</title>
 <link>https://status.redhat.com/incidents/5njpjw06n46l</link>
