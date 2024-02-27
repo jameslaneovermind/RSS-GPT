@@ -629,3 +629,9 @@ Existing_entries: 25
 Fetching from https://status.elastic.co/history.rss
 append_entries: 0
 Finish: 2024-02-27 09:08:54.003594
+------------------------------------------------------
+Started: 2024-02-27 10:10:08.875660
+Existing_entries: 25
+Fetching from https://status.elastic.co/history.rss
+append_entries: 0
+Finish: 2024-02-27 10:10:09.221185

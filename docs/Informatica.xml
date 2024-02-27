@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Minor Maintenance on  US East 4 POD for API Manager.</title>
+<link>https://status.informatica.com/incidents/wws6q35sv6pj</link>
+<guid>https://status.informatica.com/incidents/wws6q35sv6pj</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - API Gateway Maintenance <br><br> API Gateway and API invocations are not impacted during this maintenance. API Manager User Interface may be unavailable during the maintenance, impacting the creation of new managed APIs and rate limit policy. All other services will continue to operate normally. Summary: Scheduled maintenance for API Gateway and API Manager User Interface may cause some disruptions, but all other services will continue to operate as normal. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>03:00</var> - <var>03:30</var> PST</strong></p><p><small>Feb <var>27</var>, <var>01:28</var> PST</small><br /><strong>Scheduled</strong> - API Gateway and API invocations are not impacted during this maintenance.<br />API Manager User Interface may be unavailable during the maintenance impacting creation of new managed APIs and rate limit policy.<br /> <br />All other services will continue to operate normally.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 03:00:00 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 03:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance patch for Cloud Data Integration</title>
