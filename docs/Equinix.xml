@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/nw9yn80g9h1d</link>
 <guid>https://status.equinix.com/incidents/nw9yn80g9h1d</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Potential Issue <br><br> We are currently investigating this issue with Equinix Fabric in the EMEA region. Incident Number: INC0030060. <div>
+<div> [Medium] - Investigating Potential Issue <br /><br /> We are currently investigating this issue with Equinix Fabric in the EMEA region. Incident Number: INC0030060. <div>
 <p><small>Feb <var>27</var>, <var>12:10</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">7mwtk1lkwdff</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030060</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MD, PA)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 27 Feb 2024 12:10:50 +0000</pubDate>
 <pubDate>Tue, 27 Feb 2024 12:10:50 +0000</pubDate>
 </item>
 <item>
@@ -21,15 +21,13 @@
 <guid>https://status.equinix.com/incidents/j6gdfzppqqs9</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Fabric and Network Edge Outage
-<br><br>
+<br /><br />
 Incident Number: INC0029357
 Summary: On Feb 21, an issue with Equinix Fabric and Network Edge in EMEA region was identified, causing a major outage. A fix is being implemented, and the incident has been resolved as of Feb 27. <div>
 <p><small>Feb <var>27</var>, <var>12:05</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">n9fhf0gyn5lc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029357</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p><p><small>Feb <var>21</var>, <var>09:47</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n9fhf0gyn5lc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029357</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p><p><small>Feb <var>21</var>, <var>09:31</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n9fhf0gyn5lc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029357</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 12:05:01 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 12:05:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/tz5xsqbwkhkj</link>

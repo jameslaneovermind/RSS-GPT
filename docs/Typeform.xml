@@ -4,6 +4,18 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+<item>
+<title>Scheduled maintenance - Subscriptions Services</title>
+<link>https://status.typeform.com/incidents/75wwnxffkzlw</link>
+<guid>https://status.typeform.com/incidents/75wwnxffkzlw</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary: On Thursday 7th of March 2024 at 07:00 CET, a scheduled maintenance will be performed to improve subscription services, causing potential delays in plan changes and account-level responses. If any issues persist after the maintenance, users are encouraged to reach out for support. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>07:00</var> - <var>08:00</var> CET</strong></p><p><small>Feb <var>27</var>, <var>13:37</var> CET</small><br /><strong>Scheduled</strong> - On Thursday 7th of March 2024 at 07:00 CET, we'll be performing a scheduled maintenance to improve our subscriptions services which will last about 1 hour. <br /><br />During the change window, we expect users to experience delays in plan changes being reflected, account-level responses counter and auto-upgrading to the next tier.<br /><br />However, should you see some errors, latency or impact of any kind regarding subscriptions services, after the change window, feel free to reach out to us at https://www.typeform.com/help/contact/<br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 07:00:00 +0100</pubDate>
+<pubDate>Thu, 07 Mar 2024 07:00:00 +0100</pubDate>
+</item>
 
 <item>
 <title>Typeform Builder - Degraded - Builder not loading</title>

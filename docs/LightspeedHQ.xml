@@ -4,18 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+
 <item>
 <title>Lightspeed Retail (X-Series) - Error when filtering Inventory count to exclude items</title>
 <link>https://status.lightspeedhq.com/incidents/9q09x99hd5hg</link>
 <guid>https://status.lightspeedhq.com/incidents/9q09x99hd5hg</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Inventory Count Exclusion Issue <br><br> Summary: The Inventory Count feature is currently experiencing issues preventing the exclusion of items, affecting some X-Series retailers. The team is investigating the issue and working on a resolution. <div>
+<div> [Medium] - Inventory Count Exclusion Issue <br /><br /> Summary: The Inventory Count feature is currently experiencing issues preventing the exclusion of items, affecting some X-Series retailers. The team is investigating the issue and working on a resolution. <div>
 <p><small>Feb <var>27</var>, <var>06:58</var> EST</small><br /><strong>Investigating</strong> - We have identified an issue related the Inventory Count not allowing to exclude items, the error "Some of the items weren't excluded. Try again." appears when completing the count, which is affecting some of our (X-Series) retailers. We are working on remediating this and will keep you posted with updates as they come. Thank you for your patience</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 06:58:09 -0500</pubDate>
-<pubDate>Tue, 27 Feb 2024 06:58:09 -0500</pubDate>
 </item>
-
 <item>
 <title>Lightspeed Retail (R-Series) scheduled database maintenance</title>
 <link>https://status.lightspeedhq.com/incidents/4qm6r1kdvhmk</link>

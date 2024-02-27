@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK</title>
 <link>https://status.twilio.com/incidents/wt8j7xrxlpcy</link>
 <guid>https://status.twilio.com/incidents/wt8j7xrxlpcy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Vodafone UK Planned Maintenance <br><br> There is a planned maintenance by Vodafone UK from March 2, 14:15 PST to March 2, 22:00 PST. API request failures for Vodafone UK customers may occur during this time frame. Impacted Products: Lookup Identity Match, Legacy Identity MatchAndAttributes <div>
+<div> [High] - Vodafone UK Planned Maintenance <br /><br /> There is a planned maintenance by Vodafone UK from March 2, 14:15 PST to March 2, 22:00 PST. API request failures for Vodafone UK customers may occur during this time frame. Impacted Products: Lookup Identity Match, Legacy Identity MatchAndAttributes <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>14:15</var> - <var>22:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>03:27</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner Vodafone UK is conducting a planned maintenance from 02 March 2024 at 14:15 PST until 02 March 2024 at 22:00 PST. During the maintenance window, there could be intermittent API request failures for Vodafone UK customers.<br /><br /><br /><br />Impacted Products: Lookup Identity Match, Legacy Identity MatchAndAttributes</p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 14:15:00 -0800</pubDate>
-<pubDate>Sat, 02 Mar 2024 14:15:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Subset of Customers are Unable to Verify the Caller IDs via SMS</title>
 <link>https://status.twilio.com/incidents/wjm12ybzg0c4</link>
