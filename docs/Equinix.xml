@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/qxk1nh6rdmf8</link>
@@ -14,9 +15,7 @@ Summary: A critical issue has been identified in the Equinix Fabric service in t
 <p><small>Feb <var>27</var>, <var>07:10</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">mqfd68lgwjxx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030039</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p><p><small>Feb <var>27</var>, <var>06:51</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mqfd68lgwjxx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030039</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 07:10:17 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 07:10:17 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/ljcx43fz1l1r</link>
