@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>IRD System Maintenance</title>
+<link>https://status.xero.com/incidents/z2gqdfk3rt2f</link>
+<guid>https://status.xero.com/incidents/z2gqdfk3rt2f</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Outage for IRD <br><br> IRD have just advised us that there will be an outage overnight tonight to perform system maintenance between 9pm and 2am NZT. During this time NZ Tax will be intermittently unable to connect to IRD services. Summary: The IRD will experience a major system outage due to scheduled maintenance, impacting NZ Tax services intermittently. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>08:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>27</var>, <var>22:49</var> UTC</small><br /><strong>Scheduled</strong> - IRD have just advised us that there will be an outage overnight tonight to perform system maintenance between 9pm and 2am NZT.<br /><br />During this time NZ Tax will be intermittently be unable to connect to IRD services.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 08:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 08:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Global: Files - Customers receiving errors when uploading/downloading files</title>

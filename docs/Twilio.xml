@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US and Puerto Rico SMS Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/kf2k9hgpky9r</link>
+<guid>https://status.twilio.com/incidents/kf2k9hgpky9r</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled SMS Carrier Maintenance <br><br> Our SMS carrier partner in the US and Puerto Rico will be conducting planned maintenances from March 3, 2024, at 21:00 PST until March 5, 2024, at 21:00 PST. During this time, there may be intermittent delays in delivering SMS to and from US and Puerto Rico handsets. Summary: Scheduled maintenance for SMS carrier in US and Puerto Rico from March 3 to March 5 may cause intermittent delays in SMS delivery. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>21:00</var> PST &nbsp;-&nbsp; Mar <var>5</var>, <var>21:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>14:56</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in the US and Puerto Rico is conducting a series of planned maintenances from 03 March 2024 at 21:00 PST until 05 March 2024 at 21:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from US and Puerto Rico handsets.<br /><br /><br /><br /><br />Note, the maintenance will be carried out on each of the following dates and times:<br /><br /><br /><br />03 March 2024 at 21:00 PST until 04 March 2024 at 05:00 PST<br /><br />04 March 2024 at 21:00 PST until 05 March 2024 at 05:00 PST<br /><br />05 March 2024 at 15:00 PST until 05 March 2024 at 21:00 PST<br /></p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 21:00:00 -0800</pubDate>
+<pubDate>Sun, 03 Mar 2024 21:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Russia SMS Carrier Maintenance - Motiv</title>
