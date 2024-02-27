@@ -4,6 +4,7 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Portal - Partial Outage</title>
 <link>https://status.sage.com/incidents/lvyrrlqftbsc</link>
@@ -14,9 +15,7 @@ Summary: The company is investigating a potential issue with the service, indica
 <p><small>Feb <var>27</var>, <var>08:06</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 08:06:58 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 08:06:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Brightpearl - Degraded Performance</title>
 <link>https://status.sage.com/incidents/494hgmrd476v</link>

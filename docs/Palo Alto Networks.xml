@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>WildFire Switzerland Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/1w4ryf8nch0l</link>
+<guid>https://status.paloaltonetworks.com/incidents/1w4ryf8nch0l</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for WildFire Switzerland Cloud <br><br> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
+<p><small>Feb <var>27</var>, <var>08:50</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>27</var>, <var>08:47</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Switzerland Cloud on February 27th, 2024 from 08:50 UTC to 09:50 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 08:50:56 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 08:50:56 +0000</pubDate>
+</item>
 
 <item>
 <title>IoT Security (US) Scheduled Maintenance</title>

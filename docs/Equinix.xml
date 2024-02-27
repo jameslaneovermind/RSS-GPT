@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/tz5xsqbwkhkj</link>
+<guid>https://status.equinix.com/incidents/tz5xsqbwkhkj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage
+Summary:
+We are currently investigating a major issue with Equinix Fabric in the EMEA region. This incident is causing significant downtime and is currently under investigation. Please stand by for further updates. <div>
+<p><small>Feb <var>27</var>, <var>09:07</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">btbbb0pzrx1m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030046</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SK)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 09:07:01 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 09:07:01 +0000</pubDate>
+</item>
+<item>
+<title>Network Service Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/qnrg1sf80xtl</link>
+<guid>https://status.equinix.com/incidents/qnrg1sf80xtl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Equinix Fabric Cloud Service Provider Link Down in HK2 <br><br> SMC monitored that one of Equinix Fabric cloud service provider links in HK2 went down, but there was no service impact as traffic automatically rerouted to an alternate link. The issue has been reported to the provider for investigation. <div>
+<p><small>Feb <var>27</var>, <var>09:06</var> UTC</small><br /><strong>Update</strong> - SMC monitored that one of Equinix Fabric cloud service provider links in HK2 went down. No service impact as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">slpv6fvrt2hh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030045</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Feb <var>27</var>, <var>08:49</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">slpv6fvrt2hh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030045</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Feb <var>27</var>, <var>08:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">slpv6fvrt2hh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030045</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 09:06:42 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 09:06:42 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
