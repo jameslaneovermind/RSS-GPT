@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Twilio Programmable Messaging Service Degraded for Outbound SMS</title>
+<link>https://status.twilio.com/incidents/6cyn40bp8zn5</link>
+<guid>https://status.twilio.com/incidents/6cyn40bp8zn5</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Twilio Programmable Messaging Service Degradation
+Summary: Twilio Programmable Messaging service experienced a degradation for 7 minutes and 50 seconds, causing Outbound SMS status issues between 12:06:00 and 12:14:00 UTC on 2024-02-27. <div>
+<p><small>Feb <var>27</var>, <var>05:02</var> PST</small><br /><strong>Resolved</strong> - Twilio Programmable Messaging service was degraded for 7 minutes and 50 seconds between 12:06:00 and 12:14:00 UTC on 2024-02-27. During this period, customers may have experienced issue with Outbound SMS status being stuck in SENT status. The issue has now been resolved.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 05:02:49 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 05:02:49 -0800</pubDate>
+</item>
 
 <item>
 <title>United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK</title>

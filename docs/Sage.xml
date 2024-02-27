@@ -4,6 +4,30 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Compliance Service - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/qnvcklmczztf</link>
+<guid>https://status.sage.com/incidents/qnvcklmczztf</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance <br><br> Summary: Compliance Service will be undergoing maintenance on Wednesday, February 28th, 2024, for 2 hours, between 16:30 UTC and 18:30 UTC. During this scheduled time, customers may face some degraded performance when using the service. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>16:30</var> - <var>18:30</var> UTC</strong></p><p><small>Feb <var>27</var>, <var>13:38</var> UTC</small><br /><strong>Scheduled</strong> - Compliance Service will be undergoing maintenance on Wednesday, February 28th, 2024, for 2 hours, between 16:30 UTC and 18:30 UTC.<br /><br />During this scheduled time, customers may face some degraded performance when using the service.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you. The Sage Team</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 16:30:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 16:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Compliance Service - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/kztq0y2f0wmn</link>
+<guid>https://status.sage.com/incidents/kztq0y2f0wmn</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance
+Summary:
+Compliance Service will be undergoing maintenance on Wednesday, February 28th, 2024, for 1 hour, between 15:30 UTC and 16:30 UTC. The service may be unavailable during this scheduled time. We apologize for any inconvenience this may cause. Thank you. The Sage Team <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>15:30</var> - <var>16:30</var> UTC</strong></p><p><small>Feb <var>27</var>, <var>13:38</var> UTC</small><br /><strong>Scheduled</strong> - Compliance Service will be undergoing maintenance on Wednesday, February 28th, 2024, for 1 hour, between 15:30 UTC and 16:30 UTC.<br /><br />The service may be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you. The Sage Team</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 15:30:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 15:30:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Portal - Partial Outage</title>

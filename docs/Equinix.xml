@@ -4,6 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/cz5w0gc8ml0p</link>
+<guid>https://status.equinix.com/incidents/cz5w0gc8ml0p</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Platform Downtime <br><br> Summary: The issue has been identified and a fix is being implemented for a large-scale outage in the Metro Connect - Asia-Pacific (MB) region. <div>
+<p><small>Feb <var>27</var>, <var>13:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">hhkbp6mrlcvp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030067</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Feb <var>27</var>, <var>13:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">hhkbp6mrlcvp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030067</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Feb <var>27</var>, <var>13:14</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hhkbp6mrlcvp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030067</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 13:57:46 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 13:57:46 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric)</title>
