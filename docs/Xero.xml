@@ -4,6 +4,7 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+
 <item>
 <title>Global: Invoicing - Some customers are experiencing errors</title>
 <link>https://status.xero.com/incidents/843pyf0mv50q</link>
@@ -14,9 +15,7 @@ Summary: Some customers are experiencing issues with accessing Invoicing in Xero
 <p><small>Feb <var>27</var>, <var>03:44</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to access Invoicing in Xero are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 3:44am UTC</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 03:44:24 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 03:44:24 +0000</pubDate>
 </item>
-
 <item>
 <title>AU: XPM - Some customers are unable to login to XPM</title>
 <link>https://status.xero.com/incidents/fd8vzmk1bwcb</link>

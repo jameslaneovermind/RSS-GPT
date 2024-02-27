@@ -4,6 +4,18 @@
 <title>Resideo Status - Incident History</title>
 <link>https://status.resideo.com</link>
 
+<item>
+<title>Resideo Smart Home</title>
+<link>https://status.resideo.com/incidents/r7wtzvny5f1j</link>
+<guid>https://status.resideo.com/incidents/r7wtzvny5f1j</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance Scheduled
+Summary: The app is undergoing a major maintenance period, causing platform downtime. We apologize for any inconvenience this may cause. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>05:00</var> - <var>09:00</var> UTC</strong></p><p><small>Feb <var>27</var>, <var>04:36</var> UTC</small><br /><strong>Scheduled</strong> - The app has an upcoming maintenance scheduled. We apologize for any inconvenience caused during this period.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 05:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 05:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Resideo Smart Home</title>

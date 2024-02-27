@@ -5,6 +5,32 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/q737vg1xtvnn</link>
+<guid>https://status.equinix.com/incidents/q737vg1xtvnn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - EMEA (LD) Incident <br><br> We are currently investigating a critical issue that has been identified and a fix is being implemented. Incident Number: INC0029032.
+
+ <div>
+<p><small>Feb <var>27</var>, <var>04:48</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">smm16kqnc38n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029032</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD)]</div></p><p><small>Feb <var>17</var>, <var>15:19</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">smm16kqnc38n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029032</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD)]</div></p><p><small>Feb <var>17</var>, <var>15:03</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">smm16kqnc38n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029032</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 04:48:14 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 04:48:14 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/40tpl1v8xy6r</link>
+<guid>https://status.equinix.com/incidents/40tpl1v8xy6r</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Issue Identified and Fix Being Implemented <br><br> The issue has been identified and a fix is being implemented for the Equinix Fabric in the Americas. This indicates a major outage and the implementation of a fix.
+ <div>
+<p><small>Feb <var>27</var>, <var>04:55</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">cbdy1447849c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030033</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p><p><small>Feb <var>27</var>, <var>04:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">cbdy1447849c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030033</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 04:55:51 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 04:55:51 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/ccbfk1ncxlll</link>
 <guid>https://status.equinix.com/incidents/ccbfk1ncxlll</guid>
@@ -17,9 +43,7 @@ Summary: We are currently investigating this issue. <div>
 <p><small>Feb <var>27</var>, <var>03:30</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">z555b6rqjs5c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030030</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (MD)]</div></p><p><small>Feb <var>27</var>, <var>03:13</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">z555b6rqjs5c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030030</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (MD)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 03:30:46 +0000</pubDate>
-<pubDate>Tue, 27 Feb 2024 03:30:46 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/3pxnw95p6t8y</link>
