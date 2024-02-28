@@ -4,18 +4,17 @@
 <title>Schedulicity Status - Incident History</title>
 <link>https://status.schedulicity.com</link>
 
+
 <item>
 <title>Planned Downtime</title>
 <link>https://status.schedulicity.com/incidents/zdkjn0kdy54h</link>
 <guid>https://status.schedulicity.com/incidents/zdkjn0kdy54h</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage due to Planned Update <br><br> Summary: The company is performing a planned update to its web and backend, which will result in 2-4 hours of downtime and errors for web and native applications. <div>
+<div> [High] - Major Platform Outage due to Planned Update <br /><br /> Summary: The company is performing a planned update to its web and backend, which will result in 2-4 hours of downtime and errors for web and native applications. <div>
 <p><small>Feb <var>27</var>, <var>20:03</var> MST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>27</var>, <var>20:01</var> MST</small><br /><strong>Investigating</strong> - We are performing a planned update to our web and backend affecting web and native applications. Users will experience downtime and errors during this planned 2-4 hour window.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 20:03:01 -0700</pubDate>
-<pubDate>Tue, 27 Feb 2024 20:03:01 -0700</pubDate>
 </item>
-
 <item>
 <title>Scheduled Database Maintenance</title>
 <link>https://status.schedulicity.com/incidents/xzc9fnq4v8r4</link>

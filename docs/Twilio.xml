@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Call Failure To A Subset Of Twilio Phone Numbers In Thailand</title>
 <link>https://status.twilio.com/incidents/6l5l1h0c3g1f</link>
 <guid>https://status.twilio.com/incidents/6l5l1h0c3g1f</guid>
 <content:encoded><![CDATA[
-<div> [High] - Call Failure To A Subset Of Twilio Phone Numbers In Thailand<br><br> 
+<div> [High] - Call Failure To A Subset Of Twilio Phone Numbers In Thailand<br /><br /> 
 We are observing a call failure to a subset of Twilio phone numbers in Thailand, potentially indicating a major platform downtime. We are actively working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. <div>
 <p><small>Feb <var>27</var>, <var>18:35</var> PST</small><br /><strong>Investigating</strong> - We are observing Call Failure To A Subset Of Twilio Phone Numbers In Thailand. We are currently working with our carrier partner to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 18:35:01 -0800</pubDate>
-<pubDate>Tue, 27 Feb 2024 18:35:01 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/m374qnqpc5nc</link>
