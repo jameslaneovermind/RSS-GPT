@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Intermittent API Error for SNA with Account Security to Verizon US</title>
+<link>https://status.twilio.com/incidents/jrmqbgqwvkzz</link>
+<guid>https://status.twilio.com/incidents/jrmqbgqwvkzz</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Intermittent API Errors for Account Security to Verizon US <br><br> We continue to investigate intermittent API Errors for Account Security to Verizon US. We expect to provide another update in 2 hours or as soon as more information becomes available. <div>
+<p><small>Feb <var>28</var>, <var>01:03</var> PST</small><br /><strong>Update</strong> - We continue to investigate intermittent API Errors for Account Security to Verizon US. We expect to provide another update in 2 hours or as soon as more information becomes available.</p><p><small>Feb <var>28</var>, <var>00:17</var> PST</small><br /><strong>Investigating</strong> - We are investigating intermittent API Errors for Account Security to Verizon US. We expect to provide another update in one hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 01:03:18 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 01:03:18 -0800</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
