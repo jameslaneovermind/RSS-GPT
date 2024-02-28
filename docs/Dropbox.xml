@@ -4,6 +4,7 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+
 <item>
 <title>Dropbox may not be working as expected</title>
 <link>https://status.dropbox.com/incidents/5g2qgmms04bm</link>
@@ -14,9 +15,7 @@ Summary: Dropbox is experiencing a major outage, impacting a large number of use
 <p><small>Feb <var>28</var>, <var>00:57</var> UTC</small><br /><strong>Identified</strong> - Dropbox may not be working as expected for some users. We are working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 00:57:19 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 00:57:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Capture may not be working as expected</title>
 <link>https://status.dropbox.com/incidents/h1y2cnf32dk4</link>

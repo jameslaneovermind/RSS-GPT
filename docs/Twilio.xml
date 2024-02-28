@@ -4,6 +4,19 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/m374qnqpc5nc</link>
+<guid>https://status.twilio.com/incidents/m374qnqpc5nc</guid>
+<content:encoded><![CDATA[
+<div> [High] - Emergency SMS Carrier Maintenance
+Summary:
+Emergency maintenance is scheduled for our SMS carrier partner, potentially causing intermittent delays in delivering SMS to multiple countries including South Africa, Bolivia, Chile, and Venezuela. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>20:30</var> - <var>21:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>17:49</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner is conducting an emergency maintenance from 27 February 2024 at 20:30 PST until 27 February 2024 at 21:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to below multiple countries.<br /><br />South Africa <br /><br />Bolivia <br /><br />Chile <br /><br />Venezuela <br /></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 20:30:00 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 20:30:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>

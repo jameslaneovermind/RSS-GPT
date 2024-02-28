@@ -4,18 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+
 <item>
 <title>Australia: AU Tax - Some users are unable to load Tax Returns</title>
 <link>https://status.xero.com/incidents/yt9wdkvnxsv8</link>
 <guid>https://status.xero.com/incidents/yt9wdkvnxsv8</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Issue with Australian Tax Return Loading <br><br> Customers in Australia are experiencing issues loading tax returns in AU Tax, indicating a major outage. Our team is urgently investigating the cause. <div>
+<div> [High] - Major Issue with Australian Tax Return Loading <br /><br /> Customers in Australia are experiencing issues loading tax returns in AU Tax, indicating a major outage. Our team is urgently investigating the cause. <div>
 <p><small>Feb <var>28</var>, <var>01:31</var> UTC</small><br /><strong>Investigating</strong> - We are aware Australian customers trying to load tax returns in AU Tax are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 1:31am UTC</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 01:31:47 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 01:31:47 +0000</pubDate>
 </item>
-
 <item>
 <title>IRD System Maintenance</title>
 <link>https://status.xero.com/incidents/z2gqdfk3rt2f</link>
