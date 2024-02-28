@@ -4,6 +4,7 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Missed Recurring Tests for Golang and Ruby</title>
 <link>https://status.snyk.io/incidents/j83ngvz1cd4k</link>
@@ -14,9 +15,7 @@ Summary: Users with Golang or Ruby projects were not having recurring tests exec
 <p><small>Feb <var>28</var>, <var>12:00</var> UTC</small><br /><strong>Resolved</strong> - Users with Golang or Ruby projects will not have seen recurring tests executed from February 17th through today. <br /><br />A fix was released and as such all projects will resume automatic tests as of today (2023-02-28).</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>SCM imports in MT-AU are degraded</title>
 <link>https://status.snyk.io/incidents/01qvqkq8mq0w</link>

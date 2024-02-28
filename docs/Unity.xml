@@ -4,6 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Asset Manager Maintenance</title>
+<link>https://status.unity.com/incidents/187065</link>
+<guid>https://status.unity.com/incidents/187065</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary:
+Scheduled migration occurring for the Asset Manager system. No major impact expected. <div>
+<p><strong>Scheduled maintenance</strong> - Asset Manager</p><p><small>February 28, 2024 · 15:37 UTC</small><br /><strong>Scheduled</strong></p><p>
+Migration occurring.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 15:38:09 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 15:38:09 +0000</pubDate>
+</item>
 
 <item>
 <title>EventTimestamp UTC conversion resolution</title>
