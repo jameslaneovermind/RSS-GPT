@@ -4,20 +4,19 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>BoardDocs - Some users may receive an error when trying to login</title>
 <link>https://status.diligent.com/incidents/2l69d6sv6x1b</link>
 <guid>https://status.diligent.com/incidents/2l69d6sv6x1b</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Service Disruption
-<br><br> 
+<br /><br /> 
 Some users have received errors when logging in and are experiencing service slowness. A fix has been implemented, and the situation is being closely monitored. <div>
 <p><small>Feb <var>28</var>, <var>20:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>28</var>, <var>20:49</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>28</var>, <var>20:40</var> UTC</small><br /><strong>Investigating</strong> - Some users have received errors when logging in and sometimes are experiencing service slowness.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 20:59:42 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 20:59:42 +0000</pubDate>
 </item>
-
 <item>
 <title>Maintenance Advisory - Boards application in All Regions</title>
 <link>https://status.diligent.com/incidents/mrxk84c9g5rm</link>

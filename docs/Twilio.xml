@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US SMS Carrier Maintenance - Small US Carriers</title>
+<link>https://status.twilio.com/incidents/8nhcksh7hkj1</link>
+<guid>https://status.twilio.com/incidents/8nhcksh7hkj1</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Small US Networks
+Summary: A subset of small US networks will undergo planned maintenance, potentially causing intermittent delays in SMS delivery to and from small US carriers. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>20:00</var> PST &nbsp;-&nbsp; Mar <var>8</var>, <var>01:00</var> PST</strong></p><p><small>Feb <var>28</var>, <var>13:38</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US are conducting a planned maintenance from 07 March 2024 at 20:00 PST until 08 March 2024 at 01:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 20:00:00 -0800</pubDate>
+<pubDate>Thu, 07 Mar 2024 20:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Russia SMS Carrier Maintenance - Tele2</title>
