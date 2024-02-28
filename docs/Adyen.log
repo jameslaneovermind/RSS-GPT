@@ -943,3 +943,10 @@ Fetching from https://status.adyen.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Adyen
+------------------------------------------------------
+Started: 2024-02-28 21:08:55.692467
+Existing_entries: 0
+Fetching from https://status.adyen.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Adyen
