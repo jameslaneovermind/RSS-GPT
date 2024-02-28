@@ -4,6 +4,17 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+<item>
+<title>Delays Creating / Modifying Clusters in the Azure "East US 2" Region</title>
+<link>https://status.mongodb.com/incidents/w2msn8g85r4s</link>
+<guid>https://status.mongodb.com/incidents/w2msn8g85r4s</guid>
+<content:encoded><![CDATA[
+<div> [High] - Azure Compute Resource Provisioning Issue in "East US 2" Region <br><br> Azure is experiencing an issue provisioning compute resources in the "East US 2" region, causing delays for customers creating or modifying clusters with nodes in this region. Users may experience prolonged "blue bar" delays. Monitoring ongoing. <div>
+<p><small>Feb <var>28</var>, <var>16:28</var> UTC</small><br /><strong>Identified</strong> - Azure is experiencing an issue provisioning compute resources in the "East US 2" region. As a result, customers creating or modifying clusters with nodes in Azure "East US 2" may experience delays. Users may experience delays with the "blue bar" persisting longer than normal.<br /><br />We are monitoring this issue closely and will provide an update when more information is available.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 16:28:28 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 16:28:28 +0000</pubDate>
+</item>
 
 <item>
 <title>MongoDB Cloud: Unable to create new Identity Providers for Federated Authentication</title>

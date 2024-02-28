@@ -825,3 +825,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Asset Manager Maintenance](https://status.unity.com/incidents/187065)
 append_entries: 1
 Finish: 2024-02-28 16:11:00.085835
+------------------------------------------------------
+Started: 2024-02-28 17:08:59.730037
+Existing_entries: 29
+Fetching from https://status.unity.com/history.rss
+Token length: 96
+Summarized using GPT-3.5-turbo-1106
+Append: [Asset Manager Maintenance for Upgrade](https://status.unity.com/incidents/187088)
+append_entries: 1
+Finish: 2024-02-28 17:09:01.121721

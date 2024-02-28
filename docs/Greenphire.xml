@@ -4,6 +4,30 @@
 <title>Greenphire Status - Incident History</title>
 <link>https://status.greenphire.com</link>
 
+<item>
+<title>Software Update for eClinicalGPS Production</title>
+<link>https://status.greenphire.com/incidents/w40yk6h6jv0d</link>
+<guid>https://status.greenphire.com/incidents/w40yk6h6jv0d</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Update and Downtime Expected <br><br>Greenphire will be applying software updates to the eClinicalGPS Application in our Production environment. During this time, Greenphire systems may be briefly inaccessible while systems are updated. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:30</var> - <var>22:30</var> EST</strong></p><p><small>Feb <var>28</var>, <var>12:00</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0500</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0500</pubDate>
+</item>
+<item>
+<title>Software Update for eClinicalGPS UAT</title>
+<link>https://status.greenphire.com/incidents/7201379n61fd</link>
+<guid>https://status.greenphire.com/incidents/7201379n61fd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Software Update for eClinicalGPS Application
+Summary:
+Greenphire will be applying software updates to the eClinicalGPS Application in their UAT environment. Systems may be briefly inaccessible during this time while updates are being implemented. This includes backward compatible quality fixes. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>21:30</var> - <var>22:30</var> EST</strong></p><p><small>Feb <var>28</var>, <var>12:00</var> EST</small><br /><strong>Scheduled</strong> - In this scheduled event Greenphire will apply software updates to the eClinicalGPS Application in our UAT  environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated.<br /><br />This update includes the following changes:<br />     > Backward compatible quality fixes</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0500</pubDate>
+<pubDate>Wed, 28 Feb 2024 21:30:00 -0500</pubDate>
+</item>
 
 <item>
 <title>eClinicalGPS Production System Maintenance</title>
