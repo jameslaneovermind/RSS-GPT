@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/cy0jnbz48rbg</link>
 <guid>https://status.equinix.com/incidents/cy0jnbz48rbg</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Americas (SV) <br><br> An incident has been identified and a fix is being implemented for a major outage impacting Equinix Fabric in the Americas. <br><br> <div>
+<div> [High] - Equinix Fabric Outage in Americas (SV) <br /><br /> An incident has been identified and a fix is being implemented for a major outage impacting Equinix Fabric in the Americas. <br /><br /> <div>
 <p><small>Feb <var>28</var>, <var>10:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">jh1d44dmpzm9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029470</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p><p><small>Feb <var>22</var>, <var>03:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">jh1d44dmpzm9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029470</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p><p><small>Feb <var>22</var>, <var>03:18</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">jh1d44dmpzm9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029470</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Feb 2024 10:39:53 +0000</pubDate>
 <pubDate>Wed, 28 Feb 2024 10:39:53 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.equinix.com/incidents/6vmyswby34yx</link>
 <guid>https://status.equinix.com/incidents/6vmyswby34yx</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Platform Outage <br><br> We are currently investigating a critical issue with the Equinix Fabric platform in the Americas. An identified issue is being fixed to resolve the outage. <br><br> Summary: Incident Number INC0029459 is being addressed as the issue with the Equinix Fabric platform is identified and a fix is being implemented. <div>
+<div> [High] - Equinix Fabric Platform Outage <br /><br /> We are currently investigating a critical issue with the Equinix Fabric platform in the Americas. An identified issue is being fixed to resolve the outage. <br /><br /> Summary: Incident Number INC0029459 is being addressed as the issue with the Equinix Fabric platform is identified and a fix is being implemented. <div>
 <p><small>Feb <var>28</var>, <var>10:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">l9cj35zz38f2</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029459</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT)]</div></p><p><small>Feb <var>22</var>, <var>01:47</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">l9cj35zz38f2</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029459</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT)]</div></p><p><small>Feb <var>22</var>, <var>01:31</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">l9cj35zz38f2</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0029459</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 10:39:34 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 10:39:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/5dssx5xw7hsy</link>

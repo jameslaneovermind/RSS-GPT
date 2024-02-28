@@ -4,18 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Degradation of newly created HTTP API Keys</title>
 <link>https://status.infobip.com/incidents/h0lptklhmzwd</link>
 <guid>https://status.infobip.com/incidents/h0lptklhmzwd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage at Global Data Center in Germany <br><br> Investigating HTTP API status code 401 responses for requests submitted using newly created API Keys as the authorization method. <div>
+<div> [High] - Major Outage at Global Data Center in Germany <br /><br /> Investigating HTTP API status code 401 responses for requests submitted using newly created API Keys as the authorization method. <div>
 <p><small>Feb <var>28</var>, <var>11:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues on our Global (Germany) data center due to which you may observe HTTP API status code 401 responses for requests submitted using newly created API Keys as the authorization method.<br />This is being investigated and we will keep you posted with further updates.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 11:07:20 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 11:07:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Planned maintenance of database infrastructure</title>
 <link>https://status.infobip.com/incidents/vb31hx29h3s9</link>

@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Business Cloud Accounting (UKI) - Partial Outage</title>
 <link>https://status.sage.com/incidents/m7z07xsz68kj</link>
 <guid>https://status.sage.com/incidents/m7z07xsz68kj</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Service Issue <br><br> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is currently investigating a potential issue with the service, and further updates are expected within the next 30 minutes. <div>
+<div> [High] - Potential Service Issue <br /><br /> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is currently investigating a potential issue with the service, and further updates are expected within the next 30 minutes. <div>
 <p><small>Feb <var>28</var>, <var>10:41</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 10:41:59 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 10:41:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage 300 People Managed Cloud Service - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/g3yn88d0dzpn</link>

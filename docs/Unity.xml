@@ -4,6 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>EventTimestamp UTC conversion resolution</title>
+<link>https://status.unity.com/incidents/186991</link>
+<guid>https://status.unity.com/incidents/186991</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Minor Incident Resolved <br><br> Summary: An issue with event date conversion to UTC from player timezones via the SDK has been resolved, ensuring accurate reporting of player metrics. Some data over the next 24 hours may be slightly inaccurate as numbers settle. We apologize for any inconvenience and appreciate your patience. <div>
+<p><strong>Minor incident</strong> - Analytics, Gaming Services, Data Collection</p><p><small>February 28, 2024 · 11:58 UTC</small><br /><strong>Monitoring</strong></p><p>
+We’ve resolved an issue with event date conversion to UTC from player timezones via the SDK, ensuring accurate reporting of player metrics. </p>
+<p>
+However, please note that data over the next 24 hours may be slightly inaccurate as numbers settle. We apologize for any inconvenience and appreciate your patience</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 12:06:48 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 12:06:48 +0000</pubDate>
+</item>
 
 <item>
 <title>Unity source code unavailable</title>
