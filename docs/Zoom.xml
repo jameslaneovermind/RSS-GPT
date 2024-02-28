@@ -4,18 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Issue with SMS delay</title>
 <link>https://status.zoom.us/incidents/4y1v6pmpn8c4</link>
 <guid>https://status.zoom.us/incidents/4y1v6pmpn8c4</guid>
 <content:encoded><![CDATA[
-<div> [High] - Intermittent Delay in Inbound SMS Messages for Zoom Phone and Zoom Contact Center <br><br> We have identified the issue causing an intermittent delay or undelivered inbound SMS messages for Zoom Phone and Zoom Contact Center. We will continue to work with the underlying carrier and provide updates as we have them. <div>
+<div> [High] - Intermittent Delay in Inbound SMS Messages for Zoom Phone and Zoom Contact Center <br /><br /> We have identified the issue causing an intermittent delay or undelivered inbound SMS messages for Zoom Phone and Zoom Contact Center. We will continue to work with the underlying carrier and provide updates as we have them. <div>
 <p><small>Feb <var>28</var>, <var>14:00</var> PST</small><br /><strong>Identified</strong> - We have identified the issue causing an intermittent delay or undelivered inbound SMS messages for Zoom Phone and Zoom Contact Center.  We will continue to work with the underlying carrier and provide updates as we have them.</p><p><small>Feb <var>28</var>, <var>13:27</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue causing an intermittent delay or undelivered SMS messages for Zoom Phone and Zoom Contact Center.  We will continue to work with the underlying carrier and provide updates as we have them.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 14:00:41 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 14:00:41 -0800</pubDate>
 </item>
-
 <item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for hardware phones including generic devices (United States)</title>
 <link>https://status.zoom.us/incidents/0dqddqggrggj</link>
