@@ -4,6 +4,21 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Potential impact with alerts &amp; asset services</title>
+<link>https://status.paloaltonetworks.com/incidents/79l3r2lzsdsx</link>
+<guid>https://status.paloaltonetworks.com/incidents/79l3r2lzsdsx</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating
+Summary: The company is currently investigating an issue.
+
+[High] - Monitoring
+Summary: A fix has been implemented and the company is currently monitoring the results. <div>
+<p><small>Feb <var>28</var>, <var>01:41</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>28</var>, <var>01:14</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 01:41:54 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 01:41:54 +0000</pubDate>
+</item>
 
 <item>
 <title>WildFire Australia Cloud Service Scheduled Maintenance</title>
