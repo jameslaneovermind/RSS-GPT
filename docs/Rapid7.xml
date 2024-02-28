@@ -4,6 +4,17 @@
 <title>Rapid7 Status - Incident History</title>
 <link>https://status.rapid7.com</link>
 
+<item>
+<title>InsightVM [AP-Southeast-2] - Scheduled Maintenance</title>
+<link>https://status.rapid7.com/incidents/nd220xkk1xhk</link>
+<guid>https://status.rapid7.com/incidents/nd220xkk1xhk</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance <br><br> Summary: The company will be undergoing scheduled maintenance, indicating a large-scale outage with platform downtime due to a configuration change in the system. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>15:00</var> - <var>17:00</var> UTC</strong></p><p><small>Feb <var>28</var>, <var>15:09</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 15:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 15:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>AppSpider and InsightAppSec Licensing - Scheduled Maintenance</title>

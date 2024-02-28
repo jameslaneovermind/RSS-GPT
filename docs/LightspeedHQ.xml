@@ -4,18 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+
 <item>
 <title>Lightspeed Retail (X-Series) - New products not showing in Catalog/Sell screen</title>
 <link>https://status.lightspeedhq.com/incidents/p1q9ypsph4h9</link>
 <guid>https://status.lightspeedhq.com/incidents/p1q9ypsph4h9</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Impacting Product Catalog and Inventory Updates <br><br> We are currently investigating an issue affecting new products not showing in the Catalog and Sell Screen, and updating inventory for new products not working. <div>
+<div> [High] - Major Outage Impacting Product Catalog and Inventory Updates <br /><br /> We are currently investigating an issue affecting new products not showing in the Catalog and Sell Screen, and updating inventory for new products not working. <div>
 <p><small>Feb <var>28</var>, <var>08:53</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting new products not showing in the Catalog and Sell Screen, and updating inventory for new products not working.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 08:53:24 -0500</pubDate>
-<pubDate>Wed, 28 Feb 2024 08:53:24 -0500</pubDate>
 </item>
-
 <item>
 <title>Lightspeed Retail (X-Series) - Error when filtering Inventory count to exclude items</title>
 <link>https://status.lightspeedhq.com/incidents/9q09x99hd5hg</link>

@@ -4,6 +4,17 @@
 <title>NGC Status - Incident History</title>
 <link>https://status.ngc.nvidia.com</link>
 
+<item>
+<title>Issues with Fleet Command service</title>
+<link>https://status.ngc.nvidia.com/incidents/cpwz2vq6ykvz</link>
+<guid>https://status.ngc.nvidia.com/incidents/cpwz2vq6ykvz</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Fleet Command Service Issues <br><br> Users are experiencing issues with accessing UI pages in Fleet Command service. The problem has been identified to be local to Chrome users, and investigations are ongoing. Updates will be provided on the status page. Summary: The Fleet Command service is currently experiencing issues affecting user access to UI pages. The problem is being actively investigated. <div>
+<p><small>Feb <var>28</var>, <var>07:07</var> PST</small><br /><strong>Identified</strong> - The issues with Fleet Command service has been identified to be local to chrome users. <br /><br />The issues are being actively investigated and updates will be posted on this status page.</p><p><small>Feb <var>28</var>, <var>06:44</var> PST</small><br /><strong>Investigating</strong> - The Fleet Command service is currently experiencing issues which are affecting users ability to access UI pages.<br /><br />The issues are being actively investigated and updates will be posted on this status page.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 07:07:49 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 07:07:49 -0800</pubDate>
+</item>
 
 <item>
 <title>Customers will not be able to deploy functions.</title>

@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Delays to MTN Network in Nigeria</title>
 <link>https://status.twilio.com/incidents/g6fz87393f5p</link>
 <guid>https://status.twilio.com/incidents/g6fz87393f5p</guid>
 <content:encoded><![CDATA[
-<div> [High] - SMS Delivery Delays to MTN Network in Nigeria <br><br> We are currently experiencing SMS delivery delays when sending messages to the MTN Network in Nigeria. Our engineers are actively working to resolve the issue. Another update will be provided in 1 hour or as soon as more information becomes available. Summary: Investigation into SMS delivery delays to MTN Network in Nigeria ongoing, engineers actively working on a resolution. <div>
+<div> [High] - SMS Delivery Delays to MTN Network in Nigeria <br /><br /> We are currently experiencing SMS delivery delays when sending messages to the MTN Network in Nigeria. Our engineers are actively working to resolve the issue. Another update will be provided in 1 hour or as soon as more information becomes available. Summary: Investigation into SMS delivery delays to MTN Network in Nigeria ongoing, engineers actively working on a resolution. <div>
 <p><small>Feb <var>28</var>, <var>05:36</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to MTN Network in Nigeria. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 05:36:34 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 05:36:34 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays and Failures to MobiFone and Vinaphone in Vietnam</title>
 <link>https://status.twilio.com/incidents/dhft1kjhrvtc</link>
