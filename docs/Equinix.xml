@@ -4,6 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/5dssx5xw7hsy</link>
+<guid>https://status.equinix.com/incidents/5dssx5xw7hsy</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating potential issue with Metro Connect - Asia-Pacific (MB) <br><br> We are currently investigating an issue with Metro Connect - Asia-Pacific (MB). The incident number is INC0030169. <div>
+<p><small>Feb <var>28</var>, <var>09:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">z2jcrmq562dr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030169</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 09:54:07 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 09:54:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect, Metro Connect, Equinix Fabric)</title>

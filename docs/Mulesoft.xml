@@ -4,6 +4,7 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Customers may experience problems with Runtime Manager</title>
 <link>https://status.mulesoft.com/incidents/vcdl7rlrmlpc</link>
@@ -15,9 +16,7 @@ Users are reporting suboptimal performance while accessing the MuleSoft service.
 <p><small>Feb <var>28</var>, <var>00:50</var> PST</small><br /><strong>Investigating</strong> - Users can access the MuleSoft service, but some functionality can be  running at less than optimal performance. Our teams are investigating.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 00:50:33 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 00:50:33 -0800</pubDate>
 </item>
-
 <item>
 <title>Logs and Metrics Failing to show in Monitoring</title>
 <link>https://status.mulesoft.com/incidents/4p83kx76cy7m</link>
