@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>WildFire Global Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/89kpjqjzt2g7</link>
+<guid>https://status.paloaltonetworks.com/incidents/89kpjqjzt2g7</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for WildFire Global Cloud <br><br>Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
+<p><small>Feb <var>28</var>, <var>13:20</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>13:14</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Global Cloud on February 28th, 2024 from 13:20 UTC to 15:20 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 13:20:57 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 13:20:57 +0000</pubDate>
+</item>
 
 <item>
 <title>WildFire South Korea Cloud Service Scheduled Maintenance</title>

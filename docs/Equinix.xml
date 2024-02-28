@@ -4,6 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Network Edge, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/43317f0dwy7j</link>
+<guid>https://status.equinix.com/incidents/43317f0dwy7j</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Potential Network Outage <br><br> We are currently investigating this issue. <div>
+<p><small>Feb <var>28</var>, <var>14:07</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">j8452k9p3085</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030206</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (CH, NY); Equinix Fabric - Americas (CH, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 14:07:38 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 14:07:38 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>

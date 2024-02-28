@@ -4,6 +4,18 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto SaaS Protection - Service Degradation In AUE Region For M365 Services</title>
+<link>https://status.datto.com/incidents/csqt1wmrqmpy</link>
+<guid>https://status.datto.com/incidents/csqt1wmrqmpy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Degradation in M365 Pod0, AUE region
+Summary: The Engineering team is investigating a problem causing service degradation on M365 services in pod0, AUE region. This incident is being treated as a critical issue. <div>
+<p><small>Feb <var>28</var>, <var>13:18</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>22</var>, <var>16:26</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>20</var>, <var>14:19</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>16</var>, <var>19:27</var> UTC</small><br /><strong>Investigating</strong> - We are currently aware of a problem where M365 services are experiencing service degradation on pod0 in the AUE region. <br /><br /><br /><br />Our Engineering team is investigating the issue and is working towards a resolution. <br /><br /><br /><br />Affected Pod :  <br /><br />1. aue1-pod-0<br /><br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod: https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored <br /><br /><br /><br />Subscribe to Datto SaaS Protection on the Status Page for up to date information. <br /><br /><br /><br />You can monitor the current status of this issue at https://status.datto.com/</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 13:18:34 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 13:18:34 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Syrah (APAC) - 12.8.0 Release</title>
