@@ -791,3 +791,12 @@ Existing_entries: 29
 Fetching from https://status.infobip.com/history.rss
 append_entries: 0
 Finish: 2024-02-28 10:10:21.218347
+------------------------------------------------------
+Started: 2024-02-28 11:09:01.378986
+Existing_entries: 29
+Fetching from https://status.infobip.com/history.rss
+Token length: 326
+Summarized using GPT-3.5-turbo-1106
+Append: [Global (Germany) - Degradation of newly created HTTP API Keys](https://status.infobip.com/incidents/h0lptklhmzwd)
+append_entries: 1
+Finish: 2024-02-28 11:09:02.589577

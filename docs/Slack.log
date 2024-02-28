@@ -2218,3 +2218,17 @@ Fetching from https://status.slack.com/history.rss
 Feed error: 302
 append_entries: 0
 error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-02-28 11:08:24.940623
+Existing_entries: 48
+Fetching from https://status.slack.com/feed/rss
+Feed error: 302
+append_entries: 0
+Finish: 2024-02-28 11:08:25.836040
+------------------------------------------------------
+Started: 2024-02-28 11:08:56.155687
+Existing_entries: 48
+Fetching from https://status.slack.com/history.rss
+Feed error: 302
+append_entries: 0
+error when rendering xml, skip docs/Slack

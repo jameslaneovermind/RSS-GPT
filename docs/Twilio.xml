@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Delays to Globe Network in Philippines</title>
 <link>https://status.twilio.com/incidents/8hm8h25m9qn7</link>
 <guid>https://status.twilio.com/incidents/8hm8h25m9qn7</guid>
 <content:encoded><![CDATA[
-<div> [High] - SMS Delivery Delays on Globe Network in Philippines <br><br> We are experiencing SMS delivery delays when sending messages to Globe Network in Philippines. Our engineers are working with our carrier partner to resolve the issue. <div>
+<div> [High] - SMS Delivery Delays on Globe Network in Philippines <br /><br /> We are experiencing SMS delivery delays when sending messages to Globe Network in Philippines. Our engineers are working with our carrier partner to resolve the issue. <div>
 <p><small>Feb <var>28</var>, <var>01:59</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays when sending messages to Globe Network In Philippines. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 01:59:45 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 01:59:45 -0800</pubDate>
 </item>
-
 <item>
 <title>Intermittent API Error for SNA with Account Security to Verizon US</title>
 <link>https://status.twilio.com/incidents/jrmqbgqwvkzz</link>
