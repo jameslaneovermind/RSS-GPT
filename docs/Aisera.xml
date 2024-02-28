@@ -4,6 +4,29 @@
 <title>Aisera Status - Incident History</title>
 <link>https://status.aisera.com</link>
 
+<item>
+<title>Aisera Scheduled Maintenance Notification</title>
+<link>https://status.aisera.com/incidents/d05htmrdp0fm</link>
+<guid>https://status.aisera.com/incidents/d05htmrdp0fm</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Aisera Platform
+Summary: A scheduled service maintenance for Aisera Platform is planned for March 29 from 17:00 to 20:00 PST. During this maintenance, some services will be impacted as they get upgraded. Users may encounter "under maintenance" responses. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>17:00</var> - <var>20:00</var> PDT</strong></p><p><small>Feb <var>28</var>, <var>12:09</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />March 29 from 17:00 to 20:00 PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Aisera Scheduled Maintenance Notification</title>
+<link>https://status.aisera.com/incidents/0sctgnwvlcwd</link>
+<guid>https://status.aisera.com/incidents/0sctgnwvlcwd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Service Maintenance on Aisera Platform <br><br> A scheduled service maintenance for Aisera Platform is planned for March 8 from 17:00 to 19:00 PST. During this time, users may experience "under maintenance" responses. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>17:00</var> - <var>19:00</var> PST</strong></p><p><small>Feb <var>28</var>, <var>12:09</var> PST</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Aisera Platform scheduled for:<br /><br />March 8 from 17:00 to 19:00 PST.<br /><br />During this maintenance, the services mentioned below are expected to be impacted as they get upgraded. Users may encounter "under maintenance" responses throughout the maintenance period.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 17:00:00 -0800</pubDate>
+<pubDate>Fri, 08 Mar 2024 17:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Aisera Scheduled Maintenance Notification</title>

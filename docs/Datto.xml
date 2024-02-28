@@ -4,6 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto RMM - Zinfandel - Intermittent Failure To Load Web UI Pages</title>
+<link>https://status.datto.com/incidents/8crxhln9t38b</link>
+<guid>https://status.datto.com/incidents/8crxhln9t38b</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Datto RMM Web Portal Intermittent Loading Issue <br><br> Our teams are currently investigating an issue where pages in the Datto RMM web portal intermittently fail to load on Zinfandel. Initial reports suggest attempts to refresh the page may bypass the issue, but our teams are investigating the root cause. Thank you for your patience! Summary: Investigating intermittent page loading issues on Datto RMM web portal, refresh may bypass the problem. <div>
+<p><small>Feb <var>28</var>, <var>19:51</var> UTC</small><br /><strong>Investigating</strong> - Our teams are currently investigating an issue where pages in the Datto RMM web portal intermittently fail to load on Zinfandel. Initial reports suggest attempts to refresh the page may bypass the issue, but our teams are investigating the root cause. <br /><br />Thank you for your patience!</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 19:51:51 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 19:51:51 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto SaaS Protection - Service Degradation In AUE Region For M365 Services</title>

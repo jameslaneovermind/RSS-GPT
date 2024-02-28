@@ -4,18 +4,17 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays delays.</title>
 <link>https://status.mulesoft.com/incidents/c94gcpdqtbp5</link>
 <guid>https://status.mulesoft.com/incidents/c94gcpdqtbp5</guid>
 <content:encoded><![CDATA[
-<div> [High] - Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays Experiencing Delays <br><br> We are investigating an issue on which Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays are experiencing delays, we will provide more information as soon as we can. Summary: Investigating delays in Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays. <div>
+<div> [High] - Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays Experiencing Delays <br /><br /> We are investigating an issue on which Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays are experiencing delays, we will provide more information as soon as we can. Summary: Investigating delays in Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays. <div>
 <p><small>Feb <var>28</var>, <var>10:50</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue on which Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays are experiencing delays, we will provide more information as soon as we can.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 10:50:59 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 10:50:59 -0800</pubDate>
 </item>
-
 <item>
 <title>Customers may experience problems with Runtime Manager</title>
 <link>https://status.mulesoft.com/incidents/vcdl7rlrmlpc</link>
