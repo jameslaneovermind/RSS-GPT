@@ -1261,3 +1261,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SMS Delivery Delays and Failures to MobiFone and Vinaphone in Vietnam](https://status.twilio.com/incidents/dhft1kjhrvtc)
 append_entries: 1
 Finish: 2024-02-28 12:14:18.738191
+------------------------------------------------------
+Started: 2024-02-28 13:08:33.165976
+Existing_entries: 95
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-28 13:08:33.260251

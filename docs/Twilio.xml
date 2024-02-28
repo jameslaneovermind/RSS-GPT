@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>SMS Delivery Delays and Failures to MobiFone and Vinaphone in Vietnam</title>
 <link>https://status.twilio.com/incidents/dhft1kjhrvtc</link>
@@ -15,9 +16,7 @@ The company is experiencing SMS delivery delays and failures when sending messag
 <p><small>Feb <var>28</var>, <var>03:27</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery delays and failures when sending messages to MobiFone and Vinaphone in Vietnam. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 03:27:05 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 03:27:05 -0800</pubDate>
 </item>
-
 <item>
 <title>SMS Delivery Delays to Globe Network in Philippines</title>
 <link>https://status.twilio.com/incidents/8hm8h25m9qn7</link>
