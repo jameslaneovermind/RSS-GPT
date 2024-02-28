@@ -4,19 +4,18 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Asset Manager Maintenance for Upgrade</title>
 <link>https://status.unity.com/incidents/187088</link>
 <guid>https://status.unity.com/incidents/187088</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> Running a migration. Summary: The asset manager is undergoing a scheduled maintenance to run a migration task. No major outage or incident is indicated. <div>
+<div> [Medium] - Scheduled Maintenance <br /><br /> Running a migration. Summary: The asset manager is undergoing a scheduled maintenance to run a migration task. No major outage or incident is indicated. <div>
 <p><strong>Scheduled maintenance</strong> - Asset Manager</p><p><small>February 28, 2024 · 16:53 UTC</small><br /><strong>Scheduled</strong></p><p>
 Running a migration.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 17:07:54 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 17:07:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Asset Manager Maintenance</title>
 <link>https://status.unity.com/incidents/187065</link>

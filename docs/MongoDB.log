@@ -1069,3 +1069,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Delays Creating / Modifying Clusters in the Azure "East US 2" Region](https://status.mongodb.com/incidents/w2msn8g85r4s)
 append_entries: 1
 Finish: 2024-02-28 17:08:44.644418
+------------------------------------------------------
+Started: 2024-02-28 18:10:50.080597
+Existing_entries: 29
+Fetching from https://status.mongodb.com/history.rss
+append_entries: 0
+Finish: 2024-02-28 18:10:50.281434

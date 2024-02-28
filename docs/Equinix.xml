@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Metro Connect, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/4f2lqy0k2zp3</link>
 <guid>https://status.equinix.com/incidents/4f2lqy0k2zp3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric and Metro Connect Outage <br><br> The issue has been identified and a fix is being implemented. <br>Summary: The issue has been identified and a fix is currently being implemented for the Equinix Fabric and Metro Connect outage in the Americas. <div>
+<div> [High] - Equinix Fabric and Metro Connect Outage <br /><br /> The issue has been identified and a fix is being implemented. <br />Summary: The issue has been identified and a fix is currently being implemented for the Equinix Fabric and Metro Connect outage in the Americas. <div>
 <p><small>Feb <var>28</var>, <var>17:00</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">4ngqbzmpls7n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030230</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CL); Metro Connect - Americas (CL)]</div></p><p><small>Feb <var>28</var>, <var>16:46</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">4ngqbzmpls7n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030230</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (CL); Equinix Fabric - Americas (CL)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 17:00:40 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 17:00:40 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/43317f0dwy7j</link>
