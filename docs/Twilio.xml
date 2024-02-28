@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Transcriptions Delays due to third party provider</title>
+<link>https://status.twilio.com/incidents/6hc9s9ghfcf9</link>
+<guid>https://status.twilio.com/incidents/6hc9s9ghfcf9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Voice Transcription Delays <br><br> Our monitoring systems have detected delays in transcription callbacks from VoiceBase, impacting our customers. Our engineering team is actively investigating this issue, and we will provide an update as soon as additional information becomes available. <div>
+<p><small>Feb <var>27</var>, <var>21:38</var> PST</small><br /><strong>Monitoring</strong> - Delays in voice transcriptions are now operating normally. We will continue to monitor for system stability. We'll provide another update in 30 minutes or as soon as more information becomes available.</p><p><small>Feb <var>27</var>, <var>21:25</var> PST</small><br /><strong>Investigating</strong> - Our monitoring systems have detected a potential issue with delays in transcription callbacks from VoiceBase. Customers may see delayed transcriptions. Our engineering team has been alerted and is actively investigating. We will update as soon as we have more information.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 21:38:11 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 21:38:11 -0800</pubDate>
+</item>
 
 <item>
 <title>Call Failure To A Subset Of Twilio Phone Numbers In Thailand</title>

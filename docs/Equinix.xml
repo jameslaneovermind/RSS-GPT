@@ -5,6 +5,20 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/71rqkscyhj1s</link>
+<guid>https://status.equinix.com/incidents/71rqkscyhj1s</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Platform Downtime <br><br> Update - The issue has been identified and a fix is being implemented. 
+
+Summary: A major incident causing platform downtime has been identified and is currently being addressed. <div>
+<p><small>Feb <var>28</var>, <var>05:57</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h46k8y3yz2nl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030153</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC); Network Edge - Americas (DA, DC)]</div></p><p><small>Feb <var>28</var>, <var>05:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h46k8y3yz2nl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030153</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC); Network Edge - Americas (DA, DC)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 05:57:37 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 05:57:37 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/yrslmh0txmkw</link>
 <guid>https://status.equinix.com/incidents/yrslmh0txmkw</guid>
@@ -14,7 +28,6 @@ Summary: We are currently investigating a critical issue with Equinix Fabric in 
 <p><small>Feb <var>28</var>, <var>05:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">12sxnl3j6ylz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030147</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 05:04:41 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 05:04:41 +0000</pubDate>
 </item>
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
@@ -22,14 +35,12 @@ Summary: We are currently investigating a critical issue with Equinix Fabric in 
 <guid>https://status.equinix.com/incidents/q33xblgkgj9z</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Outage: Equinix Internet Access / Equinix Connect - EMEA (IL)
-<br><br>
+<br /><br />
 The issue has been identified and a fix is being implemented. Incident Number: INC0030146. <div>
 <p><small>Feb <var>28</var>, <var>04:30</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">pf43139n8b15</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030146</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p><p><small>Feb <var>28</var>, <var>04:13</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">pf43139n8b15</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030146</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 04:30:10 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 04:30:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Network Edge, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/z57hvy7704q5</link>
