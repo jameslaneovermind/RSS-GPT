@@ -1145,3 +1145,19 @@ Summarized using GPT-3.5-turbo-1106
 Append: [US and Puerto Rico SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/kf2k9hgpky9r)
 append_entries: 1
 Finish: 2024-02-27 23:07:57.673600
+------------------------------------------------------
+Started: 2024-02-28 00:37:27.567421
+Existing_entries: 81
+Fetching from https://status.twilio.com/history.rss
+Token length: 378
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - Wind Tre (3) Italy](https://status.twilio.com/incidents/7fcjkrg04knr)
+Token length: 363
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - H3G Austria](https://status.twilio.com/incidents/qzd89xwrfrx4)
+Token length: 358
+Summarized using GPT-3.5-turbo-1106
+Append: [Account Security Carrier Partner Maintenance - Three UK](https://status.twilio.com/incidents/2wgdg91sgv5g)
+Append: [Russia SMS Carrier Maintenance - MTS](https://status.twilio.com/incidents/cl3dgnl2r048)
+append_entries: 4
+Finish: 2024-02-28 00:37:31.108676

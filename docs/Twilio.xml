@@ -5,17 +5,64 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>
+<link>https://status.twilio.com/incidents/7fcjkrg04knr</link>
+<guid>https://status.twilio.com/incidents/7fcjkrg04knr</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Wind Tre (3) Italy
+Summary:
+Wind Tre (3) Italy will be conducting planned maintenance on 04 March 2024 from 22:00 to 23:00 PST. During this time, there may be intermittent API request failures for Wind Tre (3) Italy customers. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>16:30</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner Wind Tre (3) Italy is conducting a planned maintenance from 04 March 2024 at 22:00 PST until 04 March 2024 at 23:00 PST.  During the maintenance window, there could be intermittent API request failures for Wind Tre (3) Italy customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Account Security Carrier Partner Maintenance - H3G Austria</title>
+<link>https://status.twilio.com/incidents/qzd89xwrfrx4</link>
+<guid>https://status.twilio.com/incidents/qzd89xwrfrx4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for H3G Austria
+Summary: A planned maintenance is scheduled by our carrier partner H3G Austria from 04 March 2024 at 22:00 PST until 04 March 2024 at 23:00 PST. During this time, there could be intermittent API request failures for H3G Austria customers. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>16:29</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner H3G Austria is conducting a planned maintenance from 04 March 2024 at 22:00 PST until 04 March 2024 at 23:00 PST. During the maintenance window, there could be intermittent API request failures for H3G Austria customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Account Security Carrier Partner Maintenance - Three UK</title>
+<link>https://status.twilio.com/incidents/2wgdg91sgv5g</link>
+<guid>https://status.twilio.com/incidents/2wgdg91sgv5g</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Three UK Carrier Partner
+Summary: Three UK will be conducting planned maintenance on March 4, 2024, which may result in intermittent API request failures for Three UK customers. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>22:00</var> - <var>23:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>16:28</var> PST</small><br /><strong>Scheduled</strong> - Our carrier partner Three UK is conducting a planned maintenance from 04 March 2024 at 22:00 PST until 04 March 2024 at 23:00 PST. During the maintenance window, there could be intermittent API request failures for Three UK customers.<br /><br /><br />Impacted Products: <br /><br />Verify Silent Network Auth</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 22:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Russia SMS Carrier Maintenance - MTS</title>
+<link>https://status.twilio.com/incidents/cl3dgnl2r048</link>
+<guid>https://status.twilio.com/incidents/cl3dgnl2r048</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>20:30</var> - <var>22:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>15:32</var> PST</small><br /><strong>Scheduled</strong> - The MTS network in Russia is conducting an emergency maintenance from 28 February 2024 at 20:30 PST until 28 February 2024 at 22:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to MTS Russia handsets.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 20:30:00 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 20:30:00 -0800</pubDate>
+</item>
+
+<item>
 <title>US and Puerto Rico SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/kf2k9hgpky9r</link>
 <guid>https://status.twilio.com/incidents/kf2k9hgpky9r</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled SMS Carrier Maintenance <br><br> Our SMS carrier partner in the US and Puerto Rico will be conducting planned maintenances from March 3, 2024, at 21:00 PST until March 5, 2024, at 21:00 PST. During this time, there may be intermittent delays in delivering SMS to and from US and Puerto Rico handsets. Summary: Scheduled maintenance for SMS carrier in US and Puerto Rico from March 3 to March 5 may cause intermittent delays in SMS delivery. <div>
+<div> [Medium] - Scheduled SMS Carrier Maintenance <br /><br /> Our SMS carrier partner in the US and Puerto Rico will be conducting planned maintenances from March 3, 2024, at 21:00 PST until March 5, 2024, at 21:00 PST. During this time, there may be intermittent delays in delivering SMS to and from US and Puerto Rico handsets. Summary: Scheduled maintenance for SMS carrier in US and Puerto Rico from March 3 to March 5 may cause intermittent delays in SMS delivery. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>21:00</var> PST &nbsp;-&nbsp; Mar <var>5</var>, <var>21:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>14:56</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in the US and Puerto Rico is conducting a series of planned maintenances from 03 March 2024 at 21:00 PST until 05 March 2024 at 21:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from US and Puerto Rico handsets.<br /><br /><br /><br /><br />Note, the maintenance will be carried out on each of the following dates and times:<br /><br /><br /><br />03 March 2024 at 21:00 PST until 04 March 2024 at 05:00 PST<br /><br />04 March 2024 at 21:00 PST until 05 March 2024 at 05:00 PST<br /><br />05 March 2024 at 15:00 PST until 05 March 2024 at 21:00 PST<br /></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 21:00:00 -0800</pubDate>
-<pubDate>Sun, 03 Mar 2024 21:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Russia SMS Carrier Maintenance - Motiv</title>
 <link>https://status.twilio.com/incidents/x8945hsn7ff2</link>

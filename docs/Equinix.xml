@@ -4,6 +4,29 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Load Balancer Connectivity Issue in DC Metro (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/8sdn2911pgnd</link>
+<guid>https://status.equinix.com/incidents/8sdn2911pgnd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Customer Impact in DC Metro for Load Balancers<br><br> We are currently investigating customer impact in the DC metro for load balancers. Please visit status.equinixmetal.com for further updates or reach out to support@equinixmetal.com for further assistance. <div>
+<p><small>Feb <var>27</var>, <var>23:35</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating customer impact in the DC metro for load balancers. <br /><br />Please visit status.equinixmetal.com for further updates or reach out to support@equinixmetal.com for further assistance.<div class="affected-products font-small color-secondary">[Equinix Metal - Global Services (Network)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 23:35:40 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 23:35:40 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/jq5mvysknjps</link>
+<guid>https://status.equinix.com/incidents/jq5mvysknjps</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Americas (DA, MI) <br><br> We have identified a critical issue and are currently implementing a fix for an outage in the Equinix Fabric in the Americas (DA, MI) region. 
+ <div>
+<p><small>Feb <var>27</var>, <var>23:25</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">l0hwfxlpxbjd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030111</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MI)]</div></p><p><small>Feb <var>27</var>, <var>23:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">l0hwfxlpxbjd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030111</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MI)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 23:25:22 +0000</pubDate>
+<pubDate>Tue, 27 Feb 2024 23:25:22 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
