@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Network Edge, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/z57hvy7704q5</link>
+<guid>https://status.equinix.com/incidents/z57hvy7704q5</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Ongoing investigation at Network Edge - Americas (CL) <br><br> There is an ongoing investigation into the issue at the Network Edge in Americas. No major impact has been reported yet.
+
+Note: This does not indicate a major outage or incident, and it is not caused by a configuration change. Therefore, the relevancy tag is low. <div>
+<p><small>Feb <var>28</var>, <var>03:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">z9byws4g7zfx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030136</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (CL); Metro Connect - Americas (CL)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 03:09:10 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 03:09:10 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/fyz1vn56s6w2</link>
+<guid>https://status.equinix.com/incidents/fyz1vn56s6w2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Internet Exchange Outage <br><br> An issue has been identified at the Internet Exchange in the Americas and a fix is being implemented. This indicates a major outage that is affecting the platform's functionality.
+ <div>
+<p><small>Feb <var>28</var>, <var>02:37</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">3qz9r5pdj31y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030127</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (SV)]</div></p><p><small>Feb <var>28</var>, <var>02:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">3qz9r5pdj31y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030127</div><div class="affected-products font-small color-secondary">[Internet Exchange - Americas (SV)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 02:37:44 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 02:37:44 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>

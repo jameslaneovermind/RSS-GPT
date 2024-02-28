@@ -5,6 +5,19 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Call Failure To A Subset Of Twilio Phone Numbers In Thailand</title>
+<link>https://status.twilio.com/incidents/6l5l1h0c3g1f</link>
+<guid>https://status.twilio.com/incidents/6l5l1h0c3g1f</guid>
+<content:encoded><![CDATA[
+<div> [High] - Call Failure To A Subset Of Twilio Phone Numbers In Thailand<br><br> 
+We are observing a call failure to a subset of Twilio phone numbers in Thailand, potentially indicating a major platform downtime. We are actively working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available. <div>
+<p><small>Feb <var>27</var>, <var>18:35</var> PST</small><br /><strong>Investigating</strong> - We are observing Call Failure To A Subset Of Twilio Phone Numbers In Thailand. We are currently working with our carrier partner to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Tue, 27 Feb 2024 18:35:01 -0800</pubDate>
+<pubDate>Tue, 27 Feb 2024 18:35:01 -0800</pubDate>
+</item>
+
+<item>
 <title>SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/m374qnqpc5nc</link>
 <guid>https://status.twilio.com/incidents/m374qnqpc5nc</guid>
@@ -15,9 +28,7 @@ Emergency maintenance is scheduled for our SMS carrier partner, potentially caus
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>27</var>, <var>20:30</var> - <var>21:00</var> PST</strong></p><p><small>Feb <var>27</var>, <var>17:49</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner is conducting an emergency maintenance from 27 February 2024 at 20:30 PST until 27 February 2024 at 21:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to below multiple countries.<br /><br />South Africa <br /><br />Bolivia <br /><br />Chile <br /><br />Venezuela <br /></p>
 ]]></content:encoded>
 <pubDate>Tue, 27 Feb 2024 20:30:00 -0800</pubDate>
-<pubDate>Tue, 27 Feb 2024 20:30:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>
 <link>https://status.twilio.com/incidents/7fcjkrg04knr</link>

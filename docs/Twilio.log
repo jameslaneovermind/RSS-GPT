@@ -1176,3 +1176,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/m374qnqpc5nc)
 append_entries: 1
 Finish: 2024-02-28 02:15:29.369843
+------------------------------------------------------
+Started: 2024-02-28 03:09:25.544203
+Existing_entries: 86
+Fetching from https://status.twilio.com/history.rss
+Token length: 279
+Summarized using GPT-3.5-turbo-1106
+Append: [Call Failure To A Subset Of Twilio Phone Numbers In Thailand](https://status.twilio.com/incidents/6l5l1h0c3g1f)
+append_entries: 1
+Finish: 2024-02-28 03:09:27.069425
