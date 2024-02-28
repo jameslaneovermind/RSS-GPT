@@ -4,6 +4,19 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+<item>
+<title>OCM Planned outage</title>
+<link>https://status.redhat.com/incidents/j3yfs6c4rgny</link>
+<guid>https://status.redhat.com/incidents/j3yfs6c4rgny</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - OCM Maintenance Work on March 17, 03:00 - 09:00 EDT
+<br><br>
+Summary: The OpenShift Cluster Manager (OCM) will undergo maintenance work on March 17th, 03:00 - 09:00 EDT to make infrastructure improvements. The OCM web UI will be unavailable and backend OCM API calls will be ignored, but customer clusters will remain available and accessible. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>17</var>, <var>03:00</var> - <var>09:00</var> EDT</strong></p><p><small>Feb <var>28</var>, <var>02:02</var> EST</small><br /><strong>Scheduled</strong> - The OpenShift Cluster Manager (OCM) will undergo maintenance work to make infrastructure improvements. The maintenance will start on Sunday, March 17th, 08:00 UTC (3:00 AM EDT) and may last up to 6 hours. During that time the OCM web UI will be unavailable and backend OCM API calls will be ignored. Customer clusters will not be impacted and they will remain available and accessible.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 03:00:00 -0400</pubDate>
+<pubDate>Sun, 17 Mar 2024 03:00:00 -0400</pubDate>
+</item>
 
 <item>
 <title>Catalog.redhat.com - Container Details</title>

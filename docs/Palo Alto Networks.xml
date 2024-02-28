@@ -4,16 +4,16 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>WildFire Global Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/bj0lkry91h2s</link>
 <guid>https://status.paloaltonetworks.com/incidents/bj0lkry91h2s</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for WildFire Global Cloud <br><br> 
+<div> [Medium] - Scheduled Maintenance for WildFire Global Cloud <br /><br /> 
 Scheduled maintenance for WildFire Global Cloud on February 28th, 2024 from 06:00 UTC to 08:00 UTC may cause intermittent disconnections and detection delays for customers. <div>
 <p><small>Feb <var>28</var>, <var>06:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>05:54</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Global Cloud on February 28th, 2024 from 06:00 UTC to 08:00 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Feb 2024 06:00:56 +0000</pubDate>
 <pubDate>Wed, 28 Feb 2024 06:00:56 +0000</pubDate>
 </item>
 <item>
@@ -21,10 +21,9 @@ Scheduled maintenance for WildFire Global Cloud on February 28th, 2024 from 06:0
 <link>https://status.paloaltonetworks.com/incidents/p34ddzzrpz8d</link>
 <guid>https://status.paloaltonetworks.com/incidents/p34ddzzrpz8d</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for WildFire Poland Cloud <br><br> Customers may encounter intermittent disconnection during the maintenance window and detection delays. Summary: Scheduled maintenance for WildFire Poland Cloud on February 28th, 2024 from 05:30 UTC to 06:30 UTC may cause intermittent disconnections and detection delays for customers. <div>
+<div> [Medium] - Scheduled Maintenance for WildFire Poland Cloud <br /><br /> Customers may encounter intermittent disconnection during the maintenance window and detection delays. Summary: Scheduled maintenance for WildFire Poland Cloud on February 28th, 2024 from 05:30 UTC to 06:30 UTC may cause intermittent disconnections and detection delays for customers. <div>
 <p><small>Feb <var>28</var>, <var>05:31</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>05:22</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Poland Cloud on February 28th, 2024 from 05:30 UTC to 06:30 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
-<pubDate>Wed, 28 Feb 2024 05:31:00 +0000</pubDate>
 <pubDate>Wed, 28 Feb 2024 05:31:00 +0000</pubDate>
 </item>
 <item>
@@ -37,9 +36,7 @@ Summary: Scheduled maintenance is currently in progress, causing intermittent di
 <p><small>Feb <var>28</var>, <var>05:25</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>05:19</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Canada Cloud on February 28th, 2023 from 05:25 UTC to 06:25 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 05:25:56 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 05:25:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Potential impact with alerts &amp; asset services</title>
 <link>https://status.paloaltonetworks.com/incidents/79l3r2lzsdsx</link>

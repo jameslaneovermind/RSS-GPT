@@ -1206,3 +1206,19 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Transcriptions Delays due to third party provider](https://status.twilio.com/incidents/6hc9s9ghfcf9)
 append_entries: 1
 Finish: 2024-02-28 06:10:52.659913
+------------------------------------------------------
+Started: 2024-02-28 07:08:11.994474
+Existing_entries: 88
+Fetching from https://status.twilio.com/history.rss
+Token length: 333
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/vcplrh7w2dfh)
+Token length: 333
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/xzrr8yh10qhj)
+Token length: 333
+Summarized using GPT-3.5-turbo-1106
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/s9svly2j5j5p)
+Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/3cp6qv9mdz8d)
+append_entries: 4
+Finish: 2024-02-28 07:08:15.297929
