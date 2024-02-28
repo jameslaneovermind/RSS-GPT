@@ -4,6 +4,7 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Recurring Test Delays</title>
 <link>https://status.snyk.io/incidents/l19ttrb3mmvf</link>
@@ -14,9 +15,7 @@ Summary: Snyk Technical Teams have observed delays affecting recurring tests for
 <p><small>Feb <var>28</var>, <var>17:36</var> UTC</small><br /><strong>Identified</strong> - Snyk Technical Teams have observed delays affecting recurring tests. A small percentage of customers is experiencing for a small set of their projects to miss the daily test runs. They will complete the following day instead. Snyk Teams are aware of this situation and are taking steps to mitigate the delay.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 17:36:55 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 17:36:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Missed Recurring Tests for Golang and Ruby</title>
 <link>https://status.snyk.io/incidents/j83ngvz1cd4k</link>
