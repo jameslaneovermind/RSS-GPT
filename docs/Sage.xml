@@ -4,6 +4,42 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage 300 People Managed Cloud Service - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/g3yn88d0dzpn</link>
+<guid>https://status.sage.com/incidents/g3yn88d0dzpn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Sage 300 People Managed Cloud Services Maintenance <br><br> 
+Sage 300 People Managed Cloud Services will undergo essential system maintenance on March 1, 2024. The maintenance will cause a 4-hour downtime, impacting API integrations, ESS, and the Sage 300 People application. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>18:00</var> - <var>22:00</var> UTC</strong></p><p><small>Feb <var>28</var>, <var>07:57</var> UTC</small><br /><strong>Scheduled</strong> - Sage 300 People Managed Cloud Services will undergo essential system maintenance on Friday, 1 March 2024 for 4 hours between 20:00 SAST and 00:00 SAST on the 2nd of March.<br /> <br />Please note that all API integrations, ESS and the Sage 300 People application will be offline during this time.<br /> <br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly.<br /> <br />Thank you.<br /> <br />The Sage Team</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 18:00:00 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DSN Control (FR) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/5zv1t956lp0n</link>
+<guid>https://status.sage.com/incidents/5zv1t956lp0n</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for DSN Validation Feature
+Summary:
+The DSN validation feature will undergo maintenance on Thursday, February 29th 2024 for 2 hours between 06:00 CET and 08:00 CET. This may affect the availability of the feature in Sage Business Cloud Paie (FR). We apologize for any inconvenience and advise planning workload accordingly. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>05:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>28</var>, <var>07:09</var> UTC</small><br /><strong>Scheduled</strong> - The DSN validation feature will be undergoing maintenance on Thursday, February 29th 2024 for 2 hours between 06:00 CET and 08:00 CET. <br /> <br />This feature might not be available in Sage Business Cloud Paie (FR) during this scheduled time. <br /> <br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly. <br /> <br />Thank you. The Sage Team. <br /> <br />--------------------------------------------------------------------------------------- <br /> <br />La fonctionnalité de validation de DSN sera en maintenance Jeudi 29 février 2024 pendant 2 heures entre 06:00 CET et 08:00 CET.<br /> <br />Cette fonctionnalité peut ne pas être disponible sur Sage Business Cloud Paie (FR) pendant cette période planifiée. <br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer et vous demandons de planifier votre charge de travail en conséquence. <br /> <br />Merci. L'équipe Sage.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sage Business Cloud Payroll South Africa - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/jqxptjl4zhjf</link>
+<guid>https://status.sage.com/incidents/jqxptjl4zhjf</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled System Maintenance for Sage Business Cloud Payroll South Africa <br><br> On February 28th, 2024, Sage Business Cloud Payroll South Africa will undergo important system maintenance for 2 hours between 19:00 SAST and 21:00 SAST. Users may not be able to access the payroll system during this time. We apologize for any inconvenience and ask users to plan their workload accordingly. Thank you for your understanding. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>28</var>, <var>17:00</var> - <var>19:00</var> UTC</strong></p><p><small>Feb <var>28</var>, <var>07:31</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Payroll South Africa will be undergoing important system maintenance on Wednesday, February 28th, 2024, for 2 hours, between 19:00 SAST and 21:00 SAST. <br /> <br />Please note that you might not be able to access Sage Payroll South Africa (ZA) during this time. <br /> <br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly. <br /> <br />Thank you. The Sage Team.</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 17:00:00 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 17:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Brightpearl - Partial Outage</title>

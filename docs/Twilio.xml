@@ -4,15 +4,15 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/vcplrh7w2dfh</link>
 <guid>https://status.twilio.com/incidents/vcplrh7w2dfh</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for Small US Networks <br><br> On March 28, 2024, a subset of small US networks will undergo planned maintenance from 02:00 PDT to 04:00 PDT. During this time, there may be intermittent delays in delivering SMS to and from these carriers. Summary: <div>
+<div> [Medium] - Scheduled Maintenance for Small US Networks <br /><br /> On March 28, 2024, a subset of small US networks will undergo planned maintenance from 02:00 PDT to 04:00 PDT. During this time, there may be intermittent delays in delivering SMS to and from these carriers. Summary: <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>28</var>, <var>02:00</var> - <var>04:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>22:39</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US is conducting a planned maintenance from 28 March 2024 at 02:00 PDT until 28 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
 <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
 </item>
 <item>
@@ -25,17 +25,15 @@ Summary: A subset of small US networks will undergo planned maintenance, potenti
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>26</var>, <var>02:00</var> - <var>04:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>22:38</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US is conducting a planned maintenance from 26 March 2024 at 02:00 PDT until 26 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 02:00:00 -0700</pubDate>
-<pubDate>Tue, 26 Mar 2024 02:00:00 -0700</pubDate>
 </item>
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/s9svly2j5j5p</link>
 <guid>https://status.twilio.com/incidents/s9svly2j5j5p</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for Small US Networks <br><br> A subset of small US networks in the US is conducting a planned maintenance from 14 March 2024 at 02:00 PDT until 14 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers. Summary: Maintenance is scheduled for small US networks, which may result in intermittent delays for SMS delivery. <div>
+<div> [Medium] - Planned Maintenance for Small US Networks <br /><br /> A subset of small US networks in the US is conducting a planned maintenance from 14 March 2024 at 02:00 PDT until 14 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers. Summary: Maintenance is scheduled for small US networks, which may result in intermittent delays for SMS delivery. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>02:00</var> - <var>04:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>22:36</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US is conducting a planned maintenance from 14 March 2024 at 02:00 PDT until 14 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 02:00:00 -0700</pubDate>
 <pubDate>Thu, 14 Mar 2024 02:00:00 -0700</pubDate>
 </item>
 <item>
@@ -43,13 +41,10 @@ Summary: A subset of small US networks will undergo planned maintenance, potenti
 <link>https://status.twilio.com/incidents/3cp6qv9mdz8d</link>
 <guid>https://status.twilio.com/incidents/3cp6qv9mdz8d</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>02:00</var> - <var>04:00</var> PDT</strong></p><p><small>Feb <var>27</var>, <var>22:34</var> PST</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US is conducting a planned maintenance from 12 March 2024 at 02:00 PDT until 12 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 02:00:00 -0700</pubDate>
-<pubDate>Tue, 12 Mar 2024 02:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Transcriptions Delays due to third party provider</title>
 <link>https://status.twilio.com/incidents/6hc9s9ghfcf9</link>

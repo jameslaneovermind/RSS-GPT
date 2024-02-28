@@ -5,6 +5,43 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect, Metro Connect, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/0pz2n0f0f6gs</link>
+<guid>https://status.equinix.com/incidents/0pz2n0f0f6gs</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage and Fix in Progress <br><br> We are currently investigating and working on implementing a fix for the identified issue related to Equinix Internet Access, Equinix Connect, and Metro Connect in Americas. <div>
+<p><small>Feb <var>28</var>, <var>07:46</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">b7t5tvv7s3xp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030159</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CU, DC); Equinix Internet Access / Equinix Connect - AMER (CU, DC); Metro Connect - Americas (CU, DC)]</div></p><p><small>Feb <var>28</var>, <var>07:27</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">b7t5tvv7s3xp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030159</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (CU, DC); Metro Connect - Americas (CU, DC); Equinix Fabric - Americas (CU, DC)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 07:46:38 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 07:46:38 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/m0h07frn5v4m</link>
+<guid>https://status.equinix.com/incidents/m0h07frn5v4m</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage and Fix Implementation <br><br> The issue has been identified and a fix is being implemented. The incident number is INC0030160. 
+
+Summary:
+A major outage has been identified and a fix is currently being implemented for Equinix Internet Access / Equinix Connect - EMEA (BA). <div>
+<p><small>Feb <var>28</var>, <var>07:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ppybtymj4bhf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030160</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (BA)]</div></p><p><small>Feb <var>28</var>, <var>07:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ppybtymj4bhf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030160</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (BA)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 07:29:27 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 07:29:27 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/3ylj36pzk590</link>
+<guid>https://status.equinix.com/incidents/3ylj36pzk590</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Americas Experiencing Critical Incident <br><br> A fix is currently being implemented for the identified issue in Equinix Fabric Americas. Further updates are expected as the investigation progresses. <div>
+<p><small>Feb <var>28</var>, <var>07:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">yltc3nd4db4m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030161</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p><p><small>Feb <var>28</var>, <var>07:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yltc3nd4db4m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030161</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 07:29:09 +0000</pubDate>
+<pubDate>Wed, 28 Feb 2024 07:29:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/b3rsk7gsq6dx</link>
 <guid>https://status.equinix.com/incidents/b3rsk7gsq6dx</guid>
@@ -15,7 +52,6 @@ Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits have exp
 <p><small>Feb <var>28</var>, <var>06:51</var> UTC</small><br /><strong>Update</strong> - Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue..<br /><div style="display: none;">2l1d6wg44bcz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030158</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SP)]</div></p><p><small>Feb <var>28</var>, <var>06:31</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2l1d6wg44bcz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030158</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SP)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 06:51:49 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 06:51:49 +0000</pubDate>
 </item>
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
@@ -23,15 +59,13 @@ Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits have exp
 <guid>https://status.equinix.com/incidents/k5bgwml78tj4</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Internet Access / Equinix Connect - EMEA (MA) Outage
-<br><br> 
+<br /><br /> 
 The issue has been identified and a fix is being implemented. Incident Number: INC0030157. 
 Summary: The issue has been identified and a fix is being implemented for the Equinix Internet Access / Equinix Connect - EMEA (MA) outage. <div>
 <p><small>Feb <var>28</var>, <var>06:32</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">80pf6pcd43bk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030157</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA)]</div></p><p><small>Feb <var>28</var>, <var>06:13</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">80pf6pcd43bk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030157</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 06:32:57 +0000</pubDate>
-<pubDate>Wed, 28 Feb 2024 06:32:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/71rqkscyhj1s</link>

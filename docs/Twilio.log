@@ -1222,3 +1222,9 @@ Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.c
 Append: [US SMS Carrier Maintenance - Small US Carriers](https://status.twilio.com/incidents/3cp6qv9mdz8d)
 append_entries: 4
 Finish: 2024-02-28 07:08:15.297929
+------------------------------------------------------
+Started: 2024-02-28 08:11:22.381364
+Existing_entries: 92
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-02-28 08:11:22.587482
