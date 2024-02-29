@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Opsinsight external SSL certificate for AP NorthEast 2 Services, US West 1 GCP Services</title>
+<link>https://status.informatica.com/incidents/1yr6j2pjrftv</link>
+<guid>https://status.informatica.com/incidents/1yr6j2pjrftv</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Opsinsight External SSL Certificate Renewal <br><br> The Opsinsight external SSL certificate is getting expired and external cert rotation is taking place. There will be no downtime for this activity, but there can be a small network glitch at the time of renewal which is very minimal. Summary: Opsinsight is renewing its external SSL certificate, with no expected downtime, but a small network glitch may occur during the renewal process. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>20:30</var> - <var>21:30</var> PST</strong></p><p><small>Feb <var>29</var>, <var>03:48</var> PST</small><br /><strong>Scheduled</strong> - The Opsinsight  external SSL certificate is getting expired and external cert rotation is taking place.<br /><br /> There will be no downtime for this activity. But there can be a small network glitch at the time of renewal which is very minimal.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 20:30:00 -0800</pubDate>
+<pubDate>Thu, 29 Feb 2024 20:30:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for B2B mapping failures.</title>

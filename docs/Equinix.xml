@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Equinix Marketplace Availability</title>
 <link>https://status.equinix.com/incidents/hjsdtlq96ch7</link>
 <guid>https://status.equinix.com/incidents/hjsdtlq96ch7</guid>
 <content:encoded><![CDATA[
 <div> [High] - Intermittent Issues with Equinix Marketplace Portal
-<br>
+<br />
 Summary: Equinix Marketplace services are experiencing intermittent issues, potentially due to a configuration change or deploy to production, resulting in a large-scale platform downtime. <div>
 <p><small>Feb <var>29</var>, <var>10:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>10:40</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 10:56:33 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 10:56:33 +0000</pubDate>
 </item>
 <item>
@@ -27,7 +27,6 @@ Summary: The issue with Metro Connect - Americas is currently being investigated
 <p><small>Feb <var>29</var>, <var>10:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">mf85wxry0d02</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030270</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA, HO)]</div></p><p><small>Feb <var>29</var>, <var>10:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mf85wxry0d02</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030270</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA, HO)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 10:52:01 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 10:52:01 +0000</pubDate>
 </item>
 <item>
 <title>Power Issue (Equinix Fabric, Network Edge)</title>
@@ -39,9 +38,7 @@ Summary: A critical incident with Equinix Fabric and Network Edge in Asia-Pacifi
 <p><small>Feb <var>29</var>, <var>10:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">28r63zt51j1v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030305</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (PE, SY); Network Edge - Asia-Pacific (PE, SY)]</div></p><p><small>Feb <var>29</var>, <var>10:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">28r63zt51j1v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030305</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (PE, SY); Network Edge - Asia-Pacific (PE, SY)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 10:51:08 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 10:51:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Fabric API Availability</title>
 <link>https://status.equinix.com/incidents/wpxh6xgwypd3</link>

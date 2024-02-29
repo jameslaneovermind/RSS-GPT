@@ -4,6 +4,7 @@
 <title>Talkdesk Status - Incident History</title>
 <link>https://status.talkdesk.com</link>
 
+
 <item>
 <title>Scheduled Maintenance Update</title>
 <link>https://status.talkdesk.com/incidents/lhr8hy5lszxs</link>
@@ -14,9 +15,7 @@ Summary: Talkdesk will be conducting platform maintenance during the specified h
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>09:00</var> - <var>10:30</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>10:14</var> UTC</small><br /><strong>Scheduled</strong> - Talkdesk will be conducting platform maintenance during the hours of 09:00 - 10:30 UTC (02:00 - 03:30 PDT) on Sunday, March 3rd, 2024.<br /><br />During this maintenance window, infrastructure enhancements will be made to increase platform resiliency.<br /><br />What can users expect during the maintenance period?<br /><br />During the maintenance period, US region deployment users we will have two short periods of time where routing will be affected, ongoing calls will be maintained.<br /><br />This page will be updated throughout the maintenance.</p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 09:00:00 +0000</pubDate>
-<pubDate>Sun, 03 Mar 2024 09:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance Update</title>
 <link>https://status.talkdesk.com/incidents/j70mztlj4bmd</link>
