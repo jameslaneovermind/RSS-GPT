@@ -4,6 +4,19 @@
 <title>Alteryx Status - Incident History</title>
 <link>https://status.alteryxcloud.com</link>
 
+<item>
+<title>AAC - US1 - Designer Cloud Job Creation Issue</title>
+<link>https://status.alteryxcloud.com/incidents/f06f7l2cwvjq</link>
+<guid>https://status.alteryxcloud.com/incidents/f06f7l2cwvjq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Issue with Job Creations in Alteryx Cloud US Region <br><br> We have identified an issue with job creations in the us1.alteryxcloud.com region, and are rolling out fixes to US, EU, and AU. As of now, US1 should function normally. We have rolled out a fix to this issue to all production regions and will continue to monitor to ensure the issue is fully resolved.
+
+ <div>
+<p><small>Feb <var>29</var>, <var>20:46</var> UTC</small><br /><strong>Monitoring</strong> - We have rolled out a fix to this issue to all production regions, and will continue to monitor to ensure the issue is fully resolved.</p><p><small>Feb <var>29</var>, <var>20:43</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue, and are rolling out fixes to US, EU, and AU<br />As of now, US1 should function normally</p><p><small>Feb <var>29</var>, <var>20:41</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Feb <var>29</var>, <var>20:00</var> UTC</small><br /><strong>Investigating</strong> - We have identified an issue with job creations in us1.alteryxcloud.com, against Designer Cloud. We apologize for any inconvenience this may cause, rest assured we are working to resolve this issue as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 20:46:41 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 20:46:41 +0000</pubDate>
+</item>
 
 <item>
 <title>Auto Insights Classic Maintenance (AU)</title>

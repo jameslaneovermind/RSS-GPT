@@ -4,6 +4,86 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+<item>
+<title>Core Archive Canada (archive.ca.opentext.cloud) Regular Software Update - 24.1.2</title>
+<link>https://status.opentext.com/incidents/148wzcdhhljw</link>
+<guid>https://status.opentext.com/incidents/148wzcdhhljw</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Software Update <br><br> All services will be inaccessible during the scheduled software update from March 10, 05:00 - 07:00 UTC. 
+Summary: This is a major scheduled software update that will cause all services to be inaccessible during the specified window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>05:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:03</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 05:00:00 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 05:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive North America &amp; GCP-US Regular Software Update - 24.1.2</title>
+<link>https://status.opentext.com/incidents/t3jlt9btsymh</link>
+<guid>https://status.opentext.com/incidents/t3jlt9btsymh</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance for GCP-US and NA <br><br> All services will be inaccessible during the scheduled maintenance window from 01:00 to 05:00 UTC. 
+Summary: We will be undergoing a major scheduled maintenance during this time affecting GCP-US and NA services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>01:00</var> - <var>05:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:01</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>29</var>, <var>20:57</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />GCP-US (archive.us.opentext.cloud) - 01:00 to 03:00 GMT<br />NA (archive.na.opentext.com)  - 03:00 to 05:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Japan Regular Software Update - 24.1.2</title>
+<link>https://status.opentext.com/incidents/pjwlw24mdbng</link>
+<guid>https://status.opentext.com/incidents/pjwlw24mdbng</guid>
+<content:encoded><![CDATA[
+<div> [High] - Scheduled Software Update 
+Summary: All services will be inaccessible during the scheduled update window, indicating a major platform downtime caused by a configuration change to the system. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>13:30</var> - <var>15:30</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>20:52</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 13:30:00 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 13:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive UAE Regular Software Update - 24.1.2</title>
+<link>https://status.opentext.com/incidents/lnhwhjj1ff8b</link>
+<guid>https://status.opentext.com/incidents/lnhwhjj1ff8b</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>11:00</var> - <var>13:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>20:51</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 11:00:00 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Archive Australia Regular Software Update - 24.1.2</title>
+<link>https://status.opentext.com/incidents/ysc121xrrm2z</link>
+<guid>https://status.opentext.com/incidents/ysc121xrrm2z</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>09:00</var> - <var>11:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>20:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 09:00:00 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hightail Maintenance scheduled for 29 February 2024</title>
+<link>https://status.opentext.com/incidents/1sl06jm94z82</link>
+<guid>https://status.opentext.com/incidents/1sl06jm94z82</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>23:30</var> UTC &nbsp;-&nbsp; Mar <var>1</var>, <var>03:30</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>20:53</var> UTC</small><br /><strong>Scheduled</strong> - Hightail will be undergoing maintenance on 29 February 2024 from 23:30 UTC to 1 March 2024 03:30 UTC.  The Application will be intermittently unavailable during this time.<br />Tracking Number: C2027425</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 23:30:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 23:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Content &amp; Platform Service EU is experiencing degraded performance</title>
+<link>https://status.opentext.com/incidents/2wxq14wn7gv5</link>
+<guid>https://status.opentext.com/incidents/2wxq14wn7gv5</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>29</var>, <var>21:01</var> UTC</small><br /><strong>Investigating</strong> - Core Content EU & Platform Service EU is currently experiencing an issue . Teams are currently assembled and working to resolve the issue.  We appreciate your patience.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 21:01:02 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 21:01:02 +0000</pubDate>
+</item>
 
 <item>
 <title>IOT/IDM supcon, connect-auto and connect-hc Maintenance scheduled for 2 March 2024</title>
