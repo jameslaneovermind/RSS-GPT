@@ -4,6 +4,17 @@
 <title>Reltio Status - Incident History</title>
 <link>https://status.reltio.com</link>
 
+<item>
+<title>Cleanse Service Performance Degraded</title>
+<link>https://status.reltio.com/incidents/b5zp1wkw1bm0</link>
+<guid>https://status.reltio.com/incidents/b5zp1wkw1bm0</guid>
+<content:encoded><![CDATA[
+<div> [High] - Performance Degradation of Cleanse Service  on Feb 29, 15:06 PST <br><br> We have identified a degradation in the performance of our Cleanse Service and are actively investigating the cause. This issue is impacting our platform and we apologize for any inconvenience it may be causing. We will provide further updates at 23:30 UTC. <div>
+<p><small>Feb <var>29</var>, <var>15:06</var> PST</small><br /><strong>Investigating</strong> - Hello All,<br /><br />We have identified that our Cleanse Service is experiencing a degradation of performance at the moment we are investigating the cause and working on a solution. We apologize for any inconvenience this may be causing. <br /><br />We will share another update at 23:30 UTC.<br /><br />Kind regards,<br />Reltio</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 15:06:25 -0800</pubDate>
+<pubDate>Thu, 29 Feb 2024 15:06:25 -0800</pubDate>
+</item>
 
 <item>
 <title>Slow Queue Processing</title>

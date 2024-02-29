@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>SMS Delivery Failures to Vodafone Network in Egypt</title>
+<link>https://status.twilio.com/incidents/nmwhd19vwr9p</link>
+<guid>https://status.twilio.com/incidents/nmwhd19vwr9p</guid>
+<content:encoded><![CDATA[
+<div> [High] - SMS Delivery Failures to Vodafone Network in Egypt <br><br> Our engineers are investigating widespread SMS delivery failures when sending messages to Vodafone Network in Egypt. This is causing a major impact on our services in the region. Our carrier partner is working to resolve the issue. <div>
+<p><small>Feb <var>29</var>, <var>14:48</var> PST</small><br /><strong>Investigating</strong> - We are experiencing SMS delivery failures when sending messages to Vodafone Network in Egypt. Our engineers are working with our carrier partner to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 14:51:37 -0800</pubDate>
+<pubDate>Thu, 29 Feb 2024 14:51:37 -0800</pubDate>
+</item>
 
 <item>
 <title>Delivery Report Delays When Sending SMS to Ukraine</title>

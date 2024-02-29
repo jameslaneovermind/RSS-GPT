@@ -4,6 +4,7 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Core Archive India Regular Software Update - 24.1.2</title>
 <link>https://status.opentext.com/incidents/m6djn9hmqcjv</link>
@@ -19,18 +20,16 @@ Scheduled pre-production maintenance is planned for various regions on March 5, 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>16:30</var> - <var>18:30</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:35</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 16:30:00 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 16:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Core Archive Europe Regular Software Update - 24.1.2</title>
 <link>https://status.opentext.com/incidents/hmv646ypy28z</link>
 <guid>https://status.opentext.com/incidents/hmv646ypy28z</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Scheduled Software Update <br><br> All services will be inaccessible during the scheduled window for a software update on various servers in different regions.
+<div> [High] - Major Scheduled Software Update <br /><br /> All services will be inaccessible during the scheduled window for a software update on various servers in different regions.
  <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>16:00</var> - <var>20:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:31</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />AM2: archive.emea.opentext.com - 16:00 to 18:00 GMT<br />AM3: archive.opentext.eu - 18:00 to 20:00 GMT<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
 ]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 16:00:00 +0000</pubDate>
 <pubDate>Sun, 10 Mar 2024 16:00:00 +0000</pubDate>
 </item>
 <item>
@@ -38,14 +37,12 @@ Scheduled pre-production maintenance is planned for various regions on March 5, 
 <link>https://status.opentext.com/incidents/7n2yrrx06r6y</link>
 <guid>https://status.opentext.com/incidents/7n2yrrx06r6y</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Scheduled Software Update <br><br> All services will be inaccessible during the window.
-[Medium] - Pre-Production Maintenance Schedule <br><br] Pre-Production maintenance schedules for different regions on March 5, 2024. <div>
+<div> [High] - Major Scheduled Software Update <br /><br /> All services will be inaccessible during the window.
+[Medium] - Pre-Production Maintenance Schedule <br /><br /><div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>14:00</var> - <var>16:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:22</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled software update during this time. All services will be inaccessible during the window.<br /><br />Pre-Production Maintenance Schedule<br />-------------------------------------------<br />NA (Li3) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT<br />EMEA (AM3) Pre-Prod - March 5, 2024 - 10:00 to 14:00 GMT<br />APAC (Syd) Pre-Prod   - March 5, 2024 - 14:00 to 18:00 GMT</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 14:00:00 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 14:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Core Archive Canada (archive.ca.opentext.cloud) Regular Software Update - 24.1.2</title>
 <link>https://status.opentext.com/incidents/148wzcdhhljw</link>

@@ -4,6 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Snyk Platform Upgrade</title>
+<link>https://status.snyk.io/incidents/fy00njrcmgwq</link>
+<guid>https://status.snyk.io/incidents/fy00njrcmgwq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Scheduled Maintenance for Snyk Platform <br><br> The Snyk platform will undergo scheduled maintenance on March 16th. This will result in a temporary unavailability of Snyk's services, including the CLI, API, UI, and PR checks. This maintenance is essential for upgrading the platform and improving its long-term resilience. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>13:00</var> UTC &nbsp;-&nbsp; Mar <var>17</var>, <var>01:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>22:57</var> UTC</small><br /><strong>Scheduled</strong> - As <a href="https://status.snyk.io/incidents/wt5jc7z8ppkn">previously announced</a>, we have a planned maintenance window for Snyk on March 16th. The upgrades thus far have been very successful and we look forward to completing this process, which is delivering significant enhancements to improve the long-term resilience of the Snyk platform.<br /><br />Maintenance is currently scheduled to take place:<br /><br />Saturday, March 16th, 8 AM ET (1 PM GMT) to 8 PM ET (1 AM GMT, March 17th)<br /><br />We will provide prompt updates on this page if the above date or time changes.<br /><br />During this period, you may not be able to access Snyk’s services, including the CLI, API, UI and PR checks. For more information on this please check out our <a href="https://support.snyk.io/hc/en-us/articles/16431412798621">Maintenance Guide</a>.<br /><br />We understand that our services are important to your business operations and we have designed our maintenance process to minimize inconvenience to our customers. This maintenance window enables us to upgrade the Snyk platform to our new, more robust, and reliable service architecture, to better meet your business needs and to continue to scale in the future.<br /><br />We will provide status updates during the maintenance window at status.snyk.io. If you have any questions or need any assistance, please don't hesitate to contact our support team.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 13:00:00 +0000</pubDate>
+<pubDate>Sat, 16 Mar 2024 13:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Recurring Test Delays</title>
