@@ -4,6 +4,7 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for B2B mapping failures.</title>
 <link>https://status.informatica.com/incidents/z7bf6wdd92gb</link>
@@ -14,9 +15,7 @@ Summary: Informatica Cloud Operations is deploying a patch to address an issue w
 <p><small>Feb <var>28</var>, <var>22:01</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>28</var>, <var>21:45</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying a patch to address an issue with Cloud B2B mappings failing with "Record was too long" errors.  This is a Zero Downtime deployment and there will be no impact to running jobs or services.<br /><br /><b> Action Needed:</b> None.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 22:01:07 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 22:01:07 -0800</pubDate>
 </item>
-
 <item>
 <title>AWS RDS maintenance activity affecting CDGC, MCC &amp; CDMP services on IICS AP SouthEast 1 Services and IICS AP NorthEast 2 Services</title>
 <link>https://status.informatica.com/incidents/91zj7nwx3yn0</link>
