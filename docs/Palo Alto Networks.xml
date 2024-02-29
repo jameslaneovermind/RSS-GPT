@@ -4,6 +4,19 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Cloud : APP.EU : Ongoing Service Disruption</title>
+<link>https://status.paloaltonetworks.com/incidents/qwcfsz2xg835</link>
+<guid>https://status.paloaltonetworks.com/incidents/qwcfsz2xg835</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue in APP.EU Environment <br><br> Summary: The company is currently investigating an issue in their APP.EU environment and working on implementing a fix. No significant impact on services has been mentioned.
+
+[High] - Identified Issue and Fix in Progress <br><br> Summary: The issue has been identified and a fix is being implemented, indicating a major or large-scale outage. This could potentially be caused by a configuration change to a system. <div>
+<p><small>Feb <var>29</var>, <var>04:05</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>29</var>, <var>03:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue in APP.EU Environment.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 04:05:48 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 04:05:48 +0000</pubDate>
+</item>
 
 <item>
 <title>WildFire Global Cloud Service Scheduled Maintenance</title>

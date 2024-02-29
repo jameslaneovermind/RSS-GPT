@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/swr308gxh4yj</link>
+<guid>https://status.equinix.com/incidents/swr308gxh4yj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Asia-Pacific Region
+<br><br>
+The issue has been identified and a fix is being implemented for Equinix Fabric and Network Edge in the Asia-Pacific region. Incident Number: INC0030262. <div>
+<p><small>Feb <var>29</var>, <var>03:27</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">908cw57sm6fk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030262</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY); Network Edge - Asia-Pacific (SG, TY)]</div></p><p><small>Feb <var>29</var>, <var>03:14</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">908cw57sm6fk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030262</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY); Network Edge - Asia-Pacific (SG, TY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 03:27:58 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 03:27:58 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
