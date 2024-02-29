@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/f61ympmcj1qf</link>
 <guid>https://status.equinix.com/incidents/f61ympmcj1qf</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Downtime Incident <br><br> We are currently investigating a major issue with Equinix Fabric in the Americas (TR) region. The incident number is INC0030333 and we are working to resolve the issue.
+<div> [High] - Equinix Fabric Downtime Incident <br /><br /> We are currently investigating a major issue with Equinix Fabric in the Americas (TR) region. The incident number is INC0030333 and we are working to resolve the issue.
 
  <div>
 <p><small>Feb <var>29</var>, <var>16:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gmjjyznxy66l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030333</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (TR)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 16:06:33 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 16:06:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/dstmqc5rh9qy</link>

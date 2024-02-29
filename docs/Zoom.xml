@@ -4,6 +4,7 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>São Paulo Zoom Phone Maintenance</title>
 <link>https://status.zoom.us/incidents/3spwlwc5035z</link>
@@ -14,20 +15,17 @@ Summary: Zoom will be performing a major maintenance at the South America (São 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>17:00</var> PDT &nbsp;-&nbsp; Mar <var>16</var>, <var>00:00</var> PDT</strong></p><p><small>Feb <var>29</var>, <var>07:53</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our South America (São Paulo) data center starting at 5PM Pacific (1:00AM GMT) on March 15th. <br /><br />Zoom Phone users registered to the South America (São Paulo) data center will be automatically registered in an alternative data center Mexico and Central America (Queretaro, MX). During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically.<br /><br />If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s Mexico and Central America (Queretaro, MX) data center in addition to the South America (São Paulo). During the maintenance window, connectivity to Zoom’s South America (São Paulo) data center will be blocked which will force calls from the Session Border Controller (SBC) to failover to Zoom’s Mexico and Central America (Queretaro, MX) data center. Traffic will continue to be routed through the Zoom SP: South America (São Paulo) data center once the maintenance is completed.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 17:00:00 -0700</pubDate>
-<pubDate>Fri, 15 Mar 2024 17:00:00 -0700</pubDate>
 </item>
 <item>
 <title>Osaka Zoom Phone Maintenance</title>
 <link>https://status.zoom.us/incidents/wq32p5xvzd4k</link>
 <guid>https://status.zoom.us/incidents/wq32p5xvzd4k</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance at Asia Pacific Data Center <br><br> Zoom will be performing a service maintenance at the Asia Pacific (Osaka) data center, potentially causing brief disconnections and missed notifications for users registered in this region. There may be a significant impact on Zoom Phone and BYOC (Bring Your Own Carrier) customers during this maintenance. <div>
+<div> [High] - Major Service Maintenance at Asia Pacific Data Center <br /><br /> Zoom will be performing a service maintenance at the Asia Pacific (Osaka) data center, potentially causing brief disconnections and missed notifications for users registered in this region. There may be a significant impact on Zoom Phone and BYOC (Bring Your Own Carrier) customers during this maintenance. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>05:00</var> - <var>11:00</var> PDT</strong></p><p><small>Feb <var>29</var>, <var>07:53</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our Asia Pacific (Osaka) data center starting at 5:00AM Pacific (1:00PM GMT) on Mar 15th. <br /><br />Zoom Phone users registered to the Asia Pacific (Osaka) data center will be automatically registered in an alternative data center Asia Pacific (Tokyo). During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically.<br /><br />If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s Asia Pacific (Tokyo) data center in addition to the Asia Pacific (Osaka) data center. During the maintenance window, connectivity to Zoom’s Asia Pacific (Osaka) data center will be blocked which will force calls from the Session Border Controller (SBC) to failover to Zoom’s Asia Pacific (Tokyo) data center. Traffic will continue to be routed through the Zoom Asia Pacific (Osaka) data center once the maintenance is completed.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 05:00:00 -0700</pubDate>
-<pubDate>Fri, 15 Mar 2024 05:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Issue with SMS delay</title>
 <link>https://status.zoom.us/incidents/4y1v6pmpn8c4</link>

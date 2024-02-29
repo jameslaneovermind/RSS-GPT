@@ -4,6 +4,7 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>Feature Release - Bullhorn Back Office</title>
 <link>https://status.bullhorn.com/incidents/xlm71tg4g648</link>
@@ -14,17 +15,15 @@ Summary: The Bullhorn Technical Operations team will be releasing the latest fea
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>12:00</var> - <var>13:00</var> EDT</strong></p><p><small>Feb <var>29</var>, <var>10:50</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn Back Office<br />Cluster(s): BBO APAC<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 12:00:00 -0400</pubDate>
-<pubDate>Thu, 14 Mar 2024 12:00:00 -0400</pubDate>
 </item>
 <item>
 <title>Feature Release - Bullhorn Back Office</title>
 <link>https://status.bullhorn.com/incidents/39mbnywld4m2</link>
 <guid>https://status.bullhorn.com/incidents/39mbnywld4m2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Release <br><br> Summary: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
+<div> [Medium] - Scheduled Release <br /><br /> Summary: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>20:00</var> - <var>21:00</var> EDT</strong></p><p><small>Feb <var>29</var>, <var>10:49</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn Back Office<br />Cluster(s): BBO East, BBO West, BBO EMEA<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 20:00:00 -0400</pubDate>
 <pubDate>Wed, 13 Mar 2024 20:00:00 -0400</pubDate>
 </item>
 <item>
@@ -32,10 +31,9 @@ Summary: The Bullhorn Technical Operations team will be releasing the latest fea
 <link>https://status.bullhorn.com/incidents/f4djhpggxw20</link>
 <guid>https://status.bullhorn.com/incidents/f4djhpggxw20</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Release of Bullhorn Back Office Features and Bug Fixes <br><br> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
+<div> [Low] - Scheduled Release of Bullhorn Back Office Features and Bug Fixes <br /><br /> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>20:00</var> - <var>21:00</var> EST</strong></p><p><small>Feb <var>29</var>, <var>10:39</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn Back Office<br />Cluster(s): BBONext<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Mar 2024 20:00:00 -0500</pubDate>
 <pubDate>Wed, 06 Mar 2024 20:00:00 -0500</pubDate>
 </item>
 <item>
@@ -43,13 +41,10 @@ Summary: The Bullhorn Technical Operations team will be releasing the latest fea
 <link>https://status.bullhorn.com/incidents/sshdpn9571kh</link>
 <guid>https://status.bullhorn.com/incidents/sshdpn9571kh</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>02:00</var> - <var>04:00</var> EST</strong></p><p><small>Feb <var>29</var>, <var>10:21</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: Users may experience intermittent latency and/or errors during this maintenance.</b><br />System: Onboarding365<br />Cluster(s): Production<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. Additional updates will be posted here if necessary.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 02:00:00 -0500</pubDate>
-<pubDate>Fri, 01 Mar 2024 02:00:00 -0500</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/gdyybm2j54zp</link>
