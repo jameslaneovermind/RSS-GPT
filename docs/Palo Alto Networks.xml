@@ -5,19 +5,30 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>WildFire Qatar Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/h8j53xc137zf</link>
+<guid>https://status.paloaltonetworks.com/incidents/h8j53xc137zf</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for WildFire Qatar Cloud <br><br> 
+Scheduled maintenance for WildFire Qatar Cloud on February 29th, 2024 from 04:20 UTC to 05:20 UTC may cause intermittent disconnection and detection delays for customers. <div>
+<p><small>Feb <var>29</var>, <var>04:20</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>29</var>, <var>04:16</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Qatar Cloud on February 29th, 2024 from 04:20 UTC to 05:20 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 04:20:56 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 04:20:56 +0000</pubDate>
+</item>
+
+<item>
 <title>Prisma Cloud : APP.EU : Ongoing Service Disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/qwcfsz2xg835</link>
 <guid>https://status.paloaltonetworks.com/incidents/qwcfsz2xg835</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Issue in APP.EU Environment <br><br> Summary: The company is currently investigating an issue in their APP.EU environment and working on implementing a fix. No significant impact on services has been mentioned.
+<div> [Medium] - Investigating Issue in APP.EU Environment <br /><br /> Summary: The company is currently investigating an issue in their APP.EU environment and working on implementing a fix. No significant impact on services has been mentioned.
 
-[High] - Identified Issue and Fix in Progress <br><br> Summary: The issue has been identified and a fix is being implemented, indicating a major or large-scale outage. This could potentially be caused by a configuration change to a system. <div>
+[High] - Identified Issue and Fix in Progress <br /><br /> Summary: The issue has been identified and a fix is being implemented, indicating a major or large-scale outage. This could potentially be caused by a configuration change to a system. <div>
 <p><small>Feb <var>29</var>, <var>04:05</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>29</var>, <var>03:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue in APP.EU Environment.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 04:05:48 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 04:05:48 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Global Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/89kpjqjzt2g7</link>
