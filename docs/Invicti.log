@@ -1398,3 +1398,10 @@ Fetching from https://status.invicti.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Invicti
+------------------------------------------------------
+Started: 2024-02-29 22:07:57.690522
+Existing_entries: 0
+Fetching from https://status.invicti.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Invicti

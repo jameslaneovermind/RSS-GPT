@@ -4,6 +4,7 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Prisma Cloud Scheduled Maintenance - app.fr</title>
 <link>https://status.paloaltonetworks.com/incidents/gtbfx99m2pzv</link>
@@ -14,9 +15,7 @@ Summary: Planned service maintenance for Prisma Cloud in the France region is sc
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>22:00</var> - <var>23:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>21:07</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for Prisma Cloud in the France region scheduled for March 4 2024 from 22:00 UTC to 23:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures across services as they get upgraded.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 22:00:00 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 22:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>The 90 day unique user count within Strata Cloud Manager reflects a value of 0 for a few customers</title>
 <link>https://status.paloaltonetworks.com/incidents/0v577ry5xtsj</link>

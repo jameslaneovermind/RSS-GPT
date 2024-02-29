@@ -4,6 +4,7 @@
 <title>Zapier Status - Incident History</title>
 <link>https://status.zapier.com</link>
 
+
 <item>
 <title>Microsoft Exchange Authentication Outage</title>
 <link>https://status.zapier.com/incidents/zjf49506lfk8</link>
@@ -17,9 +18,7 @@ Summary: An update caused a small number of authentications to stale for Microso
 <p><small>Feb <var>29</var>, <var>12:37</var> PST</small><br /><strong>Identified</strong> - An update caused a small number of authentications to stale for Microsoft Exchange. The issue has been identified and a fix is being implemented.</p><p><small>Feb <var>29</var>, <var>12:35</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 12:38:03 -0800</pubDate>
-<pubDate>Thu, 29 Feb 2024 12:38:03 -0800</pubDate>
 </item>
-
 <item>
 <title>Live Chat is unavailable</title>
 <link>https://status.zapier.com/incidents/b66g61ml8c0x</link>

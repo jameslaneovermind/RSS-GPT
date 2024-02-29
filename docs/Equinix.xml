@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Power Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/yhg94fz97f0j</link>
@@ -14,9 +15,7 @@ Summary: The issue has been identified and a fix is being implemented. This indi
 <p><small>Feb <var>29</var>, <var>20:46</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">z431kybb33fp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030351</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SY)]</div></p><p><small>Feb <var>29</var>, <var>20:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">z431kybb33fp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030351</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SY)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 20:46:02 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 20:46:02 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Service Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/ym01wpfvdpvn</link>
