@@ -4,6 +4,17 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/gdyybm2j54zp</link>
+<guid>https://status.bullhorn.com/incidents/gdyybm2j54zp</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance <br><br> Summary: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>10:00</var> - <var>13:00</var> EST</strong></p><p><small>Feb <var>29</var>, <var>09:39</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There should not be any user impact resulting from this maintenance.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS60<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 10:00:00 -0500</pubDate>
+<pubDate>Fri, 01 Mar 2024 10:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>OTE I-9 Signing Error</title>

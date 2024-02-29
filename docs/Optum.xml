@@ -4,19 +4,18 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+
 <item>
 <title>System Incident - Enterprise Computer-Assisted Coding - Production</title>
 <link>https://status.optum.com/incidents/bjg6fjj76vvs</link>
 <guid>https://status.optum.com/incidents/bjg6fjj76vvs</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Power BI Export Functionality Issue <br><br> Investigating issue within the Enterprise Computer-Assisted Coding application where the export functionality is not working. Technical teams are engaged to resolve the issue and updates will be provided.
+<div> [Medium] - Power BI Export Functionality Issue <br /><br /> Investigating issue within the Enterprise Computer-Assisted Coding application where the export functionality is not working. Technical teams are engaged to resolve the issue and updates will be provided.
  <div>
 <p><small>Feb <var>29</var>, <var>08:50</var> EST</small><br /><strong>Investigating</strong> - We are aware of an issue occurring within the Power BI platform of the Enterprise Computer-Assisted Coding application where the export functionality is not working. Technical teams are engaged to resolve the issue and we will provide updates as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 08:50:22 -0500</pubDate>
-<pubDate>Thu, 29 Feb 2024 08:50:22 -0500</pubDate>
 </item>
-
 <item>
 <title>System Incident - Enterprise CAC - Production</title>
 <link>https://status.optum.com/incidents/yphftvmbfdqn</link>
