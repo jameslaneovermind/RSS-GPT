@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>WildFire Japan Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/xdww0kfpzyln</link>
 <guid>https://status.paloaltonetworks.com/incidents/xdww0kfpzyln</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance for WildFire Japan Cloud <br><br> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
+<div> [High] - Major Service Maintenance for WildFire Japan Cloud <br /><br /> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Feb <var>29</var>, <var>10:00</var> - <var>11:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>08:32</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Japan Cloud on February, 2024 from 10:00 UTC to 11:00 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 10:00:00 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 10:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Germany Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/k3cmfc96scq7</link>

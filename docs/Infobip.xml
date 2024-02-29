@@ -4,6 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>General connectivity issues towards Turkey data center</title>
+<link>https://status.infobip.com/incidents/fs1nwtkp7pg9</link>
+<guid>https://status.infobip.com/incidents/fs1nwtkp7pg9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Connectivity Issue in Turkey Data Center <br><br> We're currently experiencing a general connectivity issue with our Turkey data center. Clients utilizing hosted services may experience irregularities in sending traffic, delays, and issues in receiving delivery reports. We're currently investigating the issue and keep you updated. <div>
+<p><small>Feb <var>29</var>, <var>09:45</var> UTC</small><br /><strong>Investigating</strong> - Please note that we're currently experiencing a general connectivity issue with our Turkey data center. Clients utilizing hosted services may experience irregularities in sending traffic, delays, and issues in receiving delivery reports. We're currently investigating the issue and keep you updated.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 09:45:26 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 09:45:26 +0000</pubDate>
+</item>
 
 <item>
 <title>Global (Germany) - Degradation of newly created HTTP API Keys</title>

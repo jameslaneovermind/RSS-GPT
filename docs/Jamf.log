@@ -1162,3 +1162,9 @@ Existing_entries: 28
 Fetching from https://status.jamf.com/history.rss
 append_entries: 0
 Finish: 2024-02-29 09:09:34.585799
+------------------------------------------------------
+Started: 2024-02-29 10:10:18.141286
+Existing_entries: 28
+Fetching from https://status.jamf.com/history.rss
+append_entries: 0
+Finish: 2024-02-29 10:10:18.393551
