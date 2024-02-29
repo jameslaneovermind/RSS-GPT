@@ -6,13 +6,69 @@
 
 <item>
 <title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/ng0mqlncdxw5</link>
+<guid>https://status.equinix.com/incidents/ng0mqlncdxw5</guid>
+<content:encoded><![CDATA[
+<div> [High] - IBX SmartView Portal Services Intermittent Issues
+<br><br>Summary: The IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues, with investigations ongoing to resolve the major platform downtime caused by a configuration change to the system. <div>
+<p><small>Feb <var>29</var>, <var>05:57</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>05:22</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:57:27 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:57:27 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/cd7qnf21v330</link>
+<guid>https://status.equinix.com/incidents/cd7qnf21v330</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect - AMER (KA) Outage <br><br> We are currently investigating a critical issue with Equinix Internet Access and Equinix Connect in the AMER region. A fix is being implemented to resolve the outage. <div>
+<p><small>Feb <var>29</var>, <var>05:53</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">hyy6ztl85lgj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030265</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (KA)]</div></p><p><small>Feb <var>29</var>, <var>05:40</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hyy6ztl85lgj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030265</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (KA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:53:20 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:53:20 +0000</pubDate>
+</item>
+<item>
+<title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/gwhk677y24gj</link>
+<guid>https://status.equinix.com/incidents/gwhk677y24gj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage of IBX SmartView Services <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues, leading to significant disruptions for users. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView services are experiencing a major outage, causing significant disruptions for users. Investigation is ongoing. <div>
+<p><small>Feb <var>29</var>, <var>05:21</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>05:18</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:21:24 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:21:24 +0000</pubDate>
+</item>
+<item>
+<title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/17m55753j6dc</link>
+<guid>https://status.equinix.com/incidents/17m55753j6dc</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>29</var>, <var>05:17</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>05:16</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:17:31 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:17:31 +0000</pubDate>
+</item>
+<item>
+<title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/m7zhd35lp129</link>
+<guid>https://status.equinix.com/incidents/m7zhd35lp129</guid>
+<content:encoded><![CDATA[
+
+<p><small>Feb <var>29</var>, <var>05:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>05:12</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:13:27 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:13:27 +0000</pubDate>
+</item>
+
+<item>
+<title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/zh6klwghsx7y</link>
 <guid>https://status.equinix.com/incidents/zh6klwghsx7y</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SmartView Services Intermittent Issues <br><br> We are currently experiencing intermittent issues with IBX SmartView services on the SmartView Portal. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating the cause of the problem. <div>
+<div> [Medium] - SmartView Services Intermittent Issues <br /><br /> We are currently experiencing intermittent issues with IBX SmartView services on the SmartView Portal. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating the cause of the problem. <div>
 <p><small>Feb <var>29</var>, <var>05:10</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 05:10:22 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 05:10:22 +0000</pubDate>
 </item>
 <item>
@@ -25,7 +81,6 @@ Summary: IBX SmartView services on the SmartView Portal are currently experienci
 <p><small>Feb <var>29</var>, <var>05:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>05:06</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 05:09:21 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 05:09:21 +0000</pubDate>
 </item>
 <item>
 <title>Internet Exchange Portal Availability</title>
@@ -37,9 +92,7 @@ Summary: Equinix Internet Exchange® services on the IX Portal are currently exp
 <p><small>Feb <var>29</var>, <var>05:00</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>04:59</var> UTC</small><br /><strong>Investigating</strong> - Equinix Internet Exchange® services on the IX Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 05:00:20 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 05:00:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/swr308gxh4yj</link>

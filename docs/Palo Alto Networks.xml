@@ -5,18 +5,51 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>WildFire Taiwan Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/ncglwz9d6bb3</link>
+<guid>https://status.paloaltonetworks.com/incidents/ncglwz9d6bb3</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for WildFire Taiwan Cloud
+Summary: Scheduled maintenance is currently in progress, causing intermittent disconnection and detection delays for the customers. <div>
+<p><small>Feb <var>29</var>, <var>05:40</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>29</var>, <var>05:39</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Feb <var>29</var>, <var>05:38</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Taiwan Cloud on February 28th, 2024 from 05:40 UTC to 06:40 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:40:57 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:40:57 +0000</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance Status Notification</title>
+<link>https://status.paloaltonetworks.com/incidents/6808z54g2rs3</link>
+<guid>https://status.paloaltonetworks.com/incidents/6808z54g2rs3</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance Activity on March 1st <br><br> Regular maintenance activity is scheduled for Friday, 1st March from 5:00 PM to 9:00 PM PST. There may be some performance degradation for RBI service during this time. No other services will be impacted. <div>
+<p><small>Feb <var>29</var>, <var>05:25</var> UTC</small><br /><strong>Investigating</strong> - We would be implementing a regular maintenance activity to enhance our services, which is a scheduled maintenance window on Friday, 1st March, from 5:00 PM to 9:00 PM PST. Additionally, please note that RBI service may face some performance degradation while this regular maintenance activity is underway. We appreciate your understanding and cooperation. Stay informed with real-time updates at sase.status.paloaltonetworks.com. No other services will be impacted during this maintenance window.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:34:03 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:34:03 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Europe Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/0fw443yjz58r</link>
+<guid>https://status.paloaltonetworks.com/incidents/0fw443yjz58r</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance for WildFire Europe Cloud <br><br> Customers may encounter intermittent disconnection and detection delays during the maintenance window. <div>
+<p><small>Feb <var>29</var>, <var>05:21</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>29</var>, <var>05:19</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Europe Cloud on February 29th, 2024 from 05:20 UTC to 06:20 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 05:21:00 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 05:21:00 +0000</pubDate>
+</item>
+
+<item>
 <title>WildFire Qatar Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/h8j53xc137zf</link>
 <guid>https://status.paloaltonetworks.com/incidents/h8j53xc137zf</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for WildFire Qatar Cloud <br><br> 
+<div> [Medium] - Scheduled Maintenance for WildFire Qatar Cloud <br /><br /> 
 Scheduled maintenance for WildFire Qatar Cloud on February 29th, 2024 from 04:20 UTC to 05:20 UTC may cause intermittent disconnection and detection delays for customers. <div>
 <p><small>Feb <var>29</var>, <var>04:20</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>29</var>, <var>04:16</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Qatar Cloud on February 29th, 2024 from 04:20 UTC to 05:20 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 04:20:56 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 04:20:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud : APP.EU : Ongoing Service Disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/qwcfsz2xg835</link>
