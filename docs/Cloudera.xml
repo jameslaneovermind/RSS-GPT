@@ -4,6 +4,17 @@
 <title>Cloudera Status - Incident History</title>
 <link>https://status.cloudera.com</link>
 
+<item>
+<title>CML/CDE/CDF cluster upgrade</title>
+<link>https://status.cloudera.com/incidents/n6fjf0pqc3mx</link>
+<guid>https://status.cloudera.com/incidents/n6fjf0pqc3mx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Cluster Upgrade Failures in Control Plane Regions <br><br> The company is currently working on a fix for cluster upgrade failures in the Control Plane regions. Customers are advised to hold off on upgrading clusters for CML, CDE, and CDF in any of the Control Plane regions until further updates are provided. <div>
+<p><small>Feb <var>29</var>, <var>08:44</var> UTC</small><br /><strong>Identified</strong> - The fix is currently being validated.</p><p><small>Feb <var>29</var>, <var>08:43</var> UTC</small><br /><strong>Investigating</strong> - We are currently working on a fix for cluster upgrade failures that have been observed in the Control Plane regions. Please hold upgrading clusters for CML, CDE and CDF in any of the Control Plane regions till further update is made available.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 08:45:45 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 08:45:45 +0000</pubDate>
+</item>
 
 <item>
 <title>CML/CDW/CDF/CDE private deployments are failing in EU Control Plane region.</title>

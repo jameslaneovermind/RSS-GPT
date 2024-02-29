@@ -4,18 +4,17 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>Mail Send Delays</title>
 <link>https://status.sendgrid.com/incidents/zhgbtj2s7yt4</link>
 <guid>https://status.sendgrid.com/incidents/zhgbtj2s7yt4</guid>
 <content:encoded><![CDATA[
-<div> [High] - Mail Send Delay Issue <br><br> Summary: Engineers are investigating a major issue causing delays in mail send requests for SMTP and API. The mail traffic has been moved to another server, but users may still experience delays. <div>
+<div> [High] - Mail Send Delay Issue <br /><br /> Summary: Engineers are investigating a major issue causing delays in mail send requests for SMTP and API. The mail traffic has been moved to another server, but users may still experience delays. <div>
 <p><small>Feb <var>28</var>, <var>23:57</var> PST</small><br /><strong>Monitoring</strong> - Starting around 06:17 AM UTC on the 29th of February 2024, our engineers have began investigating an issue with mail send requests delays for SMTP and API due to one of our servers. We moved the mail trafic to another healthy server around 6:47 AM UTC and we are currently monitoring the mail send performance. However, users may still had some mail delays within the timeframe specified.</p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 23:57:43 -0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 23:57:43 -0800</pubDate>
 </item>
-
 <item>
 <title>Intermittent Mail Send Delays Between 3pm - 3:15pm PST</title>
 <link>https://status.sendgrid.com/incidents/frf5plm1nrds</link>
