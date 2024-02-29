@@ -4,6 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto RMM - Zinfandel, Syrah - Pages fail to load intermittently</title>
+<link>https://status.datto.com/incidents/pf07x1c5b19v</link>
+<guid>https://status.datto.com/incidents/pf07x1c5b19v</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Pages Failing to Load in Datto RMM Zinfandel and Syrah Platforms <br><br> Our teams are currently investigating reports of pages failing to load in the New UI for our Datto RMM Zinfandel and Syrah Platforms. Thank you for your patience! Summary: Investigating reports of pages failing to load in the New UI for our Datto RMM Zinfandel and Syrah Platforms. <div>
+<p><small>Feb <var>29</var>, <var>15:14</var> UTC</small><br /><strong>Investigating</strong> - Our teams are currently investigating reports of pages failing to load in the New UI for our Datto RMM Zinfandel and Syrah Platforms. <br /><br />Thank you for your patience!</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 15:14:55 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 15:14:55 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Zinfandel - Intermittent Failure To Load Web UI Pages</title>
