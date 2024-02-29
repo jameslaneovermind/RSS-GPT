@@ -5,14 +5,51 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Equinix Marketplace Availability</title>
+<link>https://status.equinix.com/incidents/hjsdtlq96ch7</link>
+<guid>https://status.equinix.com/incidents/hjsdtlq96ch7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Issues with Equinix Marketplace Portal
+<br>
+Summary: Equinix Marketplace services are experiencing intermittent issues, potentially due to a configuration change or deploy to production, resulting in a large-scale platform downtime. <div>
+<p><small>Feb <var>29</var>, <var>10:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>10:40</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 10:56:33 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 10:56:33 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/3d84gjyc4fcx</link>
+<guid>https://status.equinix.com/incidents/3d84gjyc4fcx</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Metro Connect - Americas
+Summary: The issue with Metro Connect - Americas is currently being investigated after being identified. An update will be provided once further details are available. <div>
+<p><small>Feb <var>29</var>, <var>10:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">mf85wxry0d02</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030270</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA, HO)]</div></p><p><small>Feb <var>29</var>, <var>10:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mf85wxry0d02</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030270</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA, HO)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 10:52:01 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 10:52:01 +0000</pubDate>
+</item>
+<item>
+<title>Power Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/ds2vdngcqtjs</link>
+<guid>https://status.equinix.com/incidents/ds2vdngcqtjs</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric and Network Edge Outage in Asia-Pacific
+Summary: A critical incident with Equinix Fabric and Network Edge in Asia-Pacific has been identified, and a fix is currently being implemented. The incident has caused a major outage impacting platform availability. <div>
+<p><small>Feb <var>29</var>, <var>10:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">28r63zt51j1v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030305</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (PE, SY); Network Edge - Asia-Pacific (PE, SY)]</div></p><p><small>Feb <var>29</var>, <var>10:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">28r63zt51j1v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030305</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (PE, SY); Network Edge - Asia-Pacific (PE, SY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 10:51:08 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 10:51:08 +0000</pubDate>
+</item>
+
+<item>
 <title>Fabric API Availability</title>
 <link>https://status.equinix.com/incidents/wpxh6xgwypd3</link>
 <guid>https://status.equinix.com/incidents/wpxh6xgwypd3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric API Services Intermittent Issues <br><br> Equinix Fabric API services are currently experiencing intermittent issues, causing major disruptions to the platform. We are investigating the root cause and will provide updates as soon as the issue has been resolved. <div>
+<div> [High] - Equinix Fabric API Services Intermittent Issues <br /><br /> Equinix Fabric API services are currently experiencing intermittent issues, causing major disruptions to the platform. We are investigating the root cause and will provide updates as soon as the issue has been resolved. <div>
 <p><small>Feb <var>29</var>, <var>09:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:29</var> UTC</small><br /><strong>Investigating</strong> - Equinix Fabric API services are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:34:34 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:34:34 +0000</pubDate>
 </item>
 <item>
@@ -27,17 +64,15 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <p><small>Feb <var>29</var>, <var>09:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:16</var> UTC</small><br /><strong>Investigating</strong> - Network Edge API services are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 09:32:32 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 09:32:32 +0000</pubDate>
 </item>
 <item>
 <title>Equinix Marketplace Availability</title>
 <link>https://status.equinix.com/incidents/1wn1m87vspnn</link>
 <guid>https://status.equinix.com/incidents/1wn1m87vspnn</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Marketplace Portal Intermittent Issues <br><br> Equinix Marketplace services are currently experiencing intermittent issues, causing potential downtime and impacting user access. Investigations are ongoing to identify and resolve the root cause of the problem. <div>
+<div> [High] - Equinix Marketplace Portal Intermittent Issues <br /><br /> Equinix Marketplace services are currently experiencing intermittent issues, causing potential downtime and impacting user access. Investigations are ongoing to identify and resolve the root cause of the problem. <div>
 <p><small>Feb <var>29</var>, <var>09:31</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:20</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:31:35 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:31:35 +0000</pubDate>
 </item>
 <item>
@@ -45,10 +80,8 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <link>https://status.equinix.com/incidents/v58bm44lbtmd</link>
 <guid>https://status.equinix.com/incidents/v58bm44lbtmd</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>29</var>, <var>09:31</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Feb <var>29</var>, <var>09:20</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:31:25 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:31:25 +0000</pubDate>
 </item>
 <item>
@@ -56,10 +89,8 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <link>https://status.equinix.com/incidents/10c728qxwhv9</link>
 <guid>https://status.equinix.com/incidents/10c728qxwhv9</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>29</var>, <var>09:28</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:25</var> UTC</small><br /><strong>Investigating</strong> - Equinix Fabric API services are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:28:30 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:28:30 +0000</pubDate>
 </item>
 <item>
@@ -67,10 +98,8 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <link>https://status.equinix.com/incidents/ygpm1qt7vml6</link>
 <guid>https://status.equinix.com/incidents/ygpm1qt7vml6</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>29</var>, <var>09:24</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:23</var> UTC</small><br /><strong>Investigating</strong> - Equinix Fabric API services are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:24:31 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:24:31 +0000</pubDate>
 </item>
 <item>
@@ -78,10 +107,8 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <link>https://status.equinix.com/incidents/n6t6p1kl5wpg</link>
 <guid>https://status.equinix.com/incidents/n6t6p1kl5wpg</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>29</var>, <var>09:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>09:10</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Thu, 29 Feb 2024 09:13:36 +0000</pubDate>
 <pubDate>Thu, 29 Feb 2024 09:13:36 +0000</pubDate>
 </item>
 <item>
@@ -89,13 +116,10 @@ Summary: The Network Edge API services are currently experiencing intermittent i
 <link>https://status.equinix.com/incidents/jvt6h3nqfx65</link>
 <guid>https://status.equinix.com/incidents/jvt6h3nqfx65</guid>
 <content:encoded><![CDATA[
-
 <p><small>Feb <var>29</var>, <var>09:12</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Feb <var>29</var>, <var>09:10</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 09:12:26 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 09:12:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Fabric API Availability</title>
 <link>https://status.equinix.com/incidents/bdxxrkfgrn1j</link>

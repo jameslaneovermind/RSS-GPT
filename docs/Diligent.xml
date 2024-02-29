@@ -4,6 +4,19 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Maintenance Advisory - BoardEffect in US Region</title>
+<link>https://status.diligent.com/incidents/w3x5s5lds097</link>
+<guid>https://status.diligent.com/incidents/w3x5s5lds097</guid>
+<content:encoded><![CDATA[
+<div> [High] - BoardEffect US Region Maintenance <br><br> BoardEffect in the US Region will be unavailable during the scheduled maintenance window for routine maintenance. During this time, plan to perform any necessary tasks requiring BoardEffect in impacted regions outside of the maintenance window. If you experience any disruption, contact Diligent Support.
+
+Thank you for using Diligent Support. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>2</var>, <var>04:00</var> - <var>07:00</var> UTC</strong></p><p><small>Feb <var>29</var>, <var>10:54</var> UTC</small><br /><strong>Scheduled</strong> - <br /><b>Services/Location:</b><br />BoardEffect in US Region<br /><br /><b>Impact:</b><br />Please be advised that we will be performing routine maintenance on our systems. As a result, BoardEffect in US Region become unavailable during this time window. We apologize for any inconvenience this may cause.<br /><br /><b>What do you need to do?:</b><br />Plan to perform items requiring BoardEffect in the impacted regions outside of the scheduled maintenance window timeline.<br /><br /><b>Contact:</b><br />For any questions or if you experience a disruption other than above, please contact Diligent Support: https://community.diligent.com/grc/s/contactsupport</p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 04:00:00 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 04:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>BoardDocs - Some users may receive an error when trying to login</title>
