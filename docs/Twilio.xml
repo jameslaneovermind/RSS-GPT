@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Russia SMS Carrier Maintenance - Tele2</title>
 <link>https://status.twilio.com/incidents/d5yj4dsxk0l3</link>
 <guid>https://status.twilio.com/incidents/d5yj4dsxk0l3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Tele2 Network Maintenance in Russia <br><br> During the scheduled maintenance window from March 4th to March 27th 2024, there may be intermittent delays in delivering SMS to Tele2 Russia handsets. <div>
+<div> [High] - Tele2 Network Maintenance in Russia <br /><br /> During the scheduled maintenance window from March 4th to March 27th 2024, there may be intermittent delays in delivering SMS to Tele2 Russia handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>12:00</var> PST &nbsp;-&nbsp; Mar <var>27</var>, <var>18:00</var> PDT</strong></p><p><small>Feb <var>28</var>, <var>14:47</var> PST</small><br /><strong>Scheduled</strong> - The Tele2 network in Russia is conducting a series of planned maintenances from 04 March 2024 at 12:00 PST until 27 March 2024 at 17:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to Tele2 Russia handsets.<br /><br /><br /><br />Note, the maintenance will be carried out on each of the following dates and times:<br /><br /><br /><br />04 March 2023 at 12:00 PST until 04 March 2023 at 16:00 PST<br /><br />06 March 2023 at 12:00 PST until 06 March 2023 at 16:00 PST<br /><br />25 March 2023 at 13:00 PDT until 25 March 2023 at 17:00 PDT<br /><br />27 March 2023 at 13:00 PDT until 27 March 2023 at 17:00 PDT</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 12:00:00 -0800</pubDate>
-<pubDate>Mon, 04 Mar 2024 12:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/8nhcksh7hkj1</link>

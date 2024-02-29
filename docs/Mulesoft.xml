@@ -4,6 +4,18 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+<item>
+<title>Jira connector creation issues</title>
+<link>https://status.mulesoft.com/incidents/4zlk26p3l8g5</link>
+<guid>https://status.mulesoft.com/incidents/4zlk26p3l8g5</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Impact on Creation of New Flows with Jira Connector
+Summary: A fix has been implemented to address the issue of new flows being created with the Jira connector, and monitoring of the results is ongoing. The issue was identified as a major disruption. <div>
+<p><small>Feb <var>28</var>, <var>16:29</var> PST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Feb <var>28</var>, <var>16:16</var> PST</small><br /><strong>Identified</strong> - Creation of new flows with Jira connector is impacted</p>
+]]></content:encoded>
+<pubDate>Wed, 28 Feb 2024 16:29:08 -0800</pubDate>
+<pubDate>Wed, 28 Feb 2024 16:29:08 -0800</pubDate>
+</item>
 
 <item>
 <title>Partner Manager V2 Acknowledgement Reconciliation and Transaction Replays delays.</title>
