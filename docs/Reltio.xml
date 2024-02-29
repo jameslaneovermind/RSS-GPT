@@ -4,18 +4,17 @@
 <title>Reltio Status - Incident History</title>
 <link>https://status.reltio.com</link>
 
+
 <item>
 <title>Slow Queue Processing</title>
 <link>https://status.reltio.com/incidents/fhlr500p02zw</link>
 <guid>https://status.reltio.com/incidents/fhlr500p02zw</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Slowness in Queue Processing at 12:30 PM UTC <br><br> Monitoring ongoing as system recovers from slowness in queue processing. We apologize for any inconvenience caused. Summary: Our system experienced slowness in queue processing at 12:30 PM UTC, and we are currently monitoring the situation while it recovers. We apologize for any inconvenience this may have caused. <div>
+<div> [Medium] - Slowness in Queue Processing at 12:30 PM UTC <br /><br /> Monitoring ongoing as system recovers from slowness in queue processing. We apologize for any inconvenience caused. Summary: Our system experienced slowness in queue processing at 12:30 PM UTC, and we are currently monitoring the situation while it recovers. We apologize for any inconvenience this may have caused. <div>
 <p><small>Feb <var>29</var>, <var>10:19</var> PST</small><br /><strong>Monitoring</strong> - Greetings All,<br /><br />This is to bring you to the knowledge that we have identified slowness in Queue processing around 12:30 PM UTC.<br />Our system are currently recovering it by itself. Meanwhile, we will be monitoring it till the system has fully recovered.<br /><br />We apologize for the inconvenience this may have caused.<br /><br />Thanks for your understanding.<br /><br />Kind Regards,<br />Reltio</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 10:19:32 -0800</pubDate>
-<pubDate>Thu, 29 Feb 2024 10:19:32 -0800</pubDate>
 </item>
-
 <item>
 <title>Reltio workflow service degradation</title>
 <link>https://status.reltio.com/incidents/0s7tljsscct7</link>

@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>The 90 day unique user count within Strata Cloud Manager reflects a value of 0 for a few customers</title>
 <link>https://status.paloaltonetworks.com/incidents/0v577ry5xtsj</link>
 <guid>https://status.paloaltonetworks.com/incidents/0v577ry5xtsj</guid>
 <content:encoded><![CDATA[
-<div> [High] - Configuration Change Causing Prisma Access License Entitlement Issue <br><br> On Feb 17, 2024, a configuration change to the license entitlement for MU from 90 days to 30 days across all Prisma Access customers led to an incompatibility with some Strata Cloud Manager managed tenants. This resulted in a zero unique user count within the Managed and workflow pages. The Prisma Access Engineering and SRE teams are actively working to resolve this issue for affected customers. Next update expected by Feb 29, 2024, 11 PM UTC. <div>
+<div> [High] - Configuration Change Causing Prisma Access License Entitlement Issue <br /><br /> On Feb 17, 2024, a configuration change to the license entitlement for MU from 90 days to 30 days across all Prisma Access customers led to an incompatibility with some Strata Cloud Manager managed tenants. This resulted in a zero unique user count within the Managed and workflow pages. The Prisma Access Engineering and SRE teams are actively working to resolve this issue for affected customers. Next update expected by Feb 29, 2024, 11 PM UTC. <div>
 <p><small>Feb <var>29</var>, <var>18:34</var> UTC</small><br /><strong>Identified</strong> - On the weekend of Feb 17 2024, license entitlement for MU was changed from 90 days to 30 days across all the Prisma Access customers. This change caused incompatibility with some of the Strata Cloud Manager managed tenants, resulting in the 90 day unique user count within the Managed pages and the workflow pages to reflect a zero value.<br /><br />The Prisma Access Engineering team and the SRE team are working towards addressing this issue for the affected customers. The next update will be shared by Feb 29 2024, 11 PM UTC.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 18:35:04 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 18:35:04 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Japan Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/xdww0kfpzyln</link>

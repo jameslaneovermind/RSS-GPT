@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Service Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/ym01wpfvdpvn</link>
+<guid>https://status.equinix.com/incidents/ym01wpfvdpvn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric, Equinix Internet Access, and Metro Connect Outage <br><br> Dark fiber link between MA1 and MA3 and MA4 went down, causing Equinix Fabric Metro Remote port to experience service interruption and 50ms switching hit for Protected Metro Connect circuits. Equinix engineers are investigating the issue. 
+
+ <div>
+<p><small>Feb <var>29</var>, <var>19:23</var> UTC</small><br /><strong>Update</strong> - DF LINK DOWN/FLAP<br />Dark fiber link between  MA1 and MA3 and MA4 went down <br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">5k4h4xh519wg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030345</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MA); Equinix Internet Access / Equinix Connect - EMEA (MA); Metro Connect - EMEA (MA)]</div></p><p><small>Feb <var>29</var>, <var>19:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5k4h4xh519wg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030345</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MA); Equinix Internet Access / Equinix Connect - EMEA (MA); Metro Connect - EMEA (MA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 19:23:10 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 19:23:10 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/ltz8fdjdln7d</link>
+<guid>https://status.equinix.com/incidents/ltz8fdjdln7d</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Platform Outage <br><br> We have identified an issue and are currently implementing a fix to address it. Incidents like these can have a significant impact on our operations and we are working diligently to resolve the issue. Summary: The issue has been identified and a fix is being implemented. <div>
+<p><small>Feb <var>29</var>, <var>19:23</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ctcjn1yw38w0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030346</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (MA)]</div></p><p><small>Feb <var>29</var>, <var>19:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ctcjn1yw38w0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030346</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (MA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 19:23:48 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 19:23:48 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
