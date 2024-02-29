@@ -4,6 +4,7 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+
 <item>
 <title>Insights</title>
 <link>https://status.circleci.com/incidents/rgw4mfm7l654</link>
@@ -14,9 +15,7 @@ Summary: The company is investigating slow page loads on the insights landing pa
 <p><small>Feb <var>29</var>, <var>16:35</var> UTC</small><br /><strong>Resolved</strong> - Insights pages have recovered and should be operating normally.</p><p><small>Feb <var>29</var>, <var>16:22</var> UTC</small><br /><strong>Investigating</strong> - We currently investigating an issue with slow page loads on the insights landing page.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 16:35:54 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 16:35:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Jobs via GitHub App integration are not being triggered</title>
 <link>https://status.circleci.com/incidents/122qz8p3r2rh</link>
