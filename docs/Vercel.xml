@@ -4,18 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>GitHub webhook intermittent outage</title>
 <link>https://www.vercel-status.com/incidents/lys7p9x86gh7</link>
 <guid>https://www.vercel-status.com/incidents/lys7p9x86gh7</guid>
 <content:encoded><![CDATA[
-<div> [High] - GitHub Degradation <br><br> GitHub is currently experiencing degradation, causing delays in new deployments triggered from GitHub commits. This may impact a large number of users and is likely caused by a configuration change or issue within the GitHub platform. Summary: Investigating ongoing GitHub degradation, leading to delays in new deployments. <div>
+<div> [High] - GitHub Degradation <br /><br /> GitHub is currently experiencing degradation, causing delays in new deployments triggered from GitHub commits. This may impact a large number of users and is likely caused by a configuration change or issue within the GitHub platform. Summary: Investigating ongoing GitHub degradation, leading to delays in new deployments. <div>
 <p><small>Feb <var>29</var>, <var>11:44</var> UTC</small><br /><strong>Investigating</strong> - GitHub is degraded. New deployments triggered from GitHub commits are delayed until the GitHub incident¹ is resolved.<br />You can still create deployments using the Vercel dashboard² or the Vercel CLI.<br />¹: https://www.githubstatus.com/incidents/5lc3f39mjcq8<br />²: https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 11:44:38 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 11:44:38 +0000</pubDate>
 </item>
-
 <item>
 <title>Elevated Build Queue Times</title>
 <link>https://www.vercel-status.com/incidents/s8d0zc1j7c7x</link>
