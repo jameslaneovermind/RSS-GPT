@@ -4,6 +4,18 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+<item>
+<title>eCom storefront unavailible</title>
+<link>https://status.lightspeedhq.com/incidents/s48nrg8th1pk</link>
+<guid>https://status.lightspeedhq.com/incidents/s48nrg8th1pk</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage
+Summary: An incident has been identified and a fix has been implemented following a large-scale outage caused by a configuration change to the system. Monitoring of the results is currently ongoing. <div>
+<p><small>Feb <var>29</var>, <var>08:52</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>08:36</var> EST</small><br /><strong>Monitoring</strong> - The issue has been identified and a fix has been implemented. We are monitoring the results.</p><p><small>Feb <var>29</var>, <var>08:23</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 08:52:23 -0500</pubDate>
+<pubDate>Thu, 29 Feb 2024 08:52:23 -0500</pubDate>
+</item>
 
 <item>
 <title>Lightspeed Retail (X-Series) - New products not showing in Catalog/Sell screen</title>
