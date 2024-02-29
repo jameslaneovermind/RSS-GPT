@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/q04fw2w15tgh</link>
+<guid>https://status.equinix.com/incidents/q04fw2w15tgh</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Equinix Internet Access / Equinix Connect Outage
+Summary: We are currently investigating an issue with Equinix Internet Access / Equinix Connect - EMEA (AM) and will provide updates as we have more information. <div>
+<p><small>Feb <var>29</var>, <var>01:28</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9vt6bhdnlhzr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030249</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 01:28:36 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 01:28:36 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/d8r64ygy7bmp</link>
+<guid>https://status.equinix.com/incidents/d8r64ygy7bmp</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Metro Connect Outage <br><br> A major incident has been identified and a fix is currently being implemented for the Metro Connect outage in the Americas (LA) region.
+ <div>
+<p><small>Feb <var>29</var>, <var>01:22</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">rbzfv9p7k3qn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030248</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (LA)]</div></p><p><small>Feb <var>29</var>, <var>01:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">rbzfv9p7k3qn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030248</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (LA)]</div></p><p><small>Feb <var>29</var>, <var>00:47</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">rbzfv9p7k3qn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030248</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (LA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 01:22:48 +0000</pubDate>
+<pubDate>Thu, 29 Feb 2024 01:22:48 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Metro Connect, Equinix Fabric)</title>
