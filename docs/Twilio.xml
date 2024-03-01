@@ -4,6 +4,63 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/4bck3yhdtlgt</link>
+<guid>https://status.twilio.com/incidents/4bck3yhdtlgt</guid>
+<content:encoded><![CDATA[
+<div> [High] - AT&T Network Maintenance
+Summary: AT&T network will undergo planned maintenance from March 7th, 19:00 PST to March 8th, 04:00 PST. During this time, intermittent delays in SMS delivery to and from AT&T US handsets via US short codes may occur. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>19:00</var> PST &nbsp;-&nbsp; Mar <var>8</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>29</var>, <var>22:55</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 07 March 2024 at 19:00 PST until 08 March 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T United States handsets via US short codes</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Thu, 07 Mar 2024 19:00:00 -0800</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/ykzs2wsdkr1c</link>
+<guid>https://status.twilio.com/incidents/ykzs2wsdkr1c</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - AT&T Network Planned Maintenance
+Summary: AT&T network in the US will undergo planned maintenance from March 6, 2024, at 19:00 PST to March 7, 2024, at 04:00 PST. Intermittent delays in SMS delivery to and from AT&T United States handsets via US short codes may occur during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>19:00</var> PST &nbsp;-&nbsp; Mar <var>7</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>29</var>, <var>22:54</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 06 March 2024 at 19:00 PST until 07 March 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T United States handsets via US short codes</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Wed, 06 Mar 2024 19:00:00 -0800</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/9x8s6nssmm6k</link>
+<guid>https://status.twilio.com/incidents/9x8s6nssmm6k</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Maintenance for AT&T Network <br><br> The AT&T network in the US will undergo planned maintenance from March 5th, 19:00 PST to March 6th, 04:00 PST. There may be intermittent delays in delivering SMS to and from AT&T United States handsets via US short codes during this period. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>19:00</var> PST &nbsp;-&nbsp; Mar <var>6</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>29</var>, <var>22:53</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 05 March 2024 at 19:00 PST until 06 March 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T United States handsets via US short codes</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 19:00:00 -0800</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/rmj6rngx7ym8</link>
+<guid>https://status.twilio.com/incidents/rmj6rngx7ym8</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>19:00</var> PST &nbsp;-&nbsp; Mar <var>5</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>29</var>, <var>22:52</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 04 March 2024 at 19:00 PST until 05 March 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T United States handsets via US short codes</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 19:00:00 -0800</pubDate>
+</item>
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/s6yscvfj39rt</link>
+<guid>https://status.twilio.com/incidents/s6yscvfj39rt</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>3</var>, <var>19:00</var> PST &nbsp;-&nbsp; Mar <var>4</var>, <var>04:00</var> PST</strong></p><p><small>Feb <var>29</var>, <var>22:47</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 03 March 2024 at 19:00 PST until 04 March 2024 at 04:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T United States handsets via US short codes</p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Sun, 03 Mar 2024 19:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>SMS Delivery Receipt Delay to Verizon Network in United States Over a Subset of Short Code &amp; Toll Free</title>
