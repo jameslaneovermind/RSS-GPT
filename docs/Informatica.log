@@ -1381,3 +1381,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Upcoming Maintenance patch for CDGC on AP SouthEast 2 Azure Services AP NorthEast 1 Azure Services & EM SouthEast 1 Azure Services](https://status.informatica.com/incidents/0007g4f9csyf)
 append_entries: 1
 Finish: 2024-03-01 13:08:34.137618
+------------------------------------------------------
+Started: 2024-03-01 14:07:55.054677
+Existing_entries: 45
+Fetching from https://status.informatica.com/history.rss
+Token length: 725
+Summarized using GPT-3.5-turbo-1106
+Append: [Upcoming Maintenance patch for CDGC on US West 1 Azure Services, US West 3 Azure Services,  Canada Central 1 Services, Canada Central 1 Azure Services](https://status.informatica.com/incidents/skc7sz41hg1t)
+append_entries: 1
+Finish: 2024-03-01 14:07:56.279337

@@ -4,18 +4,17 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>Jamf ID Upgrade</title>
 <link>https://status.jamf.com/incidents/qw6v59d4384g</link>
 <guid>https://status.jamf.com/incidents/qw6v59d4384g</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Jamf ID Security Enhancements and User Sign-ups Disabled <br><br> On March 1-2, Jamf ID is receiving improvements and security enhancements. New user sign-ups will be disabled during this time. Note: Once this update is complete, all Jamf ID users must reset their passwords. Summary: Jamf ID is undergoing security enhancements, causing new user sign-ups to be disabled temporarily. All existing users will need to reset their passwords after the update. <div>
+<div> [Medium] - Jamf ID Security Enhancements and User Sign-ups Disabled <br /><br /> On March 1-2, Jamf ID is receiving improvements and security enhancements. New user sign-ups will be disabled during this time. Note: Once this update is complete, all Jamf ID users must reset their passwords. Summary: Jamf ID is undergoing security enhancements, causing new user sign-ups to be disabled temporarily. All existing users will need to reset their passwords after the update. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>2</var>, <var>20:00</var> UTC</strong></p><p><small>Mar <var> 1</var>, <var>12:58</var> UTC</small><br /><strong>Scheduled</strong> - On March 1-2, Jamf ID is receiving improvements and security enhancements. New user sign-ups will be disabled during this time; however, existing users can continue to log-in.  <br /><br />Note: Once this update is complete, all Jamf ID users must reset their passwords.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 20:00:00 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 20:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Jamf ID Upgrade</title>
 <link>https://status.jamf.com/incidents/822bvxxwn5kh</link>
