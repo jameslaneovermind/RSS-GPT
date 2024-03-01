@@ -1312,3 +1312,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Identity report with increased TaT for USA jurisdiction](https://status.onfido.com/incidents/lm268nk2z11l)
 append_entries: 1
 Finish: 2024-03-01 11:07:51.258363
+------------------------------------------------------
+Started: 2024-03-01 12:15:20.314769
+Existing_entries: 26
+Fetching from https://status.onfido.com/history.rss
+append_entries: 0
+Finish: 2024-03-01 12:15:20.593514

@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/72f51xcd6kdn</link>
+<guid>https://status.equinix.com/incidents/72f51xcd6kdn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on Equinix Fabric EMEA (IL, SO)
+Summary:
+The issue has been identified, and a fix is being implemented for the incident number INC0030450. <div>
+<p><small>Mar <var> 1</var>, <var>11:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">czdtmywfjqrr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030450</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p><p><small>Mar <var> 1</var>, <var>11:16</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">czdtmywfjqrr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030450</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 11:29:46 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 11:29:46 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>

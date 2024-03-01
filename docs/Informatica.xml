@@ -4,6 +4,21 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming Maintenance patch for CDGC on CDGC Azure Germany, CDGC UK, CDGC EMEA</title>
+<link>https://status.informatica.com/incidents/br2fm48865v8</link>
+<guid>https://status.informatica.com/incidents/br2fm48865v8</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Informatica Cloud Operations Patch Deployment
+Summary: Informatica Cloud Operations is deploying a patch to resolve several issues within CDGC, including unresponsiveness of the CDGC page, optimization for fetching users and groups, failure of Azure/MDX Serverless Scans, and issues with bulk promotions. No downtime is expected during this deployment.
+
+[Low] - Informatica Cloud Operations Regular Maintenance
+Summary: Informatica Cloud Operations is currently undergoing scheduled maintenance. Updates will be provided as necessary. <div>
+<p><small>Mar <var> 1</var>, <var>04:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 1</var>, <var>03:36</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will roll out a patch to resolve the following CDGC issues. This deployment will have Zero Downtime, ensuring that running jobs and services remain unaffected:<br /><br />1) The CDGC page becomes unresponsive when clicking on the search bar.<br />2) Optimizations are required for fetching users and groups within CDGC apps, especially for organizations with a large number of users and groups.<br />3) Azure/MDX Serverless Scans are currently failing due to a logback exception.<br />4) After performing a bulk promotion using Bulk-import, the expected relationship is not formed.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 04:00:56 -0800</pubDate>
+<pubDate>Fri, 01 Mar 2024 04:00:56 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming maintenance patch for Advance Integration.</title>

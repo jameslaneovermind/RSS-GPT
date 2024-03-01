@@ -4,6 +4,7 @@
 <title>Onfido Status - Incident History</title>
 <link>https://status.onfido.com</link>
 
+
 <item>
 <title>Identity report with increased TaT for USA jurisdiction</title>
 <link>https://status.onfido.com/incidents/lm268nk2z11l</link>
@@ -20,9 +21,7 @@ Summary: The incident has been resolved. <div>
 <p><small>Mar <var> 1</var>, <var>10:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 1</var>, <var>10:24</var> UTC</small><br /><strong>Monitoring</strong> - Found the root cause. TaT are back to normal.</p><p><small>Mar <var> 1</var>, <var>10:16</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating the issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 10:42:24 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 10:42:24 +0000</pubDate>
 </item>
-
 <item>
 <title>Delays in check processing</title>
 <link>https://status.onfido.com/incidents/0rnr5t768tpb</link>
