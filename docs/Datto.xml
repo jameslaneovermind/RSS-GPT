@@ -4,18 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto RMM - Syrah, Zinfandel - Isolated issue with Grouped Filters following the 12.8.0 Release</title>
 <link>https://status.datto.com/incidents/s1l1wzj697bm</link>
 <guid>https://status.datto.com/incidents/s1l1wzj697bm</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Configuration Change Causing Unintended Side Effect on Filters <br><br> The recent configuration change to resolve an issue with Grouped Filters has caused an unintended side effect on Filters already in place for certain platforms. This affected the 12.8.0 version of Datto RMM in specific regions. The R&D Team has reverted the change and will address the original issue in the future. We apologize for any inconvenience. Summary: A configuration change intended to resolve an issue with Grouped Filters caused unintended side effects on existing filters in certain regions using the 12.8.0 version of Datto RMM. The change has since been reverted, and the original issue will be addressed in the future. We apologize for any inconvenience. <div>
+<div> [Medium] - Configuration Change Causing Unintended Side Effect on Filters <br /><br /> The recent configuration change to resolve an issue with Grouped Filters has caused an unintended side effect on Filters already in place for certain platforms. This affected the 12.8.0 version of Datto RMM in specific regions. The R&amp;D Team has reverted the change and will address the original issue in the future. We apologize for any inconvenience. Summary: A configuration change intended to resolve an issue with Grouped Filters caused unintended side effects on existing filters in certain regions using the 12.8.0 version of Datto RMM. The change has since been reverted, and the original issue will be addressed in the future. We apologize for any inconvenience. <div>
 <p><small>Mar <var> 1</var>, <var>19:12</var> UTC</small><br /><strong>Resolved</strong> - We have been made aware that a change intended to resolve an issue with Grouped Filters had an unintended side effect on Filters already in place using certain criteria on platforms currently on the 12.8.0 version of Datto RMM (Zinfandel - US West and Syrah - APAC regions). <br /><br />The R&amp;D Team has reverted this change and will look to address the original issue in the future.<br /><br />We sincerely apologise for any inconvenience</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 19:12:27 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 19:12:27 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto RMM - Zinfandel - Intermittent Page Loading Failures</title>
 <link>https://status.datto.com/incidents/th5y4f1jcql0</link>

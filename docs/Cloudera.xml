@@ -4,6 +4,19 @@
 <title>Cloudera Status - Incident History</title>
 <link>https://status.cloudera.com</link>
 
+<item>
+<title>DWX - degraded performance</title>
+<link>https://status.cloudera.com/incidents/jdy0zb27q49w</link>
+<guid>https://status.cloudera.com/incidents/jdy0zb27q49w</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Application Performance Degradation
+Summary: The company has identified degraded application performance and is currently mitigating the issue, indicating a major outage affecting the platform.
+ <div>
+<p><small>Mar <var> 1</var>, <var>20:52</var> UTC</small><br /><strong>Identified</strong> - We noted degraded application performance and are mitigating the issue right now .</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 20:52:16 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 20:52:16 +0000</pubDate>
+</item>
 
 <item>
 <title>CML/CDE/CDF cluster upgrade</title>
