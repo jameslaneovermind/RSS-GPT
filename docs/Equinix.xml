@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/f5f8xnpsbvy5</link>
 <guid>https://status.equinix.com/incidents/f5f8xnpsbvy5</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident in Equinix Internet Access/Connect APAC (SG) <br><br> A fix is being implemented for the identified issue that caused the outage.
+<div> [High] - Major Incident in Equinix Internet Access/Connect APAC (SG) <br /><br /> A fix is being implemented for the identified issue that caused the outage.
 
 Note: Given the nature of the incident, the status update is tagged as 'High' due to the scale and impact of the outage. <div>
 <p><small>Mar <var> 1</var>, <var>09:54</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">d6nswqlrb5h3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028492</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SG)]</div></p><p><small>Feb <var>11</var>, <var>02:15</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">d6nswqlrb5h3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028492</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SG)]</div></p><p><small>Feb <var>11</var>, <var>02:03</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">d6nswqlrb5h3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028492</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SG)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 09:54:29 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 09:54:29 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/04h898znyvw2</link>
