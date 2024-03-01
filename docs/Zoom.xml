@@ -4,18 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Issue with recordings for Zoom Phone</title>
 <link>https://status.zoom.us/incidents/prwd5qj7nj9k</link>
 <guid>https://status.zoom.us/incidents/prwd5qj7nj9k</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Intermittent Zoom Phone recording failures in South America and Asia Pacific <br><br> We are investigating an issue causing intermittent Zoom Phone recording failures for a subset of customers in South America and Asia Pacific. We will provide updates as we have them. <div>
+<div> [Medium] - Intermittent Zoom Phone recording failures in South America and Asia Pacific <br /><br /> We are investigating an issue causing intermittent Zoom Phone recording failures for a subset of customers in South America and Asia Pacific. We will provide updates as we have them. <div>
 <p><small>Feb <var>29</var>, <var>17:24</var> PST</small><br /><strong>Identified</strong> - We have identified the issue causing intermittent Zoom Phone recording failures for a subset of customers in South America and Asia Pacific.  We will continue to provide updates as we have them.</p><p><small>Feb <var>29</var>, <var>16:56</var> PST</small><br /><strong>Investigating</strong> - We are investigating an issue causing intermittent Zoom Phone recording failures for a subset of customers in South America and Asia Pacific.  We will provide updates as we have them.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 17:24:20 -0800</pubDate>
-<pubDate>Thu, 29 Feb 2024 17:24:20 -0800</pubDate>
 </item>
-
 <item>
 <title>São Paulo Zoom Phone Maintenance</title>
 <link>https://status.zoom.us/incidents/3spwlwc5035z</link>

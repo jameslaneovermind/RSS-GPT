@@ -5,14 +5,25 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Link Failure (Equinix Fabric, Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/kpb2drv19bcn</link>
+<guid>https://status.equinix.com/incidents/kpb2drv19bcn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage and Fix in Progress <br><br> We are currently implementing a fix for the identified issue with Equinix Fabric and Internet Exchange in the EMEA region. This indicates a major outage with platform downtime and a fix being implemented. <div>
+<p><small>Mar <var> 1</var>, <var>02:13</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">646tzzpb0mdj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030370</div><div class="affected-products font-small color-secondary">[Internet Exchange - EMEA (AM); Equinix Fabric - EMEA (AM)]</div></p><p><small>Mar <var> 1</var>, <var>01:58</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">646tzzpb0mdj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030370</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Internet Exchange - EMEA (AM)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 02:13:19 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 02:13:19 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/y2cpx49j74d4</link>
 <guid>https://status.equinix.com/incidents/y2cpx49j74d4</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Investigating Equinix Fabric and Network Edge Issue <br><br> We are currently investigating this issue affecting Equinix Fabric in the Asia-Pacific region and the Network Edge in Asia-Pacific. Incident Number: INC0030369. <div>
+<div> [Low] - Investigating Equinix Fabric and Network Edge Issue <br /><br /> We are currently investigating this issue affecting Equinix Fabric in the Asia-Pacific region and the Network Edge in Asia-Pacific. Incident Number: INC0030369. <div>
 <p><small>Mar <var> 1</var>, <var>01:44</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vzz00vtw2hpd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030369</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG); Network Edge - Asia-Pacific (SG)]</div></p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Mar 2024 01:44:21 +0000</pubDate>
 <pubDate>Fri, 01 Mar 2024 01:44:21 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +36,7 @@ Summary: A critical issue has been identified and a fix is being implemented for
 <p><small>Mar <var> 1</var>, <var>01:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">vlgbwbpp1fyg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030366</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p><p><small>Mar <var> 1</var>, <var>01:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vlgbwbpp1fyg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030366</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 01:31:18 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 01:31:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/rt4mf90k7m5z</link>
