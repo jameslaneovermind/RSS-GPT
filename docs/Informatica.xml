@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming maintenance patch for Advance Integration.</title>
+<link>https://status.informatica.com/incidents/dwvn27n7tr0s</link>
+<guid>https://status.informatica.com/incidents/dwvn27n7tr0s</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance - Applying maintenance patch for WES services resiliency during profiling jobs. <br><br> Summary: Maintenance patch is being applied to address WES services resiliency while running profiling jobs. No impact to Task executions is expected. <div>
+<p><small>Mar <var> 1</var>, <var>01:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 1</var>, <var>01:29</var> PST</small><br /><strong>Scheduled</strong> - We are applying maintenance patch. This is a zero down time update and there should be no impact to Task executions. This fix is to address WES services resiliency while running profiling jobs.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 01:30:56 -0800</pubDate>
+<pubDate>Fri, 01 Mar 2024 01:30:56 -0800</pubDate>
+</item>
 
 <item>
 <title>Opsinsight external SSL certificate for AP NorthEast 2 Services, US West 1 GCP Services</title>
