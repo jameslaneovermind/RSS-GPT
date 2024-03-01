@@ -4,6 +4,19 @@
 <title>Spreedly Status - Incident History</title>
 <link>https://status.spreedly.com</link>
 
+<item>
+<title>Braintree 3DS Challenge Flow Issues</title>
+<link>https://status.spreedly.com/incidents/vrf72cr36xwt</link>
+<guid>https://status.spreedly.com/incidents/vrf72cr36xwt</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - 3DS Transaction Pending Issue
+Summary: 
+Since 2024-02-29 11:02 am EST, some Braintree 3DS transactions in the challenge flow are remaining in a pending state. The team is actively working on a solution. <div>
+<p><small>Mar <var> 1</var>, <var>11:58</var> EST</small><br /><strong>Resolved</strong> - After careful monitoring, we consider this incident resolved.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Mar <var> 1</var>, <var>11:14</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var> 1</var>, <var>11:11</var> EST</small><br /><strong>Identified</strong> - Since 2024-02-29 11:02 am EST, we have identified an issue causing some Braintree 3DS transactions in the challenge flow to remain in a pending state. <br /><br />Our team is actively working towards a solution. We value your patience as we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 11:58:05 -0500</pubDate>
+<pubDate>Fri, 01 Mar 2024 11:58:05 -0500</pubDate>
+</item>
 
 <item>
 <title>Apple Pay Vantiv Errors</title>

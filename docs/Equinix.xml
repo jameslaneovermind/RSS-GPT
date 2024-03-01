@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/nwwrsfl0gcfg</link>
 <guid>https://status.equinix.com/incidents/nwwrsfl0gcfg</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Equinix Fabric EMEA (IL, ML) <br><br> A fix is currently being implemented for the identified issue with Incident Number INC0030494. This indicates a major outage with platform downtime caused by a configuration change. <div>
+<div> [High] - Major Outage in Equinix Fabric EMEA (IL, ML) <br /><br /> A fix is currently being implemented for the identified issue with Incident Number INC0030494. This indicates a major outage with platform downtime caused by a configuration change. <div>
 <p><small>Mar <var> 1</var>, <var>15:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">3tx59sl8z0zh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030494</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML)]</div></p><p><small>Mar <var> 1</var>, <var>15:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">3tx59sl8z0zh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030494</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, ML)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 15:51:23 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 15:51:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/72f51xcd6kdn</link>
