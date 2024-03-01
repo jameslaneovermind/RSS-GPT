@@ -4,6 +4,19 @@
 <title>Spreedly Status - Incident History</title>
 <link>https://status.spreedly.com</link>
 
+<item>
+<title>Apple Pay Vantiv Errors</title>
+<link>https://status.spreedly.com/incidents/ygb1s7tlm2wz</link>
+<guid>https://status.spreedly.com/incidents/ygb1s7tlm2wz</guid>
+<content:encoded><![CDATA[
+<div> [Low] - ApplePay Transactions Issue Identified
+Summary:
+An issue with ApplePay transactions through the Vantiv integration has been identified, causing some transactions to fail. The team is actively working on a solution and will provide updates on the progress. <div>
+<p><small>Feb <var>29</var>, <var>21:51</var> EST</small><br /><strong>Resolved</strong> - After closely monitoring our ApplePay integration through Vantiv and confirming that all systems are stabilized and functioning as expected, this incident is considered resolved. No further customer impact is expected.<br /><br />We are completing our investigation with regard to the causes of the incident and any residual impact. A post-mortem review will be published.<br /><br />We apologize for any inconvenience or disruption.</p><p><small>Feb <var>29</var>, <var>21:35</var> EST</small><br /><strong>Monitoring</strong> - We experienced an issue causing some transactions that use ApplePay through the Vantiv integration to fail. Once identified, we immediately began working on a resolution. We’ve implemented a fix and stabilized the integration, and our team is monitoring the situation closely to ensure no additional impacts. <br /><br />Please reach out to our Support team if you need any additional help.</p><p><small>Feb <var>29</var>, <var>21:22</var> EST</small><br /><strong>Identified</strong> - Since 2024-02-29 11:32 am ET this morning, an issue has been detected, causing some transactions that use ApplePay through the Vantiv integration to fail. Other service degradation may be related.<br /> <br />Our team is actively working towards a solution to rectify the problem, and we will keep you updated on any progress made in resolving the matter. We value your patience as we work to resolve this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 29 Feb 2024 21:51:04 -0500</pubDate>
+<pubDate>Thu, 29 Feb 2024 21:51:04 -0500</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance: Database Cluster Version Upgrade</title>
