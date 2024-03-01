@@ -5,6 +5,19 @@
 <link>https://status.informatica.com</link>
 
 <item>
+<title>Upcoming Maintenance patch for CDGC on AP SouthEast 2 Azure Services AP NorthEast 1 Azure Services &amp; EM SouthEast 1 Azure Services</title>
+<link>https://status.informatica.com/incidents/0007g4f9csyf</link>
+<guid>https://status.informatica.com/incidents/0007g4f9csyf</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Informatica Cloud Operations
+Summary: Informatica Cloud Operations will roll out a patch to resolve various issues with CDGC, ensuring that running jobs and services remain unaffected. No action is needed, and the deployment will have zero downtime. <div>
+<p><small>Mar <var> 1</var>, <var>04:26</var> PST</small><br /><strong>Completed</strong> - The scheduled maintenance has been completed.</p><p><small>Feb <var>29</var>, <var>23:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Feb <var>29</var>, <var>23:16</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will roll out a patch to resolve the following CDGC issues. This deployment will have Zero Downtime, ensuring that running jobs and services remain unaffected:<br /><br />1) The CDGC page becomes unresponsive when clicking on the search bar.<br />2) Optimizations are required for fetching users and groups within CDGC apps, especially for organizations with a large number of users and groups.<br />3) Azure/MDX Serverless Scans are currently failing due to a logback exception.<br />4) After performing a bulk promotion using Bulk-import, the expected relationship is not formed.<br /><br /> <br /><br />Action Needed: None</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 04:26:11 -0800</pubDate>
+<pubDate>Fri, 01 Mar 2024 04:26:11 -0800</pubDate>
+</item>
+
+<item>
 <title>Upcoming Maintenance patch for CDGC on CDGC Azure Germany, CDGC UK, CDGC EMEA</title>
 <link>https://status.informatica.com/incidents/br2fm48865v8</link>
 <guid>https://status.informatica.com/incidents/br2fm48865v8</guid>
@@ -17,9 +30,7 @@ Summary: Informatica Cloud Operations is currently undergoing scheduled maintena
 <p><small>Mar <var> 1</var>, <var>04:00</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 1</var>, <var>03:36</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will roll out a patch to resolve the following CDGC issues. This deployment will have Zero Downtime, ensuring that running jobs and services remain unaffected:<br /><br />1) The CDGC page becomes unresponsive when clicking on the search bar.<br />2) Optimizations are required for fetching users and groups within CDGC apps, especially for organizations with a large number of users and groups.<br />3) Azure/MDX Serverless Scans are currently failing due to a logback exception.<br />4) After performing a bulk promotion using Bulk-import, the expected relationship is not formed.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 04:00:56 -0800</pubDate>
-<pubDate>Fri, 01 Mar 2024 04:00:56 -0800</pubDate>
 </item>
-
 <item>
 <title>Upcoming maintenance patch for Advance Integration.</title>
 <link>https://status.informatica.com/incidents/dwvn27n7tr0s</link>
