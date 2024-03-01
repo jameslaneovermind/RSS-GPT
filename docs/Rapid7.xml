@@ -4,20 +4,19 @@
 <title>Rapid7 Status - Incident History</title>
 <link>https://status.rapid7.com</link>
 
+
 <item>
 <title>Insight Platform Login degradation</title>
 <link>https://status.rapid7.com/incidents/ms2dr56nmrqs</link>
 <guid>https://status.rapid7.com/incidents/ms2dr56nmrqs</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> Customers are unable to load the Rapid7 Insights Platform. Incident has been identified and engineering team is working on applying the necessary fixes.
+<div> [High] - Major Platform Outage <br /><br /> Customers are unable to load the Rapid7 Insights Platform. Incident has been identified and engineering team is working on applying the necessary fixes.
 
  <div>
 <p><small>Feb <var>29</var>, <var>23:46</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Feb <var>29</var>, <var>23:24</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and our Engineering team is working on applying the necessary fixes</p><p><small>Feb <var>29</var>, <var>23:14</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of customers not being able to load the Rapid7 Insights Platform.</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 23:46:57 +0000</pubDate>
-<pubDate>Thu, 29 Feb 2024 23:46:57 +0000</pubDate>
 </item>
-
 <item>
 <title>InsightVM [AP-Southeast-2] - Scheduled Maintenance</title>
 <link>https://status.rapid7.com/incidents/nd220xkk1xhk</link>
