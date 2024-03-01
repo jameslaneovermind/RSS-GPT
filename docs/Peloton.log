@@ -1106,3 +1106,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Refurb and Bike Plus Pricing Issues](https://status.onepeloton.com/incidents/ck4qbwq5md27)
 append_entries: 1
 Finish: 2024-03-01 15:09:54.518340
+------------------------------------------------------
+Started: 2024-03-01 16:11:06.090247
+Existing_entries: 28
+Fetching from https://status.onepeloton.com/history.rss
+Token length: 193
+Summarized using GPT-3.5-turbo-1106
+Append: [Subset of members unable to schedule deliveries](https://status.onepeloton.com/incidents/fklqfc8gtb5t)
+append_entries: 1
+Finish: 2024-03-01 16:11:07.442957

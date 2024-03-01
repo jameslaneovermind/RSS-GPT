@@ -4,18 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>GitHub Deployment and API Errors</title>
 <link>https://www.vercel-status.com/incidents/8mh1wk6fcx7z</link>
 <guid>https://www.vercel-status.com/incidents/8mh1wk6fcx7z</guid>
 <content:encoded><![CDATA[
-<div> [High] - GitHub Degradation Incident <br><br> GitHub is experiencing a major degradation, causing delays in new deployments triggered from GitHub commits. Users are encouraged to utilize Vercel's dashboard or CLI for creating deployments until the issue is resolved. <div>
+<div> [High] - GitHub Degradation Incident <br /><br /> GitHub is experiencing a major degradation, causing delays in new deployments triggered from GitHub commits. Users are encouraged to utilize Vercel's dashboard or CLI for creating deployments until the issue is resolved. <div>
 <p><small>Mar <var> 1</var>, <var>14:54</var> UTC</small><br /><strong>Investigating</strong> - GitHub is degraded. New deployments triggered from GitHub commits are delayed until the GitHub incident¹ is resolved.<br />You can still create deployments using the Vercel dashboard² or the Vercel CLI.<br />¹: https://www.githubstatus.com/incidents/wcl1sw4mzg60<br />²: https://vercel.com/docs/deployments/git#creating-a-deployment-from-a-git-reference</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 14:54:05 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 14:54:05 +0000</pubDate>
 </item>
-
 <item>
 <title>GitHub webhook intermittent outage</title>
 <link>https://www.vercel-status.com/incidents/lys7p9x86gh7</link>

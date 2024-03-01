@@ -5,17 +5,30 @@
 <link>https://status.onepeloton.com</link>
 
 <item>
+<title>Subset of members unable to schedule deliveries</title>
+<link>https://status.onepeloton.com/incidents/fklqfc8gtb5t</link>
+<guid>https://status.onepeloton.com/incidents/fklqfc8gtb5t</guid>
+<content:encoded><![CDATA[
+<div> [High] - JBHunt Internal Portal Outage <br><br> 
+The JBHunt internal portal is displaying an outage banner, indicating a major system downtime. The issue seems to be on the JBHunt side and is currently being investigated.
+
+ <div>
+<p><small>Mar <var> 1</var>, <var>10:52</var> EST</small><br /><strong>Update</strong> - The issue seems to be on the JBHunt side as their internal portal displays an outage banner.</p><p><small>Mar <var> 1</var>, <var>10:11</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 10:52:01 -0500</pubDate>
+<pubDate>Fri, 01 Mar 2024 10:52:01 -0500</pubDate>
+</item>
+
+<item>
 <title>Refurb and Bike Plus Pricing Issues</title>
 <link>https://status.onepeloton.com/incidents/ck4qbwq5md27</link>
 <guid>https://status.onepeloton.com/incidents/ck4qbwq5md27</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigation of Major Issue <br><br> Summary: The company is currently investigating a major issue impacting the system. <div>
+<div> [High] - Investigation of Major Issue <br /><br /> Summary: The company is currently investigating a major issue impacting the system. <div>
 <p><small>Mar <var> 1</var>, <var>09:36</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 09:53:10 -0500</pubDate>
-<pubDate>Fri, 01 Mar 2024 09:53:10 -0500</pubDate>
 </item>
-
 <item>
 <title>New Member &amp; Profile Management Issues</title>
 <link>https://status.onepeloton.com/incidents/pjxj4fkxrmyc</link>

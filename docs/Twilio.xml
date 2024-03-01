@@ -4,6 +4,29 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Russia SMS Carrier Maintenance - Beeline</title>
+<link>https://status.twilio.com/incidents/nsxbyl2lzl2p</link>
+<guid>https://status.twilio.com/incidents/nsxbyl2lzl2p</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Beeline Network in Russia <br><br> The Beeline network in Russia will undergo planned maintenance from 05 March 2024 at 13:00 PST until 05 March 2024 at 16:00 PST. During this time, there could be intermittent delays in delivering SMS to Beeline Russia handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>13:00</var> - <var>16:00</var> PST</strong></p><p><small>Mar <var> 1</var>, <var>07:26</var> PST</small><br /><strong>Scheduled</strong> - The Beeline network in Russia is conducting a planned maintenance from 05 March 2024 at 13:00 PST until 05 March 2024 at 16:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Beeline Russia handsets.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 13:00:00 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 13:00:00 -0800</pubDate>
+</item>
+<item>
+<title>Chile SMS Carrier Maintenance - Entel</title>
+<link>https://status.twilio.com/incidents/pp2yc3dzy7nv</link>
+<guid>https://status.twilio.com/incidents/pp2yc3dzy7nv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Entel Network in Chile
+Summary: Entel network in Chile is conducting a planned maintenance on 04 March 2024 from 19:00 to 22:00 PST. There may be intermittent delays delivering SMS during the maintenance window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>19:00</var> - <var>22:00</var> PST</strong></p><p><small>Mar <var> 1</var>, <var>07:14</var> PST</small><br /><strong>Scheduled</strong> - The Entel network in Chile is conducting a planned maintenance from 04 March 2024 at 19:00 PST until 04 March 2024 at 22:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Entel Chile handsets.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 19:00:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 19:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Partner Maintenance</title>
