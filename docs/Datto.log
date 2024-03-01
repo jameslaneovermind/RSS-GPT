@@ -1151,3 +1151,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Datto RMM - Zinfandel - Intermittent Page Loading Failures](https://status.datto.com/incidents/th5y4f1jcql0)
 append_entries: 1
 Finish: 2024-03-01 19:08:34.701427
+------------------------------------------------------
+Started: 2024-03-01 20:10:16.987838
+Existing_entries: 35
+Fetching from https://status.datto.com/history.rss
+Token length: 443
+Summarized using GPT-3.5-turbo-1106
+Append: [Datto RMM - Syrah, Zinfandel - Isolated issue with Grouped Filters following the 12.8.0 Release](https://status.datto.com/incidents/s1l1wzj697bm)
+append_entries: 1
+Finish: 2024-03-01 20:10:19.019054
