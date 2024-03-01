@@ -4,18 +4,17 @@
 <title>Box Status - Incident History</title>
 <link>https://status.box.com</link>
 
+
 <item>
 <title>[Major] Customers may experience issues with Logins, Uploads, and Box Sign</title>
 <link>https://status.box.com/incidents/xrrpvksv8lq7</link>
 <guid>https://status.box.com/incidents/xrrpvksv8lq7</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Disruption: Logins, Uploads, and Box Sign <br><br> Our team is currently investigating an issue affecting the login, upload, and Box Sign services. Users may experience errors or timeouts while attempting to use these services. We are actively working to resolve this issue and will provide updates as they become available. <div>
+<div> [High] - Major Service Disruption: Logins, Uploads, and Box Sign <br /><br /> Our team is currently investigating an issue affecting the login, upload, and Box Sign services. Users may experience errors or timeouts while attempting to use these services. We are actively working to resolve this issue and will provide updates as they become available. <div>
 <p><small>Mar <var> 1</var>, <var>14:05</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Logins, Uploads, and Box Sign. Users attempting to use these services may see errors or timeouts. We will provide additional information as it becomes available.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 14:05:32 -0800</pubDate>
-<pubDate>Fri, 01 Mar 2024 14:05:32 -0800</pubDate>
 </item>
-
 <item>
 <title>[Minor] Item Counts Not Updating</title>
 <link>https://status.box.com/incidents/bwwdlfwmp513</link>

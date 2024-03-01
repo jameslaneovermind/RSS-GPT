@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/qczs7r6y85rx</link>
 <guid>https://status.equinix.com/incidents/qczs7r6y85rx</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigation of Equinix Internet Access/Connect Issue in EMEA <br><br> We are currently investigating the issue with Equinix Internet Access and Connect in EMEA. Incident Number: INC0030508. <div>
+<div> [Medium] - Investigation of Equinix Internet Access/Connect Issue in EMEA <br /><br /> We are currently investigating the issue with Equinix Internet Access and Connect in EMEA. Incident Number: INC0030508. <div>
 <p><small>Mar <var> 1</var>, <var>21:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">bb0wb04wypbl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030508</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA); Metro Connect - EMEA (MA)]</div></p><p><small>Mar <var> 1</var>, <var>21:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bb0wb04wypbl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030508</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA); Metro Connect - EMEA (MA)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 21:39:17 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 21:39:17 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/nwwrsfl0gcfg</link>

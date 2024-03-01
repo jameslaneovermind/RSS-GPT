@@ -4,6 +4,18 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Investigating</title>
+<link>https://status.unity.com/incidents/187592</link>
+<guid>https://status.unity.com/incidents/187592</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Unity Docs Outage <br><br> We've identified an issue affecting some of our docs at docs.unity.com. We are investigating this now. Summary: The incident has caused a major outage on the Unity Docs website, impacting access to critical documentation for Unity users. <div>
+<p><strong>Major incident</strong> - Websites, Unity Docs</p><p><small>March  1, 2024 · 18:17 UTC</small><br /><strong>Issue</strong></p><p>
+We’ve identified an issue which is currently affecting some of our docs at docs.unity.com. We are investigating this now.</p>
+]]></content:encoded>
+<pubDate>Fri, 1 Mar 2024 22:13:07 +0000</pubDate>
+<pubDate>Fri, 1 Mar 2024 22:13:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Asset Manager Maintenance for Upgrade</title>
