@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Access is experiencing performance degradation in Turkey region</title>
+<link>https://status.paloaltonetworks.com/incidents/fq1pg1062d6w</link>
+<guid>https://status.paloaltonetworks.com/incidents/fq1pg1062d6w</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Degradation in Turkey Cloud Provider/ISP <br><br> We are experiencing service degradation within the cloud provider/ISP reportedly in Turkey that can potentially cause performance issues for certain Prisma Access customers within that region. We are currently looking into the impact and working very closely with the cloud provider to investigate it further. <div>
+<p><small>Mar <var> 1</var>, <var>14:09</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing service degradation within the cloud provider/ISP reportedly in Turkey that can potentially cause performance issues for certain Prisma Access customers within that region. <br />We are currently looking into the impact and working very closely with the cloud provider to investigate it further. The next update will be provided by March 1st 16:00 UTC</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 14:10:04 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 14:10:04 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud Scheduled Maintenance - app.fr</title>
