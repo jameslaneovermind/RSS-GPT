@@ -4,6 +4,43 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/04h898znyvw2</link>
+<guid>https://status.equinix.com/incidents/04h898znyvw2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on Equinix Fabric <br><br> We are currently investigating a critical issue with Equinix Fabric in the Americas. A fix is being implemented for the identified issue.
+
+ <div>
+<p><small>Mar <var> 1</var>, <var>08:53</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">vlcrjpylfw5z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030418</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p><p><small>Mar <var> 1</var>, <var>08:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vlcrjpylfw5z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030418</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 08:53:27 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 08:53:27 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/ntg5lnqznhcg</link>
+<guid>https://status.equinix.com/incidents/ntg5lnqznhcg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Impacting Equinix Fabric in EMEA (IL, SO) <br><br> We have identified the issue and a fix is currently being implemented for the outage incident on Equinix Fabric in the EMEA region. <div>
+<p><small>Mar <var> 1</var>, <var>08:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">xs71bk879dk2</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030419</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p><p><small>Mar <var> 1</var>, <var>08:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">xs71bk879dk2</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030419</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 08:52:54 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 08:52:54 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/mz1vxxvsw139</link>
+<guid>https://status.equinix.com/incidents/mz1vxxvsw139</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric EMEA (BA, MD) - Critical Issue Identified
+Summary:
+An issue with Equinix Fabric in the EMEA region has been identified, and a fix is being implemented, indicating a critical incident. <div>
+<p><small>Mar <var> 1</var>, <var>08:26</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">0dz7ygct7qq4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030414</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (BA, MD)]</div></p><p><small>Mar <var> 1</var>, <var>08:12</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">0dz7ygct7qq4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030414</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (BA, MD)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 08:26:09 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 08:26:09 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>

@@ -1574,3 +1574,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [US SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/l4f95m65531j)
 append_entries: 1
 Finish: 2024-03-01 08:11:02.517417
+------------------------------------------------------
+Started: 2024-03-01 09:10:29.335838
+Existing_entries: 114
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-03-01 09:10:29.456480
