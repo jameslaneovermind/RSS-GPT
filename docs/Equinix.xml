@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/q410lx7v9csb</link>
@@ -13,7 +14,6 @@
 Summary: We are currently investigating a critical issue with Equinix Fabric in the Americas region (DA, DC). Incident Number: INC0030405. <div>
 <p><small>Mar <var> 1</var>, <var>07:05</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">g2wfq84k15xs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030405</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC)]</div></p>
 ]]></content:encoded>
-<pubDate>Fri, 01 Mar 2024 07:05:30 +0000</pubDate>
 <pubDate>Fri, 01 Mar 2024 07:05:30 +0000</pubDate>
 </item>
 <item>
@@ -38,9 +38,7 @@ Summary: Equinix is planning to migrate the affected circuits in Q1 of this year
 <p><small>Mar <var> 1</var>, <var>06:47</var> UTC</small><br /><strong>Resolved</strong> - Equinix are planning to migrate the affected circuits in Q1 of this year. We will keep you posted once we have the schedule..<br /><div style="display: none;">0hlqph9c52dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0022160</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Jan <var>10</var>, <var>03:19</var> UTC</small><br /><strong>Update</strong> - Equinix are planning to migrate the affected circuits in Q1 of this year. We will keep you posted once we have the schedule..<br /><div style="display: none;">0hlqph9c52dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0022160</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Jan <var> 5</var>, <var>09:26</var> UTC</small><br /><strong>Update</strong> - The next update will be send on mid-January. .<br /><div style="display: none;">0hlqph9c52dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0022160</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Dec <var>29</var>, <var>09:44</var> UTC</small><br /><strong>Update</strong> - Equinix decided to wait till the end of the moratorium to migrate these circuits. The migration of the affected circuits will be carried out with priority in January. .<br /><div style="display: none;">0hlqph9c52dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0022160</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Dec <var>17</var>, <var>05:58</var> UTC</small><br /><strong>Update</strong> - Equinix engineers are still the midst of implementing an alernative option to restore redundancy while sourcing out replacement part from other site locations.<br /><br />Next Action: SMC will continue to track the progress of restoration..<br /><div style="display: none;">0hlqph9c52dy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0022160</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Dec <var> 7</var>, <var>18:42</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 06:47:10 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 06:47:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/kpb2drv19bcn</link>
