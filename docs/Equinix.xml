@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/rt4mf90k7m5z</link>
+<guid>https://status.equinix.com/incidents/rt4mf90k7m5z</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access Outage in APAC (TY)
+<br><br> 
+We are currently investigating an issue with Equinix Internet Access in the APAC (TY) region. Incident Number: INC0030361. More information will be provided as we work to resolve the issue. <div>
+<p><small>Mar <var> 1</var>, <var>00:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">pz4jhnr5rtk5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030361</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (TY)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 00:39:47 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 00:39:47 +0000</pubDate>
+</item>
 
 <item>
 <title>Power Issue (Equinix Internet Access / Equinix Connect)</title>

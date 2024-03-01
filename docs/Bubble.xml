@@ -4,18 +4,17 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/hdc46vz9z33v</link>
 <guid>https://status.bubble.io/incidents/hdc46vz9z33v</guid>
 <content:encoded><![CDATA[
-<div> [High] - Critical Image Loading Issue <br><br> We are currently investigating an issue with images not loading. <div>
+<div> [High] - Critical Image Loading Issue <br /><br /> We are currently investigating an issue with images not loading. <div>
 <p><small>Feb <var>29</var>, <var>17:57</var> EST</small><br /><strong>Update</strong> - We are currently investigating an issue with images not loading.</p><p><small>Feb <var>29</var>, <var>17:41</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 17:57:41 -0500</pubDate>
-<pubDate>Thu, 29 Feb 2024 17:57:41 -0500</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/5twyv5fj793y</link>
