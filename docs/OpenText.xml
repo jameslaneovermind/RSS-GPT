@@ -4,18 +4,17 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Covisint EDI Connect services are currently experiencing an issue.</title>
 <link>https://status.opentext.com/incidents/jbwnkwbqlhf9</link>
 <guid>https://status.opentext.com/incidents/jbwnkwbqlhf9</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Covisint EDI Connect Services <br><br> Investigating issue with B2B Connect, Supplier Connection, and Supplier Portal. Team working on resolving the issue. <div>
+<div> [High] - Major Outage in Covisint EDI Connect Services <br /><br /> Investigating issue with B2B Connect, Supplier Connection, and Supplier Portal. Team working on resolving the issue. <div>
 <p><small>Mar <var> 1</var>, <var>17:51</var> UTC</small><br /><strong>Investigating</strong> - The following Covisint EDI Connect services are currently experiencing an issue. Teams are currently assembled and working to resolve the issue.  We appreciate your patience. <br /><br /> - B2B Connect<br /> - Supplier Connection<br /> - Supplier Portal<br /><br />Tracking Number: IM3424578</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 17:51:55 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 17:51:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Core Archive India Regular Software Update - 24.1.2</title>
 <link>https://status.opentext.com/incidents/m6djn9hmqcjv</link>

@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>IoT Security (Government) Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/vr29z8s7qh5w</link>
 <guid>https://status.paloaltonetworks.com/incidents/vr29z8s7qh5w</guid>
 <content:encoded><![CDATA[
-<div> [Low] - IoT Security Maintenance <br><br> The IoT Security (Government) service will undergo maintenance to the data warehouse, potentially causing intermittent portal loading issues and temporary data delays. No action is required, and status updates will be provided throughout the maintenance period. Reach out to IoT Security technical support for any questions or concerns. <div>
+<div> [Low] - IoT Security Maintenance <br /><br /> The IoT Security (Government) service will undergo maintenance to the data warehouse, potentially causing intermittent portal loading issues and temporary data delays. No action is required, and status updates will be provided throughout the maintenance period. Reach out to IoT Security technical support for any questions or concerns. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>1</var>, <var>21:00</var> - <var>23:00</var> UTC</strong></p><p><small>Mar <var> 1</var>, <var>17:30</var> UTC</small><br /><strong>Scheduled</strong> - WHAT: IoT Security (Government) plan to carry on an maintenance on data warehouse service, which hosts the IoT Security product. <br /><br />WHEN: Friday, Mar 1 | 1:00 PM PST - 3:00 PM PST<br /><br />WHERE: Government region<br /><br />NO ACTION REQUIRED<br /><br />IMPACT: A small fraction of customers might have intermittent portal loading issues or temporary data delays. Please ignore inspector offline alerts during the maintenance.<br /><br />SUPPORT: We will provide status updates before and throughout the maintenance. If you have any questions or concerns, feel free to reach out to IoT Security technical support at iot-security@paloaltonetworks.com.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 21:00:00 +0000</pubDate>
-<pubDate>Fri, 01 Mar 2024 21:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Access is experiencing performance degradation in Turkey region</title>
 <link>https://status.paloaltonetworks.com/incidents/fq1pg1062d6w</link>

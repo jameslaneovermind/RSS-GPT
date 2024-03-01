@@ -4,6 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto RMM - Zinfandel - Intermittent Page Loading Failures</title>
+<link>https://status.datto.com/incidents/th5y4f1jcql0</link>
+<guid>https://status.datto.com/incidents/th5y4f1jcql0</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Page Loading Failures and 50x Errors on Zinfandel <br><br> Our teams are continuing to investigate reports of intermittent page loading failures and 50x errors on Zinfandel. Thank you for your patience! Summary: The company is experiencing intermittent page loading failures and 50x errors on the Zinfandel platform, indicating a major outage and potential platform downtime. <div>
+<p><small>Mar <var> 1</var>, <var>19:03</var> UTC</small><br /><strong>Identified</strong> - Our teams are continuing to investigate reports of intermittent page loading failures and 50x errors on Zinfandel. <br /><br />Thank you for your patience!</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 19:03:36 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 19:03:36 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Zinfandel, Syrah - Pages fail to load intermittently</title>

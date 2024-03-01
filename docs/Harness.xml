@@ -4,6 +4,17 @@
 <title>Harness Status - Incident History</title>
 <link>https://status.harness.io</link>
 
+<item>
+<title>Degradation in active pipelines observed and actively being debugged</title>
+<link>https://status.harness.io/incidents/wm4htphthyp2</link>
+<guid>https://status.harness.io/incidents/wm4htphthyp2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Impact on Pipelines due to Core DB Component Issue <br><br> Team is currently debugging an incident that began at 10:05 AM PT and is investigating the root cause. <div>
+<p><small>Mar <var> 1</var>, <var>10:40</var> PST</small><br /><strong>Investigating</strong> - We are debugging an incident that is potentially impacting pipelines due to a core db component. <br /><br />The issue started at 10:05 AM PT and team is currently trying to root cause.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 10:40:30 -0800</pubDate>
+<pubDate>Fri, 01 Mar 2024 10:40:30 -0800</pubDate>
+</item>
 
 <item>
 <title>CI pipeline are getting failed with latest release</title>
