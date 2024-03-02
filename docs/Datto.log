@@ -1244,3 +1244,9 @@ Existing_entries: 36
 Fetching from https://status.datto.com/history.rss
 append_entries: 0
 Finish: 2024-03-02 10:08:54.084443
+------------------------------------------------------
+Started: 2024-03-02 11:07:27.083591
+Existing_entries: 36
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-03-02 11:07:27.307927
