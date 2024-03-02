@@ -4,6 +4,17 @@
 <title>Calm.com Status - Incident History</title>
 <link>https://status.calm.com</link>
 
+<item>
+<title>Elevated Errors</title>
+<link>https://status.calm.com/incidents/gxjlwrm8xldg</link>
+<guid>https://status.calm.com/incidents/gxjlwrm8xldg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage<br><br>Summary: The company is currently investigating an elevated level of errors, indicating a large-scale outage. They are looking into the issue to determine the cause. <div>
+<p><small>Mar <var> 1</var>, <var>23:32</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 1</var>, <var>23:31</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Fri, 01 Mar 2024 23:32:55 +0000</pubDate>
+<pubDate>Fri, 01 Mar 2024 23:32:55 +0000</pubDate>
+</item>
 
 <item>
 <title>Elevated Errors</title>
