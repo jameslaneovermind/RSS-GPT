@@ -6,6 +6,18 @@
 
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/p04vswf4s380</link>
+<guid>https://status.equinix.com/incidents/p04vswf4s380</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Caused by Line Card Restart <br><br> Equinix engineers discovered that our line card restarted while changing an SFP on one of the ports on our vendor device. A vendor case will be initiated to further investigate the situation. <div>
+<p><small>Mar <var> 2</var>, <var>11:34</var> UTC</small><br /><strong>Update</strong> - Equinix engineers discovered that our line card restarted while changing an SFP on one of the ports on our vendor device. A vendor case will be initiated to further investigate the situation. .<br /><div style="display: none;">3q9wspd7g5j0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030557</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MD)]</div></p><p><small>Mar <var> 2</var>, <var>11:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">3q9wspd7g5j0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030557</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MD)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 11:34:36 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 11:34:36 +0000</pubDate>
+</item>
+
+<item>
+<title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/8dbm8slptgh5</link>
 <guid>https://status.equinix.com/incidents/8dbm8slptgh5</guid>
 <content:encoded><![CDATA[
@@ -14,9 +26,7 @@ Summary: We are currently investigating a critical issue with Equinix Fabric in 
 <p><small>Mar <var> 2</var>, <var>10:56</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">8bwjv6jbvxpc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030545</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 10:56:27 +0000</pubDate>
-<pubDate>Sat, 02 Mar 2024 10:56:27 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/196z9q2ylx5l</link>
