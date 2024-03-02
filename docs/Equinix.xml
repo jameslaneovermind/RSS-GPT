@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/6bbt6s8ctqf4</link>
 <guid>https://status.equinix.com/incidents/6bbt6s8ctqf4</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Dark Fiber Link Flap <br><br> A dark fiber link between ML and DX experienced a flap, causing service interruptions for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits. Equinix engineers are investigating the issue.
+<div> [High] - Major Dark Fiber Link Flap <br /><br /> A dark fiber link between ML and DX experienced a flap, causing service interruptions for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits. Equinix engineers are investigating the issue.
 
 Interpreting the text, it is determined to be a major outage impacting the Equinix services due to a network issue. <div>
 <p><small>Mar <var> 2</var>, <var>21:54</var> UTC</small><br /><strong>Update</strong> - ******DF LINK DOWN/FLAP********<br />Dark fiber link between ML and DX flapped. <br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">3n0ytnvcdw5d</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030577</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (ML); Equinix Fabric - EMEA (DX, ML)]</div></p><p><small>Mar <var> 2</var>, <var>21:42</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">3n0ytnvcdw5d</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030577</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (DX, ML); Metro Connect - EMEA (ML)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 21:54:35 +0000</pubDate>
-<pubDate>Sat, 02 Mar 2024 21:54:35 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/002n0qt1ds3b</link>
