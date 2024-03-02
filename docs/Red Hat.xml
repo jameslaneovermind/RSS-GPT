@@ -4,18 +4,17 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>access.redhat.com - Knowledgebase &amp; Home page</title>
 <link>https://status.redhat.com/incidents/0j6vz1mcrgqp</link>
 <guid>https://status.redhat.com/incidents/0j6vz1mcrgqp</guid>
 <content:encoded><![CDATA[
-<div> [High] - Investigating Issue <br><br> Summary: The company is currently investigating a major issue that is causing platform downtime. <div>
+<div> [High] - Investigating Issue <br /><br /> Summary: The company is currently investigating a major issue that is causing platform downtime. <div>
 <p><small>Mar <var> 1</var>, <var>20:33</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Fri, 01 Mar 2024 20:33:08 -0500</pubDate>
-<pubDate>Fri, 01 Mar 2024 20:33:08 -0500</pubDate>
 </item>
-
 <item>
 <title>OCM Planned outage</title>
 <link>https://status.redhat.com/incidents/j3yfs6c4rgny</link>

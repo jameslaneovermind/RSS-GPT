@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/cj0tb308h5rv</link>
+<guid>https://status.equinix.com/incidents/cj0tb308h5rv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Equinix Fabric
+Summary: Equinix is currently investigating an issue with their fabric in the Americas region. No further details are available at the moment. <div>
+<p><small>Mar <var> 2</var>, <var>02:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yr4nh18rwjnf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030514</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DE)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 02:01:19 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 02:01:19 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
