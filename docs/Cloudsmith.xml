@@ -4,6 +4,17 @@
 <title>Cloudsmith Status - Incident History</title>
 <link>https://status.cloudsmith.io</link>
 
+<item>
+<title>Slowness in UI (Performance Issue)</title>
+<link>https://status.cloudsmith.io/incidents/vtrszb1ny0w7</link>
+<guid>https://status.cloudsmith.io/incidents/vtrszb1ny0w7</guid>
+<content:encoded><![CDATA[
+<div> [High] - UI Slowness Investigation <br><br> Summary: The company is currently investigating an issue with slowness in the UI, which indicates a major outage with platform downtime caused by a configuration change to a system. <div>
+<p><small>Mar <var> 2</var>, <var>18:55</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with slowness in the UI.</p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 18:55:51 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 18:55:51 +0000</pubDate>
+</item>
 
 <item>
 <title>Broken Upload Functionality with Latest Cloudsmith API Release</title>
