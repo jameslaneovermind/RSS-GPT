@@ -1193,3 +1193,9 @@ Existing_entries: 25
 Fetching from https://status.datadoghq.com/history.rss
 append_entries: 0
 Finish: 2024-03-02 07:08:05.418804
+------------------------------------------------------
+Started: 2024-03-02 08:10:11.435416
+Existing_entries: 25
+Fetching from https://status.datadoghq.com/history.rss
+append_entries: 0
+Finish: 2024-03-02 08:10:11.603912

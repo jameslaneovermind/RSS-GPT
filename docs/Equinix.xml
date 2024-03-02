@@ -4,6 +4,29 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Network Edge)</title>
+<link>https://status.equinix.com/incidents/w01z5c00s7cj</link>
+<guid>https://status.equinix.com/incidents/w01z5c00s7cj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Outage in Americas (NY) <br><br> We are currently investigating a critical network issue in the Americas (NY) region, which is causing platform downtime.
+ <div>
+<p><small>Mar <var> 2</var>, <var>08:02</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ywlwdqt1m99j</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030536</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 08:02:27 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 08:02:27 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/xqbswh0780jl</link>
+<guid>https://status.equinix.com/incidents/xqbswh0780jl</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in EMEA (FR) <br><br> A critical issue has been identified and a fix is being implemented for Equinix Fabric in the EMEA (FR) region. <br><br> Summary: Incident Number INC0030535 is being investigated following a major outage affecting Equinix Fabric in the EMEA (FR) region. <div>
+<p><small>Mar <var> 2</var>, <var>08:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">v57x3dzyl7pj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030535</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR)]</div></p><p><small>Mar <var> 2</var>, <var>07:49</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">v57x3dzyl7pj</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030535</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 08:01:56 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 08:01:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
