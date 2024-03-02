@@ -5,6 +5,42 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/b5pxj8x3kvgg</link>
+<guid>https://status.equinix.com/incidents/b5pxj8x3kvgg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Equinix Internet Access / Equinix Connect Outage <br><br> We are currently investigating this issue. Incident Number: INC0030520 <div>
+<p><small>Mar <var> 2</var>, <var>02:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.<br /><div style="display: none;">b2yh7bpcwllr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030520</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (ST)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 02:51:26 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 02:51:26 +0000</pubDate>
+</item>
+<item>
+<title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/11dm0jpp6892</link>
+<guid>https://status.equinix.com/incidents/11dm0jpp6892</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Equinix Internet Access / Equinix Connect - AMER (ST) 
+Summary: The company is currently investigating an issue related to Equinix Internet Access and Equinix Connect in the Americas region. <div>
+<p><small>Mar <var> 2</var>, <var>02:51</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.<br /><div style="display: none;">92sg1ds2f7jq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030519</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (ST)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 02:51:09 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 02:51:09 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/3v4d3c2mcpth</link>
+<guid>https://status.equinix.com/incidents/3v4d3c2mcpth</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Equinix Internet Access / Equinix Connect - AMER (TR)
+Summary: The issue has been identified and a fix is being implemented for the Equinix Internet Access / Equinix Connect - AMER (TR) incident. <div>
+<p><small>Mar <var> 2</var>, <var>02:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">kwqbs2q5c61r</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030518</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR)]</div></p><p><small>Mar <var> 2</var>, <var>02:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kwqbs2q5c61r</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030518</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (TR)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 02:51:42 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 02:51:42 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/cj0tb308h5rv</link>
 <guid>https://status.equinix.com/incidents/cj0tb308h5rv</guid>
@@ -14,9 +50,7 @@ Summary: Equinix is currently investigating an issue with their fabric in the Am
 <p><small>Mar <var> 2</var>, <var>02:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yr4nh18rwjnf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030514</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DE)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 02:01:19 +0000</pubDate>
-<pubDate>Sat, 02 Mar 2024 02:01:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/qczs7r6y85rx</link>
