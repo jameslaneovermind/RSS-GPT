@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Intermittent Delays and failures in machines allocation for tenants</title>
 <link>https://status.paloaltonetworks.com/incidents/1fjp66szm6zp</link>
 <guid>https://status.paloaltonetworks.com/incidents/1fjp66szm6zp</guid>
 <content:encoded><![CDATA[
-<div> [High] - Machine Allocation Delays and Failures <br><br> Selective tenants are experiencing intermittent machine allocation delays and failures due to a configuration issue. Investigative work is ongoing to resolve the problem. <div>
+<div> [High] - Machine Allocation Delays and Failures <br /><br /> Selective tenants are experiencing intermittent machine allocation delays and failures due to a configuration issue. Investigative work is ongoing to resolve the problem. <div>
 <p><small>Mar <var> 2</var>, <var>08:11</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Mar <var> 2</var>, <var>08:10</var> UTC</small><br /><strong>Identified</strong> - A selective tenants will witness machine allocation delays and failures intermittently. <br /><br />Timeline:<br /><br />10:30 AM PDT: Intermittent Machine allocation failures noticed in the monitoring system<br />10.45 AM PDT: Investigation in progress</p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 08:11:04 +0000</pubDate>
-<pubDate>Sat, 02 Mar 2024 08:11:04 +0000</pubDate>
 </item>
-
 <item>
 <title>IoT Security (Government) Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/vr29z8s7qh5w</link>

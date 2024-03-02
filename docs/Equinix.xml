@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Fabric, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/196z9q2ylx5l</link>
+<guid>https://status.equinix.com/incidents/196z9q2ylx5l</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Equinix Fabric - Asia-Pacific (SG)<br><br> We are currently investigating this issue. Incident Number: INC0030542. This indicates a major outage affecting Equinix Fabric in the Asia-Pacific region, with investigations ongoing.
+ <div>
+<p><small>Mar <var> 2</var>, <var>10:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">s9hsx30j7xf9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030542</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG); Metro Connect - Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 10:06:45 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 10:06:45 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/4yztrt4wbpny</link>
+<guid>https://status.equinix.com/incidents/4yztrt4wbpny</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Metro Connect in EMEA
+Summary: We are currently investigating an issue with Metro Connect in the EMEA region. Incident Number: INC0030540. <div>
+<p><small>Mar <var> 2</var>, <var>09:16</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.<br /><div style="display: none;">57yjgl108dgb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030540</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (DB)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 02 Mar 2024 09:16:06 +0000</pubDate>
+<pubDate>Sat, 02 Mar 2024 09:16:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Network Edge)</title>
