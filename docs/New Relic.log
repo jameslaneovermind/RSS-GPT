@@ -1400,3 +1400,9 @@ Existing_entries: 26
 Fetching from https://status.newrelic.com/history.rss
 append_entries: 0
 Finish: 2024-03-03 17:07:49.483565
+------------------------------------------------------
+Started: 2024-03-03 18:10:35.464051
+Existing_entries: 26
+Fetching from https://status.newrelic.com/history.rss
+append_entries: 0
+Finish: 2024-03-03 18:10:35.759380
