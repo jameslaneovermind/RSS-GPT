@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>repository.jboss.org - Outage</title>
 <link>https://status.redhat.com/incidents/7hrx3f91cgb8</link>
@@ -16,9 +17,7 @@ The issue has been identified as a result of a recent configuration change and i
 <p><small>Mar <var> 2</var>, <var>17:50</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 2</var>, <var>17:38</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Mar 2024 17:50:14 -0500</pubDate>
-<pubDate>Sat, 02 Mar 2024 17:50:14 -0500</pubDate>
 </item>
-
 <item>
 <title>access.redhat.com - Knowledgebase &amp; Home page</title>
 <link>https://status.redhat.com/incidents/0j6vz1mcrgqp</link>
