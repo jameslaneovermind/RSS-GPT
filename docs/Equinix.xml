@@ -5,16 +5,28 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/nc0h2g2f2v1l</link>
+<guid>https://status.equinix.com/incidents/nc0h2g2f2v1l</guid>
+<content:encoded><![CDATA[
+<div> [High] - Metro Connect Device Reboot Causing Service Interruption 
+Summary: One of the line cards of the Metro Connect device has automatically rebooted, causing service interruption for Unprotected and Protected Metro Connect circuits. Equinix engineers are working to resolve the issue. <div>
+<p><small>Mar <var> 3</var>, <var>10:59</var> UTC</small><br /><strong>Update</strong> - One of the line card of Metro Connect device  has rebooted automatically.<br /><br />Unprotected and Protected Metro Connect (MC) circuits experience service interruption while no impact to Dual Diverse (MC) due to redundancy. Equinix engineers are working to resolve the issue..<br /><div style="display: none;">0w3jhw7lm17q</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030621</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Mar <var> 3</var>, <var>10:45</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">0w3jhw7lm17q</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030621</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 10:59:05 +0000</pubDate>
+<pubDate>Sun, 03 Mar 2024 10:59:05 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect, Network Edge, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/24t1yw0jh7y5</link>
 <guid>https://status.equinix.com/incidents/24t1yw0jh7y5</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident Impacting Equinix Services in EMEA (FR) <br><br> The issue has been identified and a fix is being implemented.  We are currently investigating the issue.
+<div> [High] - Major Incident Impacting Equinix Services in EMEA (FR) <br /><br /> The issue has been identified and a fix is being implemented.  We are currently investigating the issue.
 
  <div>
 <p><small>Mar <var> 3</var>, <var>10:05</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">z4twj6lcn45z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030619</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR); Equinix Internet Access / Equinix Connect - EMEA (FR); Network Edge - EMEA (FR); Metro Connect - EMEA (FR)]</div></p><p><small>Mar <var> 3</var>, <var>09:52</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">z4twj6lcn45z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030619</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR); Equinix Internet Access / Equinix Connect - EMEA (FR); Network Edge - EMEA (FR); Metro Connect - EMEA (FR)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 10:05:38 +0000</pubDate>
 <pubDate>Sun, 03 Mar 2024 10:05:38 +0000</pubDate>
 </item>
 <item>
@@ -22,13 +34,11 @@
 <link>https://status.equinix.com/incidents/sp2mz4r18jxy</link>
 <guid>https://status.equinix.com/incidents/sp2mz4r18jxy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage and Fix in Progress <br><br> An issue has been identified with Equinix Internet Access / Equinix Connect - EMEA, and a fix is currently being implemented. The incident is causing a critical impact on the platform and is being treated as a major outage. <div>
+<div> [High] - Major Outage and Fix in Progress <br /><br /> An issue has been identified with Equinix Internet Access / Equinix Connect - EMEA, and a fix is currently being implemented. The incident is causing a critical impact on the platform and is being treated as a major outage. <div>
 <p><small>Mar <var> 3</var>, <var>09:39</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">qz0vksblbfk4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030614</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MD)]</div></p><p><small>Mar <var> 3</var>, <var>09:26</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">qz0vksblbfk4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030614</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MD)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 09:39:17 +0000</pubDate>
-<pubDate>Sun, 03 Mar 2024 09:39:17 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/7zjqhzgphrnv</link>
