@@ -1860,3 +1860,10 @@ Fetching from https://status.overwolf.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Overwolf
+------------------------------------------------------
+Started: 2024-03-03 16:09:02.639280
+Existing_entries: 0
+Fetching from https://status.overwolf.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Overwolf
