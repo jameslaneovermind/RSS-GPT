@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/jvxrrkh6n7bk</link>
 <guid>https://status.equinix.com/incidents/jvxrrkh6n7bk</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Investigation <br><br> We are currently investigating this issue.
+<div> [High] - Major Outage Investigation <br /><br /> We are currently investigating this issue.
 
 Summary: Equinix is currently investigating a major outage. <div>
 <p><small>Mar <var> 3</var>, <var>12:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">xtsx1pr817rw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030630</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM); Metro Connect - EMEA (AM)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 03 Mar 2024 12:06:13 +0000</pubDate>
 <pubDate>Sun, 03 Mar 2024 12:06:13 +0000</pubDate>
 </item>
 <item>
@@ -27,9 +27,7 @@ Summary: Equinix Fabric services are experiencing intermittent issues, causing p
 <p><small>Mar <var> 3</var>, <var>11:34</var> UTC</small><br /><strong>Investigating</strong> - Equinix Fabric services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 11:34:28 +0000</pubDate>
-<pubDate>Sun, 03 Mar 2024 11:34:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/nc0h2g2f2v1l</link>
