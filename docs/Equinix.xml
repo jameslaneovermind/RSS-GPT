@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/r8j8s2hnp8sg</link>
+<guid>https://status.equinix.com/incidents/r8j8s2hnp8sg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Metro Connect - Americas (SP)
+Summary: We are currently investigating a major outage in Metro Connect - Americas (SP) with the incident number INC0030660. This is a critical issue that is causing platform downtime and is being actively investigated. <div>
+<p><small>Mar <var> 3</var>, <var>17:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9plqzgpk7djl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030660</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SP)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 17:04:21 +0000</pubDate>
+<pubDate>Sun, 03 Mar 2024 17:04:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
