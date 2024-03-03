@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>Catalog.redhat.com - Slow Page Loads</title>
 <link>https://status.redhat.com/incidents/7m9s3bhrz7p6</link>
@@ -16,9 +17,7 @@ In this status report, the keywords "investigating" and "issue" indicate a major
 <p><small>Mar <var> 3</var>, <var>12:40</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 12:51:23 -0500</pubDate>
-<pubDate>Sun, 03 Mar 2024 12:51:23 -0500</pubDate>
 </item>
-
 <item>
 <title>repository.jboss.org - Outage</title>
 <link>https://status.redhat.com/incidents/7hrx3f91cgb8</link>
