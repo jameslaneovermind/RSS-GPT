@@ -5,6 +5,31 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/7zjqhzgphrnv</link>
+<guid>https://status.equinix.com/incidents/7zjqhzgphrnv</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Outage <br><br> We are currently investigating a critical issue with Equinix Fabric and Network Edge in the EMEA region. A fix is being implemented to address the outage.
+ <div>
+<p><small>Mar <var> 3</var>, <var>08:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">q1b73b0g0l9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030612</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (WA); Network Edge - EMEA (WA)]</div></p><p><small>Mar <var> 3</var>, <var>08:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">q1b73b0g0l9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030612</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (WA); Network Edge - EMEA (WA)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 08:36:05 +0000</pubDate>
+<pubDate>Sun, 03 Mar 2024 08:36:05 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/dlgdkpwyt1w0</link>
+<guid>https://status.equinix.com/incidents/dlgdkpwyt1w0</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Identified for Equinix Internet Access/Connect EMEA
+Summary: The issue has been identified and a fix is being implemented for a major outage with Equinix Internet Access/Connect in the EMEA region. <div>
+<p><small>Mar <var> 3</var>, <var>08:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dn1hghz6qtkm</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030613</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (DB, LD)]</div></p><p><small>Mar <var> 3</var>, <var>08:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dn1hghz6qtkm</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030613</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (DB, LD)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 03 Mar 2024 08:36:22 +0000</pubDate>
+<pubDate>Sun, 03 Mar 2024 08:36:22 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/n6qhbvhvhz59</link>
 <guid>https://status.equinix.com/incidents/n6qhbvhvhz59</guid>
@@ -14,9 +39,7 @@ Summary: The issue with Equinix Internet Access / Equinix Connect - EMEA (AM) ha
 <p><small>Mar <var> 3</var>, <var>07:44</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">sbd4nqpgzblw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030607</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p><p><small>Mar <var> 3</var>, <var>07:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">sbd4nqpgzblw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030607</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 03 Mar 2024 07:44:48 +0000</pubDate>
-<pubDate>Sun, 03 Mar 2024 07:44:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/lcbyq8ctmz4b</link>
