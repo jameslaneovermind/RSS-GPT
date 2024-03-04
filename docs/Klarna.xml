@@ -6,6 +6,18 @@
 
 
 <item>
+<title>Consumers in EU are unable to authenticate using ID Scan</title>
+<link>https://status.klarna.com/incidents/tz3g1zzprc49</link>
+<guid>https://status.klarna.com/incidents/tz3g1zzprc49</guid>
+<content:encoded><![CDATA[
+<div> [High] - ID Scan Login and Purchase Authentication Degraded
+Summary:
+Due to a problem with ID Scan, login and purchase authentication using ID Scan is currently degraded. This incident has been resolved. <div>
+<p><small>Mar <var> 4</var>, <var>13:05</var> CET</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 4</var>, <var>12:30</var> CET</small><br /><strong>Investigating</strong> - Due to a problem with ID Scan, login and purchase authentication using ID Scan is currently degraded.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 13:05:12 +0100</pubDate>
+</item>
+<item>
 <title>Klarna purchase API degradation</title>
 <link>https://status.klarna.com/incidents/6kt6xtctdd1q</link>
 <guid>https://status.klarna.com/incidents/6kt6xtctdd1q</guid>
