@@ -4,6 +4,18 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+<item>
+<title>API, Payment Pages and Dashboard Outage</title>
+<link>https://www.gocardless-status.com/incidents/v83860pqrqv2</link>
+<guid>https://www.gocardless-status.com/incidents/v83860pqrqv2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Instant Bank Payments Delay
+Summary: We are currently experiencing a delay in payment confirmation and incorrect response messages for a set of Instant Bank Payments. Our team is urgently working on a fix to be deployed shortly. <div>
+<p><small>Mar <var> 4</var>, <var>12:57</var> GMT</small><br /><strong>Update</strong> - We are seeing a delay in payment confirmation/incorrect response message on the payer’s side for a set of Instant Bank Payments.<br /><br />Our team is working on a fix which should be deployed shortly.</p><p><small>Mar <var> 4</var>, <var>12:55</var> GMT</small><br /><strong>Investigating</strong> - We are seeing a delay in payment confirmation/incorrect response message on the payer’s side for a set of Instant Bank Payments.<br /><br />Our team is working on a fix which should be deployed shortly.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 13:00:29 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 13:00:29 +0000</pubDate>
+</item>
 
 <item>
 <title>EUR Webhooks and payment confirmations delayed</title>

@@ -4,6 +4,18 @@
 <title>observeai Status - Incident History</title>
 <link>https://status.observe.ai</link>
 
+<item>
+<title>Intermittent call processing issues</title>
+<link>https://status.observe.ai/incidents/r7knmd3ntxvn</link>
+<guid>https://status.observe.ai/incidents/r7knmd3ntxvn</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Intermittent Processing Issues Identified
+Summary: The company has identified intermittent processing issues that may impact call processing for some accounts. The technical support team is working on a resolution. <div>
+<p><small>Mar <var> 4</var>, <var>12:47</var> UTC</small><br /><strong>Identified</strong> - Dear Client,<br /><br />We are observing intermittent processing issues due to which call processing for your account *might* be impacted.<br />The team has identified the issue and are working on the resolution.<br /><br />Thanks and Regards<br />Observe.Ai Technical Support Team</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 12:47:32 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 12:47:32 +0000</pubDate>
+</item>
 
 <item>
 <title>[Interaction Processing] Degraded performance</title>

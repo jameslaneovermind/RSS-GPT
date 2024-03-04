@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Identity Service - Partial Outage</title>
 <link>https://status.sage.com/incidents/t43s1bstrnj3</link>
 <guid>https://status.sage.com/incidents/t43s1bstrnj3</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Two Factor Authentication Issue in SBA Accounting UK <br><br> Summary: Customers in the UK are experiencing issues with receiving Two Factor Authentication SMS OTP codes when setting up or logging into SBA Accounting UK. The problem has been identified, and alternative authentication methods are functioning normally. Investigation is ongoing. <div>
+<div> [Medium] - Two Factor Authentication Issue in SBA Accounting UK <br /><br /> Summary: Customers in the UK are experiencing issues with receiving Two Factor Authentication SMS OTP codes when setting up or logging into SBA Accounting UK. The problem has been identified, and alternative authentication methods are functioning normally. Investigation is ongoing. <div>
 <p><small>Mar <var> 4</var>, <var>12:09</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 4</var>, <var>12:07</var> UTC</small><br /><strong>Update</strong> - We identified that customers in the UK are not receiving the Two Factor Authentication SMS OTP codes when trying to set up or log into SBA Accounting UK. Customers who have phone calls and the authenticator application configured as their Two Factor Authentication method are not experiencing issues. <br /> <br />We are currently investigating.</p><p><small>Mar <var> 4</var>, <var>11:56</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 12:09:11 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 12:09:11 +0000</pubDate>
 </item>
-
 <item>
 <title>My Sage - Major Outage</title>
 <link>https://status.sage.com/incidents/5pd916tfn8xy</link>
