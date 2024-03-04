@@ -4,6 +4,17 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+<item>
+<title>Temporary Data Latency</title>
+<link>https://status.heap.io/incidents/dfjzj603nykl</link>
+<guid>https://status.heap.io/incidents/dfjzj603nykl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Data Delay Issue <br><br> Our engineers are currently investigating delays in data availability in the app. Some reports may be missing data, but data collection is unaffected, and no data has been lost. Another update will be posted in 60 minutes. Summary: Investigating delays in data availability, no data loss reported. <div>
+<p><small>Mar <var> 4</var>, <var>09:20</var> PST</small><br /><strong>Investigating</strong> - We are currently experiencing delays in data being available in the app. You may notice missing data in your reports. Data collection is unaffected, and no data has been lost. Our engineers are currently investigating the issue. We'll be posting another update in 60 mins.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 09:20:30 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 09:20:30 -0800</pubDate>
+</item>
 
 <item>
 <title>Experiencing delays in data being available in the app</title>

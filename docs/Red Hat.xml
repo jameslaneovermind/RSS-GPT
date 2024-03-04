@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>access.redhat.com - Knowledgebase &amp; Home page</title>
 <link>https://status.redhat.com/incidents/294p95j8gp4y</link>
@@ -14,9 +15,7 @@ Summary: The company is currently investigating an issue. <div>
 <p><small>Mar <var> 4</var>, <var>12:08</var> EST</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var> 4</var>, <var>11:39</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 12:08:57 -0500</pubDate>
-<pubDate>Mon, 04 Mar 2024 12:08:57 -0500</pubDate>
 </item>
-
 <item>
 <title>Catalog.redhat.com - Slow Page Loads</title>
 <link>https://status.redhat.com/incidents/7m9s3bhrz7p6</link>
