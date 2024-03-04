@@ -4,18 +4,17 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Magellan Risk Guard US is unavailable</title>
 <link>https://status.opentext.com/incidents/rpp42j8dmxdf</link>
 <guid>https://status.opentext.com/incidents/rpp42j8dmxdf</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage of Magellan Risk Guard US <br><br> Teams are currently working on a fix for the issue causing the platform to be unavailable. We appreciate your patience. <div>
+<div> [High] - Major Outage of Magellan Risk Guard US <br /><br /> Teams are currently working on a fix for the issue causing the platform to be unavailable. We appreciate your patience. <div>
 <p><small>Mar <var> 4</var>, <var>14:19</var> UTC</small><br /><strong>Update</strong> - We are continuing to work on a fix for this issue.</p><p><small>Mar <var> 4</var>, <var>14:16</var> UTC</small><br /><strong>Identified</strong> - Magellan Risk Guard US is currently unavailable. Teams are currently assembled and working to resolve the issue.  We appreciate your patience.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 14:19:28 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 14:19:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Covisint EDI Connect services are currently experiencing an issue.</title>
 <link>https://status.opentext.com/incidents/jbwnkwbqlhf9</link>

@@ -4,6 +4,107 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/rkdh1v3h4d7y</link>
+<guid>https://status.bullhorn.com/incidents/rkdh1v3h4d7y</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Network Maintenance Scheduled 
+Summary: The Bullhorn ATS/CRM system will undergo standard network maintenance, potentially causing intermittent disruption of active sessions. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>17</var>, <var>16:00</var> - <var>18:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:35</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS20, CLS21, CLS22, CLS23<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 16:00:00 -0400</pubDate>
+<pubDate>Wed, 17 Apr 2024 16:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/56kgh3j5bfk7</link>
+<guid>https://status.bullhorn.com/incidents/56kgh3j5bfk7</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Network Maintenance
+Summary: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>12</var>, <var>16:00</var> - <var>18:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:33</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS71<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 16:00:00 -0400</pubDate>
+<pubDate>Fri, 12 Apr 2024 16:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/34wfdgggqfdg</link>
+<guid>https://status.bullhorn.com/incidents/34wfdgggqfdg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Network Maintenance Scheduled <br><br> The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame. Summary: No impact is expected, but there is a potential for intermittent disruption of active sessions. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>8</var>, <var>16:00</var> - <var>18:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:32</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS70<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 16:00:00 -0400</pubDate>
+<pubDate>Mon, 08 Apr 2024 16:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/3vhll32mvqvt</link>
+<guid>https://status.bullhorn.com/incidents/3vhll32mvqvt</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>2</var>, <var>10:00</var> - <var>12:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:31</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS60<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 10:00:00 -0400</pubDate>
+<pubDate>Tue, 02 Apr 2024 10:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/z7q5plk3tmjw</link>
+<guid>https://status.bullhorn.com/incidents/z7q5plk3tmjw</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>1</var>, <var>10:00</var> - <var>12:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:30</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS66<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 10:00:00 -0400</pubDate>
+<pubDate>Mon, 01 Apr 2024 10:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/6s6snhzhq0n9</link>
+<guid>https://status.bullhorn.com/incidents/6s6snhzhq0n9</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>27</var>, <var>21:00</var> - <var>23:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:29</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS40, CLS41, CLS42, CLS43, CLS44<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 21:00:00 -0400</pubDate>
+<pubDate>Wed, 27 Mar 2024 21:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/1v7kx4dkrlvr</link>
+<guid>https://status.bullhorn.com/incidents/1v7kx4dkrlvr</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>25</var>, <var>21:00</var> - <var>23:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:28</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS30, CLS31, CLS32, CLS33, CLS34, CLS35<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 21:00:00 -0400</pubDate>
+<pubDate>Mon, 25 Mar 2024 21:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/963mw2lxy4v9</link>
+<guid>https://status.bullhorn.com/incidents/963mw2lxy4v9</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>16:00</var> - <var>18:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:26</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption of active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS29<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 16:00:00 -0400</pubDate>
+<pubDate>Wed, 13 Mar 2024 16:00:00 -0400</pubDate>
+</item>
+<item>
+<title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/yqpmdcpk3062</link>
+<guid>https://status.bullhorn.com/incidents/yqpmdcpk3062</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>21:00</var> - <var>23:00</var> EDT</strong></p><p><small>Mar <var> 4</var>, <var>10:25</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: There no impact expected, but there is potential of intermittent disruption to active sessions.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS99, CLS91<br />Description: The Bullhorn Technical Operations team will be performing some standard network maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 21:00:00 -0400</pubDate>
+<pubDate>Mon, 11 Mar 2024 21:00:00 -0400</pubDate>
+</item>
 
 <item>
 <title>ATS/CRM - CLS43, CLS42, CLS41, CLS40, CLS44, CLS60, CLS66, CLS189, CLS70, CLS30, CLS31, CLS32, CLS33, CLS34, CLS35, CLS71, CLS20, CLS21, CLS22, CLS23, CLS91, CLS99, CLS29</title>
