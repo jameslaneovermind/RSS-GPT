@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>Global: Reporting - Slowness accessing custom reports</title>
+<link>https://status.xero.com/incidents/1h0g55ngj77x</link>
+<guid>https://status.xero.com/incidents/1h0g55ngj77x</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage: Custom Report Loading in Xero <br><br> Some customers were unable to load custom reports in Xero due to a product release causing the feature to become unavailable. The issue has been resolved by rolling back the release. <div>
+<p><small>Mar <var> 4</var>, <var>04:52</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue impacting some customers trying to load custom reports in Xero. We apologise for any inconvenience this has caused. <br /><br />A product release caused this feature to become unavailable. We've rolled back the release and services are back to normal.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 04:52:38 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 04:52:38 +0000</pubDate>
+</item>
 
 <item>
 <title>Australia: AU Tax - Some users are unable to load Tax Returns</title>

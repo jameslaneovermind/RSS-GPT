@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/zdqvs3r9h26r</link>
@@ -14,9 +15,7 @@ Summary: An issue has been identified in the Asia-Pacific network edge and Equin
 <p><small>Mar <var> 4</var>, <var>04:05</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">fdmtgsgl6jjc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030705</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (ME, SY); Network Edge - Asia-Pacific (ME, SY)]</div></p><p><small>Mar <var> 4</var>, <var>03:51</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">fdmtgsgl6jjc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030705</div><div class="affected-products font-small color-secondary">[Network Edge - Asia-Pacific (ME, SY); Equinix Fabric - Asia-Pacific (ME, SY)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 04:05:45 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 04:05:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/vbngvg7st8vk</link>

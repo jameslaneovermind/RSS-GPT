@@ -4,6 +4,19 @@
 <title>Wise Status - Incident History</title>
 <link>https://status.wise.com</link>
 
+<item>
+<title>Issue impacting Wise Platform partners in implementation phase</title>
+<link>https://status.wise.com/incidents/r28y07mz1x32</link>
+<guid>https://status.wise.com/incidents/r28y07mz1x32</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Impacting All Public API Users
+Summary:
+The company is currently experiencing a major outage with their sandbox, impacting all public API users, including Wise Platform partners undergoing implementation. The issue has been identified, and the team is working to resolve it as soon as possible. <div>
+<p><small>Mar <var> 4</var>, <var>05:25</var> GMT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 4</var>, <var>05:09</var> GMT</small><br /><strong>Identified</strong> - We are currently experiencing an outage with our sandbox. As a result this issue is impacting all public API users, including Wise Platform partners currently undergoing implementation. Our team is working to fix this as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 05:25:22 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 05:25:22 +0000</pubDate>
+</item>
 
 <item>
 <title>Transaction information maintenance</title>
