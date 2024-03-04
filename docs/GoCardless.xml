@@ -4,6 +4,17 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+<item>
+<title>International payouts and account verification</title>
+<link>https://www.gocardless-status.com/incidents/gcqycdq69170</link>
+<guid>https://www.gocardless-status.com/incidents/gcqycdq69170</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - FX Provider Investigation <br><br> We are investigating an issue with our FX provider that may cause international payouts and account verification to take longer than normal. Domestic payouts are not affected by this. Summary: investigating issue with FX provider causing delays for international payouts and account verification. Domestic payouts not affected. <div>
+<p><small>Mar <var> 4</var>, <var>16:27</var> GMT</small><br /><strong>Investigating</strong> - We are investigating an issue with our FX provider that may cause international payouts and account verification to take longer than normal.<br /><br />Domestic payouts are not affected by this.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 16:47:01 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 16:47:01 +0000</pubDate>
+</item>
 
 <item>
 <title>API, Payment Pages and Dashboard Outage</title>
