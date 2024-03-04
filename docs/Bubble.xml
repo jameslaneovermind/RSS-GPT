@@ -4,6 +4,30 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/2xhyd1yypcgb</link>
+<guid>https://status.bubble.io/incidents/2xhyd1yypcgb</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Issues with Main Bubble Cluster
+Summary: Our automated systems have detected potential issues with the main Bubble cluster. We are currently investigating. <div>
+<p><small>Mar <var> 4</var>, <var>17:29</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 17:29:33 -0500</pubDate>
+<pubDate>Mon, 04 Mar 2024 17:29:33 -0500</pubDate>
+</item>
+<item>
+<title>Searches not updating in real time</title>
+<link>https://status.bubble.io/incidents/8c7ft6z7kqkl</link>
+<guid>https://status.bubble.io/incidents/8c7ft6z7kqkl</guid>
+<content:encoded><![CDATA[
+<div> [High] - Investigating Issue with Platform
+Summary: We are currently investigating a critical issue that has caused platform downtime. <div>
+<p><small>Mar <var> 4</var>, <var>17:22</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 17:22:23 -0500</pubDate>
+<pubDate>Mon, 04 Mar 2024 17:22:23 -0500</pubDate>
+</item>
 
 <item>
 <title>Issues with Main Bubble Cluster</title>

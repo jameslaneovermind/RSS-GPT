@@ -1938,3 +1938,12 @@ Existing_entries: 30
 Fetching from https://status.mulesoft.com/history.rss
 append_entries: 0
 Finish: 2024-03-04 22:07:44.688643
+------------------------------------------------------
+Started: 2024-03-04 23:09:34.172007
+Existing_entries: 30
+Fetching from https://status.mulesoft.com/history.rss
+Token length: 161
+Summarized using GPT-3.5-turbo-1106
+Append: [API Manager is failing to apply new policies to applications.](https://status.mulesoft.com/incidents/03dy97lql13n)
+append_entries: 1
+Finish: 2024-03-04 23:09:35.304685

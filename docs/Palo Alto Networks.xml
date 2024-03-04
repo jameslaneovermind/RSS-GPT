@@ -4,6 +4,7 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Login Failures for Strata Cloud Manager</title>
 <link>https://status.paloaltonetworks.com/incidents/ybhtcvhj1r5n</link>
@@ -14,9 +15,7 @@ Summary: From 11:30AM to 12:20PT, users may have experienced login failures to S
 <p><small>Mar <var> 4</var>, <var>19:30</var> UTC</small><br /><strong>Resolved</strong> - From 11:30AM to 12:20PT users may have experienced login failures to Strata Cloud Manager</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 19:30:00 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 19:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Townsend Cloudblade Infrastructure impacted</title>
 <link>https://status.paloaltonetworks.com/incidents/65nn520n09db</link>

@@ -4,6 +4,18 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+<item>
+<title>API Manager is failing to apply new policies to applications.</title>
+<link>https://status.mulesoft.com/incidents/03dy97lql13n</link>
+<guid>https://status.mulesoft.com/incidents/03dy97lql13n</guid>
+<content:encoded><![CDATA[
+<div> [High] - Error Impacting Customer Applications
+Summary: Customers may experience errors while applying new policies to existing and new applications. Our teams are investigating. <div>
+<p><small>Mar <var> 4</var>, <var>14:56</var> PST</small><br /><strong>Investigating</strong> - Customers may experience errors while using applying new policies to existing and new applications. Our teams are investigating.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 14:57:05 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 14:57:05 -0800</pubDate>
+</item>
 
 <item>
 <title>Retroactive Post: UI options missing Partner Manager</title>

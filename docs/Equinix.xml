@@ -6,16 +6,50 @@
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/l16ggrktnnhh</link>
+<guid>https://status.equinix.com/incidents/l16ggrktnnhh</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Equinix Fabric <br><br> We are currently investigating this issue with Equinix Fabric in the Americas. An incident has been identified and is currently under investigation. <div>
+<p><small>Mar <var> 4</var>, <var>23:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">spb8tgcrgx6g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030815</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP, ST)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 23:06:57 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 23:06:57 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/1lhgtsbchvd7</link>
+<guid>https://status.equinix.com/incidents/1lhgtsbchvd7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Asia-Pacific (HK) <br><br> A critical issue has been identified with Equinix Fabric in the Asia-Pacific region, and a fix is currently being implemented to address the problem. This incident is causing major disruption and downtime for the platform.
+ <div>
+<p><small>Mar <var> 4</var>, <var>23:07</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">yr66r30jhx6y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030814</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Mar <var> 4</var>, <var>22:50</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yr66r30jhx6y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030814</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 23:07:50 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 23:07:50 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/cj6cmr0wr8g4</link>
+<guid>https://status.equinix.com/incidents/cj6cmr0wr8g4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - Americas (ST) Incident
+Summary: A critical issue has been identified and a fix is currently being implemented for Equinix Fabric in the Americas. <div>
+<p><small>Mar <var> 4</var>, <var>22:34</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ndvkbj8wjcxc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030812</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p><p><small>Mar <var> 4</var>, <var>22:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ndvkbj8wjcxc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030812</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 22:34:06 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 22:34:06 +0000</pubDate>
+</item>
+
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/jbmmm6bkdfnd</link>
 <guid>https://status.equinix.com/incidents/jbmmm6bkdfnd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in EMEA (LS, PA) <br><br> We are currently investigating a critical issue with Equinix Fabric in the EMEA region. Incident Number: INC0030813. <div>
+<div> [High] - Equinix Fabric Outage in EMEA (LS, PA) <br /><br /> We are currently investigating a critical issue with Equinix Fabric in the EMEA region. Incident Number: INC0030813. <div>
 <p><small>Mar <var> 4</var>, <var>22:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wm0nqf3hpbkq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030813</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LS, PA)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 22:01:44 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 22:01:44 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Service Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/z1tft2s40tzd</link>
