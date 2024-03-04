@@ -4,6 +4,17 @@
 <title>Onfido Status - Incident History</title>
 <link>https://status.onfido.com</link>
 
+<item>
+<title>Unable to create checks in EU</title>
+<link>https://status.onfido.com/incidents/lpnskmz8q521</link>
+<guid>https://status.onfido.com/incidents/lpnskmz8q521</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Ongoing investigation for system issue <br><br> Summary: Our team is currently investigating an issue with the system. We have identified the issue and are working on implementing a fix. We apologize for any inconvenience this may cause. <div>
+<p><small>Mar <var> 4</var>, <var>11:05</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var> 4</var>, <var>11:04</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 4</var>, <var>10:49</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 11:11:57 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 11:11:57 +0000</pubDate>
+</item>
 
 <item>
 <title>Increased latency on check processing</title>

@@ -4,6 +4,18 @@
 <title>Snowflake Status - Incident History</title>
 <link>https://status.snowflake.com</link>
 
+<item>
+<title>Azure - West Europe (Netherlands): INC0103720</title>
+<link>https://status.snowflake.com/incidents/96mmcdryy6dd</link>
+<guid>https://status.snowflake.com/incidents/96mmcdryy6dd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage: Streamlit Apps Connectivity Error <br><br> Customers are experiencing a 'Trying to connect to warehouse' error when accessing existing Streamlit apps in the specified region(s) due to a system issue. A fix is currently being developed and implemented.
+ <div>
+<p><small>Mar <var> 4</var>, <var>02:48</var> PST</small><br /><strong>Identified</strong> - <b>Current status:</b> We've identified the source of the issue, and we're developing and implementing a fix to restore service. We'll provide another update within 60 minutes.<br /><b>Customer experience:</b> Customers hosted in the specified region(s) may experience a 'Trying to connect to warehouse' error when accessing existing Streamlit apps. <br /><b>Incident start time:</b> 10:05 UTC March 01, 2024</p><p><small>Mar <var> 4</var>, <var>01:50</var> PST</small><br /><strong>Investigating</strong> - <b>Current status:</b> We're investigating an issue with Snowflake Data Cloud. We'll provide an update within 60 minutes.<br /><b>Customer experience:</b> Customers hosted in the specified region(s) may experience a 'Trying to connect to warehouse' error when accessing existing Streamlit apps. <br /><b>Incident start time:</b> 10:05 UTC March 01, 2024</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 02:48:51 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 02:48:51 -0800</pubDate>
+</item>
 
 <item>
 <title>AWS - US West (Oregon): INC0102987</title>

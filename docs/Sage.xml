@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>My Sage - Major Outage</title>
+<link>https://status.sage.com/incidents/5pd916tfn8xy</link>
+<guid>https://status.sage.com/incidents/5pd916tfn8xy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Login Issue in UK and Ireland <br><br> Customers are experiencing time out errors preventing them from logging in. This indicates a major outage impacting platform functionality. <div>
+<p><small>Mar <var> 4</var>, <var>10:09</var> UTC</small><br /><strong>Investigating</strong> - We are investigating an issue in the UK and Ireland preventing customers to login. Customers are being presented time out errors.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 10:09:18 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 10:09:18 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Business Cloud Accounting (NA) - Degraded Performance</title>

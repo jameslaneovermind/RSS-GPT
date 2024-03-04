@@ -5,6 +5,55 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/pvsm5vcnnkvp</link>
+<guid>https://status.equinix.com/incidents/pvsm5vcnnkvp</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in EMEA
+Summary: An issue has been identified and a fix is being implemented. An incident number has been assigned for tracking purposes. <div>
+<p><small>Mar <var> 4</var>, <var>10:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">1y1n0snp4kh1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030749</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p><p><small>Mar <var> 4</var>, <var>10:34</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">1y1n0snp4kh1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030749</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 10:50:29 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 10:50:29 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/h6b4x3k928sd</link>
+<guid>https://status.equinix.com/incidents/h6b4x3k928sd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect - EMEA (MA) Outage
+The issue has been identified and a fix is being implemented.
+
+Summary: A major incident has been identified and a fix is currently being implemented for the Equinix Internet Access / Equinix Connect in the EMEA region. <div>
+<p><small>Mar <var> 4</var>, <var>10:19</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">yjwl88zcxff5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030746</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA)]</div></p><p><small>Mar <var> 4</var>, <var>10:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yjwl88zcxff5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030746</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (MA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 10:19:25 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 10:19:25 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/h59hv3lptzp9</link>
+<guid>https://status.equinix.com/incidents/h59hv3lptzp9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - EMEA (MU, SO) Outage <br><br> We have identified an issue and are currently implementing a fix for the outage affecting Equinix Fabric in the EMEA region. Incident Number: INC0030738. <div>
+<p><small>Mar <var> 4</var>, <var>09:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">wj917rkrp5b7</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030738</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MU, SO)]</div></p><p><small>Mar <var> 4</var>, <var>09:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wj917rkrp5b7</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030738</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MU, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 09:50:23 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 09:50:23 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/xcg1t3qhr2bp</link>
+<guid>https://status.equinix.com/incidents/xcg1t3qhr2bp</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 4</var>, <var>09:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dw1mqfl67ln9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030737</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM, HH)]</div></p><p><small>Mar <var> 4</var>, <var>09:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dw1mqfl67ln9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030737</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM, HH)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 09:50:06 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 09:50:06 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Service Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/0j023m8tccrr</link>
 <guid>https://status.equinix.com/incidents/0j023m8tccrr</guid>
@@ -13,7 +62,6 @@
 Summary: We are currently investigating a critical outage affecting Metro Connect - EMEA (MA). Incident Number: INC0030735. <div>
 <p><small>Mar <var> 4</var>, <var>09:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2bmddkp7vqs0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030735</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (MA)]</div></p>
 ]]></content:encoded>
-<pubDate>Mon, 04 Mar 2024 09:21:08 +0000</pubDate>
 <pubDate>Mon, 04 Mar 2024 09:21:08 +0000</pubDate>
 </item>
 <item>
@@ -28,9 +76,7 @@ Note: This meets the high relevancy criteria as it indicates a major outage and 
 <p><small>Mar <var> 4</var>, <var>09:21</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">g9c5pgly8nvw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030733</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (AT)]</div></p><p><small>Mar <var> 4</var>, <var>09:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">g9c5pgly8nvw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030733</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (AT)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 09:21:26 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 09:21:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Internet Exchange Portal Availability</title>
 <link>https://status.equinix.com/incidents/8mtzshsr9h19</link>

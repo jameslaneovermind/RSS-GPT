@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>Issue with joining Teams Meetings from Zoom Rooms (Direct Guest Join).</title>
+<link>https://status.zoom.us/incidents/kzkn6v70r1f9</link>
+<guid>https://status.zoom.us/incidents/kzkn6v70r1f9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Zoom Rooms unable to join meetings <br><br> Engineers are currently investigating reports of service degradation for users unable to join teams meetings via the direct connect button on Zoom Rooms. This indicates a major outage with platform downtime, and our engineers are actively working on resolving the issue. We will provide updates as soon as possible. Summary: <div>
+<p><small>Mar <var> 4</var>, <var>02:44</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating reports of service degradation where users are unable to join teams meetings via direct connect button on Zoom Rooms. Our engineers are working on this issue and we'll share updates as we have them.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 02:44:16 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 02:44:16 -0800</pubDate>
+</item>
 
 <item>
 <title>Issue with recordings for Zoom Phone</title>

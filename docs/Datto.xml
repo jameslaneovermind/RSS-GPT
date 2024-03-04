@@ -4,6 +4,18 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto Workplace - CA3 - Infrastructure Maintenance</title>
+<link>https://status.datto.com/incidents/tbhh7rz7gk0r</link>
+<guid>https://status.datto.com/incidents/tbhh7rz7gk0r</guid>
+<content:encoded><![CDATA[
+<div> [High] - Infrastructure Maintenance and Service Disruption
+Summary: During the scheduled maintenance, there will be a significant impact on the platform, including the unavailability of search and file conversion features. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>14:00</var> UTC &nbsp;-&nbsp; Mar <var>5</var>, <var>20:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>10:07</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing infrastructure maintenance during this time.<br /><br />During the window Search and File Conversion encompassing displaying thumbnails and file previews will be unavailable.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 14:00:00 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 14:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Syrah, Zinfandel - Isolated issue with Grouped Filters following the 12.8.0 Release</title>

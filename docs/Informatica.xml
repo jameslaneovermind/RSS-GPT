@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming Maintenance on February Upgraded  pods for CDGC</title>
+<link>https://status.informatica.com/incidents/ygvjg6n0f48x</link>
+<guid>https://status.informatica.com/incidents/ygvjg6n0f48x</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Patch deployment for Informatica Cloud Operations <br><br> Informatica Cloud Operations will be rolling out a patch to address the scorecard job failure issue for a few scenarios. This deployment will have zero downtime to ensure that running jobs and services remain unaffected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>4</var>, <var>04:30</var> - <var>06:30</var> PST</strong></p><p><small>Mar <var> 4</var>, <var>02:04</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will roll out a patch to resolve the scorecard job failure issue for few scenarios. This deployment will have Zero Downtime, ensuring that running jobs and services remain unaffected.<br />has context menu</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 04:30:00 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 04:30:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance patch for CDGC on US West 1 Azure Services, US West 3 Azure Services,  Canada Central 1 Services, Canada Central 1 Azure Services</title>
