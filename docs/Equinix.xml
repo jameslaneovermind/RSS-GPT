@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Internet Exchange Portal Availability</title>
+<link>https://status.equinix.com/incidents/8mtzshsr9h19</link>
+<guid>https://status.equinix.com/incidents/8mtzshsr9h19</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Exchange® Services Intermittent Outage
+Summary: The Equinix Internet Exchange® services on the IX Portal are currently experiencing intermittent issues, and a resolution is being investigated. <div>
+<p><small>Mar <var> 4</var>, <var>07:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 4</var>, <var>07:10</var> UTC</small><br /><strong>Investigating</strong> - Equinix Internet Exchange® services on the IX Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 07:12:49 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 07:12:49 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p6fpzglq4w5j</link>
 <guid>https://status.equinix.com/incidents/p6fpzglq4w5j</guid>
@@ -14,9 +27,7 @@ Summary: A critical issue has been identified in the Asia-Pacific region, and a 
 <p><small>Mar <var> 4</var>, <var>06:07</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">4tg0xb78wrq3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030710</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Mar <var> 4</var>, <var>05:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">4tg0xb78wrq3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030710</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 06:07:23 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 06:07:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/zdqvs3r9h26r</link>
