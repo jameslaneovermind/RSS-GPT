@@ -1908,3 +1908,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [API, Payment Pages and Dashboard Outage](https://www.gocardless-status.com/incidents/v83860pqrqv2)
 append_entries: 1
 Finish: 2024-03-04 13:11:35.309588
+------------------------------------------------------
+Started: 2024-03-04 14:08:18.001004
+Existing_entries: 28
+Fetching from https://www.gocardless-status.com/history.rss
+append_entries: 0
+Finish: 2024-03-04 14:08:18.277869

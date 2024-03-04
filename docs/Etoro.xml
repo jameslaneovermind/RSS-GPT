@@ -4,6 +4,7 @@
 <title>eToro Status - Incident History</title>
 <link>https://status.etoro.com</link>
 
+
 <item>
 <title>Cryptos wrongly triggered by TP</title>
 <link>https://status.etoro.com/incidents/g10xl2dwl7hw</link>
@@ -14,9 +15,7 @@ Summary: The company is currently investigating a production issue where cryptos
 <p><small>Mar <var> 4</var>, <var>13:10</var> UTC</small><br /><strong>Investigating</strong> - Hello All,<br />We've detected the following issue in production and are currently investigating<br /><br />Issue:<br />Cryptos wrongly triggered by TP<br /><br />Impact:<br />At least 15 cases incoming so far<br /><br />Team assigned:<br />T3, Trading <br /><br />An update will be provided within 3 hours or with significant updates</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 13:10:31 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 13:10:31 +0000</pubDate>
 </item>
-
 <item>
 <title>319 - EuroNatGas is not available for trading - Investigating</title>
 <link>https://status.etoro.com/incidents/1qypvg8z88gh</link>
