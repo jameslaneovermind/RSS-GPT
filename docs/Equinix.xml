@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/vbngvg7st8vk</link>
 <guid>https://status.equinix.com/incidents/vbngvg7st8vk</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Asia-Pacific (HK) <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0030696
+<div> [High] - Equinix Fabric Outage in Asia-Pacific (HK) <br /><br /> The issue has been identified and a fix is being implemented. Incident Number: INC0030696
 
 The update is tagged as high because it suggests a major outage that is being actively addressed. The incident number also indicates the severity of the issue. <div>
 <p><small>Mar <var> 4</var>, <var>01:53</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">cr85klzdnmrw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030696</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Mar <var> 4</var>, <var>01:40</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">cr85klzdnmrw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030696</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 01:53:52 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 01:53:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/r8j8s2hnp8sg</link>
