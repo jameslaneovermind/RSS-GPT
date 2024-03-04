@@ -4,15 +4,15 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Corporation Tax - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/q0gms5zs3kf5</link>
 <guid>https://status.sage.com/incidents/q0gms5zs3kf5</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> Sage Corporation Tax will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. During this scheduled time some features will be unavailable. We apologize for any inconvenience this may cause. Thank you. The Sage Team Summary: Scheduled maintenance for Sage Corporation Tax on March 7th, 2024. Some features will be unavailable during the maintenance period. <div>
+<div> [Medium] - Scheduled Maintenance <br /><br /> Sage Corporation Tax will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. During this scheduled time some features will be unavailable. We apologize for any inconvenience this may cause. Thank you. The Sage Team Summary: Scheduled maintenance for Sage Corporation Tax on March 7th, 2024. Some features will be unavailable during the maintenance period. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>8</var>, <var>01:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>18:55</var> UTC</small><br /><strong>Scheduled</strong> - Sage Corporation Tax will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. <br /> <br />During this scheduled time some features will be unavailable.<br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 23:00:00 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.sage.com/incidents/wjpvkbzfr00s</link>
 <guid>https://status.sage.com/incidents/wjpvkbzfr00s</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance Outage <br><br>  Sage Final Accounts Online will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. During this scheduled time some features will be unavailable. We apologise for any inconvenience this may cause. Thank you. The Sage Team Summary: The maintenance will result in a temporary outage affecting the availability of several features. <div>
+<div> [High] - Major Maintenance Outage <br /><br />  Sage Final Accounts Online will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. During this scheduled time some features will be unavailable. We apologise for any inconvenience this may cause. Thank you. The Sage Team Summary: The maintenance will result in a temporary outage affecting the availability of several features. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>8</var>, <var>01:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>18:52</var> UTC</small><br /><strong>Scheduled</strong> - Sage Final Accounts Online will be undergoing maintenance on Thursday, March 7th, 2024, for 2 hours between 23:00 UTC and 01:00 UTC, on March 8th. <br /> <br />During this scheduled time some features will be unavailable.<br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 23:00:00 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 23:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Brightpearl - Degraded Performance</title>
 <link>https://status.sage.com/incidents/pymm8jqjbmpj</link>

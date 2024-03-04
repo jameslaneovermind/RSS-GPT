@@ -4,6 +4,7 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>New SendGrid Direct Sign-ups can experiencing login failures</title>
 <link>https://status.sendgrid.com/incidents/wlb4n0mkgw1q</link>
@@ -14,9 +15,7 @@ Summary: Engineers are investigating an issue with Twilio SendGrid Direct Sign-u
 <p><small>Mar <var> 4</var>, <var>10:38</var> PST</small><br /><strong>Update</strong> - New SendGrid Direct Sign-up can experiencing login failures</p><p><small>Mar <var> 4</var>, <var>10:38</var> PST</small><br /><strong>Update</strong> - New SendGrid Direct Sign-up can experiencing login failures</p><p><small>Mar <var> 4</var>, <var>10:35</var> PST</small><br /><strong>Investigating</strong> - Starting around 10:14 AM PST on March 4th 2024, our engineers began investigating an issue with Twilio SendGrid Direct Sign-ups.   New user sign-ups may experience login failures. We will provide another update in 1 hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 10:49:48 -0800</pubDate>
-<pubDate>Mon, 04 Mar 2024 10:49:48 -0800</pubDate>
 </item>
-
 <item>
 <title>Mail Send Delays</title>
 <link>https://status.sendgrid.com/incidents/zhgbtj2s7yt4</link>
