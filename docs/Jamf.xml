@@ -4,6 +4,21 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+<item>
+<title>Jamf School: APNs issues</title>
+<link>https://status.jamf.com/incidents/zxkyrd0zxtz4</link>
+<guid>https://status.jamf.com/incidents/zxkyrd0zxtz4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue
+Summary: The company is currently investigating an issue affecting the downloading of CSR tokens and installing AppStore apps.
+
+[High] - Continuing Investigation of Workflow Issue
+Summary: The company is continuing to investigate the issue affecting the downloading of CSR tokens and installing AppStore apps. <div>
+<p><small>Mar <var> 4</var>, <var>08:41</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate the issue.<br /><br />Following workflows have been impacted:<br />- downloading CSR token used for generating new and renewing APNs certificate<br />- Installing AppStore Apps</p><p><small>Mar <var> 4</var>, <var>08:22</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 08:41:53 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 08:41:53 +0000</pubDate>
+</item>
 
 <item>
 <title>Jamf ID Upgrade</title>
