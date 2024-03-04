@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Brightpearl - Degraded Performance</title>
+<link>https://status.sage.com/incidents/pymm8jqjbmpj</link>
+<guid>https://status.sage.com/incidents/pymm8jqjbmpj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Major Service Issue <br><br> We are investigating an issue in the US, where customers would face slowness when running batch actions. All other product functionality is performing as expected. <div>
+<p><small>Mar <var> 4</var>, <var>15:00</var> UTC</small><br /><strong>Update</strong> - We are investigating an issue in the US, where customers would face slowness when running batch actions. All other product functionality is performing as expected.</p><p><small>Mar <var> 4</var>, <var>14:48</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 15:00:10 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 15:00:10 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Identity Service - Partial Outage</title>

@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Russia SMS Carrier Maintenance - Megafon and Yota</title>
+<link>https://status.twilio.com/incidents/m5nd2pw2t7f4</link>
+<guid>https://status.twilio.com/incidents/m5nd2pw2t7f4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Megafon and Yota Networks in Russia <br><br> The Megafon and Yota networks in Russia are conducting planned maintenance from 06 March 2024 at 12:00 PST until 06 March 2024 at 16:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Megafon and Yota Russia handsets. Summary: Scheduled maintenance for Megafon and Yota networks in Russia may cause intermittent delays in SMS delivery during the specified window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>12:00</var> - <var>16:00</var> PST</strong></p><p><small>Mar <var> 4</var>, <var>06:39</var> PST</small><br /><strong>Scheduled</strong> - The Megafon and Yota networks in Russia are conducting a planned maintenance from 06 March 2024 at 12:00 PST until 06 March 2024 at 16:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Megafon and Yota Russia handsets.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 12:00:00 -0800</pubDate>
+<pubDate>Wed, 06 Mar 2024 12:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Russia SMS Carrier Maintenance - Tele2</title>

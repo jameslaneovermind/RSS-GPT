@@ -4,6 +4,17 @@
 <title>Monese Status Status - Incident History</title>
 <link>https://status.monese.com</link>
 
+<item>
+<title>Scheduled maintenance affecting international Payments</title>
+<link>https://status.monese.com/incidents/jyxs0nrr5s46</link>
+<guid>https://status.monese.com/incidents/jyxs0nrr5s46</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage during Scheduled Maintenance <br><br> One of our payments processing partners will be undergoing scheduled maintenance on Sunday March 10th from 1:00 GMT to 4:00 AM GMT, during which Outgoing International Payments and transfers will fail. We apologize for any inconvenience and aim to minimize disruption. Summary: <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>01:00</var> - <var>04:00</var> GMT</strong></p><p><small>Mar <var> 4</var>, <var>14:13</var> GMT</small><br /><strong>Scheduled</strong> - One of our payments processing partners will be undergoing scheduled maintenance on Sunday March 10th  from  1:00 GMT  to 4:00 AM GMT. During this time window, Outgoing International Payments and transfers will fail. <br /><br />We are sorry for any inconvenience this may cause you and we aim to keep any disruption to a minimum.</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 01:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Paysafe cash deposits in Ireland are not working</title>

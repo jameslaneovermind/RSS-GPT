@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/g6zlx96nmnyx</link>
+<guid>https://status.equinix.com/incidents/g6zlx96nmnyx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect - EMEA (BA) Outage <br><br> The issue has been identified and a fix is being implemented. 
+
+Summary: A major outage has been identified and is currently being fixed. <div>
+<p><small>Mar <var> 4</var>, <var>14:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">8gs0v56sq9qk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030768</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (BA)]</div></p><p><small>Mar <var> 4</var>, <var>14:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">8gs0v56sq9qk</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030768</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (BA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 14:48:23 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 14:48:23 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric)</title>
