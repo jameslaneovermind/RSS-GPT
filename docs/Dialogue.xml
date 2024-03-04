@@ -4,6 +4,7 @@
 <title>Dialogue Status - Incident History</title>
 <link>https://status.dialogue.co</link>
 
+
 <item>
 <title>Connectivité des moniteurs d'activités physiques // Wellness tracker connectivity</title>
 <link>https://status.dialogue.co/incidents/1vxmxvhbwcfy</link>
@@ -14,9 +15,7 @@ Summary: Our wellness tracker provider, Terra, is experiencing connectivity issu
 <p><small>Mar <var> 4</var>, <var>12:16</var> EST</small><br /><strong>Identified</strong> - English follows<br /><br />Notre fournisseur de connectivité aux moniteurs d'activités physiques , Terra, éprouve des difficultés ce qui peut causer des problèmes de connectivité pour les fonctionnalités de suivi des activités physiques dans nos applications. Nous avons contacté Terra.<br /><br />---<br /><br />Our wellness tracker provider, Terra, is experiencing issues which can cause connectivity problems for the tracking of physical activity in our apps. We have reached out to Terra.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 12:16:05 -0500</pubDate>
-<pubDate>Mon, 04 Mar 2024 12:16:05 -0500</pubDate>
 </item>
-
 <item>
 <title>Filtering by reporting columns and member type broken in Dialogue prod-ca</title>
 <link>https://status.dialogue.co/incidents/w0dw96tgjp09</link>

@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Cortex Data Lake - Issue in Gov</title>
 <link>https://status.paloaltonetworks.com/incidents/vtnk6rg1mf4g</link>
 <guid>https://status.paloaltonetworks.com/incidents/vtnk6rg1mf4g</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Cortex Data Lake Issue for US Government Customers <br><br> Delays in log processing due to TLS certificate issues. Summary: Cortex Data Lake is currently experiencing an issue affecting US Government Customers. There are delays in log processing due to TLS certificate issues. An update will be provided by 19:00 UTC. <div>
+<div> [Medium] - Cortex Data Lake Issue for US Government Customers <br /><br /> Delays in log processing due to TLS certificate issues. Summary: Cortex Data Lake is currently experiencing an issue affecting US Government Customers. There are delays in log processing due to TLS certificate issues. An update will be provided by 19:00 UTC. <div>
 <p><small>Mar <var> 4</var>, <var>18:05</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var> 4</var>, <var>17:57</var> UTC</small><br /><strong>Investigating</strong> - Cortex Data Lake is currently experiencing an issue affecting US Government Customers. We are actively working on this issue and will provide another update by 19:00 UTC with further details. <br /><br />Customer Impact: Delays in log processing due to TLS certificate issues<br /><br />Workaround: N/A</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 18:05:22 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 18:05:22 +0000</pubDate>
 </item>
-
 <item>
 <title>Intermittent Delays and failures in machines allocation for tenants</title>
 <link>https://status.paloaltonetworks.com/incidents/1fjp66szm6zp</link>

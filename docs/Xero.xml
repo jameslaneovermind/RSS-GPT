@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>Global: Xero - Some users experiencing errors in Xero</title>
+<link>https://status.xero.com/incidents/6mb91gt13sp4</link>
+<guid>https://status.xero.com/incidents/6mb91gt13sp4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Network Connectivity Issues <br><br> Summary: Customers are experiencing general errors and slowness in Xero due to poor network connectivity. Our technical team is investigating the issue with urgency. <div>
+<p><small>Mar <var> 4</var>, <var>19:02</var> UTC</small><br /><strong>Resolved</strong> - Our team has resolved the issue that was causing errors in Xero. We apologise for any inconvenience this has caused. <br /><br />Our technical team identified this was caused by poor network connectivity and has restored service.</p><p><small>Mar <var> 4</var>, <var>18:49</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers are experiencing general errors and slowness in Xero. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 6:49pm UTC</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 19:02:36 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 19:02:36 +0000</pubDate>
+</item>
 
 <item>
 <title>HMRC system maintenance</title>

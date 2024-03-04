@@ -4,6 +4,7 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Address Verification Cloud March Reference Data Updates</title>
 <link>https://status.informatica.com/incidents/5ytqhkbwb26m</link>
@@ -14,9 +15,7 @@ Summary: Informatica Cloud Operations will be updating reference data used by Ad
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>05:00</var> - <var>07:00</var> PDT</strong></p><p><small>Mar <var> 4</var>, <var>09:13</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be updating reference data used by Address Verification Cloud services.  This is a Zero Downtime activity with no impact to running jobs or services.<br /><br /><b>Action Needed:</b>  none.</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 05:00:00 -0700</pubDate>
-<pubDate>Tue, 19 Mar 2024 05:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Upcoming Maintenance on February Upgraded  pods for CDGC</title>
 <link>https://status.informatica.com/incidents/ygvjg6n0f48x</link>

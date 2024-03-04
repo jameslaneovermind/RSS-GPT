@@ -4,19 +4,18 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Highbond Results - Daily scheduled triggers may not be executing</title>
 <link>https://status.diligent.com/incidents/rnm9l0cw6znt</link>
 <guid>https://status.diligent.com/incidents/rnm9l0cw6znt</guid>
 <content:encoded><![CDATA[
-<div> [High] - Daily Scheduled Triggers Not Working for Some Clients <br><br> Summary: 
+<div> [High] - Daily Scheduled Triggers Not Working for Some Clients <br /><br /> Summary: 
 Some daily scheduled triggers are not working for some clients, and running the triggers manually is recommended as a temporary workaround. <div>
 <p><small>Mar <var> 4</var>, <var>17:54</var> UTC</small><br /><strong>Investigating</strong> - Some daily scheduled triggers are not working for some clients.  <br /><br />Running the triggers manually is recommended as a temporary workaround.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 17:54:32 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 17:54:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Boards - users encountering intermittent iPad book sync issues</title>
 <link>https://status.diligent.com/incidents/myqfksppjr73</link>

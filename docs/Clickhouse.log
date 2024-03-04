@@ -1990,3 +1990,9 @@ Existing_entries: 50
 Fetching from https://status.clickhouse.com/history.rss
 append_entries: 0
 Finish: 2024-03-04 18:10:52.048275
+------------------------------------------------------
+Started: 2024-03-04 19:06:53.662248
+Existing_entries: 50
+Fetching from https://status.clickhouse.com/history.rss
+append_entries: 0
+Finish: 2024-03-04 19:06:53.963786
