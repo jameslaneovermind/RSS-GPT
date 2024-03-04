@@ -4,6 +4,17 @@
 <title>ESS (Public) Status - Incident History</title>
 <link>https://status.elastic.co</link>
 
+<item>
+<title>Capacity provisioning issue in GCP asia-southeast1</title>
+<link>https://status.elastic.co/incidents/03s9rr3hxf68</link>
+<guid>https://status.elastic.co/incidents/03s9rr3hxf68</guid>
+<content:encoded><![CDATA[
+<div> [High] - Capacity Provisioning Issue in GCP asia-southeast1 <br><br> We are aware of the issue with capacity provisioning in GCP asia-southeast1. Our teams are investigating. Summary: The capacity provisioning issue in GCP asia-southeast1 is undergoing investigation, indicating a major outage with platform downtime. <div>
+<p><small>Mar <var> 4</var>, <var>01:28</var> UTC</small><br /><strong>Investigating</strong> - We are aware of the issue with capacity provisioning in GCP asia-southeast1. Our teams are investigating.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 01:28:11 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 01:28:11 +0000</pubDate>
+</item>
 
 <item>
 <title>AWS N. Virginia (us-east-1) IP Additions</title>
