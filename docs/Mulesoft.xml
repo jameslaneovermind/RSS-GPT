@@ -4,19 +4,18 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Retroactive Post: UI options missing Partner Manager</title>
 <link>https://status.mulesoft.com/incidents/sw7vn0s76jq1</link>
 <guid>https://status.mulesoft.com/incidents/sw7vn0s76jq1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Partner Manager Navigation Issue <br><br> 
+<div> [High] - Partner Manager Navigation Issue <br /><br /> 
 Customers experienced a significant issue where they were unable to navigate or view options within Partner Manager for over an hour. The problem was resolved by the engineering teams. <div>
 <p><small>Mar <var> 4</var>, <var>12:12</var> PST</small><br /><strong>Resolved</strong> - We experienced an issue from 2024-03-04 18:18 UTC (10:18 AM PST) to 19:43 UTC (11:43AM PST) , where customers were not able to navigate or view options within Partner Manager. Our engineering teams have resolved this issue and are taking the necessary steps to prevent such issues in the future.</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 12:12:51 -0800</pubDate>
-<pubDate>Mon, 04 Mar 2024 12:12:51 -0800</pubDate>
 </item>
-
 <item>
 <title>Jira connector creation issues</title>
 <link>https://status.mulesoft.com/incidents/4zlk26p3l8g5</link>

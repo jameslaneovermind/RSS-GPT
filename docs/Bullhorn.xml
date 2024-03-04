@@ -4,6 +4,18 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Scheduled Maintenance - Adapt</title>
+<link>https://status.bullhorn.com/incidents/kkh5p777nrgz</link>
+<guid>https://status.bullhorn.com/incidents/kkh5p777nrgz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage: Adapt Application Unavailability
+Summary: The Adapt application will be unavailable due to standard maintenance performed by the Bullhorn Technical Operations team. Additional updates will be posted if necessary. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>11:00</var> - <var>15:00</var> EST</strong></p><p><small>Mar <var> 4</var>, <var>17:08</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: During this window, the Adapt application will be unavailable. </b><br />System: Adapt OnDemand<br />Clusters: [C1 or P2 or All]<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame. Additional updates will be posted here if necessary.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 11:00:00 -0500</pubDate>
+<pubDate>Wed, 06 Mar 2024 11:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
