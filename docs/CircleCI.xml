@@ -4,6 +4,17 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+<item>
+<title>Increased wait time for select resource classes</title>
+<link>https://status.circleci.com/incidents/9g55psjl842z</link>
+<guid>https://status.circleci.com/incidents/9g55psjl842z</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Datacenter <br><br> Loss of connectivity to datacenter causing increased wait times for jobs using specific resource classes. <div>
+<p><small>Mar <var> 4</var>, <var>20:57</var> UTC</small><br /><strong>Investigating</strong> - A loss of connectivity to one of our datacenters will result in increased wait times for jobs using the 'macos.m1.medium.gen1' and 'macos.m1.large.gen1' resource classes</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 20:57:08 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 20:57:08 +0000</pubDate>
+</item>
 
 <item>
 <title>Insights</title>

@@ -4,16 +4,16 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>PSA - 2024.1.2 - Versión secundaria del PSA - Spanish (Español)</title>
 <link>https://status.datto.com/incidents/m9g9l1wmpc2j</link>
 <guid>https://status.datto.com/incidents/m9g9l1wmpc2j</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage for PSAN Maintenance <br><br> The scheduled maintenance is for implementing a secondary version with bug fixes, and may result in brief session closures for partners. There is a link provided for the list of tickets corrected with this version.
+<div> [High] - Major Outage for PSAN Maintenance <br /><br /> The scheduled maintenance is for implementing a secondary version with bug fixes, and may result in brief session closures for partners. There is a link provided for the list of tickets corrected with this version.
  <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>19:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>19:34</var> UTC</small><br /><strong>Scheduled</strong> - Tipo de mantenimiento: Versión secundaria del PSA<br /><br />Número de la versión: 2024.1.2<br /><br />Propósito: Esta es la implementación de una versión secundaria que incluye correcciones de errores.<br /><br />Impacto: Es posible que se cierre brevemente la sesión de los socios durante esta ventana.<br /><br />Vínculo a la lista de tickets corregidos con esta versión: <br />https://community.kaseya.com/help-learning/discussion/comment/196153#Comment_196153</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 19:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
@@ -26,17 +26,15 @@ Summary: A minor release is being deployed to address bug fixes. Customers may e
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>19:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>19:33</var> UTC</small><br /><strong>Scheduled</strong> - Art der Wartung: PSA Minor Release<br /><br />Release-Nummer: 2024.1.2<br /><br />Zweck: Hiermit wird ein Minor Release bereitgestellt, das Fehlerbehebungen beinhaltet.<br /><br />Auswirkungen: Eventuell werden Kunden in diesem Zeitraum kurzzeitig abgemeldet.<br /><br />Link zu der Liste der Tickets, die in dieser Version behoben wurden: <br />https://community.kaseya.com/help-learning/discussion/comment/196153#Comment_196153</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 19:00:00 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>PSA - 2024.1.2 Minor Release - AU</title>
 <link>https://status.datto.com/incidents/xqn0g683vk0v</link>
 <guid>https://status.datto.com/incidents/xqn0g683vk0v</guid>
 <content:encoded><![CDATA[
-<div> [Tag(Medium)] - Scheduled Maintenance Mar 5, 15:00 - 17:00 UTC <br><br> Summary: This is a Minor Release deployment which includes bug fixes. Partners may be briefly logged out during this window. <div>
+<div> [Tag(Medium)] - Scheduled Maintenance Mar 5, 15:00 - 17:00 UTC <br /><br /> Summary: This is a Minor Release deployment which includes bug fixes. Partners may be briefly logged out during this window. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>15:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>19:32</var> UTC</small><br /><strong>Scheduled</strong> - Maintenance Type:  PSA Minor Release <br /><br />Release Number: 2024.1.2<br /><br />Purpose: This is a Minor Release deployment which includes bug fixes.<br /><br />Impact: Partners may be briefly logged out during this window. <br /><br />Link to the list of Tickets fixed with this release:<br />https://community.kaseya.com/help-learning/discussion/comment/196153#Comment_196153</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 15:00:00 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -44,13 +42,10 @@ Summary: A minor release is being deployed to address bug fixes. Customers may e
 <link>https://status.datto.com/incidents/4w5wkn3mfbxn</link>
 <guid>https://status.datto.com/incidents/4w5wkn3mfbxn</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>02:00</var> - <var>06:00</var> UTC</strong></p><p><small>Mar <var> 4</var>, <var>19:29</var> UTC</small><br /><strong>Scheduled</strong> - Maintenance Type:  PSA Minor Release <br /><br />Release Number: 2024.1.2<br /><br />Purpose: This is a Minor Release deployment which includes bug fixes.<br /><br />Impact: Partners may be briefly logged out during this window. <br /><br />Link to the list of Tickets fixed with this release:<br />https://community.kaseya.com/help-learning/discussion/comment/196153#Comment_196153</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 02:00:00 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 02:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto Workplace - CA3 - Infrastructure Maintenance</title>
 <link>https://status.datto.com/incidents/tbhh7rz7gk0r</link>

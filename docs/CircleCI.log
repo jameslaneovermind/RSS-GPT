@@ -1795,3 +1795,12 @@ Existing_entries: 29
 Fetching from https://status.circleci.com/history.rss
 append_entries: 0
 Finish: 2024-03-04 20:09:21.413251
+------------------------------------------------------
+Started: 2024-03-04 21:08:45.153282
+Existing_entries: 29
+Fetching from https://status.circleci.com/history.rss
+Token length: 202
+Summarized using GPT-3.5-turbo-1106
+Append: [Increased wait time for select resource classes](https://status.circleci.com/incidents/9g55psjl842z)
+append_entries: 1
+Finish: 2024-03-04 21:08:46.065768

@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Townsend Cloudblade Infrastructure impacted</title>
+<link>https://status.paloaltonetworks.com/incidents/65nn520n09db</link>
+<guid>https://status.paloaltonetworks.com/incidents/65nn520n09db</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage due to Configuration Change <br><br> Summary: The issue has been identified and a fix is being implemented. <div>
+<p><small>Mar <var> 4</var>, <var>20:46</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 20:47:04 +0000</pubDate>
+<pubDate>Mon, 04 Mar 2024 20:47:04 +0000</pubDate>
+</item>
 
 <item>
 <title>Cortex Data Lake - Issue in Gov</title>

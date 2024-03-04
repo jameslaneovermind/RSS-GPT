@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Service Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/z1tft2s40tzd</link>
@@ -14,9 +15,7 @@ Summary: One of the FR6 devices has experienced a failed card, leading to servic
 <p><small>Mar <var> 4</var>, <var>19:35</var> UTC</small><br /><strong>Update</strong> - One of the  of the FR6 device show a failed card. Customers on the affected device experience service interruption. Equinix engineers are investigating the issue. We will send updates as more information as we investigate..<br /><div style="display: none;">mhwb2nwvdq7g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030803</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Mar <var> 4</var>, <var>19:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mhwb2nwvdq7g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030803</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 19:35:51 +0000</pubDate>
-<pubDate>Mon, 04 Mar 2024 19:35:51 +0000</pubDate>
 </item>
-
 <item>
 <title>Site Infrastructure Maintenance - Toronto (Equinix Metal)</title>
 <link>https://status.equinix.com/incidents/53pdd3vxkwdt</link>

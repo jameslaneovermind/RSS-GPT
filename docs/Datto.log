@@ -1593,3 +1593,9 @@ Append: [PSA - 2024.1.2 Minor Release - AU](https://status.datto.com/incidents/x
 Append: [PSA - 2024.1.2 Minor Release - LR, AE, AW, UK, UK2, UKLR, EU1](https://status.datto.com/incidents/4w5wkn3mfbxn)
 append_entries: 4
 Finish: 2024-03-04 20:09:53.788857
+------------------------------------------------------
+Started: 2024-03-04 21:09:19.882748
+Existing_entries: 41
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-03-04 21:09:20.162835
