@@ -4,18 +4,17 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/d36fjffjgdsb</link>
 <guid>https://status.bubble.io/incidents/d36fjffjgdsb</guid>
 <content:encoded><![CDATA[
-<div> [High] - Critical Outage Detected on Main Bubble Cluster <br><br> Our automated systems report potential issues with the main Bubble cluster and are currently investigating the root cause of the outage. <div>
+<div> [High] - Critical Outage Detected on Main Bubble Cluster <br /><br /> Our automated systems report potential issues with the main Bubble cluster and are currently investigating the root cause of the outage. <div>
 <p><small>Mar <var> 4</var>, <var>21:11</var> EST</small><br /><strong>Resolved</strong> - Our automated systems report that they were able to successfully restore service to normal.  We are investigating the root cause of the outage.</p><p><small>Mar <var> 4</var>, <var>21:04</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 21:11:00 -0500</pubDate>
-<pubDate>Mon, 04 Mar 2024 21:11:00 -0500</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/2xhyd1yypcgb</link>

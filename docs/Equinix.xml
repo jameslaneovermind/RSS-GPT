@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Edge (NE) Portal Availability</title>
 <link>https://status.equinix.com/incidents/bqfjjthsgkbn</link>
@@ -13,7 +14,6 @@
 Summary: Network Edge services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved. <div>
 <p><small>Mar <var> 5</var>, <var>02:13</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:11</var> UTC</small><br /><strong>Investigating</strong> - Network Edge services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:13:56 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:13:56 +0000</pubDate>
 </item>
 <item>
@@ -26,7 +26,6 @@ Summary: Equinix Fabric services on the Fabric Portal are currently experiencing
 <p><small>Mar <var> 5</var>, <var>02:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:11</var> UTC</small><br /><strong>Investigating</strong> - Equinix Fabric services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 02:12:59 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 02:12:59 +0000</pubDate>
 </item>
 <item>
 <title>Equinix Customer Portal (ECP) Availability</title>
@@ -38,17 +37,14 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <p><small>Mar <var> 5</var>, <var>02:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:11</var> UTC</small><br /><strong>Investigating</strong> - Services on the Equinix Customer Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 02:12:14 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 02:12:14 +0000</pubDate>
 </item>
 <item>
 <title>Equinix Marketplace Availability</title>
 <link>https://status.equinix.com/incidents/7fdlv0j4njk0</link>
 <guid>https://status.equinix.com/incidents/7fdlv0j4njk0</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:12</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:04</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:12:05 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:12:05 +0000</pubDate>
 </item>
 <item>
@@ -56,10 +52,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/5khpfkdwzm29</link>
 <guid>https://status.equinix.com/incidents/5khpfkdwzm29</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:11</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:10</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:11:15 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:11:15 +0000</pubDate>
 </item>
 <item>
@@ -67,10 +61,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/d0ln1yd8t4nl</link>
 <guid>https://status.equinix.com/incidents/d0ln1yd8t4nl</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:11</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:08</var> UTC</small><br /><strong>Investigating</strong> - Network Edge services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:11:04 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:11:04 +0000</pubDate>
 </item>
 <item>
@@ -78,10 +70,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/4thh3vsyqyc1</link>
 <guid>https://status.equinix.com/incidents/4thh3vsyqyc1</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:09</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:06</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:09:20 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:09:20 +0000</pubDate>
 </item>
 <item>
@@ -89,10 +79,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/k8pmzjng69p3</link>
 <guid>https://status.equinix.com/incidents/k8pmzjng69p3</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:09</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:06</var> UTC</small><br /><strong>Investigating</strong> - Equinix Internet Exchange® services on the IX Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:09:05 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:09:05 +0000</pubDate>
 </item>
 <item>
@@ -100,10 +88,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/svxlts6f4qly</link>
 <guid>https://status.equinix.com/incidents/svxlts6f4qly</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:08</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:07</var> UTC</small><br /><strong>Investigating</strong> - Services on the Equinix Customer Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:08:13 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:08:13 +0000</pubDate>
 </item>
 <item>
@@ -111,10 +97,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/dy72k60njlgr</link>
 <guid>https://status.equinix.com/incidents/dy72k60njlgr</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:07</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:05</var> UTC</small><br /><strong>Investigating</strong> - Network Edge services on the Fabric Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:07:01 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:07:01 +0000</pubDate>
 </item>
 <item>
@@ -122,10 +106,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/z1yshkh3bbxx</link>
 <guid>https://status.equinix.com/incidents/z1yshkh3bbxx</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:06</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:05</var> UTC</small><br /><strong>Investigating</strong> - Services on the Equinix Customer Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:06:17 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:06:17 +0000</pubDate>
 </item>
 <item>
@@ -133,10 +115,8 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/yxsblcdjcm0n</link>
 <guid>https://status.equinix.com/incidents/yxsblcdjcm0n</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:05</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Mar <var> 5</var>, <var>02:04</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 02:05:13 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 02:05:13 +0000</pubDate>
 </item>
 <item>
@@ -144,13 +124,10 @@ Summary: Services on the Equinix Customer Portal are currently experiencing inte
 <link>https://status.equinix.com/incidents/9vp596b8wfpw</link>
 <guid>https://status.equinix.com/incidents/9vp596b8wfpw</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var> 5</var>, <var>02:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">yr1ln9kss3r8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030854</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 02:01:27 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 02:01:27 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/9hyq06trmjvj</link>
