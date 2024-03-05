@@ -1746,3 +1746,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Datto Partner Portal - Various functions related to creating/modifying Users and Organizations are Failing](https://status.datto.com/incidents/bmm26fj6f72b)
 append_entries: 1
 Finish: 2024-03-05 20:09:37.067833
+------------------------------------------------------
+Started: 2024-03-05 21:09:01.266277
+Existing_entries: 42
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-03-05 21:09:01.634705

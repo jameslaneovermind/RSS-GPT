@@ -4,6 +4,17 @@
 <title>Talkdesk Status - Incident History</title>
 <link>https://status.talkdesk.com</link>
 
+<item>
+<title>Workspace App errors in US region</title>
+<link>https://status.talkdesk.com/incidents/3xbg8kpjdvfc</link>
+<guid>https://status.talkdesk.com/incidents/3xbg8kpjdvfc</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Workspace Login Issues in US Region <br><br> We are currently experiencing intermittent issues with Workspace login in the US deployment region. Our engineering team is investigating this issue to determine the cause of the platform downtime. Inbound and Outbound calls are not affected. We will provide an update within 30 minutes. Summary: Issues with Workspace login are being investigated, with no impact on calls. <div>
+<p><small>Mar <var> 5</var>, <var>20:48</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing intermittent issues with Workspace login in the US deployment region. Inbound and Outbound calls are not affected. We are investigating this issue alongside our engineering team. We will update the page within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 20:48:52 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 20:48:52 +0000</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance Update</title>

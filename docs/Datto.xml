@@ -4,18 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto Partner Portal - Various functions related to creating/modifying Users and Organizations are Failing</title>
 <link>https://status.datto.com/incidents/bmm26fj6f72b</link>
 <guid>https://status.datto.com/incidents/bmm26fj6f72b</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br>Summary: We are currently investigating a major platform issue that is causing downtime for our users. We suspect it may be due to a recent configuration change. <div>
+<div> [High] - Major Platform Outage <br /><br />Summary: We are currently investigating a major platform issue that is causing downtime for our users. We suspect it may be due to a recent configuration change. <div>
 <p><small>Mar <var> 5</var>, <var>20:08</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 20:08:23 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 20:08:23 +0000</pubDate>
 </item>
-
 <item>
 <title>PSA - 2024.1.2 - Versión secundaria del PSA - Spanish (Español)</title>
 <link>https://status.datto.com/incidents/m9g9l1wmpc2j</link>

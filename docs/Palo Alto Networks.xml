@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Prisma Cloud [APP2]: Ongoing service disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/8qv6l7fmndx2</link>
 <guid>https://status.paloaltonetworks.com/incidents/8qv6l7fmndx2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Issue <br><br> Summary: The company is currently investigating an issue without indicating the scale or impact of the problem. <div>
+<div> [Medium] - Investigating Issue <br /><br /> Summary: The company is currently investigating an issue without indicating the scale or impact of the problem. <div>
 <p><small>Mar <var> 5</var>, <var>19:30</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 19:30:45 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 19:30:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Login Failures for Strata Cloud Manager</title>
 <link>https://status.paloaltonetworks.com/incidents/ybhtcvhj1r5n</link>
