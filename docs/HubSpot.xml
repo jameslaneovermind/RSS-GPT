@@ -4,6 +4,17 @@
 <title>HubSpot Status - Incident History</title>
 <link>https://status.hubspot.com</link>
 
+<item>
+<title>Workflows was unavailable for some users</title>
+<link>https://status.hubspot.com/incidents/n73dpsv0mbsl</link>
+<guid>https://status.hubspot.com/incidents/n73dpsv0mbsl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Workflows Delay Issue <br><br> Summary: Some customers experienced issues with Workflows due to delays in enrollment processes, causing disruptions for up to an hour and a half on Mar 4, 2024. The issue has been resolved as of 9:30 PM EST. <div>
+<p><small>Mar <var> 5</var>, <var>10:08</var> EST</small><br /><strong>Resolved</strong> - Between 7:45 PM EST (UTC -05:00) on Mar 4, 2024 and 9:30 PM EST (UTC -05:00) on Mar 4, 2024, some customers experienced issues with Workflows. This was caused by delays in enrollment processes of up to an hour and a half. As of 9:30 PM EST (UTC -05:00) on Mar 4, 2024, Workflows is working properly and the incident has been fully resolved.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 10:08:43 -0500</pubDate>
+<pubDate>Tue, 05 Mar 2024 10:08:43 -0500</pubDate>
+</item>
 
 <item>
 <title>Installing Google Search Console integration is unavailable for all customers</title>

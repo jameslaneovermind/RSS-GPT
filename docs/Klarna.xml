@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Klarna purchase API degradation</title>
+<link>https://status.klarna.com/incidents/swm82qwrdrvv</link>
+<guid>https://status.klarna.com/incidents/swm82qwrdrvv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Payment API Issues <br /><br /> Investigating a small subset of card payments within the Klarna purchase API that is experiencing issues. We are working to restore the service as soon as possible. Summary: <div>
+<p><small>Mar <var> 5</var>, <var>16:16</var> CET</small><br /><strong>Investigating</strong> - We are currently experiencing issues with a small subset of card payments within the Klarna purchase API. We are contacting the 3rd party provider to restore the service as soon as possible.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 16:16:52 +0100</pubDate>
+</item>
+<item>
 <title>Consumers in EU are unable to authenticate using ID Scan</title>
 <link>https://status.klarna.com/incidents/tz3g1zzprc49</link>
 <guid>https://status.klarna.com/incidents/tz3g1zzprc49</guid>

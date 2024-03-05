@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/6pmtbkq1pwlt</link>
 <guid>https://status.equinix.com/incidents/6pmtbkq1pwlt</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric and Metro Connect Service Interruption <br><br> A failure on the dark fiber link on SP Metro has caused service interruption for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits, with a 50ms switching hit for Protected Metro Connect circuits. Engineers are currently investigating the issue.
+<div> [High] - Equinix Fabric and Metro Connect Service Interruption <br /><br /> A failure on the dark fiber link on SP Metro has caused service interruption for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits, with a 50ms switching hit for Protected Metro Connect circuits. Engineers are currently investigating the issue.
 
  <div>
 <p><small>Mar <var> 5</var>, <var>14:58</var> UTC</small><br /><strong>Update</strong> - Failure on dark fiber link on SP Metro.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating the issue..<br /><div style="display: none;">r3c96pgrn7dn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030950</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p><p><small>Mar <var> 5</var>, <var>14:40</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">r3c96pgrn7dn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030950</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 14:58:19 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 14:58:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/y91m16vddq2y</link>

@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Cloud Application Integration maintenance on EM West 1 Services</title>
+<link>https://status.informatica.com/incidents/tkg85jw3ls4k</link>
+<guid>https://status.informatica.com/incidents/tkg85jw3ls4k</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Cloud Application Integration Patch Deployment<br><br> Informatica Cloud Operations will be deploying patches on the February standard release of Cloud Application Integration on the EM West 1 POD. This is a Zero Downtime update, and all services will remain operational. Action Needed: none. Summary: Scheduled deployment of patches for Cloud Application Integration with no expected downtime. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>20:00</var> - <var>22:00</var> PST</strong></p><p><small>Mar <var> 5</var>, <var>08:06</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be deploying patches on the February standard release of Cloud Application Integration on the EM West 1 POD.<br /><br />This is a Zero Downtime update, and all services will remain operational.<br /><br /><b>Action Needed: </b> none.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 20:00:00 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 20:00:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Products Icons are not getting Loaded Properly for All Pods</title>

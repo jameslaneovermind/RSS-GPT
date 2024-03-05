@@ -4,6 +4,28 @@
 <title>Zapier Status - Incident History</title>
 <link>https://status.zapier.com</link>
 
+<item>
+<title>Facebook (Meta) experiencing API outage</title>
+<link>https://status.zapier.com/incidents/tpnj4qp8f845</link>
+<guid>https://status.zapier.com/incidents/tpnj4qp8f845</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - API Outage Investigation <br><br> The team is investigating an outage affecting the Facebook (Meta) API and will continue to provide regular updates. For more information, visit Meta's Status Page at https://metastatus.com/. Summary: The Facebook (Meta) API outage is currently being investigated. <div>
+<p><small>Mar <var> 5</var>, <var>08:04</var> PST</small><br /><strong>Investigating</strong> - The team is currently investigating an outage affecting Facebook (Meta) API and will continue to monitor and update status regularly. Meta's Status Page can be found here: https://metastatus.com/</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 08:04:54 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 08:04:54 -0800</pubDate>
+</item>
+<item>
+<title>Delayed Zap Triggers</title>
+<link>https://status.zapier.com/incidents/14hckyhhmj58</link>
+<guid>https://status.zapier.com/incidents/14hckyhhmj58</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Delay in Zap Triggers Processing <br><br> Some Zap triggers experienced delays of up to 8 minutes between 14:55 UTC and 15:50 UTC. The issue has been identified and resolved by our engineers. Apologies for any inconvenience. Summary: <div>
+<p><small>Mar <var> 5</var>, <var>08:04</var> PST</small><br /><strong>Monitoring</strong> - Between 14:55 UTC and 15:50 UTC, customers may have noticed a delay of up to 8 minutes in some Zap triggers. Our engineers have identified the source of the issue and all triggers should be processing as normal. We apologize for any inconvenience caused by this.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 08:04:11 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 08:04:11 -0800</pubDate>
+</item>
 
 <item>
 <title>Microsoft Exchange Authentication Outage</title>

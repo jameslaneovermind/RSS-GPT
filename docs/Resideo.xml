@@ -4,18 +4,17 @@
 <title>Resideo Status - Incident History</title>
 <link>https://status.resideo.com</link>
 
+
 <item>
 <title>Total connect Comfort</title>
 <link>https://status.resideo.com/incidents/4xb99364sd38</link>
 <guid>https://status.resideo.com/incidents/4xb99364sd38</guid>
 <content:encoded><![CDATA[
-<div> [Low] - TCC Application Issues <br><br> Some customers are experiencing issues with our TCC application, but the thermostat can still be used directly to control your heating and cooling system. We apologize for any inconvenience this may have caused. Summary: Some customers are experiencing issues with the TCC application, but a direct thermostat control is still operational. <div>
+<div> [Low] - TCC Application Issues <br /><br /> Some customers are experiencing issues with our TCC application, but the thermostat can still be used directly to control your heating and cooling system. We apologize for any inconvenience this may have caused. Summary: Some customers are experiencing issues with the TCC application, but a direct thermostat control is still operational. <div>
 <p><small>Mar <var> 5</var>, <var>14:40</var> UTC</small><br /><strong>Investigating</strong> - We are aware some of our customers are experiencing issues with our TCC application.  The thermostat can still be used directly to control your heating and cooling system. We apologize for any inconvenience this may have caused.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 14:40:23 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 14:40:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Resideo Smart Home</title>
 <link>https://status.resideo.com/incidents/r7wtzvny5f1j</link>
