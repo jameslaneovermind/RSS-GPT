@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Products Icons are not getting Loaded Properly for All Pods</title>
+<link>https://status.informatica.com/incidents/vrm2hrnc3yg4</link>
+<guid>https://status.informatica.com/incidents/vrm2hrnc3yg4</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Product Icon Loading Issue
+Summary: The service Page is experiencing an issue with product icons not loading, but it is not impacting the functionality of the Pod or product jobs. The team is working on a fix and will provide an update soon. <div>
+<p><small>Mar <var> 4</var>, <var>21:00</var> PST</small><br /><strong>Investigating</strong> - We are facing an issue on the service Page where the Icons of Products are not getting loaded up. Functionality there is no impact on Pod and product all the jobs will continue to run without any issues. We have been working to fix this issue and will post the progress shortly.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Mar 2024 21:01:22 -0800</pubDate>
+<pubDate>Mon, 04 Mar 2024 21:01:22 -0800</pubDate>
+</item>
 
 <item>
 <title>Address Verification Cloud March Reference Data Updates</title>

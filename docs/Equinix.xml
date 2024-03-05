@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/cyg0yblld642</link>
@@ -15,9 +16,7 @@ The issue has been identified, and a fix is being implemented for a major outage
 <p><small>Mar <var> 5</var>, <var>04:04</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bwsw89clym38</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030861</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, MI)]</div></p><p><small>Mar <var> 5</var>, <var>03:46</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bwsw89clym38</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030861</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, MI)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 04:04:13 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 04:04:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Edge (NE) Portal Availability</title>
 <link>https://status.equinix.com/incidents/bqfjjthsgkbn</link>
