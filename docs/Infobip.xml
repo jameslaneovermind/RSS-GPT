@@ -4,18 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Flow People Import degradation</title>
 <link>https://status.infobip.com/incidents/188x0gc9shh3</link>
 <guid>https://status.infobip.com/incidents/188x0gc9shh3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major People Import Service Outage in Global (Germany) Data Center <br><br> We are currently experiencing issues with the People Import service on our Global (Germany) data center, affecting the creation of Moments - Flow campaigns. A fix has been implemented, and we are monitoring the results for further updates. <div>
+<div> [High] - Major People Import Service Outage in Global (Germany) Data Center <br /><br /> We are currently experiencing issues with the People Import service on our Global (Germany) data center, affecting the creation of Moments - Flow campaigns. A fix has been implemented, and we are monitoring the results for further updates. <div>
 <p><small>Mar <var> 5</var>, <var>11:57</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results. More information will follow in the next update.</p><p><small>Mar <var> 5</var>, <var>11:29</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with the People Import service on our Global (Germany) data center. This is affecting the creation of Moments - Flow campaigns as you may experience issues when importing audiences.<br />We are investigating the issues and will keep you posted with further updates.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 11:57:05 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 11:57:05 +0000</pubDate>
 </item>
-
 <item>
 <title>General connectivity issues towards Turkey data center</title>
 <link>https://status.infobip.com/incidents/fs1nwtkp7pg9</link>

@@ -4,6 +4,18 @@
 <title>Lunio Status - Incident History</title>
 <link>https://status.lunio.ai</link>
 
+<item>
+<title>We will be undergoing scheduled maintenance during this time.</title>
+<link>https://status.lunio.ai/incidents/flwy7dj9m1mz</link>
+<guid>https://status.lunio.ai/incidents/flwy7dj9m1mz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage due to Scheduled Maintenance
+Summary: The company will be undergoing scheduled maintenance during the specified time, indicating a major outage affecting the platform. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>17:00</var> - <var>18:00</var> GMT</strong></p><p><small>Mar <var> 5</var>, <var>13:02</var> GMT</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 17:00:00 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 17:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Version upgrade</title>

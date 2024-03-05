@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/vcd50g5t3ypc</link>
 <guid>https://status.equinix.com/incidents/vcd50g5t3ypc</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage <br><br> We have identified an issue with Equinix Fabric in the EMEA region and are in the process of implementing a fix. It is a major incident that is currently under investigation.
+<div> [High] - Equinix Fabric Outage <br /><br /> We have identified an issue with Equinix Fabric in the EMEA region and are in the process of implementing a fix. It is a major incident that is currently under investigation.
 
 I hope this answer helps. <div>
 <p><small>Mar <var> 5</var>, <var>11:41</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">qg6vhtx1hskt</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030926</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p><p><small>Mar <var> 5</var>, <var>11:23</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">qg6vhtx1hskt</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030926</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 11:41:31 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 11:41:31 +0000</pubDate>
 </item>
 <item>
@@ -22,15 +22,13 @@ I hope this answer helps. <div>
 <link>https://status.equinix.com/incidents/3215zhtr2xjy</link>
 <guid>https://status.equinix.com/incidents/3215zhtr2xjy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Impacting Equinix Fabric EMEA (DX, ML) <br><br> We are currently investigating a critical incident that has been identified and a fix is being implemented. 
+<div> [High] - Major Outage Impacting Equinix Fabric EMEA (DX, ML) <br /><br /> We are currently investigating a critical incident that has been identified and a fix is being implemented. 
 
 Summary: The issue has been identified and a fix is in progress for a major outage impacting Equinix Fabric EMEA (DX, ML). <div>
 <p><small>Mar <var> 5</var>, <var>11:41</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">7k77lsrgychn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030924</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (DX, ML)]</div></p><p><small>Mar <var> 5</var>, <var>11:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">7k77lsrgychn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030924</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (DX, ML)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 11:41:13 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 11:41:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/yp5fm2rxn7tr</link>

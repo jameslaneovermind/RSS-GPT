@@ -2161,3 +2161,10 @@ Fetching from https://status.razorpay.com/history.rss
 Feed error: <unknown>:50:2: mismatched tag
 append_entries: 0
 error when rendering xml, skip docs/Razorpay
+------------------------------------------------------
+Started: 2024-03-05 13:08:34.527159
+Existing_entries: 0
+Fetching from https://status.razorpay.com/history.rss
+Feed error: <unknown>:50:2: mismatched tag
+append_entries: 0
+error when rendering xml, skip docs/Razorpay

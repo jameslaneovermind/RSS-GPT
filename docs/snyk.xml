@@ -4,18 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Snyk Reporting Partially Degraded</title>
 <link>https://status.snyk.io/incidents/w94r0zd3tv2m</link>
 <guid>https://status.snyk.io/incidents/w94r0zd3tv2m</guid>
 <content:encoded><![CDATA[
-<div> [High] - Significant Delay Impacting Reporting <br><br> Snyk Monitoring tools have identified a significant delay affecting Reporting for a small percentage of projects. Snyk Engineers are troubleshooting the issue. The Snyk incident response has been invoked. <div>
+<div> [High] - Significant Delay Impacting Reporting <br /><br /> Snyk Monitoring tools have identified a significant delay affecting Reporting for a small percentage of projects. Snyk Engineers are troubleshooting the issue. The Snyk incident response has been invoked. <div>
 <p><small>Mar <var> 5</var>, <var>11:40</var> UTC</small><br /><strong>Investigating</strong> - Snyk Monitoring tools have identified a significant delay which is currently impacting Reporting for a small percentage of projects.<br /><br />Snyk Engineers have commenced troubleshooting the issue.<br /><br />The Snyk incident response has been invoked.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 11:40:55 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 11:40:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Snyk Platform Upgrade</title>
 <link>https://status.snyk.io/incidents/fy00njrcmgwq</link>
