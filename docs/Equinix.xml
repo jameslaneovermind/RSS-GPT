@@ -4,6 +4,21 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Other (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/cgyhtftr0k7f</link>
+<guid>https://status.equinix.com/incidents/cgyhtftr0k7f</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Identified
+Summary: The issue has been identified and a fix is being implemented.
+
+[Medium] - Ongoing Investigation
+Summary: We are currently investigating this issue. <div>
+<p><small>Mar <var> 5</var>, <var>17:57</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">5kbxjc42qdl5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030996</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SV)]</div></p><p><small>Mar <var> 5</var>, <var>17:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5kbxjc42qdl5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030996</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SV)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 17:57:48 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 17:57:48 +0000</pubDate>
+</item>
 
 <item>
 <title>Site Infrastructure Maintenance - Seattle (Equinix Metal)</title>
