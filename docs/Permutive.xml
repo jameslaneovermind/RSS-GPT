@@ -4,6 +4,19 @@
 <title>Permutive Status - Incident History</title>
 <link>https://status.permutive.com</link>
 
+<item>
+<title>Permutive API outage</title>
+<link>https://status.permutive.com/incidents/6lh80wfwphjy</link>
+<guid>https://status.permutive.com/incidents/6lh80wfwphjy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Permutive API Outage <br><br> The Permutive API experienced a major outage, causing platform downtime between 01:36 UTC and 06:49 UTC on 5th March 2024. The outage affected Insights and Routing services, while segmentation & activation of users remained operational with degraded service. Our team is investigating the cause.
+
+ <div>
+<p><small>Mar <var> 5</var>, <var>09:20</var> UTC</small><br /><strong>Monitoring</strong> - The Permutive API suffered an outage between 01:36 UTC and 06:49 UTC on 5th March 2024. During this period, segmentation & activation of users remained operational with degraded service, but Insights and Routing were affected. All services have been restored and our team are investigating the cause.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 09:20:05 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 09:20:05 +0000</pubDate>
+</item>
 
 <item>
 <title>Delays in S3 Routing (Batch) data sync</title>
