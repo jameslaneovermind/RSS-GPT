@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Indonesia SMS Carrier Maintenance - XL</title>
 <link>https://status.twilio.com/incidents/w0qqyj434qsd</link>
 <guid>https://status.twilio.com/incidents/w0qqyj434qsd</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for XL Network in Indonesia <br><br> 
+<div> [Medium] - Scheduled Maintenance for XL Network in Indonesia <br /><br /> 
 The XL network in Indonesia is conducting a planned maintenance from 07 March 2024 at 14:00 PST until 07 March 2024 at 20:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from XL Indonesia handsets. Summary: Scheduled maintenance for the XL network in Indonesia may cause intermittent delays in SMS delivery. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>14:00</var> - <var>20:00</var> PST</strong></p><p><small>Mar <var> 5</var>, <var>07:33</var> PST</small><br /><strong>Scheduled</strong> - The XL network in Indonesia is conducting a planned maintenance from 07 March 2024 at 14:00 PST until 07 March 2024 at 20:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from XL Indonesia handsets.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>US and Puerto Rico SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/yx1vcpy25hm3</link>

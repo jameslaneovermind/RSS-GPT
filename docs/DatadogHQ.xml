@@ -4,6 +4,18 @@
 <title>Datadog US1 Status - Incident History</title>
 <link>https://status.datadoghq.com</link>
 
+<item>
+<title>Google SSO login issues for web application</title>
+<link>https://status.datadoghq.com/incidents/pzqcy0m307zm</link>
+<guid>https://status.datadoghq.com/incidents/pzqcy0m307zm</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - User Login Issues with Web Application via Google SSO
+Summary: The company is investigating user login issues with the web application via Google SSO. Users switching orgs might also be affected. Data processing and alerts are not affected by this incident. <div>
+<p><small>Mar <var> 5</var>, <var>11:27</var> EST</small><br /><strong>Investigating</strong> - We are investigating user login issues with the web application via Google SSO. Users switching orgs might also be affected.<br /><br />Please note that data processing and alerts are not affected by this incident.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 11:27:45 -0500</pubDate>
+<pubDate>Tue, 05 Mar 2024 11:27:45 -0500</pubDate>
+</item>
 
 <item>
 <title>Elevated Error Rates for Metrics Submission</title>
