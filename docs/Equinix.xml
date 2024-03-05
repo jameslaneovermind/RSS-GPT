@@ -5,6 +5,31 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/nbn8jttt3ng8</link>
+<guid>https://status.equinix.com/incidents/nbn8jttt3ng8</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating potential issue with Equinix Fabric in EMEA
+Summary: We are currently investigating a potential issue with Equinix Fabric in the EMEA region. Further updates will be provided as we gather more information. <div>
+<p><small>Mar <var> 5</var>, <var>09:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">m0t4cl30ybcy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030894</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 09:04:50 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 09:04:50 +0000</pubDate>
+</item>
+<item>
+<title>Planned Network Maintenance - TR Metro (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/xn0wbzzqh74y</link>
+<guid>https://status.equinix.com/incidents/xn0wbzzqh74y</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance in Progress 
+Summary: Equinix Metal is currently undergoing scheduled maintenance. Updates will be provided as necessary. <div>
+<p><small>Mar <var> 5</var>, <var>08:25</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (TR) & Global Services (Network)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 08:25:50 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 08:25:50 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/jdnknql7slkz</link>
 <guid>https://status.equinix.com/incidents/jdnknql7slkz</guid>
@@ -16,7 +41,6 @@ Summary: Equinix SMC reported a brief service interruption for Unprotected Metro
 Summary: Equinix is currently investigating an issue with Metro Connect circuits, with no impact to Dual Diverse Metro Connect circuit due to redundancy. <div>
 <p><small>Mar <var> 5</var>, <var>07:40</var> UTC</small><br /><strong>Update</strong> - Equinix SMC reported an issue with Metro Connect.<br />Impact: Unprotected Metro Connect circuits experienced  brief service interruption while no impact to Dual Diverse Metro Connect circuit due to redundancy.<br />Latest Update: Equinix engineers are investigating the issue.<br /><div style="display: none;">18md450ystlg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030876</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (TR)]</div></p><p><small>Mar <var> 5</var>, <var>07:23</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">18md450ystlg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030876</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (TR)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 07:40:31 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 07:40:31 +0000</pubDate>
 </item>
 <item>
@@ -30,20 +54,17 @@ The issue has been identified and a fix is being implemented. Incident Number: I
 <p><small>Mar <var> 5</var>, <var>07:40</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bpfwk4d70923</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030875</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Mar <var> 5</var>, <var>07:23</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bpfwk4d70923</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030875</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 07:40:53 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 07:40:53 +0000</pubDate>
 </item>
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/6c9cdqn3ym6p</link>
 <guid>https://status.equinix.com/incidents/6c9cdqn3ym6p</guid>
 <content:encoded><![CDATA[
-<div> [Low] - No Service Impact Due to Equinix Fabric Backbone Provider Link Flapping <br><br> Equinix SMC monitored a link flapping between EMEA and AMER, but no service impact was observed as traffic was rerouted automatically. The issue has been reported to the provider for investigation. <div>
+<div> [Low] - No Service Impact Due to Equinix Fabric Backbone Provider Link Flapping <br /><br /> Equinix SMC monitored a link flapping between EMEA and AMER, but no service impact was observed as traffic was rerouted automatically. The issue has been reported to the provider for investigation. <div>
 <p><small>Mar <var> 5</var>, <var>07:41</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of Equinix Fabric backbone provider links between EMEA and AMER flapped. No service impact as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">v3sqwn26z2xg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030874</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (LD) & Americas (TR); Equinix Fabric - EMEA (LD) & Americas (TR)]</div></p><p><small>Mar <var> 5</var>, <var>07:23</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">v3sqwn26z2xg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030874</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD) & Americas (TR); Network Edge - EMEA (LD) & Americas (TR)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 07:41:11 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 07:41:11 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/lt00dshd5pkh</link>
