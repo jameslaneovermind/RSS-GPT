@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>External Network Connectivity Issue</title>
+<link>https://status.zoom.us/incidents/wjydmdg1nfs1</link>
+<guid>https://status.zoom.us/incidents/wjydmdg1nfs1</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Zoom Services Connectivity Issues in California <br><br> We are receiving reports of issues using Zoom Services from customers on specific networks in California. Our initial investigations point to an issue with an external network provider outside of Zoom. Connectivity to Zoom Services from other networks are not impacted at this time. All Zoom Services are operating normally. Summary: Zoom is experiencing connectivity issues for some customers in specific networks in California, with investigations pointing to an issue with an external network provider. All other services are operating normally. <div>
+<p><small>Mar <var> 5</var>, <var>13:18</var> PST</small><br /><strong>Identified</strong> - We are receiving reports of issues using Zoom Services from customers on specific networks in California. Our initial investigations point to an issue with an external network provider outside of Zoom. Connectivity to Zoom Services from other networks are not impacted at this time. All Zoom Services are operating normally.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 13:18:03 -0800</pubDate>
+<pubDate>Tue, 05 Mar 2024 13:18:03 -0800</pubDate>
+</item>
 
 <item>
 <title>Issue with joining Teams Meetings from Zoom Rooms (Direct Guest Join).</title>
