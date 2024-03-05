@@ -1571,3 +1571,9 @@ Existing_entries: 25
 Fetching from https://status.nutanix.com/history.rss
 append_entries: 0
 Finish: 2024-03-05 00:38:39.457400
+------------------------------------------------------
+Started: 2024-03-05 01:41:43.797132
+Existing_entries: 25
+Fetching from https://status.nutanix.com/history.rss
+append_entries: 0
+Finish: 2024-03-05 01:41:44.203681

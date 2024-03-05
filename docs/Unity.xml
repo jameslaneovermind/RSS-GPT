@@ -4,6 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Service Queue Performance - Mac Builders seems to be down</title>
+<link>https://status.unity.com/incidents/188373</link>
+<guid>https://status.unity.com/incidents/188373</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Unity DevOps, Unity Build Automation, Queue Performance - Mac Builders <br><br> Service has become unresponsive, causing a major outage. Investigations are ongoing to resolve the issue. <div>
+<p><strong>Major incident</strong> - Unity DevOps, Unity Build Automation, Queue Performance - Mac Builders</p><p><small>March  5, 2024 · 00:54 UTC</small><br /><strong>Resolved</strong></p><p>
+Service is back up.</p>
+<hr /><p><small>March  5, 2024 · 00:53 UTC</small><br /><strong>Issue</strong></p><p>
+According to our monitoring system this service has become unresponsive, we’re investigating.</p>
+]]></content:encoded>
+<pubDate>Tue, 5 Mar 2024 00:54:02 +0000</pubDate>
+<pubDate>Tue, 5 Mar 2024 00:54:02 +0000</pubDate>
+</item>
 
 <item>
 <title>Investigating</title>

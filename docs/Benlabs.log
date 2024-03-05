@@ -1814,3 +1814,10 @@ Existing_entries: 24
 Fetching from https://status.benlabs.com/history.rss
 append_entries: 0
 Finish: 2024-03-05 00:38:14.864065
+------------------------------------------------------
+Started: 2024-03-05 01:40:31.080068
+Existing_entries: 24
+Fetching from https://status.benlabs.com/history.rss
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/Benlabs
