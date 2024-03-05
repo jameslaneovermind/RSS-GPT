@@ -4,6 +4,22 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Unity ID/Login is unresponsive</title>
+<link>https://status.unity.com/incidents/188495</link>
+<guid>https://status.unity.com/incidents/188495</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Unity Dashboard and ID/Login Unresponsive
+<br><br>
+Summary: On March 5, 2024, a major incident occurred, leading to unresponsiveness on id.unity.com, impacting the ability to sign in to the systems. The team is currently investigating to resolve the issue. <div>
+<p><strong>Major incident</strong> - Websites, Unity Dashboard, Unity ID/Login</p><p><small>March  5, 2024 · 10:42 UTC</small><br /><strong>Resolved</strong></p><p>
+Service is back up.</p>
+<hr /><p><small>March  5, 2024 · 10:25 UTC</small><br /><strong>Issue</strong></p><p>
+According to our monitoring system id.unity.com is unresponsive, we’re investigating. This will impact signing in to our systems. Sorry for the inconvenience!</p>
+]]></content:encoded>
+<pubDate>Tue, 5 Mar 2024 10:42:12 +0000</pubDate>
+<pubDate>Tue, 5 Mar 2024 10:42:12 +0000</pubDate>
+</item>
 
 <item>
 <title>Service Queue Performance - Mac Builders seems to be down</title>

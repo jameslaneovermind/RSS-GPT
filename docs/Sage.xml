@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Compliance Service - Degraded Performance</title>
 <link>https://status.sage.com/incidents/vcqb08zjbm2y</link>
 <guid>https://status.sage.com/incidents/vcqb08zjbm2y</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Intermittent Issue with Invoice Submission to Chorus Pro <br><br> We identified an intermittent issue with our third-party supplier, Chorus Pro, preventing Sage 50 (FR) customers from submitting invoices to Chorus Pro through the Compliance Service. We are engaged with our third-party, Chorus Pro, waiting for updates. <div>
+<div> [Medium] - Intermittent Issue with Invoice Submission to Chorus Pro <br /><br /> We identified an intermittent issue with our third-party supplier, Chorus Pro, preventing Sage 50 (FR) customers from submitting invoices to Chorus Pro through the Compliance Service. We are engaged with our third-party, Chorus Pro, waiting for updates. <div>
 <p><small>Mar <var> 5</var>, <var>09:50</var> UTC</small><br /><strong>Identified</strong> - We identified an intermittent issue with our third-party supplier, Chorus Pro, preventing Sage 50 (FR) customers from submitting invoices to Chorus Pro through the Compliance Service. <br />We are engaged with our third-party, Chorus Pro, waiting for updates.</p><p><small>Mar <var> 5</var>, <var>09:42</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 09:50:32 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 09:50:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Corporation Tax - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/q0gms5zs3kf5</link>
