@@ -4,16 +4,16 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>OCP US/CA Prod - SearchStax Maintenance</title>
 <link>https://status.opentext.com/incidents/wvj1rqlkclzn</link>
 <guid>https://status.opentext.com/incidents/wvj1rqlkclzn</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> 
+<div> [Medium] - Scheduled Maintenance <br /><br /> 
 We will be undergoing scheduled SearchStax maintenance during this time. All services should remain accessible during the window with brief slowness at times. Summary: The company will be undergoing scheduled maintenance, and all services should remain accessible with some brief slowness expected. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>01:00</var> - <var>05:00</var> UTC</strong></p><p><small>Mar <var> 5</var>, <var>18:45</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Mar <var> 5</var>, <var>18:44</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled SearchStax maintenance during this time. All services should remain accessible during the window with brief slowness at times.</p>
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 01:00:00 +0000</pubDate>
 <pubDate>Sat, 16 Mar 2024 01:00:00 +0000</pubDate>
 </item>
 <item>
@@ -21,13 +21,11 @@ We will be undergoing scheduled SearchStax maintenance during this time. All ser
 <link>https://status.opentext.com/incidents/9229wq1sb5v7</link>
 <guid>https://status.opentext.com/incidents/9229wq1sb5v7</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> Summary: The company will be undergoing scheduled SearchStax maintenance, but all services should remain accessible with only brief slowness at times. <div>
+<div> [Medium] - Scheduled Maintenance <br /><br /> Summary: The company will be undergoing scheduled SearchStax maintenance, but all services should remain accessible with only brief slowness at times. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>10:00</var> - <var>14:00</var> UTC</strong></p><p><small>Mar <var> 5</var>, <var>18:48</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled SearchStax maintenance during this time. All services should remain accessible during the window with brief slowness at times.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 10:00:00 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 10:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Hightail Maintenance scheduled for 9 March 2024</title>
 <link>https://status.opentext.com/incidents/rrt8shypxhyb</link>

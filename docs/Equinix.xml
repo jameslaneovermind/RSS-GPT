@@ -4,18 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/k1mbnhg5bc76</link>
 <guid>https://status.equinix.com/incidents/k1mbnhg5bc76</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Americas (AT, RJ) <br><br> We are currently investigating a critical issue with Equinix Fabric in the Americas region. A fix is being implemented to resolve the outage.
+<div> [High] - Equinix Fabric Outage in Americas (AT, RJ) <br /><br /> We are currently investigating a critical issue with Equinix Fabric in the Americas region. A fix is being implemented to resolve the outage.
 
 Summary:
 The issue has been identified, and a fix is being implemented for the Equinix Fabric outage in the Americas region. <div>
 <p><small>Mar <var> 5</var>, <var>18:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h8g0htprptkg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031003</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, RJ)]</div></p><p><small>Mar <var> 5</var>, <var>18:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h8g0htprptkg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031003</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, RJ)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 05 Mar 2024 18:52:32 +0000</pubDate>
 <pubDate>Tue, 05 Mar 2024 18:52:32 +0000</pubDate>
 </item>
 <item>
@@ -23,15 +23,13 @@ The issue has been identified, and a fix is being implemented for the Equinix Fa
 <link>https://status.equinix.com/incidents/30khdp28h4qj</link>
 <guid>https://status.equinix.com/incidents/30khdp28h4qj</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Equinix Internet Access/Equinix Connect - AMER (CL)<br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0031001
+<div> [High] - Major Outage in Equinix Internet Access/Equinix Connect - AMER (CL)<br /><br /> The issue has been identified and a fix is being implemented. Incident Number: INC0031001
 
 Summary: The issue has been identified and a fix is being implemented for a major outage in Equinix Internet Access/Equinix Connect - AMER (CL). <div>
 <p><small>Mar <var> 5</var>, <var>18:34</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n7kjnqtwjz98</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031001</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (CL)]</div></p><p><small>Mar <var> 5</var>, <var>18:15</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n7kjnqtwjz98</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031001</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (CL)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 18:34:21 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 18:34:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Other (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/cgyhtftr0k7f</link>
