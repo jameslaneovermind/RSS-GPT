@@ -4,6 +4,20 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/lt00dshd5pkh</link>
+<guid>https://status.equinix.com/incidents/lt00dshd5pkh</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - Americas (BO, NY) Outage
+<br><br>
+We are currently investigating a critical issue that has been identified and a fix is being implemented. 
+ <div>
+<p><small>Mar <var> 5</var>, <var>05:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">krsn8mrtgd85</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030868</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BO, NY)]</div></p><p><small>Mar <var> 5</var>, <var>05:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">krsn8mrtgd85</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0030868</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BO, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 05:51:29 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 05:51:29 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
