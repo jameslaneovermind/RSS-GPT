@@ -1790,3 +1790,10 @@ Fetching from https://status.aa.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/AA
+------------------------------------------------------
+Started: 2024-03-05 00:38:31.983159
+Existing_entries: 0
+Fetching from https://status.aa.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/AA
