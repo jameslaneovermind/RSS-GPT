@@ -4,6 +4,7 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Planned maintenance of Integrations database infrastructure</title>
 <link>https://status.infobip.com/incidents/zj9ng2y5g39s</link>
@@ -14,20 +15,17 @@ Summary: Scheduled maintenance will be performed to upgrade and optimize databas
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>08:00</var> - <var>09:00</var> UTC</strong></p><p><small>Mar <var> 5</var>, <var>13:52</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of databases utilized by the Integrations services hosted at our Global (Germany) data center.<br /><br />Throughout the maintenance period, there is a possibility of encountering intermittent errors when attempting to utilize the Oracle Cx Marketing or the Oracle Eloqua integrations.<br /><br />Start: 20 March 2024 08:00 UTC<br />End: 20 March 2024 09:00 UTC<br />Purpose: Database upgrade and optimization</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 08:00:00 +0000</pubDate>
-<pubDate>Wed, 20 Mar 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Global (Germany) - Planned maintenance of Mobile Identity database infrastructure</title>
 <link>https://status.infobip.com/incidents/35mr1g49d5k1</link>
 <guid>https://status.infobip.com/incidents/35mr1g49d5k1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Database Patching at Global Data Center <br><br> Summary: The company will be performing a patching process of Mobile Identity databases hosted at their Global (Germany) data center. This may result in intermittent errors such as EC_INTERNAL_ERROR during the maintenance period. The purpose of the maintenance is the upgrade and optimization of the databases. <div>
+<div> [High] - Major Database Patching at Global Data Center <br /><br /> Summary: The company will be performing a patching process of Mobile Identity databases hosted at their Global (Germany) data center. This may result in intermittent errors such as EC_INTERNAL_ERROR during the maintenance period. The purpose of the maintenance is the upgrade and optimization of the databases. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>12:00</var> - <var>12:30</var> UTC</strong></p><p><small>Mar <var> 5</var>, <var>13:15</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a patching process of Mobile Identity databases hosted at our Global (Germany) data center. <br />Throughout the maintenance period, there is a possibility of encountering intermittent errors, such as EC_INTERNAL_ERROR, when attempting to utilize the Mobile Identity service. These errors may occur as our team executes crucial steps of the activity.<br /><br />Start: 19 March 2024 12:00 UTC<br />End: 19 March 2024 12:30 UTC<br />Purpose: Database upgrade and optimization</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
-<pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Flow People Import degradation</title>
 <link>https://status.infobip.com/incidents/188x0gc9shh3</link>

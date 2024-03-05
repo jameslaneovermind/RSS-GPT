@@ -1996,3 +1996,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sage Business Cloud Payroll Professional - Scheduled Maintenance](https://status.sage.com/incidents/8td7v7xzghz0)
 append_entries: 1
 Finish: 2024-03-05 14:08:52.135138
+------------------------------------------------------
+Started: 2024-03-05 15:08:37.313248
+Existing_entries: 60
+Fetching from https://status.sage.com/history.rss
+Token length: 374
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage Intacct  - Partial Outage](https://status.sage.com/incidents/dswjthz5j84r)
+append_entries: 1
+Finish: 2024-03-05 15:08:38.797708

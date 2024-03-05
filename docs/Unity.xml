@@ -4,21 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Error creating a new trial subscription for DevOps</title>
 <link>https://status.unity.com/incidents/188527</link>
 <guid>https://status.unity.com/incidents/188527</guid>
 <content:encoded><![CDATA[
-<div> [Low] - New Trial Subscription Issue <br><br> Summary: There is an ongoing issue preventing new trial subscriptions, but new DevOps subscriptions are working fine. Service is expected to be restored in a couple of hours. <div>
+<div> [Low] - New Trial Subscription Issue <br /><br /> Summary: There is an ongoing issue preventing new trial subscriptions, but new DevOps subscriptions are working fine. Service is expected to be restored in a couple of hours. <div>
 <p><strong>Minor incident</strong> - Unity DevOps, Unity Version Control, Web</p><p><small>March  5, 2024 · 13:10 UTC</small><br /><strong>Issue</strong></p><p>
 There is an ongoing issue that prevents new trial subscriptions. We are fixing the isssue and hope that the service will be restored in a couple of hours.</p>
 <p>
 New DevOps subscriptions are working fine.</p>
 ]]></content:encoded>
 <pubDate>Tue, 5 Mar 2024 13:14:10 +0000</pubDate>
-<pubDate>Tue, 5 Mar 2024 13:14:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Unity ID/Login is unresponsive</title>
 <link>https://status.unity.com/incidents/188495</link>

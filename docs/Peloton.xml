@@ -4,6 +4,17 @@
 <title>Peloton Status - Incident History</title>
 <link>https://status.onepeloton.com</link>
 
+<item>
+<title>Android App Crashing for Members with Weekly Streak Widget Enabled</title>
+<link>https://status.onepeloton.com/incidents/wpm7dhjnyf77</link>
+<guid>https://status.onepeloton.com/incidents/wpm7dhjnyf77</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - App Crash Fix in Progress <br><br> The team has identified a fix for the app crash issue and is working on preparing a new version of the app. Android users can prevent the crash by removing the weekly streak widget from their homescreen. <div>
+<p><small>Mar <var> 5</var>, <var>09:41</var> EST</small><br /><strong>Update</strong> - A fix has been identified and the team is working to prepare a new App version.  Android members can prevent the crash by removing the weekly streak widget from their homescreen.</p><p><small>Mar <var> 5</var>, <var>09:39</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 09:41:56 -0500</pubDate>
+<pubDate>Tue, 05 Mar 2024 09:41:56 -0500</pubDate>
+</item>
 
 <item>
 <title>Subset of members unable to schedule deliveries</title>

@@ -4,6 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+<item>
+<title>Delays - Inventory Results Outdated / Lagging</title>
+<link>https://status.lightspeedhq.com/incidents/hgkphyn68pw0</link>
+<guid>https://status.lightspeedhq.com/incidents/hgkphyn68pw0</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Inventory Display Issue <br><br> Summary: Lightspeed (X-Series) retailers are experiencing out-of-date results in their inventory display. The issue has been identified, and updates will be provided as the situation progresses. <div>
+<p><small>Mar <var> 5</var>, <var>10:07</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved</p><p><small>Mar <var> 5</var>, <var>09:47</var> EST</small><br /><strong>Identified</strong> - We’re looking into an issue where Inventory is displaying out-of-date results to Lightspeed (X-Series) retailers and will keep you posted with updates as they come. Thanks for your patience.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 10:07:35 -0500</pubDate>
+<pubDate>Tue, 05 Mar 2024 10:07:35 -0500</pubDate>
+</item>
 
 <item>
 <title>eCom storefront unavailible</title>

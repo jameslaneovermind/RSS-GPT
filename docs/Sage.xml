@@ -5,6 +5,19 @@
 <link>https://status.sage.com</link>
 
 <item>
+<title>Sage Intacct  - Partial Outage</title>
+<link>https://status.sage.com/incidents/dswjthz5j84r</link>
+<guid>https://status.sage.com/incidents/dswjthz5j84r</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major API Outage in North California Region
+Summary: Customers hosted in North California region are currently unable to process any API requests, all other product functionality is not affected. We are actively investigating the issue. <div>
+<p><small>Mar <var> 5</var>, <var>14:42</var> UTC</small><br /><strong>Update</strong> - We have identified an issue in the US, preventing customers hosted in North California region to process any API request.  All other product functionality is performing as expected. <br />We are currently investigating.</p><p><small>Mar <var> 5</var>, <var>14:27</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 14:42:27 +0000</pubDate>
+<pubDate>Tue, 05 Mar 2024 14:42:27 +0000</pubDate>
+</item>
+
+<item>
 <title>Sage Business Cloud Payroll Professional - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/8td7v7xzghz0</link>
 <guid>https://status.sage.com/incidents/8td7v7xzghz0</guid>
@@ -15,9 +28,7 @@ Sage Business Cloud Payroll Professional South Africa will be undergoing importa
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>5</var>, <var>18:00</var> - <var>18:20</var> UTC</strong></p><p><small>Mar <var> 5</var>, <var>13:28</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Payroll Professional South Africa will be undergoing important system maintenance on Tuesday, March 5th, 2024, for 20 minutes, between 20:00 SAST and 20:20 SAST. <br /> <br />Please note that you might not be able to access the services during this scheduled time <br /> <br />We apologise for any inconvenience this may cause and ask that you plan your workload accordingly.   <br /> <br />Thank you. The Sage Team.</p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 18:00:00 +0000</pubDate>
-<pubDate>Tue, 05 Mar 2024 18:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Compliance Service - Degraded Performance</title>
 <link>https://status.sage.com/incidents/vcqb08zjbm2y</link>
