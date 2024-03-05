@@ -4,6 +4,18 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+<item>
+<title>System Incident Resolved - OPTUM ENTERPRISE COMPUTER-ASSISTED CODING - Production</title>
+<link>https://status.optum.com/incidents/8974h0qncqf6</link>
+<guid>https://status.optum.com/incidents/8974h0qncqf6</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Resolved Issue with Optum Enterprise Computer-Assisted Coding Application
+Summary: Optum technical teams have resolved an issue that caused errors and latency in the Enterprise Computer-Assisted Coding application. Thank you for your patience. <div>
+<p><small>Mar <var> 5</var>, <var>17:44</var> EST</small><br /><strong>Resolved</strong> - Optum technical teams have resolved an issue that caused users to experience errors and latency in the Enterprise Computer-Assisted Coding application. Thank you for your patience as our teams worked to resolve this issue.<br /><br />Issue type: Latency and Errors<br />Environment: Production<br />Systems available: Yes</p>
+]]></content:encoded>
+<pubDate>Tue, 05 Mar 2024 17:44:53 -0500</pubDate>
+<pubDate>Tue, 05 Mar 2024 17:44:53 -0500</pubDate>
+</item>
 
 <item>
 <title>System Incident - Enterprise Computer-Assisted Coding - Production</title>
