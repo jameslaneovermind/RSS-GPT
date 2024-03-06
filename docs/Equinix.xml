@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/sttxz96lrpyk</link>
@@ -15,9 +16,7 @@ A major network outage has been identified at Network Edge and Equinix Fabric in
 <p><small>Mar <var> 6</var>, <var>20:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ngd8jp9tds1s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031162</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (MT, NY); Equinix Fabric - Americas (MT, NY)]</div></p><p><small>Mar <var> 6</var>, <var>20:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ngd8jp9tds1s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031162</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (MT, NY); Network Edge - Americas (MT, NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 20:50:12 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 20:50:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/yvv0sclcqxp2</link>
