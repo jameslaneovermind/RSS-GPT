@@ -4,6 +4,7 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/qs00dh78kxkw</link>
@@ -14,7 +15,6 @@ Summary:
 Sage DPW Cloud will be undergoing maintenance on Sunday, March 10th, 2024, for 5 hours. The service will be unavailable during this scheduled time. We apologize for any inconvenience this may cause. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>07:00</var> - <var>12:00</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>12:50</var> UTC</small><br /><strong>Scheduled</strong> - Sage DPW Cloud will be undergoing maintenance on Sunday, March 10th, 2024, for 5 hours between 07:00 CET and 12:00 CET. <br /><br />The service will be unavailable during this scheduled time. <br /><br />We apologise for any inconvenience this may cause. <br /><br />Thank you. The Sage Team<br /> <br />----------------------------------------------------<br />Bei Ihrer Sage DPW Cloud werden am Sonntag, den 10. März 2024, zwischen 07:00 MEZ und 12:00 MEZ. Wartungsarbeiten durchgeführt. <br /><br />Service ist während dieser geplanten Zeit nicht verfügbar.<br /><br />Wir entschuldigen uns für etwaige Unannehmlichkeiten. <br /><br />Mit freundlichen Grüßen, Das Sage-Team</p>
 ]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Sun, 10 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -30,9 +30,7 @@ Sage Business Cloud Paie (FR) will be undergoing important system maintenance on
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>6</var>, <var>18:00</var> - <var>20:30</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>12:43</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Paie (FR) will be undergoing important system maintenance on Wednesday, March 6th, 2024, for 2 hours and 30 minutes between 19:00 CET and 21:30 CET. <br /> <br />Please note that access to Sage Business Cloud Paie (FR), may be unavailable during this time. <br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team.<br /> <br />------------------------------------------------------------------------------------------ <br /> <br />Sage Business Cloud Paie (FR) fera l'objet d'une maintenance système importante le Mercredi 6 Mars 2024, pendant 2 heures et 30 minutes entre 19:00 CET et 21:30 CET. <br /> <br />Veuillez noter que vous ne pourrez peut-être pas accéder à Sage Business Cloud Paie (FR) pendant cette période. <br /> <br />Nous nous excusons pour les inconvénients que cela pourrait causer. <br /> <br />Merci L'équipe Sage.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 18:00:00 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 18:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Brightpearl - Degraded Performance</title>
 <link>https://status.sage.com/incidents/yjj4911zynsh</link>

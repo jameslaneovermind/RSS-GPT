@@ -2343,3 +2343,10 @@ Fetching from https://status.autodata-group.com/history.rss
 Feed error: <unknown>:2:11: not well-formed (invalid token)
 append_entries: 0
 error when rendering xml, skip docs/Autodata Group
+------------------------------------------------------
+Started: 2024-03-06 14:07:55.298290
+Existing_entries: 0
+Fetching from https://status.autodata-group.com/history.rss
+Feed error: <unknown>:2:11: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/Autodata Group

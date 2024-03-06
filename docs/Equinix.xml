@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Switchover (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/s6q799ntl2l0</link>
+<guid>https://status.equinix.com/incidents/s6q799ntl2l0</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Metro Connect Asia-Pacific
+Summary: An incident has been identified, and a fix is being implemented for a critical issue affecting Metro Connect in the Asia-Pacific region.
+ <div>
+<p><small>Mar <var> 6</var>, <var>13:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">9v38x6t3npmv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031145</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Mar <var> 6</var>, <var>13:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9v38x6t3npmv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031145</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 13:50:11 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 13:50:11 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
