@@ -4,6 +4,18 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+<item>
+<title>Infrastructure Maintenance</title>
+<link>https://status.heap.io/incidents/rmnc1t25zm41</link>
+<guid>https://status.heap.io/incidents/rmnc1t25zm41</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Networking Infrastructure Maintenance
+Summary: We will be continuing some maintenance on our networking infrastructure, with brief and intermittent interruptions to the App and some latency in data appearing in the UI or through integrations. Data ingestion will not be impacted. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>17:00</var> - <var>20:00</var> PDT</strong></p><p><small>Mar <var> 5</var>, <var>15:14</var> PST</small><br /><strong>Scheduled</strong> - We will be continuing some maintenance on our networking infrastructure, we expect there will be brief and intermittent interruptions to the App and some latency in data appearing in the UI or through integrations.<br /><br />Data ingestion will not be impacted.</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Sun, 10 Mar 2024 17:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Temporary Data Latency</title>
