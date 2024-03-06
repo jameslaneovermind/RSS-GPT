@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/l4pdw424yqf3</link>
+<guid>https://status.equinix.com/incidents/l4pdw424yqf3</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage Identified
+Summary:
+An issue with Equinix Fabric in the Americas has been identified, and a fix is being implemented. This indicates a major outage that is currently being addressed. <div>
+<p><small>Mar <var> 6</var>, <var>05:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">7xzrj94mdr3p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031064</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p><p><small>Mar <var> 6</var>, <var>05:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">7xzrj94mdr3p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031064</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 05:51:59 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 05:51:59 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
