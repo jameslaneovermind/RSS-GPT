@@ -5,17 +5,27 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/bbrx10pcmxq8</link>
+<guid>https://status.equinix.com/incidents/bbrx10pcmxq8</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Equinix Internet Access / Equinix Connect - APAC (HK) <br><br> A critical issue has been identified and is currently being fixed. The incident has caused a significant impact on the system. <div>
+<p><small>Mar <var> 6</var>, <var>02:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">q98gh2vq3k4r</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031023</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (HK)]</div></p><p><small>Mar <var> 6</var>, <var>02:31</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">q98gh2vq3k4r</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031023</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 02:48:19 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 02:48:19 +0000</pubDate>
+</item>
+
+<item>
 <title>Precision Time Portal Availability</title>
 <link>https://status.equinix.com/incidents/nhfdl4pc1vxh</link>
 <guid>https://status.equinix.com/incidents/nhfdl4pc1vxh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Precision Time™ Services Experiencing Intermittent Issues <br><br>Investigating ongoing intermittent issues with Equinix Precision Time™ services. We are currently investigating the cause and will provide updates as we work to resolve the issue. <div>
+<div> [High] - Equinix Precision Time™ Services Experiencing Intermittent Issues <br /><br />Investigating ongoing intermittent issues with Equinix Precision Time™ services. We are currently investigating the cause and will provide updates as we work to resolve the issue. <div>
 <p><small>Mar <var> 6</var>, <var>02:09</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 02:09:10 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 02:09:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/9wvspxk9mh7w</link>
