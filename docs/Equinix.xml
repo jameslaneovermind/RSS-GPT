@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/2rfd9yzx9dcy</link>
 <guid>https://status.equinix.com/incidents/2rfd9yzx9dcy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix NOC reported a brief service interruption due to failover design <br><br> Equinix engineers are investigating the issue and the cause of the interruption impacting Metro Connect services. Incident Number: INC0031116
+<div> [High] - Equinix NOC reported a brief service interruption due to failover design <br /><br /> Equinix engineers are investigating the issue and the cause of the interruption impacting Metro Connect services. Incident Number: INC0031116
 
  <div>
 <p><small>Mar <var> 6</var>, <var>09:45</var> UTC</small><br /><strong>Update</strong> - Equinix NOC reported an issue with Metro Connect<br /><br />Impact: The brief service interruption experienced is due to failover design.<br /><br />Latest Update: Equinix engineers are investigating the issue..<br /><div style="display: none;">10wtkyy8m48s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031116</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SE)]</div></p><p><small>Mar <var> 6</var>, <var>09:28</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">10wtkyy8m48s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031116</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SE)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 09:45:53 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 09:45:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Service Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/m9xsdpfr0g5q</link>

@@ -4,6 +4,17 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+<item>
+<title>Merchants receiving potentially incorrect billing e-mails</title>
+<link>https://www.gocardless-status.com/incidents/92zczn7p6nxc</link>
+<guid>https://www.gocardless-status.com/incidents/92zczn7p6nxc</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Reports of Incorrect Fund Requests <br><br> We are investigating reports of merchants who have received requests for funds that have already paid. We are identifying those who have incorrectly received this message and will notify those impacted. Summary: It seems that some merchants have been receiving incorrect fund requests and the company is looking into the issue. <div>
+<p><small>Mar <var> 6</var>, <var>10:54</var> GMT</small><br /><strong>Investigating</strong> - We are investigating reports of merchants who have received requests for funds that have already paid.<br /><br />We are identifying those who have incorrectly received this message and will notify those impacted.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 10:54:12 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 10:54:12 +0000</pubDate>
+</item>
 
 <item>
 <title>International payouts and account verification</title>
