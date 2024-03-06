@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage Evolution SDK (ZA) - Major Outage</title>
+<link>https://status.sage.com/incidents/9b2b2b6ctp2m</link>
+<guid>https://status.sage.com/incidents/9b2b2b6ctp2m</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Service Issue <br><br> We are investigating a potential issue with the service that is causing significant disruption to our platform. An update will be provided within 30 minutes. Summary: Investigating a potential major issue with service causing significant disruption to the platform. <div>
+<p><small>Mar <var> 6</var>, <var>08:53</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 08:53:52 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 08:53:52 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Intacct  - Partial Outage</title>

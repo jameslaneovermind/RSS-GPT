@@ -4,6 +4,41 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Service Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/m9xsdpfr0g5q</link>
+<guid>https://status.equinix.com/incidents/m9xsdpfr0g5q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Investigated
+Summary: A major outage is being investigated by the company, with Incident Number INC0031112. The issue is currently causing service disruptions and is under investigation. <div>
+<p><small>Mar <var> 6</var>, <var>08:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dqwhqwj6p403</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031112</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (SK)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 08:53:36 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 08:53:36 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Network Edge, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/4pd69b18dh0l</link>
+<guid>https://status.equinix.com/incidents/4pd69b18dh0l</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Potential Network Edge and Equinix Fabric Issue <br><br> We are currently investigating a potential issue with Network Edge in EMEA and Americas, as well as Equinix Fabric in both regions. We are working to identify the cause of the issue.
+ <div>
+<p><small>Mar <var> 6</var>, <var>08:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vg7yt67l7thl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031110</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (PA) & Americas (DC); Equinix Fabric - Americas (DC) & EMEA (PA)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 08:53:19 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 08:53:19 +0000</pubDate>
+</item>
+<item>
+<title>Planned Network Maintenance -  Multiple Metros (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/xq9sd2kzv75f</link>
+<guid>https://status.equinix.com/incidents/xq9sd2kzv75f</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Equinix Metal Global Services and Americas <br><br> Scheduled maintenance is currently in progress for Equinix Metal's global services and Americas region. Updates will be provided as necessary. <div>
+<p><small>Mar <var> 6</var>, <var>08:14</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Global Services (Network) & Americas (DA, TR)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 08:14:40 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 08:14:40 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Network Edge)</title>
