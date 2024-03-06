@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Russia SMS Carrier Maintenance - Motiv</title>
 <link>https://status.twilio.com/incidents/16vb78csyjfb</link>
@@ -14,9 +15,7 @@ Summary: Motiv network in Russia is conducting a planned maintenance from 11 Mar
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>16:00</var> - <var>17:00</var> PDT</strong></p><p><small>Mar <var> 5</var>, <var>22:17</var> PST</small><br /><strong>Scheduled</strong> - The Motiv network in Russia is conducting a planned maintenance from 11 March 2024 at 16:00 PDT until 11 March 2024 at 17:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to Motiv Russia handsets.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 16:00:00 -0700</pubDate>
-<pubDate>Mon, 11 Mar 2024 16:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Switzerland SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/x2mt6ny0n345</link>
