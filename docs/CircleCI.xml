@@ -4,6 +4,18 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+<item>
+<title>GitLab Connection Maintenance</title>
+<link>https://status.circleci.com/incidents/b2cpq6lrrwnk</link>
+<guid>https://status.circleci.com/incidents/b2cpq6lrrwnk</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - GitLab Maintenance Scheduled 
+Summary: CircleCI will be conducting maintenance on our system that connects to GitLab. There may be temporary issues such as authorization problems and build triggers failing. After the maintenance, please re-push any changes to GitLab if necessary. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>14:00</var> - <var>14:30</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>17:17</var> UTC</small><br /><strong>Scheduled</strong> - CircleCI will be conducting maintenance on our system that connects to GitLab. <br /><br />During this window, you may encounter issues such as, but not limited to, CircleCI users that utilize GitLab will not be able to authorize GitLab, builds may fail to trigger on CircleCI from GitLab, logging in may result in an error.<br /><br />After the maintenance has ended, please re-push any changes to GitLab if they failed to trigger.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 14:00:00 +0000</pubDate>
+<pubDate>Sat, 16 Mar 2024 14:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Increased wait time for select resource classes</title>
