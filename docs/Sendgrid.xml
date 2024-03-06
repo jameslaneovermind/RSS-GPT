@@ -4,18 +4,17 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>Latency affecting Automations Customers</title>
 <link>https://status.sendgrid.com/incidents/mq3kd0rs5fq2</link>
 <guid>https://status.sendgrid.com/incidents/mq3kd0rs5fq2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Increased Latency for Certain Customers <br><br> Our engineers are currently investigating an issue causing increased latency for a subset of customers, particularly impacting the "Automations" feature. This may result in delays of up to 90 minutes for email processing related to Marketing campaigns. Another update will be provided in an hour. Summary: Investigating increased latency for certain customers, impacting email processing for Marketing campaigns. <div>
+<div> [Medium] - Increased Latency for Certain Customers <br /><br /> Our engineers are currently investigating an issue causing increased latency for a subset of customers, particularly impacting the "Automations" feature. This may result in delays of up to 90 minutes for email processing related to Marketing campaigns. Another update will be provided in an hour. Summary: Investigating increased latency for certain customers, impacting email processing for Marketing campaigns. <div>
 <p><small>Mar <var> 6</var>, <var>11:53</var> PST</small><br /><strong>Investigating</strong> - Starting around 11:36am PT on March 6, our engineers began investigating an issue that is resulting in increased latency among a certain subset of customers. This latency may especially be noticeable for users of the "Automations" feature associated with our Marketing campaigns product. Customers may see a delay of up to 90 minutes when processing Automations, but it is expected that those emails will be processed. The email API endpoint is unaffected. We will provide another update in an hour, or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 11:53:34 -0800</pubDate>
-<pubDate>Wed, 06 Mar 2024 11:53:34 -0800</pubDate>
 </item>
-
 <item>
 <title>New SendGrid Direct Sign-ups can experiencing login failures</title>
 <link>https://status.sendgrid.com/incidents/wlb4n0mkgw1q</link>
