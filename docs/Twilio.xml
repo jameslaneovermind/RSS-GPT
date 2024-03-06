@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Bangladesh SMS Carrier Maintenance - Robi (Robi Axiata Ltd)</title>
 <link>https://status.twilio.com/incidents/qf07lbscmmwy</link>
@@ -17,9 +18,7 @@ Robi (Robi Axiata Ltd) network in Bangladesh is conducting an emergency maintena
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>10:00</var> - <var>19:00</var> PST</strong></p><p><small>Mar <var> 5</var>, <var>17:02</var> PST</small><br /><strong>Scheduled</strong> - The Robi (Robi Axiata Ltd) network in Bangladesh is conducting an emergency maintenance from 07 March 2024 at 10:00 PST until 07 March 2024 at 19:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Robi (Robi Axiata Ltd) Bangladesh handsets.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 10:00:00 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 10:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Indonesia SMS Carrier Maintenance - XL</title>
 <link>https://status.twilio.com/incidents/w0qqyj434qsd</link>
