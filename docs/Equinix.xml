@@ -5,17 +5,27 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/9wvspxk9mh7w</link>
+<guid>https://status.equinix.com/incidents/9wvspxk9mh7w</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Equinix Internet Access / Equinix Connect - APAC (TY) <br><br> We are currently investigating this issue. An incident number has been assigned: INC0031019. <div>
+<p><small>Mar <var> 6</var>, <var>01:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">b572zjbrc24j</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031019</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (TY)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 01:38:37 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 01:38:37 +0000</pubDate>
+</item>
+
+<item>
 <title>Other (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/mg8yfqgmd6mt</link>
 <guid>https://status.equinix.com/incidents/mg8yfqgmd6mt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Platform Issue <br><br> We have identified an issue and are currently investigating to determine the cause and find a solution. <div>
+<div> [Medium] - Investigating Platform Issue <br /><br /> We have identified an issue and are currently investigating to determine the cause and find a solution. <div>
 <p><small>Mar <var> 6</var>, <var>00:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">017ycjsdwy5h</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031008</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Mar <var> 6</var>, <var>00:14</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">017ycjsdwy5h</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031008</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 00:33:34 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 00:33:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/1b1rfx442hfh</link>
