@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Site Infrastructure Maintenance - Multiple Metros (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/rzggd24wcy1m</link>
+<guid>https://status.equinix.com/incidents/rzggd24wcy1m</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled maintenance in progress
+Summary: Equinix Metal is currently undergoing scheduled maintenance. Updates will be provided as necessary. <div>
+<p><small>Mar <var> 6</var>, <var>14:51</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (CH, DC, SV) & Global Services (Device Provisioning)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 14:51:45 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 14:51:45 +0000</pubDate>
+</item>
+
+<item>
 <title>Switchover (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/s6q799ntl2l0</link>
 <guid>https://status.equinix.com/incidents/s6q799ntl2l0</guid>
@@ -15,9 +28,7 @@ Summary: An incident has been identified, and a fix is being implemented for a c
 <p><small>Mar <var> 6</var>, <var>13:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">9v38x6t3npmv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031145</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Mar <var> 6</var>, <var>13:32</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9v38x6t3npmv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031145</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 13:50:11 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 13:50:11 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/xg5vzxrcmsml</link>

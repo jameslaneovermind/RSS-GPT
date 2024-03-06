@@ -4,20 +4,19 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Discrepancy in installs between Unity and Appsflyer reporting between March 5th, 09:48 UTC, and March 6th, 07:40 UTC.</title>
 <link>https://status.unity.com/incidents/188766</link>
 <guid>https://status.unity.com/incidents/188766</guid>
 <content:encoded><![CDATA[
-<div> [High] - Unity Ads Postback Issue <br><br> On March 6th, 2024, Unity Ads experienced a postback issue with Appsflyer, impacting the attribution of in-app events and reporting. This resulted in a discrepancy in install numbers between Unity and Appsflyer. The issue has been resolved, and data restoration is ongoing. Please reach out to unityads-support@unity3d.com for any inquiries. Summary: Major incident affecting user acquisition and growth due to postback issue with Appsflyer. <div>
+<div> [High] - Unity Ads Postback Issue <br /><br /> On March 6th, 2024, Unity Ads experienced a postback issue with Appsflyer, impacting the attribution of in-app events and reporting. This resulted in a discrepancy in install numbers between Unity and Appsflyer. The issue has been resolved, and data restoration is ongoing. Please reach out to unityads-support@unity3d.com for any inquiries. Summary: Major incident affecting user acquisition and growth due to postback issue with Appsflyer. <div>
 <p><strong>Major incident</strong> - Growth, User Acquisition</p><p><small>March  6, 2024 · 13:26 UTC</small><br /><strong>Issue</strong></p><p>
 We want to inform you about an issue that Unity Ads discovered with the postbacks received from Appsflyer between March 5th, 09:48 UTC, and March 6th, 07:40 UTC. This issue affected the attribution of in-app events and Unity Ads reporting. This can be observed as a discrepancy between the number of installs visible in Unity reporting vs Appsflyer’s reporting during this timeframe. Rest assured, we have resolved the issue, and we’re currently working on restoring the correct data. We will let you know once it will be restored.  <br />
 If you have any questions please reach out to your Unity Partner or unityads-support@unity3d.com</p>
 ]]></content:encoded>
 <pubDate>Wed, 6 Mar 2024 13:31:23 +0000</pubDate>
-<pubDate>Wed, 6 Mar 2024 13:31:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Error creating a new trial subscription for DevOps</title>
 <link>https://status.unity.com/incidents/188527</link>
