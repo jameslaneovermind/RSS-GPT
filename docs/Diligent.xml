@@ -4,6 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Boards - users experiencing issues with exporting.</title>
+<link>https://status.diligent.com/incidents/rgkvybsfy518</link>
+<guid>https://status.diligent.com/incidents/rgkvybsfy518</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Export Issue <br><br> Users are currently unable to export from Boards, and are receiving an "Unexpected error" after a period of time. A fix has been implemented and is being monitored for results. <div>
+<p><small>Mar <var> 6</var>, <var>05:03</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var> 6</var>, <var>04:55</var> UTC</small><br /><strong>Investigating</strong> - Users are unable to export from Boards, after a period of time an “Unexpected error” is returned.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 05:03:51 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 05:03:51 +0000</pubDate>
+</item>
 
 <item>
 <title>Highbond Results - Daily scheduled triggers may not be executing</title>

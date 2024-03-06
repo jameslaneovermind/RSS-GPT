@@ -1754,3 +1754,9 @@ Existing_entries: 28
 Fetching from https://status.cloudera.com/history.rss
 append_entries: 0
 Finish: 2024-03-06 04:10:49.513850
+------------------------------------------------------
+Started: 2024-03-06 05:08:44.026154
+Existing_entries: 28
+Fetching from https://status.cloudera.com/history.rss
+append_entries: 0
+Finish: 2024-03-06 05:08:44.395375
