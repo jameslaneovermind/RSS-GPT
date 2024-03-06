@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Network Edge)</title>
+<link>https://status.equinix.com/incidents/5cw4pl103ymx</link>
+<guid>https://status.equinix.com/incidents/5cw4pl103ymx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Network Service Issue on Network Edge Platform<br><br>Equinix engineers are investigating a network service issue on the Network Edge platform, causing service interruption.  
+ <div>
+<p><small>Mar <var> 6</var>, <var>06:41</var> UTC</small><br /><strong>Update</strong> - Equinix engineers are investigating a network service issue on the Network Edge platform. <br /><br />Impact: There is service interruption.<br /><br />Latest Update: Equinix engineers are investigating.<br /><div style="display: none;">zd0fw66fgrhc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031084</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (NY)]</div></p><p><small>Mar <var> 6</var>, <var>06:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zd0fw66fgrhc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031084</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 06:41:30 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 06:41:30 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/l4pdw424yqf3</link>
 <guid>https://status.equinix.com/incidents/l4pdw424yqf3</guid>
@@ -15,9 +28,7 @@ An issue with Equinix Fabric in the Americas has been identified, and a fix is b
 <p><small>Mar <var> 6</var>, <var>05:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">7xzrj94mdr3p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031064</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p><p><small>Mar <var> 6</var>, <var>05:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">7xzrj94mdr3p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031064</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 05:51:59 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 05:51:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/bbrx10pcmxq8</link>

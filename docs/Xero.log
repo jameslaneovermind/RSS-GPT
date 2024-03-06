@@ -1784,3 +1784,12 @@ Existing_entries: 34
 Fetching from https://status.xero.com/history.rss
 append_entries: 0
 Finish: 2024-03-06 06:13:09.024899
+------------------------------------------------------
+Started: 2024-03-06 07:08:42.015163
+Existing_entries: 34
+Fetching from https://status.xero.com/history.rss
+Token length: 428
+Summarized using GPT-3.5-turbo-1106
+Append: [AU Tax - Some users are being logged out](https://status.xero.com/incidents/6xhg4lnp971w)
+append_entries: 1
+Finish: 2024-03-06 07:08:43.326681

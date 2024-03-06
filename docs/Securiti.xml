@@ -4,6 +4,7 @@
 <title>Securiti US Status - Incident History</title>
 <link>https://status.securiti.ai</link>
 
+
 <item>
 <title>Release 1.113 Upgrade</title>
 <link>https://status.securiti.ai/incidents/vpx9r71z9bnc</link>
@@ -14,9 +15,7 @@ Summary: Securiti will undergo an upgrade to Release 1.113, designed to not caus
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>4</var>, <var>21:00</var> UTC &nbsp;-&nbsp; Apr <var>5</var>, <var>01:00</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>05:51</var> UTC</small><br /><strong>Scheduled</strong> - Securiti will be upgraded to Release 1.113. This is an in-service upgrade and is designed to not cause any disruption. Once the upgrade is complete, please log into the portal and navigate to Knowledge Center -> Release Notes for more information about the release content.</p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Apr 2024 21:00:00 +0000</pubDate>
-<pubDate>Thu, 04 Apr 2024 21:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Release 1.112 Upgrade</title>
 <link>https://status.securiti.ai/incidents/cxvk8pb56ksv</link>

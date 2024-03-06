@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>AU Tax - Some users are being logged out</title>
+<link>https://status.xero.com/incidents/6xhg4lnp971w</link>
+<guid>https://status.xero.com/incidents/6xhg4lnp971w</guid>
+<content:encoded><![CDATA[
+<div> [High] - AU Tax Access Issue <br><br> Some Australian customers are being logged out when trying to access Xero Tax in Xero. This is a critical issue that our team is urgently investigating. We will provide updates as soon as possible. Summary: Identified issue impacting customers experiencing log out issues in AU Tax. Investigating with urgency. <div>
+<p><small>Mar <var> 6</var>, <var>07:06</var> UTC</small><br /><strong>Identified</strong> - We have identified what is impacting some customers who are experiencing log out issues in AU Tax.<br /><br />This is our top priority and we will update you as soon as we can. <br /><br /><b>Status Last Reviewed:</b> 7:06 AM UTC</p><p><small>Mar <var> 6</var>, <var>06:13</var> UTC</small><br /><strong>Investigating</strong> - We are aware Australian customers trying to access Xero Tax in Xero are being logged out. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 6:12 am UTC</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 07:08:08 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 07:08:08 +0000</pubDate>
+</item>
 
 <item>
 <title>Global: Xero - Some users experiencing errors in Xero</title>

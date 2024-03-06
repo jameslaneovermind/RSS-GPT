@@ -4,18 +4,17 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Core Archive Europe is currently experiencing issues</title>
 <link>https://status.opentext.com/incidents/81w23459bppm</link>
 <guid>https://status.opentext.com/incidents/81w23459bppm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Core Archive Europe Outage <br><br> Teams are working to resolve a major issue affecting Core Archive Europe. This may cause platform downtime and is being treated as a critical incident. Summary:... <div>
+<div> [High] - Core Archive Europe Outage <br /><br /> Teams are working to resolve a major issue affecting Core Archive Europe. This may cause platform downtime and is being treated as a critical incident. Summary:... <div>
 <p><small>Mar <var> 6</var>, <var>05:43</var> UTC</small><br /><strong>Identified</strong> - Core Archive Europe is currently experiencing an issue. Teams are currently assembled and working to resolve the issue.  We appreciate your patience. <br /><br />Tracking Number: IM3427283</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 05:47:43 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 05:47:43 +0000</pubDate>
 </item>
-
 <item>
 <title>OCP US/CA Prod - SearchStax Maintenance</title>
 <link>https://status.opentext.com/incidents/wvj1rqlkclzn</link>
