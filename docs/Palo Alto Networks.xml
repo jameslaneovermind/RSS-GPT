@@ -4,15 +4,15 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Prisma Cloud [app.ind] Ongoing service disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/g5mrxgldmk97</link>
 <guid>https://status.paloaltonetworks.com/incidents/g5mrxgldmk97</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> Summary: We are currently investigating a major platform issue that is causing downtime for users. We suspect it may be related to a recent configuration change to the system. <div>
+<div> [High] - Major Platform Outage <br /><br /> Summary: We are currently investigating a major platform issue that is causing downtime for users. We suspect it may be related to a recent configuration change to the system. <div>
 <p><small>Mar <var> 6</var>, <var>02:25</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
-<pubDate>Wed, 06 Mar 2024 02:25:27 +0000</pubDate>
 <pubDate>Wed, 06 Mar 2024 02:25:27 +0000</pubDate>
 </item>
 <item>
@@ -26,9 +26,7 @@ Summary: We are currently investigating a critical issue that is causing platfor
 <p><small>Mar <var> 6</var>, <var>02:24</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 02:24:07 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 02:24:07 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud [APP2]: Ongoing service disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/8qv6l7fmndx2</link>

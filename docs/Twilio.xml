@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Switzerland SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/x2mt6ny0n345</link>
 <guid>https://status.twilio.com/incidents/x2mt6ny0n345</guid>
 <content:encoded><![CDATA[
 <div> [Medium] - Scheduled Maintenance for SMS Carrier Partner in Switzerland
-<br><br>Summary: Our SMS carrier partner in Switzerland will be conducting emergency maintenance on 07 March 2024 from 14:00 PST until 20:00 PST. During this time, there may be intermittent delays in delivering SMS to Twilio phone numbers in specific countries. <div>
+<br /><br />Summary: Our SMS carrier partner in Switzerland will be conducting emergency maintenance on 07 March 2024 from 14:00 PST until 20:00 PST. During this time, there may be intermittent delays in delivering SMS to Twilio phone numbers in specific countries. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>14:00</var> - <var>20:00</var> PST</strong></p><p><small>Mar <var> 5</var>, <var>19:02</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in Switzerland is conducting an emergency maintenance from 07 March 2024 at 14:00 PST until 07 March 2024 at 20:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to Twilio phone number in below countries: <br /><br /><br /><br />Azerbaijan, Bangladesh, Bermuda, Croatia, Indonesia, Israel, Mexico, Myanmar, Nepal, Philippines, Slovenia, Uzbekistan.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Bangladesh SMS Carrier Maintenance - Robi (Robi Axiata Ltd)</title>
 <link>https://status.twilio.com/incidents/qf07lbscmmwy</link>
