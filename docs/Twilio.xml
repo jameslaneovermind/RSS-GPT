@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Chile SMS Carrier Maintenance - Entel PCS</title>
 <link>https://status.twilio.com/incidents/xzl8p4f38prn</link>
@@ -14,7 +15,6 @@ Summary:
 Entel PCS Chile will be conducting emergency maintenance on March 7th, 2024 from 19:00 PST to 22:00 PST. During this time, there may be intermittent delays in SMS delivery to and from Entel PCS Chile handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>19:00</var> - <var>22:00</var> PST</strong></p><p><small>Mar <var> 6</var>, <var>03:14</var> PST</small><br /><strong>Scheduled</strong> - The Entel PCS network in Chile is conducting an emergency maintenance from 07 March 2024 at 19:00 PST until 07 March 2024 at 22:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to and from Entel PCS Chile handsets.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 19:00:00 -0800</pubDate>
 <pubDate>Thu, 07 Mar 2024 19:00:00 -0800</pubDate>
 </item>
 <item>
@@ -27,9 +27,7 @@ Summary: MTN Nigeria is conducting emergency maintenance on March 7, 2024, from 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>14:00</var> - <var>20:00</var> PST</strong></p><p><small>Mar <var> 6</var>, <var>03:09</var> PST</small><br /><strong>Scheduled</strong> - The MTN network in Nigeria is conducting an emergency maintenance from 07 March 2024 at 14:00 PST until 07 March 2024 at 20:00 PST. During the maintenance window, there could be intermittent delays delivering SMS to MTN Nigeria handsets.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 14:00:00 -0800</pubDate>
 </item>
-
 <item>
 <title>Russia SMS Carrier Maintenance - Motiv</title>
 <link>https://status.twilio.com/incidents/16vb78csyjfb</link>

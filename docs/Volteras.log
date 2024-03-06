@@ -2336,3 +2336,10 @@ Fetching from https://status.volteras.com/history.rss
 Feed error: text/html; charset=utf-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/Volteras
+------------------------------------------------------
+Started: 2024-03-06 13:08:51.738935
+Existing_entries: 0
+Fetching from https://status.volteras.com/history.rss
+Feed error: text/html; charset=utf-8 is not an XML media type
+append_entries: 0
+error when rendering xml, skip docs/Volteras

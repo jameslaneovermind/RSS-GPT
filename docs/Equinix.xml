@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/xg5vzxrcmsml</link>
@@ -14,9 +15,7 @@ Summary: We are currently investigating a major issue with Equinix Fabric in EME
 <p><small>Mar <var> 6</var>, <var>12:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">04pd12vd9b7y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031134</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 12:04:35 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 12:04:35 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/2rfd9yzx9dcy</link>
