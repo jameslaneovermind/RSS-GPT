@@ -4,6 +4,19 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Scheduled Maintenance - Invenias</title>
+<link>https://status.bullhorn.com/incidents/31j51vry2h92</link>
+<guid>https://status.bullhorn.com/incidents/31j51vry2h92</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential System Latency
+Summary:
+Scheduled maintenance by the Bullhorn Technical Operations team may cause intermittent latency for some Invenias by Bullhorn users. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>9</var>, <var>23:00</var> EST &nbsp;-&nbsp; Mar <var>10</var>, <var>08:00</var> EDT</strong></p><p><small>Mar <var> 6</var>, <var>10:29</var> EST</small><br /><strong>Scheduled</strong> - <br /><b> Impact: Some users may experience intermittent latency</b><br />System: Invenias By Bullhorn.<br /><br />Time: 10th March 04:00 - 12:00 UTC <br /><br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 23:00:00 -0500</pubDate>
+<pubDate>Sat, 09 Mar 2024 23:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>ATS/CRM - CLS29, CLS91, CLS99</title>

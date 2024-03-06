@@ -4,18 +4,17 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Active Access Maintenance scheduled for 10 March 2024</title>
 <link>https://status.opentext.com/incidents/f348cfspj8b6</link>
 <guid>https://status.opentext.com/incidents/f348cfspj8b6</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance OTDS <br><br> Active Access OTDS will undergo maintenance on 10 March 2024 from 06:00 UTC to 10:00 UTC. The Application does not expect any outage or degraded service but may be intermittently unavailable during this time. Summary: No major outage expected, but intermittent unavailability during maintenance. <div>
+<div> [Medium] - Scheduled Maintenance OTDS <br /><br /> Active Access OTDS will undergo maintenance on 10 March 2024 from 06:00 UTC to 10:00 UTC. The Application does not expect any outage or degraded service but may be intermittently unavailable during this time. Summary: No major outage expected, but intermittent unavailability during maintenance. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>10</var>, <var>06:00</var> - <var>10:00</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>15:01</var> UTC</small><br /><strong>Scheduled</strong> - Active Access OTDS will be undergoing maintenance on 10 March 2024 from 06:00 UTC to 10:00 UTC.  The Application doe not expect any outage or degraded service but may be intermittently unavailable, during this time.<br />Tracking Number: C2022009</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 06:00:00 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 06:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Core Archive Europe is currently experiencing issues</title>
 <link>https://status.opentext.com/incidents/81w23459bppm</link>

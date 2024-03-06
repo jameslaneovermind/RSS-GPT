@@ -2466,3 +2466,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Site Infrastructure Maintenance - Multiple Metros (Equinix Metal)](https://status.equinix.com/incidents/rzggd24wcy1m)
 append_entries: 1
 Finish: 2024-03-06 15:11:03.929866
+------------------------------------------------------
+Started: 2024-03-06 16:11:20.355682
+Existing_entries: 280
+Fetching from https://status.equinix.com/history.rss
+Token length: 384
+Summarized using GPT-3.5-turbo-1106
+Append: [Device Provisioning Issue for c3.large.arm64 (Equinix Metal)](https://status.equinix.com/incidents/1hc02jkqhldw)
+append_entries: 1
+Finish: 2024-03-06 16:11:21.916050
