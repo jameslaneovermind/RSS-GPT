@@ -4,6 +4,17 @@
 <title>ESS (Public) Status - Incident History</title>
 <link>https://status.elastic.co</link>
 
+<item>
+<title>Elastic Docker Registry - Production Database Maintenance</title>
+<link>https://status.elastic.co/incidents/ntmmxcbfp2fw</link>
+<guid>https://status.elastic.co/incidents/ntmmxcbfp2fw</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance for Docker Registry Web Interface <br><br> We will be performing maintenance on the production database for the docker registry web interface during this window. We expect this procedure to take approximately 30 minutes. During the maintenance window, users who visit the docker registry web interface (https://www.docker.elastic.co) in a browser may see errors for a few moments that resolve after a refresh. Actual docker operations, such as `docker pull`, will continue to work without interruption. Summary: Maintenance scheduled for the docker registry web interface, minimal impact expected on users. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>17:00</var> - <var>17:30</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>17:03</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing maintenance on the production database for the docker registry web interface during this window. We expect this procedure to take approximately 30 minutes.<br /><br />During the maintenance window, users who visit the docker registry web interface (https://www.docker.elastic.co) in a browser may see errors for a few moments that resolve after a refresh. Actual docker operations, such as `docker pull`, will continue to work without interruption.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 17:00:00 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 17:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Capacity provisioning issue in GCP asia-southeast1</title>

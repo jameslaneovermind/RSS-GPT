@@ -4,6 +4,29 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+<item>
+<title>Scheduled maintenance - Builder Service</title>
+<link>https://status.typeform.com/incidents/slx4qj0fz8mg</link>
+<guid>https://status.typeform.com/incidents/slx4qj0fz8mg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Builder Services <br><br> Summary: On Thursday the 14th of March at 06:00 CET, there will be a scheduled maintenance to improve the Builder services, which will last about 1 hour. During the maintenance, customers may experience limited functionalities of the form builder, including uploading images, creating or editing follow-ups, and brand kits, as well as updating access and scheduling for their forms. Some users might also experience issues when trying to submit or display images on forms. If any errors or latency are observed following the maintenance, customers are encouraged to reach out for support. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>06:00</var> - <var>07:00</var> CET</strong></p><p><small>Mar <var> 6</var>, <var>17:43</var> CET</small><br /><strong>Scheduled</strong> - On Thursday the 14th of March at 06:00 CET there will be a scheduled maintenance to improve our Builder services which will last about 1 hour. <br /><br />During the change window, we expect customers to be unable to use some functionalities of the form builder, including uploading images, creating or editing follow-ups and brand kits, and updating access and scheduling for their forms.<br />Some users could also be experiencing issues when trying to submit or display images on forms.<br /><br />We expect the above occurrences to be rare and very brief.<br /><br />Should you see some errors, latency, or impact of the above services, following the maintenance, feel free to reach out to us at https://www.typeform.com/help/contact <br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+<pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Scheduled maintenance - Builder Service</title>
+<link>https://status.typeform.com/incidents/58pt5k13f9t9</link>
+<guid>https://status.typeform.com/incidents/58pt5k13f9t9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance for Builder Services <br><br> 
+Scheduled maintenance to improve Builder services will cause a one-hour downtime for form builder functionalities such as image uploading, follow-up creation, and brand kit editing. Some users may experience issues with form submissions and image display. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>06:00</var> - <var>07:00</var> CET</strong></p><p><small>Mar <var> 6</var>, <var>17:36</var> CET</small><br /><strong>Scheduled</strong> - On Tuesday the 12th of March at 06:00 CET there will be a scheduled maintenance to improve our Builder services which will last about 1 hour. <br /><br />During the change window, we expect customers to be unable to use some functionalities of the form builder, including uploading images, creating or editing follow-ups and brand kits, and updating access and scheduling for their forms.<br />Some users could also be experiencing issues when trying to submit or display images on forms.<br /><br />We expect the above occurrences to be rare and very brief.<br /><br />Should you see some errors, latency, or impact of the above services, following the maintenance, feel free to reach out to us at https://www.typeform.com/help/contact <br /><br />We will also be closely monitoring our systems and share further updates here if/when needed.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
+<pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
+</item>
 
 <item>
 <title>Scheduled maintenance - Subscriptions Services</title>

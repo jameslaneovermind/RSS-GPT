@@ -5,6 +5,53 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Twilio Internet of Things Maintenance</title>
+<link>https://status.twilio.com/incidents/hv4dtj83x1t6</link>
+<guid>https://status.twilio.com/incidents/hv4dtj83x1t6</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Twilio Planned Maintenance <br><br> Twilio is conducting planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio Network Exchange. During the maintenance window there could be intermittent impact to services. Summary: Scheduled maintenance may cause intermittent impact to services during the specified time window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>21:01</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>08:43</var> PST</small><br /><strong>Scheduled</strong> - Twilio is conducting planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio Network Exchange. During the maintenance window there could be intermittent impact to services.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+</item>
+<item>
+<title>Twilio Interconnect Maintenance</title>
+<link>https://status.twilio.com/incidents/ljsfq9l7t235</link>
+<guid>https://status.twilio.com/incidents/ljsfq9l7t235</guid>
+<content:encoded><![CDATA[
+<div> [High] - Twilio Planned Maintenance in Ashburn (US1)
+<br><br>During the maintenance window from 16 March 21:01 until 17 March 02:00 PDT, there could be intermittent impact to services with Interconnects in US1. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>21:01</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>08:42</var> PST</small><br /><strong>Scheduled</strong> - Twilio is conducting planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio Network Exchange in Ashburn (US1). During the maintenance window there could be intermittent impact to services with Interconnects in US1.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+</item>
+<item>
+<title>Twilio Voice Maintenance</title>
+<link>https://status.twilio.com/incidents/2d3m5fvw97lg</link>
+<guid>https://status.twilio.com/incidents/2d3m5fvw97lg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Twilio Planned Maintenance <br><br> 
+Twilio is conducting a planned maintenance on the Twilio network from 16 March 21:01 until 17 March 02:00 PDT. During the maintenance window, there could be intermittent impact to services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>21:01</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>08:41</var> PST</small><br /><strong>Scheduled</strong> - Twilio is conducting a planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio network. During the maintenance window there could be intermittent impact to services.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+</item>
+<item>
+<title>Twilio Account Security Maintenance</title>
+<link>https://status.twilio.com/incidents/tr55tl83d08n</link>
+<guid>https://status.twilio.com/incidents/tr55tl83d08n</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>21:01</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>08:15</var> PST</small><br /><strong>Scheduled</strong> - Twilio is conducting planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio network. During the maintenance window, there could be intermittent impact to services.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
+</item>
+
+<item>
 <title>Twilio Messaging Maintenance</title>
 <link>https://status.twilio.com/incidents/2p7kbnzx1xbh</link>
 <guid>https://status.twilio.com/incidents/2p7kbnzx1xbh</guid>
@@ -14,9 +61,7 @@ Summary: Twilio is conducting planned maintenance, which may result in intermitt
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>21:01</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:01</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>08:07</var> PST</small><br /><strong>Scheduled</strong> - Twilio is conducting planned maintenance from 16 March 21:01 until 17 March 02:00 PDT on the Twilio network. During the maintenance window, there could be intermittent message delivery failures and delivery delays to and from Twilio.</p>
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
-<pubDate>Sat, 16 Mar 2024 21:01:00 -0700</pubDate>
 </item>
-
 <item>
 <title>United States Account Security Carrier Partner Maintenance - Verizon Wireless</title>
 <link>https://status.twilio.com/incidents/ncffn4v2q6zs</link>

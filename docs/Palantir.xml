@@ -4,18 +4,17 @@
 <title>Palantir Foundry UK Status - Incident History</title>
 <link>https://status.palantirfoundry.co.uk</link>
 
+
 <item>
 <title>Object Storage V2 is experiencing degraded performance.</title>
 <link>https://status.palantirfoundry.co.uk/incidents/c6cyvh5cj8m1</link>
 <guid>https://status.palantirfoundry.co.uk/incidents/c6cyvh5cj8m1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Data Sync Delays and Interruptions<br><br>Summary: The company is investigating an issue that may cause delays or interruptions in the syncs of data into the ontology, indicating a potential major outage impacting platform functionality. <div>
+<div> [High] - Data Sync Delays and Interruptions<br /><br />Summary: The company is investigating an issue that may cause delays or interruptions in the syncs of data into the ontology, indicating a potential major outage impacting platform functionality. <div>
 <p><small>Mar <var> 6</var>, <var>15:53</var> GMT</small><br /><strong>Investigating</strong> - We are currently investigating an issue which may manifest in the following ways:<br /><br />Syncs of data into the ontology could be delayed or interrupted.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 15:53:24 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 15:53:24 +0000</pubDate>
 </item>
-
 <item>
 <title>Multiple components are experiencing degraded performance.</title>
 <link>https://status.palantirfoundry.co.uk/incidents/6fnhq399ht7r</link>

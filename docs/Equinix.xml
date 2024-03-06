@@ -5,19 +5,29 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/51htt8r7x4cm</link>
+<guid>https://status.equinix.com/incidents/51htt8r7x4cm</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Equinix Fabric - Americas (BG, MI) Investigation Update <br><br> We are currently investigating the identified issue with Equinix Fabric in the Americas. An update will be provided once the issue has been resolved. Summary: The issue with Equinix Fabric in the Americas is being investigated, and a resolution is anticipated. <div>
+<p><small>Mar <var> 6</var>, <var>17:02</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ln5dxp58qd0n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031151</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI)]</div></p><p><small>Mar <var> 6</var>, <var>16:49</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ln5dxp58qd0n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031151</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 17:02:59 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 17:02:59 +0000</pubDate>
+</item>
+
+<item>
 <title>Device Provisioning Issue for c3.large.arm64 (Equinix Metal)</title>
 <link>https://status.equinix.com/incidents/1hc02jkqhldw</link>
 <guid>https://status.equinix.com/incidents/1hc02jkqhldw</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Issue with Provisioning for c3.large.arm64 Servers
-<br><br>Summary: We are currently investigating an issue affecting provisioning for c3.large.arm64 servers. Provisioning may fail or time out while we resolve the problem. Please visit status.equinixmetal.com for further updates or reach out to support for further assistance.
+<br /><br />Summary: We are currently investigating an issue affecting provisioning for c3.large.arm64 servers. Provisioning may fail or time out while we resolve the problem. Please visit status.equinixmetal.com for further updates or reach out to support for further assistance.
  <div>
 <p><small>Mar <var> 6</var>, <var>15:55</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue affecting provisioning for c3.large.arm64 servers. Provisioning for this server type may fail or time out while we resolve the problem.<br /><br />Please visit status.equinixmetal.com for further updates or reach out to support@equinixmetal.com for further assistance.<div class="affected-products font-small color-secondary">[Equinix Metal - Global Services (Device Provisioning)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 15:55:50 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 15:55:50 +0000</pubDate>
 </item>
-
 <item>
 <title>Site Infrastructure Maintenance - Multiple Metros (Equinix Metal)</title>
 <link>https://status.equinix.com/incidents/rzggd24wcy1m</link>
