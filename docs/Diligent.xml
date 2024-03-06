@@ -4,6 +4,7 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Risk Intelligence Data - Some users may not be able to generate reports</title>
 <link>https://status.diligent.com/incidents/c3trmvfs2597</link>
@@ -14,9 +15,7 @@ Summary: Some users' generated reports may stay in processing status and not com
 <p><small>Mar <var> 6</var>, <var>21:44</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 6</var>, <var>21:38</var> UTC</small><br /><strong>Investigating</strong> - Some users' generated reports may stay in processing status and not complete generating. Existing reports work as expected.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 21:44:49 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 21:44:49 +0000</pubDate>
 </item>
-
 <item>
 <title>Boards - users experiencing issues with exporting.</title>
 <link>https://status.diligent.com/incidents/rgkvybsfy518</link>

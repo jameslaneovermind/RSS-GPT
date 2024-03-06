@@ -4,18 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Email Validation degradation</title>
 <link>https://status.infobip.com/incidents/3wwr171d4cv1</link>
 <guid>https://status.infobip.com/incidents/3wwr171d4cv1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Email Validation Service Outage <br><br> During the specified timeframe, a portion of the email validation requests returned errors due to an issue with the Email Validation service processed over the Global (Germany) data center. The dedicated team is actively working on resolving the issue. Summary: <div>
+<div> [High] - Major Email Validation Service Outage <br /><br /> During the specified timeframe, a portion of the email validation requests returned errors due to an issue with the Email Validation service processed over the Global (Germany) data center. The dedicated team is actively working on resolving the issue. Summary: <div>
 <p><small>Mar <var> 6</var>, <var>22:06</var> UTC</small><br /><strong>Resolved</strong> - The issue has been successfully resolved and the service is once again operational.<br />During the specified timeframe, you may have experienced errors with your Email Validation request.<br /><br />Start (UTC): 06 March 20:30<br />End (UTC): 06 March 21:48<br /><br />Impact: A portion of your email validation request may have returned errors.</p><p><small>Mar <var> 6</var>, <var>21:54</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing a problem with Email Validation service request processed over our Global (Germany) data center.<br />You may experience a portion of your email validation request return errors.<br />Our dedicated team is working on the issue and more information will follow in the next update.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 22:06:56 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 22:06:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Planned maintenance of Integrations database infrastructure</title>
 <link>https://status.infobip.com/incidents/zj9ng2y5g39s</link>
