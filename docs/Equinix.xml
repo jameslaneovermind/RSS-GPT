@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/yvv0sclcqxp2</link>
+<guid>https://status.equinix.com/incidents/yvv0sclcqxp2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Network Edge and Equinix Fabric Outage in Americas<br><br>Identified and implementing fix for issue in Network Edge and Equinix Fabric in CH and NY locations.
+
+ <div>
+<p><small>Mar <var> 6</var>, <var>19:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">jgly7t4jv5rq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031160</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (CH, NY); Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Mar <var> 6</var>, <var>19:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">jgly7t4jv5rq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031160</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY); Network Edge - Americas (CH, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 19:33:43 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 19:33:43 +0000</pubDate>
+</item>
+<item>
+<title>Site Infrastructure Maintenance - Frankfurt (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/kgm2sq3w46rl</link>
+<guid>https://status.equinix.com/incidents/kgm2sq3w46rl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance in Progress <br><br> Equinix Metal - EMEA (FR) & Global Services (Device Provisioning) - Scheduled maintenance is currently ongoing. Updates will be provided as needed. Summary: Scheduled maintenance is being conducted for Equinix Metal in the EMEA (FR) region and Global Services for Device Provisioning. Further updates will be provided as the maintenance progresses. <div>
+<p><small>Mar <var> 6</var>, <var>19:11</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - EMEA (FR) & Global Services (Device Provisioning)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 19:11:58 +0000</pubDate>
+<pubDate>Wed, 06 Mar 2024 19:11:58 +0000</pubDate>
+</item>
 
 <item>
 <title>Other (Metro Connect)</title>

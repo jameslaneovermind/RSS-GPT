@@ -4,6 +4,18 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+<item>
+<title>Issue Creating Private Spaces</title>
+<link>https://status.mulesoft.com/incidents/lv3yhjtm378g</link>
+<guid>https://status.mulesoft.com/incidents/lv3yhjtm378g</guid>
+<content:encoded><![CDATA[
+<div> [High] - Private Space Network Creation Issue
+Summary: Private Space customers are currently unable to create private networks from the Runtime Manager UI. This major issue is currently being investigated by the team. <div>
+<p><small>Mar <var> 6</var>, <var>11:26</var> PST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where Private Space customers are not able to create private networks from Runtime Manager UI.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 11:27:11 -0800</pubDate>
+<pubDate>Wed, 06 Mar 2024 11:27:11 -0800</pubDate>
+</item>
 
 <item>
 <title>Anypoint Platform Release and Maintenance Window</title>

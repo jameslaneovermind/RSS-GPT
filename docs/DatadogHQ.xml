@@ -4,6 +4,18 @@
 <title>Datadog US1 Status - Incident History</title>
 <link>https://status.datadoghq.com</link>
 
+<item>
+<title>Elevated Errors for API Key Validation</title>
+<link>https://status.datadoghq.com/incidents/q2d98y2qv54j</link>
+<guid>https://status.datadoghq.com/incidents/q2d98y2qv54j</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage: Datadog API Key Validation Unavailable
+Summary: From 12:45-1:15 PM US EST, Datadog experienced a major outage affecting the endpoint to validate API keys. This resulted in unavailability of key validation for Datadog Agents, potentially marking some Kubernetes Agents as unhealthy and causing failure to start for newly launched Agents. Additionally, build jobs using the CI Visibility product may have been missing custom tags and measures. <div>
+<p><small>Mar <var> 6</var>, <var>12:00</var> EST</small><br /><strong>Resolved</strong> - From 12:45-1:15 PM US EST Datadog’s endpoint to validate Datadog API keys was unavailable. During this window Datadog Agents would be unable to validate their API key. In all cases Agents would continue to send data. Some Agents running in Kubernetes may be marked unhealthy until restarted. Newly started Agents would fail to start. Build jobs using our CI Visibility product would be missing custom tags and measures.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 12:00:00 -0500</pubDate>
+<pubDate>Wed, 06 Mar 2024 12:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>Google SSO login issues for web application</title>

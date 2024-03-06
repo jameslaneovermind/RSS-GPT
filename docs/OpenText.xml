@@ -4,6 +4,7 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Optimost Maintenance scheduled for Day Month Year</title>
 <link>https://status.opentext.com/incidents/dxt5fkwfqyhm</link>
@@ -15,9 +16,7 @@ Optimost will be undergoing maintenance on 8 March 2024 from 05:00 UTC to 09:00 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>05:00</var> - <var>09:00</var> UTC</strong></p><p><small>Mar <var> 6</var>, <var>18:40</var> UTC</small><br /><strong>Scheduled</strong> - Optimost will be undergoing maintenance on 8 March 2024 from 05:00 UTC to 09:00 UTC.  The Application will be intermittently unavailable, during this time.<br />Tracking Number: C2029530</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 05:00:00 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 05:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Active Access Maintenance scheduled for 10 March 2024</title>
 <link>https://status.opentext.com/incidents/f348cfspj8b6</link>
