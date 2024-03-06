@@ -6,6 +6,39 @@
 
 
 <item>
+<title>Authentication Service in the NA Region</title>
+<link>https://status.klarna.com/incidents/ffy360tn9y4s</link>
+<guid>https://status.klarna.com/incidents/ffy360tn9y4s</guid>
+<content:encoded><![CDATA[
+<div> [High] - Klarna Authentication Service Planned Maintenance <br /><br /> 
+
+Klarna Authentication Service will undergo planned maintenance for about 5 minutes starting at 10:00 CET on March 13th. During this time, Klarna consumers in the EU region will not be able to authenticate themselves, impacting their ability to log in to the Klarna App and some purchase flows. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>10:00</var> - <var>11:00</var> CET</strong></p><p><small>Mar <var> 6</var>, <var>19:48</var> CET</small><br /><strong>Scheduled</strong> - Klarna Authentication Service will have a planned maintenance for about 5 minutes starting at 10:00 CET, March 13th. During the downtime, Klarna consumers in the EU region will not be able to authenticate themselves. This might impact consumers ability to login to the Klarna App and some purchase flows.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Authentication Service in the AP Region</title>
+<link>https://status.klarna.com/incidents/jfdc0x4swjfq</link>
+<guid>https://status.klarna.com/incidents/jfdc0x4swjfq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Klarna Authentication Service Planned Maintenance <br /><br /> 
+Klarna Authentication Service will undergo planned maintenance for approximately 5 minutes, impacting consumers in the AP region's ability to authenticate themselves. This may disrupt login to the Klarna App and some purchase flows. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>18:00</var> - <var>19:00</var> CET</strong></p><p><small>Mar <var> 6</var>, <var>19:43</var> CET</small><br /><strong>Scheduled</strong> - Klarna Authentication Service will have a planned maintenance for about 5 minutes starting at 18:00 CET, on March 12th.   During the downtime, Klarna consumers in the AP region will not be able to authenticate themselves. This might impact consumers ability to login to the Klarna App and some purchase flows.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 18:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Authentication Service in the EU Region</title>
+<link>https://status.klarna.com/incidents/rf7050m3vlxq</link>
+<guid>https://status.klarna.com/incidents/rf7050m3vlxq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Klarna Authentication Service Planned Maintenance <br /><br /> A planned maintenance for about 5 minutes starting at 03:00 CET, March 12th will impact Klarna consumers' ability to authenticate themselves in the EU region. This may affect login to the Klarna App and some purchase flows. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>03:00</var> - <var>04:00</var> CET</strong></p><p><small>Mar <var> 6</var>, <var>19:12</var> CET</small><br /><strong>Scheduled</strong> - Klarna Authentication Service will have a planned maintenance for about 5 minutes starting at 03:00 CET, March 12th.  During the downtime, Klarna consumers in the EU region will not be able to authenticate themselves. This might impact consumers ability to login to the Klarna App and some purchase flows.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 03:00:00 +0100</pubDate>
+</item>
+<item>
 <title>Klarna purchase API degradation</title>
 <link>https://status.klarna.com/incidents/swm82qwrdrvv</link>
 <guid>https://status.klarna.com/incidents/swm82qwrdrvv</guid>

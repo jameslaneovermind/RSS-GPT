@@ -4,18 +4,17 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/1wlvbd0wrszz</link>
 <guid>https://status.bubble.io/incidents/1wlvbd0wrszz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Main Bubble Cluster Potential Issues <br><br> Investigating potential issues with the main Bubble cluster, indicating a major outage that may be caused by a configuration change to a system. Summary: Potential major issues detected, investigation ongoing. <div>
+<div> [High] - Main Bubble Cluster Potential Issues <br /><br /> Investigating potential issues with the main Bubble cluster, indicating a major outage that may be caused by a configuration change to a system. Summary: Potential major issues detected, investigation ongoing. <div>
 <p><small>Mar <var> 6</var>, <var>13:07</var> EST</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 13:07:22 -0500</pubDate>
-<pubDate>Wed, 06 Mar 2024 13:07:22 -0500</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/hjpxc4mj4lyn</link>

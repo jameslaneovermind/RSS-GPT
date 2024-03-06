@@ -4,12 +4,13 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>deltaDNA Analytics data ingestion outage</title>
 <link>https://status.unity.com/incidents/188825</link>
 <guid>https://status.unity.com/incidents/188825</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Analytics Data Collection Outage <br><br> 
+<div> [High] - Major Incident: Analytics Data Collection Outage <br /><br /> 
 On March 4th, there was a major outage in the collection of Analytics data originating from games connected to legacy deltaDNA data collection endpoints, causing significant disruption. Data collection has been restored, but events sent during the outage may be lost. <div>
 <p><strong>Major incident</strong> - Analytics, Gaming Services, Data Collection</p><p><small>March  6, 2024 · 17:49 UTC</small><br /><strong>Retroactive</strong></p><p>
 We experienced an outage in the collection of Analytics data originating from games connected to our legacy deltaDNA data collection endpoints on 4th of March whilst sunsetting the deltaDNA dashboard and services. </p>
@@ -21,9 +22,7 @@ Data collection has been successfully restored for games that have migrated from
 Apologies for the inconvenience. </p>
 ]]></content:encoded>
 <pubDate>Wed, 6 Mar 2024 17:57:13 +0000</pubDate>
-<pubDate>Wed, 6 Mar 2024 17:57:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Discrepancy in installs between Unity and Appsflyer reporting between March 5th, 09:48 UTC, and March 6th, 07:40 UTC.</title>
 <link>https://status.unity.com/incidents/188766</link>

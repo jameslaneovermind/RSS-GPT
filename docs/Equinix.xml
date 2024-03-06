@@ -4,20 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Other (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/bv0tv6fgqjhn</link>
 <guid>https://status.equinix.com/incidents/bv0tv6fgqjhn</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage and Fix in Progress <br><br> The issue has been identified and a fix is being implemented. 
+<div> [High] - Major Outage and Fix in Progress <br /><br /> The issue has been identified and a fix is being implemented. 
 
 Summary: The company has identified a major issue and is implementing a fix to address it, indicating a large-scale outage. <div>
 <p><small>Mar <var> 6</var>, <var>17:32</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">vbvq81409qk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031152</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Mar <var> 6</var>, <var>17:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vbvq81409qk0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031152</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 17:32:49 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 17:32:49 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/51htt8r7x4cm</link>
