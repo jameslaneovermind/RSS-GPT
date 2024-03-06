@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Brightpearl - Degraded Performance</title>
 <link>https://status.sage.com/incidents/yjj4911zynsh</link>
 <guid>https://status.sage.com/incidents/yjj4911zynsh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Service Issue <br><br> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is investigating a potential major service issue, with an update expected within 30 minutes. <div>
+<div> [High] - Potential Service Issue <br /><br /> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is investigating a potential major service issue, with an update expected within 30 minutes. <div>
 <p><small>Mar <var> 6</var>, <var>10:53</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 10:53:19 +0000</pubDate>
-<pubDate>Wed, 06 Mar 2024 10:53:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Evolution SDK (ZA) - Major Outage</title>
 <link>https://status.sage.com/incidents/9b2b2b6ctp2m</link>
