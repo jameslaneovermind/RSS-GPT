@@ -6,13 +6,25 @@
 
 <item>
 <title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/65whxrmvfhgy</link>
+<guid>https://status.equinix.com/incidents/65whxrmvfhgy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Metro Connect Equipment Issue <br><br> Dark fiber links between DA4 and DA6 are down, causing service interruption to unprotected Metro Connect circuits. Protected and Dual-Diverse circuits are not impacted. Equinix engineers are investigating the issue.
+ <div>
+<p><small>Mar <var> 7</var>, <var>09:43</var> UTC</small><br /><strong>Update</strong> - SMC has reported an issue with Metro Connect.<br /><br />Equipment: Dark fiber links between DA4 and DA6 are down.<br /><br />Unprotected Metro Connect circuits experienced service interruption while there is no service impact to Protected and Dual-Diverse Metro Connect circuit.<br /><br />Equinix engineers are investigating issue..<br /><div style="display: none;">wysywcw1gkjz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031196</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA)]</div></p><p><small>Mar <var> 7</var>, <var>09:26</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wysywcw1gkjz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031196</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 09:43:45 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 09:43:45 +0000</pubDate>
+</item>
+
+<item>
+<title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/mc99v13xbp9h</link>
 <guid>https://status.equinix.com/incidents/mc99v13xbp9h</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating potential issue with Metro Connect - Americas (LA) <br><br> Summary: We are currently investigating an issue related to Metro Connect in the Americas region. Incident Number: INC0031188. <div>
+<div> [Medium] - Investigating potential issue with Metro Connect - Americas (LA) <br /><br /> Summary: We are currently investigating an issue related to Metro Connect in the Americas region. Incident Number: INC0031188. <div>
 <p><small>Mar <var> 7</var>, <var>08:52</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dvvhw8d5f0d9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031188</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (LA)]</div></p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 08:52:58 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 08:52:58 +0000</pubDate>
 </item>
 <item>
@@ -25,22 +37,19 @@ Summary: The issue has been identified and a fix is being implemented. A major i
 <p><small>Mar <var> 7</var>, <var>08:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">k56yhjlfv8j1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031190</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Mar <var> 7</var>, <var>08:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">k56yhjlfv8j1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031190</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 08:52:41 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 08:52:41 +0000</pubDate>
 </item>
 <item>
 <title>Planned Network Maintenance - Dallas Metro (Equinix Metal)</title>
 <link>https://status.equinix.com/incidents/flcg10sbw7nl</link>
 <guid>https://status.equinix.com/incidents/flcg10sbw7nl</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for Equinix Metal and Global Services (Network) <br><br> Scheduled maintenance is currently in progress.
+<div> [Medium] - Scheduled Maintenance for Equinix Metal and Global Services (Network) <br /><br /> Scheduled maintenance is currently in progress.
 
 Summary: The company is currently undergoing scheduled maintenance for Equinix Metal and Global Services, affecting network operations. <div>
 <p><small>Mar <var> 7</var>, <var>08:14</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (DA) & Global Services (Network)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 08:14:36 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 08:14:36 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/lvgxcvczymn1</link>
