@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>California Zoom Phone Maintenance</title>
+<link>https://status.zoom.us/incidents/c4nsjwtt3tpq</link>
+<guid>https://status.zoom.us/incidents/c4nsjwtt3tpq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Maintenance at US West (N. California 2) SIP Zone <br><br>  Zoom will be performing service maintenance at the US West (N. California 2) SIP zone, potentially causing brief disconnections and missed notifications for Zoom Phone users registered to this zone. This indicates a major service impact with potential downtime. Summary: <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>17:00</var> - <var>22:00</var> PDT</strong></p><p><small>Mar <var> 7</var>, <var>14:18</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our US West (N. California 2) SIP zone starting at 01:00AM GMT  (05:00PM PST) on March 29th.<br /><br />Zoom Phone users registered to the US West (N. California 2) SIP zone will be automatically registered in an alternative SIP zone US Central (Colorado 2). During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically. <br /><br />Traffic will continue to be routed through the US West (N. California 2) SIP zone once the maintenance is completed.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Fri, 29 Mar 2024 17:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Zoom Chat Maintenance</title>

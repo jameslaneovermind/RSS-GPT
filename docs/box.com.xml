@@ -4,6 +4,7 @@
 <title>Box Status - Incident History</title>
 <link>https://status.box.com</link>
 
+
 <item>
 <title>[Major] Issues with Logins</title>
 <link>https://status.box.com/incidents/dx1kml574sx6</link>
@@ -14,9 +15,7 @@ Summary: Users are experiencing errors and timeouts when attempting to log in to
 <p><small>Mar <var> 7</var>, <var>13:57</var> PST</small><br /><strong>Monitoring</strong> - Our team has taken steps to remediate this issue and the login service should be returning to full functionality. We are continuing to monitor for any additional impact.</p><p><small>Mar <var> 7</var>, <var>13:36</var> PST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 7</var>, <var>13:36</var> PST</small><br /><strong>Investigating</strong> - Our team is investigating an issue with Logins within Box. Users attempting to log in to Box  may see errors or timeouts. We will provide additional information as it becomes available</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 13:57:48 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 13:57:48 -0800</pubDate>
 </item>
-
 <item>
 <title>[Major] Customers may experience issues with Logins, Uploads, and Box Sign</title>
 <link>https://status.box.com/incidents/xrrpvksv8lq7</link>

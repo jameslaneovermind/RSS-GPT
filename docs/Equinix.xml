@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/951q1h5v8961</link>
+<guid>https://status.equinix.com/incidents/951q1h5v8961</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Platform Issue <br><br> SMC has reported a critical issue with Equinix Fabric Platform, causing a service interruption for Metro Remote port and Unprotected Metro Connect circuits. Equinix engineers are currently investigating the issue. <br><br> <div>
+<p><small>Mar <var> 7</var>, <var>22:44</var> UTC</small><br /><strong>Update</strong> - SMC has reported an issue with Equinix Fabric Plateform.<br /><br /><br />******DF LINK DOWN/FLAP********<br />Equipment: Dark fiber link between cor05.pa6 and cor05.am7  ( Zayo ) went down or flap.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br />.<br /><div style="display: none;">ns6nqx3ctg4q</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031277</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM, PA); Network Edge - EMEA (AM, PA)]</div></p><p><small>Mar <var> 7</var>, <var>22:27</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ns6nqx3ctg4q</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031277</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM, PA); Network Edge - EMEA (AM, PA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 22:44:04 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 22:44:04 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/fwmsmbq0l8fq</link>
+<guid>https://status.equinix.com/incidents/fwmsmbq0l8fq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Dark Fiber Link Outage in Equinix IL <br><br> The dark fiber link between IL went down, causing service interruption to Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits. Equinix engineers are investigating the issue. 
+
+I've generated the tag [High] because the status update indicates a major outage with service interruption impacting multiple circuits and requires investigation by engineers. <div>
+<p><small>Mar <var> 7</var>, <var>22:27</var> UTC</small><br /><strong>Update</strong> - ******DF LINK DOWN/FLAP********<br />Dark fiber link between  IL went down.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">t4vj8pmyf5zr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031273</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL); Network Edge - EMEA (IL)]</div></p><p><small>Mar <var> 7</var>, <var>22:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">t4vj8pmyf5zr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031273</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL); Network Edge - EMEA (IL)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 22:27:35 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 22:27:35 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>

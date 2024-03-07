@@ -4,15 +4,15 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>JAMF Pro - Standard: 11.3.0 Upgrade for us-west-2</title>
 <link>https://status.jamf.com/incidents/82vrpt5c9p31</link>
 <guid>https://status.jamf.com/incidents/82vrpt5c9p31</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Jamf Cloud Upgrades Scheduled <br><br> Jamf Cloud will undergo upgrades on March 9th from 07:00 to 21:00 UTC. More information available on the Jamf Nation and Jamf Pro release notes websites. Summary: Scheduled upgrades for Jamf Cloud on March 9th. <div>
+<div> [Medium] - Jamf Cloud Upgrades Scheduled <br /><br /> Jamf Cloud will undergo upgrades on March 9th from 07:00 to 21:00 UTC. More information available on the Jamf Nation and Jamf Pro release notes websites. Summary: Scheduled upgrades for Jamf Cloud on March 9th. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>9</var>, <var>07:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:37</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 09th at 0700 UTC and running through March 09th at 2100 UTC. More information will be available on Jamf Nation here: <br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Mar 2024 07:00:00 +0000</pubDate>
 <pubDate>Sat, 09 Mar 2024 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.jamf.com/incidents/8201kxs63k5n</link>
 <guid>https://status.jamf.com/incidents/8201kxs63k5n</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Jamf Cloud Upgrades Scheduled <br><br> Upgrades on Jamf Cloud are scheduled to take place on March 9th, 05:00 - 18:00 UTC. This may cause some disruption or downtime during this period. Please refer to the provided links for more information. <div>
+<div> [Medium] - Jamf Cloud Upgrades Scheduled <br /><br /> Upgrades on Jamf Cloud are scheduled to take place on March 9th, 05:00 - 18:00 UTC. This may cause some disruption or downtime during this period. Please refer to the provided links for more information. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>9</var>, <var>05:00</var> - <var>18:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:36</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 09th at 0500 UTC and running through March 09th at 1800 UTC. More information will be available on Jamf Nation here: <br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Mar 2024 05:00:00 +0000</pubDate>
 <pubDate>Sat, 09 Mar 2024 05:00:00 +0000</pubDate>
 </item>
 <item>
@@ -31,11 +30,10 @@
 <link>https://status.jamf.com/incidents/yj1nwr0r89yl</link>
 <guid>https://status.jamf.com/incidents/yj1nwr0r89yl</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Upgrades on Jamf Cloud <br><br> 
+<div> [Medium] - Scheduled Upgrades on Jamf Cloud <br /><br /> 
 Scheduled upgrades will be performed on Jamf Cloud beginning on March 09th at 0000 UTC and running through March 09th at 0700 UTC. More information will be available on Jamf Nation. Summary: Regular upgrades are scheduled for Jamf Cloud with no indication of a major outage. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>9</var>, <var>00:00</var> - <var>07:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:35</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 09th at 0000 UTC and running through March 09th at 0700 UTC. More information will be available on Jamf Nation here: <br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
 <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -43,10 +41,8 @@ Scheduled upgrades will be performed on Jamf Cloud beginning on March 09th at 00
 <link>https://status.jamf.com/incidents/3806lh9lw4l5</link>
 <guid>https://status.jamf.com/incidents/3806lh9lw4l5</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>23:00</var> UTC &nbsp;-&nbsp; Mar <var>9</var>, <var>09:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:34</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 08th at 2300 UTC and running through March 09th at 0900 UTC. More information available on Jamf Nation here: <br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Mar 2024 23:00:00 +0000</pubDate>
 <pubDate>Fri, 08 Mar 2024 23:00:00 +0000</pubDate>
 </item>
 <item>
@@ -54,10 +50,8 @@ Scheduled upgrades will be performed on Jamf Cloud beginning on March 09th at 00
 <link>https://status.jamf.com/incidents/km2kyk6n0db2</link>
 <guid>https://status.jamf.com/incidents/km2kyk6n0db2</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>15:00</var> UTC &nbsp;-&nbsp; Mar <var>9</var>, <var>01:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:34</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 08th 1500 UTC and running through March 09th at 0100 UTC. More information will be available on Jamf Nation here:<br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
-<pubDate>Fri, 08 Mar 2024 15:00:00 +0000</pubDate>
 <pubDate>Fri, 08 Mar 2024 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -65,13 +59,10 @@ Scheduled upgrades will be performed on Jamf Cloud beginning on March 09th at 00
 <link>https://status.jamf.com/incidents/m133vftmr1kn</link>
 <guid>https://status.jamf.com/incidents/m133vftmr1kn</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>13:00</var> - <var>22:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>21:33</var> UTC</small><br /><strong>Scheduled</strong> - We are performing upgrades on Jamf Cloud beginning on March 08th at 1300 UTC and running through March 08th at 2200 UTC. More information will be available on Jamf Nation here:<br />https://community.jamf.com/t5/release-info/jamf-pro-11-3-now-available/ta-p/309961<br />https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 13:00:00 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 13:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Jamf School: APNs issues</title>
 <link>https://status.jamf.com/incidents/zxkyrd0zxtz4</link>
