@@ -1961,3 +1961,9 @@ Existing_entries: 27
 Fetching from https://status.datadoghq.com/history.rss
 append_entries: 0
 Finish: 2024-03-07 15:09:14.083327
+------------------------------------------------------
+Started: 2024-03-07 16:10:41.474103
+Existing_entries: 27
+Fetching from https://status.datadoghq.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 16:10:41.707790

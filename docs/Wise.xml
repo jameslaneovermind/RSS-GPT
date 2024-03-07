@@ -4,6 +4,17 @@
 <title>Wise Status - Incident History</title>
 <link>https://status.wise.com</link>
 
+<item>
+<title>Issue when authenticating</title>
+<link>https://status.wise.com/incidents/tvffrpmjsk3v</link>
+<guid>https://status.wise.com/incidents/tvffrpmjsk3v</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Authentication Issue on Platform <br><br> Some customers are experiencing issues with authenticating accounts and transfers using certain methods. Other methods are available and most customers can access their accounts and use our services without problems. Summary: Authentication issues are causing problems for some customers, but alternative methods are available for most users, minimizing the impact. <div>
+<p><small>Mar <var> 7</var>, <var>15:30</var> GMT</small><br /><strong>Monitoring</strong> - There is an issue with authenticating accounts and transfers on our platform, using certain authentication methods. Other methods are available and customers access their accounts and use our services without problems.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 15:30:19 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 15:30:19 +0000</pubDate>
+</item>
 
 <item>
 <title>Issue impacting Wise Platform partners in implementation phase</title>
