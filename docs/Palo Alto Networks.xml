@@ -4,6 +4,19 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Cloud Compute Emergency Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/bhh0lvzwfqbr</link>
+<guid>https://status.paloaltonetworks.com/incidents/bhh0lvzwfqbr</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance  
+Summary:  
+Scheduled maintenance is currently in progress. We will provide updates as necessary. <div>
+<p><small>Mar <var> 7</var>, <var>11:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 7</var>, <var>11:17</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:30:57 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:30:57 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud [APP.CN]: Scheduled Maintenance</title>

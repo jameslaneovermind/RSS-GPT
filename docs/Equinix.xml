@@ -5,15 +5,83 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/fp9gyd7zk81r</link>
+<guid>https://status.equinix.com/incidents/fp9gyd7zk81r</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption on EMEA Metro Connect <br><br> One of the devices has rebooted automatically, causing service interruption for customers. Equinix engineers are investigating the issue.
+
+ <div>
+<p><small>Mar <var> 7</var>, <var>12:11</var> UTC</small><br /><strong>Update</strong> - One of the devices has rebooted automatically.<br /><br />Customers on the affected device experience service interruption. Equinix engineers are investigating the issue..<br /><div style="display: none;">ybvd92mpjp5l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031222</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Mar <var> 7</var>, <var>11:55</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ybvd92mpjp5l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031222</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 12:11:00 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 12:11:00 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/r98x0j2t5pcd</link>
+<guid>https://status.equinix.com/incidents/r98x0j2t5pcd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Issue Identified for Equinix Fabric and Metro Connect in Americas (NY) <br><br> The issue has been identified and a fix is being implemented.
+
+[Low] - Investigating Issue with Equinix Fabric and Metro Connect in Americas (NY) <br><br> We are currently investigating this issue.
+
+[Low] - Incident Resolved for Equinix Fabric and Metro Connect in Americas (NY) <br><br> This incident has been resolved. <div>
+<p><small>Mar <var> 7</var>, <var>11:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">kh8732s6d99j</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028578</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (NY); Metro Connect - Americas (NY)]</div></p><p><small>Feb <var>12</var>, <var>20:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">kh8732s6d99j</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028578</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (NY); Metro Connect - Americas (NY)]</div></p><p><small>Feb <var>12</var>, <var>19:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kh8732s6d99j</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028578</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (NY); Metro Connect - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:33:46 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:33:46 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/bxwkjj4012bz</link>
+<guid>https://status.equinix.com/incidents/bxwkjj4012bz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Platform Downtime
+Summary: An issue has been identified and a fix is being implemented in Metro Connect - Americas (NY).
+
+[Medium] - Ongoing Investigation: Platform Issue
+Summary: We are currently investigating an issue in Metro Connect - Americas (NY).
+
+[Low] - Network Connectivity Issue
+Summary: This incident has been resolved in Metro Connect - Americas (NY). <div>
+<p><small>Mar <var> 7</var>, <var>11:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">zz2s3zknyfhr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028678</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Feb <var>13</var>, <var>22:35</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">zz2s3zknyfhr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028678</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Feb <var>13</var>, <var>22:21</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zz2s3zknyfhr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028678</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:33:28 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:33:28 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/5mw5bwy6fzgx</link>
+<guid>https://status.equinix.com/incidents/5mw5bwy6fzgx</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 7</var>, <var>11:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">y409t9flr7rg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028365</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Feb <var> 9</var>, <var>09:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">y409t9flr7rg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028365</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p><p><small>Feb <var> 9</var>, <var>09:20</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">y409t9flr7rg</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028365</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (NY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:33:10 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:33:10 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/v1dfjb96r61x</link>
+<guid>https://status.equinix.com/incidents/v1dfjb96r61x</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var> 7</var>, <var>11:39</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">gwxcnc3gpx7w</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031219</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC)]</div></p><p><small>Mar <var> 7</var>, <var>11:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gwxcnc3gpx7w</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031219</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:39:44 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:39:44 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/wv0rgr9s6fbd</link>
 <guid>https://status.equinix.com/incidents/wv0rgr9s6fbd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Equinix Internet Access / Connect - EMEA (AM) <br><br> We are currently investigating a critical issue that has caused platform downtime. An identified fix is being implemented to resolve the issue. 
+<div> [High] - Major Incident: Equinix Internet Access / Connect - EMEA (AM) <br /><br /> We are currently investigating a critical issue that has caused platform downtime. An identified fix is being implemented to resolve the issue. 
  <div>
 <p><small>Mar <var> 7</var>, <var>11:01</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">83n46gvx78dz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028497</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p><p><small>Feb <var>11</var>, <var>07:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">83n46gvx78dz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028497</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p><p><small>Feb <var>11</var>, <var>07:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">83n46gvx78dz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028497</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (AM)]</div></p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 11:01:29 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 11:01:29 +0000</pubDate>
 </item>
 <item>
@@ -21,15 +89,13 @@
 <link>https://status.equinix.com/incidents/yjx89khcypgy</link>
 <guid>https://status.equinix.com/incidents/yjx89khcypgy</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage with Metro Connect <br><br> Dark fiber links between DA4 and DA6 are down, causing Metro Connect circuit and Equinix Fabric Metro remote port to experience 50ms switching hits. Equinix engineers are currently investigating the issue.
+<div> [High] - Major Outage with Metro Connect <br /><br /> Dark fiber links between DA4 and DA6 are down, causing Metro Connect circuit and Equinix Fabric Metro remote port to experience 50ms switching hits. Equinix engineers are currently investigating the issue.
 
  <div>
 <p><small>Mar <var> 7</var>, <var>10:52</var> UTC</small><br /><strong>Update</strong> - SMC has reported an issue with Metro Connect.<br /><br />Equipment: Dark fiber links between DA4 and DA6 are down.<br /><br />Metro Connect circuit and Equinix Fabric Metro remote port experienced 50ms switching hits.<br /><br />Equinix engineers are investigating issue..<br /><div style="display: none;">43xfgjjnpc4p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031213</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA)]</div></p><p><small>Mar <var> 7</var>, <var>10:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">43xfgjjnpc4p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031213</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 10:52:28 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 10:52:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/65whxrmvfhgy</link>

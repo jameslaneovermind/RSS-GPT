@@ -2296,3 +2296,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sage 200 Standard (UKI) - Degraded Performance](https://status.sage.com/incidents/3cfzz4ppvgr3)
 append_entries: 1
 Finish: 2024-03-07 11:07:47.478914
+------------------------------------------------------
+Started: 2024-03-07 12:15:02.455107
+Existing_entries: 68
+Fetching from https://status.sage.com/history.rss
+Token length: 546
+Summarized using GPT-3.5-turbo-1106
+Append: [HMRC Scheduled Maintenance of MTD VAT & MTD ITSA](https://status.sage.com/incidents/plg809hhyfrp)
+append_entries: 1
+Finish: 2024-03-07 12:15:03.934658

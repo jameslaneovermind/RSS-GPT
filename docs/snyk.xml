@@ -5,6 +5,18 @@
 <link>https://status.snyk.io</link>
 
 <item>
+<title>Snyk platform outage</title>
+<link>https://status.snyk.io/incidents/n3cwf9jr55ld</link>
+<guid>https://status.snyk.io/incidents/n3cwf9jr55ld</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage <br><br> The Snyk platform experienced a brief outage between 11:07 UTC and 11:09 UTC, impacting all services. Snyk Engineers have confirmed that all services have been restored. <div>
+<p><small>Mar <var> 7</var>, <var>11:38</var> UTC</small><br /><strong>Resolved</strong> - The Snyk platform experienced a brief outage between 11:07 UTC and 11:09 UTC.<br /><br />Snyk Engineers have confirmed all services have been restored.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 11:38:13 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 11:38:13 +0000</pubDate>
+</item>
+
+<item>
 <title>IAC+ Degradation</title>
 <link>https://status.snyk.io/incidents/jxjhnjj9g2q5</link>
 <guid>https://status.snyk.io/incidents/jxjhnjj9g2q5</guid>
@@ -14,9 +26,7 @@ Summary: Snyk's monitoring systems have identified degraded performance in IAC+ 
 <p><small>Mar <var> 7</var>, <var>10:27</var> UTC</small><br /><strong>Identified</strong> - Snyk Monitoring systems have identified that IAC+ scans are currently degraded. Customers may observe issues when attempting Cloud Scans.<br /><br />There was limited impact to SCM scans which has now been resolved.<br /><br />This does not affect the standard Snyk IaC offering.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 10:27:59 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 10:27:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Snyk Reporting Partially Degraded</title>
 <link>https://status.snyk.io/incidents/w94r0zd3tv2m</link>
