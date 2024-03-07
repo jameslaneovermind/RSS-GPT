@@ -4,6 +4,17 @@
 <title>New Relic Status - Incident History</title>
 <link>https://status.newrelic.com</link>
 
+<item>
+<title>Potential Service Interruption</title>
+<link>https://status.newrelic.com/incidents/mhkfvg60t6kg</link>
+<guid>https://status.newrelic.com/incidents/mhkfvg60t6kg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Service Interruption Investigation <br><br> We are currently investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates. <div>
+<p><small>Mar <var> 7</var>, <var>15:08</var> UTC</small><br /><strong>Identified</strong> - Some customers in the US region may experience issues when using the using filters in the Alerts UI. Alerts notifications are not affected.</p><p><small>Mar <var> 7</var>, <var>14:51</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential service interruption that may impact some customers. Please continue to monitor this page for updates.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 15:08:05 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 15:08:05 +0000</pubDate>
+</item>
 
 <item>
 <title>Potential Service Interruption</title>

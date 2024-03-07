@@ -4,6 +4,22 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Build Updates To Existing To Long Standing Cloud Machines Degraded</title>
+<link>https://status.unity.com/incidents/189429</link>
+<guid>https://status.unity.com/incidents/189429</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Build Update Issues on Cloud Machines <br><br> Some build update issues have been identified with cloud machines set up before a certain date. The updates will queue and no progress will be made. Users are advised to re-scale their cloud machines to obtain the updated build images.  Summary: <div>
+<p><strong>Minor incident</strong> - Multiplayer, Multiplay, Game Server Hosting (UDash)</p><p><small>March  7, 2024 · 14:20 UTC</small><br /><strong>Investigating</strong></p><p>
+Issues identified with build updates being pushed out to cloud machines setup before 15:00 06/03/24 UTC.</p>
+<p>
+Updates will queue and no progress will be made.</p>
+<p>
+If you are seeing these issues please re-scale your cloud machines and the new machines will obtain the updated build images</p>
+]]></content:encoded>
+<pubDate>Thu, 7 Mar 2024 14:25:33 +0000</pubDate>
+<pubDate>Thu, 7 Mar 2024 14:25:33 +0000</pubDate>
+</item>
 
 <item>
 <title>deltaDNA Analytics data ingestion outage</title>

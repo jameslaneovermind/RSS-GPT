@@ -1955,3 +1955,9 @@ Existing_entries: 27
 Fetching from https://status.datadoghq.com/history.rss
 append_entries: 0
 Finish: 2024-03-07 14:09:26.701611
+------------------------------------------------------
+Started: 2024-03-07 15:09:13.787514
+Existing_entries: 27
+Fetching from https://status.datadoghq.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 15:09:14.083327

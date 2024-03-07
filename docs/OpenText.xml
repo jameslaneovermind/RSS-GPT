@@ -4,6 +4,18 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+<item>
+<title>Cloud Fax services North America Network Maintenance scheduled for 07 April 2024</title>
+<link>https://status.opentext.com/incidents/vtkx5ptjhftx</link>
+<guid>https://status.opentext.com/incidents/vtkx5ptjhftx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance Scheduled for Desktop and Production Messaging BMS
+Summary: Desktop Messaging BMS and Production Messaging BMS will undergo maintenance on 07 April 2024 from 03:00 UTC to 07:00 UTC, causing intermittent service interruptions. Tracking Number: C2027273. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>7</var>, <var>03:00</var> - <var>07:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>15:06</var> UTC</small><br /><strong>Scheduled</strong> - Desktop Messaging BMS and Production Messaging BMS will be undergoing maintenance on 07 April 2024 from 03:00 UTC to 07:00 UTC.  Intermittent service interruptions are expected to occur throughout this timeframe.<br /><br />Tracking Number: C2027273</p>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 03:00:00 +0000</pubDate>
+<pubDate>Sun, 07 Apr 2024 03:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Optimost Maintenance scheduled for Day Month Year</title>

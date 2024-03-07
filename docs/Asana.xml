@@ -4,6 +4,18 @@
 <title>Asana Status - Incident History</title>
 <link>https://status.asana.com</link>
 
+<item>
+<title>Partial Outage</title>
+<link>https://status.asana.com/incidents/kpr2xx8l07zx</link>
+<guid>https://status.asana.com/incidents/kpr2xx8l07zx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage <br><br> 
+Asana is currently experiencing difficulties, impacting availability for some customers. Our Development Team is investigating in hopes to fix the issue soon. Apologies for the inconvenience; please stay updated here. Summary: Asana is currently experiencing a major platform outage, with availability impacted for some customers. The Development Team is working to resolve the issue as quickly as possible. <div>
+<p><small>Mar <var> 7</var>, <var>15:07</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing some difficulties; as a result, Asana might not be available for some of our customers. Our Development Team is currently investigating this issue and we're hoping to get it fixed as soon as possible. Sincere apologies for the inconvenience; if you're impacted by this issue, please keep an eye on this page for the latest updates.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 15:07:49 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 15:07:49 +0000</pubDate>
+</item>
 
 <item>
 <title>Delayed Webhooks and Event Streams</title>

@@ -4,6 +4,17 @@
 <title>Guidewire Status - Incident History</title>
 <link>https://status.guidewire.com</link>
 
+<item>
+<title>GCC USA and CANADA Maintenance</title>
+<link>https://status.guidewire.com/incidents/kqjtlh7s8g0b</link>
+<guid>https://status.guidewire.com/incidents/kqjtlh7s8g0b</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance <br><br> We will be undergoing scheduled maintenance during this time. Summary: There will be a major scheduled maintenance event taking place during the specified time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Apr <var>4</var>, <var>10:00</var> - <var>11:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>14:51</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 10:00:00 +0000</pubDate>
+<pubDate>Thu, 04 Apr 2024 10:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>GWCP Production AMER/CAN Tenant (v.1.76)</title>
