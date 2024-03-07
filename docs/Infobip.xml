@@ -4,15 +4,15 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>SSL certificate renewal of *.api-id1.infobip.com</title>
 <link>https://status.infobip.com/incidents/shdmjjn85ktr</link>
 <guid>https://status.infobip.com/incidents/shdmjjn85ktr</guid>
 <content:encoded><![CDATA[
-<div> [Low] - SSL Certificate Renewal Scheduled <br><br> Summary: Infobip will be performing an automatic renewal of their SSL certificate *.api-id1.infobip.com from May 13, 14:00 to May 13, 20:00 UTC. No action is required unless the leaf certificate is pinned. More information and preparation guidelines can be found on their website. If additional assistance is needed, contact support at support@infobip.com. <div>
+<div> [Low] - SSL Certificate Renewal Scheduled <br /><br /> Summary: Infobip will be performing an automatic renewal of their SSL certificate *.api-id1.infobip.com from May 13, 14:00 to May 13, 20:00 UTC. No action is required unless the leaf certificate is pinned. More information and preparation guidelines can be found on their website. If additional assistance is needed, contact support at support@infobip.com. <div>
 <p><strong>THIS IS A SCHEDULED EVENT May <var>13</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>00:25</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate *.api-id1.infobip.com, timeframe:<br />    - Start (UTC): 13 May 14:00<br />    - End (UTC): 13 May 20:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 13 May 2024 14:00:00 +0000</pubDate>
 <pubDate>Mon, 13 May 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: Infobip will be performing automatic renewal of their SSL certificate f
 <p><strong>THIS IS A SCHEDULED EVENT May <var>13</var>, <var>14:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>00:23</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate *.api-sa2.infobip.com, timeframe:<br />    - Start (UTC): 13 May 14:00<br />    - End (UTC): 13 May 20:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 14:00:00 +0000</pubDate>
-<pubDate>Mon, 13 May 2024 14:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Email Validation degradation</title>
 <link>https://status.infobip.com/incidents/3wwr171d4cv1</link>
