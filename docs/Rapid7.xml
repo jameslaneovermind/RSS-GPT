@@ -4,16 +4,16 @@
 <title>Rapid7 Status - Incident History</title>
 <link>https://status.rapid7.com</link>
 
+
 <item>
 <title>Insight Agent (US1) - Scheduled Maintenance</title>
 <link>https://status.rapid7.com/incidents/9dvv47jr6bp6</link>
 <guid>https://status.rapid7.com/incidents/9dvv47jr6bp6</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance in US1 Region <br><br> 
+<div> [Medium] - Scheduled Maintenance in US1 Region <br /><br /> 
 Insight Agent Platform services in the US1 region will undergo scheduled maintenance, causing potential short delays in various operations. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>03:02</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US1 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 02:00:00 +0000</pubDate>
 <pubDate>Thu, 14 Mar 2024 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -21,10 +21,9 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/qnyzjt9hk54n</link>
 <guid>https://status.rapid7.com/incidents/qnyzjt9hk54n</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance in US3 Region <br><br> We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US3 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files, and viewing some Agent settings. Summary: The scheduled maintenance may cause temporary delays in specific Insight Agent Platform services in the US3 region. <div>
+<div> [Medium] - Scheduled Maintenance in US3 Region <br /><br /> We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US3 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files, and viewing some Agent settings. Summary: The scheduled maintenance may cause temporary delays in specific Insight Agent Platform services in the US3 region. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>03:00</var> - <var>04:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>02:59</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US3 region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 03:00:00 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 03:00:00 +0000</pubDate>
 </item>
 <item>
@@ -32,10 +31,9 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/jsymrdq9xrbj</link>
 <guid>https://status.rapid7.com/incidents/jsymrdq9xrbj</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance in US2 Region <br><br> We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US2 region. You may experience short delays in applying Insight Agent configurations and Agent log retrieval at this time. Summary: The maintenance will impact the Insight Agent Platform services in the US2 region, causing possible short delays in applying configurations and log retrieval for agents. <div>
+<div> [Low] - Scheduled Maintenance in US2 Region <br /><br /> We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the US2 region. You may experience short delays in applying Insight Agent configurations and Agent log retrieval at this time. Summary: The maintenance will impact the Insight Agent Platform services in the US2 region, causing possible short delays in applying configurations and log retrieval for agents. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>03:00</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a schedule maintenance of one of the Insight Agent Platform services in the US2 region. You may experience short delays in applying Insight Agent configurations and Agent log retrieval at this time.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 02:00:00 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -43,10 +41,8 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/9r1s3gn1t1nd</link>
 <guid>https://status.rapid7.com/incidents/9r1s3gn1t1nd</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>20:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>02:57</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the EU region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 20:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -54,10 +50,8 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/fvwlfhggzbbn</link>
 <guid>https://status.rapid7.com/incidents/fvwlfhggzbbn</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>02:58</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the CA region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 02:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 02:00:00 +0000</pubDate>
 </item>
 <item>
@@ -65,10 +59,8 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/qkbjm7k8nznz</link>
 <guid>https://status.rapid7.com/incidents/qkbjm7k8nznz</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>15:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>02:54</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the AP region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 15:00:00 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -76,13 +68,10 @@ Insight Agent Platform services in the US1 region will undergo scheduled mainten
 <link>https://status.rapid7.com/incidents/knpfdg425klp</link>
 <guid>https://status.rapid7.com/incidents/knpfdg425klp</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>7</var>, <var>14:00</var> - <var>16:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>02:51</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing a scheduled maintenance of one of the Insight Agent Platform services in the AU region. You may experience short delays in applying Insight Agent configurations, Agent log retrieval, downloading the Agent installer, uploading files and viewing some Agent settings.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 14:00:00 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 14:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>InsightVM (US3) - Scheduled Maintenance</title>
 <link>https://status.rapid7.com/incidents/0m01n48d1jb5</link>

@@ -1915,3 +1915,9 @@ Append: [Insight Agent (AP) - Scheduled Maintenance](https://status.rapid7.com/i
 Append: [Insight Agent (AU) - Scheduled Maintenance](https://status.rapid7.com/incidents/knpfdg425klp)
 append_entries: 7
 Finish: 2024-03-07 03:09:19.486472
+------------------------------------------------------
+Started: 2024-03-07 04:11:07.635674
+Existing_entries: 41
+Fetching from https://status.rapid7.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 04:11:07.928840
