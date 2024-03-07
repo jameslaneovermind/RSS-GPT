@@ -2669,3 +2669,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Network Component Issue (Equinix Fabric, Metro Connect)](https://status.equinix.com/incidents/67w1178btcfd)
 append_entries: 2
 Finish: 2024-03-07 13:08:54.747900
+------------------------------------------------------
+Started: 2024-03-07 14:09:26.992953
+Existing_entries: 305
+Fetching from https://status.equinix.com/history.rss
+Token length: 361
+Summarized using GPT-3.5-turbo-1106
+Append: [Link Failure (Equinix Fabric, Network Edge)](https://status.equinix.com/incidents/vjlj33nrbrj1)
+append_entries: 1
+Finish: 2024-03-07 14:09:28.145214

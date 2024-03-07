@@ -4,6 +4,17 @@
 <title>Lytx Inc. Status - Incident History</title>
 <link>https://status.lytx.com</link>
 
+<item>
+<title>Login Page - Service Outage</title>
+<link>https://status.lytx.com/incidents/cvxnfdqd0nh5</link>
+<guid>https://status.lytx.com/incidents/cvxnfdqd0nh5</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption Impacting Login <br><br> We’re currently investigating a service interruption impacting login.lytx.com, which may result in an Access Denied error message. This issue is impacting the ability to log into Lytx Accounts. We apologize for any inconvenience and are working to resolve the issue. Summary: <div>
+<p><small>Mar <var> 7</var>, <var>06:07</var> PST</small><br /><strong>Investigating</strong> - We’re currently investigating a service interruption impacting login.lytx.com. This issue may result in an Access Denied error message which will impact your ability to log into your Lytx Account. We apologize for any inconvenience and will post another update as soon as we learn more.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 06:07:15 -0800</pubDate>
+<pubDate>Thu, 07 Mar 2024 06:07:15 -0800</pubDate>
+</item>
 
 <item>
 <title>Login Page - Service Outage</title>

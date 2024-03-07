@@ -5,16 +5,27 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/vjlj33nrbrj1</link>
+<guid>https://status.equinix.com/incidents/vjlj33nrbrj1</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Network Issue Investigation <br><br> We are currently investigating an issue with Equinix Fabric and Network Edge in the EMEA region. A fix is being implemented for the identified issue. <div>
+<p><small>Mar <var> 7</var>, <var>14:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">5trc4hw5940d</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031237</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (LD, PA); Equinix Fabric - EMEA (LD, PA)]</div></p><p><small>Mar <var> 7</var>, <var>13:44</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5trc4hw5940d</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031237</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD, PA); Network Edge - EMEA (LD, PA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 14:01:41 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 14:01:41 +0000</pubDate>
+</item>
+
+<item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/9y2w6nb01264</link>
 <guid>https://status.equinix.com/incidents/9y2w6nb01264</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Interruption in EMEA (FR) <br><br> Customers on the affected device are experiencing service interruption following an automatic reboot. Equinix engineers are currently investigating the issue. 
+<div> [High] - Major Service Interruption in EMEA (FR) <br /><br /> Customers on the affected device are experiencing service interruption following an automatic reboot. Equinix engineers are currently investigating the issue. 
 
 Summary: The incident has caused a major service interruption in the EMEA (FR) region, affecting customers on the affected device. <div>
 <p><small>Mar <var> 7</var>, <var>12:58</var> UTC</small><br /><strong>Update</strong> - One of the devices has rebooted automatically.<br /><br />Customers on the affected device experience service interruption. Equinix engineers are investigating the issue..<br /><div style="display: none;">lzgdm4krfjmz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031233</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p><p><small>Mar <var> 7</var>, <var>12:42</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">lzgdm4krfjmz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031233</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (FR)]</div></p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 12:58:13 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 12:58:13 +0000</pubDate>
 </item>
 <item>
@@ -22,15 +33,13 @@ Summary: The incident has caused a major service interruption in the EMEA (FR) r
 <link>https://status.equinix.com/incidents/67w1178btcfd</link>
 <guid>https://status.equinix.com/incidents/67w1178btcfd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0031228. 
+<div> [High] - Major Platform Outage <br /><br /> The issue has been identified and a fix is being implemented. Incident Number: INC0031228. 
 
 Summary: A major platform outage has been identified and is currently being addressed. <div>
 <p><small>Mar <var> 7</var>, <var>12:41</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">wx8t3sgbb4xx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031228</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (DA); Equinix Fabric - Americas (DA)]</div></p><p><small>Mar <var> 7</var>, <var>12:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wx8t3sgbb4xx</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031228</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA); Metro Connect - Americas (DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 12:41:21 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 12:41:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/fp9gyd7zk81r</link>

@@ -4,6 +4,18 @@
 <title>Snowflake Status - Incident History</title>
 <link>https://status.snowflake.com</link>
 
+<item>
+<title>AWS - US East (N. Virginia): INC0104040</title>
+<link>https://status.snowflake.com/incidents/xf760ltkkrj7</link>
+<guid>https://status.snowflake.com/incidents/xf760ltkkrj7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Snowflake Data Cloud Outage
+Summary: Customers hosted in specified regions are experiencing delays while attempting to access or use Snowflake services and features due to an ongoing issue with the Snowflake Data Cloud. The incident started at 12:10 UTC on March 07, 2024, and is currently being investigated. <div>
+<p><small>Mar <var> 7</var>, <var>05:31</var> PST</small><br /><strong>Investigating</strong> - <b>Current status:</b> We're investigating an issue with Snowflake Data Cloud. We'll provide an update within 60 minutes.<br /><b>Customer experience:</b> Customers hosted in the specified regions may experience delays while attempting to access or use Snowflake services and features.<br /><b>Incident start time:</b> 12:10 UTC March 07, 2024</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 06:08:49 -0800</pubDate>
+<pubDate>Thu, 07 Mar 2024 06:08:49 -0800</pubDate>
+</item>
 
 <item>
 <title>AWS - US West (Oregon): INC0103907</title>

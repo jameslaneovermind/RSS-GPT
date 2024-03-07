@@ -1995,3 +1995,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Datto RMM - Autotask ticketing feature within Web Remote is undergoing maintenance](https://status.datto.com/incidents/04hx0rjwfgp9)
 append_entries: 1
 Finish: 2024-03-07 13:09:05.497641
+------------------------------------------------------
+Started: 2024-03-07 14:09:39.103554
+Existing_entries: 43
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 14:09:39.359000
