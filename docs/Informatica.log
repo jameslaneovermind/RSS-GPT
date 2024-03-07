@@ -2213,3 +2213,9 @@ Append: [Upcoming Maintenance for Cloud Data Governance and Catalog, Cloud Data 
 Append: [Upcoming Maintenance for Cloud Data Governance and Catalog, Cloud Data Marketplace, and Metadata Command Center –UK Services,  EM West 1 Services, EM Central 1 Azure Services](https://status.informatica.com/incidents/0zjxybh2bb0d)
 append_entries: 4
 Finish: 2024-03-07 04:10:27.509950
+------------------------------------------------------
+Started: 2024-03-07 05:07:46.414198
+Existing_entries: 55
+Fetching from https://status.informatica.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 05:07:46.656696

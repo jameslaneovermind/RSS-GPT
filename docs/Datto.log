@@ -1938,3 +1938,9 @@ Existing_entries: 42
 Fetching from https://status.datto.com/history.rss
 append_entries: 0
 Finish: 2024-03-07 04:11:08.344749
+------------------------------------------------------
+Started: 2024-03-07 05:08:18.983435
+Existing_entries: 42
+Fetching from https://status.datto.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 05:08:19.245180

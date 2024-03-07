@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/n1pqy4wkdkfy</link>
+<guid>https://status.equinix.com/incidents/n1pqy4wkdkfy</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Equinix Fabric Device Outage
+Summary: One of the modules in the Equinix Fabric device went down, causing service impact to Equinix Fabric port and virtual connections due to an accidental reload of a wrong module by an engineer during troubleshooting. <div>
+<p><small>Mar <var> 7</var>, <var>04:57</var> UTC</small><br /><strong>Resolved</strong> - One of the modules in Equinix Fabric device went down at 3:59 hrs UTC and recovered at 4:11 hrs UTC. Equinix Fabric port and virtual connections without redundancy experienced service impact.<br />Equinix engineer has accidentally reload a wrong module when doing a troubleshooting for another network issue. No more further activity will be performed on the device and engineers have been reminded to be cautious when performing a task..<br /><div style="display: none;">6jb48649h0qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031174</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK); Network Edge - Asia-Pacific (HK)]</div></p><p><small>Mar <var> 7</var>, <var>04:32</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">6jb48649h0qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031174</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK); Network Edge - Asia-Pacific (HK)]</div></p><p><small>Mar <var> 7</var>, <var>04:17</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">6jb48649h0qp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031174</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK); Network Edge - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 04:57:06 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 04:57:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
