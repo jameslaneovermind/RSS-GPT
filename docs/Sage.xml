@@ -5,17 +5,31 @@
 <link>https://status.sage.com</link>
 
 <item>
+<title>Sage 200 Standard (UKI) - Degraded Performance</title>
+<link>https://status.sage.com/incidents/3cfzz4ppvgr3</link>
+<guid>https://status.sage.com/incidents/3cfzz4ppvgr3</guid>
+<content:encoded><![CDATA[
+<div> [High] - Performance Issue Investigation
+Summary: Customers are experiencing slowness, and the team is investigating the issue to prevent reoccurrence.
+
+[High] - Service Slowness
+Summary: Customers are facing slowness while using the service, and the team is investigating the potential issue. <div>
+<p><small>Mar <var> 7</var>, <var>10:57</var> UTC</small><br /><strong>Monitoring</strong> - The service is performing as expected. Avoiding a reoccurrence is our priority as we closely monitor the service.</p><p><small>Mar <var> 7</var>, <var>10:31</var> UTC</small><br /><strong>Update</strong> - We are investigating an issue where customers are facing slowness when using the service.</p><p><small>Mar <var> 7</var>, <var>10:22</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 10:57:24 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 10:57:24 +0000</pubDate>
+</item>
+
+<item>
 <title>Sage Business Cloud Accounting ZA - Degraded Performance</title>
 <link>https://status.sage.com/incidents/nphry1nbtpsq</link>
 <guid>https://status.sage.com/incidents/nphry1nbtpsq</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Potential Service Issue <br><br> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is currently investigating a potential issue with their service and will provide an update within the next 30 minutes. <div>
+<div> [Medium] - Potential Service Issue <br /><br /> We are investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is currently investigating a potential issue with their service and will provide an update within the next 30 minutes. <div>
 <p><small>Mar <var> 7</var>, <var>09:50</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 09:50:38 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 09:50:38 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Intacct - Global - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/3bhy2f6ml3kj</link>

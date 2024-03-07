@@ -4,6 +4,18 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>IAC+ Degradation</title>
+<link>https://status.snyk.io/incidents/jxjhnjj9g2q5</link>
+<guid>https://status.snyk.io/incidents/jxjhnjj9g2q5</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Degraded Performance in IAC+ Scans
+Summary: Snyk's monitoring systems have identified degraded performance in IAC+ scans, leading to potential issues for customers attempting Cloud Scans. Limited impact was experienced in SCM scans, which has now been resolved. This does not affect the standard Snyk IaC offering. <div>
+<p><small>Mar <var> 7</var>, <var>10:27</var> UTC</small><br /><strong>Identified</strong> - Snyk Monitoring systems have identified that IAC+ scans are currently degraded. Customers may observe issues when attempting Cloud Scans.<br /><br />There was limited impact to SCM scans which has now been resolved.<br /><br />This does not affect the standard Snyk IaC offering.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 10:27:59 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 10:27:59 +0000</pubDate>
+</item>
 
 <item>
 <title>Snyk Reporting Partially Degraded</title>
