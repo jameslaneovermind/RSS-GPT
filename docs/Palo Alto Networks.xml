@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Prisma Cloud [APP.CN]: Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/c6wzt937cvfk</link>
 <guid>https://status.paloaltonetworks.com/incidents/c6wzt937cvfk</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major System Outage <br><br> We will be undergoing scheduled maintenance during this time. <div>
+<div> [High] - Major System Outage <br /><br /> We will be undergoing scheduled maintenance during this time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>13:00</var> - <var>15:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>00:59</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 13:00:00 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 13:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud: Ongoing service disruption affecting Compute services</title>
 <link>https://status.paloaltonetworks.com/incidents/byf34ys5qy5r</link>

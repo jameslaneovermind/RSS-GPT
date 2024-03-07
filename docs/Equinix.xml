@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/5sr2m09ljdvh</link>
+<guid>https://status.equinix.com/incidents/5sr2m09ljdvh</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Internet Access / Equinix Connect - EMEA (FR, WA) Outage
+<br><br>Summary: We are currently investigating a major issue with Equinix Internet Access / Equinix Connect - EMEA (FR, WA) that is causing platform downtime. Incident Number: INC0031171. <div>
+<p><small>Mar <var> 7</var>, <var>02:00</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mtckj2nzpzc1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031171</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (FR, WA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 02:00:23 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 02:00:23 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>

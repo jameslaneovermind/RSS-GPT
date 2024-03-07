@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>France SMS Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/prgbcjq1d2n1</link>
@@ -14,9 +15,7 @@ Summary: Our SMS carrier partner in France will be conducting planned maintenanc
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>16:00</var> - <var>18:00</var> PDT</strong></p><p><small>Mar <var> 6</var>, <var>17:21</var> PST</small><br /><strong>Scheduled</strong> - Our SMS carrier partner in France is conducting a planned maintenance from 13 March 2024 at 16:00 PDT until 13 March 2024 at 18:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from France handsets.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 16:00:00 -0700</pubDate>
-<pubDate>Wed, 13 Mar 2024 16:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Twilio Internet of Things Maintenance</title>
 <link>https://status.twilio.com/incidents/hv4dtj83x1t6</link>

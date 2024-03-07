@@ -2461,3 +2461,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [France SMS Carrier Partner Maintenance](https://status.twilio.com/incidents/prgbcjq1d2n1)
 append_entries: 1
 Finish: 2024-03-07 01:26:00.859802
+------------------------------------------------------
+Started: 2024-03-07 02:08:19.381210
+Existing_entries: 139
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-03-07 02:08:19.532617
