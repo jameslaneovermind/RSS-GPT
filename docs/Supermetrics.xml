@@ -4,18 +4,17 @@
 <title>Supermetrics Status - Incident History</title>
 <link>https://status.supermetrics.com</link>
 
+
 <item>
 <title>Service disruption: Google Sheets, March 7, 2024</title>
 <link>https://status.supermetrics.com/incidents/qlfg6hng93g1</link>
 <guid>https://status.supermetrics.com/incidents/qlfg6hng93g1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Degraded Performance in Google Sheets <br><br> Summary: The company is currently experiencing a major issue causing most queries to fail in Google Sheets. They are investigating the root cause and looking for potential workarounds. An update is expected within 6 hours. <div>
+<div> [High] - Degraded Performance in Google Sheets <br /><br /> Summary: The company is currently experiencing a major issue causing most queries to fail in Google Sheets. They are investigating the root cause and looking for potential workarounds. An update is expected within 6 hours. <div>
 <p><small>Mar <var> 7</var>, <var>09:46</var> EET</small><br /><strong>Investigating</strong> - We are currently experiencing a degraded performance in Google Sheets. This issue is causing most queries to fail.<br /><br />We are currently investigating the root cause and looking for potential workarounds.<br /><br />We'll provide an update within 6 hours. Thank you for your patience and understanding.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 09:46:40 +0200</pubDate>
-<pubDate>Thu, 07 Mar 2024 09:46:40 +0200</pubDate>
 </item>
-
 <item>
 <title>Service disruption: Google Sheets and Looker Studio, February 26, 2024</title>
 <link>https://status.supermetrics.com/incidents/gtg2fj0rmg22</link>

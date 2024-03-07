@@ -4,19 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Intacct - Global - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/3bhy2f6ml3kj</link>
 <guid>https://status.sage.com/incidents/3bhy2f6ml3kj</guid>
 <content:encoded><![CDATA[
-<div> [High] - Scheduled Maintenance for Sage Intacct Global <br><br> 
+<div> [High] - Scheduled Maintenance for Sage Intacct Global <br /><br /> 
 Sage Intacct Global will be undergoing maintenance on Saturday, March 9th, 2024, for 4 hours, between 03:30 UTC and 07:30 UTC. The service will be unavailable during this scheduled time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>9</var>, <var>03:30</var> - <var>07:30</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>08:08</var> UTC</small><br /><strong>Scheduled</strong> - Sage Intacct - Global will be undergoing maintenance on Saturday, March 9th, 2024, for 4 hours, between 03:30 UTC and 07:30 UTC.<br /><br />The service will be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you.<br /><br />The Sage Team</p>
 ]]></content:encoded>
 <pubDate>Sat, 09 Mar 2024 03:30:00 +0000</pubDate>
-<pubDate>Sat, 09 Mar 2024 03:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/qs00dh78kxkw</link>
