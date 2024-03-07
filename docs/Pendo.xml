@@ -4,18 +4,17 @@
 <title>Pendo Status - Incident History</title>
 <link>https://status.pendo.io</link>
 
+
 <item>
 <title>Possible issues with Pendo customers receiving Pendo emails</title>
 <link>https://status.pendo.io/incidents/gjfzxzmwt8tl</link>
 <guid>https://status.pendo.io/incidents/gjfzxzmwt8tl</guid>
 <content:encoded><![CDATA[
-<div> [High] - Email Communication Issue <br><br> Summary: Some Pendo users are not receiving invitation/password reset emails or are having emails from Pendo marked as Spam due to a system issue that requires whitelisting of emails from Pendo by the IT team. <div>
+<div> [High] - Email Communication Issue <br /><br /> Summary: Some Pendo users are not receiving invitation/password reset emails or are having emails from Pendo marked as Spam due to a system issue that requires whitelisting of emails from Pendo by the IT team. <div>
 <p><small>Mar <var> 7</var>, <var>15:59</var> EST</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 7</var>, <var>15:59</var> EST</small><br /><strong>Investigating</strong> - We have identified an issue where some Pendo users are not receiving invitation/password reset emails or emails from Pendo are being marked as Spam. To mitigate, your IT team will need to go into your email providers' security setting to whitelist emails from Pendo. Please open a Support ticket if you are experiencing issues with email communication and need further assistance.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 15:59:16 -0500</pubDate>
-<pubDate>Thu, 07 Mar 2024 15:59:16 -0500</pubDate>
 </item>
-
 <item>
 <title>Poll Responses Not Loading (UI)</title>
 <link>https://status.pendo.io/incidents/pk7l4d1zdvmt</link>

@@ -6,13 +6,24 @@
 
 <item>
 <title>Elevated Errors</title>
+<link>https://status.calm.com/incidents/mfnrpztmwhbp</link>
+<guid>https://status.calm.com/incidents/mfnrpztmwhbp</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Elevated Level of Errors <br><br> We're currently investigating an elevated level of errors and are looking into the issue. <div>
+<p><small>Mar <var> 7</var>, <var>21:45</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>21:44</var> UTC</small><br /><strong>Update</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p><p><small>Mar <var> 7</var>, <var>21:44</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 21:45:27 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 21:45:27 +0000</pubDate>
+</item>
+
+<item>
+<title>Elevated Errors</title>
 <link>https://status.calm.com/incidents/dp78m29xr09b</link>
 <guid>https://status.calm.com/incidents/dp78m29xr09b</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> Summary: We're currently investigating an elevated level of errors which indicate a major platform outage. We're looking into the issue. <div>
+<div> [High] - Major Platform Outage <br /><br /> Summary: We're currently investigating an elevated level of errors which indicate a major platform outage. We're looking into the issue. <div>
 <p><small>Mar <var> 7</var>, <var>20:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>20:42</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p>
 ]]></content:encoded>
-<pubDate>Thu, 07 Mar 2024 20:42:39 +0000</pubDate>
 <pubDate>Thu, 07 Mar 2024 20:42:39 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +31,11 @@
 <link>https://status.calm.com/incidents/tj5bqd7w6wrw</link>
 <guid>https://status.calm.com/incidents/tj5bqd7w6wrw</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Elevated Error Level Investigation <br><br> We're experiencing an elevated level of errors and are currently looking into the issue. <div>
+<div> [Medium] - Elevated Error Level Investigation <br /><br /> We're experiencing an elevated level of errors and are currently looking into the issue. <div>
 <p><small>Mar <var> 7</var>, <var>20:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>20:42</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 20:42:33 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 20:42:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Elevated Errors</title>
 <link>https://status.calm.com/incidents/m8b1pnpmffrb</link>
