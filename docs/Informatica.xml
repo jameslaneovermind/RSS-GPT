@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming maintenance on February upgraded PODs for MDM SaaS Merge and Unmerge Issues</title>
+<link>https://status.informatica.com/incidents/49rsl2td80by</link>
+<guid>https://status.informatica.com/incidents/49rsl2td80by</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Patch Deployment 
+Summary: Informatica Cloud Operations will be applying patches to address merge failures and unmerge API issues. No impact to MDM SaaS services is expected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>00:30</var> - <var>02:30</var> PST</strong></p><p><small>Mar <var> 7</var>, <var>04:42</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying patches which will take care of issue around merge failures for a cluster having high number of records ( 800+ related records), and solves issue where merge fails with "All records contained by the masters are not ready for match" error. This EBF also handles Unmerge API failing when undocumented parameters were used. <br /><br />Note that it is a zero downtime deployment and no impact to MDM SaaS services is expected. <br /><br /><b>Action Needed: </b> None.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 00:30:00 -0800</pubDate>
+<pubDate>Fri, 08 Mar 2024 00:30:00 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming Maintenance for Cloud Data Governance and Catalog, Cloud Data Marketplace, and Metadata Command Center – AP East 2 Azure Services, EM SouthEast 1 Azure Services, Canada Central 1 Azure Services</title>

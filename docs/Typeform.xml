@@ -4,6 +4,17 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+<item>
+<title>Typeform Contact Us Form - Login Redirect not working</title>
+<link>https://status.typeform.com/incidents/cfbbkpnxcn84</link>
+<guid>https://status.typeform.com/incidents/cfbbkpnxcn84</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Error Impacting Login Redirect <br><br> Summary: Users attempting to log in from the Contact Us Form on the website may encounter an error message, preventing them from raising a support ticket. The issue is being addressed with high priority, and a workaround has been provided in the meantime. <div>
+<p><small>Mar <var> 7</var>, <var>13:28</var> CET</small><br /><strong>Identified</strong> - We have identified errors impacting the redirect to login from the Contact Us Form on https://www.typeform.com/help/contact/. <br /><br />Users trying to log in from that URL may see an error message, which would prevent being able to raise a support ticket. <br /><br />We are working on resolution with high priority. <br /><br />In the meantime, a workaround would be to log in from this page: https://admin.typeform.com/login?redirect_uri=https%3A%2F%2Fwww.typeform.com%2Fhelp%2Fcontact%2F&amp;message=login_support <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 747845 | TU-9650</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 13:28:01 +0100</pubDate>
+<pubDate>Thu, 07 Mar 2024 13:28:01 +0100</pubDate>
+</item>
 
 <item>
 <title>Scheduled maintenance - Builder Service</title>

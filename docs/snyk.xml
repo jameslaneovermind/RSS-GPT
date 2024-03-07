@@ -4,18 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Snyk platform outage</title>
 <link>https://status.snyk.io/incidents/n3cwf9jr55ld</link>
 <guid>https://status.snyk.io/incidents/n3cwf9jr55ld</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> The Snyk platform experienced a brief outage between 11:07 UTC and 11:09 UTC, impacting all services. Snyk Engineers have confirmed that all services have been restored. <div>
+<div> [High] - Major Platform Outage <br /><br /> The Snyk platform experienced a brief outage between 11:07 UTC and 11:09 UTC, impacting all services. Snyk Engineers have confirmed that all services have been restored. <div>
 <p><small>Mar <var> 7</var>, <var>11:38</var> UTC</small><br /><strong>Resolved</strong> - The Snyk platform experienced a brief outage between 11:07 UTC and 11:09 UTC.<br /><br />Snyk Engineers have confirmed all services have been restored.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 11:38:13 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 11:38:13 +0000</pubDate>
 </item>
-
 <item>
 <title>IAC+ Degradation</title>
 <link>https://status.snyk.io/incidents/jxjhnjj9g2q5</link>

@@ -4,6 +4,21 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto RMM - Autotask ticketing feature within Web Remote is undergoing maintenance</title>
+<link>https://status.datto.com/incidents/04hx0rjwfgp9</link>
+<guid>https://status.datto.com/incidents/04hx0rjwfgp9</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Autotask Ticketing Feature Undergoing Maintenance
+Summary: The Autotask ticketing feature within the Web Remote application is currently undergoing maintenance, which may result in temporary unavailability. The feature will be re-activated upon completion of the maintenance.
+
+[High] - Autotask Ticketing Feature Re-enabled After Maintenance
+Summary: The Autotask ticketing feature has been re-enabled on all accounts across all platforms following the completion of the maintenance. <div>
+<p><small>Mar <var> 7</var>, <var>12:17</var> UTC</small><br /><strong>Resolved</strong> - The Autotask ticketing feature has been re-enabled on all accounts across all platforms with the completion of the 12.8.0 release cycle.</p><p><small>Jan <var>27</var>, <var>02:34</var> UTC</small><br /><strong>Monitoring</strong> - The Autotask ticketing feature within the Web Remote application is currently undergoing maintenance.  The feature will be re-activated upon completion of the Maintenance.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 12:17:12 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 12:17:12 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto Partner Portal - Various functions related to creating/modifying Users and Organizations are Failing</title>

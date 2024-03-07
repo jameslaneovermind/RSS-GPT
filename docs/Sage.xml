@@ -4,20 +4,19 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>HMRC Scheduled Maintenance of MTD VAT &amp; MTD ITSA</title>
 <link>https://status.sage.com/incidents/plg809hhyfrp</link>
 <guid>https://status.sage.com/incidents/plg809hhyfrp</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance on HMRC Making Tax Digital Service <br><br> Scheduled maintenance is taking place at HMRC on the Making Tax Digital for VAT & ITSA service this weekend. Users of Making Tax Digital and ITSA Service cannot submit their VAT returns during the maintenance period stated above. 
+<div> [High] - Major Maintenance on HMRC Making Tax Digital Service <br /><br /> Scheduled maintenance is taking place at HMRC on the Making Tax Digital for VAT & ITSA service this weekend. Users of Making Tax Digital and ITSA Service cannot submit their VAT returns during the maintenance period stated above. 
 
  <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>17:00</var> UTC &nbsp;-&nbsp; Mar <var>11</var>, <var>09:00</var> UTC</strong></p><p><small>Mar <var> 7</var>, <var>11:22</var> UTC</small><br /><strong>Scheduled</strong> - Scheduled maintenance is taking place at HMRC on the Making Tax Digital for VAT & ITSA service this weekend.<br /><br />MTD ITSA - from 17:00 UTC on Friday March 8th to 09:00 UTC on Monday March 11th, 2024.<br />MTD VAT - from 07:00 UTC to 11:00 UTC on Sunday, March 11th, 2024.<br /><br />During the maintenance period stated above, users of Making Tax Digital and ITSA Service cannot submit their VAT returns.<br /><br />We apologise for any inconvenience this may cause.<br /><br />Thanks. The Sage team.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 17:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage 200 Standard (UKI) - Degraded Performance</title>
 <link>https://status.sage.com/incidents/3cfzz4ppvgr3</link>
