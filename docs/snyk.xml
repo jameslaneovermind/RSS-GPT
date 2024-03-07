@@ -4,18 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+
 <item>
 <title>Project Move API Failing</title>
 <link>https://status.snyk.io/incidents/qwznmxvmkbp1</link>
 <guid>https://status.snyk.io/incidents/qwznmxvmkbp1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major API Failure Causing Platform Downtime <br><br> Snyk Technical Teams are investigating failures observed with the Project Move API. Customers may receive a 500 response when using the Project Move API. The Snyk Incident Response has been enacted. Snyk Technical Teams have identified the issue and are taking corrective actions; additional updates will follow. Summary: Snyk is currently experiencing a major API failure, resulting in platform downtime for customers using the Project Move API. The incident is being investigated, and corrective actions are being taken. More updates to follow. <div>
+<div> [High] - Major API Failure Causing Platform Downtime <br /><br /> Snyk Technical Teams are investigating failures observed with the Project Move API. Customers may receive a 500 response when using the Project Move API. The Snyk Incident Response has been enacted. Snyk Technical Teams have identified the issue and are taking corrective actions; additional updates will follow. Summary: Snyk is currently experiencing a major API failure, resulting in platform downtime for customers using the Project Move API. The incident is being investigated, and corrective actions are being taken. More updates to follow. <div>
 <p><small>Mar <var> 7</var>, <var>15:34</var> UTC</small><br /><strong>Identified</strong> - Snyk Technical Teams are investigating failures observed with the Project Move API.  Customers may receive a 500 response when using the Project Move API. The Snyk Incident Response has been enacted.  Snyk Technical Teams have identified the issue and are taking corrective actions; additional updates will follow.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 15:34:30 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 15:34:30 +0000</pubDate>
 </item>
-
 <item>
 <title>Snyk platform outage</title>
 <link>https://status.snyk.io/incidents/n3cwf9jr55ld</link>

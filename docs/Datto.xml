@@ -4,20 +4,19 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto SaaS Protection - Unable To Access Clients On UK Node Gbe2-bfyii-2928</title>
 <link>https://status.datto.com/incidents/63sgg5s7zypv</link>
 <guid>https://status.datto.com/incidents/63sgg5s7zypv</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Backup Failures and Access Issues in UK Region
-<br><br>
+<br /><br />
 Our Engineering team is currently investigating a problem causing backup failures and issues accessing clients for Datto SaaS Protection users in the UK region. It is affecting the gbe2-bfyii-2928 node. Users are advised to subscribe to Datto SaaS Protection on the Status Page for up-to-date information. <div>
 <p><small>Mar <var> 7</var>, <var>15:56</var> UTC</small><br /><strong>Investigating</strong> - We are currently aware of a problem where Datto SaaS Protection users in the UK region can experience backup failures and issues accessing clients on gbe2-bfyii-2928.<br /><br /><br />Our Engineering team is investigating the problem and is working towards a resolution. <br /><br /><br />Affected Node :  <br /><br /><br />1. gbe2-bfyii-2928<br /><br /><br />Unsure of which node or pod you are on? We have a Knowledge Base article to walk you through determining your node or pod:<br /><br />https://saasprotection.datto.com/help/M365/Content/Troubleshooting/General/KB3600004035831.html?Highlight=how%20do%20I%20check%20where%20my%20cloud%20data%20is%20stored <br /><br /><br />Subscribe to Datto SaaS Protection on the Status Page for up to date information. <br /><br /><br />You can monitor the current status of this issue at https://status.datto.com/</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 16:07:18 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 16:07:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto RMM - Autotask ticketing feature within Web Remote is undergoing maintenance</title>
 <link>https://status.datto.com/incidents/04hx0rjwfgp9</link>

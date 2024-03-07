@@ -4,6 +4,17 @@
 <title>Monese Status Status - Incident History</title>
 <link>https://status.monese.com</link>
 
+<item>
+<title>Temporary limitation of some accounts in France</title>
+<link>https://status.monese.com/incidents/j9bwr7mnm8wz</link>
+<guid>https://status.monese.com/incidents/j9bwr7mnm8wz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Account Limitation Issue in France <br><br> Some accounts in France have been temporarily limited due to missing information, causing inconvenience to users. The company is currently investigating the issue. <div>
+<p><small>Mar <var> 7</var>, <var>16:37</var> GMT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 7</var>, <var>16:20</var> GMT</small><br /><strong>Investigating</strong> - Because of some missing information, we had to temporarily limit some of our accounts in France. <br /><br />We apologise for any inconvenience this has caused you.<br /><br />To carry on using our services, please respond to the questionnaire that pops up when you open your Monese app.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 16:37:27 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 16:37:27 +0000</pubDate>
+</item>
 
 <item>
 <title>Scheduled maintenance affecting international Payments</title>
