@@ -4,6 +4,17 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+<item>
+<title>Job step output is not displayed</title>
+<link>https://status.circleci.com/incidents/bxh29092xxm8</link>
+<guid>https://status.circleci.com/incidents/bxh29092xxm8</guid>
+<content:encoded><![CDATA[
+<div> [High] - Job Step Output Display Issue <br><br> Summary: We have identified a critical issue with job step output not being correctly displayed. A fix is in progress and we are actively working to resolve the problem. Users may use the "Accessible step output" toggle as a temporary workaround. <div>
+<p><small>Mar <var> 7</var>, <var>20:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>20:18</var> UTC</small><br /><strong>Monitoring</strong> - We have resolved the issue, and will continue to monitor our service for stability</p><p><small>Mar <var> 7</var>, <var>20:13</var> UTC</small><br /><strong>Identified</strong> - We have identified the cause of the issue, and are in the process of deploying a fix.</p><p><small>Mar <var> 7</var>, <var>20:11</var> UTC</small><br /><strong>Investigating</strong> - We are investigating reports that job step output is not being correctly displayed. As a work-around, users may select the  "Accessible step output" toggle at the top of the page.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 20:39:09 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 20:39:09 +0000</pubDate>
+</item>
 
 <item>
 <title>GitLab Connection Maintenance</title>

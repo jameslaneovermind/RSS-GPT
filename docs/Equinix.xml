@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/bvqyhcg60bv3</link>
+<guid>https://status.equinix.com/incidents/bvqyhcg60bv3</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - Americas (LA, ST) Outage
+<br><br> Summary: An issue has been identified and a fix is being implemented for a critical incident affecting Equinix Fabric in the Americas. <div>
+<p><small>Mar <var> 7</var>, <var>20:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">cym942pl7042</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031270</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, ST)]</div></p><p><small>Mar <var> 7</var>, <var>20:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">cym942pl7042</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031270</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, ST)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 20:52:18 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 20:52:18 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/0c8gwqjk68bs</link>
+<guid>https://status.equinix.com/incidents/0c8gwqjk68bs</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - Americas (ST) Issue Identified
+Summary: An issue has been identified in Equinix Fabric - Americas (ST) and a fix is being implemented. This indicates a major outage with platform downtime requiring immediate attention and resolution. <div>
+<p><small>Mar <var> 7</var>, <var>20:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">54k935z35fcb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031268</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p><p><small>Mar <var> 7</var>, <var>20:20</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">54k935z35fcb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031268</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (ST)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 20:36:43 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 20:36:43 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
