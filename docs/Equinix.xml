@@ -4,6 +4,29 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Internet Access / Equinix Connect, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/zddw5wyw8r7g</link>
+<guid>https://status.equinix.com/incidents/zddw5wyw8r7g</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Equinix Internet Access/Connect EMEA
+Summary: We are investigating a potential major outage in our Equinix Internet Access and Connect services in EMEA. Stay tuned for updates. <div>
+<p><small>Mar <var> 7</var>, <var>07:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">8f803n5873cq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031183</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (DU); Metro Connect - EMEA (DU)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 07:01:34 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 07:01:34 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/zn7y4crs906l</link>
+<guid>https://status.equinix.com/incidents/zn7y4crs906l</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on Equinix Fabric <br><br> We have identified an issue on the Equinix Fabric and a fix is being implemented to resolve it. An incident number has been assigned for tracking. <div>
+<p><small>Mar <var> 7</var>, <var>06:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ffsn4b93sh3f</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031181</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC)]</div></p><p><small>Mar <var> 7</var>, <var>06:16</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ffsn4b93sh3f</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031181</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, DC)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 06:31:34 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 06:31:34 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Fabric, Network Edge)</title>
