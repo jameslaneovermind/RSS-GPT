@@ -4,6 +4,30 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Performance Issues - Bullhorn Time &amp; Expense</title>
+<link>https://status.bullhorn.com/incidents/rm2k24gpxk2q</link>
+<guid>https://status.bullhorn.com/incidents/rm2k24gpxk2q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Outage
+Summary: Users are currently experiencing errors with all services in the Bullhorn Time & Expense application. The Bullhorn Technical Operations team is investigating this issue. <div>
+<p><small>Mar <var> 7</var>, <var>12:25</var> EST</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>12:10</var> EST</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var> 6</var>, <var>21:00</var> EST</small><br /><strong>Investigating</strong> - <br /><b>Impact: Users are currently experiencing errors with all services in the Bullhorn Time & Expense application.</b><br />System: Bullhorn Time & Expense<br />Cluster: SL1<br />Service: All<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 12:25:38 -0500</pubDate>
+<pubDate>Thu, 07 Mar 2024 12:25:38 -0500</pubDate>
+</item>
+<item>
+<title>Performance Issues - Bullhorn Time &amp; Expense</title>
+<link>https://status.bullhorn.com/incidents/hmmkz42q7rf1</link>
+<guid>https://status.bullhorn.com/incidents/hmmkz42q7rf1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Bullhorn Time & Expense Application
+Summary: Users are currently experiencing errors with all services in the Bullhorn Time & Expense application. The Bullhorn Technical Operations team is investigating this issue. Further updates will be posted when available. <div>
+<p><small>Mar <var> 6</var>, <var>22:00</var> EST</small><br /><strong>Resolved</strong> - <br /><b>Impact: Users are currently experiencing errors with all services in the Bullhorn Time & Expense application.</b><br />System: Bullhorn Time & Expense<br />Cluster: SL1<br />Service: All<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
+]]></content:encoded>
+<pubDate>Wed, 06 Mar 2024 22:00:00 -0500</pubDate>
+<pubDate>Wed, 06 Mar 2024 22:00:00 -0500</pubDate>
+</item>
 
 <item>
 <title>ATS/CRM - CLS60, CLS66</title>

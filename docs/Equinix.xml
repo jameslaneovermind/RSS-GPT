@@ -4,6 +4,41 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/pc2b15djrzsw</link>
+<guid>https://status.equinix.com/incidents/pc2b15djrzsw</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Outage at Americas (MT)<br><br> We have identified a critical issue and are currently implementing a fix for a major network outage at Americas (MT). Incident Number: INC0031264. <div>
+<p><small>Mar <var> 7</var>, <var>18:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">d7dgxc2hp6hq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031264</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (MT); Equinix Fabric - Americas (MT)]</div></p><p><small>Mar <var> 7</var>, <var>17:45</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">d7dgxc2hp6hq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031264</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (MT); Network Edge - Americas (MT)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 18:01:14 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 18:01:14 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/cc23gpyk63yj</link>
+<guid>https://status.equinix.com/incidents/cc23gpyk63yj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Interruption on Equinix Fabric Metro Connect between SP1 and SP4 IBX
+<br><br>Summary: Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, impacting Protected Metro Connect circuits. Engineers are investigating the issue. <div>
+<p><small>Mar <var> 7</var>, <var>17:40</var> UTC</small><br /><strong>Resolved</strong> - Flap on dark fiber link between SP1 and SP4 IBX.<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experienced service interruption, while Protected Metro Connect circuits experienced a 50ms switching hit. Equinix engineers are investigating the issue..<br /><div style="display: none;">hlhg5ryc9mj0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031258</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SP); Equinix Fabric - Americas (SP)]</div></p><p><small>Mar <var> 7</var>, <var>17:13</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hlhg5ryc9mj0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031258</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 17:40:13 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 17:40:13 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/bhkfzq25wqs4</link>
+<guid>https://status.equinix.com/incidents/bhkfzq25wqs4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Dark Fiber Link Flapping at WA3 and hh1 <br><br> Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits are experiencing service interruption due to a dark fiber link flap between WA3 and hh1. Equinix engineers are investigating the issue.
+ <div>
+<p><small>Mar <var> 7</var>, <var>17:30</var> UTC</small><br /><strong>Update</strong> - ******DF LINK DOWN/FLAP********<br />Dark fiber link between WA3 and hh1 flapped. <br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br />.<br /><div style="display: none;">mzrww1dlmy12</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031257</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA); Network Edge - EMEA (HH, WA)]</div></p><p><small>Mar <var> 7</var>, <var>17:14</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mzrww1dlmy12</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031257</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA); Network Edge - EMEA (HH, WA)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 17:30:01 +0000</pubDate>
+<pubDate>Thu, 07 Mar 2024 17:30:01 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Network Edge)</title>
