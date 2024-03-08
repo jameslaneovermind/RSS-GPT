@@ -4,6 +4,17 @@
 <title>Box Status - Incident History</title>
 <link>https://status.box.com</link>
 
+<item>
+<title>[Major] Issues with Box AI</title>
+<link>https://status.box.com/incidents/2yq9cnz9pdpj</link>
+<guid>https://status.box.com/incidents/2yq9cnz9pdpj</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Box AI <br><br> Box AI is currently experiencing errors or slowness. We are investigating and will provide more information as soon as possible. Summary: <div>
+<p><small>Mar <var> 8</var>, <var>01:27</var> PST</small><br /><strong>Investigating</strong> - We are investigating an ongoing issue affecting Box AI. Users may see errors or slowness when using Box AI. We will provide more information as soon as it is available.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 01:27:45 -0800</pubDate>
+<pubDate>Fri, 08 Mar 2024 01:27:45 -0800</pubDate>
+</item>
 
 <item>
 <title>[Major] Issues with Logins</title>

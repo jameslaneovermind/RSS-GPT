@@ -4,6 +4,7 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Issue with Moments service on Customer Portal</title>
 <link>https://status.infobip.com/incidents/9xj6xqqshr3k</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 
 
-[High] - Moments Service Outage <br><br> Moments service on Customer Portal is currently experiencing issues, preventing users from creating new Flows and Broadcasts or opening existing ones. Our team is actively working on a resolution. Summary: Our team has identified the cause of the issue and is working on a resolution. <div>
+[High] - Moments Service Outage <br /><br /> Moments service on Customer Portal is currently experiencing issues, preventing users from creating new Flows and Broadcasts or opening existing ones. Our team is actively working on a resolution. Summary: Our team has identified the cause of the issue and is working on a resolution. <div>
 <p><small>Mar <var> 8</var>, <var>08:55</var> UTC</small><br /><strong>Identified</strong> - Our team has identified the cause of the issue and is working on a resolution.</p><p><small>Mar <var> 8</var>, <var>08:24</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing issues with Moments service on Customer Portal. Users can not create new Flows and Broadcasts or open existing ones.<br />Our team is investigating and more details will follow in the next update.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 08:55:03 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 08:55:03 +0000</pubDate>
 </item>
-
 <item>
 <title>SSL certificate renewal of *.api-id1.infobip.com</title>
 <link>https://status.infobip.com/incidents/shdmjjn85ktr</link>
