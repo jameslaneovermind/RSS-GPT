@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/m6w4dr9qf6pm</link>
 <guid>https://status.equinix.com/incidents/m6w4dr9qf6pm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Americas (LA, MX) <br><br> Identified and fix being implemented for a major incident with Equinix Fabric in the Americas region. <div>
+<div> [High] - Equinix Fabric Outage in Americas (LA, MX) <br /><br /> Identified and fix being implemented for a major incident with Equinix Fabric in the Americas region. <div>
 <p><small>Mar <var> 8</var>, <var>03:28</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">9vbnxlv1ck9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031307</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p><p><small>Mar <var> 8</var>, <var>03:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9vbnxlv1ck9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031307</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 03:28:39 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 03:28:39 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/r060b8pl65tj</link>
