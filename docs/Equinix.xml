@@ -5,17 +5,27 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/m6w4dr9qf6pm</link>
+<guid>https://status.equinix.com/incidents/m6w4dr9qf6pm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Americas (LA, MX) <br><br> Identified and fix being implemented for a major incident with Equinix Fabric in the Americas region. <div>
+<p><small>Mar <var> 8</var>, <var>03:28</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">9vbnxlv1ck9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031307</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p><p><small>Mar <var> 8</var>, <var>03:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">9vbnxlv1ck9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031307</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 03:28:39 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 03:28:39 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/r060b8pl65tj</link>
 <guid>https://status.equinix.com/incidents/r060b8pl65tj</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Issue with Equinix Connect and Equinix Internet Access (AMER-MX) <br><br> The links for one of the Equinix Connect (EC) and Equinix Internet Access (EIA) upstreamer are currently down, resulting in increased latency for customers. However, service interruptions are not expected due to upstreamer redundancy. The provider has been contacted by Equinix engineers for resolution. <div>
+<div> [Low] - Issue with Equinix Connect and Equinix Internet Access (AMER-MX) <br /><br /> The links for one of the Equinix Connect (EC) and Equinix Internet Access (EIA) upstreamer are currently down, resulting in increased latency for customers. However, service interruptions are not expected due to upstreamer redundancy. The provider has been contacted by Equinix engineers for resolution. <div>
 <p><small>Mar <var> 8</var>, <var>02:55</var> UTC</small><br /><strong>Update</strong> - The links for one of the Equinix Connect (EC) and Equinix Internet Access (EIA) upstreamer are currently down. Customers may experience increased latency, but service interruptions are not expected due to upstreamers redundancy. The provider has already been contacted by Equinix engineers..<br /><div style="display: none;">tkssj1524mm4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031300</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p><p><small>Mar <var> 8</var>, <var>02:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">tkssj1524mm4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031300</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 02:55:25 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 02:55:25 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/5cl41kd7frtt</link>
