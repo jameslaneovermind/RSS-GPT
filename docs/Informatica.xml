@@ -4,15 +4,15 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Planned Maintenance with Downtime impacting CDGC on US (AWS) and CDGC Canada CACENTRAL1</title>
 <link>https://status.informatica.com/incidents/49z7tkj1pllg</link>
 <guid>https://status.informatica.com/incidents/49z7tkj1pllg</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance <br><br> Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace, leading to a 2-hour downtime impacting user interface accessibility and scheduled activities execution. <div>
+<div> [High] - Major Service Maintenance <br /><br /> Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace, leading to a 2-hour downtime impacting user interface accessibility and scheduled activities execution. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>01:00</var> - <var>03:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>11:17</var> PST</small><br /><strong>Scheduled</strong> - <b>Services:</b> Data Governance and Catalog, Data Marketplace<br /><b><p style="color: red;">DOWNTIME:</b> 2 hours</p><br /><b>Date/Time:</b> Sunday, March 24th, 2024 (1:00am to 3:00am Pacific Daylight Time)<br /><br />Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace. During the maintenance activity, the database utilized by these services will undergo a minor version upgrade which is expected to take 2 hours to complete.<br /><br /><b>Impact:</b> The user interface will not be accessible and any scheduled activities will fail to execute. <br /><br />There will not be any changes to the functionality of the application.<br /><br />For further questions, contact Global Customer Support at: https://www.informatica.com/services-and-training/customer-success-services/contact-us.html.</p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 01:00:00 -0700</pubDate>
 <pubDate>Sun, 24 Mar 2024 01:00:00 -0700</pubDate>
 </item>
 <item>
@@ -26,20 +26,17 @@ Informatica Cloud Operations will be performing maintenance on the Data Governan
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>23</var>, <var>20:00</var> - <var>21:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>11:21</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace. During the maintenance activity, the database utilized by these services will undergo a minor version upgrade over a 1 hour maintenance period which will result in <b>25 minutes of Downtime</b>.<br /><br /><b>Impact:</b> The user interface will not be accessible and any scheduled activities will fail to execute.<br /><br />There will not be any changes to the functionality of the application.<br /><br />For further questions, contact Global Customer Support at: https://www.informatica.com/services-and-training/customer-success-services/contact-us.html.</p>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 20:00:00 -0700</pubDate>
-<pubDate>Sat, 23 Mar 2024 20:00:00 -0700</pubDate>
 </item>
 <item>
 <title>Planned Maintenance with Downtime impacting CDGC on AP SouthEast 1 and AP NorthEast 2 PODs</title>
 <link>https://status.informatica.com/incidents/pcptz20nbz5p</link>
 <guid>https://status.informatica.com/incidents/pcptz20nbz5p</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance and Downtime<br><br>Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace. The database utilized by these services will undergo a minor version upgrade over a 1 hour maintenance period, resulting in 25 minutes of downtime. The user interface will not be accessible and any scheduled activities will fail to execute. <div>
+<div> [High] - Major Maintenance and Downtime<br /><br />Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace. The database utilized by these services will undergo a minor version upgrade over a 1 hour maintenance period, resulting in 25 minutes of downtime. The user interface will not be accessible and any scheduled activities will fail to execute. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>23</var>, <var>09:00</var> - <var>10:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>11:19</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be performing maintenance on the Data Governance and Catalog services as well as Data Marketplace. During the maintenance activity, the database utilized by these services will undergo a minor version upgrade over a 1 hour maintenance period which will result in <b>25 minutes of Downtime</b>.<br /><br /><b>Impact:</b> The user interface will not be accessible and any scheduled activities will fail to execute.<br /><br />There will not be any changes to the functionality of the application.<br /><br />For further questions, contact Global Customer Support at: https://www.informatica.com/services-and-training/customer-success-services/contact-us.html.</p>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 09:00:00 -0700</pubDate>
-<pubDate>Sat, 23 Mar 2024 09:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Upcoming maintenance on February upgraded PODs for Operational Insights</title>
 <link>https://status.informatica.com/incidents/tk2kqj22972j</link>
