@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Canada Account Security Service Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/cg5s7tf6k9gy</link>
+<guid>https://status.twilio.com/incidents/cg5s7tf6k9gy</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Twilio APIs<br><br> Our service partner is conducting a planned maintenance from 13 March 2024 at 23:00 PDT until 14 March 2024 at 03:00 PDT. During the maintenance window, there could be intermittent API request failures for the following country and carrier: Bell Canada, Rogers Canada, Telus Canada. Impacted Products: Lookup Identity Match, Verify Silent Network Auth, Lookup Line Type Intelligence [Twilio API], Lookup SIM Swap, Legacy Identity MatchAndAttributes. Summary: Scheduled maintenance is planned for Twilio APIs, potentially causing intermittent API request failures for specific carriers in Canada. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>23:00</var> PDT &nbsp;-&nbsp; Mar <var>14</var>, <var>03:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>13:21</var> PST</small><br /><strong>Scheduled</strong> - Our service partner is conducting a planned maintenance from 13 March 2024 at 23:00 PDT until 14 March 2024 at 03:00 PDT. During the maintenance window, there could be intermittent API request failures for the following country and carrier: Bell Canada, Rogers Canada, Telus Canada<br /><br /><br /><br />Impacted Products: Lookup Identity Match, Verify Silent Network Auth, Lookup Line Type Intelligence [Twilio API], Lookup SIM Swap, Legacy Identity MatchAndAttributes</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 23:00:00 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 23:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Maintenance - C-Spire</title>

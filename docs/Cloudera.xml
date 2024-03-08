@@ -4,18 +4,17 @@
 <title>Cloudera Status - Incident History</title>
 <link>https://status.cloudera.com</link>
 
+
 <item>
 <title>Intermittent issues accessing Cloudera Manager and other UI’s</title>
 <link>https://status.cloudera.com/incidents/vf29prxz0wyz</link>
 <guid>https://status.cloudera.com/incidents/vf29prxz0wyz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Issue with CDP IAM Service on US Control Plane<br><br> Summary: Customers may be experiencing issues accessing Cloudera Manager and other UI's due to an ongoing investigation of a potential issue with the CDP IAM service on the US Control Plane. A resolution is being pursued, and an update is expected within 60 minutes. <div>
+<div> [High] - Potential Issue with CDP IAM Service on US Control Plane<br /><br /> Summary: Customers may be experiencing issues accessing Cloudera Manager and other UI's due to an ongoing investigation of a potential issue with the CDP IAM service on the US Control Plane. A resolution is being pursued, and an update is expected within 60 minutes. <div>
 <p><small>Mar <var> 8</var>, <var>20:49</var> UTC</small><br /><strong>Investigating</strong> - Current Status: We are currently investigating a potential issue with CDP IAM service on the US Control Plane. Our teams are working on addressing the issue and we will have an update within 60 mins.<br /><br />Customer Experience: Customer’s may have issues accessing Cloudera Manager and other UI’s.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 20:49:53 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 20:49:53 +0000</pubDate>
 </item>
-
 <item>
 <title>DWX - degraded performance</title>
 <link>https://status.cloudera.com/incidents/jdy0zb27q49w</link>
