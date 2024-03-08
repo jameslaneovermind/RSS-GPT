@@ -4,20 +4,19 @@
 <title>Cloudsmith Status - Incident History</title>
 <link>https://status.cloudsmith.io</link>
 
+
 <item>
 <title>Elevated error rates and timeouts for packages</title>
 <link>https://status.cloudsmith.io/incidents/5c1h4km6sprm</link>
 <guid>https://status.cloudsmith.io/incidents/5c1h4km6sprm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Performance Degradation Issue Identified <br><br> The root cause of the performance degradation has been identified as a customer configuration issue, which has now been isolated and corrected. This unique configuration will be prevented from being set in the future. System performance has returned to normal levels, and monitoring is ongoing.
+<div> [High] - Performance Degradation Issue Identified <br /><br /> The root cause of the performance degradation has been identified as a customer configuration issue, which has now been isolated and corrected. This unique configuration will be prevented from being set in the future. System performance has returned to normal levels, and monitoring is ongoing.
 
  <div>
 <p><small>Mar <var> 8</var>, <var>14:45</var> UTC</small><br /><strong>Resolved</strong> - The root cause of the performance degradation has been identified. It related to a customer configuration, and has now been isolated and corrective action taken. This unique configuration will be prevented from being set in future.</p><p><small>Mar <var> 8</var>, <var>14:31</var> UTC</small><br /><strong>Monitoring</strong> - System performance has returned to normal performance levels. Our technical teams are continuing to monitor, and investigate the cause of the performance degradation.</p><p><small>Mar <var> 8</var>, <var>14:12</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated errors rates and timeouts when fetching packages.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 14:45:59 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 14:45:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Slowness in UI (Performance Issue)</title>
 <link>https://status.cloudsmith.io/incidents/vtrszb1ny0w7</link>

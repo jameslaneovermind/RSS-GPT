@@ -4,15 +4,15 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>SSL certificate renewal of api-za.infobip.com</title>
 <link>https://status.infobip.com/incidents/tdz3ndxzl2wn</link>
 <guid>https://status.infobip.com/incidents/tdz3ndxzl2wn</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SSL Certificate Renewal for api-za.infobip.com <br><br> Summary: Infobip will be performing an automatic renewal of their SSL certificate for api-za.infobip.com, which may require updates to key stores, code bases, and certificate pinnings. No action is required unless the leaf certificate is pinned. <div>
+<div> [Medium] - SSL Certificate Renewal for api-za.infobip.com <br /><br /> Summary: Infobip will be performing an automatic renewal of their SSL certificate for api-za.infobip.com, which may require updates to key stores, code bases, and certificate pinnings. No action is required unless the leaf certificate is pinned. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>13:00</var> - <var>14:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>14:41</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate api-za.infobip.com, timeframe:<br />    - Start (UTC): 11 March 13:00<br />    - End (UTC): 11 March 14:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.infobip.com/incidents/20d06fs3dwnt</link>
 <guid>https://status.infobip.com/incidents/20d06fs3dwnt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SSL Certificate Renewal for api-bd.infobip.com <br><br> Summary: Automatic renewal of SSL certificate for api-bd.infobip.com will be performed on March 11 from 13:00 to 14:00 UTC. No action is required unless certificate pinning has been implemented. For more information and instructions on how to prepare and test, visit the provided link. Contact support for further assistance. <div>
+<div> [Medium] - SSL Certificate Renewal for api-bd.infobip.com <br /><br /> Summary: Automatic renewal of SSL certificate for api-bd.infobip.com will be performed on March 11 from 13:00 to 14:00 UTC. No action is required unless certificate pinning has been implemented. For more information and instructions on how to prepare and test, visit the provided link. Contact support for further assistance. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>13:00</var> - <var>14:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>14:47</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate api-bd.infobip.com, timeframe:<br />    - Start (UTC): 11 March 13:00<br />    - End (UTC): 11 March 14:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
 </item>
 <item>
@@ -36,9 +35,7 @@ Summary: Infobip will be performing automatic renewal of their SSL certificate f
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>13:00</var> - <var>14:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>14:44</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing automatic renewal of our SSL certificate api-vn.infobip.com, timeframe:<br />    - Start (UTC): 11 March 13:00<br />    - End (UTC): 11 March 14:00<br /><br /><br />No action is required, unless you do any of the following:<br />    - Pin our leaf certificate<br /><br />If you do any of the above, we encourage you to update key stores, code bases, and certificate pinnings that may be in use.<br /><br />For more information, how to prepare and test please visit: https://www.infobip.com/docs/essentials/rest-api-traffic-encryption.<br /><br />Should you need any additional assistance in regard to this activity,<br />please contact our support at support@infobip.com.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Issue with Oracle Digital Assistant integration</title>
 <link>https://status.infobip.com/incidents/dd5m3w2v3tv4</link>
