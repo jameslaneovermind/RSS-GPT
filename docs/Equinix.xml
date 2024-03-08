@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Switchover (Equinix Fabric, Network Edge, Metro Connect)</title>
+<link>https://status.equinix.com/incidents/d980n3b11f6j</link>
+<guid>https://status.equinix.com/incidents/d980n3b11f6j</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Equinix SMC OPS Switchover Reported
+Summary:
+Equinix SMC has reported an OPS switchover in the Metro Connect platform, causing a brief service interruption. Engineers are investigating the issue and will report it to the dark fibre provider. <div>
+<p><small>Mar <var> 8</var>, <var>12:31</var> UTC</small><br /><strong>Update</strong> - Equinix SMC has reported an OPS switchover in Metro Connect platform.<br />The brief service interruption experienced is due to failover design. Equinix engineers are investigating the issue, and going to report it to the dark fibre provider..<br /><div style="display: none;">zk1jkbydt5fh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031355</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (SV); Equinix Fabric - Americas (SV); Network Edge - Americas (SV)]</div></p><p><small>Mar <var> 8</var>, <var>12:18</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zk1jkbydt5fh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031355</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SV); Network Edge - Americas (SV); Metro Connect - Americas (SV)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 12:31:07 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 12:31:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>

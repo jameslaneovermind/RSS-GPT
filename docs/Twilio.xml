@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US SMS Carrier Maintenance - AT&amp;T</title>
+<link>https://status.twilio.com/incidents/ylvf48xk63wv</link>
+<guid>https://status.twilio.com/incidents/ylvf48xk63wv</guid>
+<content:encoded><![CDATA[
+<div> [High] - AT&T Network Planned Maintenance <br><br> During the planned maintenance on March 14, 2024, AT&T US may experience intermittent delays in delivering SMS to and from handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>20:00</var> PDT &nbsp;-&nbsp; Mar <var>15</var>, <var>04:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>04:17</var> PST</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 14 March 2024 20:00 PDT until 15 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T US handsets.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 20:00:00 -0700</pubDate>
+<pubDate>Thu, 14 Mar 2024 20:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>France SMS Carrier Partner Maintenance</title>

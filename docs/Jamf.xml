@@ -4,6 +4,17 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+<item>
+<title>Jamf Now: Scheduled maintenance</title>
+<link>https://status.jamf.com/incidents/4jndw1ls0y70</link>
+<guid>https://status.jamf.com/incidents/4jndw1ls0y70</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Outage <br><br> We will be undergoing scheduled maintenance during this time. Summary: There is a major system outage and scheduled maintenance is necessary. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>08:00</var> - <var>09:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>12:45</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 08:00:00 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 08:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>JAMF Pro - Standard: 11.3.0 Upgrade for us-west-2</title>

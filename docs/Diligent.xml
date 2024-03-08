@@ -4,18 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Boardeffect - Minutes not accesible from Boardeffect for some users</title>
 <link>https://status.diligent.com/incidents/jcsn10hlq1mv</link>
 <guid>https://status.diligent.com/incidents/jcsn10hlq1mv</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Boardeffect Application <br><br> Some users may encounter an error when accessing minutes from the Boardeffect application. <div>
+<div> [High] - Major Outage in Boardeffect Application <br /><br /> Some users may encounter an error when accessing minutes from the Boardeffect application. <div>
 <p><small>Mar <var> 8</var>, <var>12:13</var> UTC</small><br /><strong>Investigating</strong> - Some users may encounter an error when accessing minutes from the Boardeffect application.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 12:13:04 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 12:13:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Risk Intelligence Data - Some users may not be able to generate reports</title>
 <link>https://status.diligent.com/incidents/c3trmvfs2597</link>

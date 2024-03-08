@@ -4,12 +4,13 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Push Notification Campaign Reporting</title>
 <link>https://status.unity.com/incidents/189574</link>
 <guid>https://status.unity.com/incidents/189574</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Reporting Issue for Push Notification Campaigns <br><br> Summary: 
+<div> [Low] - Reporting Issue for Push Notification Campaigns <br /><br /> Summary: 
 The reporting of push notification campaigns has been impacted since March 4th, resulting in a lack of reporting on the send counts and status of individual push notifications. The actual sending of push notifications has not been affected, and efforts are underway to restore reporting. <div>
 <p><strong>Minor incident</strong> - Analytics, Gaming Services, Data Collection, Dashboards and Reporting</p><p><small>March  8, 2024 · 11:33 UTC</small><br /><strong>Investigating</strong></p><p>
 We are investigating an issue that has impacted the reporting of push notification campaigns since approximately 11:00 UTC on Monday 4th March. </p>
@@ -21,9 +22,7 @@ We are working to restore reporting going forward, but may not be able to restor
 Apologies for the inconvenience.</p>
 ]]></content:encoded>
 <pubDate>Fri, 8 Mar 2024 11:41:07 +0000</pubDate>
-<pubDate>Fri, 8 Mar 2024 11:41:07 +0000</pubDate>
 </item>
-
 <item>
 <title>Build Updates To Existing To Long Standing Cloud Machines Degraded</title>
 <link>https://status.unity.com/incidents/189429</link>
