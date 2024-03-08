@@ -5,6 +5,18 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/r060b8pl65tj</link>
+<guid>https://status.equinix.com/incidents/r060b8pl65tj</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Issue with Equinix Connect and Equinix Internet Access (AMER-MX) <br><br> The links for one of the Equinix Connect (EC) and Equinix Internet Access (EIA) upstreamer are currently down, resulting in increased latency for customers. However, service interruptions are not expected due to upstreamer redundancy. The provider has been contacted by Equinix engineers for resolution. <div>
+<p><small>Mar <var> 8</var>, <var>02:55</var> UTC</small><br /><strong>Update</strong> - The links for one of the Equinix Connect (EC) and Equinix Internet Access (EIA) upstreamer are currently down. Customers may experience increased latency, but service interruptions are not expected due to upstreamers redundancy. The provider has already been contacted by Equinix engineers..<br /><div style="display: none;">tkssj1524mm4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031300</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p><p><small>Mar <var> 8</var>, <var>02:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">tkssj1524mm4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031300</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 02:55:25 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 02:55:25 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/5cl41kd7frtt</link>
 <guid>https://status.equinix.com/incidents/5cl41kd7frtt</guid>
@@ -14,9 +26,7 @@ Summary: We are currently investigating an issue with Equinix Fabric and Network
 <p><small>Mar <var> 8</var>, <var>02:02</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">w8hjxq7xwyc6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031295</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (PA); Network Edge - EMEA (PA)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 02:02:59 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 02:02:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/nx9d9v25jbms</link>

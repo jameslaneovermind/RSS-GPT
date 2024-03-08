@@ -2789,3 +2789,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Link Failure (Equinix Fabric, Network Edge)](https://status.equinix.com/incidents/5cl41kd7frtt)
 append_entries: 1
 Finish: 2024-03-08 02:15:57.169955
+------------------------------------------------------
+Started: 2024-03-08 03:09:32.714382
+Existing_entries: 319
+Fetching from https://status.equinix.com/history.rss
+Token length: 577
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Internet Access / Equinix Connect)](https://status.equinix.com/incidents/r060b8pl65tj)
+append_entries: 1
+Finish: 2024-03-08 03:09:34.393836
