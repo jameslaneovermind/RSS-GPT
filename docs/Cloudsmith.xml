@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Cloudsmith Status - Incident History</title>
-<link>https://status.cloudsmith.io</link>
+<link>http://status.cloudsmith.io</link>
 
 
 <item>
