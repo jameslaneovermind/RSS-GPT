@@ -4,6 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Highbond Activity Center - Some new users may be unable to access Activity Center dashboards</title>
+<link>https://status.diligent.com/incidents/wlqckk7zskys</link>
+<guid>https://status.diligent.com/incidents/wlqckk7zskys</guid>
+<content:encoded><![CDATA[
+<div> [High] - System Error Causing Dashboard Access Issue <br><br> Investigating an error impacting new users' access to shared dashboards within the organization. <div>
+<p><small>Mar <var> 8</var>, <var>17:34</var> UTC</small><br /><strong>Investigating</strong> - When added to an organization, a new user may receive an error when attempting to access shared dashboards.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 17:34:49 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 17:34:49 +0000</pubDate>
+</item>
 
 <item>
 <title>Boardeffect - Minutes not accesible from Boardeffect for some users</title>
