@@ -4,6 +4,7 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>MuleSoft Composer Flows Experiencing Intermittent Errors</title>
 <link>https://status.mulesoft.com/incidents/3g38lbq3ljhn</link>
@@ -14,9 +15,7 @@ Summary: Composer users may intermittently see an error in the UI when performin
 <p><small>Mar <var> 7</var>, <var>14:57</var> PST</small><br /><strong>Investigating</strong> - Composer users may intermittently see an error in the UI when performing a subset of operations like listing of flows and pulling Flow details. Flows already running are not impacted.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 14:57:19 -0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 14:57:19 -0800</pubDate>
 </item>
-
 <item>
 <title>Issue Creating Private Spaces</title>
 <link>https://status.mulesoft.com/incidents/lv3yhjtm378g</link>

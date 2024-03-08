@@ -4,18 +4,17 @@
 <title>Calm.com Status - Incident History</title>
 <link>https://status.calm.com</link>
 
+
 <item>
 <title>Elevated Errors</title>
 <link>https://status.calm.com/incidents/bjtk5961t9d1</link>
 <guid>https://status.calm.com/incidents/bjtk5961t9d1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> We're experiencing an elevated level of errors and are currently looking into the issue. <div>
+<div> [High] - Major Platform Outage <br /><br /> We're experiencing an elevated level of errors and are currently looking into the issue. <div>
 <p><small>Mar <var> 7</var>, <var>23:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var> 7</var>, <var>23:02</var> UTC</small><br /><strong>Investigating</strong> - We're experiencing an elevated level of errors and are currently looking into the issue.</p>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 23:03:10 +0000</pubDate>
-<pubDate>Thu, 07 Mar 2024 23:03:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Elevated Errors</title>
 <link>https://status.calm.com/incidents/mfnrpztmwhbp</link>

@@ -4,6 +4,172 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/0r8mpsylncwd</link>
+<guid>https://status.paloaltonetworks.com/incidents/0r8mpsylncwd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Prisma Cloud Release Maintenance <br><br> During the planned Prisma Cloud release for app2, customers may experience intermittent failures from 02:30 to 10:30 UTC on Mar 20. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>02:30</var> - <var>10:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app2 scheduled at<br /><br />Mar 20 from 02:30 to 10:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 02:30:07 +0000</pubDate>
+<pubDate>Wed, 20 Mar 2024 02:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/hjn2d4rchq4b</link>
+<guid>https://status.paloaltonetworks.com/incidents/hjn2d4rchq4b</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Prisma Cloud Release for app3 <br><br> Scheduled maintenance for a planned Prisma Cloud release for app3 is scheduled on Mar 19 from 02:30 to 10:30 UTC. Intermittent failures may be experienced by customers during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>02:30</var> - <var>10:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app3 scheduled at<br /><br />Mar 19 from 02:30 to 10:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 02:30:07 +0000</pubDate>
+<pubDate>Tue, 19 Mar 2024 02:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/cs6tf4dy6vyc</link>
+<guid>https://status.paloaltonetworks.com/incidents/cs6tf4dy6vyc</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Prisma Cloud Release
+Summary: A planned Prisma Cloud release is scheduled for Mar 15 from 02:30 to 10:30 UTC. Customers may experience intermittent failures during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>02:30</var> - <var>10:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app scheduled at<br /><br />Mar 15 from 02:30 to 10:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 02:30:07 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 02:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/wrcdxfsm28j7</link>
+<guid>https://status.paloaltonetworks.com/incidents/wrcdxfsm28j7</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>19:30</var> UTC &nbsp;-&nbsp; Mar <var>15</var>, <var>03:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app2.eu scheduled at<br /><br />Mar 14 from 19:30 to 03:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 19:30:07 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 19:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/ggkhs0lpsd01</link>
+<guid>https://status.paloaltonetworks.com/incidents/ggkhs0lpsd01</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>11:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.anz scheduled at<br /><br />Mar 14 from 11:00 to 17:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 11:00:07 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 11:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/q4hr8jt0xg7z</link>
+<guid>https://status.paloaltonetworks.com/incidents/q4hr8jt0xg7z</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>01:00</var> - <var>09:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.gov scheduled at<br /><br />Mar 14 from 01:00 to 09:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 01:00:07 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 01:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/jkz42hkpcsfc</link>
+<guid>https://status.paloaltonetworks.com/incidents/jkz42hkpcsfc</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>21:00</var> UTC &nbsp;-&nbsp; Mar <var>14</var>, <var>05:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.eu scheduled at<br /><br />Mar 13 from 21:00 to 05:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 21:00:07 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 21:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/rlf3jk8xj6k5</link>
+<guid>https://status.paloaltonetworks.com/incidents/rlf3jk8xj6k5</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>15:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.cn scheduled at<br /><br />Mar 13 from 15:00 to 21:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 15:00:07 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 15:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/9thmvp60yttm</link>
+<guid>https://status.paloaltonetworks.com/incidents/9thmvp60yttm</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>02:30</var> - <var>10:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app4 scheduled at<br /><br />Mar 13 from 02:30 to 10:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 02:30:07 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 02:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/4t4f6vvqs5lw</link>
+<guid>https://status.paloaltonetworks.com/incidents/4t4f6vvqs5lw</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>22:00</var> UTC &nbsp;-&nbsp; Mar <var>13</var>, <var>04:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.uk scheduled at<br /><br />Mar 12 from 22:00 to 04:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 22:00:07 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 22:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/cds0ph4byf11</link>
+<guid>https://status.paloaltonetworks.com/incidents/cds0ph4byf11</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>15:30</var> - <var>21:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.ind scheduled at<br /><br />Mar 12 from 15:30 to 21:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 15:30:07 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 15:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/j53c4jktbcsn</link>
+<guid>https://status.paloaltonetworks.com/incidents/j53c4jktbcsn</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>03:30</var> - <var>09:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.ca scheduled at<br /><br />Mar 12 from 03:30 to 09:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 03:30:07 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 03:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/vnxxz01fg1d2</link>
+<guid>https://status.paloaltonetworks.com/incidents/vnxxz01fg1d2</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>21:00</var> UTC &nbsp;-&nbsp; Mar <var>12</var>, <var>02:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.fr scheduled at<br /><br />Mar 11 from 21:00 to 02:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 21:00:07 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 21:00:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/70d2wm4mk9ht</link>
+<guid>https://status.paloaltonetworks.com/incidents/70d2wm4mk9ht</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>15:30</var> - <var>20:30</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.jp scheduled at<br /><br />Mar 11 from 15:30 to 20:30 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 15:30:07 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 15:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud 24.3.1 Scheduled Release</title>
+<link>https://status.paloaltonetworks.com/incidents/wx6cthx7wtxc</link>
+<guid>https://status.paloaltonetworks.com/incidents/wx6cthx7wtxc</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>11:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>00:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned Prisma Cloud release for app.sg scheduled at<br /><br />Mar 11 from 11:00 to 17:00 UTC.<br /><br />During this scheduled maintenance, customers may experience intermittent failures.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 11:00:07 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 11:00:07 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud Compute Emergency Maintenance</title>
