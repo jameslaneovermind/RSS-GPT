@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/d1h92zpvvz5w</link>
 <guid>https://status.equinix.com/incidents/d1h92zpvvz5w</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Equinix Fabric Issue <br><br> We are currently investigating an issue with Equinix Fabric in the Americas. The incident has been identified, and a fix is being implemented. Incident Number: INC0031310 <div>
+<div> [Medium] - Investigating Equinix Fabric Issue <br /><br /> We are currently investigating an issue with Equinix Fabric in the Americas. The incident has been identified, and a fix is being implemented. Incident Number: INC0031310 <div>
 <p><small>Mar <var> 8</var>, <var>05:42</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">zlg40s25kbmy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031310</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p><p><small>Mar <var> 8</var>, <var>05:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zlg40s25kbmy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031310</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 05:42:12 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 05:42:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/m6w4dr9qf6pm</link>
