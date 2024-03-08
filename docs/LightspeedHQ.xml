@@ -4,6 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+<item>
+<title>Sales receipt preview being rendered incorrectly.</title>
+<link>https://status.lightspeedhq.com/incidents/5zq6q5ksfvxm</link>
+<guid>https://status.lightspeedhq.com/incidents/5zq6q5ksfvxm</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Sales Receipt Preview Rendering Issue <br><br> Summary: The company is currently investigating an issue with the sales receipt preview being rendered incorrectly on Firefox and Safari browsers. No issues have been reported on Google Chrome. <div>
+<p><small>Mar <var> 7</var>, <var>20:56</var> EST</small><br /><strong>Investigating</strong> - We are currently investigating an issue where some parts of sales receipt preview being rendered incorrectly. Reported issues are on Firefox and Safari browsers so far. No issues reported on Google Chrome.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 20:56:05 -0500</pubDate>
+<pubDate>Thu, 07 Mar 2024 20:56:05 -0500</pubDate>
+</item>
 
 <item>
 <title>Delays - Inventory Results Outdated / Lagging</title>
