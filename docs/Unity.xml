@@ -4,21 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Transformations not working in Asset Manager</title>
 <link>https://status.unity.com/incidents/189628</link>
 <guid>https://status.unity.com/incidents/189628</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Asset Manager<br><br>Transforming assets in production experienced a critical issue, resulting in a major outage. The service was rolled back to a last-known-good version to resolve the issue. <div>
+<div> [High] - Major Incident: Asset Manager<br /><br />Transforming assets in production experienced a critical issue, resulting in a major outage. The service was rolled back to a last-known-good version to resolve the issue. <div>
 <p><strong>Major incident</strong> - Asset Manager</p><p><small>March  8, 2024 · 17:49 UTC</small><br /><strong>Resolved</strong></p><p>
 We rolled back the failing service to a last-known-good version and now we are seeing transformations work again in production.</p>
 <hr /><p><small>March  8, 2024 · 17:46 UTC</small><br /><strong>Investigating</strong></p><p>
 We are seeing an issue with transforming assets in production. investigating</p>
 ]]></content:encoded>
 <pubDate>Fri, 8 Mar 2024 17:51:01 +0000</pubDate>
-<pubDate>Fri, 8 Mar 2024 17:51:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Push Notification Campaign Reporting</title>
 <link>https://status.unity.com/incidents/189574</link>

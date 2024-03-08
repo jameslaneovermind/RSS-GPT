@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Upcoming maintenance on February upgraded PODs for Operational Insights</title>
+<link>https://status.informatica.com/incidents/tk2kqj22972j</link>
+<guid>https://status.informatica.com/incidents/tk2kqj22972j</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Informatica Cloud Operations Patch Update <br><br> Scheduled maintenance is currently in progress to apply a patch affecting Operational Insights to resolve a connection issue. There will be a restart of the application, with potential downtime of up to 10 minutes. Summary: Patch update in progress to resolve a connection issue affecting Operational Insights. <div>
+<p><small>Mar <var> 8</var>, <var>10:30</var> PST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 8</var>, <var>10:20</var> PST</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch affecting Operational Insights to resolve an issue connecting to a domain.<br /><br />Error while testing connection to the domain from the Ops Insight.<br /><br />NoClassDefFoundError: Could not initialize class com.informatica.opsinsights.datacollector.utils.multiversion.MultipleDomainVersionWrapper<br /><br /><b>Downtime: </b> There will be a restart of the Operational Insights application which can take up to 10 minutes.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 10:30:56 -0800</pubDate>
+<pubDate>Fri, 08 Mar 2024 10:30:56 -0800</pubDate>
+</item>
 
 <item>
 <title>Upcoming maintenance on February upgraded PODs for MDM SaaS Merge and Unmerge Issues</title>
