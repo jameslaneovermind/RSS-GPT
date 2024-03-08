@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Link Failure (Network Edge, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/nx9d9v25jbms</link>
+<guid>https://status.equinix.com/incidents/nx9d9v25jbms</guid>
+<content:encoded><![CDATA[
+<div> [High] - Dark Fiber Link Outage at Equinix Fabric Metro <br><br> Dark fiber link between se1.pa4 went down resulting in service interruption for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits. Equinix engineers are investigating the issue.
+ <div>
+<p><small>Mar <var> 8</var>, <var>01:29</var> UTC</small><br /><strong>Update</strong> - ******DF LINK DOWN/FLAP********<br />Dark fiber link between se1.pa4 went down. <br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">c5ct6jnm6n8p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031290</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (PA); Network Edge - EMEA (PA)]</div></p><p><small>Mar <var> 8</var>, <var>01:10</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">c5ct6jnm6n8p</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031290</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (PA); Equinix Fabric - EMEA (PA)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 01:29:53 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 01:29:53 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/ylbg0dk3r4r0</link>
 <guid>https://status.equinix.com/incidents/ylbg0dk3r4r0</guid>
@@ -17,9 +30,7 @@ Summary: We are currently investigating a critical incident in Metro Connect - A
 <p><small>Mar <var> 8</var>, <var>00:03</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n6j256mv5w6h</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031283</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Mar <var> 7</var>, <var>23:47</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n6j256mv5w6h</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031283</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 00:03:45 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 00:03:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/951q1h5v8961</link>

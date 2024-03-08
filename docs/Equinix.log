@@ -2771,3 +2771,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Provider Issue (Metro Connect)](https://status.equinix.com/incidents/ylbg0dk3r4r0)
 append_entries: 1
 Finish: 2024-03-08 00:38:43.440464
+------------------------------------------------------
+Started: 2024-03-08 01:40:33.888502
+Existing_entries: 317
+Fetching from https://status.equinix.com/history.rss
+Token length: 576
+Summarized using GPT-3.5-turbo-1106
+Append: [Link Failure (Network Edge, Equinix Fabric)](https://status.equinix.com/incidents/nx9d9v25jbms)
+append_entries: 1
+Finish: 2024-03-08 01:40:35.299937
