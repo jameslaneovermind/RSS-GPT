@@ -4,15 +4,15 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto SaaS Protection - Application Maintenance For Australia Region</title>
 <link>https://status.datto.com/incidents/crw60qvndn9f</link>
 <guid>https://status.datto.com/incidents/crw60qvndn9f</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Routine Maintenance for Datto SaaS Protection in Australia Region <br><br> We will be performing routine maintenance to Datto SaaS Protection in the Australia region on March 19th, 2024. This may cause an impact to systems and related services for an estimated 8 hours. <div>
+<div> [Medium] - Routine Maintenance for Datto SaaS Protection in Australia Region <br /><br /> We will be performing routine maintenance to Datto SaaS Protection in the Australia region on March 19th, 2024. This may cause an impact to systems and related services for an estimated 8 hours. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>14:00</var> - <var>22:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>13:49</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection in the Australia region on March 19th 2024, starting at 2:00PM UTC for an estimated 8 hours.<br /><br /><br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 14:00:00 +0000</pubDate>
 <pubDate>Tue, 19 Mar 2024 14:00:00 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +25,7 @@ Summary: Routine maintenance for Datto SaaS Protection in the Germany region is 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>19:00</var> UTC &nbsp;-&nbsp; Mar <var>15</var>, <var>03:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>13:47</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection in the Germany region on March 14th 2024, starting at 7:00PM UTC for an estimated 8 hours.<br /><br /><br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection.<br /><br /><br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 19:00:00 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 19:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto SaaS Protection - Unable To Access Clients On UK Node Gbe2-bfyii-2928</title>
 <link>https://status.datto.com/incidents/63sgg5s7zypv</link>
