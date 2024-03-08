@@ -4,12 +4,13 @@
 <title>BENlabs Status - Incident history</title>
 <link>https://status.benlabs.com</link>
 
+
 <item>
 <title>Web and Data API partial outage</title>
 <link>https://status.benlabs.com/incident/cltissen819263hqoh17qtjmyc</link>
 <guid>https://status.benlabs.com/incident/cltissen819263hqoh17qtjmyc</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage: Degraded Performance due to 3rd Party Service Outage <br><br> The BENlabs application platform API experienced degraded performance due to an outage of a 3rd party service. The issue is being investigated with the service provider. <div>
+<div> [High] - Major Outage: Degraded Performance due to 3rd Party Service Outage <br /><br /> The BENlabs application platform API experienced degraded performance due to an outage of a 3rd party service. The issue is being investigated with the service provider. <div>
 <p><small>Mar <var> 8</var>, <var>15:14:39</var> GMT+0</small><br /><strong>Investigating</strong> -
   One of the 3rd party services used by BENlabs application platform API is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
 
@@ -18,9 +19,7 @@ This incident was created by an automated monitoring service..</p>
   Web API, Data API is now operational! This update was created by an automated monitoring service..</p>
 ]]></content:encoded>
 <pubDate>Fri, 8 Mar 2024 15:14:39 +0000</pubDate>
-<pubDate>Fri, 8 Mar 2024 15:14:39 +0000</pubDate>
 </item>
-
 <item>
 <title>Web and Data API partial outage</title>
 <link>https://status.benlabs.com/incident/clthvb8im103966hwncq4zzzk0j</link>

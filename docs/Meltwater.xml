@@ -4,6 +4,7 @@
 <title>Meltwater Media Intelligence Platform Status - Incident History</title>
 <link>https://status.meltwater.com</link>
 
+
 <item>
 <title>Meltwater Engage - Errors Publishing Instagram Carousel Posts</title>
 <link>https://status.meltwater.com/incidents/3lmhyrdw3ktz</link>
@@ -14,9 +15,7 @@ Summary: Users may experience errors publishing Instagram carousel posts. Meta i
 <p><small>Mar <var> 8</var>, <var>15:46</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue with Engage Publish. Users may experience errors publishing Instagram carousel posts. Meta is aware and is working to resolve the issue.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 15:46:59 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 15:46:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Meltwater Engage - Degraded Performance</title>
 <link>https://status.meltwater.com/incidents/h97vpgdzq1qb</link>

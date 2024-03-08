@@ -4,6 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>US SMS Carrier Maintenance - C-Spire</title>
+<link>https://status.twilio.com/incidents/cky6k7l8fdx7</link>
+<guid>https://status.twilio.com/incidents/cky6k7l8fdx7</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for C-Spire Network <br><br> During the maintenance window from March 13th at 22:00 PDT to March 14th at 02:00 PDT, there may be intermittent delays in SMS delivery to and from C-Spire handsets. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>22:00</var> PDT &nbsp;-&nbsp; Mar <var>14</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>08:13</var> PST</small><br /><strong>Scheduled</strong> - The C-Spire network in the US is conducting a planned maintenance from 13 March 2024 at 22:00 PDT until 14 March 2024 at 02:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from C-Spire handsets.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 22:00:00 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 22:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>US SMS Carrier Maintenance - AT&amp;T</title>

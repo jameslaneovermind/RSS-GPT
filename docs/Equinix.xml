@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/trxt7lr4rc9f</link>
@@ -14,9 +15,7 @@ Summary: A critical incident has been identified in the Equinix Fabric EMEA (BA,
 <p><small>Mar <var> 8</var>, <var>15:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">rdm6q4q0t4bv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031376</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (BA, MD)]</div></p><p><small>Mar <var> 8</var>, <var>15:23</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">rdm6q4q0t4bv</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031376</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (BA, MD)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 15:36:20 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 15:36:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Switchover (Equinix Fabric, Network Edge, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/d980n3b11f6j</link>
