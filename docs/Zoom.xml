@@ -4,6 +4,18 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>A subset of customers in Singapore may have experienced issues with outbound calls</title>
+<link>https://status.zoom.us/incidents/8ywxgddnxpb5</link>
+<guid>https://status.zoom.us/incidents/8ywxgddnxpb5</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Outbound Call Issues in Singapore 
+Summary: Our monitoring has detected issues for a subset of users in Singapore with outbound calls. We are currently investigating and will provide updates as we have them. <div>
+<p><small>Mar <var> 7</var>, <var>21:31</var> PST</small><br /><strong>Investigating</strong> - Our monitoring has detected issues for a subset of users in Singapore with outbound calls, we are currently investigating and will provide updates as we have them.</p>
+]]></content:encoded>
+<pubDate>Thu, 07 Mar 2024 21:31:17 -0800</pubDate>
+<pubDate>Thu, 07 Mar 2024 21:31:17 -0800</pubDate>
+</item>
 
 <item>
 <title>California Zoom Phone Maintenance</title>
