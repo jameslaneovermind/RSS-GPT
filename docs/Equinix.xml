@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/xcvnz9phqh2b</link>
 <guid>https://status.equinix.com/incidents/xcvnz9phqh2b</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Americas <br><br> We are currently investigating a critical issue with Equinix Fabric in the Americas region. The issue has been identified and a fix is being implemented. Incident Number: INC0031338. <div>
+<div> [High] - Equinix Fabric Outage in Americas <br /><br /> We are currently investigating a critical issue with Equinix Fabric in the Americas region. The issue has been identified and a fix is being implemented. Incident Number: INC0031338. <div>
 <p><small>Mar <var> 8</var>, <var>10:49</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">2rx6tftn15lh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031338</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p><p><small>Mar <var> 8</var>, <var>10:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2rx6tftn15lh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031338</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 10:49:19 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 10:49:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/67k3vkt74xlz</link>
