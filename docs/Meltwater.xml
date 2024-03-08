@@ -4,20 +4,19 @@
 <title>Meltwater Media Intelligence Platform Status - Incident History</title>
 <link>https://status.meltwater.com</link>
 
+
 <item>
 <title>Meltwater Engage - Degraded Performance</title>
 <link>https://status.meltwater.com/incidents/h97vpgdzq1qb</link>
 <guid>https://status.meltwater.com/incidents/h97vpgdzq1qb</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Issue with loading Engage and Social Connections <br><br> Engineering is investigating a critical issue that is impacting non-English language users. This indicates a major outage that is affecting a large number of users.
+<div> [High] - Major Issue with loading Engage and Social Connections <br /><br /> Engineering is investigating a critical issue that is impacting non-English language users. This indicates a major outage that is affecting a large number of users.
 
-[High] - Major Outage Causing Language Loading Issue <br><br> Non-English language users are experiencing a critical issue with loading Engage and Social Connections. This suggests a major outage that is affecting a significant number of users. <div>
+[High] - Major Outage Causing Language Loading Issue <br /><br /> Non-English language users are experiencing a critical issue with loading Engage and Social Connections. This suggests a major outage that is affecting a significant number of users. <div>
 <p><small>Mar <var> 8</var>, <var>09:15</var> UTC</small><br /><strong>Update</strong> - Users may change their default language to English to resolve the issue.</p><p><small>Mar <var> 8</var>, <var>09:11</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing an issue with loading Engage and Social Connections.<br />This impacts non-English language users. Engineering is aware of this and is currently investigating. We will continue to provide updates accordingly. <br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 09:15:57 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 09:15:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Monitored Social Connection Issue - Instagram</title>
 <link>https://status.meltwater.com/incidents/5ccjjlp1n880</link>

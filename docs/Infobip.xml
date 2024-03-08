@@ -4,6 +4,29 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>Global (Germany) - Issue with Oracle Digital Assistant integration</title>
+<link>https://status.infobip.com/incidents/dd5m3w2v3tv4</link>
+<guid>https://status.infobip.com/incidents/dd5m3w2v3tv4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Digital Assistant Integration Issue <br><br>  Part of the traffic sent from the integration was not delivered from March 2nd to March 5th, 2024, impacting service delivery. <div>
+<p><small>Mar <var> 8</var>, <var>10:51</var> UTC</small><br /><strong>Resolved</strong> - We have experienced an issue with Digital  Digital Assistant integration.<br />The issue has been resolved.<br />Start (UTC): 02 March 2024 09:56<br />End (UTC):  05 March 2024 18:40<br />Service impact: Part of the traffic sent from the integration was not delivered.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 10:51:29 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 10:51:29 +0000</pubDate>
+</item>
+<item>
+<title>Multiple locations - Issue with Live Chat mobile</title>
+<link>https://status.infobip.com/incidents/r4flk0fvtx0b</link>
+<guid>https://status.infobip.com/incidents/r4flk0fvtx0b</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Live Chat Mobile Service Outage 
+Summary: The Live Chat mobile service experienced a major outage, rendering it non-functional for a significant duration. The issue was caused by a system configuration change. Service impact was severe, with mobile users unable to utilize the Live Chat feature. <div>
+<p><small>Mar <var> 8</var>, <var>10:35</var> UTC</small><br /><strong>Resolved</strong> - We experienced an issue with our Live Chat mobile service.<br />The issue has been resolved.<br />Start (UTC): 07 March 16:30<br />End (UTC):  07 March 20:30<br />Service impact: Live Chat mobile service was not working.</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 10:35:30 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 10:35:30 +0000</pubDate>
+</item>
 
 <item>
 <title>Global (Germany) - Issue with Moments service on Customer Portal</title>

@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage Provisioning Portal (SEOS) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/q6cjphmm2gps</link>
+<guid>https://status.sage.com/incidents/q6cjphmm2gps</guid>
+<content:encoded><![CDATA[
+<div> [Tag(High)] - Major System Maintenance <br><br> Summary: Sage Provisioning Portal (SEOS) will be undergoing system maintenance for 2 hours, potentially impacting access to various services. We apologize for any inconvenience this may cause. Thank you for your understanding. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>8</var>, <var>20:00</var> - <var>22:00</var> UTC</strong></p><p><small>Mar <var> 8</var>, <var>10:25</var> UTC</small><br /><strong>Scheduled</strong> - Sage Provisioning Portal (SEOS) will be undergoing system maintenance on Friday March 8th, 2024, for 2 hours between 20:00 UTC (15:00 EST), (22:00 SAST) and 22:00 UTC (17:00 EST), (00:00 SAST) <br /> <br />Access to Sage Provisioning Portal (SEOS) through the below services may be impacted for some minutes during this time. <br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team <br /> <br />----------------------------------------------------------------------- <br /> <br />Sage Provisioning Portal (SEOS) estará en mantenimiento el Viernes 8 de Marzo de 2024, durante 2 horas entre las 21:00 CET y las 23:00 CET. <br /> <br />El acceso a Sage Provisioning Portal (SEOS) a traves de los servicios mencionados mas abajo, puede verse afectado durante unos minutos en este periodo de tiempo. <br /> <br />Pedimos disculpas por cualquier inconveniente que podamos causar. <br /> <br />Gracias El equipo de Sage. <br /> <br />----------------------------------------------------------------------- <br /> <br />Sage Provisioning Portal (SEOS) sera en maintenance le Vendredi 8 Mars pendant 2 heures entre 21:00 CET et 23:00 CET. <br /> <br />L'accès au Sage Provisioning Portal (SEOS) via les services mentionnés ci-dessous peut être affecté pendant quelques minutes pendant cette période.<br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer. <br /> <br />Merci. L'équipe Sage. <br /> <br />------------------------------------------------------------------------ <br /> <br />Der Sage Provisioning Portal (SEOS) wird am Freitag, 28. Marsch 2024, für 2 Std. zwischen 21:00 MSZ und 23:00 MSZ, gewartet.<br /> <br />Der Zugriff auf das Sage Provisioning Portal (SEOS) über die unten aufgeführten Dienste kann während dieser Zeit für einige Minuten beeinträchtigt sein.<br /> <br />Wir entschuldigen uns für etwaige Unannehmlichkeiten, die dadurch entstehen.<br /> <br />Mit freundlichen Grüßen, Das Sage-Team.<br /><br />- Sage Online (FR) <br />- Sage 100 Partner Cloud (FR)<br />- Sage FRP 1000 Partner Cloud (FR)<br />- Sage 200 Standard (UKI) <br />- Sage 200 Professional SPC (UKI) <br />- Sage 200 (ES) <br />- Sage Despachos (ES) <br />- Sage 300 Partner Cloud (NA) <br />- Sage 100 Partner Cloud (NA) <br />- Sage ERP (DE)<br />- Sage 300 People Managed Services</p>
+]]></content:encoded>
+<pubDate>Fri, 08 Mar 2024 20:00:00 +0000</pubDate>
+<pubDate>Fri, 08 Mar 2024 20:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>HMRC Scheduled Maintenance of MTD VAT &amp; MTD ITSA</title>
