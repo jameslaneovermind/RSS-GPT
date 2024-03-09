@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Service Issue (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/klf7mzqlf371</link>
 <guid>https://status.equinix.com/incidents/klf7mzqlf371</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage and Fix Implementation <br><br> Incident Number: INC0031486 <br> Summary: Equinix is currently investigating a critical issue and implementing a fix for a major outage in Equinix Internet Access / Equinix Connect - AMER (DC). <div>
+<div> [High] - Major Outage and Fix Implementation <br /><br /> Incident Number: INC0031486 <br /> Summary: Equinix is currently investigating a critical issue and implementing a fix for a major outage in Equinix Internet Access / Equinix Connect - AMER (DC). <div>
 <p><small>Mar <var> 9</var>, <var>09:05</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">y91p1k1q36pp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031486</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC)]</div></p><p><small>Mar <var> 9</var>, <var>08:50</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">y91p1k1q36pp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031486</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (DC)]</div></p>
 ]]></content:encoded>
-<pubDate>Sat, 09 Mar 2024 09:05:49 +0000</pubDate>
 <pubDate>Sat, 09 Mar 2024 09:05:49 +0000</pubDate>
 </item>
 <item>
@@ -28,7 +28,6 @@ Summary: Equinix is currently investigating an incident with Equinix Fabric and 
 <p><small>Mar <var> 9</var>, <var>08:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">s43sg2spfcsl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031484</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, HO); Network Edge - Americas (DA)]</div></p><p><small>Mar <var> 9</var>, <var>08:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">s43sg2spfcsl</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031484</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, HO); Network Edge - Americas (DA)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 09 Mar 2024 08:51:25 +0000</pubDate>
-<pubDate>Sat, 09 Mar 2024 08:51:25 +0000</pubDate>
 </item>
 <item>
 <title>Network Component Issue (Equinix Internet Access / Equinix Connect)</title>
@@ -40,9 +39,7 @@ Summary: Single-homed Equinix Connect and Equinix Internet Access customers expe
 <p><small>Mar <var> 9</var>, <var>08:50</var> UTC</small><br /><strong>Update</strong> - One of Equinix Connect device has rebooted<br /><br /><br />Single-Homed Equinix Connect (EC) and Equinix Internet Access (EIA) customers experienced service interruption while no impact to Dual-Home EC and EIA customers due to redundancy. Equinix engineers are working to resolve the issue.<br /><br />.<br /><div style="display: none;">bmrtlqnmqhnt</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031485</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SP)]</div></p><p><small>Mar <var> 9</var>, <var>08:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bmrtlqnmqhnt</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031485</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SP)]</div></p>
 ]]></content:encoded>
 <pubDate>Sat, 09 Mar 2024 08:50:48 +0000</pubDate>
-<pubDate>Sat, 09 Mar 2024 08:50:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/55rjbp97ymtj</link>
