@@ -4,18 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Intermittent issues observed with CSP</title>
 <link>https://status.paloaltonetworks.com/incidents/3lw5jpcbr09l</link>
 <guid>https://status.paloaltonetworks.com/incidents/3lw5jpcbr09l</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigation of Issue Continues <br><br> We are continuing to investigate the issue. <div>
+<div> [Medium] - Investigation of Issue Continues <br /><br /> We are continuing to investigate the issue. <div>
 <p><small>Mar <var> 8</var>, <var>22:42</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 8</var>, <var>22:40</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var> 8</var>, <var>22:39</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigatign the issue</p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 22:42:07 +0000</pubDate>
-<pubDate>Fri, 08 Mar 2024 22:42:07 +0000</pubDate>
 </item>
-
 <item>
 <title>Potential impact with RQL Queries</title>
 <link>https://status.paloaltonetworks.com/incidents/2nnl7hdfv6yz</link>

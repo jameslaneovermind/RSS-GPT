@@ -4,15 +4,15 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Singapore Zoom Phone Maintenance</title>
 <link>https://status.zoom.us/incidents/9rrlms1q7n6t</link>
 <guid>https://status.zoom.us/incidents/9rrlms1q7n6t</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance at Asia Pacific (Singapore) Data Center <br><br> Zoom will be undergoing service maintenance at the Asia Pacific (Singapore) data center, potentially causing a brief disconnection and missed notifications. This may result in a major impact on user connectivity and communication during the maintenance window. Summary: Zoom's Asia Pacific (Singapore) data center will undergo major service maintenance, potentially causing service disruptions for users registered in that region. <div>
+<div> [High] - Major Service Maintenance at Asia Pacific (Singapore) Data Center <br /><br /> Zoom will be undergoing service maintenance at the Asia Pacific (Singapore) data center, potentially causing a brief disconnection and missed notifications. This may result in a major impact on user connectivity and communication during the maintenance window. Summary: Zoom's Asia Pacific (Singapore) data center will undergo major service maintenance, potentially causing service disruptions for users registered in that region. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>19</var>, <var>05:00</var> - <var>11:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>14:33</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our Asia Pacific (Singapore) data center starting on April 19th at 13:00 GMT (5:00 AM PST). <br /><br />Zoom Phone users registered to the Asia Pacific (Singapore) data center will be automatically registered in an alternative Asia Pacific (Tokyo) data center. During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically.<br /><br />If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s Asia Pacific (Tokyo) data center in addition to the Asia Pacific (Singapore) data center. During the maintenance window, connectivity to Zoom’s Asia Pacific (Singapore) data center will be blocked, which will force calls from the Session Border Controller (SBC) to failover to Zoom’s Asia Pacific (Tokyo) data center. Traffic will continue to be routed through the Asia Pacific (Singapore) data center once the maintenance is completed.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:00:00 -0700</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:00:00 -0700</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.zoom.us/incidents/2gw6v9jnvxt8</link>
 <guid>https://status.zoom.us/incidents/2gw6v9jnvxt8</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance at Asia Pacific (Melbourne) Data Center <br><br> Zoom will perform service maintenance at our Asia Pacific (Melbourne) data center starting on April 19th at 13:00 GMT (5:00 AM PST). During the maintenance window, a brief disconnection may be experienced and notifications may be missed. Zoom Phone users registered to the Asia Pacific (Melbourne) data center will be automatically registered in an alternative Asia Pacific (Sydney) data center. If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s “Asia Pacific (Sydney)” data center in addition to the Asia Pacific (Melbourne) data center.  Traffic will continue to be routed through the Asia Pacific (Melbourne) data center once the maintenance is completed. <div>
+<div> [High] - Major Service Maintenance at Asia Pacific (Melbourne) Data Center <br /><br /> Zoom will perform service maintenance at our Asia Pacific (Melbourne) data center starting on April 19th at 13:00 GMT (5:00 AM PST). During the maintenance window, a brief disconnection may be experienced and notifications may be missed. Zoom Phone users registered to the Asia Pacific (Melbourne) data center will be automatically registered in an alternative Asia Pacific (Sydney) data center. If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s “Asia Pacific (Sydney)” data center in addition to the Asia Pacific (Melbourne) data center.  Traffic will continue to be routed through the Asia Pacific (Melbourne) data center once the maintenance is completed. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>19</var>, <var>05:00</var> - <var>11:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>14:33</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our Asia Pacific (Melbourne) data center starting on April 19th at 13:00 GMT (5:00 AM PST). <br /><br />Zoom Phone users registered to the Asia Pacific (Melbourne) data center will be automatically registered in an alternative Asia Pacific (Sydney) data center. During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically.<br /><br />If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s “Asia Pacific (Sydney)” data center in addition to the Asia Pacific (Melbourne) data center. During the maintenance window, connectivity to Zoom’s Asia Pacific (Melbourne) data center will be blocked, which will force calls from the Session Border Controller (SBC) to failover to Zoom’s Asia Pacific (Sydney) data center. Traffic will continue to be routed through the Asia Pacific (Melbourne) data center once the maintenance is completed.</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:00:00 -0700</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:00:00 -0700</pubDate>
 </item>
 <item>
@@ -31,13 +30,11 @@
 <link>https://status.zoom.us/incidents/j1fvbqk851dp</link>
 <guid>https://status.zoom.us/incidents/j1fvbqk851dp</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Service Maintenance in Zoom Mexico and Central America Data Center<br><br>Summary: Zoom will perform service maintenance at the Mexico and Central America (Querétaro, MX) data center, which may cause brief disconnections and missed notifications. BYOC customers need to ensure their SBC is configured with alternate routing to the South America (São Paulo) data center. <div>
+<div> [Medium] - Scheduled Service Maintenance in Zoom Mexico and Central America Data Center<br /><br />Summary: Zoom will perform service maintenance at the Mexico and Central America (Querétaro, MX) data center, which may cause brief disconnections and missed notifications. BYOC customers need to ensure their SBC is configured with alternate routing to the South America (São Paulo) data center. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>12</var>, <var>19:00</var> PDT &nbsp;-&nbsp; Apr <var>13</var>, <var>01:00</var> PDT</strong></p><p><small>Mar <var> 8</var>, <var>14:32</var> PST</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance at our Mexico and Central America (Querétaro, MX) data center starting on March 29th at 03:00 GMT (07:00 PM PST). <br /><br />Zoom Phone users registered to the Mexico and Central America (Querétaro, MX) data center will be automatically registered in an alternative South America (São Paulo) data center. During the maintenance window, a brief disconnection may be experienced and notifications may be missed. If you get disconnected, the system will attempt to reconnect you automatically.<br /><br />If you are a BYOC (Bring Your Own Carrier) customer, please ensure that your Session Border Controller (SBC) is configured with alternate routing to Zoom’s South America (São Paulo) data center in addition to the Mexico and Central America (Querétaro, MX) data center. During the maintenance window, connectivity to Zoom’s Mexico and Central America (Querétaro, MX) data center will be blocked, which will force calls from the Session Border Controller (SBC) to failover to Zoom’s South America (São Paulo) data center. Traffic will continue to be routed through the Mexico and Central America (Querétaro, MX) data center once the maintenance is completed.</p>
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 19:00:00 -0700</pubDate>
-<pubDate>Fri, 12 Apr 2024 19:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>A subset of customers in Singapore may have experienced issues with outbound calls</title>
 <link>https://status.zoom.us/incidents/8ywxgddnxpb5</link>

@@ -4,6 +4,33 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/4jrhyv0mdmp5</link>
+<guid>https://status.equinix.com/incidents/4jrhyv0mdmp5</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Asia-Pacific (HK, SG) 
+<br><br> 
+The issue has been identified and a fix is being implemented. We are currently investigating this critical incident. 
+Summary: The Equinix Fabric in the Asia-Pacific region (HK, SG) is experiencing a major outage, and our team is working on fixing the issue. <div>
+<p><small>Mar <var> 9</var>, <var>00:11</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">qnxzxgv9gvcd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031415</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK, SG)]</div></p><p><small>Mar <var> 8</var>, <var>23:57</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">qnxzxgv9gvcd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031415</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK, SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 00:11:18 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 00:11:18 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/b6v98v7qj48k</link>
+<guid>https://status.equinix.com/incidents/b6v98v7qj48k</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage Identified
+Summary:
+A major issue has been identified and a fix is being implemented for Equinix Fabric in Americas and Asia-Pacific regions. Incident Number: INC0031416. <div>
+<p><small>Mar <var> 9</var>, <var>00:10</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">xrs4mzbck9mq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031416</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG)]</div></p><p><small>Mar <var> 8</var>, <var>23:57</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">xrs4mzbck9mq</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031416</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 00:10:59 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 00:10:59 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric)</title>
