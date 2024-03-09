@@ -4,6 +4,18 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+<item>
+<title>Delivery of old notifications</title>
+<link>https://status.dropbox.com/incidents/8ngbnjcn9jyg</link>
+<guid>https://status.dropbox.com/incidents/8ngbnjcn9jyg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Historic Notifications Issue
+Summary: An issue where historic notifications may appear in notifications tabs or via push notifications was identified, causing potential inconvenience and disruption to users. <div>
+<p><small>Mar <var> 9</var>, <var>01:47</var> UTC</small><br /><strong>Identified</strong> - We are aware of an issue where historic notifications may appear in notifications tabs or via push notifications.</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 01:47:09 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 01:47:09 +0000</pubDate>
+</item>
 
 <item>
 <title>Dropbox may not be working as expected</title>
