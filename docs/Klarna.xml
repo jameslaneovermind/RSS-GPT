@@ -6,6 +6,16 @@
 
 
 <item>
+<title>Merchant settlement reporting is experiencing delays for EU region</title>
+<link>https://status.klarna.com/incidents/qnxstm0jt18d</link>
+<guid>https://status.klarna.com/incidents/qnxstm0jt18d</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Delay in Merchant Settlement Reporting for EU Region <br /><br /> Investigation is ongoing for delays in merchant settlement reporting in the EU region. The issue is causing inconvenience and is being worked on for a prompt resolution. <div>
+<p><small>Mar <var> 9</var>, <var>15:35</var> CET</small><br /><strong>Investigating</strong> - Merchant settlement reporting is experiencing delays for EU region. We’re working towards fixing this as soon as possible.  We apologise for any inconvenience.</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 15:35:34 +0100</pubDate>
+</item>
+<item>
 <title>Klarna App degradation</title>
 <link>https://status.klarna.com/incidents/8nnzdd7gtrg9</link>
 <guid>https://status.klarna.com/incidents/8nnzdd7gtrg9</guid>
