@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/55rjbp97ymtj</link>
+<guid>https://status.equinix.com/incidents/55rjbp97ymtj</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Issue
+Summary: Equinix Fabric is currently investigating an issue with the Americas region (CU, NY). An incident number has been identified and is being looked into. <div>
+<p><small>Mar <var> 9</var>, <var>08:07</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">rvpyrssy8yx4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031480</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CU, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 08:07:53 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 08:07:53 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/jhdj2vf9g1kq</link>
+<guid>https://status.equinix.com/incidents/jhdj2vf9g1kq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Equinix Internet Access/Equinix Connect EMEA (IL)
+<br><br>
+The issue has been identified and a fix is being implemented. Incident Number: INC0031453. <div>
+<p><small>Mar <var> 9</var>, <var>07:40</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n3d1clzddy5l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031453</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p><p><small>Mar <var> 9</var>, <var>07:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n3d1clzddy5l</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031453</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (IL)]</div></p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 07:40:17 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 07:40:17 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
