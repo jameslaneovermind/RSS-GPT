@@ -4,6 +4,18 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Maintenance Advisory - HighBond Risk Manager's Toolkit component in All regions</title>
+<link>https://status.diligent.com/incidents/9r8f194359fd</link>
+<guid>https://status.diligent.com/incidents/9r8f194359fd</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Routine Maintenance for HighBond Risk Manager's Toolkit Component <br><br> 
+HighBond Risk Manager's Toolkit component will be undergoing routine maintenance in all regions, resulting in unavailability during the specified time window. Plan to perform any tasks requiring this component outside of the maintenance window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>15:00</var> - <var>18:00</var> UTC</strong></p><p><small>Mar <var> 9</var>, <var>10:58</var> UTC</small><br /><strong>Scheduled</strong> - <br /><b>Toolkit/Location:</b><br />HighBond Risk Manager's Toolkit component in All regions<br /><br /><b>Impact:</b><br />Please be advised that we will be performing routine maintenance on our systems. As a result, HighBond Risk Manager's Toolkit component become unavailable during this time window. We apologize for any inconvenience this may cause.<br /><br /><b>What do you need to do?:</b><br />Plan to perform items requiring HighBond Risk Manager Toolkit in the impacted regions outside of the scheduled maintenance window timeline.<br /><b>Contact:</b><br />For any questions or if you experience a disruption other than above, please contact Diligent Support: https://community.diligent.com/grc/s/contactsupport</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 15:00:00 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 15:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Highbond Activity Center - Some new users may be unable to access Activity Center dashboards</title>
