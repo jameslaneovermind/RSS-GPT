@@ -4,6 +4,20 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>Unplanned Maintenance</title>
+<link>https://status.unity.com/incidents/189731</link>
+<guid>https://status.unity.com/incidents/189731</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Parsec Scheduled Maintenance <br><br> Parsec is conducting brief, unplanned maintenance for the next 10 minutes to apply a recently reported security update. Existing connections are unaffected. <br><br> Summary: Unplanned maintenance is being conducted to apply a security update. New connections cannot be initiated during this time. <div>
+<p><strong>Scheduled maintenance</strong> - Parsec, Parsec API, Parsec Signaling Service</p><p><small>March  9, 2024 · 13:58 UTC</small><br /><strong>Essential</strong></p><p>
+Parsec is conducting brief, unplanned maintenance for the next 10 minutes. You will not be able to initiate new connections during this window. Existing connections are unaffected.</p>
+<p>
+During this maintenance window, we’re applying a recently reported security update as required by our supporting service providers. We will update this announcement upon completion. If you have any questions, please reach out to <a href="mailto:support@parsec.app" target="_blank">support@parsec.app</a>, we’re here to help!</p>
+]]></content:encoded>
+<pubDate>Sat, 9 Mar 2024 13:58:32 +0000</pubDate>
+<pubDate>Sat, 9 Mar 2024 13:58:32 +0000</pubDate>
+</item>
 
 <item>
 <title>Transformations not working in Asset Manager</title>
