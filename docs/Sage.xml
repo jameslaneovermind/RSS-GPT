@@ -4,6 +4,7 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Intacct  - Partial Outage</title>
 <link>https://status.sage.com/incidents/jfb705drmv5t</link>
@@ -14,9 +15,7 @@ Summary: The company is investigating a potential issue with the service, which 
 <p><small>Mar <var>10</var>, <var>11:53</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 11:53:30 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 11:53:30 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Intacct  - Partial Outage</title>
 <link>https://status.sage.com/incidents/mynfdt76wdhp</link>
