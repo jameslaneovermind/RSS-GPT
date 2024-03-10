@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/x5h49vrsq164</link>
+<guid>https://status.equinix.com/incidents/x5h49vrsq164</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in EMEA (HH, SO) <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0031536 <br>
+
+By analyzing the given status report, we can conclude that the issue is a major outage that is currently being addressed. <div>
+<p><small>Mar <var>10</var>, <var>05:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">8434d84gfjk1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031536</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p><p><small>Mar <var>10</var>, <var>04:53</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">8434d84gfjk1</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031536</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 05:08:17 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 05:08:17 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>

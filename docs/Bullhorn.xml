@@ -4,6 +4,18 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Emergency Maintenance - Bullhorn Back Office</title>
+<link>https://status.bullhorn.com/incidents/22y4b9lmtzd2</link>
+<guid>https://status.bullhorn.com/incidents/22y4b9lmtzd2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Unavailability of Bullhorn Back Office Application <br><br> The Bullhorn Back Office application will be intermittently unavailable due to scheduled maintenance, indicating potential platform downtime.
+ <div>
+<p><small>Mar <var> 9</var>, <var>23:39</var> EST</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var> 9</var>, <var>23:38</var> EST</small><br /><strong>Scheduled</strong> - <br /><b>Impact: The Bullhorn Back Office application will be intermittently unavailable for the duration of  this maintenance.</b><br />System: Bullhorn Back Office<br />Cluster(s): BBO Next<br />Description: The Bullhorn Technical Operations team will be performing some standard maintenance during the specified time frame.</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 23:39:56 -0500</pubDate>
+<pubDate>Sat, 09 Mar 2024 23:39:56 -0500</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
