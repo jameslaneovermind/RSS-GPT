@@ -3057,3 +3057,10 @@ Fetching from https://status.autogenai.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/AutoGenAI
+------------------------------------------------------
+Started: 2024-03-10 20:08:28.258724
+Existing_entries: 0
+Fetching from https://status.autogenai.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/AutoGenAI
