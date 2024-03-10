@@ -4,15 +4,15 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe, Germany, Switzerland, Poland, Qatar and United Kingdom Regions</title>
 <link>https://status.paloaltonetworks.com/incidents/zsv5gzp32nml</link>
 <guid>https://status.paloaltonetworks.com/incidents/zsv5gzp32nml</guid>
 <content:encoded><![CDATA[
-<div> [High] - Service Maintenance for Cortex XDR, XSIAM, XSOAR 8, and XPANSE in Europe, Germany, Switzerland, Poland, Qatar, and United Kingdom Regions <br><br> During the maintenance on March 24th, 2024 from 15:00 UTC to 20:00 UTC, the service may be unavailable for a maximum of 30 minutes due to a scheduled maintenance event. If you experience unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support. <div>
+<div> [High] - Service Maintenance for Cortex XDR, XSIAM, XSOAR 8, and XPANSE in Europe, Germany, Switzerland, Poland, Qatar, and United Kingdom Regions <br /><br /> During the maintenance on March 24th, 2024 from 15:00 UTC to 20:00 UTC, the service may be unavailable for a maximum of 30 minutes due to a scheduled maintenance event. If you experience unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>15:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var>10</var>, <var>15:58</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Europe, Germany, Switzerland, Poland, Qatar and United Kingdom regions. The maintenance is scheduled for March 24th 2024 from 15:00 UTC to 20:00 UTC March 24 2024. During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
 <pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +20,9 @@
 <link>https://status.paloaltonetworks.com/incidents/20n0hrs09gt5</link>
 <guid>https://status.paloaltonetworks.com/incidents/20n0hrs09gt5</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government Region <br><br> Service maintenance is scheduled for March 24th 2024 from 08:00 AM UTC to 01:00 PM UTC. During this window, the service may be unavailable for a maximum of 30 minutes. If unusual activity is experienced, please contact Support - https://www.paloaltonetworks.com/company/contact-support. <div>
+<div> [Medium] - Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government Region <br /><br /> Service maintenance is scheduled for March 24th 2024 from 08:00 AM UTC to 01:00 PM UTC. During this window, the service may be unavailable for a maximum of 30 minutes. If unusual activity is experienced, please contact Support - https://www.paloaltonetworks.com/company/contact-support. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>08:00</var> - <var>13:00</var> UTC</strong></p><p><small>Mar <var>10</var>, <var>15:57</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America Government region. The maintenance is scheduled for  March 24th 2024 from 08:00 AM UTC to 01:00 PM UTC March 24th 2024. During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 08:00:00 +0000</pubDate>
 <pubDate>Sun, 24 Mar 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +30,11 @@
 <link>https://status.paloaltonetworks.com/incidents/rh7hyjmhzd8x</link>
 <guid>https://status.paloaltonetworks.com/incidents/rh7hyjmhzd8x</guid>
 <content:encoded><![CDATA[
-<div> [High] - Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Multiple Regions <br><br> Service maintenance is scheduled for March 24, 2024, in various regions, potentially causing platform downtime for up to 30 minutes. Please be aware of the potential impact on service availability. Contact support for any unusual activity. <div>
+<div> [High] - Scheduled Maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in Multiple Regions <br /><br /> Service maintenance is scheduled for March 24, 2024, in various regions, potentially causing platform downtime for up to 30 minutes. Please be aware of the potential impact on service availability. Contact support for any unusual activity. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>24</var>, <var>08:00</var> - <var>13:00</var> UTC</strong></p><p><small>Mar <var>10</var>, <var>15:55</var> UTC</small><br /><strong>Scheduled</strong> - We are planning a service maintenance for Cortex XDR / XSIAM / XSOAR 8 / XPANSE in America, Canada, Singapore, India, Australia, Taiwan and Japan region. The maintenance is scheduled for March 24th 2024 from 08:00 AM UTC to 01:00 PM UTC March 24th 2024. During this window, the service may be unavailable for a maximum of 30 minutes. However, if you are experiencing unusual activity in your environment, please contact our Support - https://www.paloaltonetworks.com/company/contact-support.</p>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 08:00:00 +0000</pubDate>
-<pubDate>Sun, 24 Mar 2024 08:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Intermittent issues observed with CSP</title>
 <link>https://status.paloaltonetworks.com/incidents/3lw5jpcbr09l</link>
