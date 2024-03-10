@@ -4,6 +4,7 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Intacct  - Partial Outage</title>
 <link>https://status.sage.com/incidents/mynfdt76wdhp</link>
@@ -14,9 +15,7 @@ Summary: A subset of US customers were unable to use their API traffic due to a 
 <p><small>Mar <var>10</var>, <var>04:31</var> UTC</small><br /><strong>Resolved</strong> - We identified an issue preventing a subset of US customers from using their API traffic.  All other product functionality was performing as expected. <br />The issue is resolved and the service is available and performing as expected.</p><p><small>Mar <var>10</var>, <var>04:13</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 04:31:26 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 04:31:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Intacct Planning - Partial Outage</title>
 <link>https://status.sage.com/incidents/dyd474vyg492</link>
