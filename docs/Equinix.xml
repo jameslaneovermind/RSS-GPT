@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/0kvd6m9qm4y7</link>
+<guid>https://status.equinix.com/incidents/0kvd6m9qm4y7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - EMEA (AM) Incident Identified 
+Summary: An issue has been identified with Equinix Fabric in the EMEA region, and a fix is currently being implemented after investigating the incident. <div>
+<p><small>Mar <var>10</var>, <var>09:26</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h4wkhcwd15js</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031551</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p><p><small>Mar <var>10</var>, <var>09:12</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h4wkhcwd15js</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031551</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 09:26:23 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 09:26:23 +0000</pubDate>
+</item>
+
+<item>
 <title>Switchover (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/m7jpfprjn78s</link>
 <guid>https://status.equinix.com/incidents/m7jpfprjn78s</guid>
@@ -15,9 +28,7 @@ We are currently investigating a major issue with the Asia-Pacific Metro Connect
 <p><small>Mar <var>10</var>, <var>08:58</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kkq08v6t7q0m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031550</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 08:58:33 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 08:58:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/tvcqcrjpp9hx</link>
