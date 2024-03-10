@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Compliance Service - Degraded Performance</title>
+<link>https://status.sage.com/incidents/vzbw4m9981tv</link>
+<guid>https://status.sage.com/incidents/vzbw4m9981tv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Intermittent Issue with Sage 50 (FR) Invoicing <br><br> We identified an intermittent issue with our third-party supplier, Chorus Pro, preventing Sage 50 (FR) customers from submitting invoices to Chorus Pro through the Compliance Service. We are engaged with our third-party, Chorus Pro, waiting for updates. Summary: Identified intermittent issue with Chorus Pro affecting Sage 50 (FR) invoicing. Engaged with third-party for resolution. <div>
+<p><small>Mar <var>10</var>, <var>21:49</var> UTC</small><br /><strong>Identified</strong> - We identified an intermittent issue with our third-party supplier, Chorus Pro, preventing Sage 50 (FR) customers from submitting invoices to Chorus Pro through the Compliance Service. <br />We are engaged with our third-party, Chorus Pro, waiting for updates.</p><p><small>Mar <var>10</var>, <var>21:24</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 21:49:55 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 21:49:55 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Intacct  - Partial Outage</title>
