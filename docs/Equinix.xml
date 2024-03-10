@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/tvcqcrjpp9hx</link>
@@ -13,7 +14,6 @@
 Summary: The issue has been identified and a fix is being implemented for an ongoing outage affecting Equinix Fabric and Network Edge in the Americas. <div>
 <p><small>Mar <var>10</var>, <var>07:03</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">gj7fwf7wcjs3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031545</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA); Network Edge - Americas (AT, DA)]</div></p><p><small>Mar <var>10</var>, <var>06:48</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gj7fwf7wcjs3</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031545</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT, DA); Network Edge - Americas (AT, DA)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 07:03:39 +0000</pubDate>
 <pubDate>Sun, 10 Mar 2024 07:03:39 +0000</pubDate>
 </item>
 <item>
@@ -26,9 +26,7 @@ Summary: An issue has been identified with Equinix Fabric and Network Edge in th
 <p><small>Mar <var>10</var>, <var>06:49</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">g9j0xxtp4pcn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031544</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR, PA); Network Edge - EMEA (FR, PA)]</div></p><p><small>Mar <var>10</var>, <var>06:33</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">g9j0xxtp4pcn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031544</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR, PA); Network Edge - EMEA (FR, PA)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 06:49:02 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 06:49:02 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/lp2hg7wbq7fd</link>
