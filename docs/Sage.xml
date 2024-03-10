@@ -4,6 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage Intacct Planning - Partial Outage</title>
+<link>https://status.sage.com/incidents/dyd474vyg492</link>
+<guid>https://status.sage.com/incidents/dyd474vyg492</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Potential Issue Investigation <br><br> We are currently investigating a potential issue with the service. An update will be provided within 30 minutes. Summary: The company is currently investigating a potential major issue with the service, indicating a large-scale outage that may have resulted from a configuration change or deployment to the production system. <div>
+<p><small>Mar <var>10</var>, <var>04:04</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 04:04:03 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 04:04:03 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage Provisioning Portal (SEOS) - Scheduled Maintenance</title>
