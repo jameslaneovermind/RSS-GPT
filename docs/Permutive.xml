@@ -4,6 +4,19 @@
 <title>Permutive Status - Incident History</title>
 <link>https://status.permutive.com</link>
 
+<item>
+<title>Permutive API outage</title>
+<link>https://status.permutive.com/incidents/lkcnvfnyd83n</link>
+<guid>https://status.permutive.com/incidents/lkcnvfnyd83n</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Permutive API Outage on 10th March 2024
+<br><br>
+The Permuitive API experienced an outage on 10th March 2024, affecting Insights and Routing services for a period of 52 minutes. Segmentation and activation of users remained operational with degraded service. All services have since been restored. <div>
+<p><small>Mar <var>10</var>, <var>08:57</var> UTC</small><br /><strong>Monitoring</strong> - The Permutive API suffered an outage between 07:56 UTC and 08:48 UTC on 10th March 2024. During this period, segmentation & activation of users remained operational with degraded service, but Insights and Routing were affected. All services have been restored and our team are now monitoring.</p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 08:57:21 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 08:57:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Permutive API outage</title>

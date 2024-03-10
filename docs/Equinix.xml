@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Switchover (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/m7jpfprjn78s</link>
+<guid>https://status.equinix.com/incidents/m7jpfprjn78s</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage in Asia-Pacific Metro Connect
+Summary:
+We are currently investigating a major issue with the Asia-Pacific Metro Connect service. This incident has been given the reference number INC0031550 and is impacting the system. Our team is working to resolve this as quickly as possible. <div>
+<p><small>Mar <var>10</var>, <var>08:58</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kkq08v6t7q0m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031550</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 08:58:33 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 08:58:33 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
