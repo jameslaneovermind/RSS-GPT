@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/pfgm1hrbf0qy</link>
 <guid>https://status.equinix.com/incidents/pfgm1hrbf0qy</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Fabric and Network Edge Outage in Asia-Pacific
-<br><br>
+<br /><br />
 We are currently investigating a critical issue affecting Equinix Fabric and Network Edge services in the Asia-Pacific region. Incident Number: INC0031523. <div>
 <p><small>Mar <var>10</var>, <var>01:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5wgnq1htgn10</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031523</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY); Network Edge - Asia-Pacific (SG, TY)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 01:36:57 +0000</pubDate>
 <pubDate>Sun, 10 Mar 2024 01:36:57 +0000</pubDate>
 </item>
 <item>
@@ -22,10 +22,9 @@ We are currently investigating a critical issue affecting Equinix Fabric and Net
 <link>https://status.equinix.com/incidents/s2nvsz02dc4y</link>
 <guid>https://status.equinix.com/incidents/s2nvsz02dc4y</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Issue with Backbone Provider Identified <br><br> Equinix SMC has identified an issue with one of our backbone providers from MX to DA. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation. <div>
+<div> [Low] - Issue with Backbone Provider Identified <br /><br /> Equinix SMC has identified an issue with one of our backbone providers from MX to DA. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation. <div>
 <p><small>Mar <var>10</var>, <var>01:37</var> UTC</small><br /><strong>Update</strong> - Equinix SMC has identified an issue with one of our backbone providers from MX  to DA.  <br /><br />No impact to your service as traffic automatically rerouted to alternate link.<br /><br />The issue was reported to provider for investigation..<br /><div style="display: none;">6kdr8qnv6yqs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031522</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p><p><small>Mar <var>10</var>, <var>01:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">6kdr8qnv6yqs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031522</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p>
 ]]></content:encoded>
-<pubDate>Sun, 10 Mar 2024 01:37:15 +0000</pubDate>
 <pubDate>Sun, 10 Mar 2024 01:37:15 +0000</pubDate>
 </item>
 <item>
@@ -41,9 +40,7 @@ Summary: Equinix engineers are investigating a critical issue causing service im
 <p><small>Mar <var>10</var>, <var>01:23</var> UTC</small><br /><strong>Update</strong> - There is service impact to virtual connections (VC) without redundancy. Equinix engineers are investigating the issue..<br /><div style="display: none;">krnjfnt89szs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031519</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG)]</div></p><p><small>Mar <var>10</var>, <var>01:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">krnjfnt89szs</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031519</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 01:23:29 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 01:23:29 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect, Internet Exchange)</title>
 <link>https://status.equinix.com/incidents/xq8bk1vs4t6t</link>
