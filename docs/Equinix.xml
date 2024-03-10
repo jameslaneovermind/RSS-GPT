@@ -4,6 +4,21 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Internet Access / Equinix Connect, Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/xq8bk1vs4t6t</link>
+<guid>https://status.equinix.com/incidents/xq8bk1vs4t6t</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Internet Exchange Outage in Asia-Pacific (SG) 
+Summary: A critical issue has been identified and a fix is being implemented for the Equinix Internet Access / Equinix Connect in the Asia-Pacific region. 
+
+[Low] - Investigating Connectivity Issue in Asia-Pacific (SG)
+Summary: An investigation is ongoing for a potential connectivity issue in the Asia-Pacific region related to Equinix Internet Access / Equinix Connect. <div>
+<p><small>Mar <var>10</var>, <var>00:13</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dkk95c8ndtdy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031515</div><div class="affected-products font-small color-secondary">[Internet Exchange - Asia-Pacific (SG); Equinix Internet Access / Equinix Connect - APAC (SG)]</div></p><p><small>Mar <var> 9</var>, <var>23:59</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dkk95c8ndtdy</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031515</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - APAC (SG); Internet Exchange - Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Sun, 10 Mar 2024 00:13:44 +0000</pubDate>
+<pubDate>Sun, 10 Mar 2024 00:13:44 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect, Metro Connect)</title>

@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>Global: Reporting - Some customers experiencing errors in Reporting and Short-term Cash Flow</title>
+<link>https://status.xero.com/incidents/h51ncsqf0zsx</link>
+<guid>https://status.xero.com/incidents/h51ncsqf0zsx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Short-term Cash Flow and Reports Access Issues <br><br> Customers trying to access Short-term Cash Flow and publish reports in Xero are experiencing issues due to a significant platform downtime. Our team is urgently investigating the root cause of this major outage. Summary: <div>
+<p><small>Mar <var> 9</var>, <var>23:54</var> UTC</small><br /><strong>Investigating</strong> - We are aware some customers trying to access Short-term Cash Flow and publish reports in Xero are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 11:55 PM UTC</p>
+]]></content:encoded>
+<pubDate>Sat, 09 Mar 2024 23:54:54 +0000</pubDate>
+<pubDate>Sat, 09 Mar 2024 23:54:54 +0000</pubDate>
+</item>
 
 <item>
 <title>AU Tax - Some users are being logged out</title>
