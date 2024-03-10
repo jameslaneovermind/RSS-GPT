@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/0kvd6m9qm4y7</link>
@@ -14,9 +15,7 @@ Summary: An issue has been identified with Equinix Fabric in the EMEA region, an
 <p><small>Mar <var>10</var>, <var>09:26</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h4wkhcwd15js</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031551</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p><p><small>Mar <var>10</var>, <var>09:12</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h4wkhcwd15js</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031551</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 09:26:23 +0000</pubDate>
-<pubDate>Sun, 10 Mar 2024 09:26:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Switchover (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/m7jpfprjn78s</link>
