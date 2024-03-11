@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Minor Maintenance on EM West 1 Services for API Manager.</title>
+<link>https://status.informatica.com/incidents/x3wb22zzyp5d</link>
+<guid>https://status.informatica.com/incidents/x3wb22zzyp5d</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Solr Re-indexing and Wso2 Service Restart Scheduled
+<br><br>Summary: Solr re-indexing and Wso2 service restart will be performed on March 11th, causing a temporary disruption in the creation/edition of new APIs and rate limit functionality. The activity is expected to be completed within 30 minutes. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>11</var>, <var>02:30</var> - <var>03:00</var> PDT</strong></p><p><small>Mar <var>11</var>, <var>00:54</var> PDT</small><br /><strong>Scheduled</strong> - Solr re-indexing will be performed at 2:30 AM PST on 11th March in APIM AWS EMEA Manager node. This requires restarting of wso2 services on manager node. Activity will be completed in 30min.<br />Impact during the activity:-<br />-creation/edition of new api's won't work for sometime<br />-rate limit won't work for sometime</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 02:30:00 -0700</pubDate>
+<pubDate>Mon, 11 Mar 2024 02:30:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Planned Maintenance with Downtime impacting CDGC on US (AWS) and CDGC Canada CACENTRAL1</title>
