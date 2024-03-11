@@ -4,6 +4,7 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>ADA Issues - Adapt</title>
 <link>https://status.bullhorn.com/incidents/3g302cz4klhk</link>
@@ -14,9 +15,7 @@ Summary: The Bullhorn Technical Operations team is investigating an issue causin
 <p><small>Mar <var>10</var>, <var>21:35</var> EDT</small><br /><strong>Investigating</strong> - <br /><b>Impact: Adapt application will not be able to open or edit document and sending email from Adapt via outlook.</b><br />System: Adapt<br />Cluster(s): All<br />Service: Adapt Desktop Agent (ADA)<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
 ]]></content:encoded>
 <pubDate>Sun, 10 Mar 2024 21:35:27 -0400</pubDate>
-<pubDate>Sun, 10 Mar 2024 21:35:27 -0400</pubDate>
 </item>
-
 <item>
 <title>Emergency Maintenance - Bullhorn Back Office</title>
 <link>https://status.bullhorn.com/incidents/22y4b9lmtzd2</link>

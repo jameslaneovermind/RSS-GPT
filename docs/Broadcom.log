@@ -2819,3 +2819,10 @@ Fetching from https://status.broadcom.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Broadcom
+------------------------------------------------------
+Started: 2024-03-11 02:17:00.263085
+Existing_entries: 0
+Fetching from https://status.broadcom.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Broadcom
