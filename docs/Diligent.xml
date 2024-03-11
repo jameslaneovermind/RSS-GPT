@@ -4,6 +4,19 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>BoardDocs - Users have reported service slowness or unavailable</title>
+<link>https://status.diligent.com/incidents/xps75qsb3cqn</link>
+<guid>https://status.diligent.com/incidents/xps75qsb3cqn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Service Outage <br><br> BoardDocs service is experiencing a major outage, causing slowness and errors for multiple clients. A fix is being implemented.
+
+ <div>
+<p><small>Mar <var>11</var>, <var>19:05</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>19:01</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>11</var>, <var>18:35</var> UTC</small><br /><strong>Investigating</strong> - Clients have reported that the BoardDocs service is slow to load pages. Other clients have also reported receiving an error and some have trouble loading the site.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 19:05:23 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 19:05:23 +0000</pubDate>
+</item>
 
 <item>
 <title>Maintenance Advisory - HighBond Risk Manager's Toolkit component in All regions</title>

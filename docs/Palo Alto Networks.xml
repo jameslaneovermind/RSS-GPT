@@ -4,17 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>Cloud management service can not fetch data from the CIE service</title>
 <link>https://status.paloaltonetworks.com/incidents/lkync9rlv317</link>
 <guid>https://status.paloaltonetworks.com/incidents/lkync9rlv317</guid>
 <content:encoded><![CDATA[
-<div> [High] - Cloud Management Service Data Fetch Issue <br><br> Cloud management service is unable to fetch data from the CIE service, causing a major outage. A fix has been implemented and the situation is being monitored.
+<div> [High] - Cloud Management Service Data Fetch Issue <br /><br /> Cloud management service is unable to fetch data from the CIE service, causing a major outage. A fix has been implemented and the situation is being monitored.
 
 In this case, the text indicates a major outage with the inability to fetch data from the CIE service, and a fix has been implemented. Thus, it fits the criteria for a high relevancy tag. <div>
 <p><small>Mar <var>11</var>, <var>17:31</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>17:21</var> UTC</small><br /><strong>Investigating</strong> - Cloud management service can not fetch data from the CIE service<br />We will post an update by 12.30 pm PST</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 17:31:51 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 17:31:51 +0000</pubDate>
 </item>
 <item>
@@ -27,9 +27,7 @@ Summary: The Cloud management service is unable to fetch data from the CIE servi
 <p><small>Mar <var>11</var>, <var>17:32</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>17:21</var> UTC</small><br /><strong>Investigating</strong> - Cloud management service can not fetch data from the CIE service<br />We will post an update by 12.30 pm PST</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 17:32:09 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 17:32:09 +0000</pubDate>
 </item>
-
 <item>
 <title>CIE may have issues syncing directories with the Cloud Management service</title>
 <link>https://status.paloaltonetworks.com/incidents/fj1pxpq204sz</link>
