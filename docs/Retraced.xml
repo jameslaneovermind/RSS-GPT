@@ -4,6 +4,7 @@
 <title>retraced Status - Incident History</title>
 <link>https://status.retraced.com</link>
 
+
 <item>
 <title>Scheduled Maintenance: Security Enhancement</title>
 <link>https://status.retraced.com/incidents/s1sd3pnrljfn</link>
@@ -14,9 +15,7 @@ Summary: A security enhancement is scheduled to take place, potentially causing 
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>20:00</var> - <var>20:30</var> CET</strong></p><p><small>Mar <var>11</var>, <var>10:38</var> CET</small><br /><strong>Scheduled</strong> - We will be performing a security enhancement and there might be interruption to the service between 08:00 PM to 08:30 PM CET on 20th March.</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 20:00:00 +0100</pubDate>
-<pubDate>Wed, 20 Mar 2024 20:00:00 +0100</pubDate>
 </item>
-
 <item>
 <title>Unexpected User Logout Issue</title>
 <link>https://status.retraced.com/incidents/h70pbhsbm4fp</link>

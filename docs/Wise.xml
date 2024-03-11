@@ -4,18 +4,17 @@
 <title>Wise Status - Incident History</title>
 <link>https://status.wise.com</link>
 
+
 <item>
 <title>Issue with logging in and completing transfers</title>
 <link>https://status.wise.com/incidents/bzvtm87tvpjv</link>
 <guid>https://status.wise.com/incidents/bzvtm87tvpjv</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Login and Transfer Issue <br><br> Customers were unable to login or complete transfers for more than 10 minutes, impacting all users and platform partners. The issue has been resolved. <div>
+<div> [High] - Major Login and Transfer Issue <br /><br /> Customers were unable to login or complete transfers for more than 10 minutes, impacting all users and platform partners. The issue has been resolved. <div>
 <p><small>Mar <var>11</var>, <var>09:13</var> GMT</small><br /><strong>Resolved</strong> - On Monday, 11 Mar, between 8.07am-8.20am UTC, we experienced an issue where customers were not able to login or complete transfers. This issue impacted all customers, including Wise Platform partners. This issue has now been resolved.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 09:13:43 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 09:13:43 +0000</pubDate>
 </item>
-
 <item>
 <title>Issue when authenticating</title>
 <link>https://status.wise.com/incidents/tvffrpmjsk3v</link>
