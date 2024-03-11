@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/s76nrk6cy4b9</link>
@@ -14,20 +15,17 @@ Summary: The issue is being investigated, but no major outage or incident has be
 <p><small>Mar <var>11</var>, <var>08:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">hpr5hwwhxds4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031635</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG); Network Edge - Asia-Pacific (SG)]</div></p><p><small>Mar <var>11</var>, <var>08:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hpr5hwwhxds4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031635</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG); Network Edge - Asia-Pacific (SG)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 08:51:33 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 08:51:33 +0000</pubDate>
 </item>
 <item>
 <title>Switchover (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/trx54sz3zbqq</link>
 <guid>https://status.equinix.com/incidents/trx54sz3zbqq</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major OPS Switchover in Metro Connect Platform <br><br> SMC has reported a critical switchover in the Metro Connect platform due to a Dark Fiber provider link between MI1 and MI3 flapping and recovering within a minute, causing a brief service interruption. Equinix engineers are investigating the issue. <br><br> <div>
+<div> [High] - Major OPS Switchover in Metro Connect Platform <br /><br /> SMC has reported a critical switchover in the Metro Connect platform due to a Dark Fiber provider link between MI1 and MI3 flapping and recovering within a minute, causing a brief service interruption. Equinix engineers are investigating the issue. <br /><br /> <div>
 <p><small>Mar <var>11</var>, <var>08:51</var> UTC</small><br /><strong>Update</strong> - SMC has reported an OPS switchover in Metro Connect platform.<br /><br />SMC monitored that one of the Dark Fiber provider links between MI1 and MI3 flapped and recovered within a minute. The brief service interruption experienced is due to failover design. Equinix engineers are investigating the issue..<br /><div style="display: none;">x3p6wlwskgz4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031632</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (MI)]</div></p><p><small>Mar <var>11</var>, <var>08:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">x3p6wlwskgz4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031632</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (MI)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 08:51:14 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 08:51:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Network Edge)</title>
 <link>https://status.equinix.com/incidents/tzhsgtsdqd8m</link>
