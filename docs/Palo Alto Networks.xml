@@ -4,6 +4,28 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>CIE may have issues syncing directories with the Cloud Management service</title>
+<link>https://status.paloaltonetworks.com/incidents/fj1pxpq204sz</link>
+<guid>https://status.paloaltonetworks.com/incidents/fj1pxpq204sz</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Cloud Management Service Syncing Issue <br><br> Investigating a potential issue with syncing directories in the Cloud Management service. An update is expected by 12:30 pm PST. <div>
+<p><small>Mar <var>11</var>, <var>16:58</var> UTC</small><br /><strong>Investigating</strong> - CIE may have issues syncing directories with the Cloud Management service <br />We will post an update by 12.30 pm PST</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 16:59:03 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 16:59:03 +0000</pubDate>
+</item>
+<item>
+<title>CIE may have issues syncing directories with the Cloud Management service</title>
+<link>https://status.paloaltonetworks.com/incidents/3nyxtjvl6dm2</link>
+<guid>https://status.paloaltonetworks.com/incidents/3nyxtjvl6dm2</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Potential Syncing Issues with Cloud Management Service <br><br> Investigating potential issues with syncing directories with the Cloud Management service. An update is expected by 12.30 pm PST. Summary: The company is investigating possible syncing issues with the Cloud Management service, with an update expected later. <div>
+<p><small>Mar <var>11</var>, <var>16:53</var> UTC</small><br /><strong>Investigating</strong> - CIE may have issues syncing directories with the Cloud Management service.<br />We will post an update by 12.30 pm PST</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 16:53:20 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 16:53:20 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud [APP2]: Emergency Maintenance</title>

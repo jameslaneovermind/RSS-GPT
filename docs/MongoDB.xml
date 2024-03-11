@@ -4,18 +4,17 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+
 <item>
 <title>User changes delayed for some serverless instances in AWS us-east-1</title>
 <link>https://status.mongodb.com/incidents/3llr8kq8hk1p</link>
 <guid>https://status.mongodb.com/incidents/3llr8kq8hk1p</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - AWS Serverless Instance Delays in us-east-1 <br><br> We have identified an issue causing delays to user changes to some serverless instances in AWS us-east-1. We are currently working on a fix and will provide updates as we have more information. Summary: An issue causing delays to user changes to serverless instances in AWS us-east-1 has been identified and is being addressed by our team. <div>
+<div> [Medium] - AWS Serverless Instance Delays in us-east-1 <br /><br /> We have identified an issue causing delays to user changes to some serverless instances in AWS us-east-1. We are currently working on a fix and will provide updates as we have more information. Summary: An issue causing delays to user changes to serverless instances in AWS us-east-1 has been identified and is being addressed by our team. <div>
 <p><small>Mar <var>11</var>, <var>15:19</var> UTC</small><br /><strong>Identified</strong> - We have identified an issue causing delays to user changes to some serverless instances in AWS us-east-1. This includes creation of new instances and deletion of existing ones. We are currently working on a fix and will provide updates as we have more information.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 15:19:52 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 15:19:52 +0000</pubDate>
 </item>
-
 <item>
 <title>AWS Delayed import</title>
 <link>https://status.mongodb.com/incidents/dsgjvns5mb15</link>

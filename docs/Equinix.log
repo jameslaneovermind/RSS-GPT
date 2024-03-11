@@ -3428,3 +3428,12 @@ Existing_entries: 360
 Fetching from https://status.equinix.com/history.rss
 append_entries: 0
 Finish: 2024-03-11 16:10:57.807821
+------------------------------------------------------
+Started: 2024-03-11 17:09:09.477709
+Existing_entries: 360
+Fetching from https://status.equinix.com/history.rss
+Token length: 309
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/3pgh01fjlxt6)
+append_entries: 1
+Finish: 2024-03-11 17:09:10.598590
