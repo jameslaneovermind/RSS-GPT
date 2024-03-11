@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Intacct  - Partial Outage</title>
 <link>https://status.sage.com/incidents/6t72tqy63k0l</link>
 <guid>https://status.sage.com/incidents/6t72tqy63k0l</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Outage <br><br> Summary: The issue was resolved after a major service outage caused platform downtime. <div>
+<div> [High] - Major Service Outage <br /><br /> Summary: The issue was resolved after a major service outage caused platform downtime. <div>
 <p><small>Mar <var>11</var>, <var>19:38</var> UTC</small><br /><strong>Resolved</strong> - The issue is resolved and the service is available and performing as expected.</p><p><small>Mar <var>11</var>, <var>19:20</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 19:38:07 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 19:38:07 +0000</pubDate>
 </item>
-
 <item>
 <title>Remote Data Access (RDA) UKI - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/7vt4j35vfd3p</link>

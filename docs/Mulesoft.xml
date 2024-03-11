@@ -4,6 +4,7 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Anypoint Monitoring Center Metrics API Service is experiencing 503 errors.</title>
 <link>https://status.mulesoft.com/incidents/r7yjxyvhgcm5</link>
@@ -14,9 +15,7 @@ Summary: Anypoint Monitoring is experiencing a critical issue with the Monitorin
 <p><small>Mar <var>11</var>, <var>12:38</var> PDT</small><br /><strong>Investigating</strong> - We are investigating an issue where Anypoint Monitoring is returning 503 errors for Monitoring Center Metrics API, we will provide more information as soon as we can.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 12:38:20 -0700</pubDate>
-<pubDate>Mon, 11 Mar 2024 12:38:20 -0700</pubDate>
 </item>
-
 <item>
 <title>MuleSoft Composer Flows Experiencing Intermittent Errors</title>
 <link>https://status.mulesoft.com/incidents/3g38lbq3ljhn</link>
