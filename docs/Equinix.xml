@@ -6,6 +6,19 @@
 
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/ht5pbwmn0xk5</link>
+<guid>https://status.equinix.com/incidents/ht5pbwmn0xk5</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Equinix SMC monitored that one of Equinix Fabric backbone links between APAC and AMER flapped and recovered within a minute. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation.
+Summary: No major impact to services, issue automatically resolved, reported for further investigation. <div>
+<p><small>Mar <var>11</var>, <var>03:51</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of Equinix Fabric backbone links between APAC and AMER flapped and recovered within a minute. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">599fq22gl950</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031614</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG); Network Edge - Americas (LA) & Asia-Pacific (SG)]</div></p><p><small>Mar <var>11</var>, <var>03:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">599fq22gl950</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031614</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG); Network Edge - Asia-Pacific (SG) & Americas (LA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 03:51:42 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 03:51:42 +0000</pubDate>
+</item>
+
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/b21ryq9q7cgt</link>
 <guid>https://status.equinix.com/incidents/b21ryq9q7cgt</guid>
 <content:encoded><![CDATA[
@@ -14,9 +27,7 @@ Summary: We are investigating a major outage in the Equinix Fabric and Network E
 <p><small>Mar <var>11</var>, <var>03:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mr0w6b1rt6q0</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031612</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (OS) & Americas (SV); Network Edge - Asia-Pacific (OS) & Americas (SV)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 03:09:40 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 03:09:40 +0000</pubDate>
 </item>
-
 <item>
 <title>Other (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/s7y1yq3b6kv7</link>
