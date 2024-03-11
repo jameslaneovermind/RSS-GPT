@@ -4,6 +4,51 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+<item>
+<title>CORESHARE NA Release deployment- 24.1.2</title>
+<link>https://status.opentext.com/incidents/s2n18plkn4d7</link>
+<guid>https://status.opentext.com/incidents/s2n18plkn4d7</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Core Share Update <br><br> Service update for Core Share. Possible interruptions during the update. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>03:00</var> - <var>05:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>05:35</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 03:00:00 +0000</pubDate>
+<pubDate>Fri, 29 Mar 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE EU Release deployment- 24.1.2</title>
+<link>https://status.opentext.com/incidents/8d0sfzdvcbbb</link>
+<guid>https://status.opentext.com/incidents/8d0sfzdvcbbb</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Core Share Update Scheduled
+Summary: Scheduled Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>28</var>, <var>19:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>05:33</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 19:00:00 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE CA Release deployment- 24.1.2</title>
+<link>https://status.opentext.com/incidents/jhk1t8y0hgv4</link>
+<guid>https://status.opentext.com/incidents/jhk1t8y0hgv4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Core Share Update <br><br> Service should remain accessible during this time generally, but there might be brief interruptions. Summary: A scheduled update for Core Share with potential brief interruptions. No indication of a major issue or downtime. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>28</var>, <var>03:00</var> - <var>05:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>05:29</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 03:00:00 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 03:00:00 +0000</pubDate>
+</item>
+<item>
+<title>CORESHARE AU Release deployment- 24.1.2</title>
+<link>https://status.opentext.com/incidents/n9xv0cgsy5gq</link>
+<guid>https://status.opentext.com/incidents/n9xv0cgsy5gq</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>27</var>, <var>15:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>05:27</var> UTC</small><br /><strong>Scheduled</strong> - Core Share update. Service should remain accessible during this time generally, but there might be brief interruptions.</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 15:00:00 +0000</pubDate>
+<pubDate>Wed, 27 Mar 2024 15:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Hightail Service is experiencing service unavailability.</title>
