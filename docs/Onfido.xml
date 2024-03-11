@@ -4,20 +4,19 @@
 <title>Onfido Status - Incident History</title>
 <link>https://status.onfido.com</link>
 
+
 <item>
 <title>Known Faces Degraded request times</title>
 <link>https://status.onfido.com/incidents/gzbglxswcr69</link>
 <guid>https://status.onfido.com/incidents/gzbglxswcr69</guid>
 <content:encoded><![CDATA[
 <div> [High] - Investigating Issue
-<br><br>
+<br /><br />
 Summary: We are currently investigating a major issue that has caused platform downtime. <div>
 <p><small>Mar <var>11</var>, <var>18:37</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 18:37:41 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 18:37:41 +0000</pubDate>
 </item>
-
 <item>
 <title>Unable to create checks in EU</title>
 <link>https://status.onfido.com/incidents/lpnskmz8q521</link>

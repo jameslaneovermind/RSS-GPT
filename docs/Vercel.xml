@@ -4,18 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>Delayed Runtime Logs</title>
 <link>https://www.vercel-status.com/incidents/5z7k3sczh4jl</link>
 <guid>https://www.vercel-status.com/incidents/5z7k3sczh4jl</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Delayed Runtime Logs <br><br> Summary: The company is investigating an issue with delayed runtime logs, which may indicate a potential service disruption. <div>
+<div> [Medium] - Investigating Delayed Runtime Logs <br /><br /> Summary: The company is investigating an issue with delayed runtime logs, which may indicate a potential service disruption. <div>
 <p><small>Mar <var>11</var>, <var>18:20</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating an issue where some runtime logs have been delayed. We will update as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 18:20:18 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 18:20:18 +0000</pubDate>
 </item>
-
 <item>
 <title>GitHub Deployment and API Errors</title>
 <link>https://www.vercel-status.com/incidents/8mh1wk6fcx7z</link>
