@@ -4,6 +4,53 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+<item>
+<title>Core Share NA - Scheduled maintenance</title>
+<link>https://status.opentext.com/incidents/clzddzqmwvby</link>
+<guid>https://status.opentext.com/incidents/clzddzqmwvby</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Core Share NA on March 30, 2024
+<br><br> 
+Core Share NA will be undergoing maintenance on March 30, 2024 from 16:00 UTC to 20:00 UTC. We do not expect any outage, but the Application may be intermittently unavailable, during this time. 
+Summary: This is a scheduled maintenance for Core Share NA with potential intermittent unavailability, but no expected outage. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>30</var>, <var>16:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>13:52</var> UTC</small><br /><strong>Scheduled</strong> - Core Share NA will be undergoing maintenance on March 30, 2024 from 16:00 UTC to 20:00 UTC. <br />We do not expect any outage, but the Application may be intermittently unavailable, during this time.</p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 16:00:00 +0000</pubDate>
+<pubDate>Sat, 30 Mar 2024 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Share Europe - Scheduled Maintenance</title>
+<link>https://status.opentext.com/incidents/8x98fh36pf1n</link>
+<guid>https://status.opentext.com/incidents/8x98fh36pf1n</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance for Core Share EU <br><br> Core Share EU will be undergoing maintenance on March 30, 2024 from 12:00 UTC to 16:00 UTC. We do not expect any outage, but the Application may be intermittently unavailable, during this time. Summary: scheduled maintenance with no expected outage. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>30</var>, <var>12:00</var> - <var>16:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>13:51</var> UTC</small><br /><strong>Scheduled</strong> - Core Share EU will be undergoing maintenance on March 30, 2024 from 12:00 UTC to 16:00 UTC. <br />We do not expect any outage, but the Application may be intermittently unavailable, during this time.</p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 12:00:00 +0000</pubDate>
+<pubDate>Sat, 30 Mar 2024 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Share CA - Scheduled maintenance</title>
+<link>https://status.opentext.com/incidents/d2q2nms11s9t</link>
+<guid>https://status.opentext.com/incidents/d2q2nms11s9t</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance for Core Share CA <br><br> Summary: Core Share CA will undergo maintenance on March 23, 2024 from 16:00 UTC to 20:00 UTC. Intermittent unavailability may occur, but no major outage is expected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>23</var>, <var>16:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>13:50</var> UTC</small><br /><strong>Scheduled</strong> - Core Share CA will be undergoing maintenance on March 23, 2024 from 16:00 UTC to 20:00 UTC. <br />We do not expect any outage, but the Application may be intermittently unavailable, during this time.</p>
+]]></content:encoded>
+<pubDate>Sat, 23 Mar 2024 16:00:00 +0000</pubDate>
+<pubDate>Sat, 23 Mar 2024 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Core Share Australia - Scheduled Maintenance</title>
+<link>https://status.opentext.com/incidents/nfs6f66x9y4n</link>
+<guid>https://status.opentext.com/incidents/nfs6f66x9y4n</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>22</var>, <var>14:00</var> - <var>18:00</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>13:49</var> UTC</small><br /><strong>Update</strong> - We will be undergoing scheduled maintenance during this time.</p><p><small>Mar <var>11</var>, <var>13:48</var> UTC</small><br /><strong>Scheduled</strong> - Core Share AU will be undergoing maintenance on March 22, 2024 from 14:00 UTC to 18:00 UTC. <br />We do not expect any outage, but the Application may be intermittently unavailable, during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 14:00:00 +0000</pubDate>
+<pubDate>Fri, 22 Mar 2024 14:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>CORESHARE NA Release deployment- 24.1.2</title>

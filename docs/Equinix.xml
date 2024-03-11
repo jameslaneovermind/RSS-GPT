@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/8f1g32trchx9</link>
+<guid>https://status.equinix.com/incidents/8f1g32trchx9</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Update on Investigation <br><br> The issue has been identified, and a fix is being implemented.
+
+Summary: The company has identified the issue and is currently working on a solution. No major impact is indicated in the update. <div>
+<p><small>Mar <var>11</var>, <var>13:59</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">wp4fsptc3k7s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031682</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p><p><small>Mar <var>11</var>, <var>13:44</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">wp4fsptc3k7s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031682</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 13:59:30 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 13:59:30 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Service Issue (Metro Connect)</title>
