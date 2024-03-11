@@ -5,14 +5,39 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>Cloud management service can not fetch data from the CIE service</title>
+<link>https://status.paloaltonetworks.com/incidents/lkync9rlv317</link>
+<guid>https://status.paloaltonetworks.com/incidents/lkync9rlv317</guid>
+<content:encoded><![CDATA[
+<div> [High] - Cloud Management Service Data Fetch Issue <br><br> Cloud management service is unable to fetch data from the CIE service, causing a major outage. A fix has been implemented and the situation is being monitored.
+
+In this case, the text indicates a major outage with the inability to fetch data from the CIE service, and a fix has been implemented. Thus, it fits the criteria for a high relevancy tag. <div>
+<p><small>Mar <var>11</var>, <var>17:31</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>17:21</var> UTC</small><br /><strong>Investigating</strong> - Cloud management service can not fetch data from the CIE service<br />We will post an update by 12.30 pm PST</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 17:31:51 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 17:31:51 +0000</pubDate>
+</item>
+<item>
+<title>Cloud management service can not fetch data from the CIE service</title>
+<link>https://status.paloaltonetworks.com/incidents/x5tbntd65kky</link>
+<guid>https://status.paloaltonetworks.com/incidents/x5tbntd65kky</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Cloud Management Service Outage
+Summary: The Cloud management service is unable to fetch data from the CIE service. A fix has been implemented, and the situation is being monitored closely. <div>
+<p><small>Mar <var>11</var>, <var>17:32</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>17:21</var> UTC</small><br /><strong>Investigating</strong> - Cloud management service can not fetch data from the CIE service<br />We will post an update by 12.30 pm PST</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 17:32:09 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 17:32:09 +0000</pubDate>
+</item>
+
+<item>
 <title>CIE may have issues syncing directories with the Cloud Management service</title>
 <link>https://status.paloaltonetworks.com/incidents/fj1pxpq204sz</link>
 <guid>https://status.paloaltonetworks.com/incidents/fj1pxpq204sz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Cloud Management Service Syncing Issue <br><br> Investigating a potential issue with syncing directories in the Cloud Management service. An update is expected by 12:30 pm PST. <div>
+<div> [High] - Potential Cloud Management Service Syncing Issue <br /><br /> Investigating a potential issue with syncing directories in the Cloud Management service. An update is expected by 12:30 pm PST. <div>
 <p><small>Mar <var>11</var>, <var>16:58</var> UTC</small><br /><strong>Investigating</strong> - CIE may have issues syncing directories with the Cloud Management service <br />We will post an update by 12.30 pm PST</p>
 ]]></content:encoded>
-<pubDate>Mon, 11 Mar 2024 16:59:03 +0000</pubDate>
 <pubDate>Mon, 11 Mar 2024 16:59:03 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +45,11 @@
 <link>https://status.paloaltonetworks.com/incidents/3nyxtjvl6dm2</link>
 <guid>https://status.paloaltonetworks.com/incidents/3nyxtjvl6dm2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Potential Syncing Issues with Cloud Management Service <br><br> Investigating potential issues with syncing directories with the Cloud Management service. An update is expected by 12.30 pm PST. Summary: The company is investigating possible syncing issues with the Cloud Management service, with an update expected later. <div>
+<div> [Medium] - Potential Syncing Issues with Cloud Management Service <br /><br /> Investigating potential issues with syncing directories with the Cloud Management service. An update is expected by 12.30 pm PST. Summary: The company is investigating possible syncing issues with the Cloud Management service, with an update expected later. <div>
 <p><small>Mar <var>11</var>, <var>16:53</var> UTC</small><br /><strong>Investigating</strong> - CIE may have issues syncing directories with the Cloud Management service.<br />We will post an update by 12.30 pm PST</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 16:53:20 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 16:53:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud [APP2]: Emergency Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/mhrnr4xgqwf9</link>

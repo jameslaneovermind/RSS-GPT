@@ -6,16 +6,28 @@
 
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/m4ymtktj9855</link>
+<guid>https://status.equinix.com/incidents/m4ymtktj9855</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in EMEA
+Summary:
+An incident has been identified and a fix is being implemented for Equinix Fabric in EMEA. The outage is impacting the platform and is under investigation. <div>
+<p><small>Mar <var>11</var>, <var>17:48</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dlvn9gdvkj5s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031721</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MD, PA)]</div></p><p><small>Mar <var>11</var>, <var>17:34</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dlvn9gdvkj5s</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031721</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (MD, PA)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 17:48:14 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 17:48:14 +0000</pubDate>
+</item>
+
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/3pgh01fjlxt6</link>
 <guid>https://status.equinix.com/incidents/3pgh01fjlxt6</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric - Americas Experiencing Major Outage <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0031714. <div>
+<div> [High] - Equinix Fabric - Americas Experiencing Major Outage <br /><br /> The issue has been identified and a fix is being implemented. Incident Number: INC0031714. <div>
 <p><small>Mar <var>11</var>, <var>16:25</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">zc6hpjzrrd01</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031714</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI)]</div></p><p><small>Mar <var>11</var>, <var>16:11</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">zc6hpjzrrd01</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031714</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 16:25:47 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 16:25:47 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/8f1g32trchx9</link>

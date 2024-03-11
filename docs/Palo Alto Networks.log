@@ -2735,3 +2735,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [CIE may have issues syncing directories with the Cloud Management service](https://status.paloaltonetworks.com/incidents/3nyxtjvl6dm2)
 append_entries: 2
 Finish: 2024-03-11 17:09:21.052192
+------------------------------------------------------
+Started: 2024-03-11 18:11:36.392745
+Existing_entries: 105
+Fetching from https://status.paloaltonetworks.com/history.rss
+Token length: 226
+Summarized using GPT-3.5-turbo-1106
+Append: [Cloud management service can not fetch data from the CIE service](https://status.paloaltonetworks.com/incidents/lkync9rlv317)
+Token length: 226
+Summarized using GPT-3.5-turbo-1106
+Append: [Cloud management service can not fetch data from the CIE service](https://status.paloaltonetworks.com/incidents/x5tbntd65kky)
+append_entries: 2
+Finish: 2024-03-11 18:11:39.119622
