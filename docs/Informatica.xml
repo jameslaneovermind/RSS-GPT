@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>April 2024 Major release for IICS Sandbox (PRE-RELEASE)</title>
+<link>https://status.informatica.com/incidents/8x6zw23bzlg4</link>
+<guid>https://status.informatica.com/incidents/8x6zw23bzlg4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Release of Intelligent Data Management Cloud (IDMC) April 2024 <br><br> 
+The Intelligent Data Management Cloud (IDMC) April 2024 major release offers incredible new capabilities across all products, addressing key data challenges that businesses are facing today. The release is scheduled from 7:00am to 12:00pm PDT on March 18, 2024. More details can be found in the What’s New Guide, FAQ, and Release Readiness Documentation provided. Please refer to the resources for detailed information. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>07:00</var> - <var>12:00</var> PDT</strong></p><p><small>Mar <var>11</var>, <var>14:23</var> PDT</small><br /><strong>Scheduled</strong> - We are excited to announce the <b>Intelligent Data Management Cloud (IDMC) April 2024 major release.</b><br /><br /><b><p>Release Date Time:</p></b>March 18th, 2024 from 7:00am to 12:00pm Pacific Daylight Time.<br /><br />The Intelligent Data Management Cloud (IDMC) April 2024 major release offers incredible new capabilities across all our various products that address key data challenges that businesses are facing today. <br /><br />For more details about the April 2024 major release, please refer to the following resources:<br /><b><p style="color: rgb(255,106,19);">🆕 What’s New Guide:</p></b>Discover the latest capabilities in our What’s New Guide: https://onlinehelp.informatica.com/IICS/prod/WhatsNew/en/index.htm<br /><b><p style="color: rgb(255,106,19);">❓ FAQ:</p></b>Find answers to common questions and learn about any behavior changes in our FAQ: https://knowledge.informatica.com/s/article/IDMC-Release-FAQ?language=en_US<br /><b><p style="color: rgb(255,106,19);">📚 Release Readiness Documentation:</p></b>Gain a comprehensive understanding of release types and expectations, including Runtime Continuity for major releases, by visiting our Release Readiness documentation: https://docs.informatica.com/cloud-common-services/administrator/h2l/1772-release-readiness/landing-page.html<br /><b><p style="color: rgb(255,106,19);">🌑 Setting a Blackout Period:</p></b>Learn how to set a blackout period effectively by following this guide: https://docs.informatica.com/cloud-common-services/administrator/current-version/organization-administration/schedules/configuring-a-blackout-period.html<br /><b><p style="color: rgb(255,106,19);">🗓️ Stay Informed:</p></b>Keep track of all upcoming release and maintenance schedules for IDMC by visiting our Events page: https://network.informatica.com/s/event-landing</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 07:00:00 -0700</pubDate>
+<pubDate>Mon, 18 Mar 2024 07:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Minor Maintenance on EM West 1 Services for API Manager.</title>
