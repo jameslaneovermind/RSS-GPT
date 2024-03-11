@@ -5,6 +5,29 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Service Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/jtw8jy6zwqnr</link>
+<guid>https://status.equinix.com/incidents/jtw8jy6zwqnr</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Identified in Metro Connect EMEA (LD) <br><br> A critical incident has been identified in the Metro Connect - EMEA (LD) network. A fix is currently being implemented to resolve the issue. <div>
+<p><small>Mar <var>11</var>, <var>12:00</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">b48k378zk0df</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031670</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p><p><small>Mar <var>11</var>, <var>11:46</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">b48k378zk0df</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031670</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 12:00:56 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 12:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/t8x0j9m46gn4</link>
+<guid>https://status.equinix.com/incidents/t8x0j9m46gn4</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Equinix SMC Backbone Link Down<br><br>One of Equinix Fabric backbone links between APAC and EMEA is down, but there is no impact to your service as traffic is automatically rerouted to an alternate link. The issue is being investigated by the provider. <div>
+<p><small>Mar <var>11</var>, <var>11:31</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of Equinix Fabric backbone links between APAC and EMEA is down. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">27s7f9kb1t2z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031663</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (ML) & Asia-Pacific (SG); Equinix Fabric - Asia-Pacific (SG) & EMEA (ML)]</div></p><p><small>Mar <var>11</var>, <var>11:16</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">27s7f9kb1t2z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031663</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (ML) & Asia-Pacific (SG); Network Edge - EMEA (ML) & Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 11:31:56 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 11:31:56 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/f9x5xnx4gwyj</link>
 <guid>https://status.equinix.com/incidents/f9x5xnx4gwyj</guid>
@@ -14,9 +37,7 @@ Summary: The issue has been identified and a fix is being implemented. <div>
 <p><small>Mar <var>11</var>, <var>11:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bg98023hyb4c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031655</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA)]</div></p><p><small>Mar <var>11</var>, <var>10:47</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bg98023hyb4c</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031655</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, WA)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 11:01:42 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 11:01:42 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/s76nrk6cy4b9</link>
