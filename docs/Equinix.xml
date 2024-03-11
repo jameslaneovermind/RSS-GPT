@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/ht5pbwmn0xk5</link>
@@ -14,9 +15,7 @@ Summary: No major impact to services, issue automatically resolved, reported for
 <p><small>Mar <var>11</var>, <var>03:51</var> UTC</small><br /><strong>Update</strong> - Equinix SMC monitored that one of Equinix Fabric backbone links between APAC and AMER flapped and recovered within a minute. No impact to your service as traffic automatically rerouted to alternate link. The issue was reported to provider for investigation..<br /><div style="display: none;">599fq22gl950</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031614</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG); Network Edge - Americas (LA) & Asia-Pacific (SG)]</div></p><p><small>Mar <var>11</var>, <var>03:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">599fq22gl950</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031614</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA) & Asia-Pacific (SG); Network Edge - Asia-Pacific (SG) & Americas (LA)]</div></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 03:51:42 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 03:51:42 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/b21ryq9q7cgt</link>
