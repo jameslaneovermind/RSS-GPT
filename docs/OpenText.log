@@ -2851,3 +2851,9 @@ Append: [Core Share CA - Scheduled maintenance](https://status.opentext.com/inci
 Append: [Core Share Australia - Scheduled Maintenance](https://status.opentext.com/incidents/nfs6f66x9y4n)
 append_entries: 4
 Finish: 2024-03-11 14:08:29.968849
+------------------------------------------------------
+Started: 2024-03-11 15:09:47.063021
+Existing_entries: 59
+Fetching from https://status.opentext.com/history.rss
+append_entries: 0
+Finish: 2024-03-11 15:09:47.369285

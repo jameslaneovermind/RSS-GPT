@@ -4,6 +4,17 @@
 <title>Ring.com Status - Incident History</title>
 <link>https://status.ring.com</link>
 
+<item>
+<title>POSTMORTEM: Temporary issue with Magic Setup.</title>
+<link>https://status.ring.com/incidents/pmhwdmpc3qm4</link>
+<guid>https://status.ring.com/incidents/pmhwdmpc3qm4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Magic Setup QR Code Scanning Issue <br><br> Summary: The Magic Setup (QR code scanning) experienced an issue causing setup failure when scanning the QR code. Users were still able to manually set up the device. <div>
+<p><small>Mar <var>11</var>, <var>13:00</var> UTC</small><br /><strong>Resolved</strong> - Magic Setup (QR code scanning) had an issue that caused the setup to fail when scanning the QR code. Users could still manually setup the device.</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
+<pubDate>Mon, 11 Mar 2024 13:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Ring.com Displaying Incorrectly</title>

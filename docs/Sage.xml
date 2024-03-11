@@ -4,18 +4,17 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Authentication Service- Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/9c0plyfzd46w</link>
 <guid>https://status.sage.com/incidents/9c0plyfzd46w</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance Outage <br><br> Summary: The Authentication Service will be undergoing maintenance for 1 minute, causing a major outage for various Sage products. We apologize for any inconvenience. <div>
+<div> [High] - Major Maintenance Outage <br /><br /> Summary: The Authentication Service will be undergoing maintenance for 1 minute, causing a major outage for various Sage products. We apologize for any inconvenience. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>06:10</var> - <var>06:11</var> UTC</strong></p><p><small>Mar <var>11</var>, <var>13:11</var> UTC</small><br /><strong>Scheduled</strong> - Authentication Service will be undergoing maintenance on Tuesday March 12th 2024, for 1 minute, between 06:10 UTC and 06:11 UTC. (02:10 EST and 02:11 EST), (08:10 SAST and 08:11 SAST).<br /> <br />During this scheduled maintenance, the service will be unavailable for the products below.<br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team. <br /> <br />-------------------------------------------------------------------------------------- <br /> <br />Authentication Service estará en mantenimiento el Martes 12 de Marzo, de 2024, durante 1 minuto entre las 07:10 CET y las 07:11 CET. <br /> <br />El acceso a los siguientes servicios estará afectado durante este tiempo.<br /> <br />Pedimos disculpas por cualquier inconveniente que podamos causar. <br /> <br />Gracias El equipo de Sage. <br /> <br />------------------------------------------------------------------------------------- <br /> <br />Authentication Service sera en maintenance le Mardi 12 Mars, 2024, pendant 1 minute entre 07:10 CET et 07:11 CET. <br /> <br />L'accès aux services suivants peut être impacté pendant cette période. <br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer. <br /> <br />Merci. L'équipe Sage. <br /> <br />------------------------------------------------------------------------------------ <br /> <br />An Ihrem Authentication Service werden am Dienstag, 12. Marsch 2024, zwischen 07:10 MEZ und 07:11 MEZ. Wartungsarbeiten durchgeführt. <br /> <br />Der Zugriff auf die folgenden Dienste kann während dieser Zeit beeinträchtigt sein. <br /> <br />Wir entschuldigen uns für etwaige Unannehmlichkeiten. <br /> <br />Mit freundlichen Grüßen, Das Sage-Team<br /> <br />- Authentication Service <br />- Banking Service <br />- Sage 50 <br />- Sage Intacct <br />- Sage 200 <br />- SBCA <br />- Sage Network <br />- Sage X3 <br />- Making Tax Digital (MTD) <br />- Payments Acceptance Service <br />- Sage Evolution SDK (ZA)<br />- Sage Active<br />-Sage Despachos<br />-Sage FRP1000 (FR)<br />-Sage Online (FR)<br />-Sage 100 Partner Cloud (FR)</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 06:10:00 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 06:10:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Compliance Service - Degraded Performance</title>
 <link>https://status.sage.com/incidents/vzbw4m9981tv</link>
