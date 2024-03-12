@@ -4,19 +4,18 @@
 <title>CircleCI Status - Incident History</title>
 <link>https://status.circleci.com</link>
 
+
 <item>
 <title>Pipelines are not visible in the UI</title>
 <link>https://status.circleci.com/incidents/5t9yjl6cq2gq</link>
 <guid>https://status.circleci.com/incidents/5t9yjl6cq2gq</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Issues loading pipelines in CircleCI UI <br><br> Summary: Some customers are experiencing issues loading pipelines in the CircleCI UI, which may indicate a major outage caused by a configuration change to the system. The company has identified the cause and is working on applying a fix.
+<div> [High] - Major Incident: Issues loading pipelines in CircleCI UI <br /><br /> Summary: Some customers are experiencing issues loading pipelines in the CircleCI UI, which may indicate a major outage caused by a configuration change to the system. The company has identified the cause and is working on applying a fix.
  <div>
 <p><small>Mar <var>12</var>, <var>14:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>12</var>, <var>14:26</var> UTC</small><br /><strong>Update</strong> - We are continuing to monitor for any further issues.</p><p><small>Mar <var>12</var>, <var>14:22</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>12</var>, <var>14:13</var> UTC</small><br /><strong>Identified</strong> - Some customers may experience issues loading pipelines in the CircleCI UI. (Note that pipelines can still be triggered successfully)<br /><br />We have identified the cause and are working to apply a fix.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 14:27:44 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 14:27:44 +0000</pubDate>
 </item>
-
 <item>
 <title>Job step output is not displayed</title>
 <link>https://status.circleci.com/incidents/bxh29092xxm8</link>

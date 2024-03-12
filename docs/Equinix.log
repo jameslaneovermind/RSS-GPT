@@ -3608,3 +3608,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Emergency Network maintenance - TR Metro (Equinix Metal)](https://status.equinix.com/incidents/0dvcjmqpvmmk)
 append_entries: 1
 Finish: 2024-03-12 15:09:04.383912
+------------------------------------------------------
+Started: 2024-03-12 16:11:52.731419
+Existing_entries: 374
+Fetching from https://status.equinix.com/history.rss
+Token length: 293
+Summarized using GPT-3.5-turbo-1106
+Append: [Link Failure (Equinix Fabric)](https://status.equinix.com/incidents/x7xs53dj2w44)
+append_entries: 1
+Finish: 2024-03-12 16:11:54.061603

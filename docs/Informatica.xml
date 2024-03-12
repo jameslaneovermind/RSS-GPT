@@ -5,17 +5,27 @@
 <link>https://status.informatica.com</link>
 
 <item>
+<title>Global Phone Verification Cloud March Reference Data Updates</title>
+<link>https://status.informatica.com/incidents/mtvhnrlcb3bk</link>
+<guid>https://status.informatica.com/incidents/mtvhnrlcb3bk</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Informatica Cloud Operations Update Reference Data for Global Phone Verification Cloud Services <br><br> No impact on running jobs or services due to scheduled update of reference data by Informatica Cloud Operations. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>07:00</var> - <var>09:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>09:01</var> PDT</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will update reference data used by Global Phone Verification Cloud services. This is a Zero Downtime activity with no impact on running jobs or services.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 07:00:00 -0700</pubDate>
+<pubDate>Tue, 19 Mar 2024 07:00:00 -0700</pubDate>
+</item>
+
+<item>
 <title>Upcoming Maintenance on February Upgraded PODs for importing LDO profile failing with internal DTM error</title>
 <link>https://status.informatica.com/incidents/cghn69gws8kg</link>
 <guid>https://status.informatica.com/incidents/cghn69gws8kg</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Patch Deployment for IICS US West 5 and IICS EM West 1 Services <br><br> Informatica Cloud Operations will be applying a patch on IICS US West 5 Services, IICS EM West 1 Services to resolve an issue without impacting running jobs or services. No action is required. <div>
+<div> [Low] - Patch Deployment for IICS US West 5 and IICS EM West 1 Services <br /><br /> Informatica Cloud Operations will be applying a patch on IICS US West 5 Services, IICS EM West 1 Services to resolve an issue without impacting running jobs or services. No action is required. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>04:30</var> - <var>06:30</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>07:13</var> PDT</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be applying a patch on IICS US West 5 Services, IICS EM West 1 Services, which is a February Upgraded POD for Cloud Data Profiling services. This is to resolve the failure of source mapplet Profile asset import. This is a Zero Downtime deployment and will not impact running jobs or services.<br /><br /><b> Action Required:  </b> None</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 04:30:00 -0700</pubDate>
-<pubDate>Wed, 13 Mar 2024 04:30:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Address Verification Cloud Engine Update</title>
 <link>https://status.informatica.com/incidents/06syxxwqsnkv</link>

@@ -4,6 +4,18 @@
 <title>HubSpot Status - Incident History</title>
 <link>https://status.hubspot.com</link>
 
+<item>
+<title>HubSpot is currently unavailable for some customers.</title>
+<link>https://status.hubspot.com/incidents/590gy6mpxjhk</link>
+<guid>https://status.hubspot.com/incidents/590gy6mpxjhk</guid>
+<content:encoded><![CDATA[
+<div> [High] - HubSpot Unavailability
+Summary: HubSpot is currently unavailable for some users as we investigate the cause of this major issue. We'll provide updates once we have more information. <div>
+<p><small>Mar <var>12</var>, <var>11:40</var> EDT</small><br /><strong>Investigating</strong> - HubSpot is currently unavailable for some users. We're investigating the cause of this issue, and we'll update this page when we have more information.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 11:40:40 -0400</pubDate>
+<pubDate>Tue, 12 Mar 2024 11:40:40 -0400</pubDate>
+</item>
 
 <item>
 <title>Workflows was unavailable for some users</title>

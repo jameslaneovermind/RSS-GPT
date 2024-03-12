@@ -5,6 +5,19 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/x7xs53dj2w44</link>
+<guid>https://status.equinix.com/incidents/x7xs53dj2w44</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric EMEA (AM) Outage Identified
+Summary: An issue has been identified and a fix is being implemented for a major outage in Equinix Fabric EMEA (AM).  Incident Number: INC0031854. <div>
+<p><small>Mar <var>12</var>, <var>16:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">56rdcypyr42n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031854</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p><p><small>Mar <var>12</var>, <var>15:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">56rdcypyr42n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031854</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 16:08:58 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 16:08:58 +0000</pubDate>
+</item>
+
+<item>
 <title>Emergency Network maintenance - TR Metro (Equinix Metal)</title>
 <link>https://status.equinix.com/incidents/0dvcjmqpvmmk</link>
 <guid>https://status.equinix.com/incidents/0dvcjmqpvmmk</guid>
@@ -14,9 +27,7 @@ Summary: Equinix Metal is currently undergoing scheduled maintenance, with updat
 <p><small>Mar <var>12</var>, <var>14:51</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (TR) & Global Services (Network)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 14:51:34 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 14:51:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Power Issue (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/yt5wgt8sx1j9</link>
