@@ -3292,3 +3292,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Account Security Carrier Partner Maintenance - Three UK](https://status.twilio.com/incidents/2lb4qqx5bs28)
 append_entries: 3
 Finish: 2024-03-12 16:11:18.137946
+------------------------------------------------------
+Started: 2024-03-12 17:08:29.677701
+Existing_entries: 146
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-03-12 17:08:29.901042

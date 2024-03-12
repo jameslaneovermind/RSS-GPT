@@ -4,18 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+
 <item>
 <title>Global Phone Verification Cloud March Reference Data Updates</title>
 <link>https://status.informatica.com/incidents/mtvhnrlcb3bk</link>
 <guid>https://status.informatica.com/incidents/mtvhnrlcb3bk</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Informatica Cloud Operations Update Reference Data for Global Phone Verification Cloud Services <br><br> No impact on running jobs or services due to scheduled update of reference data by Informatica Cloud Operations. <div>
+<div> [Low] - Informatica Cloud Operations Update Reference Data for Global Phone Verification Cloud Services <br /><br /> No impact on running jobs or services due to scheduled update of reference data by Informatica Cloud Operations. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>07:00</var> - <var>09:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>09:01</var> PDT</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will update reference data used by Global Phone Verification Cloud services. This is a Zero Downtime activity with no impact on running jobs or services.</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 07:00:00 -0700</pubDate>
-<pubDate>Tue, 19 Mar 2024 07:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Upcoming Maintenance on February Upgraded PODs for importing LDO profile failing with internal DTM error</title>
 <link>https://status.informatica.com/incidents/cghn69gws8kg</link>

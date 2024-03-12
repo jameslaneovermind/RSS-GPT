@@ -4,19 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Sage Business Cloud Accounting (EU) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/2bxz95dc6lf5</link>
 <guid>https://status.sage.com/incidents/2bxz95dc6lf5</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for Sage Business Cloud Accounting (EU) <br><br> Certain features in Accounting will be unavailable during the scheduled maintenance on March 19th, 2024. We apologize for any inconvenience.
+<div> [Medium] - Scheduled Maintenance for Sage Business Cloud Accounting (EU) <br /><br /> Certain features in Accounting will be unavailable during the scheduled maintenance on March 19th, 2024. We apologize for any inconvenience.
  <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>22:00</var> - <var>23:00</var> UTC</strong></p><p><small>Mar <var>12</var>, <var>15:46</var> UTC</small><br /><strong>Scheduled</strong> - Sage Business Cloud Accounting (EU) will be undergoing maintenance on Tuesday, March 19h 2024, for 1 hour between 23:00 CET and 00:00 CET, on March 20th. <br /><br />Certain features in Accounting will be unavailable during this scheduled time.<br /><br />We apologise for any inconvenience this may cause. <br /><br />Thank you. The Sage Team<br /><br />-----------------------------------------------------------<br /><br />Sage Business Cloud Accounting (EU) estará en mantenimiento el Martes 19 de Marzo, de 2024, durante 1 hora entre las 23:00 CET y las 00:00 CET, del 20 de Marzo.<br /> <br />Ciertas funcionalidades del servicio no estarán disponibles durante este período de tiempo.<br /> <br />Pedimos disculpas por cualquier inconveniente que podamos causar. <br /> <br />Gracias El equipo de Sage. <br /><br />------------------------------------------------------------<br /><br />Sage Business Cloud Accounting (EU) sera en maintenance le Mardi 19 Mars, 2024, pendant 1 heure entre 23:00 CET et 00:00 CET, le 20 Mars. <br /> <br />Certaines fonctionnalités du service ne seront pas disponibles pendant cette période<br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer. <br /> <br />Merci. L'équipe Sage.</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
-<pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Intacct  - Partial Outage</title>
 <link>https://status.sage.com/incidents/6t72tqy63k0l</link>
