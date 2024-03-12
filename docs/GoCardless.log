@@ -3069,3 +3069,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Scheduled downtime of sandbox database](https://www.gocardless-status.com/incidents/fnyc37fvxbkg)
 append_entries: 1
 Finish: 2024-03-12 12:14:29.496446
+------------------------------------------------------
+Started: 2024-03-12 13:09:03.106119
+Existing_entries: 31
+Fetching from https://www.gocardless-status.com/history.rss
+Token length: 428
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled maintenance of production database](https://www.gocardless-status.com/incidents/dm2st263dymc)
+append_entries: 1
+Finish: 2024-03-12 13:09:04.427744

@@ -4,19 +4,18 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>WildFire India Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/5fd21mnnlfcr</link>
 <guid>https://status.paloaltonetworks.com/incidents/5fd21mnnlfcr</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance for WildFire India Cloud <br><br> 
+<div> [High] - Major Service Maintenance for WildFire India Cloud <br /><br /> 
 Customers may encounter intermittent disconnection and detection delays during the maintenance window on March 12th, 2024 from 12:15 UTC to 13:15 UTC. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>12:15</var> - <var>13:15</var> UTC</strong></p><p><small>Mar <var>12</var>, <var>12:06</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire India Cloud on March 12th, 2024 from 12:15 UTC to 13:15 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 12:15:00 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 12:15:00 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Global Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/5f94mc9gwnl4</link>
