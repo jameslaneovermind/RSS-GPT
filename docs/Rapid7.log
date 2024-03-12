@@ -2755,3 +2755,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [InsightIDR (EU, CA, US2, US1) - Scheduled maintenance](https://status.rapid7.com/incidents/2xhcfj5jtsww)
 append_entries: 1
 Finish: 2024-03-12 21:09:11.370222
+------------------------------------------------------
+Started: 2024-03-12 22:08:50.572293
+Existing_entries: 45
+Fetching from https://status.rapid7.com/history.rss
+append_entries: 0
+Finish: 2024-03-12 22:08:50.848653

@@ -4,6 +4,7 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+
 <item>
 <title>Sonos Services - Sonos Pro Web Controller Overview Browse Issues</title>
 <link>https://status.sonos.com/incidents/42jx3l9tkj78</link>
@@ -14,9 +15,7 @@ Summary: A problem with the company's cloud services has been identified, causin
 <p><small>Mar <var>12</var>, <var>21:02</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>12</var>, <var>20:16</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with our cloud services and are working on a fix. You may experience issues with Sonos Pro Web Controller Overview until it's resolved.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 21:02:16 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 21:02:16 +0000</pubDate>
 </item>
-
 <item>
 <title>I Love Music - Browse Issue</title>
 <link>https://status.sonos.com/incidents/rjb8q0wfx9b9</link>

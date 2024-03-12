@@ -4,18 +4,17 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/72k072yx2rf9</link>
 <guid>https://status.bubble.io/incidents/72k072yx2rf9</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Issues with Main Bubble Cluster <br><br> Our automated systems have detected potential issues with the main Bubble cluster. We are currently investigating... Summary: There are potential major issues with the main Bubble cluster, causing platform downtime and requiring immediate investigation. <div>
+<div> [High] - Potential Issues with Main Bubble Cluster <br /><br /> Our automated systems have detected potential issues with the main Bubble cluster. We are currently investigating... Summary: There are potential major issues with the main Bubble cluster, causing platform downtime and requiring immediate investigation. <div>
 <p><small>Mar <var>12</var>, <var>17:03</var> EDT</small><br /><strong>Investigating</strong> - Our automated systems have detected potential issues with the main Bubble cluster.  We are currently investigating...</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 17:03:21 -0400</pubDate>
-<pubDate>Tue, 12 Mar 2024 17:03:21 -0400</pubDate>
 </item>
-
 <item>
 <title>Planned plugin maintenance</title>
 <link>https://status.bubble.io/incidents/xyd81clxsktb</link>
