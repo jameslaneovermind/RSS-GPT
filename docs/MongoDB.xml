@@ -4,20 +4,19 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+
 <item>
 <title>Atlas Cluster creation and metrics delay for Atlas For Government</title>
 <link>https://status.mongodb.com/incidents/2l28kb9h9gbg</link>
 <guid>https://status.mongodb.com/incidents/2l28kb9h9gbg</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Atlas for Government Environment <br><br> Delays in cluster creation and monitoring metrics are being experienced in our Atlas for Government environment. A full recovery is expected within 15 minutes.
+<div> [High] - Major Outage in Atlas for Government Environment <br /><br /> Delays in cluster creation and monitoring metrics are being experienced in our Atlas for Government environment. A full recovery is expected within 15 minutes.
 
  <div>
 <p><small>Mar <var>11</var>, <var>22:39</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>11</var>, <var>22:23</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented as we are monitoring the results.</p><p><small>Mar <var>11</var>, <var>22:10</var> UTC</small><br /><strong>Identified</strong> - We have identified the issue, and expect a full recovery within 15 minutes.</p><p><small>Mar <var>11</var>, <var>22:08</var> UTC</small><br /><strong>Investigating</strong> - Our Atlas for Government environment is experiencing delays in cluster creation and monitoring metrics.</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 22:39:30 +0000</pubDate>
-<pubDate>Mon, 11 Mar 2024 22:39:30 +0000</pubDate>
 </item>
-
 <item>
 <title>User changes delayed for some serverless instances in AWS us-east-1</title>
 <link>https://status.mongodb.com/incidents/3llr8kq8hk1p</link>
