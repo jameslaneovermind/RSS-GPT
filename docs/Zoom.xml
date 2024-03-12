@@ -4,18 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for Cloudfront SSL Certificate for Zoom Phone experience</title>
 <link>https://status.zoom.us/incidents/1nkbsxqj5ycx</link>
 <guid>https://status.zoom.us/incidents/1nkbsxqj5ycx</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Scheduled Maintenance for Zoom Phone Experience <br><br> Zoom will be performing service maintenance to replace the Cloudfront certificate with a new certificate signed by DigiCert Global Root G2 certificate authority. No expected downtime for this change. Scheduled for April 5th, 2024 from 5:00 PM to 10:00 PM PDT. Summary: No expected downtime for the maintenance activity. <div>
+<div> [Low] - Scheduled Maintenance for Zoom Phone Experience <br /><br /> Zoom will be performing service maintenance to replace the Cloudfront certificate with a new certificate signed by DigiCert Global Root G2 certificate authority. No expected downtime for this change. Scheduled for April 5th, 2024 from 5:00 PM to 10:00 PM PDT. Summary: No expected downtime for the maintenance activity. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>5</var>, <var>17:00</var> - <var>22:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>10:10</var> PDT</small><br /><strong>Scheduled</strong> - Zoom will perform service maintenance in the following URL(s) used by Zoom Phone experience to replace the Cloudfront certificate with a new certificate that signed by DigiCert Global Root G2 certificate authority.<br />No expected downtime for this change.<br /><br />DNS name                          Maintenance Window<br />hybridupdate.zoom.us        4-5-2024, 05:00 PM - 10:00 PM PDT</p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
-<pubDate>Fri, 05 Apr 2024 17:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Singapore Zoom Phone Maintenance</title>
 <link>https://status.zoom.us/incidents/9rrlms1q7n6t</link>
