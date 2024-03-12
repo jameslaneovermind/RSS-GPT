@@ -4,18 +4,17 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>ATS/CRM - CLS29, CLS91, CLS99</title>
 <link>https://status.bullhorn.com/incidents/909ywn869jrr</link>
 <guid>https://status.bullhorn.com/incidents/909ywn869jrr</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Release of Bullhorn ATS/CRM <br><br> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
+<div> [Medium] - Scheduled Release of Bullhorn ATS/CRM <br /><br /> The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>12</var>, <var>21:00</var> - <var>23:00</var> EDT</strong></p><p><small>Mar <var>11</var>, <var>21:00</var> EDT</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS29, CLS91, CLS99<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 21:00:00 -0400</pubDate>
-<pubDate>Tue, 12 Mar 2024 21:00:00 -0400</pubDate>
 </item>
-
 <item>
 <title>ATS/CRM - CLS60, CLS70, CLS66, CLS71, CLS30, CLS31, CLS32, CLS33, CLS34, CLS35, CLS189, CLS43, CLS42, CLS41, CLS40, CLS44, CLS20, CLS21, CLS22, CLS23</title>
 <link>https://status.bullhorn.com/incidents/dwxxq9x1ffb4</link>

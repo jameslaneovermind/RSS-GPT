@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/vvn4r85sn7ys</link>
 <guid>https://status.equinix.com/incidents/vvn4r85sn7ys</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage <br><br> A fix is being implemented for an identified issue with Equinix Fabric in the EMEA region. <div>
+<div> [High] - Equinix Fabric Outage <br /><br /> A fix is being implemented for an identified issue with Equinix Fabric in the EMEA region. <div>
 <p><small>Mar <var>12</var>, <var>01:08</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">n6zk5ll6ghkw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031781</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (PA, ZH)]</div></p><p><small>Mar <var>12</var>, <var>00:52</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">n6zk5ll6ghkw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031781</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (PA, ZH)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 01:08:12 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 01:08:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Power Issue (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/zdzf2cfl80dt</link>

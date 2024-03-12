@@ -4,6 +4,17 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Planned Maintenance for Operational Insights</title>
+<link>https://status.informatica.com/incidents/t8c9l2tfd4v1</link>
+<guid>https://status.informatica.com/incidents/t8c9l2tfd4v1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Informatica Cloud Operations Update <br><br> During the scheduled maintenance window, there may be delays in processing alerts as Informatica Cloud Operations will be updating a microservice which affects Operational Insight. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>26</var>, <var>20:00</var> - <var>22:00</var> PDT</strong></p><p><small>Mar <var>11</var>, <var>18:56</var> PDT</small><br /><strong>Scheduled</strong> - Informatica Cloud Operations will be updating a microservice which affects Operational Insight.  While this will be a Zero Downtime deployment, there may be delays in processing alerts during the maintenance window.</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 20:00:00 -0700</pubDate>
+<pubDate>Tue, 26 Mar 2024 20:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>April 2024 Major release for IICS Sandbox (PRE-RELEASE)</title>
