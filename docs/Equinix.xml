@@ -5,14 +5,39 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/4pscfs9q80wx</link>
+<guid>https://status.equinix.com/incidents/4pscfs9q80wx</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric - Americas (CH, DE) Incident Identified
+Summary: A fix is being implemented for the issue that has been identified, indicating a major outage that is currently being addressed. <div>
+<p><small>Mar <var>12</var>, <var>07:53</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">j6p1rk7wndg6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031815</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DE)]</div></p><p><small>Mar <var>12</var>, <var>07:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">j6p1rk7wndg6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031815</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DE)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 07:53:15 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 07:53:15 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/9q9sfpvbdndq</link>
+<guid>https://status.equinix.com/incidents/9q9sfpvbdndq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Issue Identified and Fix in Progress <br><br> An issue has been identified on Equinix Fabric in the Americas with an incident number INC0031816. A fix is currently being implemented to resolve the issue.
+
+This status report indicates a major issue with Equinix Fabric in the Americas, impacting a large number of users and requiring immediate attention to resolve. <div>
+<p><small>Mar <var>12</var>, <var>07:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">35wr7m6qxr6v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031816</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SE, SV)]</div></p><p><small>Mar <var>12</var>, <var>07:36</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">35wr7m6qxr6v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031816</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SE, SV)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 07:52:56 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 07:52:56 +0000</pubDate>
+</item>
+
+<item>
 <title>Power Issue (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/8h1rcgp34yk9</link>
 <guid>https://status.equinix.com/incidents/8h1rcgp34yk9</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Platform Outage <br><br> We are currently investigating the issue and a fix is being implemented. The incident has been identified as a large scale outage affecting the Metro Connect - EMEA (GV) region. Incident Number: INC0031811. <div>
+<div> [High] - Major Platform Outage <br /><br /> We are currently investigating the issue and a fix is being implemented. The incident has been identified as a large scale outage affecting the Metro Connect - EMEA (GV) region. Incident Number: INC0031811. <div>
 <p><small>Mar <var>12</var>, <var>06:51</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dyt76vdb63vz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031811</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (GV)]</div></p><p><small>Mar <var>12</var>, <var>06:37</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dyt76vdb63vz</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031811</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (GV)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Mar 2024 06:51:52 +0000</pubDate>
 <pubDate>Tue, 12 Mar 2024 06:51:52 +0000</pubDate>
 </item>
 <item>
@@ -26,9 +51,7 @@ An issue has been identified in Equinix Fabric - Americas and a fix is currently
 <p><small>Mar <var>12</var>, <var>06:36</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">btwxskfc97f9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031808</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DC)]</div></p><p><small>Mar <var>12</var>, <var>06:22</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">btwxskfc97f9</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031808</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DC)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 06:36:47 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 06:36:47 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/vvn4r85sn7ys</link>
