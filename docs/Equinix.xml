@@ -5,18 +5,28 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Network Edge, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/dp4lbbj5h711</link>
+<guid>https://status.equinix.com/incidents/dp4lbbj5h711</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Outage Identified <br><br> We are currently investigating this issue. <div>
+<p><small>Mar <var>12</var>, <var>20:51</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">98p69y80mhlf</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031872</div><div class="affected-products font-small color-secondary">[Network Edge - Americas (CH, DA); Equinix Fabric - Americas (CH, DA)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 20:51:47 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 20:51:47 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/j466r9zkcdj9</link>
 <guid>https://status.equinix.com/incidents/j466r9zkcdj9</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage in Asia-Pacific (SG, TY) <br><br> We are currently investigating a critical issue with Equinix Fabric in the Asia-Pacific region, which is causing platform downtime.
+<div> [High] - Equinix Fabric Outage in Asia-Pacific (SG, TY) <br /><br /> We are currently investigating a critical issue with Equinix Fabric in the Asia-Pacific region, which is causing platform downtime.
  <div>
 <p><small>Mar <var>12</var>, <var>20:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">nc4qh57s018m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031869</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 20:08:15 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 20:08:15 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/szt7002d518y</link>
