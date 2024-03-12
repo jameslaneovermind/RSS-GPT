@@ -4,18 +4,17 @@
 <title>Snowflake Status - Incident History</title>
 <link>https://status.snowflake.com</link>
 
+
 <item>
 <title>Azure - Japan East (Tokyo, Saitama): INC0104291</title>
 <link>https://status.snowflake.com/incidents/yphlk97yskp8</link>
 <guid>https://status.snowflake.com/incidents/yphlk97yskp8</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Snowflake Data Cloud <br><br> Investigating an issue with Snowflake Data Cloud causing delays for customers accessing or using services and features. Started at 22:00 UTC on March 11, 2024. <div>
+<div> [High] - Major Outage in Snowflake Data Cloud <br /><br /> Investigating an issue with Snowflake Data Cloud causing delays for customers accessing or using services and features. Started at 22:00 UTC on March 11, 2024. <div>
 <p><small>Mar <var>11</var>, <var>16:50</var> PDT</small><br /><strong>Investigating</strong> - <b>Current status:</b> We're investigating an issue with Snowflake Data Cloud. We'll provide an update within 60 minutes.<br /><b>Customer experience:</b> Customers hosted in the specified regions may experience delays while attempting to access or use Snowflake services and features.<br /><b>Incident start time:</b> 22:00 UTC March 11, 2024</p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 16:50:18 -0700</pubDate>
-<pubDate>Mon, 11 Mar 2024 16:50:18 -0700</pubDate>
 </item>
-
 <item>
 <title>AWS - US East (N. Virginia): INC0104040</title>
 <link>https://status.snowflake.com/incidents/xf760ltkkrj7</link>
