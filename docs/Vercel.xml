@@ -4,18 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>Vercel KV Connectivity Issues - Global eu-central-1</title>
 <link>https://www.vercel-status.com/incidents/tqx3tcqppczf</link>
 <guid>https://www.vercel-status.com/incidents/tqx3tcqppczf</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Performance Degradation in `eu-central-1` Region <br><br> Our upstream provider Upstash is investigating reports of degraded performance in the `eu-central-1` region. Downtime may be expected as the issue is being investigated. Please refer to the Upstash status page for updates. <br><br>Summary: Upstash is currently investigating reports of degraded performance in the `eu-central-1` region, which may cause downtime for users. <div>
+<div> [High] - Major Performance Degradation in `eu-central-1` Region <br /><br /> Our upstream provider Upstash is investigating reports of degraded performance in the `eu-central-1` region. Downtime may be expected as the issue is being investigated. Please refer to the Upstash status page for updates. <br /><br />Summary: Upstash is currently investigating reports of degraded performance in the `eu-central-1` region, which may cause downtime for users. <div>
 <p><small>Mar <var>12</var>, <var>09:51</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>12</var>, <var>09:44</var> UTC</small><br /><strong>Investigating</strong> - Our upstream provider Upstash is investigating reports of degraded performance in the `eu-central-1` region.<br /><br />The link to the incident via Upstash: https://status.upstash.com/incidents/27331wbrcll2</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 09:51:16 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 09:51:16 +0000</pubDate>
 </item>
-
 <item>
 <title>Vercel KV Connectivity Issues - Global Ap-Southeast-1</title>
 <link>https://www.vercel-status.com/incidents/mf537rc2lj4y</link>

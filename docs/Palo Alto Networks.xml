@@ -4,6 +4,28 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>WildFire Global Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/5f94mc9gwnl4</link>
+<guid>https://status.paloaltonetworks.com/incidents/5f94mc9gwnl4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage and Detection Delays <br><br> Scheduled maintenance is currently in progress for WildFire Global Cloud, causing intermittent disconnection and detection delays for customers. <div>
+<p><small>Mar <var>12</var>, <var>11:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>12</var>, <var>10:52</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Global Cloud on March 12th, 2024 from 11:00 UTC to 13:00 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 11:00:56 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 11:00:56 +0000</pubDate>
+</item>
+<item>
+<title>WildFire EU Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/ckq13pcgx4lc</link>
+<guid>https://status.paloaltonetworks.com/incidents/ckq13pcgx4lc</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance for WildFire EU Cloud <br><br> Customers may encounter intermittent disconnection and detection delays during the maintenance window. <div>
+<p><small>Mar <var>12</var>, <var>10:25</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>12</var>, <var>10:18</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire EU Cloud on March 12th, 2024 from 10:25 UTC to 11:25 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 10:25:56 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 10:25:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Cloud management service can not fetch data from the CIE service</title>

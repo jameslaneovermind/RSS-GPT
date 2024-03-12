@@ -5,19 +5,29 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Power Issue (Network Edge, Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/yt5wgt8sx1j9</link>
+<guid>https://status.equinix.com/incidents/yt5wgt8sx1j9</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigation of Network Issue in Asia-Pacific and EMEA Regions <br><br> We are currently investigating a network issue in the Asia-Pacific and EMEA regions. An incident has been identified, and a fix is being implemented. <div>
+<p><small>Mar <var>12</var>, <var>10:43</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">f2lsbc2d8d0g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031828</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB) & EMEA (ML); Network Edge - EMEA (ML)]</div></p><p><small>Mar <var>12</var>, <var>10:27</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">f2lsbc2d8d0g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031828</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (ML); Equinix Fabric - EMEA (ML) & Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 10:43:44 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 10:43:44 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric, Metro Connect)</title>
 <link>https://status.equinix.com/incidents/fd5cr5686t48</link>
 <guid>https://status.equinix.com/incidents/fd5cr5686t48</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage of Dark Fiber Link between SP3 and SP4 IBX <br><br> Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits are experiencing service interruption. Protected Metro Connect circuits also experienced a 50ms switching hit. Equinix engineers are currently investigating the issue.
+<div> [High] - Major Outage of Dark Fiber Link between SP3 and SP4 IBX <br /><br /> Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits are experiencing service interruption. Protected Metro Connect circuits also experienced a 50ms switching hit. Equinix engineers are currently investigating the issue.
 
  <div>
 <p><small>Mar <var>12</var>, <var>09:55</var> UTC</small><br /><strong>Update</strong> - Dark fiber link between SP3 and SP4 IBX went down at 09:27 AM UTC<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">g32ykkz26382</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031824</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p><p><small>Mar <var>12</var>, <var>09:40</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">g32ykkz26382</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031824</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (SP); Metro Connect - Americas (SP)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 09:55:57 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 09:55:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/6tf4nkw1dbh4</link>
