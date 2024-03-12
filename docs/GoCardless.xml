@@ -4,6 +4,18 @@
 <title>GoCardless Status - Incident History</title>
 <link>https://www.gocardless-status.com</link>
 
+<item>
+<title>Scheduled downtime of sandbox database</title>
+<link>https://www.gocardless-status.com/incidents/fnyc37fvxbkg</link>
+<guid>https://www.gocardless-status.com/incidents/fnyc37fvxbkg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Database Improvements Scheduled
+Summary: On Wednesday, 20th March between 5pm and 6pm UTC/GMT, major improvements to our sandbox database will be performed. Payments will not be processed for 60 minutes during this time. IBP payment creation in sandbox will be unavailable. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>17:00</var> - <var>18:00</var> GMT</strong></p><p><small>Mar <var>12</var>, <var>11:58</var> GMT</small><br /><strong>Scheduled</strong> - On Wednesday, 20th March between 5pm and 6pm UTC/GMT, we will be performing improvements to our sandbox database. During this time, you will still be able to access the sandbox environment in the dashboard but payments will not be processed for 60 minutes. IBP payment creation in sandbox will be unavailable during this time.</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 17:00:00 +0000</pubDate>
+<pubDate>Wed, 20 Mar 2024 17:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Merchants receiving potentially incorrect billing e-mails</title>
