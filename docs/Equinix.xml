@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Service Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/24mbymzn9ctw</link>
 <guid>https://status.equinix.com/incidents/24mbymzn9ctw</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric Outage Incident <br><br> The issue has been identified and a fix is being implemented. We are currently investigating the issue. Incident Number: INC0031876[Equinix Fabric - EMEA (HH, SK)] <div>
+<div> [High] - Equinix Fabric Outage Incident <br /><br /> The issue has been identified and a fix is being implemented. We are currently investigating the issue. Incident Number: INC0031876[Equinix Fabric - EMEA (HH, SK)] <div>
 <p><small>Mar <var>12</var>, <var>21:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">0rk9n21wd428</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031876</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SK)]</div></p><p><small>Mar <var>12</var>, <var>21:35</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">0rk9n21wd428</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031876</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SK)]</div></p>
 ]]></content:encoded>
-<pubDate>Tue, 12 Mar 2024 21:50:43 +0000</pubDate>
 <pubDate>Tue, 12 Mar 2024 21:50:43 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.equinix.com/incidents/38cj1tyrwpl0</link>
 <guid>https://status.equinix.com/incidents/38cj1tyrwpl0</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage and Fix Implementation <br><br> We are currently investigating an identified issue with Equinix Internet Access and Equinix Connect in the AMER (SV) region. A fix is being implemented to resolve the incident. <div>
+<div> [High] - Major Outage and Fix Implementation <br /><br /> We are currently investigating an identified issue with Equinix Internet Access and Equinix Connect in the AMER (SV) region. A fix is being implemented to resolve the incident. <div>
 <p><small>Mar <var>12</var>, <var>21:35</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">s6wt1ktt077m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031874</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SV)]</div></p><p><small>Mar <var>12</var>, <var>21:20</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">s6wt1ktt077m</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031874</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SV)]</div></p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 21:35:33 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 21:35:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/dp4lbbj5h711</link>
