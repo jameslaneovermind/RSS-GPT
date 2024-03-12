@@ -3563,3 +3563,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/6tf4nkw1dbh4)
 append_entries: 1
 Finish: 2024-03-12 09:12:01.059655
+------------------------------------------------------
+Started: 2024-03-12 10:09:32.722046
+Existing_entries: 371
+Fetching from https://status.equinix.com/history.rss
+Token length: 585
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Fabric, Metro Connect)](https://status.equinix.com/incidents/fd5cr5686t48)
+append_entries: 1
+Finish: 2024-03-12 10:09:34.355325
