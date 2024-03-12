@@ -4,6 +4,19 @@
 <title>eToro Status - Incident History</title>
 <link>https://status.etoro.com</link>
 
+<item>
+<title>Scheduled Maintenance</title>
+<link>https://status.etoro.com/incidents/dzw2y5z9ly6v</link>
+<guid>https://status.etoro.com/incidents/dzw2y5z9ly6v</guid>
+<content:encoded><![CDATA[
+<div> [High] - Ethereum Network Upgrade (Dencun) <br><br> 
+The Ethereum $ETH blockchain will undergo a scheduled network upgrade (“Dencun”) on March 13th 2024 at approximately 13:55 UTC. During this time, eToro Money crypto wallet send services for $ETH will not be available, and coin transfer services may experience delays. Additionally, send services for ERC-20 tokens will not be available for this period. Trading of $ETH is not expected to be affected unless the upgraded network is deemed unstable.
+ <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>13:55</var> - <var>14:55</var> UTC</strong></p><p><small>Mar <var>12</var>, <var>08:40</var> UTC</small><br /><strong>Scheduled</strong> - Please note that the Ethereum $ETH blockchain will undergo a scheduled network upgrade (“Dencun”). <br /><br />The upgrade is estimated to take place on March 13th 2024, at epoch #2,695,682, at approximately 13:55 UTC and should last for a short period. <br /><br />eToro Money crypto wallet send services for $ETH will not be available for one hour prior to as well as during the fork. <br /><br />Coin transfer services for $ETH may not be fully available for 3 hours prior to as well as during the fork, and coin transfer requests will be delayed until the upgrade has completed, and the network deemed stable. <br /><br />Additionally, send services for ERC-20 tokens will not be available for this period. <br /><br />Accessing and trading of $ETH are not expected to be affected unless we deem the upgraded network unstable. If this occurs, $ETH trading services will be disabled until the network stabilizes.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 13:55:00 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 13:55:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Cryptos wrongly triggered by TP</title>

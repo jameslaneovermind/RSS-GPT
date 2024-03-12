@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>User may have  noticed intermittent Cloud Data Integration  job failures on the USW3 POD.</title>
+<link>https://status.informatica.com/incidents/h1lp9p1wns7f</link>
+<guid>https://status.informatica.com/incidents/h1lp9p1wns7f</guid>
+<content:encoded><![CDATA[
+<div> [High] - Intermittent Job Failures on USW3 POD
+Summary: Users might have noticed intermittent job failures on the USW3 POD. The issue occurred from 2:00 AM GMT to 7:00 AM GMT and proactive measures have been taken to mitigate the issue for now. We are actively monitoring for any further instances. <div>
+<p><small>Mar <var>11</var>, <var>13:30</var> PDT</small><br /><strong>Resolved</strong> - Users might have noticed intermittent job failures on the USW3 POD Start time: 2:00 AM GMT  End time 7:00 AMT GMT. Proactive measures have been taken to mitigate the issue for now. We are actively monitoring for any further instances</p>
+]]></content:encoded>
+<pubDate>Mon, 11 Mar 2024 13:30:00 -0700</pubDate>
+<pubDate>Mon, 11 Mar 2024 13:30:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Planned Maintenance for Operational Insights</title>
