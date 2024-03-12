@@ -4,18 +4,17 @@
 <title>Meltwater Media Intelligence Platform Status - Incident History</title>
 <link>https://status.meltwater.com</link>
 
+
 <item>
 <title>Explore Search degradation</title>
 <link>https://status.meltwater.com/incidents/fj3d9n5ff2m1</link>
 <guid>https://status.meltwater.com/incidents/fj3d9n5ff2m1</guid>
 <content:encoded><![CDATA[
-<div> [High] - Explore Error Investigation <br><br> Engineering is currently investigating an issue where users may encounter error messages in Explore while performing searches. This indicates a major outage affecting platform functionality. <div>
+<div> [High] - Explore Error Investigation <br /><br /> Engineering is currently investigating an issue where users may encounter error messages in Explore while performing searches. This indicates a major outage affecting platform functionality. <div>
 <p><small>Mar <var>12</var>, <var>13:50</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing an issue where users may see an error message in Explore while performing searches. Engineering is aware of the issue and is currently investigating.<br /><br />We apologize for the inconvenience and thank you for your patience.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 13:50:04 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 13:50:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Meltwater Engage - Errors Publishing Instagram Carousel Posts</title>
 <link>https://status.meltwater.com/incidents/3lmhyrdw3ktz</link>

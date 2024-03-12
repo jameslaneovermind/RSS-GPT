@@ -4,6 +4,7 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Planned plugin maintenance</title>
 <link>https://status.bubble.io/incidents/xyd81clxsktb</link>
@@ -14,9 +15,7 @@ Summary: The company is conducting a planned brownout of the outdated plugin API
 <p><small>Mar <var>12</var>, <var>09:59</var> EDT</small><br /><strong>Investigating</strong> - “We’re conducting a planned brownout of the outdated plugin API v3. See here [https://forum.bubble.io/t/updating-plugins-in-your-bubble-app-for-2024/296705] for more info</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 09:59:26 -0400</pubDate>
-<pubDate>Tue, 12 Mar 2024 09:59:26 -0400</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/hlgt4l6191h3</link>

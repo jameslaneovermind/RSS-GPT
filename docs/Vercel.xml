@@ -4,6 +4,18 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+<item>
+<title>Delayed Build Processing</title>
+<link>https://www.vercel-status.com/incidents/t7yzms2bk7n5</link>
+<guid>https://www.vercel-status.com/incidents/t7yzms2bk7n5</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigation of Elevated Build Queue Processing Times 
+Summary: We are currently investigating elevated build queue processing times for a small number of customers. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available. <div>
+<p><small>Mar <var>12</var>, <var>14:53</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating elevated build queue processing times for a small number of customers. Existing deployments and live traffic are not affected by this issue. We will share updates as they become available.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 14:53:21 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 14:53:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Vercel KV Connectivity Issues - Global eu-central-1</title>

@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Emergency Network maintenance - TR Metro (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/0dvcjmqpvmmk</link>
+<guid>https://status.equinix.com/incidents/0dvcjmqpvmmk</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance in Progress
+Summary: Equinix Metal is currently undergoing scheduled maintenance, with updates to follow as necessary. <div>
+<p><small>Mar <var>12</var>, <var>14:51</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (TR) & Global Services (Network)]</div></p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 14:51:34 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 14:51:34 +0000</pubDate>
+</item>
 
 <item>
 <title>Power Issue (Network Edge, Equinix Fabric)</title>
