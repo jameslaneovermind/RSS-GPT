@@ -4,6 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Third Party Manager - Our service is experiencing an interruption that is preventing customer login in US regions</title>
+<link>https://status.diligent.com/incidents/rgx21dhlpx74</link>
+<guid>https://status.diligent.com/incidents/rgx21dhlpx74</guid>
+<content:encoded><![CDATA[
+<div> [High] - Service Interruption Causing Customer Login Issue <br><br> Our service is currently experiencing an interruption that is preventing customer login. We are actively working to resolve this issue with priority. <div>
+<p><small>Mar <var>12</var>, <var>06:56</var> UTC</small><br /><strong>Investigating</strong> - Our service is experiencing an interruption that is preventing customer login. We apologize for the inconvenience. We are actively working to resolve this issue with priority</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 06:56:10 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 06:56:10 +0000</pubDate>
+</item>
 
 <item>
 <title>BoardDocs - Users have reported service slowness or unavailable</title>

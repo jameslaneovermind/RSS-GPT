@@ -4,6 +4,19 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+<item>
+<title>Vercel KV Connectivity Issues - Global Ap-Southeast-1</title>
+<link>https://www.vercel-status.com/incidents/mf537rc2lj4y</link>
+<guid>https://www.vercel-status.com/incidents/mf537rc2lj4y</guid>
+<content:encoded><![CDATA[
+<div> [High] - Degraded Performance in ap-southeast-1 Region
+Summary:
+Our upstream provider Upstash is investigating reports of degraded performance in the `ap-southeast-1` region. This indicates a major outage potentially causing platform downtime, requiring immediate attention. <div>
+<p><small>Mar <var>12</var>, <var>07:07</var> UTC</small><br /><strong>Investigating</strong> - Our upstream provider Upstash is investigating reports of degraded performance in the `ap-southeast-1` region.<br /><br />The link to the incident via Upstash: https://status.upstash.com/incidents/052fk25p2ml8</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 07:07:41 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 07:07:41 +0000</pubDate>
+</item>
 
 <item>
 <title>Delayed Runtime Logs</title>
