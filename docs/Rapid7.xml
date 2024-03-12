@@ -4,6 +4,18 @@
 <title>Rapid7 Status - Incident History</title>
 <link>https://status.rapid7.com</link>
 
+<item>
+<title>InsightIDR (US3, AP, AU) - Scheduled maintenance</title>
+<link>https://status.rapid7.com/incidents/gkyq9h4xd3x4</link>
+<guid>https://status.rapid7.com/incidents/gkyq9h4xd3x4</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary: InsightIDR is undergoing scheduled maintenance, where brief interruptions in the collector and event source functionality may occur, along with slight delays in events sent from collectors. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>12:30</var> - <var>14:30</var> UTC</strong></p><p><small>Mar <var>12</var>, <var>13:11</var> UTC</small><br /><strong>Scheduled</strong> - InsightIDR is undergoing scheduled maintenance. During this time, you may experience brief interruptions in the collector and event source functionality in the front end, and slight delays in events sent from collectors.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 12:30:00 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 12:30:00 +0000</pubDate>
+</item>
 
 <item>
 <title>InsightIDR (EU, CA, US2, US1) - Scheduled maintenance</title>
