@@ -4,19 +4,18 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>Jamf Pro Partial Outage</title>
 <link>https://status.jamf.com/incidents/bmkrgl72x7qd</link>
 <guid>https://status.jamf.com/incidents/bmkrgl72x7qd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage: Communication Issue with APNS <br><br> 
+<div> [High] - Major Outage: Communication Issue with APNS <br /><br /> 
 Some Jamf Pro customers are experiencing issues related to communication with APNS, causing major disruptions. We are working to resolve the issue and will provide a further update in 45 minutes. <div>
 <p><small>Mar <var>12</var>, <var>17:04</var> UTC</small><br /><strong>Investigating</strong> - An issue has been identified that is affecting some Jamf Pro customers. We are working to resolve and will provide next update in 45 minutes. Currently this seems to be related to communication with APNS.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 17:04:23 +0000</pubDate>
-<pubDate>Tue, 12 Mar 2024 17:04:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Jamf School: Scheduled Maintenance (AP-Northeast)</title>
 <link>https://status.jamf.com/incidents/d09by6c9qjt7</link>
