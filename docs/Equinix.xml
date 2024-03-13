@@ -4,6 +4,32 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Other (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/f19l445fcwyd</link>
+<guid>https://status.equinix.com/incidents/f19l445fcwyd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage and Fix Implementation <br><br> The issue has been identified and a fix is being implemented.
+
+Summary: The company has identified a major issue and is actively working on implementing a fix, indicating a critical situation. <div>
+<p><small>Mar <var>13</var>, <var>22:54</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">2zmythx1pffd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032066</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p><p><small>Mar <var>13</var>, <var>22:40</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2zmythx1pffd</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032066</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 22:54:03 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 22:54:03 +0000</pubDate>
+</item>
+<item>
+<title>Other (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/kx3j5rpq48l8</link>
+<guid>https://status.equinix.com/incidents/kx3j5rpq48l8</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigation Underway
+Summary:
+The issue has been identified, and the team is currently investigating to implement a fix. An incident number has been generated for tracking purposes. <div>
+<p><small>Mar <var>13</var>, <var>22:40</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dycy3r5c4tpn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032065</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p><p><small>Mar <var>13</var>, <var>22:27</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dycy3r5c4tpn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032065</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 22:40:32 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 22:40:32 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
