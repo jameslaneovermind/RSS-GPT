@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/52ym9g81f6fh</link>
+<guid>https://status.equinix.com/incidents/52ym9g81f6fh</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Issue with Metro Connect - Asia-Pacific
+Summary: The issue has been identified, and a fix is being implemented. We are currently investigating the incident number INC0032011. <div>
+<p><small>Mar <var>13</var>, <var>17:01</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">034bb28g9389</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032011</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p><p><small>Mar <var>13</var>, <var>16:48</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">034bb28g9389</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032011</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (MB)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 17:01:37 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 17:01:37 +0000</pubDate>
+</item>
 
 <item>
 <title>Equinix Fabric Backbone Provider Link Issue (Equinix Fabric)</title>

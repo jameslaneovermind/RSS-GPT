@@ -4,6 +4,17 @@
 <title>Box Status - Incident History</title>
 <link>https://status.box.com</link>
 
+<item>
+<title>SSO Scheduled Maintenance</title>
+<link>https://status.box.com/incidents/gfzx872vwmp4</link>
+<guid>https://status.box.com/incidents/gfzx872vwmp4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Maintenance for SSO Upgrade <br><br> Box will be performing planned maintenance to upgrade their Single Sign On (SSO) cluster on March 22nd, 2024. The maintenance is expected to last from 6:00 PM to 9:00 PM PDT. No adverse user impact is anticipated, and a detailed test and execution plan has been put in place. Regular updates will be provided through the status site. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>22</var>, <var>18:00</var> - <var>21:00</var> PDT</strong></p><p><small>Mar <var>13</var>, <var>09:33</var> PDT</small><br /><strong>Scheduled</strong> - Starting on Friday, March 22nd, 2024 Box will perform a planned maintenance to upgrade our Single Sign On (SSO) cluster. The maintenance will begin at 6:00 PM Pacific Daylight Time and is expected to complete by 9:00 PM Pacific Daylight Time.<br /><br />We do not anticipate adverse user impact to SSO logins or services from this activity, and, to mitigate potential risk, we have built a detailed test and execution plan. We will also closely monitor the status of the SSO service throughout the maintenance and immediately thereafter. Updates on the maintenance as well as any changes in status will be shared through our status site, https://status.box.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 18:00:00 -0700</pubDate>
+<pubDate>Fri, 22 Mar 2024 18:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>[Major] Issues with Box AI</title>

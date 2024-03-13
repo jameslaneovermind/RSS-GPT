@@ -4,19 +4,18 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+
 <item>
 <title>Asset Manager Transformations are taking a long time</title>
 <link>https://status.unity.com/incidents/190639</link>
 <guid>https://status.unity.com/incidents/190639</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Long Thumbnail Generation Time <br><br> Summary: The Asset Manager is experiencing long thumbnail generation times, leading to potential delays and disruptions for users. The cause of the issue is currently under investigation. <div>
+<div> [High] - Major Incident: Long Thumbnail Generation Time <br /><br /> Summary: The Asset Manager is experiencing long thumbnail generation times, leading to potential delays and disruptions for users. The cause of the issue is currently under investigation. <div>
 <p><strong>Major incident</strong> - Asset Manager, Asset Transformations</p><p><small>March 13, 2024 · 15:56 UTC</small><br /><strong>Issue</strong></p><p>
 We are seeing that some transformations (thumbnail generation) are taking a long time. We are investigating the cause.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 16:06:46 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 16:06:46 +0000</pubDate>
 </item>
-
 <item>
 <title>UBA build status integrations</title>
 <link>https://status.unity.com/incidents/190628</link>

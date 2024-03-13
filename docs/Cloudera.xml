@@ -4,6 +4,7 @@
 <title>Cloudera Status - Incident History</title>
 <link>https://status.cloudera.com</link>
 
+
 <item>
 <title>Potential issues with new environment creation</title>
 <link>https://status.cloudera.com/incidents/mggdrhq8b687</link>
@@ -14,9 +15,7 @@ Summary: The company is currently investigating a potential issue with the CCM s
 <p><small>Mar <var>13</var>, <var>15:56</var> UTC</small><br /><strong>Investigating</strong> - Current Status: We are currently investigating a potential issue with CCM service. We will have an update within 60 mins.<br />Customer Experience: Customer may experience issues while creating new environments. Existing environments/workloads are not impacted due to this.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 15:56:15 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 15:56:15 +0000</pubDate>
 </item>
-
 <item>
 <title>Intermittent issues accessing Cloudera Manager and other UI’s</title>
 <link>https://status.cloudera.com/incidents/vf29prxz0wyz</link>
