@@ -4,6 +4,17 @@
 <title>eToro Status - Incident History</title>
 <link>https://status.etoro.com</link>
 
+<item>
+<title>3rd Party provider maintenance</title>
+<link>https://status.etoro.com/incidents/zdzhyjm52290</link>
+<guid>https://status.etoro.com/incidents/zdzhyjm52290</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance <br><br> eToro and its third-party partner are performing periodic upgrades to the system. There will be a delay in outgoing payments for eToro Money users in Europe during the maintenance. Incoming payments may be unsuccessful and will need to be re-executed after the maintenance is completed. <br><br> Summary: Maintenance is scheduled for a specific period, causing delays in outgoing payments for eToro Money users in Europe. Incoming payments may be unsuccessful during the maintenance window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>17</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>13:56</var> UTC</small><br /><strong>Scheduled</strong> - To consistently ensure that you have the latest features and capabilities at your fingertips, both eToro and our third party partners perform periodic upgrades to our system. <br /><br />One of our 3rd party partners will undergo maintenance on Sunday, March 17, from 02:00 AM to 03:00 AM (GMT).<br /><br />During this window, there will be a delay in outgoing payments for eToro Money users in Europe, until after the maintenance has been completed. <br /><br />Additionally, incoming payments may be unsuccessful during the maintenance window, and will need to be re-executed after its duration.<br /><br />We apologize for any inconvenience and appreciate your understanding in this matter.<br /><br />Sincerely,<br />The eToro team</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 02:00:00 +0000</pubDate>
+<pubDate>Sun, 17 Mar 2024 02:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance</title>
