@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/9bjl2q2r9s7f</link>
@@ -14,9 +15,7 @@ Summary: Equinix Fabric is currently investigating an issue with Incident Number
 <p><small>Mar <var>13</var>, <var>01:17</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">657hg4chq19g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031902</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p><p><small>Mar <var>13</var>, <var>01:04</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">657hg4chq19g</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031902</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (IL, SO)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 01:17:32 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 01:17:32 +0000</pubDate>
 </item>
-
 <item>
 <title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/36fp77362cy5</link>

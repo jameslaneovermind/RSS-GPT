@@ -4,6 +4,7 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+
 <item>
 <title>System Incident - OPTUM CARE COORDINATION PLATFORM - Production</title>
 <link>https://status.optum.com/incidents/yzj8z42v6tcp</link>
@@ -14,9 +15,7 @@ Summary:  We are investigating a potential issue with the OPTUM CARE COORDINATIO
 <p><small>Mar <var>12</var>, <var>21:04</var> EDT</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the OPTUM CARE COORDINATION PLATFORM product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 21:04:36 -0400</pubDate>
-<pubDate>Tue, 12 Mar 2024 21:04:36 -0400</pubDate>
 </item>
-
 <item>
 <title>System Incident Resolved - OPTUM ENTERPRISE COMPUTER-ASSISTED CODING - Production</title>
 <link>https://status.optum.com/incidents/8974h0qncqf6</link>

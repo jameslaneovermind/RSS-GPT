@@ -3358,3 +3358,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Israel Voice Carrier Partner Maintenance](https://status.twilio.com/incidents/23c99rgd5tq6)
 append_entries: 2
 Finish: 2024-03-13 01:43:19.400243
+------------------------------------------------------
+Started: 2024-03-13 02:17:01.089571
+Existing_entries: 150
+Fetching from https://status.twilio.com/history.rss
+append_entries: 0
+Finish: 2024-03-13 02:17:01.278805

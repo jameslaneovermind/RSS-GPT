@@ -4,6 +4,7 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>BoardsWeb US Intermittent error on login</title>
 <link>https://status.diligent.com/incidents/ws95v1npgnc5</link>
@@ -15,9 +16,7 @@ We're sorry for the frustration this issue has caused and appreciate your patien
 <p><small>Mar <var>13</var>, <var>01:32</var> UTC</small><br /><strong>Resolved</strong> - We're sorry for the frustration this issue has caused and appreciate your patience as we worked to resolve it.</p><p><small>Mar <var>13</var>, <var>01:11</var> UTC</small><br /><strong>Update</strong> - The root cause has been identified an a workaround has been applied.</p><p><small>Mar <var>13</var>, <var>01:10</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>13</var>, <var>01:01</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 01:32:54 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 01:32:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Third Party Manager - Our service is experiencing an interruption that is preventing customer login in US regions</title>
 <link>https://status.diligent.com/incidents/rgx21dhlpx74</link>

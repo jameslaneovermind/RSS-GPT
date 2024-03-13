@@ -6782,3 +6782,17 @@ Fetching from https://status.slack.com/history.rss
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/Slack
+------------------------------------------------------
+Started: 2024-03-13 02:17:02.929595
+Existing_entries: 48
+Fetching from https://status.slack.com/feed/rss
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-13 02:17:03.066692
+------------------------------------------------------
+Started: 2024-03-13 02:17:42.610314
+Existing_entries: 48
+Fetching from https://status.slack.com/history.rss
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/Slack
