@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Equinix Fabric Backbone Provider Link Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/5ktr0053mcxt</link>
+<guid>https://status.equinix.com/incidents/5ktr0053mcxt</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Incident Update for Equinix Fabric - Asia-Pacific (HK) <br><br> Latest update: Our backbone link provider confirmed the cable fault restoration on EAC Segment-C has been completed, however they identified a faulty repeater on another location. The schedule for repair is under assessment. There is no impact to customer service as traffic had rerouted to alternate provider.
+
+[Low] - Incident Identified for Equinix Fabric - Asia-Pacific (HK) <br><br> Equinix SMC monitored that one of Equinix Fabric backbone links between HK and OS flapped and recovered within 1 minute. <div>
+<p><small>Mar <var>13</var>, <var>14:53</var> UTC</small><br /><strong>Resolved</strong> - Link is still down. Please refer to INC0020963 for the latest updates.<br /><div style="display: none;">g8wfwyndwrzl</div><br /><div class="incident-number font-small color-secondary">Incident Number: 5-228534702986</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Jan <var>16</var>, <var>08:54</var> UTC</small><br /><strong>Update</strong> - Latest Update: Our backbone link provider confirmed the cable fault restoration on EAC Segment-C has been completed, however they identified a faulty repeater on another location. The schedule for repair is under assessment. There is no impact to customer service as traffic had rerouted to alternate provider.<br /><br />Next Action: Equinix SMC will continue to follow-up the provider's restoration progress.<br /><div style="display: none;">g8wfwyndwrzl</div><br /><div class="incident-number font-small color-secondary">Incident Number: 5-228534702986</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p><p><small>Jan <var> 8</var>, <var>08:17</var> UTC</small><br /><strong>Identified</strong> - Equinix SMC monitored that one of Equinix Fabric backbone links between between HK and OS flapped and recovered within1 minute.<br /><div class="incident-number font-small color-secondary">Incident Number: 5-228534702986</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (HK)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 14:53:41 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 14:53:41 +0000</pubDate>
+</item>
 
 <item>
 <title>Link Failure (Equinix Fabric)</title>

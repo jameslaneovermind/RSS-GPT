@@ -4,6 +4,19 @@
 <title>Unity Status - Incident History</title>
 <link>https://status.unity.com</link>
 
+<item>
+<title>UBA build status integrations</title>
+<link>https://status.unity.com/incidents/190628</link>
+<guid>https://status.unity.com/incidents/190628</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Unity Build Integrations Issue <br><br> Our engineering staff is addressing the issue. Summary: Unity Build Integrations are currently experiencing issues, but our team is working to resolve them. <div>
+<p><strong>Minor incident</strong> - Unity DevOps, Unity Build Automation, Backend Service, Integrations</p><p><small>March 13, 2024 · 14:45 UTC</small><br /><strong>Issue</strong></p><p>
+Unity Build Integrations are experiencing issues at the moment.  <br />
+Our engineering staff is addressing the issue. </p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 14:49:18 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 14:49:18 +0000</pubDate>
+</item>
 
 <item>
 <title>Unplanned Maintenance</title>
