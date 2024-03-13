@@ -4,18 +4,17 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>404 errors when calling API endpoint /v3/user/webhooks/event/settings/.</title>
 <link>https://status.sendgrid.com/incidents/d4300mlr6p1h</link>
 <guid>https://status.sendgrid.com/incidents/d4300mlr6p1h</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Resolved API endpoint issue <br><br> Summary: Customers experienced 404 errors when calling the API endpoint that returns the oldest webhook ("/v3/user/webhooks/event/settings/"). The issue has been mitigated and resolved, and all services are now operating normally at this time. <div>
+<div> [Low] - Resolved API endpoint issue <br /><br /> Summary: Customers experienced 404 errors when calling the API endpoint that returns the oldest webhook ("/v3/user/webhooks/event/settings/"). The issue has been mitigated and resolved, and all services are now operating normally at this time. <div>
 <p><small>Mar <var>12</var>, <var>17:23</var> PDT</small><br /><strong>Resolved</strong> - From around 10:35am PDT to 12:22pm PDT on March 11, 2024, customers experienced 404 errors when calling the API endpoint that returns the oldest webhook ("/v3/user/webhooks/event/settings/"). It didn't affect mail send, webhook posting or webhook settings. This issue has been mitigated and resolved. All services are now operating normally at this time.</p>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 17:23:38 -0700</pubDate>
-<pubDate>Tue, 12 Mar 2024 17:23:38 -0700</pubDate>
 </item>
-
 <item>
 <title>Latency affecting Automations Customers</title>
 <link>https://status.sendgrid.com/incidents/mq3kd0rs5fq2</link>

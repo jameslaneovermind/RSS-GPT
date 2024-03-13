@@ -5,6 +5,31 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>Israel Voice Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/fzxxp2sghrkt</link>
+<guid>https://status.twilio.com/incidents/fzxxp2sghrkt</guid>
+<content:encoded><![CDATA[
+<div> [High] - Planned Maintenance for Voice Carrier Partner in Israel
+Summary: Our Voice carrier partner in Israel is conducting a planned maintenance on 18th March 2024 from 15:00 PDT to 21:00 PDT. Intermittent call failures to a subset of Twilio Israel phone numbers may occur during this maintenance window. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>15:00</var> - <var>21:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>18:20</var> PDT</small><br /><strong>Scheduled</strong> - Our Voice carrier partner in Israel is conducting a planned maintenance from 18 March 2024 at 15:00 PDT until 18 March 2024 at 21:00 PDT. During the maintenance window, there could be intermittent call failures to a subset of Twilio Israel phone numbers.</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 15:00:00 -0700</pubDate>
+<pubDate>Mon, 18 Mar 2024 15:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Israel Voice Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/23c99rgd5tq6</link>
+<guid>https://status.twilio.com/incidents/23c99rgd5tq6</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance in Israel
+Summary: Our Voice carrier partner in Israel is conducting planned maintenance, which may cause intermittent call failures to a subset of Twilio Israel phone numbers. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>17</var>, <var>12:00</var> - <var>21:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>18:23</var> PDT</small><br /><strong>Scheduled</strong> - Our Voice carrier partner in Israel is conducting a planned maintenance from 17 March 2024 at 12:00 PDT until 17 March 2024 at 21:00 PDT. During the maintenance window, there could be intermittent call failures to a subset of Twilio Israel phone numbers.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 12:00:00 -0700</pubDate>
+<pubDate>Sun, 17 Mar 2024 12:00:00 -0700</pubDate>
+</item>
+
+<item>
 <title>France Voice Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/9tqj45rvhgh7</link>
 <guid>https://status.twilio.com/incidents/9tqj45rvhgh7</guid>
@@ -14,9 +39,7 @@ Summary: Our voice carrier partner in France will be undergoing planned maintena
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>14:00</var> - <var>20:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>17:00</var> PDT</small><br /><strong>Scheduled</strong> - Our voice carrier partner in France is conducting a planned maintenance from 19 March 2024 at 14:00 PDT until 19 March 2024 at 20:00 PDT. During the maintenance window, there could be intermittent call disconnects or call failures from and to Twilio France phone numbers.</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 14:00:00 -0700</pubDate>
-<pubDate>Tue, 19 Mar 2024 14:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Mexico SMS Carrier Maintenance - AT&amp;T</title>
 <link>https://status.twilio.com/incidents/wbb81d5ch0qr</link>
