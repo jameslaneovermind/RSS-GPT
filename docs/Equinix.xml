@@ -4,6 +4,55 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Link Failure (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/9zcfb5ybpzl5</link>
+<guid>https://status.equinix.com/incidents/9zcfb5ybpzl5</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Network Issue <br><br> We are currently investigating a network issue at Equinix Fabric - Americas and Network Edge - Americas.
+
+Explanation:
+The issue has been identified, and a fix is being implemented, but there is no indication of the scale of the outage or its impact, so the relevancy is medium. <div>
+<p><small>Mar <var>13</var>, <var>08:55</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">4xk37ym4c983</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031942</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI); Network Edge - Americas (MI)]</div></p><p><small>Mar <var>13</var>, <var>08:41</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">4xk37ym4c983</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031942</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (BG, MI); Network Edge - Americas (MI)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:55:02 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:55:02 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/ls583r3fj5ql</link>
+<guid>https://status.equinix.com/incidents/ls583r3fj5ql</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Asia-Pacific (MB, SG) <br><br> We are currently investigating an issue with Equinix Fabric in the Asia-Pacific region. An incident has been identified and a fix is being implemented. <div>
+<p><small>Mar <var>13</var>, <var>08:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">dgc6mvkqsc8z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031940</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG)]</div></p><p><small>Mar <var>13</var>, <var>08:16</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">dgc6mvkqsc8z</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031940</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (MB, SG)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:29:31 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:29:31 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/cm4yxfx1z9nc</link>
+<guid>https://status.equinix.com/incidents/cm4yxfx1z9nc</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Equinix Fabric Issue <br><br> We are currently investigating an issue with Equinix Fabric in the EMEA region and are working on a fix.
+
+ <div>
+<p><small>Mar <var>13</var>, <var>08:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">ctcxk17219hc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031945</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p><p><small>Mar <var>13</var>, <var>08:15</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ctcxk17219hc</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031945</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (HH, SO)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:29:13 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:29:13 +0000</pubDate>
+</item>
+<item>
+<title>Planned Network Maintenance - CH metro (Equinix Metal)</title>
+<link>https://status.equinix.com/incidents/rlvhks7lgts3</link>
+<guid>https://status.equinix.com/incidents/rlvhks7lgts3</guid>
+<content:encoded><![CDATA[
+
+<p><small>Mar <var>13</var>, <var>08:22</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.<div class="affected-products font-small color-secondary">[Equinix Metal - Americas (CH) & Global Services (Network)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:22:38 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:22:38 +0000</pubDate>
+</item>
 
 <item>
 <title>Precision Time Portal Availability</title>

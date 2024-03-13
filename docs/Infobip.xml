@@ -4,6 +4,19 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>Global (Germany) - Moments service processing degradation</title>
+<link>https://status.infobip.com/incidents/wfx8hfsgdjmx</link>
+<guid>https://status.infobip.com/incidents/wfx8hfsgdjmx</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Degradation of Customer Portal Moments Module 
+Summary: 
+We are currently experiencing a degradation of the Customer Portal Moments module. Campaigns and flows created over Moments may experience delays in processing. Our team is working on this and more updates will follow in the next update. <div>
+<p><small>Mar <var>13</var>, <var>08:51</var> UTC</small><br /><strong>Monitoring</strong> - Our team has deployed a fix for this issue and we are currently monitoring the situation.</p><p><small>Mar <var>13</var>, <var>08:28</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing a degradation of the Customer Portal Moments module. Campaigns and flows created over Moments may experience delays in processing. Our team is working on this and more updates will follow in the next update.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:51:45 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:51:45 +0000</pubDate>
+</item>
 
 <item>
 <title>SSL certificate renewal of api-za.infobip.com</title>
