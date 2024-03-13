@@ -4,18 +4,17 @@
 <title>Peloton Status - Incident History</title>
 <link>https://status.onepeloton.com</link>
 
+
 <item>
 <title>Unable to start workouts</title>
 <link>https://status.onepeloton.com/incidents/vk221m5k2m3j</link>
 <guid>https://status.onepeloton.com/incidents/vk221m5k2m3j</guid>
 <content:encoded><![CDATA[
-<div> [High] - Platform Downtime due to Configuration Change <br><br> Summary: We are currently investigating a critical issue with our platform, which has resulted in downtime. We suspect that a recent configuration change may have caused this outage. <div>
+<div> [High] - Platform Downtime due to Configuration Change <br /><br /> Summary: We are currently investigating a critical issue with our platform, which has resulted in downtime. We suspect that a recent configuration change may have caused this outage. <div>
 <p><small>Mar <var>13</var>, <var>14:05</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 14:05:23 -0400</pubDate>
-<pubDate>Wed, 13 Mar 2024 14:05:23 -0400</pubDate>
 </item>
-
 <item>
 <title>Android App Crashing for Members with Weekly Streak Widget Enabled</title>
 <link>https://status.onepeloton.com/incidents/wpm7dhjnyf77</link>
