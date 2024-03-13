@@ -4,17 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Power Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/s31rt9kpnxr2</link>
 <guid>https://status.equinix.com/incidents/s31rt9kpnxr2</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric CSP Circuit Outage in DC Metro <br><br> One of Equinix Fabric CSP circuits went down in DC Metro, causing a loss of redundancy for non-redundant virtual connections. The issue is currently being investigated with the Cloud Service Provider support.
+<div> [High] - Equinix Fabric CSP Circuit Outage in DC Metro <br /><br /> One of Equinix Fabric CSP circuits went down in DC Metro, causing a loss of redundancy for non-redundant virtual connections. The issue is currently being investigated with the Cloud Service Provider support.
 
  <div>
 <p><small>Mar <var>13</var>, <var>10:56</var> UTC</small><br /><strong>Update</strong> - Current Service Impact: Loss of redundancy (Outage for non-redundant virtual connections).<br />Latest Update: One of Equinix Fabric CSP circuits went down in DC Metro. <br />Next Action: The issue will be further investigated together with the Cloud Service Provider support..<br /><div style="display: none;">2wcr1r54r949</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031963</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DC)]</div></p><p><small>Mar <var>13</var>, <var>10:43</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">2wcr1r54r949</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031963</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DC)]</div></p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 10:56:44 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 10:56:44 +0000</pubDate>
 </item>
 <item>
@@ -22,13 +22,11 @@
 <link>https://status.equinix.com/incidents/0cbsz8nz7592</link>
 <guid>https://status.equinix.com/incidents/0cbsz8nz7592</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage on Equinix Fabric <br><br> We are currently investigating an issue with Equinix Fabric in the Americas (DA, MX). A fix is being implemented for the identified issue. Incident Number: INC0031958. <div>
+<div> [High] - Major Outage on Equinix Fabric <br /><br /> We are currently investigating an issue with Equinix Fabric in the Americas (DA, MX). A fix is being implemented for the identified issue. Incident Number: INC0031958. <div>
 <p><small>Mar <var>13</var>, <var>10:29</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">htszb36txkwn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031958</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p><p><small>Mar <var>13</var>, <var>10:15</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">htszb36txkwn</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031958</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 10:29:18 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 10:29:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/jp8xq84c9sls</link>
