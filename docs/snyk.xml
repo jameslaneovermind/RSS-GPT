@@ -4,6 +4,17 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Automated Test degradation</title>
+<link>https://status.snyk.io/incidents/jtdm3xkltqs1</link>
+<guid>https://status.snyk.io/incidents/jtdm3xkltqs1</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Reduced Rate of Automated Testing in Multi-Tenant EU Environment <br><br> Snyk Engineers have identified a reduced rate of automated testing in the multi-tenant EU environment, causing degradation. A fix is expected by March 18th. <div>
+<p><small>Mar <var>13</var>, <var>17:16</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Engineers have identified that automated testing within the multi-tenant EU environment are being processed at a reduced rate.<br /><br />A fix for this will be implemented by Monday the 18th of March, until then we expect some level of degradation to affect automated testing.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 17:16:33 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 17:16:33 +0000</pubDate>
+</item>
 
 <item>
 <title>Snyk Platform outage</title>

@@ -2895,3 +2895,12 @@ Existing_entries: 47
 Fetching from https://status.datto.com/history.rss
 append_entries: 0
 Finish: 2024-03-13 17:09:24.524239
+------------------------------------------------------
+Started: 2024-03-13 18:11:12.106264
+Existing_entries: 47
+Fetching from https://status.datto.com/history.rss
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [Datto Workplace - CA3 - Login flow issues on 2FA enabled accounts](https://status.datto.com/incidents/25wx9n8zn0p1)
+append_entries: 1
+Finish: 2024-03-13 18:11:13.340102

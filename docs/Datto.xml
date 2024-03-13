@@ -4,6 +4,18 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto Workplace - CA3 - Login flow issues on 2FA enabled accounts</title>
+<link>https://status.datto.com/incidents/25wx9n8zn0p1</link>
+<guid>https://status.datto.com/incidents/25wx9n8zn0p1</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Login Issues in Canadian Region of Datto Workplace
+<br><br>Summary: Users are experiencing issues logging into Workplace Online and Workplace Manager in the Canadian region of Datto Workplace due to 2-factor authentication. The problem is being worked on. <div>
+<p><small>Mar <var>13</var>, <var>18:01</var> UTC</small><br /><strong>Identified</strong> - We are currently working on resolving issues with logging into Workplace Online and Workplace Manager when the user is subject to 2-factor authentication on the Canadian region of Datto Workplace. <br /><br />Navigating directly to https://ca.workplace.datto.com/login should allow the user to login successfully</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 18:01:43 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 18:01:43 +0000</pubDate>
+</item>
 
 <item>
 <title>PSA -  AE01, AE02, AE03, AW01, AW02, AW03, AU01, AU02, ES01, LR01 - Database Server Maintenance</title>
