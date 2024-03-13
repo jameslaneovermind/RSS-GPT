@@ -4,6 +4,30 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/99q8bgtq94cm</link>
+<guid>https://status.equinix.com/incidents/99q8bgtq94cm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric and Network Edge Outage <br><br> The issue has been identified and a fix is being implemented. Incident Number: INC0032057. <div>
+<p><small>Mar <var>13</var>, <var>20:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">hyqyv7lm2lb5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032057</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DA); Network Edge - Americas (CH, DA)]</div></p><p><small>Mar <var>13</var>, <var>20:39</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">hyqyv7lm2lb5</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032057</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, DA); Network Edge - Americas (CH, DA)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 20:52:54 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 20:52:54 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect, Internet Exchange)</title>
+<link>https://status.equinix.com/incidents/pzcr1lnwz74m</link>
+<guid>https://status.equinix.com/incidents/pzcr1lnwz74m</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Incident: Equinix Fabric and Internet Access Outage in Asia-Pacific (SG)
+Summary:
+An incident with the Equinix Fabric, Internet Access, and Internet Exchange in Asia-Pacific (SG) has been identified, and a fix is currently being implemented. This indicates a major outage affecting a critical networking infrastructure in the region. <div>
+<p><small>Mar <var>13</var>, <var>20:33</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.<br /><div style="display: none;">mqwv8mhyqw05</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028491</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG); Equinix Internet Access / Equinix Connect - APAC (SG); Internet Exchange - Asia-Pacific (SG)]</div></p><p><small>Feb <var>11</var>, <var>02:03</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">mqwv8mhyqw05</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028491</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG); Equinix Internet Access / Equinix Connect - APAC (SG); Internet Exchange - Asia-Pacific (SG)]</div></p><p><small>Feb <var>11</var>, <var>01:51</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mqwv8mhyqw05</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0028491</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG); Equinix Internet Access / Equinix Connect - APAC (SG); Internet Exchange - Asia-Pacific (SG)]</div></p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 20:33:59 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 20:33:59 +0000</pubDate>
+</item>
 
 <item>
 <title>SmartView Portal Availability</title>
