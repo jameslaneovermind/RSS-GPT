@@ -3851,3 +3851,9 @@ Append: [SmartView Portal Availability](https://status.equinix.com/incidents/2z0
 Append: [SL Network Connectivity Issue (Equinix Metal)](https://status.equinix.com/incidents/h5h8qlvy5lv2)
 append_entries: 5
 Finish: 2024-03-13 19:08:16.820940
+------------------------------------------------------
+Started: 2024-03-13 20:09:12.105247
+Existing_entries: 401
+Fetching from https://status.equinix.com/history.rss
+append_entries: 0
+Finish: 2024-03-13 20:09:12.401441

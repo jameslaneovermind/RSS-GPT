@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/l52l11ssv51d</link>
 <guid>https://status.equinix.com/incidents/l52l11ssv51d</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - SmartView Portal Intermittent Issues <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView services are currently experiencing intermittent issues, and the team is investigating the situation to resolve it. <div>
+<div> [Medium] - SmartView Portal Intermittent Issues <br /><br /> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView services are currently experiencing intermittent issues, and the team is investigating the situation to resolve it. <div>
 <p><small>Mar <var>13</var>, <var>19:04</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 19:04:37 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 19:04:37 +0000</pubDate>
 </item>
 <item>
@@ -25,7 +25,6 @@ Summary: The IBX SmartView services on the SmartView Portal are currently experi
 <p><small>Mar <var>13</var>, <var>19:03</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>19:01</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 19:03:39 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 19:03:39 +0000</pubDate>
 </item>
 <item>
 <title>SmartView Portal Availability</title>
@@ -37,17 +36,14 @@ Summary: IBX SmartView services on the SmartView Portal are currently experienci
 <p><small>Mar <var>13</var>, <var>18:59</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>18:58</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 18:59:41 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 18:59:41 +0000</pubDate>
 </item>
 <item>
 <title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/2z09bj01548x</link>
 <guid>https://status.equinix.com/incidents/2z09bj01548x</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>13</var>, <var>18:56</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>18:52</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 18:56:40 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 18:56:40 +0000</pubDate>
 </item>
 <item>
@@ -55,13 +51,10 @@ Summary: IBX SmartView services on the SmartView Portal are currently experienci
 <link>https://status.equinix.com/incidents/h5h8qlvy5lv2</link>
 <guid>https://status.equinix.com/incidents/h5h8qlvy5lv2</guid>
 <content:encoded><![CDATA[
-
 <p><small>Mar <var>13</var>, <var>18:44</var> UTC</small><br /><strong>Investigating</strong> - The Seoul Korea metro experienced a short moment of instability due to a loss of a provider connection. Customers may have experienced a few moments of packet loss and/or latency while new routing paths were calculated. We have isolated this provider and all traffic has returned to normal<br /><br />Please visit status.equinixmetal.com for further updates or reach out to support@equinixmetal.com for further assistance.<div class="affected-products font-small color-secondary">[Equinix Metal - Global Services (Network)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 18:44:10 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 18:44:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/52ym9g81f6fh</link>

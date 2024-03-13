@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Prisma Cloud [APP2] Ongoing service disruption</title>
+<link>https://status.paloaltonetworks.com/incidents/7g7sl1p7svtr</link>
+<guid>https://status.paloaltonetworks.com/incidents/7g7sl1p7svtr</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Outage <br><br> Summary: We are currently investigating this issue caused by a configuration change to the system. <div>
+<p><small>Mar <var>13</var>, <var>19:21</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 19:21:57 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 19:21:57 +0000</pubDate>
+</item>
 
 <item>
 <title>WildFire Japan Cloud Service Scheduled Maintenance</title>
