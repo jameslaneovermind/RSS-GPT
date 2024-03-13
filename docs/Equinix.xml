@@ -4,6 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/36fp77362cy5</link>
+<guid>https://status.equinix.com/incidents/36fp77362cy5</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major IBX SmartView Portal Outage <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved. Summary: IBX SmartView portal is experiencing major intermittent issues, impacting access to services. <div>
+<p><small>Mar <var>12</var>, <var>23:34</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>12</var>, <var>23:27</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 23:34:26 +0000</pubDate>
+<pubDate>Tue, 12 Mar 2024 23:34:26 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Service Issue (Equinix Fabric)</title>

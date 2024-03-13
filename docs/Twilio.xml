@@ -5,18 +5,29 @@
 <link>https://status.twilio.com</link>
 
 <item>
+<title>France Voice Carrier Partner Maintenance</title>
+<link>https://status.twilio.com/incidents/9tqj45rvhgh7</link>
+<guid>https://status.twilio.com/incidents/9tqj45rvhgh7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Planned Maintenance in France
+Summary: Our voice carrier partner in France will be undergoing planned maintenance, which may result in intermittent call disconnects or failures from and to Twilio France phone numbers. This will occur on 19 March 2024 from 14:00 PDT to 20:00 PDT. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>14:00</var> - <var>20:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>17:00</var> PDT</small><br /><strong>Scheduled</strong> - Our voice carrier partner in France is conducting a planned maintenance from 19 March 2024 at 14:00 PDT until 19 March 2024 at 20:00 PDT. During the maintenance window, there could be intermittent call disconnects or call failures from and to Twilio France phone numbers.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 14:00:00 -0700</pubDate>
+<pubDate>Tue, 19 Mar 2024 14:00:00 -0700</pubDate>
+</item>
+
+<item>
 <title>Mexico SMS Carrier Maintenance - AT&amp;T</title>
 <link>https://status.twilio.com/incidents/wbb81d5ch0qr</link>
 <guid>https://status.twilio.com/incidents/wbb81d5ch0qr</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for AT&T Network in Mexico
-Summary: Scheduled maintenance is planned for the AT&T network in Mexico from March 13, 2024, at 23:00 PDT until March 14, 2024, at 05:00 PDT. During this time, there may be intermittent delays in delivering SMS to and from AT&T Mexico handsets. <div>
+<div> [Medium] - Planned Maintenance for AT&amp;T Network in Mexico
+Summary: Scheduled maintenance is planned for the AT&amp;T network in Mexico from March 13, 2024, at 23:00 PDT until March 14, 2024, at 05:00 PDT. During this time, there may be intermittent delays in delivering SMS to and from AT&amp;T Mexico handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>23:00</var> PDT &nbsp;-&nbsp; Mar <var>14</var>, <var>05:00</var> PDT</strong></p><p><small>Mar <var>12</var>, <var>16:09</var> PDT</small><br /><strong>Scheduled</strong> - The AT&amp;T network in Mexico is conducting a planned maintenance from 13 March 2024 at 23:00 PDT until 14 March 2024 at 05:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from AT&amp;T Mexico handsets.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 23:00:00 -0700</pubDate>
-<pubDate>Wed, 13 Mar 2024 23:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Account Security Carrier Partner Maintenance - Wind Tre (3) Italy</title>
 <link>https://status.twilio.com/incidents/jnlxjp32hw39</link>

@@ -3337,3 +3337,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Mexico SMS Carrier Maintenance - AT&T](https://status.twilio.com/incidents/wbb81d5ch0qr)
 append_entries: 1
 Finish: 2024-03-12 23:09:33.907893
+------------------------------------------------------
+Started: 2024-03-13 00:38:31.885069
+Existing_entries: 147
+Fetching from https://status.twilio.com/history.rss
+Token length: 351
+Summarized using GPT-3.5-turbo-1106
+Append: [France Voice Carrier Partner Maintenance](https://status.twilio.com/incidents/9tqj45rvhgh7)
+append_entries: 1
+Finish: 2024-03-13 00:38:32.900881
