@@ -5,6 +5,31 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>WildFire Singapore Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/mm09mwhwmk8s</link>
+<guid>https://status.paloaltonetworks.com/incidents/mm09mwhwmk8s</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for WildFire Singapore Cloud <br><br> 
+Planned service maintenance for WildFire Singapore Cloud on March 13th, 2024 from 08:10 UTC to 09:10 UTC may cause intermittent disconnections and detection delays. <div>
+<p><small>Mar <var>13</var>, <var>08:10</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>08:07</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Singapore Cloud on March 13th, 2024 from 08:10 UTC to 09:10 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:10:56 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:10:56 +0000</pubDate>
+</item>
+<item>
+<title>WildFire Australia Cloud Service Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/gtk005rbyywd</link>
+<guid>https://status.paloaltonetworks.com/incidents/gtk005rbyywd</guid>
+<content:encoded><![CDATA[
+<div> [High] - Scheduled Maintenance for WildFire Australia Cloud 
+Summary: A planned service maintenance for WildFire Australia Cloud is scheduled, which may cause intermittent disconnection and detection delays for customers during the maintenance window. <div>
+<p><small>Mar <var>13</var>, <var>08:01</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>07:50</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Australia Cloud on March 13th, 2024 from 08:00 UTC to 09:00 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:01:05 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:01:05 +0000</pubDate>
+</item>
+
+<item>
 <title>WildFire France Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/s3bxfjvl4dpn</link>
 <guid>https://status.paloaltonetworks.com/incidents/s3bxfjvl4dpn</guid>
@@ -15,20 +40,17 @@ Planned service maintenance is scheduled for WildFire France Cloud, which may ca
 <p><small>Mar <var>13</var>, <var>06:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>06:28</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire France Cloud on March 13th, 2024 from 06:30 UTC to 07:30 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 06:30:56 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 06:30:56 +0000</pubDate>
 </item>
 <item>
 <title>WildFire Germany Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/3q2c1tzp1471</link>
 <guid>https://status.paloaltonetworks.com/incidents/3q2c1tzp1471</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Service Maintenance for WildFire Germany Cloud <br><br> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
+<div> [High] - Major Service Maintenance for WildFire Germany Cloud <br /><br /> Customers may encounter intermittent disconnection during the maintenance window and detection delays. <div>
 <p><small>Mar <var>13</var>, <var>06:20</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>06:15</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Germany Cloud on March 13th, 2024 from 06:20 UTC to 07:20 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 06:20:56 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 06:20:56 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire UK Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/s24pqyy026gt</link>
