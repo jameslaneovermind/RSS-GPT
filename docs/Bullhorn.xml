@@ -4,6 +4,17 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Undeliverable Emails - BBO/Onboarding</title>
+<link>https://status.bullhorn.com/incidents/bc6392wvkrcc</link>
+<guid>https://status.bullhorn.com/incidents/bc6392wvkrcc</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Delivery Issues for BBO/Onboarding Emails <br><br> The Bullhorn Technical Operations team is investigating intermittent delivery issues for BBO/Onboarding emails. Further updates will be posted when available. <div>
+<p><small>Mar <var>12</var>, <var>22:30</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>12</var>, <var>22:22</var> EDT</small><br /><strong>Investigating</strong> - <br /><b>Impact: BBO/Onboarding emails are not being delivered intermittently</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS60<br />Service: BBO, Onboarding<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
+]]></content:encoded>
+<pubDate>Tue, 12 Mar 2024 22:30:28 -0400</pubDate>
+<pubDate>Tue, 12 Mar 2024 22:30:28 -0400</pubDate>
+</item>
 
 <item>
 <title>ATS/CRM - CLS29, CLS91, CLS99</title>

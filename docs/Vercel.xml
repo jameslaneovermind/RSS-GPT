@@ -4,18 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+
 <item>
 <title>Vercel Deployment Errors</title>
 <link>https://www.vercel-status.com/incidents/4ngn25s3jkgr</link>
 <guid>https://www.vercel-status.com/incidents/4ngn25s3jkgr</guid>
 <content:encoded><![CDATA[
-<div> [High] - Potential Vercel Deployment Issue <br><br> At approximately 23:39 UTC on Mar 12, 2024, an incident with an upstream provider may have led to a disruption in Vercel deployments triggered by Pull Requests. This issue has since been resolved, but affected Vercel customers are advised to initiate new deployments through the Vercel Dashboard or a new Pull Request. Summary: <div>
+<div> [High] - Potential Vercel Deployment Issue <br /><br /> At approximately 23:39 UTC on Mar 12, 2024, an incident with an upstream provider may have led to a disruption in Vercel deployments triggered by Pull Requests. This issue has since been resolved, but affected Vercel customers are advised to initiate new deployments through the Vercel Dashboard or a new Pull Request. Summary: <div>
 <p><small>Mar <var>13</var>, <var>02:04</var> UTC</small><br /><strong>Resolved</strong> - During the hours of Mar 12, 2024 - 23:39 UTC to Mar 13, 2024 - 01:58 UTC, an incident from an upstream provider involving Pull Requests may have affected Vercel deployments from being triggered. This incident is now resolved, however Vercel customers may need to trigger a new deployment either from your Vercel Dashboard or by a new Pull Request.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 02:04:15 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 02:04:15 +0000</pubDate>
 </item>
-
 <item>
 <title>Delayed Build Processing</title>
 <link>https://www.vercel-status.com/incidents/t7yzms2bk7n5</link>
