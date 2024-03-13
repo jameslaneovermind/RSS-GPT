@@ -5,19 +5,30 @@
 <link>https://status.unity.com</link>
 
 <item>
+<title>Asset Manager Transformations are taking a long time</title>
+<link>https://status.unity.com/incidents/190639</link>
+<guid>https://status.unity.com/incidents/190639</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Incident: Long Thumbnail Generation Time <br><br> Summary: The Asset Manager is experiencing long thumbnail generation times, leading to potential delays and disruptions for users. The cause of the issue is currently under investigation. <div>
+<p><strong>Major incident</strong> - Asset Manager, Asset Transformations</p><p><small>March 13, 2024 · 15:56 UTC</small><br /><strong>Issue</strong></p><p>
+We are seeing that some transformations (thumbnail generation) are taking a long time. We are investigating the cause.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 16:06:46 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 16:06:46 +0000</pubDate>
+</item>
+
+<item>
 <title>UBA build status integrations</title>
 <link>https://status.unity.com/incidents/190628</link>
 <guid>https://status.unity.com/incidents/190628</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Unity Build Integrations Issue <br><br> Our engineering staff is addressing the issue. Summary: Unity Build Integrations are currently experiencing issues, but our team is working to resolve them. <div>
+<div> [Low] - Unity Build Integrations Issue <br /><br /> Our engineering staff is addressing the issue. Summary: Unity Build Integrations are currently experiencing issues, but our team is working to resolve them. <div>
 <p><strong>Minor incident</strong> - Unity DevOps, Unity Build Automation, Backend Service, Integrations</p><p><small>March 13, 2024 · 14:45 UTC</small><br /><strong>Issue</strong></p><p>
 Unity Build Integrations are experiencing issues at the moment.  <br />
 Our engineering staff is addressing the issue. </p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 14:49:18 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 14:49:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Unplanned Maintenance</title>
 <link>https://status.unity.com/incidents/189731</link>

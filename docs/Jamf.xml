@@ -4,19 +4,18 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+
 <item>
 <title>APNE School Database Maintenance</title>
 <link>https://status.jamf.com/incidents/5wvs4w250jnn</link>
 <guid>https://status.jamf.com/incidents/5wvs4w250jnn</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance <br><br> 
+<div> [Medium] - Scheduled Maintenance <br /><br /> 
 Scheduled maintenance is currently in progress. We will provide updates as necessary. Summary: Maintenance is currently in progress and updates will be provided as necessary. <div>
 <p><small>Mar <var>13</var>, <var>14:30</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>13</var>, <var>14:23</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 14:30:58 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 14:30:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Jamf Pro Partial Outage</title>
 <link>https://status.jamf.com/incidents/bmkrgl72x7qd</link>

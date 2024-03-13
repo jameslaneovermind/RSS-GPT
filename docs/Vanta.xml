@@ -4,6 +4,18 @@
 <title>Vanta Status - Incident History</title>
 <link>https://status.vanta.com</link>
 
+<item>
+<title>Subset of customers are not able to edit some policies.</title>
+<link>https://status.vanta.com/incidents/j7stcp1786x1</link>
+<guid>https://status.vanta.com/incidents/j7stcp1786x1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Policy Editing Issue Investigation Update
+Summary: A subset of customers are currently unable to edit policies due to a problem with the commenting feature in the policy editor. The issue is being actively investigated. <div>
+<p><small>Mar <var>13</var>, <var>08:26</var> PDT</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>13</var>, <var>08:25</var> PDT</small><br /><strong>Investigating</strong> - Some policies for a subset of customers are currently unable to be edited. <br />A portion of the issues have been identified as a problem with the commenting feature in the policy editor.<br /><br />We are currently investigating and will provide an update when a change has been deployed.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 08:26:40 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 08:26:40 -0700</pubDate>
+</item>
 
 <item>
 <title>Frameworks page is not loading</title>

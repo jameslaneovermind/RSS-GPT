@@ -4,6 +4,17 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/zplrplh7gkl1</link>
+<guid>https://status.heap.io/incidents/zplrplh7gkl1</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Connect Sync Delays<br><br> Our engineering team is currently working to identify a root cause and implement a solution. A fix has been implemented, and we are monitoring the results. The issue has been identified, and a fix is being implemented. <div>
+<p><small>Mar <var>13</var>, <var>09:05</var> PDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>13</var>, <var>08:46</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>13</var>, <var>08:30</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect Syncs. All environments appear to be affected.<br /><br />Our engineering team is currently working to identify a root cause and implement a solution.<br /><br />We will post an update in 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 09:05:14 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 09:05:14 -0700</pubDate>
+</item>
 
 <item>
 <title>Infrastructure Maintenance</title>

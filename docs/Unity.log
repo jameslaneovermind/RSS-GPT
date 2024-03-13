@@ -2865,3 +2865,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [UBA build status integrations](https://status.unity.com/incidents/190628)
 append_entries: 1
 Finish: 2024-03-13 15:09:51.630829
+------------------------------------------------------
+Started: 2024-03-13 16:10:45.950444
+Existing_entries: 41
+Fetching from https://status.unity.com/history.rss
+Token length: 203
+Summarized using GPT-3.5-turbo-1106
+Append: [Asset Manager Transformations are taking a long time](https://status.unity.com/incidents/190639)
+append_entries: 1
+Finish: 2024-03-13 16:10:47.499655
