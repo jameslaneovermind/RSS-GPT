@@ -4,18 +4,17 @@
 <title>OpenText Status - Incident History</title>
 <link>https://status.opentext.com</link>
 
+
 <item>
 <title>Network Maintenance scheduled for 14 April 2024</title>
 <link>https://status.opentext.com/incidents/yfwy9lpc08yq</link>
 <guid>https://status.opentext.com/incidents/yfwy9lpc08yq</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Network Maintenance Scheduled for Core Services in Europe <br><br> Summary: On 14 April 2024, a major network maintenance has been scheduled for core services in Europe, which is expected to cause intermittent service interruptions. This may result in significant downtime for various essential services, impacting users across multiple platforms. <div>
+<div> [High] - Major Network Maintenance Scheduled for Core Services in Europe <br /><br /> Summary: On 14 April 2024, a major network maintenance has been scheduled for core services in Europe, which is expected to cause intermittent service interruptions. This may result in significant downtime for various essential services, impacting users across multiple platforms. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>14</var>, <var>16:00</var> - <var>23:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>20:08</var> UTC</small><br /><strong>Scheduled</strong> - On 14 April 2024 from 16:00 UTC to 23:00 GMT UTC, a network maintenance has been scheduled that will affect these services: <br /><br />•	Core Archive Europe<br />•	Core Capture EU<br />•	Core Capture for SAP Solutions EU<br />•	Core for Building Information Modelling EU?????<br />•	Core for Capital Projects EU<br />•	Core for Federated Compliance EU<br />•	Core for SAP SuccessFactors | SAP SuccessFactors Document Management Core by OpenText EU<br />•	Core for Supplier Exchange EU<br />•	Core Share Europe<br />•	Core Signature add-on for Core Share Europe<br />•	Core Signature add-on for Content Suite Platform/xECM Europe<br />•	Core Signature Service EU<br />•	Core Signature Standalone Europe<br />•	Developer Experience EU<br />•	Fax2Mail<br />•	LS Smart View Preview EU<br />•	Notifications – SMS<br />•	Production Messaging<br /><br />If the maintenance is unable to be performed on the date specified above, the work will be rescheduled to 19 May 2024. An updated notification will be sent if the backup date is required.<br /><br />Intermittent service interruptions are expected to occur throughout this timeframe. We appreciate your patience. <br /><br />Tracking number: C2018485</p>
 ]]></content:encoded>
 <pubDate>Sun, 14 Apr 2024 16:00:00 +0000</pubDate>
-<pubDate>Sun, 14 Apr 2024 16:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Core Share NA - Scheduled maintenance</title>
 <link>https://status.opentext.com/incidents/clzddzqmwvby</link>

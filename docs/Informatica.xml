@@ -4,6 +4,18 @@
 <title>Informatica Intelligent Cloud Services Status - Incident History</title>
 <link>https://status.informatica.com</link>
 
+<item>
+<title>Login issues in US EAST 4 pod</title>
+<link>https://status.informatica.com/incidents/9dqv61xp86wj</link>
+<guid>https://status.informatica.com/incidents/9dqv61xp86wj</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Login Issues in US East 4 Pod
+Summary: Users are experiencing login issues with a 503 error or page rendering problems in the US East 4 pod. The company is actively investigating the issue, and updates will follow by 4 PM PT. <div>
+<p><small>Mar <var>13</var>, <var>15:04</var> PDT</small><br /><strong>Investigating</strong> - We have identified login issues in US East 4 pod. Users may not be able to be able to login with a 503 error, or the page may not be rendering. We are investigating the issue and will keep the status page updated.<br /><br />Next update by 4 PM PT.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 15:07:38 -0700</pubDate>
+<pubDate>Wed, 13 Mar 2024 15:07:38 -0700</pubDate>
+</item>
 
 <item>
 <title>Global Phone Verification Cloud March Reference Data Updates</title>

@@ -4,18 +4,17 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+
 <item>
 <title>HCP Boundary Maintenance:  March 2024</title>
 <link>https://status.hashicorp.com/incidents/pm9hy3s6gvyz</link>
 <guid>https://status.hashicorp.com/incidents/pm9hy3s6gvyz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Planned Maintenance for HCP Boundary <br><br> Summary: HCP Boundary will undergo planned database maintenance on Saturday, March 30th, resulting in complete unavailability of Boundary clusters until completion. Sessions will be dropped and session establishment will fail during this period. <div>
+<div> [High] - Planned Maintenance for HCP Boundary <br /><br /> Summary: HCP Boundary will undergo planned database maintenance on Saturday, March 30th, resulting in complete unavailability of Boundary clusters until completion. Sessions will be dropped and session establishment will fail during this period. <div>
 <p><small>Mar <var>13</var>, <var>20:32</var> UTC</small><br /><strong>Identified</strong> - HCP Boundary will undergo planned database maintenance on Saturday, March 30th beginning at 14:00 UTC. We expect this maintenance to be completed within 1 hour.<br /><br />During this time, HCP Boundary and all Boundary clusters will be unavailable. Sessions will be dropped and session establishment will fail until the maintenance completes. We will post updates as necessary throughout the maintenance period.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 20:32:36 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 20:32:36 +0000</pubDate>
 </item>
-
 <item>
 <title>TFC Degredation and partial VCS outage</title>
 <link>https://status.hashicorp.com/incidents/qnym3bvnhshj</link>

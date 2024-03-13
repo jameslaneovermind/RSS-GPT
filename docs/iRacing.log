@@ -3575,3 +3575,10 @@ Fetching from https://status.iracing.com/history.rss
 Feed error: <unknown>:28:16: not well-formed (invalid token)
 append_entries: 0
 error when rendering xml, skip docs/iRacing
+------------------------------------------------------
+Started: 2024-03-13 22:08:28.546808
+Existing_entries: 0
+Fetching from https://status.iracing.com/history.rss
+Feed error: <unknown>:28:16: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/iRacing
