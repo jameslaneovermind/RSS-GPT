@@ -4,6 +4,18 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>Global (Germany) - Moments service processing degradation</title>
+<link>https://status.infobip.com/incidents/s791w8v1gfc4</link>
+<guid>https://status.infobip.com/incidents/s791w8v1gfc4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Degradation of Customer Portal Moments Service
+<br><br>Summary: The Customer Portal Moments service is currently experiencing a major degradation, causing delays in the processing of campaigns and flows. Our team is working on deploying a fix to address the issue. <div>
+<p><small>Mar <var>13</var>, <var>10:55</var> UTC</small><br /><strong>Identified</strong> - The issue is identified and our team is currently working on deploying a fix. More information will follow in the next update.</p><p><small>Mar <var>13</var>, <var>10:24</var> UTC</small><br /><strong>Investigating</strong> - We are experiencing a degradation of the Customer Portal Moments service. You may experience delays in the processing of created campaigns and flows.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 10:55:23 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 10:55:23 +0000</pubDate>
+</item>
 
 <item>
 <title>Global (Germany) - Moments service processing degradation</title>
