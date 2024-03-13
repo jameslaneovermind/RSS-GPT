@@ -4,6 +4,17 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+<item>
+<title>Dropbox Paper may not be working as expected</title>
+<link>https://status.dropbox.com/incidents/9dftt10x9wpn</link>
+<guid>https://status.dropbox.com/incidents/9dftt10x9wpn</guid>
+<content:encoded><![CDATA[
+<div> [High] - Dropbox Paper Creation and Sharing Issue <br><br> Summary: Some users are experiencing issues with Dropbox Paper creation and sharing, indicating a major outage affecting platform functionality. The company is actively working on resolving the issue. <div>
+<p><small>Mar <var>13</var>, <var>06:55</var> UTC</small><br /><strong>Investigating</strong> - Dropbox Paper creation and sharing is not working for some users. We are working to resolve the issue as quickly as possible. Thank you for your patience.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 06:55:53 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 06:55:53 +0000</pubDate>
+</item>
 
 <item>
 <title>Delivery of old notifications</title>

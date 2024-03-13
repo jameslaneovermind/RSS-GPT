@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Precision Time Portal Availability</title>
 <link>https://status.equinix.com/incidents/7pn65wh2646c</link>
 <guid>https://status.equinix.com/incidents/7pn65wh2646c</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Precision Time™ services experiencing intermittent issues <br><br> Summary: Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. Investigations are ongoing to resolve the problem. <div>
+<div> [High] - Equinix Precision Time™ services experiencing intermittent issues <br /><br /> Summary: Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. Investigations are ongoing to resolve the problem. <div>
 <p><small>Mar <var>13</var>, <var>05:38</var> UTC</small><br /><strong>Resolved</strong> - The issue impacting Equinix Precision Time™ services on the Precision Time portal has been resolved.</p><p><small>Mar <var>13</var>, <var>05:37</var> UTC</small><br /><strong>Investigating</strong> - Equinix Precision Time™ services on the Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 05:38:30 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 05:38:30 +0000</pubDate>
 </item>
 <item>
@@ -21,11 +21,10 @@
 <guid>https://status.equinix.com/incidents/wdjpbz6qq2mr</guid>
 <content:encoded><![CDATA[
 <div> [High] - Equinix Marketplace Portal Experiencing Intermittent Issues
-<br><br>
+<br /><br />
 Summary: The Equinix Marketplace services are currently experiencing intermittent issues, causing potential major disruptions to the platform. Investigating the cause and working to resolve the issue. <div>
 <p><small>Mar <var>13</var>, <var>05:35</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>13</var>, <var>05:32</var> UTC</small><br /><strong>Investigating</strong> - Equinix Marketplace services on the Marketplace Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Wed, 13 Mar 2024 05:35:26 +0000</pubDate>
 <pubDate>Wed, 13 Mar 2024 05:35:26 +0000</pubDate>
 </item>
 <item>
@@ -33,15 +32,13 @@ Summary: The Equinix Marketplace services are currently experiencing intermitten
 <link>https://status.equinix.com/incidents/6m9p0slcwhcr</link>
 <guid>https://status.equinix.com/incidents/6m9p0slcwhcr</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric EMEA (AM) Outage <br><br> We are currently investigating an issue that has been identified, and a fix is being implemented. Incident Number: INC0031915.
+<div> [High] - Equinix Fabric EMEA (AM) Outage <br /><br /> We are currently investigating an issue that has been identified, and a fix is being implemented. Incident Number: INC0031915.
 
  <div>
 <p><small>Mar <var>13</var>, <var>05:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">5kc3p7qtcbq8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031915</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p><p><small>Mar <var>13</var>, <var>05:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5kc3p7qtcbq8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0031915</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM)]</div></p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 05:31:56 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 05:31:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/3tfxzvnh84xw</link>
