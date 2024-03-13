@@ -4,6 +4,7 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+
 <item>
 <title>WildFire Japan Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/hglkg2n9sgfd</link>
@@ -14,9 +15,7 @@ Summary: Planned maintenance for WildFire Japan Cloud on March 13, 2024 from 10:
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>13</var>, <var>10:30</var> - <var>11:30</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>08:21</var> UTC</small><br /><strong>Scheduled</strong> - We have a planned service maintenance for WildFire Japan Cloud on March 13, 2024 from 10:30 UTC to 11:30 UTC.<br /><br />Customer Impact: Customers may encounter intermittent disconnection during the maintenance window and detection delays.</p>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 10:30:00 +0000</pubDate>
-<pubDate>Wed, 13 Mar 2024 10:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>WildFire Singapore Cloud Service Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/mm09mwhwmk8s</link>

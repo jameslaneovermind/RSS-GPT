@@ -4,6 +4,18 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Snyk Platform outage</title>
+<link>https://status.snyk.io/incidents/6pxpdcdfgybm</link>
+<guid>https://status.snyk.io/incidents/6pxpdcdfgybm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on Snyk Platform
+<br><br>Summary: Snyk platform experienced a brief outage at 09:30 UTC, resulting in platform downtime. Services have now recovered, and Snyk Engineers are investigating the cause of the outage. <div>
+<p><small>Mar <var>13</var>, <var>10:04</var> UTC</small><br /><strong>Monitoring</strong> - Snyk Monitoring tools identified a brief outage which affected the Snyk platform at approximately 09:30 UTC. Services have now recovered.<br /><br />Snyk Engineers continue to investigate the cause of the outage.</p><p><small>Mar <var>13</var>, <var>09:57</var> UTC</small><br /><strong>Identified</strong> - Snyk Monitoring tools have identified a brief outage which affected the Snyk platform at approximately 09:30 UTC. Services have now recovered.<br /><br />Snyk Engineers are investigating the cause of the outage.</p>
+]]></content:encoded>
+<pubDate>Wed, 13 Mar 2024 10:04:56 +0000</pubDate>
+<pubDate>Wed, 13 Mar 2024 10:04:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Project Move API Failing</title>
