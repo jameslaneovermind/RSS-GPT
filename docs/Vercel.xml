@@ -4,6 +4,17 @@
 <title>Vercel Status - Incident History</title>
 <link>https://www.vercel-status.com</link>
 
+<item>
+<title>Delayed log drains for traffic from `cpt1` region</title>
+<link>https://www.vercel-status.com/incidents/3ynqlcn5s4jp</link>
+<guid>https://www.vercel-status.com/incidents/3ynqlcn5s4jp</guid>
+<content:encoded><![CDATA[
+<div> [High] - Delayed Log Drains for Traffic from South Africa (CPT1 Region) <br><br> Investigating reports of delayed log drains for traffic coming from the cpt1 region (South Africa). A fix is being implemented for this identified issue. <div>
+<p><small>Mar <var>14</var>, <var>13:42</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>14</var>, <var>13:30</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>14</var>, <var>13:20</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>14</var>, <var>13:17</var> UTC</small><br /><strong>Investigating</strong> - We are currently investigating reports of delayed log drains results for traffic coming from the <tt>cpt1</tt> region (South Africa). We will provide a further update when available.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 13:42:00 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 13:42:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Vercel Deployment Errors</title>

@@ -4,6 +4,17 @@
 <title>Optum Status - Incident History</title>
 <link>https://status.optum.com</link>
 
+<item>
+<title>System Incident - NATIONAL CLINICAL CLEARINGHOUSE - Production</title>
+<link>https://status.optum.com/incidents/9yl3kygyvw45</link>
+<guid>https://status.optum.com/incidents/9yl3kygyvw45</guid>
+<content:encoded><![CDATA[
+<div> [High] - Potential Issue in NATIONAL CLINICAL CLEARINGHOUSE <br><br> Internal support teams are investigating a potential issue in the NATIONAL CLINICAL CLEARINGHOUSE product. This could indicate a major outage impacting the platform. We are waiting for updates. Summary: <div>
+<p><small>Mar <var>14</var>, <var>09:38</var> EDT</small><br /><strong>Investigating</strong> - We are aware of a potential issue occurring within the NATIONAL CLINICAL CLEARINGHOUSE product.  Internal support teams have been engaged to determine and resolve any impact.  We will provide updates as more information becomes available.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 09:38:00 -0400</pubDate>
+<pubDate>Thu, 14 Mar 2024 09:38:00 -0400</pubDate>
+</item>
 
 <item>
 <title>System Incident - OPTUM CARE COORDINATION PLATFORM - Production</title>

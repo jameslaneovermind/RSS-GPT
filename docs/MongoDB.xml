@@ -4,6 +4,17 @@
 <title>MongoDB Cloud Status - Incident History</title>
 <link>https://status.mongodb.com</link>
 
+<item>
+<title>MongoDB Atlas: Networking issues in some Azure regions</title>
+<link>https://status.mongodb.com/incidents/f2ys7dpgl9yw</link>
+<guid>https://status.mongodb.com/incidents/f2ys7dpgl9yw</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Latency and Packet Drops in Azure South Africa Regions <br><br> We have detected effects from increased network latency and packet drops in the Azure regions South Africa North and South Africa West. Affected users may have difficulties creating or expanding clusters in these regions. Additionally, metrics and logs may be delayed for existing clusters in the region. <div>
+<p><small>Mar <var>14</var>, <var>13:56</var> UTC</small><br /><strong>Identified</strong> - We have detected effects from increased network latency and packet drops in the Azure regions South Africa North and South Africa West. Affected users may have difficulties creating or expanding clusters in these regions. Additionally, metrics and logs may be delayed for existing clusters in the region. Effects from this issue were detected starting around 10:30am UTC.<br /><br />We invite users to follow Azure's status blog for further updates: https://azure.status.microsoft/en-us/status</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 13:56:23 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 13:56:23 +0000</pubDate>
+</item>
 
 <item>
 <title>Atlas Cluster creation and metrics delay for Atlas For Government</title>

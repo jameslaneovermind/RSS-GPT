@@ -3300,3 +3300,12 @@ Existing_entries: 28
 Fetching from https://status.monese.com/history.rss
 append_entries: 0
 Finish: 2024-03-14 13:09:04.774141
+------------------------------------------------------
+Started: 2024-03-14 14:08:34.708586
+Existing_entries: 28
+Fetching from https://status.monese.com/history.rss
+Token length: 410
+Summarized using GPT-3.5-turbo-1106
+Append: [Scheduled maintenance affecting outbound RON Instant Payments](https://status.monese.com/incidents/lm2q4sk5gxhh)
+append_entries: 1
+Finish: 2024-03-14 14:08:36.594529
