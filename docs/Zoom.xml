@@ -4,6 +4,55 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>Web Backend Update: 3/16/2024 (No Operational Impact)</title>
+<link>https://status.zoom.us/incidents/zkhjhysvpbrc</link>
+<guid>https://status.zoom.us/incidents/zkhjhysvpbrc</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Routine Maintenance on Web Backend <br><br> 
+Summary: 
+We will be performing routine maintenance on our Web Backend. Please refer to the provided link for more details. This update includes enhancements to Meeting Summary web settings. There is no operational impact, and all services will be available during this scheduled update. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>17:00</var> - <var>23:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>13:23</var> PDT</small><br /><strong>Scheduled</strong> - We will be performing routine maintenance on our Web Backend. Please refer to https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0060437 for more details. This update includes enhancements to Meeting Summary web settings.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Zoom Virtual Agent Update: 3/17/2024 (No Operational Impact)</title>
+<link>https://status.zoom.us/incidents/b1nsx6rssfgt</link>
+<guid>https://status.zoom.us/incidents/b1nsx6rssfgt</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Zoom Virtual Agent Update
+Summary: Zoom will be providing an update to their Virtual Agent with enhancements to bot flows. No operational impact is expected, and all services will be available during the scheduled update. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>17:00</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>13:19</var> PDT</small><br /><strong>Scheduled</strong> - We will be providing an update to Zoom Virtual Agent. Please refer to https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0067812 for more details. This update includes enhancements to bot flows.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Zoom Phone Update: 3/17/2024 (No Operational Impact)</title>
+<link>https://status.zoom.us/incidents/lry7x0q3pssc</link>
+<guid>https://status.zoom.us/incidents/lry7x0q3pssc</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Zoom Phone Update
+Summary:
+Scheduled update for Zoom Phone to provide an update and include the member availability report. No operational impact is expected, and all services will be available during the update. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>17:00</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>13:18</var> PDT</small><br /><strong>Scheduled</strong> - We will be providing an update to Zoom Phone. Please refer to https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0062333 for more details. This update includes the member availability report.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 17:00:00 -0700</pubDate>
+</item>
+<item>
+<title>Zoom Contact Center Update: 3/16/2024 (No Operational Impact)</title>
+<link>https://status.zoom.us/incidents/xc8brv2l7ntp</link>
+<guid>https://status.zoom.us/incidents/xc8brv2l7ntp</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>17:00</var> PDT &nbsp;-&nbsp; Mar <var>16</var>, <var>02:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>13:16</var> PDT</small><br /><strong>Scheduled</strong> - We will be providing an update to Zoom Contact Center. Please refer to https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0067626 for more details. This update includes WhatsApp business messaging integration.<br /><br />There is no operational impact. All services will be available during this scheduled update.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 17:00:00 -0700</pubDate>
+<pubDate>Fri, 15 Mar 2024 17:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>DigiCert Global Root G2 Transition Maintenance Notice for Cloudfront SSL Certificate for Zoom Phone experience</title>

@@ -4,6 +4,17 @@
 <title>Palo Alto Networks Cloud Services Status - Incident History</title>
 <link>https://status.paloaltonetworks.com</link>
 
+<item>
+<title>Missing Unified Assets updates</title>
+<link>https://status.paloaltonetworks.com/incidents/htb8271m20lt</link>
+<guid>https://status.paloaltonetworks.com/incidents/htb8271m20lt</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Unified Asset Views Data Missing <br><br> Summary: Customers may experience missing data in the Expander product since March 10th. Engineering is working to fix the issue today. <div>
+<p><small>Mar <var>14</var>, <var>20:19</var> UTC</small><br /><strong>Identified</strong> - Unified Asset Views in the Expander product may be missing fresh data since March 10th for all customers. This may result in a lack of updates for Assets and an absence of Alerts regarding new Assets. To work around this issue, customers can use the "recalculate" button in the UI, which will force a data refresh. Engineering has identified the issue and we expect this to be fixed for all customers today, March 14th.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 20:19:13 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 20:19:13 +0000</pubDate>
+</item>
 
 <item>
 <title>Prisma Cloud [APP.JP]: Scheduled Maintenance</title>
