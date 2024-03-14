@@ -3346,3 +3346,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Compliance Service APAC - Scheduled Maintenance](https://status.sage.com/incidents/s1r4q494gt2d)
 append_entries: 1
 Finish: 2024-03-14 11:07:27.530783
+------------------------------------------------------
+Started: 2024-03-14 12:16:40.624795
+Existing_entries: 82
+Fetching from https://status.sage.com/history.rss
+Token length: 192
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage 300 People Managed Services - Major Outage](https://status.sage.com/incidents/x1p5kfxlkr46)
+append_entries: 1
+Finish: 2024-03-14 12:16:41.731811

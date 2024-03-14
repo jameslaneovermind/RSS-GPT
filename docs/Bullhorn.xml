@@ -4,6 +4,7 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>Performance Issues - Invenias Service Interruption</title>
 <link>https://status.bullhorn.com/incidents/lxqrt698m9js</link>
@@ -14,9 +15,7 @@ Summary: The Technical Operations team is investigating latency and errors impac
 <p><small>Mar <var>14</var>, <var>07:00</var> EDT</small><br /><strong>Investigating</strong> - <br /><b>Impact: Some users may experience latency and/or errors when logging in.</b><br />System: Invenias by Bullhorn <br />RING: [All]<br />Data Centres: South Africa<br />Service: [Desktop and Web]<br />Description: The Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 07:00:15 -0400</pubDate>
-<pubDate>Thu, 14 Mar 2024 07:00:15 -0400</pubDate>
 </item>
-
 <item>
 <title>Event Delays - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/p726z3wx3pyq</link>

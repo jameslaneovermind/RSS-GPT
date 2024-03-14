@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Power Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p5rjm0s8phrg</link>
@@ -16,17 +17,15 @@ Summary: An issue has been identified with Equinix Fabric - EMEA causing a major
 <p><small>Mar <var>14</var>, <var>11:05</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">1ft7jkc03ghr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032185</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM, FR)]</div></p><p><small>Mar <var>14</var>, <var>10:51</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">1ft7jkc03ghr</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032185</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM, FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 11:05:08 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 11:05:08 +0000</pubDate>
 </item>
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/11n8qrz45ssh</link>
 <guid>https://status.equinix.com/incidents/11n8qrz45ssh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Equinix Fabric - Americas (LA, MX) Major Outage <br><br> We have identified a critical issue and are implementing a fix to address the outage impacting Equinix Fabric in the Americas region. <div>
+<div> [High] - Equinix Fabric - Americas (LA, MX) Major Outage <br /><br /> We have identified a critical issue and are implementing a fix to address the outage impacting Equinix Fabric in the Americas region. <div>
 <p><small>Mar <var>14</var>, <var>10:38</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">qn0v04rd2gsb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032180</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p><p><small>Mar <var>14</var>, <var>10:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">qn0v04rd2gsb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032180</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA, MX)]</div></p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 10:38:33 +0000</pubDate>
 <pubDate>Thu, 14 Mar 2024 10:38:33 +0000</pubDate>
 </item>
 <item>
@@ -34,13 +33,11 @@ Summary: An issue has been identified with Equinix Fabric - EMEA causing a major
 <link>https://status.equinix.com/incidents/5s26c24fwxh1</link>
 <guid>https://status.equinix.com/incidents/5s26c24fwxh1</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Equinix Internet Access / Equinix Connect Service Interruption <br><br> Customers of Equinix Connect (EC) and Equinix Internet Access (EIA) experienced a service interruption for single-home customers, while no impact was reported for dual-home customers due to redundancy. Engineers are currently working to restore affected services. <div>
+<div> [Medium] - Equinix Internet Access / Equinix Connect Service Interruption <br /><br /> Customers of Equinix Connect (EC) and Equinix Internet Access (EIA) experienced a service interruption for single-home customers, while no impact was reported for dual-home customers due to redundancy. Engineers are currently working to restore affected services. <div>
 <p><small>Mar <var>14</var>, <var>10:38</var> UTC</small><br /><strong>Update</strong> - Los clientes de Equinix Connect (EC) y Equinix Internet Access (EIA) de hogar único experimentaron una interrupción del servicio, pero no hubo impacto para los clientes de EIA y EC de hogar dual debido a la redundancia. Los ingenieros de Equinix están trabajando para restaurar los servicios afectados..<br /><div style="display: none;">ydxgx30rzjvb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032176</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p><p><small>Mar <var>14</var>, <var>10:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">ydxgx30rzjvb</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032176</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (MX)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 10:38:14 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 10:38:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/sj0kjdnbkkvc</link>
