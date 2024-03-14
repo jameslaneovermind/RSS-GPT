@@ -5,6 +5,18 @@
 <link>https://status.sage.com</link>
 
 <item>
+<title>Cloud Services South Africa - Degraded performance</title>
+<link>https://status.sage.com/incidents/4n7r33myn716</link>
+<guid>https://status.sage.com/incidents/4n7r33myn716</guid>
+<content:encoded><![CDATA[
+<div> [High] - Performance Degradation and Availability Issues in South Africa Region <br><br> We have identified some latency and network issues in the South Africa region which could cause customers to experience performance degradation and availability issues. We are currently investigating the issue with our third-party provider. Summary: Identified latency and network issues in the South Africa region resulting in potential performance degradation and availability issues. Investigation with third-party provider underway. <div>
+<p><small>Mar <var>14</var>, <var>12:34</var> UTC</small><br /><strong>Identified</strong> - We have identified some latency and network issues in the South Africa region which could cause customers to experience performance degradation and availability issues.<br /><br />We are currently investigating the issue with our third-party provider.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 12:34:46 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 12:34:46 +0000</pubDate>
+</item>
+
+<item>
 <title>Sage 300 People Managed Services - Major Outage</title>
 <link>https://status.sage.com/incidents/x1p5kfxlkr46</link>
 <guid>https://status.sage.com/incidents/x1p5kfxlkr46</guid>
@@ -14,9 +26,7 @@ Summary: The company is currently investigating a potential issue with the servi
 <p><small>Mar <var>14</var>, <var>11:53</var> UTC</small><br /><strong>Resolved</strong> - The incident is now resolved.</p><p><small>Mar <var>14</var>, <var>11:21</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 11:53:19 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 11:53:19 +0000</pubDate>
 </item>
-
 <item>
 <title>Compliance Service APAC - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/s1r4q494gt2d</link>

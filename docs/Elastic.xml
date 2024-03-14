@@ -4,18 +4,17 @@
 <title>ESS (Public) Status - Incident History</title>
 <link>https://status.elastic.co</link>
 
+
 <item>
 <title>Azure South Africa North Connectivity Issues</title>
 <link>https://status.elastic.co/incidents/bbzw8sh1rlk4</link>
 <guid>https://status.elastic.co/incidents/bbzw8sh1rlk4</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Connectivity Issue in Azure South Africa North Region <br><br> Our team is investigating a degraded connectivity issue towards the Azure South Africa North region which could also affect deployment changes. We are in contact with Azure to assess the actual impact. We will post an update within the next hour. Summary: Our team is currently investigating an issue with degraded connectivity in the Azure South Africa North region, which may affect deployment changes. We are in contact with Azure to determine the impact and will provide an update soon. <div>
+<div> [Medium] - Connectivity Issue in Azure South Africa North Region <br /><br /> Our team is investigating a degraded connectivity issue towards the Azure South Africa North region which could also affect deployment changes. We are in contact with Azure to assess the actual impact. We will post an update within the next hour. Summary: Our team is currently investigating an issue with degraded connectivity in the Azure South Africa North region, which may affect deployment changes. We are in contact with Azure to determine the impact and will provide an update soon. <div>
 <p><small>Mar <var>14</var>, <var>11:53</var> UTC</small><br /><strong>Monitoring</strong> - Azure has confirmed the connectivity impact on South Africa North region. We will be monitoring the situation and we will post an update within the next 2 hours</p><p><small>Mar <var>14</var>, <var>11:33</var> UTC</small><br /><strong>Investigating</strong> - Our team is investigating a degraded connectivity issue towards the Azure South Africa North which could also affect deployment changes. We are in contact with Azure to assess the actual impact. We will post an update within the next hour</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 11:53:47 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 11:53:47 +0000</pubDate>
 </item>
-
 <item>
 <title>Elastic Docker Registry - Production Database Maintenance</title>
 <link>https://status.elastic.co/incidents/ntmmxcbfp2fw</link>

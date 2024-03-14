@@ -4,18 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>BoardEffect - website not reachable in Australia region</title>
 <link>https://status.diligent.com/incidents/s6b3gggm982p</link>
 <guid>https://status.diligent.com/incidents/s6b3gggm982p</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Error on BoardEffect Website in Australia Region <br><br> Users are encountering an error when trying to access the BoardEffect website in the Australia region. <div>
+<div> [High] - Major Error on BoardEffect Website in Australia Region <br /><br /> Users are encountering an error when trying to access the BoardEffect website in the Australia region. <div>
 <p><small>Mar <var>14</var>, <var>12:04</var> UTC</small><br /><strong>Identified</strong> - Users are encountering an error when trying to access the BoardEffect website in the Australia region.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 12:04:12 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 12:04:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Entities - Webservers are not loading in UK region</title>
 <link>https://status.diligent.com/incidents/t0xhbj5sksbd</link>
