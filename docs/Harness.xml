@@ -4,6 +4,7 @@
 <title>Harness Status - Incident History</title>
 <link>https://status.harness.io</link>
 
+
 <item>
 <title>Overview Page is slow to load and failing in certain instances</title>
 <link>https://status.harness.io/incidents/ftjrp0nqf9qc</link>
@@ -14,9 +15,7 @@ Summary: The company is currently investigating an issue, but it does not indica
 <p><small>Mar <var>14</var>, <var>09:07</var> PDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 09:07:42 -0700</pubDate>
-<pubDate>Thu, 14 Mar 2024 09:07:42 -0700</pubDate>
 </item>
-
 <item>
 <title>Degradation in active pipelines observed and actively being debugged</title>
 <link>https://status.harness.io/incidents/wm4htphthyp2</link>

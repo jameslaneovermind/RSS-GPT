@@ -4,18 +4,17 @@
 <title>Payplug Status - Incident History</title>
 <link>https://status.payplug.com</link>
 
+
 <item>
 <title>Incident concernant la méthode de paiement Apple pay</title>
 <link>https://status.payplug.com/incidents/6jn5rzvhsxgt</link>
 <guid>https://status.payplug.com/incidents/6jn5rzvhsxgt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Apple Pay Service Interruption <br><br> Service interruption with Apple Pay between 13:55 and 15:55 CET today. Payments are now back to normal. Customers may have experienced inconvenience during this time. Summary: <div>
+<div> [Medium] - Apple Pay Service Interruption <br /><br /> Service interruption with Apple Pay between 13:55 and 15:55 CET today. Payments are now back to normal. Customers may have experienced inconvenience during this time. Summary: <div>
 <p><small>Mar <var>14</var>, <var>16:14</var> CET</small><br /><strong>Resolved</strong> - Bonjour,<br />Nous avons enregistré un incident concernant la méthode de paiement Apple pay.<br />Le service a été interrompu entre 13:55 et 15:55 ce jour.<br />Les paiements repassent désormais normalement.<br />Nous vous prions de nous excuser pour la gêne occasionnée.<br /><br />--------------------<br />In Italian:<br /><br />Buongiorno,<br />Abbiamo registrato un incidente riguardante il metodo di pagamento Apple Pay.<br />Il servizio è stato interrotto tra le 13:55 e le 15:55 di oggi.<br />I pagamenti ora funzionano nuovamente normalmente.<br />Ci scusiamo per il disagio causato.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 16:14:26 +0100</pubDate>
-<pubDate>Thu, 14 Mar 2024 16:14:26 +0100</pubDate>
 </item>
-
 <item>
 <title>Perturbations concernant le moyen de paiement Oney</title>
 <link>https://status.payplug.com/incidents/s356yxzlkppd</link>

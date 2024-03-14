@@ -4,18 +4,17 @@
 <title>Cloudsmith Status - Incident History</title>
 <link>https://status.cloudsmith.io</link>
 
+
 <item>
 <title>Frontend Performance Issues</title>
 <link>https://status.cloudsmith.io/incidents/kpjynwdj43s3</link>
 <guid>https://status.cloudsmith.io/incidents/kpjynwdj43s3</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Performance Degradation on Package Detail Areas <br><br> There is currently degraded performance on package detail areas of the service. A fix has been identified and is being rolled out. We apologize for the inconvenience. Summary: A fix has been identified and is being implemented to address the performance degradation issue on package detail areas. <div>
+<div> [Medium] - Performance Degradation on Package Detail Areas <br /><br /> There is currently degraded performance on package detail areas of the service. A fix has been identified and is being rolled out. We apologize for the inconvenience. Summary: A fix has been identified and is being implemented to address the performance degradation issue on package detail areas. <div>
 <p><small>Mar <var>14</var>, <var>15:56</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>14</var>, <var>15:25</var> UTC</small><br /><strong>Identified</strong> - There is currently degraded performance on package detail areas of the service. A fix has been identified, and is being rolled out. We apologise for the inconvenience.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 15:56:57 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 15:56:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Elevated error rates and timeouts for packages</title>
 <link>https://status.cloudsmith.io/incidents/5c1h4km6sprm</link>
