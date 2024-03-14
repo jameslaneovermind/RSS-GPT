@@ -4,6 +4,7 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+
 <item>
 <title>Login and Search Issues - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/hqy3rk58y25d</link>
@@ -14,9 +15,7 @@ Summary: Some users may experience latency and/or errors when logging in, using 
 <p><small>Mar <var>14</var>, <var>11:01</var> EDT</small><br /><strong>Investigating</strong> - <br /><b>Impact: Some users may experience latency and/or errors when logging in, using lists, and running searches in the Bullhorn application.</b><br />System: Bullhorn ATS/CRM <br />Cluster(s): CLS33<br />Service: Login, Search & Lists<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 11:01:08 -0400</pubDate>
-<pubDate>Thu, 14 Mar 2024 11:01:08 -0400</pubDate>
 </item>
-
 <item>
 <title>Scheduled Maintenance - Bullhorn ATS/CRM</title>
 <link>https://status.bullhorn.com/incidents/c3sc9trd20gv</link>

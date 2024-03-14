@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p8jrnpvmcc75</link>
 <guid>https://status.equinix.com/incidents/p8jrnpvmcc75</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Equinix Fabric EMEA (FR) Outage <br><br> We are currently investigating an issue with the Equinix Fabric in the EMEA region. Incident Number: INC0032208. <div>
+<div> [Medium] - Investigating Equinix Fabric EMEA (FR) Outage <br /><br /> We are currently investigating an issue with the Equinix Fabric in the EMEA region. Incident Number: INC0032208. <div>
 <p><small>Mar <var>14</var>, <var>15:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gwm8m262dwfh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032208</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 15:08:42 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 15:08:42 +0000</pubDate>
 </item>
-
 <item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/j8r6nhf8bswp</link>

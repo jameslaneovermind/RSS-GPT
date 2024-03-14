@@ -4,6 +4,19 @@
 <title>Greenphire Status - Incident History</title>
 <link>https://status.greenphire.com</link>
 
+<item>
+<title>ClinCard 2024.03.02 Production Feature Release</title>
+<link>https://status.greenphire.com/incidents/0bs9fbwv87dv</link>
+<guid>https://status.greenphire.com/incidents/0bs9fbwv87dv</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Production Update Scheduled <br><br> Greenphire will be applying the 2024.03.02 release in our Production environment on March 15th, 2024. During this time, Greenphire systems may be briefly inaccessible while systems are updated. This update includes backward compatible quality and regulatory updates.
+
+ <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>15:00</var> - <var>17:00</var> EDT</strong></p><p><small>Mar <var>14</var>, <var>11:29</var> EDT</small><br /><strong>Scheduled</strong> - On March 15th, 2024, Greenphire will apply the 2024.03.02 release in our Production environment.  During this time Greenphire systems may be briefly inaccessible while systems are updated. This update includes the following changes:<br />     > Backward compatible quality and regulatory updates<br />Release notes for this release can be found in our Knowledge Center at clincard.com.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 15:00:00 -0400</pubDate>
+<pubDate>Fri, 15 Mar 2024 15:00:00 -0400</pubDate>
+</item>
 
 <item>
 <title>ClinCard Payment Service Degradation</title>
