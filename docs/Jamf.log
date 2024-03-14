@@ -3196,3 +3196,9 @@ Existing_entries: 40
 Fetching from https://status.jamf.com/history.rss
 append_entries: 0
 Finish: 2024-03-14 08:13:17.884779
+------------------------------------------------------
+Started: 2024-03-14 09:08:55.235816
+Existing_entries: 40
+Fetching from https://status.jamf.com/history.rss
+append_entries: 0
+Finish: 2024-03-14 09:08:55.511293
