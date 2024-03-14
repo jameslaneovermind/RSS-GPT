@@ -4,6 +4,18 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Compliance Service APAC - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/s1r4q494gt2d</link>
+<guid>https://status.sage.com/incidents/s1r4q494gt2d</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Compliance Service APAC on March 14th, 2024 <br><br> Compliance Service APAC will be undergoing a scheduled maintenance for 2 hours. Some Sage products/services may be unavailable during this time. We apologize for any inconvenience.
+ <div>
+<p><small>Mar <var>14</var>, <var>11:00</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>14</var>, <var>10:22</var> UTC</small><br /><strong>Scheduled</strong> - Compliance Service APAC will be undergoing maintenance on Thursday, March 14th, 2024, for 2 hours, between 21:00 AEST and 23:00 AEST.<br /><br />The Compliance Service used in the below products/services may be unavailable during this scheduled time:<br />- Sage Intacct<br />- X3<br />- Document Flow<br />- Sage 50 MY<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you. The Sage Team</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 11:00:56 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 11:00:56 +0000</pubDate>
+</item>
 
 <item>
 <title>Sage.com Websites - Scheduled Maintenance</title>

@@ -4,18 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Entities - Webservers are not loading in UK region</title>
 <link>https://status.diligent.com/incidents/t0xhbj5sksbd</link>
 <guid>https://status.diligent.com/incidents/t0xhbj5sksbd</guid>
 <content:encoded><![CDATA[
-<div> [High] - Login Error Causing Site Outage <br><br> Users are unable to log in to their sites due to an error, indicating a major impact on platform functionality. <div>
+<div> [High] - Login Error Causing Site Outage <br /><br /> Users are unable to log in to their sites due to an error, indicating a major impact on platform functionality. <div>
 <p><small>Mar <var>14</var>, <var>10:05</var> UTC</small><br /><strong>Investigating</strong> - Users are encountering an error when attempting to log in to their sites.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 10:05:10 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 10:05:10 +0000</pubDate>
 </item>
-
 <item>
 <title>BoardsWeb US Intermittent error on login</title>
 <link>https://status.diligent.com/incidents/ws95v1npgnc5</link>
