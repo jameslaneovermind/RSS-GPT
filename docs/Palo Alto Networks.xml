@@ -5,14 +5,104 @@
 <link>https://status.paloaltonetworks.com</link>
 
 <item>
+<title>Prisma Cloud [APP.JP]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/nkwj40lj99nv</link>
+<guid>https://status.paloaltonetworks.com/incidents/nkwj40lj99nv</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary: The company will be undergoing scheduled maintenance during the specified time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>14:30</var> - <var>15:30</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:29</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 14:30:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 14:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.CN]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/wx1xd12f84gg</link>
+<guid>https://status.paloaltonetworks.com/incidents/wx1xd12f84gg</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance
+Summary: The company will be undergoing scheduled maintenance during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>13:00</var> - <var>14:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:37</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 13:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.CA]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/rlvksq71ykbm</link>
+<guid>https://status.paloaltonetworks.com/incidents/rlvksq71ykbm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Scheduled Maintenance <br><br> We will be undergoing scheduled maintenance during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>07:00</var> - <var>08:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:18</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP4]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/r50c38n5hnv9</link>
+<guid>https://status.paloaltonetworks.com/incidents/r50c38n5hnv9</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>06:00</var> - <var>07:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:15</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 06:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.FR]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/ynz59vtp093s</link>
+<guid>https://status.paloaltonetworks.com/incidents/ynz59vtp093s</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>02:00</var> - <var>03:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:25</var> UTC</small><br /><strong>Update</strong> - UPDATE: Date Correction</p><p><small>Mar <var>13</var>, <var>23:23</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 02:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.UK]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/5v0bz4pv1htv</link>
+<guid>https://status.paloaltonetworks.com/incidents/5v0bz4pv1htv</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>01:00</var> - <var>02:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:21</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 01:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 01:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.IND]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/xs738vwcm074</link>
+<guid>https://status.paloaltonetworks.com/incidents/xs738vwcm074</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>00:00</var> - <var>01:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:34</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Prisma Cloud [APP.SG]: Scheduled Maintenance</title>
+<link>https://status.paloaltonetworks.com/incidents/pn595kp6mb0b</link>
+<guid>https://status.paloaltonetworks.com/incidents/pn595kp6mb0b</guid>
+<content:encoded><![CDATA[
+
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>22:00</var> - <var>23:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:31</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 22:00:00 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 22:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Prisma Cloud [APP3]: Scheduled Maintenance</title>
 <link>https://status.paloaltonetworks.com/incidents/v2gjx8sbpgsh</link>
 <guid>https://status.paloaltonetworks.com/incidents/v2gjx8sbpgsh</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Scheduled Maintenance <br><br> We will be undergoing scheduled maintenance during this time. <div>
+<div> [High] - Major Scheduled Maintenance <br /><br /> We will be undergoing scheduled maintenance during this time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>05:00</var> - <var>06:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:08</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 05:00:00 +0000</pubDate>
 <pubDate>Fri, 15 Mar 2024 05:00:00 +0000</pubDate>
 </item>
 <item>
@@ -25,9 +115,7 @@ Summary: The company will be undergoing scheduled maintenance during the specifi
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>04:00</var> - <var>05:00</var> UTC</strong></p><p><small>Mar <var>13</var>, <var>23:04</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 04:00:00 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 04:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Prisma Cloud [APP2] Ongoing service disruption</title>
 <link>https://status.paloaltonetworks.com/incidents/7g7sl1p7svtr</link>

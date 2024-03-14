@@ -3887,3 +3887,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Other (Metro Connect)](https://status.equinix.com/incidents/kx3j5rpq48l8)
 append_entries: 2
 Finish: 2024-03-13 23:09:19.620111
+------------------------------------------------------
+Started: 2024-03-14 00:38:15.022159
+Existing_entries: 405
+Fetching from https://status.equinix.com/history.rss
+Token length: 309
+Summarized using GPT-3.5-turbo-1106
+Append: [Provider Issue (Equinix Fabric)](https://status.equinix.com/incidents/k7fp87ry92fy)
+append_entries: 1
+Finish: 2024-03-14 00:38:16.172553
