@@ -4,19 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Account Security Carrier Partner Maintenance - WindTre Italy</title>
 <link>https://status.twilio.com/incidents/0yg0qpmsp7t1</link>
 <guid>https://status.twilio.com/incidents/0yg0qpmsp7t1</guid>
 <content:encoded><![CDATA[
 <div> [Medium] - Scheduled Maintenance for WindTre Italy
-<br><br>Summary: WindTre Italy is conducting planned maintenance from Mar 16, 15:00 PDT to Mar 17, 03:00 PDT. During this time, intermittent API request failures may occur for WindTre Italy customers. Impacted Products: Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes <div>
+<br /><br />Summary: WindTre Italy is conducting planned maintenance from Mar 16, 15:00 PDT to Mar 17, 03:00 PDT. During this time, intermittent API request failures may occur for WindTre Italy customers. Impacted Products: Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>15:00</var> PDT &nbsp;-&nbsp; Mar <var>17</var>, <var>03:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>13:59</var> PDT</small><br /><strong>Scheduled</strong> - Our carrier partner WindTre Italy is conducting a planned maintenance from 16 March 2024 at 15:00 PDT until 17 march 2024 at 03:00 PDT. During the maintenance window, there could be intermittent API request failures for WindTre Italy customers.<br /><br /><br /><br />Impacted Products: Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes</p>
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 15:00:00 -0700</pubDate>
-<pubDate>Sat, 16 Mar 2024 15:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Indonesia Voice Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/4mg1j12hhxfz</link>
