@@ -4,6 +4,18 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
+<link>https://status.equinix.com/incidents/l1mjzgwnswpq</link>
+<guid>https://status.equinix.com/incidents/l1mjzgwnswpq</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Equinix Internet Access / Equinix Connect Issue
+Summary: We are currently investigating an issue with Equinix Internet Access / Equinix Connect. Incident Number: INC0032228. <div>
+<p><small>Mar <var>14</var>, <var>18:06</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">mmg64zhxfwqt</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032228</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (SV)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 18:06:37 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 18:06:37 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Equinix Fabric)</title>

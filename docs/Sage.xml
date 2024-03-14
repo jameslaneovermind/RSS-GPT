@@ -5,6 +5,18 @@
 <link>https://status.sage.com</link>
 
 <item>
+<title>Sage 200 Standard (UKI) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/vy6s46j9k65q</link>
+<guid>https://status.sage.com/incidents/vy6s46j9k65q</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance for Sage 200 Standard (UKI) <br><br> Scheduled maintenance for Sage 200 Standard (UKI) on March 18th, 2024, will cause an outage for 2 hours. Customers are advised to download a small update after the maintenance. We apologize for any inconvenience caused. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>20:00</var> - <var>22:00</var> UTC</strong></p><p><small>Mar <var>14</var>, <var>17:35</var> UTC</small><br /><strong>Scheduled</strong> - Sage 200 Standard (UKI) will be undergoing maintenance on Monday, March 18th, 2024, for 2 hours, between 20:00 UTC and 00:00 UTC, on March 19th.<br /><br />During this time the below products will be unavailable.<br />- Sage 200 Standard (UKI)<br />- Sage Provisioning Portal (SEOS)<br /><br />Please be aware that the first time customers access the software on or after the update on March 20th you will be asked to download a small update to the software.<br /><br />We apologise for any inconvenience this may cause. <br /> <br />Thank you, The Sage Team</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 20:00:00 +0000</pubDate>
+<pubDate>Mon, 18 Mar 2024 20:00:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Sage Distribution and Manufacturing Operations (SDMO) North America - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/kyvtyk7vnptn</link>
 <guid>https://status.sage.com/incidents/kyvtyk7vnptn</guid>
@@ -14,7 +26,6 @@ Summary:
 Sage Distribution and Manufacturing Operations (SDMO) North America will be undergoing maintenance on Saturday, March 16th, 2024, for 1 hour, between 01:30 EST and 02:30 EST. The service might be unavailable during this scheduled time. We apologise for any inconvenience this may cause. Thank you, The Sage Team. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>05:30</var> - <var>06:30</var> UTC</strong></p><p><small>Mar <var>14</var>, <var>16:41</var> UTC</small><br /><strong>Scheduled</strong> - Sage Distribution and Manufacturing Operations (SDMO) North America will be undergoing maintenance on Saturday, March 16th, 2024, for 1 hour, between 01:30 EST and 02:30 EST. <br /> <br />The service might be unavailable during this scheduled time. <br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you, The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 05:30:00 +0000</pubDate>
 <pubDate>Sat, 16 Mar 2024 05:30:00 +0000</pubDate>
 </item>
 <item>
@@ -27,20 +38,17 @@ Summary: Sage Distribution and Manufacturing Operations (SDMO) Europe will be un
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>19:30</var> - <var>20:30</var> UTC</strong></p><p><small>Mar <var>14</var>, <var>16:50</var> UTC</small><br /><strong>Scheduled</strong> - Sage Distribution and Manufacturing Operations (SDMO) Europe will be undergoing maintenance on Friday, March 15th, 2024, for 1 hour, between 19:30 UTC and 20:30 UTC.<br /><br />The service might be unavailable during this scheduled time.<br /><br />We apologise for any inconvenience this may cause.<br /><br />Thank you, The Sage Team</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 19:30:00 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 19:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Brightpearl - Partial Outage</title>
 <link>https://status.sage.com/incidents/cwsltzv4wv6k</link>
 <guid>https://status.sage.com/incidents/cwsltzv4wv6k</guid>
 <content:encoded><![CDATA[
-<div> [High] - Bulk Syncing Failure for eBay Listings in UK and North America <br><br> We identified a major issue with the bulk syncing of active and scheduled eBay listings for UK and North American customers. This is causing a significant impact on our platform's functionality, and we are currently investigating the root cause of this outage. <div>
+<div> [High] - Bulk Syncing Failure for eBay Listings in UK and North America <br /><br /> We identified a major issue with the bulk syncing of active and scheduled eBay listings for UK and North American customers. This is causing a significant impact on our platform's functionality, and we are currently investigating the root cause of this outage. <div>
 <p><small>Mar <var>14</var>, <var>16:43</var> UTC</small><br /><strong>Update</strong> - We identified that bulk syncing of active and scheduled eBay listings is failing for UK and North American customers. All other product functionality is working as expected.<br /> <br />We are currently investigating.</p><p><small>Mar <var>14</var>, <var>16:23</var> UTC</small><br /><strong>Investigating</strong> - We are investigating a potential issue with the service. An update will be provided within 30 minutes.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 16:43:04 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 16:43:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage DPW Cloud - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/8r4w0tqtk8ck</link>

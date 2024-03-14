@@ -4,6 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Secure File Sharing - Intermittent erorrs when uploading files</title>
+<link>https://status.diligent.com/incidents/qw6r70p3sgsr</link>
+<guid>https://status.diligent.com/incidents/qw6r70p3sgsr</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - File Upload Issue <br><br> Summary: Users are experiencing errors and failed file uploads. A fix is being implemented. <div>
+<p><small>Mar <var>14</var>, <var>17:59</var> UTC</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Mar <var>14</var>, <var>17:46</var> UTC</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>14</var>, <var>17:29</var> UTC</small><br /><strong>Investigating</strong> - When uploading files, users have reported that they receive an error and some files do not upload.  <br /><br />We recommended attempting to reupload any files that failed as a work around.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 17:59:31 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 17:59:31 +0000</pubDate>
+</item>
 
 <item>
 <title>BoardEffect - website not reachable in Australia region</title>
