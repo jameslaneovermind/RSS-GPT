@@ -4,6 +4,32 @@
 <title>Jamf Status - Incident History</title>
 <link>https://status.jamf.com</link>
 
+<item>
+<title>Jamf School: Scheduled Maintenance (AP-Northeast)</title>
+<link>https://status.jamf.com/incidents/jh0b1yjzvwhn</link>
+<guid>https://status.jamf.com/incidents/jh0b1yjzvwhn</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled System Maintenance
+Summary: We will be performing system maintenance. We do not expect any downtime. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>15</var>, <var>14:00</var> - <var>17:00</var> UTC</strong></p><p><small>Mar <var>14</var>, <var>14:59</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing system maintenance. We do not expect any downtime.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jamf School: Scheduled Maintenance (AP-Northeast)</title>
+<link>https://status.jamf.com/incidents/7pd9jkm52f34</link>
+<guid>https://status.jamf.com/incidents/7pd9jkm52f34</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Scheduled Maintenance 
+<br><br> 
+Summary: 
+Maintenance has been postponed. <div>
+<p><small>Mar <var>14</var>, <var>14:56</var> UTC</small><br /><strong>Completed</strong> - Maintenance has been postponed.</p><p><small>Mar <var>14</var>, <var>14:35</var> UTC</small><br /><strong>In progress</strong> - Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><small>Mar <var>14</var>, <var>14:31</var> UTC</small><br /><strong>Scheduled</strong> - We will be undergoing scheduled maintenance during this time.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 14:56:41 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 14:56:41 +0000</pubDate>
+</item>
 
 <item>
 <title>APNE School Database Maintenance</title>

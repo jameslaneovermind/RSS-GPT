@@ -5,6 +5,18 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Network Component Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/p8jrnpvmcc75</link>
+<guid>https://status.equinix.com/incidents/p8jrnpvmcc75</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Investigating Equinix Fabric EMEA (FR) Outage <br><br> We are currently investigating an issue with the Equinix Fabric in the EMEA region. Incident Number: INC0032208. <div>
+<p><small>Mar <var>14</var>, <var>15:08</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">gwm8m262dwfh</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032208</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (FR)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 15:08:42 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 15:08:42 +0000</pubDate>
+</item>
+
+<item>
 <title>Link Failure (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/j8r6nhf8bswp</link>
 <guid>https://status.equinix.com/incidents/j8r6nhf8bswp</guid>
@@ -14,17 +26,15 @@ Summary: We are currently investigating a critical issue with Equinix Fabric in 
 <p><small>Mar <var>14</var>, <var>14:03</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">1zd954n64h82</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032201</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (ME, PE)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 14:03:09 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 14:03:09 +0000</pubDate>
 </item>
 <item>
 <title>Provider Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/wfcb56d3ghz3</link>
 <guid>https://status.equinix.com/incidents/wfcb56d3ghz3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage in Asia-Pacific <br><br> We have identified an issue in the Asia-Pacific region and are currently implementing a fix. This indicates a major outage with platform downtime and requires immediate attention. <div>
+<div> [High] - Major Outage in Asia-Pacific <br /><br /> We have identified an issue in the Asia-Pacific region and are currently implementing a fix. This indicates a major outage with platform downtime and requires immediate attention. <div>
 <p><small>Mar <var>14</var>, <var>13:50</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">c1lzv6m81ds7</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032200</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (ME, SY); Network Edge - Asia-Pacific (ME, SY)]</div></p><p><small>Mar <var>14</var>, <var>13:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">c1lzv6m81ds7</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032200</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (ME, SY); Network Edge - Asia-Pacific (ME, SY)]</div></p>
 ]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 13:50:52 +0000</pubDate>
 <pubDate>Thu, 14 Mar 2024 13:50:52 +0000</pubDate>
 </item>
 <item>
@@ -32,13 +42,11 @@ Summary: We are currently investigating a critical issue with Equinix Fabric in 
 <link>https://status.equinix.com/incidents/2k0bll3hzcrg</link>
 <guid>https://status.equinix.com/incidents/2k0bll3hzcrg</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Update on Fiber Event Issue <br><br> We are currently investigating an external fiber event that caused transport equipment to switch traffic to the protection path. We are in touch with our 3rd parties to determine the root cause of the issue. <div>
+<div> [Low] - Update on Fiber Event Issue <br /><br /> We are currently investigating an external fiber event that caused transport equipment to switch traffic to the protection path. We are in touch with our 3rd parties to determine the root cause of the issue. <div>
 <p><small>Mar <var>14</var>, <var>13:37</var> UTC</small><br /><strong>Update</strong> - Current Service Impact: None.<br />Latest Update: Due to an external fiber event today at 13:08 GMT the transport equipment saw additional attenuation, causing it to switch traffic to the protection path. <br />Next Action: We are in touch with our 3rd parties to investigate the root cause of this fiber event..<br /><div style="display: none;">kywqq7t2732y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032196</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (ML)]</div></p><p><small>Mar <var>14</var>, <var>13:25</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">kywqq7t2732y</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032196</div><div class="affected-products font-small color-secondary">[Metro Connect - EMEA (ML)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 13:37:54 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 13:37:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Power Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p5rjm0s8phrg</link>

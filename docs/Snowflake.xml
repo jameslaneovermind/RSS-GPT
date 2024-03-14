@@ -4,18 +4,17 @@
 <title>Snowflake Status - Incident History</title>
 <link>https://status.snowflake.com</link>
 
+
 <item>
 <title>14 Deployments Affected: INC0104466</title>
 <link>https://status.snowflake.com/incidents/11p95gzns6kz</link>
 <guid>https://status.snowflake.com/incidents/11p95gzns6kz</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Snowsight Outage <br><br> Customers hosted in specified regions are unable to access or use Snowflake services and features using Snowsight via PrivateLink. Incident started at 11:35 UTC on March 14, 2024. <div>
+<div> [High] - Major Snowsight Outage <br /><br /> Customers hosted in specified regions are unable to access or use Snowflake services and features using Snowsight via PrivateLink. Incident started at 11:35 UTC on March 14, 2024. <div>
 <p><small>Mar <var>14</var>, <var>06:38</var> PDT</small><br /><strong>Investigating</strong> - <b>Current status:</b> We're investigating an issue with Snowsight. We'll provide an update within 60 minutes.<br /><b>Customer experience:</b> Customers hosted in the specified regions may be unable to access or use Snowflake services and features using Snowsight via PrivateLink.<br /><b>Incident start time:</b> 11:35 UTC March 14, 2024</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 06:38:09 -0700</pubDate>
-<pubDate>Thu, 14 Mar 2024 06:38:09 -0700</pubDate>
 </item>
-
 <item>
 <title>Azure - Japan East (Tokyo, Saitama): INC0104291</title>
 <link>https://status.snowflake.com/incidents/yphlk97yskp8</link>

@@ -4,6 +4,20 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+<item>
+<title>Sage DPW Cloud - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/8r4w0tqtk8ck</link>
+<guid>https://status.sage.com/incidents/8r4w0tqtk8ck</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Maintenance Outage <br><br> Sage DPW Cloud will be undergoing maintenance on Sunday, March 17th, 2024, for 16 hours between 07:00 CET and 23:00 CET. The service will be unavailable during this scheduled time.
+
+Summary:
+Sage DPW Cloud will be undergoing major maintenance causing a 16-hour outage, rendering the service unavailable. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>17</var>, <var>06:00</var> - <var>07:00</var> UTC</strong></p><p><small>Mar <var>14</var>, <var>15:01</var> UTC</small><br /><strong>Scheduled</strong> - Sage DPW Cloud will be undergoing maintenance on Sunday, March 17th, 2024, for 16 hours between 07:00 CET and 23:00 CET. <br /> <br />The service will be unavailable during this scheduled time. <br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team<br /> <br /> ---------------------------------------------------- <br /> <br />Bei Ihrer Sage DPW Cloud werden am Sonntag, den 17. März 2024, zwischen 07:00 MEZ und 23:00 MEZ. Wartungsarbeiten durchgeführt. <br /> <br />Service ist während dieser geplanten Zeit nicht verfügbar. <br /> <br />Wir entschuldigen uns für etwaige Unannehmlichkeiten. <br /> <br />Mit freundlichen Grüßen, Das Sage-Team</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 06:00:00 +0000</pubDate>
+<pubDate>Sun, 17 Mar 2024 06:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Cloud Services South Africa - Degraded performance</title>
