@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - T-Mobile</title>
 <link>https://status.twilio.com/incidents/fcmhz5ddb71g</link>
 <guid>https://status.twilio.com/incidents/fcmhz5ddb71g</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - T-Mobile Emergency Maintenance March 14-15, 2024 <br><br> T-Mobile US is conducting emergency maintenance, potentially causing intermittent delays with SMS delivery to and from T-Mobile US handsets. <div>
+<div> [Medium] - T-Mobile Emergency Maintenance March 14-15, 2024 <br /><br /> T-Mobile US is conducting emergency maintenance, potentially causing intermittent delays with SMS delivery to and from T-Mobile US handsets. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>22:00</var> PDT &nbsp;-&nbsp; Mar <var>15</var>, <var>04:00</var> PDT</strong></p><p><small>Mar <var>13</var>, <var>16:51</var> PDT</small><br /><strong>Scheduled</strong> - The T-Mobile network in US is conducting an emergency maintenance from 14 March 2024 at 22:00 PDT until 15 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from T-Mobile US handsets.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 22:00:00 -0700</pubDate>
-<pubDate>Thu, 14 Mar 2024 22:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Israel Voice Carrier Partner Maintenance</title>
 <link>https://status.twilio.com/incidents/fzxxp2sghrkt</link>

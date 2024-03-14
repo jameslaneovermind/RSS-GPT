@@ -4,6 +4,19 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>ATS/CRM - CLS30, CLS31, CLS32, CLS33, CLS34, CLS35, CLS43, CLS42, CLS41, CLS40, CLS44</title>
+<link>https://status.bullhorn.com/incidents/b6lbvmq41lxw</link>
+<guid>https://status.bullhorn.com/incidents/b6lbvmq41lxw</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Regular Release Update <br><br> Summary: Bullhorn ATS/CRM will undergo routine updates and bug fixes during the specified time frame. No user impact is expected.
+
+ <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>14</var>, <var>21:00</var> - <var>23:00</var> EDT</strong></p><p><small>Mar <var>13</var>, <var>21:00</var> EDT</small><br /><strong>Scheduled</strong> - <br /><b>Impact: There should not be any user impact resulting from this release.</b><br />System: Bullhorn ATS/CRM<br />Cluster(s): CLS30, CLS31, CLS32, CLS33, CLS34, CLS35, CLS43, CLS42, CLS41, CLS40, CLS44<br />Description: The Bullhorn Technical Operations team will be releasing the latest features and bug fixes during the specified time frame. Please visit https://www.bullhorn.com/product-release-portal/ for release details.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 21:00:00 -0400</pubDate>
+<pubDate>Thu, 14 Mar 2024 21:00:00 -0400</pubDate>
+</item>
 
 <item>
 <title>Scheduled Maintenance - Onboarding365</title>

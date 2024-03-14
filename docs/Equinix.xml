@@ -4,6 +4,7 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/k7fp87ry92fy</link>
@@ -14,9 +15,7 @@ Summary: Equinix is currently investigating an issue with their Fabric in the Am
 <p><small>Mar <var>14</var>, <var>00:15</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">h1886yst3njp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032068</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, HO)]</div></p><p><small>Mar <var>14</var>, <var>00:01</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">h1886yst3njp</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032068</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DA, HO)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 00:15:04 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 00:15:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Other (Metro Connect)</title>
 <link>https://status.equinix.com/incidents/f19l445fcwyd</link>
