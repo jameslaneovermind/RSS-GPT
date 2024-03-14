@@ -4,22 +4,21 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p8yw36jjqj9x</link>
 <guid>https://status.equinix.com/incidents/p8yw36jjqj9x</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Issue with Equinix Fabric in Americas (CH, NY) <br><br> A fix is being implemented for the identified issue with Equinix Fabric in Americas (CH, NY). 
+<div> [High] - Major Issue with Equinix Fabric in Americas (CH, NY) <br /><br /> A fix is being implemented for the identified issue with Equinix Fabric in Americas (CH, NY). 
 Summary:
 
-[Medium] - Investigation Ongoing for Equinix Fabric Issue <br><br> The issue with Equinix Fabric in Americas (CH, NY) is currently being investigated. 
+[Medium] - Investigation Ongoing for Equinix Fabric Issue <br /><br /> The issue with Equinix Fabric in Americas (CH, NY) is currently being investigated. 
 Summary: <div>
 <p><small>Mar <var>14</var>, <var>05:52</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">qcl6qy333z4v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032132</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p><p><small>Mar <var>14</var>, <var>05:38</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">qcl6qy333z4v</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032132</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (CH, NY)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 05:52:57 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 05:52:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Power Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/t91dx01c1x9r</link>
