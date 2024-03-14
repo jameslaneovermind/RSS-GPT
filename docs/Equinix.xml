@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Network Component Issue (Network Edge, Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/50r3p28yksnm</link>
 <guid>https://status.equinix.com/incidents/50r3p28yksnm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Platform Downtime <br><br> We are currently investigating and implementing a fix for an issue impacting Equinix Fabric and Network Edge in the EMEA region. The incident has been identified and work is underway to address it. <div>
+<div> [High] - Major Incident: Platform Downtime <br /><br /> We are currently investigating and implementing a fix for an issue impacting Equinix Fabric and Network Edge in the EMEA region. The incident has been identified and work is underway to address it. <div>
 <p><small>Mar <var>14</var>, <var>02:33</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">sht9j63k950w</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032085</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p><p><small>Mar <var>14</var>, <var>02:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">sht9j63k950w</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032085</div><div class="affected-products font-small color-secondary">[Network Edge - EMEA (AM); Equinix Fabric - EMEA (AM)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 02:33:31 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 02:33:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/k7fp87ry92fy</link>
