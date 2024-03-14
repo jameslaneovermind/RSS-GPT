@@ -4,18 +4,17 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+
 <item>
 <title>Degraded run and policy performance</title>
 <link>https://status.hashicorp.com/incidents/210s0bvmhqr3</link>
 <guid>https://status.hashicorp.com/incidents/210s0bvmhqr3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Degraded Performance in Pre-Apply and Policy Stages <br><br> We have identified and are currently monitoring some degraded performance for pre-apply and policy stages. <div>
+<div> [High] - Degraded Performance in Pre-Apply and Policy Stages <br /><br /> We have identified and are currently monitoring some degraded performance for pre-apply and policy stages. <div>
 <p><small>Mar <var>14</var>, <var>17:38</var> UTC</small><br /><strong>Update</strong> - We've spotted that something has gone wrong. We're currently investigating the issue, and will provide an update soon.</p><p><small>Mar <var>14</var>, <var>17:30</var> UTC</small><br /><strong>Identified</strong> - We have identified and are currently monitoring some degraded performance for pre-apply and policy stages.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 17:38:18 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 17:38:18 +0000</pubDate>
 </item>
-
 <item>
 <title>HCP Boundary Maintenance:  March 2024</title>
 <link>https://status.hashicorp.com/incidents/pm9hy3s6gvyz</link>
