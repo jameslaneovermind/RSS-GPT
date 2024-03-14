@@ -4,6 +4,18 @@
 <title>Peloton Status - Incident History</title>
 <link>https://status.onepeloton.com</link>
 
+<item>
+<title>Elevated platform detect errors on V1 bike</title>
+<link>https://status.onepeloton.com/incidents/qmvy2bnplyff</link>
+<guid>https://status.onepeloton.com/incidents/qmvy2bnplyff</guid>
+<content:encoded><![CDATA[
+<div> [High] - Investigating Issue with Platform
+Summary: We are currently investigating a critical issue with our platform that is causing downtime for our users. <div>
+<p><small>Mar <var>14</var>, <var>16:05</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 16:05:15 -0400</pubDate>
+<pubDate>Thu, 14 Mar 2024 16:05:15 -0400</pubDate>
+</item>
 
 <item>
 <title>Some Members using Apple Watch unable to see Heart Rate on Connected Fitness devices</title>
