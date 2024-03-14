@@ -4,18 +4,17 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>Link Failure (Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/sj0kjdnbkkvc</link>
 <guid>https://status.equinix.com/incidents/sj0kjdnbkkvc</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Incident: Platform Downtime <br><br> We are currently implementing a fix for the identified issue with Equinix Internet Access / Equinix Connect - EMEA (LS). Incident Number: INC0032143. <div>
+<div> [High] - Major Incident: Platform Downtime <br /><br /> We are currently implementing a fix for the identified issue with Equinix Internet Access / Equinix Connect - EMEA (LS). Incident Number: INC0032143. <div>
 <p><small>Mar <var>14</var>, <var>08:31</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">0v70dbgst7j8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032143</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (LS)]</div></p><p><small>Mar <var>14</var>, <var>08:18</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">0v70dbgst7j8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032143</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - EMEA (LS)]</div></p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 08:31:46 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 08:31:46 +0000</pubDate>
 </item>
-
 <item>
 <title>Provider Issue (Equinix Fabric)</title>
 <link>https://status.equinix.com/incidents/p8yw36jjqj9x</link>
