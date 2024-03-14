@@ -4,6 +4,29 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Power Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/t91dx01c1x9r</link>
+<guid>https://status.equinix.com/incidents/t91dx01c1x9r</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Power Issue Detected in AM3 IBX <br><br> Equinix SMC detected a power issue in AM3 IBX. Equinix engineers are evaluating the situation and will provide more details as they become available. <div>
+<p><small>Mar <var>14</var>, <var>04:42</var> UTC</small><br /><strong>Update</strong> - Equinix SMC detected a power issue in AM3 IBX. Equinix engineers are evaluating the situation and will provide more details as they become available..<br /><div style="display: none;">cjr1s8nq59g4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032122</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p><p><small>Mar <var>14</var>, <var>04:28</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">cjr1s8nq59g4</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032122</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (AM); Network Edge - EMEA (AM)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 04:42:45 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 04:42:45 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/p28yhnc373mp</link>
+<guid>https://status.equinix.com/incidents/p28yhnc373mp</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage on Equinix Fabric and Network Edge in Americas
+<br><br> Summary: The issue has been identified and a fix is being implemented for a large scale outage impacting Equinix Fabric and Network Edge in the Americas. <div>
+<p><small>Mar <var>14</var>, <var>04:27</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">5mqbvmx3m1h8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032115</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DC, NY); Network Edge - Americas (DC, NY)]</div></p><p><small>Mar <var>14</var>, <var>04:13</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">5mqbvmx3m1h8</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032115</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (DC, NY); Network Edge - Americas (DC, NY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 04:27:54 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 04:27:54 +0000</pubDate>
+</item>
 
 <item>
 <title>Network Component Issue (Network Edge, Equinix Fabric)</title>

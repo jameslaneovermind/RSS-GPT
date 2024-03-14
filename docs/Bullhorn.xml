@@ -4,6 +4,20 @@
 <title>Bullhorn Status - Incident History</title>
 <link>https://status.bullhorn.com</link>
 
+<item>
+<title>Event Delays - Bullhorn ATS/CRM</title>
+<link>https://status.bullhorn.com/incidents/p726z3wx3pyq</link>
+<guid>https://status.bullhorn.com/incidents/p726z3wx3pyq</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Bullhorn Application Search Delays <br><br> Some users may be experiencing delays when searching for newly added or recently modified records in the Bullhorn application. The Bullhorn Technical Operations team is currently investigating the issue. 
+
+
+ <div>
+<p><small>Mar <var>14</var>, <var>00:11</var> EDT</small><br /><strong>Investigating</strong> - <br /><b>Impact: Some users may experience delays when searching for newly added or recently modified records in the Bullhorn application. Additionally, some API integrations may experience delays receiving events from the Bullhorn application.</b><br />System: Bullhorn ATS/CRM <br />Cluster(s): CLS21<br />Service: Data Events<br />Description: The Bullhorn Technical Operations team is investigating this issue, further updates will be posted here when available.</p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 00:11:50 -0400</pubDate>
+<pubDate>Thu, 14 Mar 2024 00:11:50 -0400</pubDate>
+</item>
 
 <item>
 <title>ATS/CRM - CLS30, CLS31, CLS32, CLS33, CLS34, CLS35, CLS43, CLS42, CLS41, CLS40, CLS44</title>

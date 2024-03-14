@@ -4,19 +4,18 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+
 <item>
 <title>Global (Germany) - Push Service Degradation</title>
 <link>https://status.infobip.com/incidents/f1r5ltjq0wx7</link>
 <guid>https://status.infobip.com/incidents/f1r5ltjq0wx7</guid>
 <content:encoded><![CDATA[
 <div> [High] - Major Push Service Outage in Global Data Center
-<br><br>Summary: We are currently investigating a critical issue with our Push service over our Global (Germany) data center, causing a major outage. More updates will follow as we work to resolve the issue. <div>
+<br /><br />Summary: We are currently investigating a critical issue with our Push service over our Global (Germany) data center, causing a major outage. More updates will follow as we work to resolve the issue. <div>
 <p><small>Mar <var>14</var>, <var>03:47</var> UTC</small><br /><strong>Update</strong> - We are continuing to investigate this issue.</p><p><small>Mar <var>14</var>, <var>03:16</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing a problem with Push service over our Global (Germany) data center. We are investigating the issue and more updates will follow.</p>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 03:47:45 +0000</pubDate>
-<pubDate>Thu, 14 Mar 2024 03:47:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Global (Germany) - Moments service processing degradation</title>
 <link>https://status.infobip.com/incidents/s791w8v1gfc4</link>
