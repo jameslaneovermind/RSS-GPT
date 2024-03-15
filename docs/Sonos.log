@@ -3376,3 +3376,9 @@ Existing_entries: 30
 Fetching from https://status.sonos.com/history.rss
 append_entries: 0
 Finish: 2024-03-15 18:12:17.584172
+------------------------------------------------------
+Started: 2024-03-15 19:08:00.035593
+Existing_entries: 30
+Fetching from https://status.sonos.com/history.rss
+append_entries: 0
+Finish: 2024-03-15 19:08:00.400196

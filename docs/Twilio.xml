@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/0x1fv2kdyn5x</link>
 <guid>https://status.twilio.com/incidents/0x1fv2kdyn5x</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for Small US Networks <br><br> From 26 March 2024 at 02:00 PDT until 26 March 2024 at 04:00 PDT, a subset of small US networks will be undergoing planned maintenance. This may result in intermittent delays in SMS delivery to and from these carriers. Summary: <div>
+<div> [Medium] - Planned Maintenance for Small US Networks <br /><br /> From 26 March 2024 at 02:00 PDT until 26 March 2024 at 04:00 PDT, a subset of small US networks will be undergoing planned maintenance. This may result in intermittent delays in SMS delivery to and from these carriers. Summary: <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>26</var>, <var>02:00</var> - <var>04:00</var> PDT</strong></p><p><small>Mar <var>15</var>, <var>11:02</var> PDT</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US are conducting a planned maintenance from 26 March 2024 at 02:00 PDT until 26 March 2024 at 04:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from small US carriers.</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 02:00:00 -0700</pubDate>
-<pubDate>Tue, 26 Mar 2024 02:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Ukraine SMS Carrier Maintenance - Lifecell</title>
 <link>https://status.twilio.com/incidents/1py7jd1w3q2m</link>

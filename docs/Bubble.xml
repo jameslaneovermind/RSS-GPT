@@ -4,6 +4,46 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/dl796hp6hlxt</link>
+<guid>https://status.bubble.io/incidents/dl796hp6hlxt</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Outage
+Summary: The company is investigating reports of issues with their systems, indicating a major outage that is impacting their services.
+
+[Low] - Connectivity Issues
+Summary: The company's systems were previously affected but are now functional, with the incident being resolved. <div>
+<p><small>Mar <var>15</var>, <var>14:46</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:44</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 14:46:26 -0400</pubDate>
+<pubDate>Fri, 15 Mar 2024 14:46:26 -0400</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/kqlt9crvf1l2</link>
+<guid>https://status.bubble.io/incidents/kqlt9crvf1l2</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Outage
+Summary:
+Our systems experienced a critical incident at 14:37 EDT, resulting in platform downtime. We are investigating reports of issues with our systems. Our systems are now functional, and we are closing out this incident. <div>
+<p><small>Mar <var>15</var>, <var>14:39</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:37</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 14:39:50 -0400</pubDate>
+<pubDate>Fri, 15 Mar 2024 14:39:50 -0400</pubDate>
+</item>
+<item>
+<title>Issues with Main Bubble Cluster</title>
+<link>https://status.bubble.io/incidents/7w5yb9d6p0zs</link>
+<guid>https://status.bubble.io/incidents/7w5yb9d6p0zs</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major System Outage
+Summary: Our systems experienced a major outage, affecting functionality. We are currently investigating the cause of the issue. <div>
+<p><small>Mar <var>15</var>, <var>14:34</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:32</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 14:34:16 -0400</pubDate>
+<pubDate>Fri, 15 Mar 2024 14:34:16 -0400</pubDate>
+</item>
 
 <item>
 <title>Issues with Main Bubble Cluster</title>

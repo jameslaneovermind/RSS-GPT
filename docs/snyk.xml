@@ -4,6 +4,18 @@
 <title>Snyk Status - Incident History</title>
 <link>https://status.snyk.io</link>
 
+<item>
+<title>Cloud Compliance Report Unresponsive</title>
+<link>https://status.snyk.io/incidents/zlbf6ljpfrwq</link>
+<guid>https://status.snyk.io/incidents/zlbf6ljpfrwq</guid>
+<content:encoded><![CDATA[
+<div> [High] - Critical Incident: Cloud Compliance Report Unresponsive
+<br><br> Summary: Snyk's monitoring services have identified the Cloud Compliance Report as unresponsive, leading to a major outage. The Incident Response process has been initiated with technical teams engaged in triage and mitigation efforts. <div>
+<p><small>Mar <var>15</var>, <var>18:56</var> UTC</small><br /><strong>Resolved</strong> - The Snyk Incident Response process has been stood down. All services have been restored, and no impact is currently being experienced.</p><p><small>Mar <var>15</var>, <var>18:42</var> UTC</small><br /><strong>Monitoring</strong> - The Snyk Incident Response process remains in flight. Snyk Technical Teams have taken action to mitigate the incident. Services are now restored and are under close monitoring conditions.</p><p><small>Mar <var>15</var>, <var>18:13</var> UTC</small><br /><strong>Investigating</strong> - Snyk monitoring services have identified the Cloud Compliance Report as unresponsive. The Snyk Incident Response process has been evoked. Technical Teams have been engaged. Initial triage is underway.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 18:56:05 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 18:56:05 +0000</pubDate>
+</item>
 
 <item>
 <title>Automated Test degradation</title>
