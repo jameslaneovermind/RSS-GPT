@@ -4,6 +4,18 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Vietnam SMS Carrier Maintenance - Mobifone</title>
+<link>https://status.twilio.com/incidents/kzz8b4g9qtng</link>
+<guid>https://status.twilio.com/incidents/kzz8b4g9qtng</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance on Mobifone Vietnam Network
+Summary: Mobifone Vietnam is conducting a planned maintenance, which may cause intermittent delays in SMS delivery to and from Mobifone Vietnam handsets on 19th March 2023 from 10:00 to 11:05 PDT. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>10:00</var> - <var>11:05</var> PDT</strong></p><p><small>Mar <var>15</var>, <var>06:08</var> PDT</small><br /><strong>Scheduled</strong> - The Mobifone network in Vietnam is conducting a planned maintenance from 19 March 2023 at 10:00 PDT until 19 March 2024 at 11:05 PDT. During the maintenance window, there could be intermittent delays delivering SMS to and from Mobifone Vietnam handsets.</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 10:00:00 -0700</pubDate>
+<pubDate>Tue, 19 Mar 2024 10:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Planned Maintenance for Flex Insights Historical Reporting</title>
