@@ -4,6 +4,31 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>Network Component Issue (Equinix Fabric, Network Edge)</title>
+<link>https://status.equinix.com/incidents/r014rnj1qsjk</link>
+<guid>https://status.equinix.com/incidents/r014rnj1qsjk</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Network Outage at Equinix Fabric - EMEA (LD) <br><br> A fix is being implemented for the identified issue with Incident Number INC0032262. The outage has been causing significant disruption and is currently under investigation.
+
+ <div>
+<p><small>Mar <var>15</var>, <var>00:06</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">244yrpp0r215</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032262</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD); Network Edge - EMEA (LD)]</div></p><p><small>Mar <var>14</var>, <var>23:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">244yrpp0r215</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032262</div><div class="affected-products font-small color-secondary">[Equinix Fabric - EMEA (LD); Network Edge - EMEA (LD)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 00:06:37 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 00:06:37 +0000</pubDate>
+</item>
+<item>
+<title>Link Failure (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/rgpj13fb06wt</link>
+<guid>https://status.equinix.com/incidents/rgpj13fb06wt</guid>
+<content:encoded><![CDATA[
+<div> [High] - Dark Fiber Link Flapping in Equinix Fabric Metro Remote
+<br><br> Summary: A dark fiber link between sg3 and ty9 experienced flapping, causing service interruption for Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits, with a 50ms switching hit for Protected Metro Connect circuits. Engineers are currently investigating the issue. <div>
+<p><small>Mar <var>14</var>, <var>23:31</var> UTC</small><br /><strong>Update</strong> - ******DF LINK DOWN/FLAP********<br />Dark fiber link between sg3 and ty9 flapped<br /><br />Equinix Fabric Metro Remote port and Unprotected Metro Connect circuits experience service interruption while Protected Metro Connect circuits experienced 50ms switching hit. Equinix engineers are investigating issue.<br /><br /><br />.<br /><div style="display: none;">vc8th8m76bh6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032261</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY)]</div></p><p><small>Mar <var>14</var>, <var>23:19</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">vc8th8m76bh6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032261</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Asia-Pacific (SG, TY)]</div></p>
+]]></content:encoded>
+<pubDate>Thu, 14 Mar 2024 23:31:06 +0000</pubDate>
+<pubDate>Thu, 14 Mar 2024 23:31:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Provider Issue (Equinix Internet Access / Equinix Connect)</title>
