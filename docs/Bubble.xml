@@ -4,6 +4,7 @@
 <title>Bubble Status - Incident History</title>
 <link>https://status.bubble.io</link>
 
+
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/dl796hp6hlxt</link>
@@ -17,7 +18,6 @@ Summary: The company's systems were previously affected but are now functional, 
 <p><small>Mar <var>15</var>, <var>14:46</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:44</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 14:46:26 -0400</pubDate>
-<pubDate>Fri, 15 Mar 2024 14:46:26 -0400</pubDate>
 </item>
 <item>
 <title>Issues with Main Bubble Cluster</title>
@@ -30,7 +30,6 @@ Our systems experienced a critical incident at 14:37 EDT, resulting in platform 
 <p><small>Mar <var>15</var>, <var>14:39</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:37</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 14:39:50 -0400</pubDate>
-<pubDate>Fri, 15 Mar 2024 14:39:50 -0400</pubDate>
 </item>
 <item>
 <title>Issues with Main Bubble Cluster</title>
@@ -42,9 +41,7 @@ Summary: Our systems experienced a major outage, affecting functionality. We are
 <p><small>Mar <var>15</var>, <var>14:34</var> EDT</small><br /><strong>Resolved</strong> - Our systems are functional and we are closing out this incident.</p><p><small>Mar <var>15</var>, <var>14:32</var> EDT</small><br /><strong>Investigating</strong> - We are investigating reports of issues with our systems.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 14:34:16 -0400</pubDate>
-<pubDate>Fri, 15 Mar 2024 14:34:16 -0400</pubDate>
 </item>
-
 <item>
 <title>Issues with Main Bubble Cluster</title>
 <link>https://status.bubble.io/incidents/72k072yx2rf9</link>
