@@ -4,20 +4,19 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>Compliance Service - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/4y8bn64cn2zm</link>
 <guid>https://status.sage.com/incidents/4y8bn64cn2zm</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Compliance Service Maintenance <br><br> During the scheduled maintenance on March 18th, 2024, Compliance Service used in various Sage products will be unavailable for 3 hours, causing a significant impact on operations.
+<div> [High] - Major Compliance Service Maintenance <br /><br /> During the scheduled maintenance on March 18th, 2024, Compliance Service used in various Sage products will be unavailable for 3 hours, causing a significant impact on operations.
 
 I hope this is helpful. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>19:00</var> - <var>22:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>13:50</var> UTC</small><br /><strong>Scheduled</strong> - Compliance Service Europe will be undergoing maintenance on Monday, March 18th, 2024, for 3 hours, between 19:00 UTC and 22:00 UTC.<br /><br />The Compliance Service used in the below products/services may be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you. The Sage Team<br /><br />-------------------------------------------------------------------<br /><br />Compliance Service estará en mantenimiento el Lunes 18 de Marzo de 2024, durante 3 horas entre las 20:00 CET y las 21:00 CET.<br /> <br />La funcionalidad de Compliance Service no estará disponible en los productos citados mas abajo, durante este período de tiempo.<br /> <br />Pedimos disculpas por cualquier inconveniente que podamos causar. <br /> <br />Gracias. El equipo de Sage. <br /><br />-------------------------------------------------------------------<br /><br />Compliance Service sera en maintenance le Lundi 18 Mars pendant 3 heures entre 20:00 CET et 23:00 CET.<br /> <br />La fonctionnalité du Compliance Service ne sera pas disponible dans les produits répertoriés ci-dessous pendant cette période.<br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer. <br /> <br />Merci. L'équipe Sage. <br /><br />List of Products: <br />- Sage Intacct<br />- Sage Business Cloud Payroll<br />- Sage One Portugal<br />- Sage Business Cloud Accounting (UKI)<br />- Sage Business Cloud Accounting (EU)<br />- Sage Provisioning Portal (X3)<br />- Sage X3 (Multi Tenant)<br />- Sage X3 (Single Tenant)<br />- Sage X3 (Multi Tenant) - Sage Intelligence<br />- Sage X3 Online Help<br />- Sage X3 Hosted (FR)<br />- Sage 50 Accounts<br />- Sage 200 Standard (UKI)<br />- Sage 200 Professional SPC (UKI)<br />- Making Tax Digital (MTD)<br />- Sage 50 (ES)<br />- Sage 200 (ES)<br />- Sage 200 Partner Cloud (ES)<br />- Sage Despachos (ES)<br />- Sage Online (FR)<br />- Sage 100 Partner Cloud (FR)<br />- Sage for Accountants<br />- Document Flow Service</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 19:00:00 +0000</pubDate>
-<pubDate>Mon, 18 Mar 2024 19:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage Business Cloud Accounting (UKI) - Degraded Performance</title>
 <link>https://status.sage.com/incidents/nw8g82cgrvx9</link>

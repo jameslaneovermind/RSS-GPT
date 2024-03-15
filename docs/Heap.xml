@@ -4,6 +4,17 @@
 <title>Heap Status - Incident History</title>
 <link>https://status.heap.io</link>
 
+<item>
+<title>Heap Connect Sync Delays</title>
+<link>https://status.heap.io/incidents/fs1drq18m4yl</link>
+<guid>https://status.heap.io/incidents/fs1drq18m4yl</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Delay in Connect Syncs <br><br> Investigating delay in Connect Syncs affecting all environments. Engineering team working on identifying root cause and implementing a solution. Update in 30 minutes. Summary: Investigating delays in Connect Syncs across all environments. Engineering team is working on a solution. <div>
+<p><small>Mar <var>15</var>, <var>07:26</var> PDT</small><br /><strong>Identified</strong> - The issue has been identified and a fix is being implemented.</p><p><small>Mar <var>15</var>, <var>07:13</var> PDT</small><br /><strong>Investigating</strong> - We are currently experiencing delays for Connect Syncs. All environments appear to be affected.<br /><br />Our engineering team is currently working to identify a root cause and implement a solution.<br /><br />We will post an update in 30 minutes.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 07:26:39 -0700</pubDate>
+<pubDate>Fri, 15 Mar 2024 07:26:39 -0700</pubDate>
+</item>
 
 <item>
 <title>Heap Connect Sync Delays</title>
