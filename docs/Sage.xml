@@ -6,13 +6,24 @@
 
 <item>
 <title>Sage 200 Standard (UKI) - Scheduled Maintenance</title>
+<link>https://status.sage.com/incidents/b91k6px06m18</link>
+<guid>https://status.sage.com/incidents/b91k6px06m18</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Scheduled Maintenance for Sage 200 Standard (UKI) <br><br> During the maintenance on March 18th, 2024, Sage 200 Standard (UKI) will undergo maintenance for 4 hours, potentially causing performance degradation. We apologize for any inconvenience caused. Thank you. The Sage Team. Summary: Sage 200 Standard (UKI) will be undergoing a scheduled maintenance for 4 hours, causing potential performance degradation. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>19</var>, <var>00:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>11:11</var> UTC</small><br /><strong>Scheduled</strong> - Sage 200 Standard (UKI) will be undergoing maintenance on Monday, March 18th, 2024, for 4 hours, between 20:00 UTC and 00:00 UTC, on March 19th. (March 18th: 16:00 EST and 20:00 EST) & (22:00 SAST on March 18th and 02:00 SAST on March 19th.)<br /><br />During this time the below products may experience performance degradation.<br /> <br />We apologise for any inconvenience this may cause. <br /> <br />Thank you. The Sage Team <br /> <br />----------------------------------------------------------------------- <br /> <br />Sage 200 Standard (UKI) estará en mantenimiento el Lunes 18 de Marzo de 2024, durante 4 horas entre las 21:00 CET y las 01:00 CET, del 19 de Marzo <br /> <br />Durante este tiempo, los siguientes productos pueden experimentar una degradación del rendimiento.<br /> <br />Pedimos disculpas por cualquier inconveniente que podamos causar. <br /> <br />Gracias El equipo de Sage. <br /> <br />----------------------------------------------------------------------- <br /> <br />Sage 200 Standard (UKI) sera en maintenance le Lundi 18 Mars pendant 4 heures entre 21:00 CET et 01:00 CET, le 19 Mars. <br /> <br />Pendant cette période, les produits suivants peuvent subir une dégradation de leurs performances.<br /> <br />Nous nous excusons pour tout inconvénient que cela pourrait causer. <br /> <br />Merci. L'équipe Sage. <br /> <br />------------------------------------------------------------------------ <br /> <br />Sage 200 Standard (UKI) wird am Montag, 18. Marsch 2024, für 4 Std. zwischen 21:00 MSZ und 01:00 MSZ, 19. Marsch, gewartet.<br /> <br />Der Zugriff auf das Sage Provisioning Portal (SEOS) über die unten aufgeführten Dienste kann während dieser Zeit für einige Minuten beeinträchtigt sein.<br /> <br />Während dieser Zeit kann es bei den folgenden Produkten zu Leistungseinbußen kommen.<br /> <br />Mit freundlichen Grüßen, Das Sage-Team.<br /><br />- Sage 200 Standard (UKI)<br />- Sage Provisioning Portal (SEOS)<br />- Sage Online (FR) <br />- Sage 100 Partner Cloud (FR)<br />- Sage FRP 1000 Partner Cloud (FR)<br />- Sage 200 Standard (UKI) <br />- Sage 200 Professional SPC (UKI) <br />- Sage 200 (ES) <br />- Sage 200 Partner Cloud (ES)<br />- Sage Despachos (ES) <br />- Sage 300 Partner Cloud (NA) <br />- Sage 100 Partner Cloud (NA) <br />- Sage ERP (DE)<br />- Sage 300 People Managed Services</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 20:00:00 +0000</pubDate>
+<pubDate>Mon, 18 Mar 2024 20:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Sage 200 Standard (UKI) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/wmhczyk8p67g</link>
 <guid>https://status.sage.com/incidents/wmhczyk8p67g</guid>
 <content:encoded><![CDATA[
-<div> [High] - Sage 200 Standard (UKI) Maintenance <br><br> During the scheduled maintenance on Tuesday 19th March 2024, Sage 200 Standard (UKI) will experience a major outage for 4 hours, between 20:00 UTC and 00:00 UTC on March 20th. We apologize for any inconvenience this may cause. Thank you, The Sage Team. <div>
+<div> [High] - Sage 200 Standard (UKI) Maintenance <br /><br /> During the scheduled maintenance on Tuesday 19th March 2024, Sage 200 Standard (UKI) will experience a major outage for 4 hours, between 20:00 UTC and 00:00 UTC on March 20th. We apologize for any inconvenience this may cause. Thank you, The Sage Team. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>20:00</var> UTC &nbsp;-&nbsp; Mar <var>20</var>, <var>00:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>11:03</var> UTC</small><br /><strong>Scheduled</strong> - Sage 200 Standard (UKI) will be undergoing maintenance on Tuesday 19th March 2024, for 4 hours, between 20:00 UTC and 00:00 UTC, on March 20th.<br /><br />During this time the service will be unavailable.<br /><br />We apologise for any inconvenience this may cause. <br /> <br />Thank you, The Sage Team</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 20:00:00 +0000</pubDate>
 <pubDate>Tue, 19 Mar 2024 20:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +31,11 @@
 <link>https://status.sage.com/incidents/r95v9zb0fybl</link>
 <guid>https://status.sage.com/incidents/r95v9zb0fybl</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Maintenance Outage<br><br>Summary: Sage Intacct will be undergoing maintenance on Saturday, March 16th, 2024, for 4 hours, between 02:30 UTC and 06:30 UTC. The service will be unavailable during this scheduled time. <div>
+<div> [High] - Major Maintenance Outage<br /><br />Summary: Sage Intacct will be undergoing maintenance on Saturday, March 16th, 2024, for 4 hours, between 02:30 UTC and 06:30 UTC. The service will be unavailable during this scheduled time. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>16</var>, <var>02:30</var> - <var>06:30</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:25</var> UTC</small><br /><strong>Scheduled</strong> - Sage Intacct will be undergoing maintenance on Saturday, March 16th, 2024, for 4 hours, between 02:30 UTC and 06:30 UTC.<br /><br />The service will be unavailable during this scheduled time.<br /><br />We apologize for any inconvenience this may cause.<br /><br />Thank you.<br /><br />The Sage Team</p>
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 02:30:00 +0000</pubDate>
-<pubDate>Sat, 16 Mar 2024 02:30:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Sage 200 Standard (UKI) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/vy6s46j9k65q</link>

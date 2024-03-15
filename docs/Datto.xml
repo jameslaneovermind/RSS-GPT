@@ -4,6 +4,7 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>Datto RMM - Pinotage (EU1) - 12.9.0 Release</title>
 <link>https://status.datto.com/incidents/hqyyp7t7fyg5</link>
@@ -14,7 +15,6 @@ Summary:
 The Datto RMM 12.9.0 release is a full Platform and Agent feature update, and partners should expect agent disconnection during the update window. This indicates a major impact on platform operations. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>2</var>, <var>17:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:34</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 17:00:00 +0000</pubDate>
 <pubDate>Tue, 02 Apr 2024 17:00:00 +0000</pubDate>
 </item>
 <item>
@@ -28,17 +28,15 @@ Datto RMM 12.9.0 release is scheduled from 08:00 - 11:00 UTC. Partners should ex
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>2</var>, <var>08:00</var> - <var>11:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:34</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 08:00:00 +0000</pubDate>
-<pubDate>Tue, 02 Apr 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Datto RMM - Concord (US East) - 12.9.0 Release</title>
 <link>https://status.datto.com/incidents/jdsx68kw44d3</link>
 <guid>https://status.datto.com/incidents/jdsx68kw44d3</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Datto RMM 12.9.0 Release <br><br> Summary: Datto RMM 12.9.0 release is scheduled, and partners should expect disconnection of the agent during the update window. No major outages or incidents are expected. <div>
+<div> [Medium] - Datto RMM 12.9.0 Release <br /><br /> Summary: Datto RMM 12.9.0 release is scheduled, and partners should expect disconnection of the agent during the update window. No major outages or incidents are expected. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>28</var>, <var>08:00</var> - <var>11:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:34</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 08:00:00 +0000</pubDate>
 <pubDate>Thu, 28 Mar 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
@@ -46,10 +44,8 @@ Datto RMM 12.9.0 release is scheduled from 08:00 - 11:00 UTC. Partners should ex
 <link>https://status.datto.com/incidents/kl4vyyhzbz09</link>
 <guid>https://status.datto.com/incidents/kl4vyyhzbz09</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>27</var>, <var>17:00</var> - <var>20:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:33</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 17:00:00 +0000</pubDate>
 <pubDate>Wed, 27 Mar 2024 17:00:00 +0000</pubDate>
 </item>
 <item>
@@ -57,10 +53,8 @@ Datto RMM 12.9.0 release is scheduled from 08:00 - 11:00 UTC. Partners should ex
 <link>https://status.datto.com/incidents/k3ql5ghbwd21</link>
 <guid>https://status.datto.com/incidents/k3ql5ghbwd21</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>27</var>, <var>08:00</var> - <var>11:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:33</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 08:00:00 +0000</pubDate>
 <pubDate>Wed, 27 Mar 2024 08:00:00 +0000</pubDate>
 </item>
 <item>
@@ -68,13 +62,10 @@ Datto RMM 12.9.0 release is scheduled from 08:00 - 11:00 UTC. Partners should ex
 <link>https://status.datto.com/incidents/43s9kt2mwwvx</link>
 <guid>https://status.datto.com/incidents/43s9kt2mwwvx</guid>
 <content:encoded><![CDATA[
-
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>25</var>, <var>10:00</var> - <var>13:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>10:33</var> UTC</small><br /><strong>Scheduled</strong> - We are excited to announce the Datto RMM 12.9.0 Release.<br /><br />Please Note: This is a full Platform and Agent feature release and therefore partners should expect disconnection of the agent during the update window.<br /><br />For full details, the Datto RMM 12.9.0 Release Notes are available on the following link:<br />https://rmm.datto.com/help/en/Content/0HOME/ReleaseNotes/2024/ReleaseNotesDattoRMMv12.9.0.htm</p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 10:00:00 +0000</pubDate>
-<pubDate>Mon, 25 Mar 2024 10:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto Workplace - CA3 - Login flow issues on 2FA enabled accounts</title>
 <link>https://status.datto.com/incidents/25wx9n8zn0p1</link>

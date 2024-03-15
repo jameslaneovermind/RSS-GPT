@@ -4,6 +4,20 @@
 <title>BENlabs Status - Incident history</title>
 <link>https://status.benlabs.com</link>
 
+<item>
+<title>Mapping Application API partial outage</title>
+<link>https://status.benlabs.com/incident/cltsmfano69632ivoi3t8por0p</link>
+<guid>https://status.benlabs.com/incident/cltsmfano69632ivoi3t8por0p</guid>
+<content:encoded><![CDATA[
+<div> [High] - Third-Party Service Outage <br><br> The Mapping Application is experiencing degraded performance due to a major outage with a 3rd party service. An investigation is underway with the service provider. Summary: <div>
+<p><small>Mar <var> 15</var>, <var>12:14:11</var> GMT+0</small><br /><strong>Investigating</strong> -
+  One of the 3rd party services used by the Mapping Application is experiencing an outage, resulting into degraded performance. We are investigating this issue with the 3rd party service provider.
+
+This incident was created by an automated monitoring service..</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 12:14:11 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 12:14:11 +0000</pubDate>
+</item>
 
 <item>
 <title>Mapping Application API partial outage</title>

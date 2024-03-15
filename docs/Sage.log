@@ -3517,3 +3517,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sage Intacct - Scheduled Maintenance](https://status.sage.com/incidents/r95v9zb0fybl)
 append_entries: 2
 Finish: 2024-03-15 11:07:28.455993
+------------------------------------------------------
+Started: 2024-03-15 12:15:05.092841
+Existing_entries: 91
+Fetching from https://status.sage.com/history.rss
+Token length: 2139
+Summarized using GPT-3.5-turbo-1106
+Append: [Sage 200 Standard (UKI) - Scheduled Maintenance](https://status.sage.com/incidents/b91k6px06m18)
+append_entries: 1
+Finish: 2024-03-15 12:15:07.136995

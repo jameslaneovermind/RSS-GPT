@@ -4,6 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>Global (Germany) - Customer Portal Analyze planned maintenance</title>
+<link>https://status.infobip.com/incidents/4cfsrt6q61bs</link>
+<guid>https://status.infobip.com/incidents/4cfsrt6q61bs</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Customer Portal Analyze Module Database Migration <br><br> During the maintenance on March 29, 2024, from 07:00 to 07:30 UTC, the Customer Portal Analyze module on the Global (Germany) data center will be affected due to a database migration. New reports cannot be generated, and FTP/SFTP reports cannot be exported during this timeframe. However, new reports can still be created, but will be generated after the specified maintenance period. Summary: There will be a database migration affecting the Customer Portal Analyze module, which will result in limitations in generating and exporting reports during the specified timeframe. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>29</var>, <var>07:00</var> - <var>07:30</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>11:26</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a database migration which will affect the Customer Portal Analyze module on the Global (Germany) data center. During the maintenance, it will not be possible to generate new reports or export FTP/SFTP reports. Note that you may still create new reports, although they will be generated after the specified timeframe.<br /><br />Start (UTC): 29 March 2024 07:00<br />End (UTC): 29 March 2024 07:30<br />Purpose: Infrastructure optimization</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 07:00:00 +0000</pubDate>
+<pubDate>Fri, 29 Mar 2024 07:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Global (Germany) - Voice service database planned maintenance</title>
