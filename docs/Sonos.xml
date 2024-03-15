@@ -4,6 +4,7 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+
 <item>
 <title>Alexa Voice Control - Functionality Issue with Sonos S1 systems</title>
 <link>https://status.sonos.com/incidents/z5smk2lsglcr</link>
@@ -14,9 +15,7 @@ Summary: A problem with Alexa Voice Control on Sonos S1 systems has been identif
 <p><small>Mar <var>15</var>, <var>19:50</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Alexa Voice Control on Sonos S1 systems and are working with them on a fix. You may not be able to use voice commands until it’s resolved.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 19:50:55 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 19:50:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Sonos Services - Sonos Pro Web Controller Overview Browse Issues</title>
 <link>https://status.sonos.com/incidents/42jx3l9tkj78</link>

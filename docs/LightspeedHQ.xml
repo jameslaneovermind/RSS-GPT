@@ -4,17 +4,17 @@
 <title>Lightspeed - Status Page Status - Incident History</title>
 <link>https://status.lightspeedhq.com</link>
 
+
 <item>
 <title>Lightspeed Retail (R-Series) scheduled database maintenance</title>
 <link>https://status.lightspeedhq.com/incidents/by6f2y70dzc4</link>
 <guid>https://status.lightspeedhq.com/incidents/by6f2y70dzc4</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Database Maintenance <br><br>Summary: We will be conducting scheduled database maintenance on Thursday Mar 21st. Some accounts will be temporarily unavailable for up to 15 minutes.
+<div> [Medium] - Scheduled Database Maintenance <br /><br />Summary: We will be conducting scheduled database maintenance on Thursday Mar 21st. Some accounts will be temporarily unavailable for up to 15 minutes.
 
-[Low] - Third-Party Network Outage <br><br>Summary: We experienced a temporary outage due to a third-party network issue. We apologize for any inconvenience caused. <div>
+[Low] - Third-Party Network Outage <br /><br />Summary: We experienced a temporary outage due to a third-party network issue. We apologize for any inconvenience caused. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>21</var>, <var>04:00</var> - <var>13:00</var> EDT</strong></p><p><small>Mar <var>15</var>, <var>15:40</var> EDT</small><br /><strong>Scheduled</strong> - We will be conducting scheduled database maintenance on Thursday Mar 21th. During this time, some accounts will be temporarily unavailable for up to 15 minutes, beginning no earlier than 10pm in your local timezone. This maintenance is essential to ensure the continued performance, reliability and security of our systems.<br />We understand the importance of our services to your operations and apologize for any inconvenience this maintenance may cause. Your patience and understanding are greatly appreciated as we work to enhance our systems.</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 04:00:00 -0400</pubDate>
 <pubDate>Thu, 21 Mar 2024 04:00:00 -0400</pubDate>
 </item>
 <item>
@@ -22,13 +22,12 @@
 <link>https://status.lightspeedhq.com/incidents/czm8tf0zfkmk</link>
 <guid>https://status.lightspeedhq.com/incidents/czm8tf0zfkmk</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Database Maintenance <br><br> 
+<div> [Medium] - Scheduled Database Maintenance <br /><br /> 
 We will be conducting scheduled database maintenance on Wednesday Mar 20th. Some accounts will be temporarily unavailable for up to 15 minutes.
 
 Summary: This maintenance is planned and essential for the continued performance and security of our systems. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>04:00</var> - <var>13:00</var> EDT</strong></p><p><small>Mar <var>15</var>, <var>15:39</var> EDT</small><br /><strong>Scheduled</strong> - We will be conducting scheduled database maintenance on Wednesday Mar 20th. During this time, some accounts will be temporarily unavailable for up to 15 minutes, beginning no earlier than 10pm in your local timezone. This maintenance is essential to ensure the continued performance, reliability and security of our systems.<br />We understand the importance of our services to your operations and apologize for any inconvenience this maintenance may cause. Your patience and understanding are greatly appreciated as we work to enhance our systems.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 04:00:00 -0400</pubDate>
 <pubDate>Wed, 20 Mar 2024 04:00:00 -0400</pubDate>
 </item>
 <item>
@@ -36,14 +35,12 @@ Summary: This maintenance is planned and essential for the continued performance
 <link>https://status.lightspeedhq.com/incidents/kwzwg6w5gvv0</link>
 <guid>https://status.lightspeedhq.com/incidents/kwzwg6w5gvv0</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Database Maintenance <br><br> 
+<div> [Medium] - Scheduled Database Maintenance <br /><br /> 
 We will be conducting scheduled database maintenance on Tuesday, March 19th. During this time, some accounts will be temporarily unavailable for up to 15 minutes, beginning no earlier than 10pm in your local timezone. This maintenance is essential to ensure the continued performance, reliability, and security of our systems. Your patience and understanding are greatly appreciated as we work to enhance our systems. Summary: The company will be conducting scheduled database maintenance, which may cause temporary unavailability of some accounts for up to 15 minutes. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>04:00</var> - <var>13:00</var> EDT</strong></p><p><small>Mar <var>15</var>, <var>15:38</var> EDT</small><br /><strong>Scheduled</strong> - We will be conducting scheduled database maintenance on Tuesday Mar 19th. During this time, some accounts will be temporarily unavailable for up to 15 minutes, beginning no earlier than 10pm in your local timezone. This maintenance is essential to ensure the continued performance, reliability and security of our systems.<br />We understand the importance of our services to your operations and apologize for any inconvenience this maintenance may cause. Your patience and understanding are greatly appreciated as we work to enhance our systems.</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 04:00:00 -0400</pubDate>
-<pubDate>Tue, 19 Mar 2024 04:00:00 -0400</pubDate>
 </item>
-
 <item>
 <title>Lightspeed Retail (R-Series) scheduled database maintenance</title>
 <link>https://status.lightspeedhq.com/incidents/0dst9sf3qq4k</link>
