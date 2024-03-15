@@ -5,19 +5,54 @@
 <link>https://status.equinix.com</link>
 
 <item>
+<title>Provider Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/czzg7xf1rfqh</link>
+<guid>https://status.equinix.com/incidents/czzg7xf1rfqh</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Investigating Potential Issue
+Summary: We are currently investigating an issue with our Metro Connect in the Asia-Pacific region. We will provide updates as soon as we have more information. <div>
+<p><small>Mar <var>15</var>, <var>02:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">xgyv7gllklk6</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032278</div><div class="affected-products font-small color-secondary">[Metro Connect - Asia-Pacific (TY)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 02:09:41 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 02:09:41 +0000</pubDate>
+</item>
+<item>
+<title>Network Component Issue (Metro Connect)</title>
+<link>https://status.equinix.com/incidents/1r33jx8bs5cm</link>
+<guid>https://status.equinix.com/incidents/1r33jx8bs5cm</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage Investigation <br><br> We are currently investigating a major issue that has caused platform downtime. Incident Number: INC0032290[Metro Connect - Americas (LA)]
+ <div>
+<p><small>Mar <var>15</var>, <var>02:09</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">v00nwtn98mmw</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032290</div><div class="affected-products font-small color-secondary">[Metro Connect - Americas (LA)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 02:09:05 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 02:09:05 +0000</pubDate>
+</item>
+<item>
+<title>Provider Issue (Equinix Fabric)</title>
+<link>https://status.equinix.com/incidents/g7svxsj179z4</link>
+<guid>https://status.equinix.com/incidents/g7svxsj179z4</guid>
+<content:encoded><![CDATA[
+<div> [High] - Equinix Fabric Outage in Americas (LA) 
+Summary: An issue has been identified and a fix is being implemented, indicating a major outage affecting Equinix Fabric in the Americas (LA) region. <div>
+<p><small>Mar <var>15</var>, <var>01:56</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">bg5z9ngl1x2n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032269</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA)]</div></p><p><small>Mar <var>15</var>, <var>01:43</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">bg5z9ngl1x2n</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032269</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (LA)]</div></p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 01:56:47 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 01:56:47 +0000</pubDate>
+</item>
+
+<item>
 <title>Provider Issue (Equinix Fabric, Equinix Internet Access / Equinix Connect)</title>
 <link>https://status.equinix.com/incidents/yt4d2jdt7pg5</link>
 <guid>https://status.equinix.com/incidents/yt4d2jdt7pg5</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage Impacting Equinix Internet Access and Equinix Fabric in Americas <br><br> Incident Number INC0032267: The issue has been identified and a fix is being implemented.
+<div> [High] - Major Outage Impacting Equinix Internet Access and Equinix Fabric in Americas <br /><br /> Incident Number INC0032267: The issue has been identified and a fix is being implemented.
 
 Summary: The incident has been identified as a major outage affecting Equinix Internet Access and Equinix Fabric in Americas. A fix is currently being implemented to resolve the issue. <div>
 <p><small>Mar <var>15</var>, <var>01:06</var> UTC</small><br /><strong>Update</strong> - The issue has been identified and a fix is being implemented.<br /><div style="display: none;">c588xpkg3g9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032267</div><div class="affected-products font-small color-secondary">[Equinix Internet Access / Equinix Connect - AMER (AT); Equinix Fabric - Americas (AT)]</div></p><p><small>Mar <var>15</var>, <var>00:54</var> UTC</small><br /><strong>Identified</strong> - We are currently investigating this issue.<br /><div style="display: none;">c588xpkg3g9k</div><br /><div class="incident-number font-small color-secondary">Incident Number: INC0032267</div><div class="affected-products font-small color-secondary">[Equinix Fabric - Americas (AT); Equinix Internet Access / Equinix Connect - AMER (AT)]</div></p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 01:06:40 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 01:06:40 +0000</pubDate>
 </item>
-
 <item>
 <title>Network Component Issue (Equinix Fabric, Network Edge)</title>
 <link>https://status.equinix.com/incidents/r014rnj1qsjk</link>
