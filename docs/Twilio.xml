@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>Belarus SMS Carrier Maintenance - A1 / MTS / Life</title>
 <link>https://status.twilio.com/incidents/g6y19r182x5l</link>
 <guid>https://status.twilio.com/incidents/g6y19r182x5l</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for A1, MTS and Life Networks in Belarus <br><br> The A1, MTS, and Life networks in Belarus are conducting a planned maintenance from 18 March 2024 at 15:00 PDT until 18 March 2024 at 20:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to Belarus Carriers. Summary: The scheduled maintenance may cause intermittent delays in SMS delivery to Belarus carriers. <div>
+<div> [Medium] - Planned Maintenance for A1, MTS and Life Networks in Belarus <br /><br /> The A1, MTS, and Life networks in Belarus are conducting a planned maintenance from 18 March 2024 at 15:00 PDT until 18 March 2024 at 20:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to Belarus Carriers. Summary: The scheduled maintenance may cause intermittent delays in SMS delivery to Belarus carriers. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>18</var>, <var>15:00</var> - <var>20:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>16:09</var> PDT</small><br /><strong>Scheduled</strong> - The A1, MTS, and Life networks in Belarus are conducting a planned maintenance from 18 March 2024 at 15:00 PDT until 18 March 2024 at 20:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to Belarus Carriers.</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 15:00:00 -0700</pubDate>
-<pubDate>Mon, 18 Mar 2024 15:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Account Security Carrier Partner Maintenance - WindTre Italy</title>
 <link>https://status.twilio.com/incidents/0yg0qpmsp7t1</link>
