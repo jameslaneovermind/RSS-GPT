@@ -4,6 +4,17 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+<item>
+<title>Boards - some users may get an error from the IOS app when checking for updates.</title>
+<link>https://status.diligent.com/incidents/518vjtvld685</link>
+<guid>https://status.diligent.com/incidents/518vjtvld685</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Error in "Check for Updates" Functionality <br><br> Some users may get an error when doing a "Check for Updates". <div>
+<p><small>Mar <var>15</var>, <var>13:14</var> UTC</small><br /><strong>Investigating</strong> - Some users may get an error when doing a "Check for Updates".</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 13:14:02 +0000</pubDate>
+<pubDate>Fri, 15 Mar 2024 13:14:02 +0000</pubDate>
+</item>
 
 <item>
 <title>Policy Manager - Intermittent service disruption affecting the US region</title>

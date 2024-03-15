@@ -4,6 +4,41 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+<item>
+<title>Datto SaaS Protection - Application Maintenance For US East Region</title>
+<link>https://status.datto.com/incidents/f8qs6yfslz5v</link>
+<guid>https://status.datto.com/incidents/f8qs6yfslz5v</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Datto SaaS Protection Maintenance <br><br> We will be performing a routine maintenance to Datto SaaS Protection on March 28th 2024, starting at 10:00PM UTC for an estimated 8 hours. During this downtime, you may experience an impact to systems and related services to Datto SaaS Protection. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>28</var>, <var>22:00</var> UTC &nbsp;-&nbsp; Mar <var>29</var>, <var>06:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>13:31</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection on March 28th 2024, starting at 10:00PM UTC for an estimated 8 hours.<br /><br /> <br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection . <br /><br /> <br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 22:00:00 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto SaaS Protection - Application Maintenance For Canada East Region</title>
+<link>https://status.datto.com/incidents/gtckpxrtk81j</link>
+<guid>https://status.datto.com/incidents/gtckpxrtk81j</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Routine Maintenance on Datto SaaS Protection
+Summary:
+Routine maintenance will be performed on Datto SaaS Protection on March 26th, 2024, starting at 10:00 PM UTC for an estimated 8 hours. Users may experience an impact on systems and related services during this time. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>26</var>, <var>22:00</var> UTC &nbsp;-&nbsp; Mar <var>27</var>, <var>06:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>13:29</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection on March 26th 2024, starting at 10:00PM UTC for an estimated 8 hours.<br /><br /> <br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection . <br /><br /> <br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 22:00:00 +0000</pubDate>
+<pubDate>Tue, 26 Mar 2024 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Datto SaaS Protection - Application Maintenance For Germany Region</title>
+<link>https://status.datto.com/incidents/16t9f4j4bn1y</link>
+<guid>https://status.datto.com/incidents/16t9f4j4bn1y</guid>
+<content:encoded><![CDATA[
+<div> [High] - Datto SaaS Protection Routine Maintenance <br><br> On March 21, 2024, starting at 5:00 PM UTC, Datto SaaS Protection will undergo routine maintenance for an estimated 8 hours. The downtime may impact systems and related services. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>21</var>, <var>17:00</var> UTC &nbsp;-&nbsp; Mar <var>22</var>, <var>01:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>13:33</var> UTC</small><br /><strong>Scheduled</strong> - We will be performing a routine maintenance to Datto SaaS Protection on March 21, 2024 starting at 5:00PM UTC for an estimated 8 hours.<br /><br /> <br /><br />During this downtime you may experience an impact to systems and related services to Datto SaaS Protection . <br /><br /> <br /><br />Subscribe to receive up-to-date notifications on future maintenance periods by visiting status.datto.com</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 17:00:00 +0000</pubDate>
+<pubDate>Thu, 21 Mar 2024 17:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Datto RMM - Pinotage (EU1) - 12.9.0 Release</title>

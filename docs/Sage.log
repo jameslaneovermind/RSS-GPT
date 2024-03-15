@@ -3535,3 +3535,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sage Business Cloud Accounting (UKI) - Degraded Performance](https://status.sage.com/incidents/nw8g82cgrvx9)
 append_entries: 1
 Finish: 2024-03-15 13:10:00.703141
+------------------------------------------------------
+Started: 2024-03-15 14:08:57.810588
+Existing_entries: 93
+Fetching from https://status.sage.com/history.rss
+Token length: 1788
+Summarized using GPT-3.5-turbo-1106
+Append: [Compliance Service - Scheduled Maintenance](https://status.sage.com/incidents/4y8bn64cn2zm)
+append_entries: 1
+Finish: 2024-03-15 14:08:59.575159
