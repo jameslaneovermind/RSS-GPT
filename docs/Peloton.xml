@@ -4,6 +4,17 @@
 <title>Peloton Status - Incident History</title>
 <link>https://status.onepeloton.com</link>
 
+<item>
+<title>Some Members using Apple Watch unable to see Heart Rate on Connected Fitness devices</title>
+<link>https://status.onepeloton.com/incidents/pv4mk4sdhzdv</link>
+<guid>https://status.onepeloton.com/incidents/pv4mk4sdhzdv</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage: System Downtime <br><br> Summary: A fix has been implemented and we are monitoring the results. <div>
+<p><small>Mar <var>15</var>, <var>17:17</var> EDT</small><br /><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p>
+]]></content:encoded>
+<pubDate>Fri, 15 Mar 2024 17:17:24 -0400</pubDate>
+<pubDate>Fri, 15 Mar 2024 17:17:24 -0400</pubDate>
+</item>
 
 <item>
 <title>Elevated platform detect errors on V1 bike</title>
