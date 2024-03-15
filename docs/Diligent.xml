@@ -4,6 +4,7 @@
 <title>Diligent Status - Incident History</title>
 <link>https://status.diligent.com</link>
 
+
 <item>
 <title>Policy Manager - Intermittent service disruption affecting the US region</title>
 <link>https://status.diligent.com/incidents/s09dwhpwwbh0</link>
@@ -14,9 +15,7 @@ Summary: Investigating an intermittent service disruption affecting the US regio
 <p><small>Mar <var>15</var>, <var>09:34</var> UTC</small><br /><strong>Investigating</strong> - There is an intermittent service disruption affecting the US region. We apologize for any inconvenience caused and assure you that we are working on resolving it as a top priority.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 09:34:32 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 09:34:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Secure File Sharing - Intermittent erorrs when uploading files</title>
 <link>https://status.diligent.com/incidents/qw6r70p3sgsr</link>
