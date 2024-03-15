@@ -3498,3 +3498,10 @@ Fetching from https://status.adyen.com/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Adyen
+------------------------------------------------------
+Started: 2024-03-15 03:11:01.539756
+Existing_entries: 0
+Fetching from https://status.adyen.com/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Adyen
