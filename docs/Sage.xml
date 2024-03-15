@@ -4,15 +4,15 @@
 <title>Sage Status - Incident History</title>
 <link>https://status.sage.com</link>
 
+
 <item>
 <title>EDI (FR) - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/jx4cksbg2jlw</link>
 <guid>https://status.sage.com/incidents/jx4cksbg2jlw</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major System Maintenance on EDI Platform <br><br> The EDI platform will be undergoing important system maintenance, resulting in a complete unavailability of the Edi Online deposit services (Azure) for a few seconds. Other EDI services will remain operational during this period. <div>
+<div> [High] - Major System Maintenance on EDI Platform <br /><br /> The EDI platform will be undergoing important system maintenance, resulting in a complete unavailability of the Edi Online deposit services (Azure) for a few seconds. Other EDI services will remain operational during this period. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>21</var>, <var>09:00</var> - <var>10:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>15:48</var> UTC</small><br /><strong>Scheduled</strong> - The EDI platform will be undergoing important system maintenance on Thursday, March 21st, 2024, for 1 hour, between 10:00 CET to 11:00 CET.<br /> <br />The below Azure/EDI service may be unavailable for a few seconds:<br />•	Edi Online deposit services (Azure)<br /><br />The below EDI services will remain operational:<br />•       New registrations (customer journey)<br />•       The “oga.sage.fr” portal<br />•       Tracking shipments from DS<br />•       The “suivi-edi.sage.fr” portal (except administration)<br />•       The control brick<br />•       All EDI Accounting services<br /><br />Thank you. The Sage Team.<br /><br />-----------------------------------------------------------------------------------<br /><br />La plate-forme EDI sera en maintenance le Jeudi 21 Mars, 2024, pendant 1 heure, entre 10:00 CET et 11:00 CET.<br /> <br />Les services Azure/EDI ci-dessous pourront être indisponibles pendant quelques instants :<br />•	Les services de dépôts Edi Online (Azure)<br /><br />Les services EDI ci-dessous resteront opérationnels :<br />•	Les nouvelles inscriptions (parcours client)<br />•	Le portail  “oga.sage.fr”<br />•	Le suivi des envois à partir de DS<br />•	Le portail “suivi-edi.sage.fr”  (sauf l’administration)<br />•	La brique de contrôle<br />•	Tous les services EDI Expert-comptable <br /><br />Cordialement, l'équipe Sage</p>
 ]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 09:00:00 +0000</pubDate>
 <pubDate>Thu, 21 Mar 2024 09:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,14 +20,12 @@
 <link>https://status.sage.com/incidents/b9mp8nq703mv</link>
 <guid>https://status.sage.com/incidents/b9mp8nq703mv</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major System Maintenance on EDI Platform <br><br> The EDI platform will undergo important system maintenance for 2 hours, resulting in the unavailability of several services, affecting deposits, new registrations, and tracking shipments. Deposits made during this period will be put on hold until services resume.
+<div> [High] - Major System Maintenance on EDI Platform <br /><br /> The EDI platform will undergo important system maintenance for 2 hours, resulting in the unavailability of several services, affecting deposits, new registrations, and tracking shipments. Deposits made during this period will be put on hold until services resume.
  <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>19</var>, <var>11:00</var> - <var>13:00</var> UTC</strong></p><p><small>Mar <var>15</var>, <var>16:03</var> UTC</small><br /><strong>Scheduled</strong> - The EDI platform will be undergoing important system maintenance on Tuesday, March 19th, 2024, for 2 hours, between 12:00 CET to 14:00 CET.<br /> <br />The below Azure/EDI service may be unavailable for a few seconds:<br />•	Deposit and flow consultation services by SBCP<br />•       New registrations (customer journey)<br />•       The “oga.sage.fr” portal<br />•       Tracking shipments from DS<br />•       The “suivi-edi.sage.fr” portal<br /><br />The below EDI services will remain operational:<br />•       Sage Edi Online deposit services<br />•       The DS control brick<br />•       The PAS service<br />•       All EDI Accounting services<br /><br />Deposits made during this maintenance operation will be put on hold until services resume.<br /><br />Thank you. The Sage Team.<br /><br />-----------------------------------------------------------------------------------<br /><br />La plate-forme EDI sera en maintenance le Mardi 19 Mars, 2024, pendant 2 heures, entre 12:00 CET et 14:00 CET.<br /> <br />Les services EDI ci-dessous ne seront pas disponibles :<br />•	Les services de dépôts et de consultation des flux par SBCP<br />•	Les nouvelles inscriptions (parcours client)<br />•	Le portail “oga.sage.fr”<br />•	Le suivi des envois à partir de DS<br />•	Le portail « suivi-edi.sage.fr » (environ 5 mn)<br /><br /><br />Les services EDI ci-dessous resteront opérationnels :<br />•	Les dépôts par Sage EDI Online<br />•	La brique de contrôle DS<br />•	Le service PAS <br />•	Tous les services EDI Expert-comptable <br /><br />Les dépôts effectués pendant cette operation de maintenance seront mis en attente jusqu’à la reprise des services.<br /><br />Cordialement, l'équipe Sage</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 11:00:00 +0000</pubDate>
-<pubDate>Tue, 19 Mar 2024 11:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Compliance Service - Scheduled Maintenance</title>
 <link>https://status.sage.com/incidents/4y8bn64cn2zm</link>
