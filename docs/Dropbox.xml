@@ -4,18 +4,17 @@
 <title>Dropbox Status - Incident History</title>
 <link>http://status.dropbox.com</link>
 
+
 <item>
 <title>Uploading files to Dropbox via email might not be working for some users.</title>
 <link>https://status.dropbox.com/incidents/wkg5wqdk5kx8</link>
 <guid>https://status.dropbox.com/incidents/wkg5wqdk5kx8</guid>
 <content:encoded><![CDATA[
-<div> [High] - Dropbox File Upload Issue <br><br> Summary: Some users are unable to upload files to Dropbox via email, indicating a major outage. The company is actively working to resolve the issue as quickly as possible. <div>
+<div> [High] - Dropbox File Upload Issue <br /><br /> Summary: Some users are unable to upload files to Dropbox via email, indicating a major outage. The company is actively working to resolve the issue as quickly as possible. <div>
 <p><small>Mar <var>15</var>, <var>03:03</var> UTC</small><br /><strong>Investigating</strong> - Uploading files to Dropbox via email might not be working for some users. We’re working to fix the problem as quickly as we can. We’ll share another update shortly.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 03:03:15 +0000</pubDate>
-<pubDate>Fri, 15 Mar 2024 03:03:15 +0000</pubDate>
 </item>
-
 <item>
 <title>Dropbox Paper may not be working as expected</title>
 <link>https://status.dropbox.com/incidents/9dftt10x9wpn</link>
