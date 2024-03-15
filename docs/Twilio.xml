@@ -4,6 +4,19 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+<item>
+<title>Planned Maintenance for Flex Insights Historical Reporting</title>
+<link>https://status.twilio.com/incidents/1xygthrklnk6</link>
+<guid>https://status.twilio.com/incidents/1xygthrklnk6</guid>
+<content:encoded><![CDATA[
+<div> [Medium] - Planned Maintenance for Flex Insights Historical Reporting Dashboards
+Summary:
+Flex Insights Historical Reporting dashboards visualisation partner in the US is conducting a planned maintenance on Saturday, March 23rd, 2024, at 2:00 AM Pacific Standard Time. The maintenance window is planned to take up to 3 hours. During the maintenance window, ETL loads will be affected. <div>
+<p><strong>THIS IS A SCHEDULED EVENT Mar <var>23</var>, <var>02:00</var> - <var>05:00</var> PDT</strong></p><p><small>Mar <var>14</var>, <var>22:19</var> PDT</small><br /><strong>Scheduled</strong> - The Flex Insights Historical Reporting dashboards visualisation partner in the US is conducting a planned maintenance on Saturday, March 23rd, 2024, at 2:00 AM Pacific Standard Time. The maintenance window is planned to take up to 3 hours. During the maintenance window, ETL loads will be affected.</p>
+]]></content:encoded>
+<pubDate>Sat, 23 Mar 2024 02:00:00 -0700</pubDate>
+<pubDate>Sat, 23 Mar 2024 02:00:00 -0700</pubDate>
+</item>
 
 <item>
 <title>Belarus SMS Carrier Maintenance - A1 / MTS / Life</title>
