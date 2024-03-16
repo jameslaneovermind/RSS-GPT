@@ -3203,3 +3203,9 @@ Existing_entries: 25
 Fetching from https://status.nutanix.com/history.rss
 append_entries: 0
 Finish: 2024-03-16 07:09:06.013395
+------------------------------------------------------
+Started: 2024-03-16 08:10:59.788538
+Existing_entries: 25
+Fetching from https://status.nutanix.com/history.rss
+append_entries: 0
+Finish: 2024-03-16 08:10:59.998185
