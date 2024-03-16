@@ -4,18 +4,17 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS and MMS Carrier Maintenance - AT&amp;T</title>
 <link>https://status.twilio.com/incidents/pyn1p2pknvnt</link>
 <guid>https://status.twilio.com/incidents/pyn1p2pknvnt</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Scheduled Maintenance for AT&T Network <br><br> The AT&T network in the US is conducting a planned maintenance from 17 March 2024 at 22:00 PDT until 18 March 2024 at 03:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS and MMS to and from AT&T United States handsets via short codes. Summary: During the scheduled maintenance, there may be intermittent delays in SMS and MMS delivery. <div>
+<div> [Medium] - Scheduled Maintenance for AT&amp;T Network <br /><br /> The AT&amp;T network in the US is conducting a planned maintenance from 17 March 2024 at 22:00 PDT until 18 March 2024 at 03:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS and MMS to and from AT&amp;T United States handsets via short codes. Summary: During the scheduled maintenance, there may be intermittent delays in SMS and MMS delivery. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>17</var>, <var>22:00</var> PDT &nbsp;-&nbsp; Mar <var>18</var>, <var>03:00</var> PDT</strong></p><p><small>Mar <var>16</var>, <var>09:33</var> PDT</small><br /><strong>Scheduled</strong> - The AT&amp;T network in the US is conducting a planned maintenance from 17 March 2024 at 22:00 PDT until 18 March 2024 at 03:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS and MMS to and from AT&amp;T United States handsets via short codes.</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 22:00:00 -0700</pubDate>
-<pubDate>Sun, 17 Mar 2024 22:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>United Kingdom Account Security Carrier Partner Maintenance - Vodafone UK</title>
 <link>https://status.twilio.com/incidents/mfw75drkzgg0</link>
