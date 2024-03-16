@@ -4,18 +4,17 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Runtime Manager metrics issues</title>
 <link>https://status.mulesoft.com/incidents/rvns4jylwzhz</link>
 <guid>https://status.mulesoft.com/incidents/rvns4jylwzhz</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigating Missing Ingestion Metrics in Standalone Mule Runtime <br><br> Some standalone Mule Runtime customers may be missing ingestion metrics for applications within Runtime Manager. It is not indicated that application performance is impacted, engineers are presently investigating a fix. Summary: Investigating issue with missing ingestion metrics for standalone Mule Runtime customers. No impact on application performance reported. <div>
+<div> [Medium] - Investigating Missing Ingestion Metrics in Standalone Mule Runtime <br /><br /> Some standalone Mule Runtime customers may be missing ingestion metrics for applications within Runtime Manager. It is not indicated that application performance is impacted, engineers are presently investigating a fix. Summary: Investigating issue with missing ingestion metrics for standalone Mule Runtime customers. No impact on application performance reported. <div>
 <p><small>Mar <var>15</var>, <var>17:16</var> PDT</small><br /><strong>Investigating</strong> - Some standalone Mule Runtime customers may be missing ingestion metrics for applications within Runtime Manager. It is not indicated that application performance is impacted, engineers are presently investigating a fix</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 17:16:08 -0700</pubDate>
-<pubDate>Fri, 15 Mar 2024 17:16:08 -0700</pubDate>
 </item>
-
 <item>
 <title>Anypoint Monitoring Center Metrics API Service is experiencing 503 errors.</title>
 <link>https://status.mulesoft.com/incidents/r7yjxyvhgcm5</link>
