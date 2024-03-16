@@ -4,6 +4,17 @@
 <title>Fountain Status - Incident History</title>
 <link>https://status.fountain.com</link>
 
+<item>
+<title>Planned downtime - Fountain application in US-2 region</title>
+<link>https://status.fountain.com/incidents/m52hvd32hspg</link>
+<guid>https://status.fountain.com/incidents/m52hvd32hspg</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Platform Downtime in US-2 Region <br><br>We will be performing internal maintenance, resulting in downtime across our network in the us-2 region on Saturday, March 16th, 2024 from 7:00 am UTC to 9:00 am UTC, apologizing for any inconvenience. <div>
+<p><small>Mar <var>16</var>, <var>00:07</var> PDT</small><br /><strong>Investigating</strong> - In order to better serve our customers, we will be performing internal maintenance which will result in downtime across our network in us-2 region on Saturday, March 16th 2024 from 7:00am UTC to 9:00am UTC. During this time, the Fountain platform will be inaccessible for few minutes. We apologize for any inconvenience.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 00:07:24 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 00:07:24 -0700</pubDate>
+</item>
 
 <item>
 <title>I-9 and E-Verify functionality degraded</title>
