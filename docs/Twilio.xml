@@ -4,6 +4,7 @@
 <title>Twilio Status - Incident History</title>
 <link>https://status.twilio.com</link>
 
+
 <item>
 <title>US SMS Carrier Maintenance - Small US Carriers</title>
 <link>https://status.twilio.com/incidents/99j83grzmcgr</link>
@@ -13,7 +14,6 @@
 Summary: A subset of small US networks will undergo planned maintenance, leading to potential intermittent delays in SMS delivery to small US carriers' handsets from 20th March 2024 21:00 PDT to 21st March 2024 01:00 PDT. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>21:00</var> PDT &nbsp;-&nbsp; Mar <var>21</var>, <var>01:00</var> PDT</strong></p><p><small>Mar <var>16</var>, <var>13:02</var> PDT</small><br /><strong>Scheduled</strong> - A subset of small US networks in the US are conducting a planned maintenance from 20 March 2024 at 21:00 PDT until 21 March 2024 at 01:00 PDT. During the maintenance window, there could be intermittent delays delivering SMS to small US carriers handsets.</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 21:00:00 -0700</pubDate>
 <pubDate>Wed, 20 Mar 2024 21:00:00 -0700</pubDate>
 </item>
 <item>
@@ -26,20 +26,17 @@ Summary: Wind Tre (3) Italy is conducting planned maintenance from March 20th at
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>09:00</var> PDT &nbsp;-&nbsp; Mar <var>21</var>, <var>00:00</var> PDT</strong></p><p><small>Mar <var>16</var>, <var>12:08</var> PDT</small><br /><strong>Scheduled</strong> - Our carrier partner Wind Tre (3) Italy is conducting a planned maintenance from 20 March 2024 at 09:00 PDT until 21 March 2024 at 00:00 PDT.  During the maintenance window, there could be intermittent API request failures for Wind Tre (3) Italy customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth, Lookup SIM Swap, Lookup Identity Match, Legacy Identity MatchAndAttributes</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 09:00:00 -0700</pubDate>
-<pubDate>Wed, 20 Mar 2024 09:00:00 -0700</pubDate>
 </item>
 <item>
 <title>Account Security Carrier Partner Maintenance - H3G Austria</title>
 <link>https://status.twilio.com/incidents/9jgrn81wvmf2</link>
 <guid>https://status.twilio.com/incidents/9jgrn81wvmf2</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Planned Maintenance for H3G Austria <br><br> During the planned maintenance by H3G Austria on March 20th, there may be intermittent API request failures for H3G Austria customers. <div>
+<div> [Medium] - Planned Maintenance for H3G Austria <br /><br /> During the planned maintenance by H3G Austria on March 20th, there may be intermittent API request failures for H3G Austria customers. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Mar <var>20</var>, <var>09:00</var> PDT &nbsp;-&nbsp; Mar <var>21</var>, <var>00:00</var> PDT</strong></p><p><small>Mar <var>16</var>, <var>12:07</var> PDT</small><br /><strong>Scheduled</strong> - Our carrier partner H3G Austria is conducting a planned maintenance from 20 March 2024 at 09:00 PDT until 21 March 2024 at 00:00 PDT. During the maintenance window, there could be intermittent API request failures for H3G Austria customers.<br /><br /><br />Impacted Products:<br /><br />Verify Silent Network Auth, Lookup SIM Swap</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 09:00:00 -0700</pubDate>
-<pubDate>Wed, 20 Mar 2024 09:00:00 -0700</pubDate>
 </item>
-
 <item>
 <title>Account Security Carrier Partner Maintenance - Three UK</title>
 <link>https://status.twilio.com/incidents/d6vlms42dsft</link>
