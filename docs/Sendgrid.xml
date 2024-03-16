@@ -4,18 +4,17 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>Latencies and timeouts with Whitelabel API</title>
 <link>https://status.sendgrid.com/incidents/0d7f5rp97q2z</link>
 <guid>https://status.sendgrid.com/incidents/0d7f5rp97q2z</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage with Whitelabel API and UI Authentication <br><br> System engineers are monitoring and addressing issues with the Whitelabel API causing latency and 500 level errors for users. Authentication issues with the UI are also being investigated. Another update will be provided in 1 hour or as soon as more information becomes available. <div>
+<div> [High] - Major Outage with Whitelabel API and UI Authentication <br /><br /> System engineers are monitoring and addressing issues with the Whitelabel API causing latency and 500 level errors for users. Authentication issues with the UI are also being investigated. Another update will be provided in 1 hour or as soon as more information becomes available. <div>
 <p><small>Mar <var>15</var>, <var>16:04</var> PDT</small><br /><strong>Monitoring</strong> - Our engineers have implemented a fix and are monitoring system performance. Users should no longer be noting latency or 500 level errors when using the Whitelabel API or authenticating their domain within the UI. We will provide another update in 1 hour or as soon as more information becomes available.</p><p><small>Mar <var>15</var>, <var>15:53</var> PDT</small><br /><strong>Investigating</strong> - Starting around 12:40PM PST on March 15th, our engineers began investigating an issue with the Whitelabel API. Users may experience latency and 500 level errors when using this API endpoint. Users may also note similar issues when authenticating a domain within the UI. This does not impact mail send. We will provide another update in hour or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 16:04:49 -0700</pubDate>
-<pubDate>Fri, 15 Mar 2024 16:04:49 -0700</pubDate>
 </item>
-
 <item>
 <title>404 errors when calling API endpoint /v3/user/webhooks/event/settings/.</title>
 <link>https://status.sendgrid.com/incidents/d4300mlr6p1h</link>
