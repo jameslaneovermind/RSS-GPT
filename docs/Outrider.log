@@ -3988,3 +3988,10 @@ Fetching from https://status.outrider.ai/history.rss
 Feed error: <unknown>:2:0: syntax error
 append_entries: 0
 error when rendering xml, skip docs/Outrider
+------------------------------------------------------
+Started: 2024-03-16 09:08:02.296796
+Existing_entries: 0
+Fetching from https://status.outrider.ai/history.rss
+Feed error: <unknown>:2:0: syntax error
+append_entries: 0
+error when rendering xml, skip docs/Outrider
