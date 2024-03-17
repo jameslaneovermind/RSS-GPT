@@ -4,6 +4,7 @@
 <title>Red Hat Status - Incident History</title>
 <link>https://status.redhat.com</link>
 
+
 <item>
 <title>developers.redhat.com - Download Manager</title>
 <link>https://status.redhat.com/incidents/2jmz4fq62rk9</link>
@@ -17,9 +18,7 @@ Summary: The incident has been resolved. <div>
 <p><small>Mar <var>17</var>, <var>12:49</var> EDT</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>17</var>, <var>12:45</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating this issue.</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 12:49:22 -0400</pubDate>
-<pubDate>Sun, 17 Mar 2024 12:49:22 -0400</pubDate>
 </item>
-
 <item>
 <title>access.redhat.com - Knowledgebase &amp; Home page</title>
 <link>https://status.redhat.com/incidents/294p95j8gp4y</link>
