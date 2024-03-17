@@ -3368,3 +3368,9 @@ Existing_entries: 28
 Fetching from https://status.elastic.co/history.rss
 append_entries: 0
 Finish: 2024-03-17 09:08:39.197798
+------------------------------------------------------
+Started: 2024-03-17 10:08:41.499047
+Existing_entries: 28
+Fetching from https://status.elastic.co/history.rss
+append_entries: 0
+Finish: 2024-03-17 10:08:41.687461

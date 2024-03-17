@@ -4,6 +4,17 @@
 <title>Sonatype Status - Incident History</title>
 <link>https://status.sonatype.com</link>
 
+<item>
+<title>Data Services Incident</title>
+<link>https://status.sonatype.com/incidents/f5r2t0zfxt48</link>
+<guid>https://status.sonatype.com/incidents/f5r2t0zfxt48</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Performance Degradation <br><br> We are currently investigating reports of degraded performance. <div>
+<p><small>Mar <var>17</var>, <var>05:33</var> EDT</small><br /><strong>Investigating</strong> - We are currently investigating reports of degraded performance.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 05:33:46 -0400</pubDate>
+<pubDate>Sun, 17 Mar 2024 05:33:46 -0400</pubDate>
+</item>
 
 <item>
 <title>Increased HTTP latency and 504 rate</title>
