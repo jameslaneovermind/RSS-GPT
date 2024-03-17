@@ -4,18 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Issue with a subset of users in Europe, Australia, India &amp; Canada unable to access the profile page in their account</title>
 <link>https://status.zoom.us/incidents/7r8gj9k3bq6k</link>
 <guid>https://status.zoom.us/incidents/7r8gj9k3bq6k</guid>
 <content:encoded><![CDATA[
-<div> [High] - Service Degradation Impacting Users in Multiple Regions <br><br> We have detected service degradation where subset of users in Europe, Australia, India & Canada are unable to access the profile page in their account. Our engineers are currently investigating the impact and root cause. Zoom will provide updates as soon as there is more information to share. Summary: Investigating service degradation affecting multiple regions, causing users in Europe, Australia, India, and Canada to be unable to access their profile pages. Engineering team is investigating the root cause. <div>
+<div> [High] - Service Degradation Impacting Users in Multiple Regions <br /><br /> We have detected service degradation where subset of users in Europe, Australia, India & Canada are unable to access the profile page in their account. Our engineers are currently investigating the impact and root cause. Zoom will provide updates as soon as there is more information to share. Summary: Investigating service degradation affecting multiple regions, causing users in Europe, Australia, India, and Canada to be unable to access their profile pages. Engineering team is investigating the root cause. <div>
 <p><small>Mar <var>16</var>, <var>21:14</var> PDT</small><br /><strong>Investigating</strong> - We have detected service degradation where subset of users in Europe, Australia, India & Canada are unable to access the profile page in their account. Our engineers are currently investigating the impact and root cause. Zoom will provide updates as soon as there is more information to share.</p>
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 21:16:22 -0700</pubDate>
-<pubDate>Sat, 16 Mar 2024 21:16:22 -0700</pubDate>
 </item>
-
 <item>
 <title>Issue with Zoom Room Launch Controller in Canada</title>
 <link>https://status.zoom.us/incidents/bqy2ghp7lsg8</link>
