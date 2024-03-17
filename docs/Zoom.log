@@ -3677,3 +3677,12 @@ Existing_entries: 65
 Fetching from https://status.zoom.us/history.rss
 append_entries: 0
 Finish: 2024-03-17 04:10:48.460792
+------------------------------------------------------
+Started: 2024-03-17 05:09:49.925639
+Existing_entries: 65
+Fetching from https://status.zoom.us/history.rss
+Token length: 326
+Summarized using GPT-3.5-turbo-1106
+Append: [Issue with a subset of users in Europe, Australia, India & Canada unable to access the profile page in their account](https://status.zoom.us/incidents/7r8gj9k3bq6k)
+append_entries: 1
+Finish: 2024-03-17 05:09:51.812851
