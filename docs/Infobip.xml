@@ -4,6 +4,17 @@
 <title>Infobip Status - Incident History</title>
 <link>https://status.infobip.com</link>
 
+<item>
+<title>Multiple locations - Viber For Business messaging degradation</title>
+<link>https://status.infobip.com/incidents/8j1pfptlp3g7</link>
+<guid>https://status.infobip.com/incidents/8j1pfptlp3g7</guid>
+<content:encoded><![CDATA[
+<div> [High] - Viber For Business Messaging Rejected Messages Investigation <br><br> Summary: We are currently investigating rejected messages and error code 7081 on Viber For Business messaging. This may lead to message delivery failures for our customers. <div>
+<p><small>Mar <var>17</var>, <var>12:15</var> UTC</small><br /><strong>Investigating</strong> - We are currently experiencing rejected messages over Viber For Business messaging.<br />Customers may experience their messages failing to deliver with error code 7081.<br />The issue is being investigated and more information will follow soon.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 12:42:45 +0000</pubDate>
+<pubDate>Sun, 17 Mar 2024 12:42:45 +0000</pubDate>
+</item>
 
 <item>
 <title>Global (Germany) - Customer Portal Analyze planned maintenance</title>
