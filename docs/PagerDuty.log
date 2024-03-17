@@ -4254,3 +4254,10 @@ Fetching from https://status.pagerduty.com/history.rss
 Feed error: <unknown>:12:8: mismatched tag
 append_entries: 0
 error when rendering xml, skip docs/PagerDuty
+------------------------------------------------------
+Started: 2024-03-17 23:10:17.378351
+Existing_entries: 0
+Fetching from https://status.pagerduty.com/history.rss
+Feed error: <unknown>:12:8: mismatched tag
+append_entries: 0
+error when rendering xml, skip docs/PagerDuty
