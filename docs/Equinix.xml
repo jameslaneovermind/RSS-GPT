@@ -4,6 +4,19 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+<item>
+<title>SmartView Portal Availability</title>
+<link>https://status.equinix.com/incidents/pdt6127lfc8c</link>
+<guid>https://status.equinix.com/incidents/pdt6127lfc8c</guid>
+<content:encoded><![CDATA[
+<div> [High] - IBX SmartView Services Outage <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues, causing platform downtime. We are actively investigating the root cause of this major incident. Summary: An investigation is underway to resolve the critical SmartView services outage impacting the platform.
+
+ <div>
+<p><small>Mar <var>17</var>, <var>06:31</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>17</var>, <var>06:25</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 06:31:56 +0000</pubDate>
+<pubDate>Sun, 17 Mar 2024 06:31:56 +0000</pubDate>
+</item>
 
 <item>
 <title>SmartView Portal Availability</title>
