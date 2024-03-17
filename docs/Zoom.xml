@@ -4,6 +4,17 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+<item>
+<title>Issue with Zoom Room Launch Controller in Canada</title>
+<link>https://status.zoom.us/incidents/bqy2ghp7lsg8</link>
+<guid>https://status.zoom.us/incidents/bqy2ghp7lsg8</guid>
+<content:encoded><![CDATA[
+<div> [Low] - Zoom Room Launch Controller Issue in Canada Resolved <br><br> From 03/16 10:24 AM UTC to 3/17 02:56 AM UTC a small subset of users in Canada may have experienced an issue using the Zoom Room Launch Controller from the Web Portal.  The issue has been resolved. Summary: A small subset of users in Canada experienced an issue with the Zoom Room Launch Controller, which has now been resolved. No major impact reported. <div>
+<p><small>Mar <var>16</var>, <var>20:02</var> PDT</small><br /><strong>Resolved</strong> - From 03/16 10:24 AM UTC to 3/17 02:56 AM UTC a small subset of users in Canada may have experienced an issue using the Zoom Room Launch Controller from the Web Portal.  The issue has been resolved.</p>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 20:02:04 -0700</pubDate>
+<pubDate>Sat, 16 Mar 2024 20:02:04 -0700</pubDate>
+</item>
 
 <item>
 <title>Poly Trio 8.1.5 update for Trio C60 devices, provisioned by trio.zoom.us</title>
