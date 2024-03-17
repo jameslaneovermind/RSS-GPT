@@ -4,15 +4,15 @@
 <title>Equinix Status - Incident History</title>
 <link>https://status.equinix.com</link>
 
+
 <item>
 <title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/fhj48bgg0yqf</link>
 <guid>https://status.equinix.com/incidents/fhj48bgg0yqf</guid>
 <content:encoded><![CDATA[
-<div> [High] - IBX SmartView Services Intermittent Issues <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating the cause, which may be related to a configuration change or deploy to production. <div>
+<div> [High] - IBX SmartView Services Intermittent Issues <br /><br /> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating the cause, which may be related to a configuration change or deploy to production. <div>
 <p><small>Mar <var>17</var>, <var>14:42</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>17</var>, <var>14:29</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 14:42:02 +0000</pubDate>
 <pubDate>Sun, 17 Mar 2024 14:42:02 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +20,11 @@
 <link>https://status.equinix.com/incidents/3nr7tdfb7cds</link>
 <guid>https://status.equinix.com/incidents/3nr7tdfb7cds</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major IBX SmartView Portal Outage <br><br> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues, and investigation is underway to resolve the incident. <div>
+<div> [High] - Major IBX SmartView Portal Outage <br /><br /> IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues, and investigation is underway to resolve the incident. <div>
 <p><small>Mar <var>17</var>, <var>14:27</var> UTC</small><br /><strong>Resolved</strong> - This incident has been resolved.</p><p><small>Mar <var>17</var>, <var>14:27</var> UTC</small><br /><strong>Investigating</strong> - IBX SmartView services on the SmartView Portal are currently experiencing intermittent issues. We are investigating and will advise once the issue has been resolved.</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 14:27:57 +0000</pubDate>
-<pubDate>Sun, 17 Mar 2024 14:27:57 +0000</pubDate>
 </item>
-
 <item>
 <title>SmartView Portal Availability</title>
 <link>https://status.equinix.com/incidents/jd28lvqc6t8p</link>
