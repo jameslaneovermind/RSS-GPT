@@ -4,19 +4,18 @@
 <title>HashiCorp Services Status - Incident History</title>
 <link>https://status.hashicorp.com</link>
 
+
 <item>
 <title>Scheduled Maintenance | Terraform Cloud and Terraform Public Registry</title>
 <link>https://status.hashicorp.com/incidents/0qvlwwcldyyn</link>
 <guid>https://status.hashicorp.com/incidents/0qvlwwcldyyn</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Scheduled Maintenance for Terraform Cloud and Terraform Public Registry <br><br> 
+<div> [High] - Major Scheduled Maintenance for Terraform Cloud and Terraform Public Registry <br /><br /> 
 Terraform Cloud and Terraform Public Registry will undergo scheduled maintenance on Sunday, April 21st beginning at 17:00 UTC. We expect this maintenance to complete within 4 hours. During this time, these services will be unavailable until the maintenance completes. We'll post updates as necessary throughout the maintenance period. <div>
 <p><strong>THIS IS A SCHEDULED EVENT Apr <var>21</var>, <var>17:00</var> - <var>21:00</var> UTC</strong></p><p><small>Mar <var>16</var>, <var>23:29</var> UTC</small><br /><strong>Scheduled</strong> - Terraform Cloud and Terraform Public Registry will undergo scheduled maintenance on Sunday, April 21st beginning at 17:00 UTC. We expect this maintenance to complete within 4 hours.<br /><br />During this time, these services will be unavailable until the maintenance completes. We'll post updates as necessary throughout the maintenance period.</p>
 ]]></content:encoded>
 <pubDate>Sun, 21 Apr 2024 17:00:00 +0000</pubDate>
-<pubDate>Sun, 21 Apr 2024 17:00:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Degraded run and policy performance</title>
 <link>https://status.hashicorp.com/incidents/210s0bvmhqr3</link>
