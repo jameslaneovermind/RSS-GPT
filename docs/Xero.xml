@@ -4,6 +4,7 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+
 <item>
 <title>NZ: Payroll - Some users are unable to load timesheets</title>
 <link>https://status.xero.com/incidents/6gk65wzcmmvd</link>
@@ -15,9 +16,7 @@ Xero is investigating issues with loading timesheets in Xero Payroll for NZ cust
 <p><small>Mar <var>17</var>, <var>22:59</var> UTC</small><br /><strong>Investigating</strong> - We are aware NZ customers trying to load their timesheets in Xero Payroll are experiencing issues. Our team is investigating this with urgency.<br /><br /><b>Status Last Reviewed:</b> 11:00pm UTC</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 22:59:08 +0000</pubDate>
-<pubDate>Sun, 17 Mar 2024 22:59:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Global: Bank Reconciliation - Customers may be unable to add a spend or receive money transaction</title>
 <link>https://status.xero.com/incidents/f3w33jxhgr0z</link>
