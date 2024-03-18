@@ -4,6 +4,17 @@
 <title>Xero Status - Incident History</title>
 <link>https://status.xero.com</link>
 
+<item>
+<title>Global: Xero Sign &amp; e-signing - Customers experiencing issues</title>
+<link>https://status.xero.com/incidents/cxwrxpr17yk9</link>
+<guid>https://status.xero.com/incidents/cxwrxpr17yk9</guid>
+<content:encoded><![CDATA[
+<div> [High] - Major Outage affecting Xero Sign, Document Packs, and Tax products <br><br> Customers are experiencing issues with Xero Sign, Document Packs, and Tax products due to an outage that Adobe is currently experiencing. This is causing significant disruptions to the platform's functionality. <div>
+<p><small>Mar <var>18</var>, <var>12:02</var> UTC</small><br /><strong>Investigating</strong> - We are aware that customers trying to use Xero Sign, Document Packs, Tax products and the Xero Portal for e-signing documents may be experiencing issues, this is due to an outage that Adobe are experiencing<br /><br />For more information regarding this please refer to the Adobe status page: https://status.adobe.com/</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 12:02:47 +0000</pubDate>
+<pubDate>Mon, 18 Mar 2024 12:02:47 +0000</pubDate>
+</item>
 
 <item>
 <title>NZ: Payroll - Some users are unable to load timesheets</title>
