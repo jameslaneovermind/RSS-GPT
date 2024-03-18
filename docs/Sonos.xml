@@ -4,18 +4,17 @@
 <title>Sonos Status - Incident History</title>
 <link>https://status.sonos.com</link>
 
+
 <item>
 <title>Radio.net - Browse Issues</title>
 <link>https://status.sonos.com/incidents/pkyq9yk15yt3</link>
 <guid>https://status.sonos.com/incidents/pkyq9yk15yt3</guid>
 <content:encoded><![CDATA[
-<div> [High] - Major Outage on Radio.net for Sonos App <br><br> We've identified a problem with Radio.net on Sonos and are working with them on a fix. You may not be able to browse Radio.net menus in the Sonos app until it’s resolved. Summary: Identified issue with Radio.net on Sonos causing platform downtime, actively working on a fix. <div>
+<div> [High] - Major Outage on Radio.net for Sonos App <br /><br /> We've identified a problem with Radio.net on Sonos and are working with them on a fix. You may not be able to browse Radio.net menus in the Sonos app until it’s resolved. Summary: Identified issue with Radio.net on Sonos causing platform downtime, actively working on a fix. <div>
 <p><small>Mar <var>18</var>, <var>08:52</var> UTC</small><br /><strong>Identified</strong> - We've identified a problem with Radio.net on Sonos and are working with them on a fix. You may not be able to browse Radio.net menus in the Sonos app until it’s resolved.</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 08:52:43 +0000</pubDate>
-<pubDate>Mon, 18 Mar 2024 08:52:43 +0000</pubDate>
 </item>
-
 <item>
 <title>Alexa Voice Control - Functionality Issue with Sonos S1 systems</title>
 <link>https://status.sonos.com/incidents/z5smk2lsglcr</link>
