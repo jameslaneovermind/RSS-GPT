@@ -4,22 +4,21 @@
 <title>Zoom Status - Incident History</title>
 <link>https://status.zoom.us</link>
 
+
 <item>
 <title>Issue with Zoom Contact Center</title>
 <link>https://status.zoom.us/incidents/96xfczsn07sm</link>
 <guid>https://status.zoom.us/incidents/96xfczsn07sm</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Investigation for Zoom Contact Center Call Answering Issue <br><br> We are investigating an issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will provide updates as we have them. Summary: The company is currently investigating an issue with the Zoom Contact Center that is affecting a subset of users' ability to answer calls.
+<div> [Medium] - Investigation for Zoom Contact Center Call Answering Issue <br /><br /> We are investigating an issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will provide updates as we have them. Summary: The company is currently investigating an issue with the Zoom Contact Center that is affecting a subset of users' ability to answer calls.
 
-[High] - Issue Identified for Zoom Contact Center Call Answering Problem <br><br> We have identified the issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will continue to provide updates as we have them. Summary: The company has identified the issue causing a subset of users to be unable to answer calls for Zoom Contact Center, indicating a major problem affecting a subset of users.
+[High] - Issue Identified for Zoom Contact Center Call Answering Problem <br /><br /> We have identified the issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will continue to provide updates as we have them. Summary: The company has identified the issue causing a subset of users to be unable to answer calls for Zoom Contact Center, indicating a major problem affecting a subset of users.
 
-[High] - Resolution for Zoom Contact Center Call Answering Problem <br><br> We have resolved the issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will continue to monitor and provide updates as we have them. Summary: The company has successfully resolved the issue causing a subset of users to be unable to answer calls for Zoom Contact Center, indicating a major problem that has been fixed. <div>
+[High] - Resolution for Zoom Contact Center Call Answering Problem <br /><br /> We have resolved the issue causing a subset of users to be unable to answer calls for Zoom Contact Center. We will continue to monitor and provide updates as we have them. Summary: The company has successfully resolved the issue causing a subset of users to be unable to answer calls for Zoom Contact Center, indicating a major problem that has been fixed. <div>
 <p><small>Mar <var>17</var>, <var>17:39</var> PDT</small><br /><strong>Monitoring</strong> - We have resolved the issue causing a subset of users to be unable to answer calls for Zoom Contact Center.  We will continue to monitor and provide updates as we have them.</p><p><small>Mar <var>17</var>, <var>17:27</var> PDT</small><br /><strong>Identified</strong> - We have identified the issue causing a subset of users to be unable to answer calls for Zoom Contact Center.  We will continue to provide updates as we have them.</p><p><small>Mar <var>17</var>, <var>17:08</var> PDT</small><br /><strong>Investigating</strong> - We are investigating an issue causing a subset of users to be unable to answer calls for Zoom Contact Center.  We will provide updates as we have them.</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 17:39:04 -0700</pubDate>
-<pubDate>Sun, 17 Mar 2024 17:39:04 -0700</pubDate>
 </item>
-
 <item>
 <title>Issue with a subset of users in Europe, Australia, India &amp; Canada unable to access the profile page in their account</title>
 <link>https://status.zoom.us/incidents/7r8gj9k3bq6k</link>

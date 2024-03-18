@@ -4,18 +4,17 @@
 <title>US1 - Anypoint Platform Status - Incident History</title>
 <link>https://status.mulesoft.com</link>
 
+
 <item>
 <title>Anypoint Partner Manager Transmission Status not Visible in UI</title>
 <link>https://status.mulesoft.com/incidents/n105kl5wjc2d</link>
 <guid>https://status.mulesoft.com/incidents/n105kl5wjc2d</guid>
 <content:encoded><![CDATA[
-<div> [Low] - Outbound Transmission Status Display Issue <br><br> Summary: Customers may not see the status of outbound transmission with multiple messages from the Partner Manager activity UI due to a UI issue. Engineers are working on a fix. <div>
+<div> [Low] - Outbound Transmission Status Display Issue <br /><br /> Summary: Customers may not see the status of outbound transmission with multiple messages from the Partner Manager activity UI due to a UI issue. Engineers are working on a fix. <div>
 <p><small>Mar <var>17</var>, <var>17:11</var> PDT</small><br /><strong>Identified</strong> - We have discovered an issue where customers may not be able to see that status of outbound transmission with multiple messages from the Partner Manager activity UI. Transmissions are functioning as expected however the UI is not displaying the status. Engineers have identified this issue and a fix is being implemented.</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 17:11:50 -0700</pubDate>
-<pubDate>Sun, 17 Mar 2024 17:11:50 -0700</pubDate>
 </item>
-
 <item>
 <title>Runtime Manager metrics issues</title>
 <link>https://status.mulesoft.com/incidents/rvns4jylwzhz</link>
