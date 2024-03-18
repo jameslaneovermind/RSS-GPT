@@ -4,6 +4,7 @@
 <title>Typeform Status - Incident History</title>
 <link>https://status.typeform.com</link>
 
+
 <item>
 <title>Typeform Checkout &amp; Create Page - Unavailable</title>
 <link>https://status.typeform.com/incidents/04ydr0r42bdv</link>
@@ -14,9 +15,7 @@ Summary: The company has identified a brief traffic interruption impacting their
 <p><small>Mar <var>18</var>, <var>08:47</var> CET</small><br /><strong>Resolved</strong> - We are glad to inform you that the fix has been implemented and the incident resolved. We will run a problem investigation to understand what happened and how to prevent it from happening again. <br /><br />Thanks for your understanding & sorry for any inconvenience this has caused.</p><p><small>Mar <var>18</var>, <var>08:37</var> CET</small><br /><strong>Identified</strong> - We have identified a brief traffic interruption impacting our checkout page. We are working on a resolution with high priority. <br /><br />Next update in ~30 minutes or as soon as it's available.<br /><br />REF: ZD 749869 | TU-10015</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 08:47:08 +0100</pubDate>
-<pubDate>Mon, 18 Mar 2024 08:47:08 +0100</pubDate>
 </item>
-
 <item>
 <title>Typeform Contact Us Form - Login Redirect not working</title>
 <link>https://status.typeform.com/incidents/cfbbkpnxcn84</link>

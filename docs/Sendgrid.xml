@@ -4,6 +4,7 @@
 <title>SendGrid Status - Incident History</title>
 <link>https://status.sendgrid.com</link>
 
+
 <item>
 <title>Email Activity Exports Not Being Received</title>
 <link>https://status.sendgrid.com/incidents/vczcq7qvdmcr</link>
@@ -14,9 +15,7 @@ Summary: Engineers are investigating an issue with email activity export emails 
 <p><small>Mar <var>18</var>, <var>01:09</var> PDT</small><br /><strong>Investigating</strong> - Starting around 01:00 AM PT on March 18, 2024, our engineers began investigating an issue with email activity export emails might not be received by some customers. Users who are triggering an activity feed export from their SendGrid Account may not receive the subsequent email containing the export. Searching in the activity feed still functions as expected as well as the API endpoints for users with the Email Activity add-on. This does not impact mail send.  We will provide another update in 30 minutes or as soon as more information becomes available.</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 01:09:19 -0700</pubDate>
-<pubDate>Mon, 18 Mar 2024 01:09:19 -0700</pubDate>
 </item>
-
 <item>
 <title>Latencies and timeouts with Whitelabel API</title>
 <link>https://status.sendgrid.com/incidents/0d7f5rp97q2z</link>
