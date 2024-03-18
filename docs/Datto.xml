@@ -4,18 +4,17 @@
 <title>Datto Status - Incident History</title>
 <link>https://status.datto.com</link>
 
+
 <item>
 <title>PSA - LR01  - Intermittent Resource Logouts</title>
 <link>https://status.datto.com/incidents/jpy9hkwk6fcv</link>
 <guid>https://status.datto.com/incidents/jpy9hkwk6fcv</guid>
 <content:encoded><![CDATA[
-<div> [Medium] - Intermittent Logouts in LR01 Zone <br><br> Our teams are currently investigating resources within the LR01 zone experiencing intermittent logouts from Autotask PSA with the message "You are about to exceed the maximum number of active logins associated with this user account." Thank you for your patience! Summary: Investigating reported intermittent logouts in LR01 zone. <div>
+<div> [Medium] - Intermittent Logouts in LR01 Zone <br /><br /> Our teams are currently investigating resources within the LR01 zone experiencing intermittent logouts from Autotask PSA with the message "You are about to exceed the maximum number of active logins associated with this user account." Thank you for your patience! Summary: Investigating reported intermittent logouts in LR01 zone. <div>
 <p><small>Mar <var>18</var>, <var>12:13</var> UTC</small><br /><strong>Investigating</strong> - Our teams are currently investigating resources within the LR01 zone experiencing intermittent logouts from Autotask PSA with the message "You are about to exceed the maximum number of active logins associated with this user account."<br /><br />Thank you for your patience!</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 12:13:38 +0000</pubDate>
-<pubDate>Mon, 18 Mar 2024 12:13:38 +0000</pubDate>
 </item>
-
 <item>
 <title>Datto SaaS Protection - Application Maintenance For US East Region</title>
 <link>https://status.datto.com/incidents/f8qs6yfslz5v</link>
